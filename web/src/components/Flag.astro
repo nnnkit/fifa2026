@@ -1,0 +1,25 @@
+---
+import { flag } from '../lib/data';
+
+interface Props {
+  /** Country name as used in the FLAG map (e.g. "Argentina"). */
+  country: string;
+  size?: 'sm' | 'md' | 'lg' | 'xl';
+  /** Force the neutral "to be decided" tile (knockout placeholders). */
+  placeholder?: boolean;
+  class?: string;
+}
+const { country, size = 'md', placeholder, class: extra = '' } = Astro.props;
+const emoji = flag(country);
+const neutral = placeholder || emoji === '🏳️';
+---
+{neutral ? (
+  <span aria-hidden class={`flag flag-${size} text-ink-300 dark:text-ink-600 ${extra}`}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="h-3.5 w-3.5">
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 7v5l3 2" stroke-linecap="round" />
+    </svg>
+  </span>
+) : (
+  <span aria-hidden class={`flag flag-${size} ${extra}`}>{emoji}</span>
+)}

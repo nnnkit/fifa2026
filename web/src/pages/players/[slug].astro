@@ -1,0 +1,173 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StatusBadge from '../../components/StatusBadge.astro';
+import Flag from '../../components/Flag.astro';
+import {
+  getAllPlayers,
+  getPlayer,
+  getStatus,
+  photoUrl,
+  ageFromDob,
+  relTime,
+  POSITION_LABEL,
+} from '../../lib/data';
+
+export async function getStaticPaths() {
+  return getAllPlayers().map((p) => ({ params: { slug: p.slug } }));
+}
+
+const { slug } = Astro.params;
+const player = getPlayer(slug as string);
+if (!player) {
+  return Astro.redirect('/teams');
+}
+
+const status = getStatus(player.slug);
+const photo = photoUrl(player);
+const age = player.age ?? ageFromDob(player.date_of_birth ?? player.dob ?? null);
+const teamSlug = player.team_slug;
+const teamCountry = player.team_country;
+const club = player.current_club || player.club_from_squad_table || null;
+
+const positionFull = POSITION_LABEL[player.position_code]?.replace(/s$/, '') ?? player.position_code;
+
+const pageTitle = `${player.display_name} — ${teamCountry ?? ''} World Cup 2026`;
+const pageDescription = `${player.display_name}, ${positionFull} for ${teamCountry ?? 'his country'}${club ? `, ${club}` : ''}. 2026 World Cup status, caps, goals, profile.`;
+
+// Some records store height in metres (e.g. 1.77) rather than centimetres.
+const heightCm = player.height_cm
+  ? Math.round(player.height_cm < 3 ? player.height_cm * 100 : player.height_cm)
+  : null;
+
+const statTiles = [
+  { label: 'Age', value: age != null ? String(age) : '—' },
+  { label: 'Caps', value: String(player.caps) },
+  { label: 'Intl goals', value: String(player.goals) },
+  { label: 'Height', value: heightCm ? `${heightCm}cm` : '—' },
+];
+
+const personJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: player.display_name,
+  birthDate: player.date_of_birth ?? undefined,
+  birthPlace: player.place_of_birth ?? undefined,
+  nationality: player.citizenship?.[0],
+  image: photo,
+  jobTitle: `Footballer (${positionFull})`,
+  memberOf: teamCountry
+    ? { '@type': 'SportsTeam', name: `${teamCountry} national football team` }
+    : undefined,
+};
+---
+
+<BaseLayout title={pageTitle} description={pageDescription}>
+  <section class="border-b hairline bg-pitch">
+    <div class="container-page py-8 sm:py-10">
+      <nav aria-label="Breadcrumb" class="mb-4 text-xs text-ink-500 dark:text-ink-400">
+        <a href="/teams" class="hover:text-ink-900 dark:hover:text-ink-50">Teams</a>
+        <span aria-hidden> / </span>
+        {teamSlug && (
+          <>
+            <a href={`/teams/${teamSlug}`} class="hover:text-ink-900 dark:hover:text-ink-50">{teamCountry}</a>
+            <span aria-hidden> / </span>
+          </>
+        )}
+        <span class="text-ink-700 dark:text-ink-200">{player.display_name}</span>
+      </nav>
+
+      <header class="flex flex-col gap-6 sm:flex-row sm:items-center">
+        <div class="h-28 w-28 shrink-0 overflow-hidden rounded-2xl bg-ink-100 ring-1 ring-[--border] sm:h-36 sm:w-36 dark:bg-ink-800">
+          {photo ? (
+            <img src={photo} alt={`Portrait of ${player.display_name}`} width="144" height="144" class="h-full w-full object-cover" />
+          ) : (
+            <div class="flex h-full w-full items-center justify-center text-xl text-ink-300 dark:text-ink-600">
+              {player.display_name.split(' ').map((p) => p[0]).join('').slice(0, 2)}
+            </div>
+          )}
+        </div>
+        <div class="min-w-0 flex-1">
+          <div class="flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-ink-500 dark:text-ink-400">
+            {teamCountry && (
+              <a href={teamSlug ? `/teams/${teamSlug}` : '#'} class="inline-flex items-center gap-1.5 hover:text-accent">
+                <Flag country={teamCountry} size="sm" />{teamCountry}
+              </a>
+            )}
+            <span aria-hidden class="text-ink-300 dark:text-ink-600">·</span>
+            <span>{positionFull}</span>
+            {player.shirt_no != null && (<><span aria-hidden class="text-ink-300 dark:text-ink-600">·</span><span class="tabular">#{player.shirt_no}</span></>)}
+          </div>
+          <h1 class="mt-1.5 text-3xl font-bold tracking-tightish sm:text-5xl">{player.display_name}</h1>
+          <div class="mt-3">
+            <StatusBadge status={status} />
+            {status.reason && (
+              <p class="mt-2 max-w-md text-sm text-ink-600 dark:text-ink-300">
+                {status.reason}
+                {status.last_updated && (<span class="text-ink-400 dark:text-ink-500"> · updated {relTime(status.last_updated)}</span>)}
+              </p>
+            )}
+          </div>
+        </div>
+      </header>
+    </div>
+  </section>
+
+  <div class="container-page py-10">
+    {/* Stat strip */}
+    <dl class="grid grid-cols-2 gap-3 sm:grid-cols-4">
+      {statTiles.map((s) => (
+        <div class="card px-4 py-4">
+          <dt class="text-xxs font-medium uppercase tracking-wider text-ink-500 dark:text-ink-400">{s.label}</dt>
+          <dd class="mt-1 text-2xl font-bold tabular tracking-tightish">{s.value}</dd>
+        </div>
+      ))}
+    </dl>
+
+    {/* Details */}
+    <div class="mt-10 grid gap-10 lg:grid-cols-[1fr_280px]">
+      <section>
+        <h2 class="mb-3 text-xs font-bold uppercase tracking-wider text-ink-500 dark:text-ink-400">Profile</h2>
+        <div class="space-y-3 text-sm leading-relaxed text-ink-700 dark:text-ink-200">
+          {player.description && <p>{player.description}.</p>}
+          {club && (<p>Currently plays his club football for <span class="font-medium">{club}</span>.</p>)}
+          {player.place_of_birth && (
+            <p class="text-ink-500 dark:text-ink-400">
+              Born in {player.place_of_birth}{player.date_of_birth ? `, ${new Date(player.date_of_birth).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })}` : ''}.
+            </p>
+          )}
+        </div>
+
+        {player.wikipedia_url && (
+          <div class="mt-6 flex flex-wrap gap-2 text-sm">
+            <a href={player.wikipedia_url} target="_blank" rel="noopener" class="btn btn-outline btn-sm surface-hover !px-3">Wikipedia ↗</a>
+            {player.transfermarkt_id && (
+              <a href={`https://www.transfermarkt.com/spieler/${player.transfermarkt_id}`} target="_blank" rel="noopener" class="btn btn-outline btn-sm surface-hover !px-3">Transfermarkt ↗</a>
+            )}
+          </div>
+        )}
+
+        {player.photo?.attribution && (
+          <p class="mt-6 text-xxs text-ink-400 dark:text-ink-500">
+            Photo: <span set:html={player.photo.attribution} />.
+            {player.photo.license && <> Licensed {player.photo.license}.</>}
+          </p>
+        )}
+      </section>
+
+      <aside class="space-y-4 lg:sticky lg:top-20 lg:self-start">
+        {teamSlug && teamCountry && (
+          <div class="card p-4">
+            <h3 class="mb-2 text-xxs font-semibold uppercase tracking-wider text-ink-500 dark:text-ink-400">National team</h3>
+            <a href={`/teams/${teamSlug}`} class="flex items-center gap-2.5 hover:text-accent">
+              <Flag country={teamCountry} size="md" />
+              <span class="font-semibold">{teamCountry}</span>
+              <span aria-hidden class="ml-auto text-ink-300 dark:text-ink-600">→</span>
+            </a>
+          </div>
+        )}
+      </aside>
+    </div>
+  </div>
+
+  <script type="application/ld+json" set:html={JSON.stringify(personJsonLd)} />
+</BaseLayout>

@@ -1,0 +1,68 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Flag from '../../components/Flag.astro';
+import { getGroups, getPopulatedTeamSlugs } from '../../lib/data';
+
+const groups = getGroups();
+const groupLetters = Object.keys(groups).sort();
+const populated = new Set(getPopulatedTeamSlugs());
+const populatedCount = groupLetters.reduce(
+  (sum, L) => sum + groups[L].filter((t) => populated.has(t.slug)).length,
+  0,
+);
+---
+
+<BaseLayout
+  title="All 48 teams at the 2026 FIFA World Cup"
+  description="Every nation qualified for the 2026 FIFA World Cup, grouped by group. Tap any team for the full squad with daily-updated availability."
+>
+  <section class="border-b hairline bg-pitch">
+    <div class="container-page py-10 sm:py-14">
+      <div class="eyebrow">48 nations · 12 groups</div>
+      <h1 class="mt-2 text-balance text-3xl font-bold tracking-tightish sm:text-5xl">All teams</h1>
+      <p class="mt-3 max-w-2xl text-pretty text-ink-600 dark:text-ink-300">
+        Every nation in the field, by group. Pick a country for its full squad, daily status
+        badges, and next fixture. {populatedCount} of 48 squads are published; the rest show a
+        placeholder until the final 26 is named.
+      </p>
+      <nav aria-label="Jump to group" class="mt-6 flex flex-wrap gap-1.5">
+        {groupLetters.map((L) => (
+          <a href={`#group-${L.toLowerCase()}`} class="pill !text-ink-600 dark:!text-ink-300 surface-hover">Group {L}</a>
+        ))}
+      </nav>
+    </div>
+  </section>
+
+  <div class="container-page py-10 sm:py-12">
+    <div class="space-y-10">
+      {groupLetters.map((L) => (
+        <section id={`group-${L.toLowerCase()}`} class="scroll-mt-20" aria-labelledby={`g-${L}`}>
+          <h2 id={`g-${L}`} class="mb-3 flex items-center gap-2 text-sm font-bold uppercase tracking-wider text-ink-500 dark:text-ink-400">
+            <span class="inline-flex h-6 w-6 items-center justify-center rounded-md bg-ink-900 text-xs font-bold text-white dark:bg-ink-50 dark:text-ink-900">{L}</span>
+            Group {L}
+          </h2>
+          <ul class="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
+            {groups[L].map((t) => {
+              const has = populated.has(t.slug);
+              return (
+                <li>
+                  <a href={`/teams/${t.slug}`} class="card card-hover flex h-full items-center gap-3 p-3.5">
+                    <Flag country={t.country} size="lg" />
+                    <span class="min-w-0 flex-1">
+                      <span class="block truncate font-semibold leading-tight">{t.country}</span>
+                      <span class={`mt-0.5 inline-flex items-center gap-1 text-xxs font-semibold uppercase tracking-wider ${has ? 'text-status-available' : 'text-ink-400 dark:text-ink-500'}`}>
+                        <span class={`h-1.5 w-1.5 rounded-full ${has ? 'bg-status-available' : 'bg-ink-300 dark:bg-ink-600'}`}></span>
+                        {has ? 'Squad available' : 'Pre-squad'}
+                      </span>
+                    </span>
+                    <span aria-hidden class="text-ink-300 dark:text-ink-600">→</span>
+                  </a>
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

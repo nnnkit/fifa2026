@@ -1,0 +1,86 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Flag from '../components/Flag.astro';
+import { getGroups, getPopulatedTeamSlugs } from '../lib/data';
+
+const groups = getGroups();
+const groupLetters = Object.keys(groups).sort();
+const populated = new Set(getPopulatedTeamSlugs());
+
+const cols = ['P', 'W', 'D', 'L', 'GD', 'Pts'];
+---
+
+<BaseLayout
+  title="World Cup 2026 Groups"
+  description="All 12 groups of the 2026 FIFA World Cup with the four teams in each. Standings update once the tournament begins."
+>
+  <section class="border-b hairline bg-pitch">
+    <div class="container-page py-10 sm:py-14">
+      <div class="eyebrow">12 groups · 48 teams</div>
+      <h1 class="mt-2 text-balance text-3xl font-bold tracking-tightish sm:text-5xl">Groups &amp; standings</h1>
+      <p class="mt-3 max-w-2xl text-pretty text-ink-600 dark:text-ink-300">
+        The 2026 World Cup expands to 48 teams across 12 groups of four. The top two from each
+        group, plus the eight best third-placed teams, advance to the Round of 32. Live standings
+        light up once the group stage kicks off on 11 June 2026.
+      </p>
+    </div>
+  </section>
+
+  <div class="container-page py-10 sm:py-12">
+    <div class="grid gap-4 md:grid-cols-2">
+      {groupLetters.map((L) => (
+        <section id={`group-${L.toLowerCase()}`} class="card scroll-mt-20 overflow-hidden">
+          <div class="flex items-center justify-between border-b hairline px-4 py-3">
+            <h2 class="flex items-center gap-2 text-sm font-bold tracking-tightish">
+              <span class="inline-flex h-6 w-6 items-center justify-center rounded-md bg-ink-900 text-xs font-bold text-white dark:bg-ink-50 dark:text-ink-900">{L}</span>
+              Group {L}
+            </h2>
+            <span class="text-xxs uppercase tracking-wider text-ink-400 dark:text-ink-500">
+              Standings · 11 Jun
+            </span>
+          </div>
+
+          <table class="w-full text-sm">
+            <thead>
+              <tr class="text-xxs font-semibold uppercase tracking-wider text-ink-400 dark:text-ink-500">
+                <th class="w-6 py-2 pl-4 text-left font-semibold">#</th>
+                <th class="py-2 pl-2 text-left font-semibold">Team</th>
+                {cols.map((c) => (
+                  <th class="w-7 py-2 text-center font-semibold tabular">{c}</th>
+                ))}
+                <th class="w-3 pr-4"></th>
+              </tr>
+            </thead>
+            <tbody>
+              {groups[L].map((t, i) => (
+                <tr class="border-t hairline">
+                  <td class="py-2 pl-4 text-left tabular text-ink-400 dark:text-ink-500">{i + 1}</td>
+                  <td class="py-2 pl-2">
+                    <a href={`/teams/${t.slug}`} class="flex items-center gap-2.5 hover:text-accent">
+                      <Flag country={t.country} size="sm" />
+                      <span class="min-w-0">
+                        <span class="block truncate font-medium leading-tight">{t.country}</span>
+                        {!populated.has(t.slug) && (
+                          <span class="block text-xxs uppercase tracking-wider text-ink-400 dark:text-ink-500">Pre-squad</span>
+                        )}
+                      </span>
+                    </a>
+                  </td>
+                  {cols.map((c) => (
+                    <td class="py-2 text-center tabular text-ink-300 dark:text-ink-600">{c === 'GD' ? '—' : '0'}</td>
+                  ))}
+                  <td class="pr-4"></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </section>
+      ))}
+    </div>
+
+    <p class="mt-8 max-w-2xl text-xs text-ink-400 dark:text-ink-500">
+      Played, won, drawn, lost, goal difference, and points all read zero until the first whistle.
+      Tap any nation for its full squad, daily availability, and group fixtures.
+    </p>
+  </div>
+</BaseLayout>

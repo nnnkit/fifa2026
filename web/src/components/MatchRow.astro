@@ -1,0 +1,83 @@
+---
+import { stageMeta, type ScheduleMatch } from '../lib/data';
+import { hostTime, utcTime, hostDate, hostWeekday, teamName, teamSub, groupShort } from '../lib/format';
+import Flag from './Flag.astro';
+
+interface Props {
+  match: ScheduleMatch;
+  /** Prefix the kickoff time with the host date (used in flat, ungrouped lists). */
+  showDate?: boolean;
+  id?: string;
+}
+const { match, showDate = false, id } = Astro.props;
+
+const stage = stageMeta(match.stage);
+const isFinal = match.stage === 'Final';
+const grp = groupShort(match.group);
+const homeHref = match.home.slug ? `/teams/${match.home.slug}` : null;
+const awayHref = match.away.slug ? `/teams/${match.away.slug}` : null;
+const anchorId = id ?? `match-${match.matchNumber}`;
+const HomeTag = homeHref ? 'a' : 'div';
+const AwayTag = awayHref ? 'a' : 'div';
+---
+<article
+  id={anchorId}
+  class={`card card-hover scroll-mt-24 overflow-hidden ${isFinal ? 'ring-1 ring-amber-400/40' : ''}`}
+>
+  <div class="flex items-center justify-between gap-2 border-b hairline px-3 py-2 sm:px-4">
+    <div class="flex items-center gap-1.5">
+      <span class={`stage-pill ${stage.pill}`}>{stage.short}</span>
+      {grp && <span class="pill">{grp}</span>}
+      <span class="font-mono text-xxs tabular text-ink-400 dark:text-ink-500">#{match.matchNumber}</span>
+    </div>
+    <div class="text-xxs tabular text-ink-500 dark:text-ink-400">
+      {showDate && (
+        <span class="font-semibold text-ink-700 dark:text-ink-200">{hostWeekday(match)} {hostDate(match)} · </span>
+      )}
+      <time datetime={match.dateUtc}>{utcTime(match)}</time>
+    </div>
+  </div>
+
+  <div class="grid grid-cols-[1fr_auto_1fr] items-center gap-2 px-3 py-4 sm:gap-3 sm:px-4">
+    {/* Home — right aligned toward the centre */}
+    <div class="min-w-0 text-right">
+      <HomeTag {...(homeHref ? { href: homeHref } : {})}
+        class={`flex min-w-0 items-center justify-end gap-2.5 ${homeHref ? 'hover:text-accent' : ''}`}>
+        <span class="min-w-0">
+          <span class="block truncate font-semibold leading-tight">{teamName(match.home)}</span>
+          <span class="block text-xxs tabular text-ink-400 dark:text-ink-500">{teamSub(match.home)}</span>
+        </span>
+        <Flag country={match.home.name} size="md" />
+      </HomeTag>
+    </div>
+
+    {/* Kickoff (host-local) */}
+    <div class="flex flex-col items-center px-1">
+      <span class="rounded-md bg-ink-900 px-2.5 py-1 text-sm font-bold tabular text-white dark:bg-ink-50 dark:text-ink-900">
+        {hostTime(match)}
+      </span>
+      <span class="mt-1 text-[10px] uppercase tracking-wider text-ink-400 dark:text-ink-500">local</span>
+    </div>
+
+    {/* Away — left aligned from the centre */}
+    <div class="min-w-0">
+      <AwayTag {...(awayHref ? { href: awayHref } : {})}
+        class={`flex min-w-0 items-center gap-2.5 ${awayHref ? 'hover:text-accent' : ''}`}>
+        <Flag country={match.away.name} size="md" />
+        <span class="min-w-0">
+          <span class="block truncate font-semibold leading-tight">{teamName(match.away)}</span>
+          <span class="block text-xxs tabular text-ink-400 dark:text-ink-500">{teamSub(match.away)}</span>
+        </span>
+      </AwayTag>
+    </div>
+  </div>
+
+  <div class="flex items-center gap-1.5 border-t hairline px-3 py-2 text-xs text-ink-500 dark:text-ink-400 sm:px-4">
+    <svg viewBox="0 0 16 16" class="h-3.5 w-3.5 shrink-0 opacity-70" fill="currentColor" aria-hidden>
+      <path d="M8 1.5a4.5 4.5 0 0 0-4.5 4.5c0 3.2 4.5 8.5 4.5 8.5s4.5-5.3 4.5-8.5A4.5 4.5 0 0 0 8 1.5Zm0 6.25A1.75 1.75 0 1 1 8 4.25a1.75 1.75 0 0 1 0 3.5Z"/>
+    </svg>
+    <span class="truncate font-medium text-ink-700 dark:text-ink-200">{match.venue}</span>
+    <span aria-hidden class="text-ink-300 dark:text-ink-600">·</span>
+    <span class="shrink-0">{match.city}</span>
+  </div>
+</article>

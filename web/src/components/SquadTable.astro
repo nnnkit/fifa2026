@@ -1,0 +1,126 @@
+---
+import {
+  sortSquad,
+  POSITION_LABEL,
+  photoUrl,
+  ageFromDob,
+  getStatus,
+  type PlayerRecord,
+} from '../lib/data';
+import StatusBadge from './StatusBadge.astro';
+
+interface Props {
+  players: PlayerRecord[];
+}
+const { players } = Astro.props;
+
+const sorted = sortSquad(players);
+
+const byPos: Record<string, PlayerRecord[]> = { GK: [], DF: [], MF: [], FW: [] };
+for (const p of sorted) {
+  (byPos[p.position_code] ??= []).push(p);
+}
+const positionKeys = ['GK', 'DF', 'MF', 'FW'].filter((k) => (byPos[k] ?? []).length > 0);
+
+// Positional accent dots.
+const POS_DOT: Record<string, string> = {
+  GK: 'bg-amber-500',
+  DF: 'bg-sky-500',
+  MF: 'bg-emerald-500',
+  FW: 'bg-rose-500',
+};
+---
+
+<div class="space-y-8">
+  {positionKeys.map((pk) => (
+    <section aria-labelledby={`pos-${pk}`}>
+      <h3 id={`pos-${pk}`} class="mb-2.5 flex items-center gap-2 text-xs font-bold uppercase tracking-wider">
+        <span class={`h-2 w-2 rounded-full ${POS_DOT[pk] ?? 'bg-ink-400'}`}></span>
+        <span>{POSITION_LABEL[pk]}</span>
+        <span aria-hidden class="font-normal text-ink-300 dark:text-ink-600">·</span>
+        <span class="font-normal tabular text-ink-400 dark:text-ink-500">{byPos[pk].length}</span>
+      </h3>
+
+      {/* Desktop: real table inside a card. */}
+      <div class="card hidden overflow-hidden sm:block">
+        <table class="w-full text-sm">
+          <thead>
+            <tr class="border-b hairline text-left text-xxs font-semibold uppercase tracking-wider text-ink-400 dark:text-ink-500">
+              <th class="w-12 py-2.5 pl-4"></th>
+              <th class="w-10 py-2.5 text-right tabular">#</th>
+              <th class="py-2.5 pl-3">Player</th>
+              <th class="py-2.5 text-right tabular">Age</th>
+              <th class="py-2.5 pl-4">Club</th>
+              <th class="py-2.5 text-right tabular">Caps</th>
+              <th class="py-2.5 pr-4 text-right tabular">Goals</th>
+              <th class="py-2.5 pl-4 pr-4">Status</th>
+            </tr>
+          </thead>
+          <tbody>
+            {byPos[pk].map((p) => {
+              const status = getStatus(p.slug);
+              const photo = photoUrl(p);
+              const age = p.age ?? ageFromDob(p.date_of_birth ?? p.dob ?? null);
+              const club = p.current_club || p.club_from_squad_table || '—';
+              return (
+                <tr class="border-b border-[--border] last:border-0 surface-hover">
+                  <td class="py-2 pl-4">
+                    <div class="h-9 w-9 overflow-hidden rounded-full bg-ink-100 ring-1 ring-[--border] dark:bg-ink-800">
+                      {photo ? (
+                        <img src={photo} alt="" width="36" height="36" loading="lazy" decoding="async" class="h-9 w-9 object-cover" />
+                      ) : null}
+                    </div>
+                  </td>
+                  <td class="py-2 pr-1 text-right tabular font-semibold text-ink-500 dark:text-ink-400">{p.shirt_no ?? '—'}</td>
+                  <td class="py-2 pl-3">
+                    <a href={`/players/${p.slug}`} class="font-medium hover:text-accent">{p.display_name}</a>
+                  </td>
+                  <td class="py-2 text-right tabular text-ink-500 dark:text-ink-400">{age ?? '—'}</td>
+                  <td class="py-2 pl-4 text-ink-600 dark:text-ink-300">{club}</td>
+                  <td class="py-2 text-right tabular text-ink-500 dark:text-ink-400">{p.caps}</td>
+                  <td class="py-2 pr-4 text-right tabular text-ink-500 dark:text-ink-400">{p.goals}</td>
+                  <td class="py-2 pl-4 pr-4"><StatusBadge status={status} /></td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+
+      {/* Mobile card list */}
+      <ul class="card divide-y hairline sm:hidden">
+        {byPos[pk].map((p) => {
+          const status = getStatus(p.slug);
+          const photo = photoUrl(p);
+          const age = p.age ?? ageFromDob(p.date_of_birth ?? p.dob ?? null);
+          const club = p.current_club || p.club_from_squad_table || '—';
+          return (
+            <li class="p-3">
+              <a href={`/players/${p.slug}`} class="flex items-center gap-3">
+                <div class="h-11 w-11 shrink-0 overflow-hidden rounded-full bg-ink-100 ring-1 ring-[--border] dark:bg-ink-800">
+                  {photo ? (
+                    <img src={photo} alt="" width="44" height="44" loading="lazy" decoding="async" class="h-11 w-11 object-cover" />
+                  ) : null}
+                </div>
+                <div class="min-w-0 flex-1">
+                  <div class="flex items-baseline gap-2">
+                    <span class="w-5 shrink-0 tabular text-xs font-semibold text-ink-400">{p.shirt_no ?? '—'}</span>
+                    <span class="truncate font-medium">{p.display_name}</span>
+                  </div>
+                  <div class="ml-7 flex items-center gap-2 text-xs text-ink-500 dark:text-ink-400">
+                    <span class="min-w-0 flex-1 truncate">{club}</span>
+                    <span aria-hidden>·</span>
+                    <span class="tabular whitespace-nowrap">{age ?? '—'}y</span>
+                    <span aria-hidden>·</span>
+                    <span class="tabular whitespace-nowrap">{p.caps}c · {p.goals}g</span>
+                  </div>
+                </div>
+                <StatusBadge status={status} compact />
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  ))}
+</div>

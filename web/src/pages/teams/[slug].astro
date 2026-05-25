@@ -1,0 +1,255 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SquadTable from '../../components/SquadTable.astro';
+import StatusBadge from '../../components/StatusBadge.astro';
+import MatchRow from '../../components/MatchRow.astro';
+import Flag from '../../components/Flag.astro';
+import {
+  getAllTeamMeta,
+  getTeam,
+  getGroups,
+  flag,
+  relTime,
+  ageFromDob,
+  getStatus,
+  getNextTeamMatch,
+  getTeamMatches,
+  daysUntil,
+  type PlayerRecord,
+  type ScheduleMatch,
+} from '../../lib/data';
+import { hostTime, longDateFromKey } from '../../lib/format';
+
+export async function getStaticPaths() {
+  return getAllTeamMeta().map((t) => ({ params: { slug: t.slug } }));
+}
+
+const { slug } = Astro.params;
+const meta = getAllTeamMeta().find((t) => t.slug === slug)!;
+const team = getTeam(slug as string);
+const groups = getGroups();
+const groupTeams = groups[meta.group] ?? [];
+const teamFixtures = getTeamMatches(slug as string);
+const nextFixture = getNextTeamMatch(slug as string, new Date('2026-05-25T00:00:00Z'));
+
+// Recent status changes for this team
+const recent: Array<{ player: PlayerRecord; status: ReturnType<typeof getStatus> }> = [];
+if (team) {
+  for (const p of team.players) {
+    const s = getStatus(p.slug);
+    if (s.status !== 'available') recent.push({ player: p, status: s });
+  }
+  recent.sort((a, b) => (b.status.last_updated ?? '').localeCompare(a.status.last_updated ?? ''));
+}
+
+// Squad aggregates
+const ages = team
+  ? team.players.map((p) => p.age ?? ageFromDob(p.date_of_birth ?? p.dob ?? null)).filter((a): a is number => typeof a === 'number')
+  : [];
+const avgAge = ages.length ? Math.round((ages.reduce((s, a) => s + a, 0) / ages.length) * 10) / 10 : null;
+const totalCaps = team ? team.players.reduce((s, p) => s + (p.caps ?? 0), 0) : 0;
+
+const updatedRel = team ? relTime(team.fetched_at) : '';
+const pageTitle = `${meta.country} World Cup 2026 Squad`;
+const pageDescription = team
+  ? `Full 2026 FIFA World Cup squad for ${meta.country}: ${team.squad_size} players with baseline availability and sourced status updates. Group ${meta.group}.`
+  : `${meta.country}'s 2026 FIFA World Cup squad. Group ${meta.group}. Squad list published as soon as the final 26 is named.`;
+
+function opponentFor(match: ScheduleMatch, teamSlug: string) {
+  return match.home.slug === teamSlug ? match.away : match.home;
+}
+const nextOpponent = nextFixture ? opponentFor(nextFixture, slug as string) : null;
+const daysToNext = nextFixture ? daysUntil(nextFixture.dateUtc, new Date('2026-05-25T00:00:00Z')) : null;
+
+// JSON-LD
+const sportsTeam = team && {
+  '@context': 'https://schema.org',
+  '@type': 'SportsTeam',
+  name: `${meta.country} national football team`,
+  sport: 'Football',
+  athlete: team.players.slice(0, 26).map((p) => ({
+    '@type': 'Person',
+    name: p.display_name,
+    url: `https://fifa2026squads.com/players/${p.slug}`,
+  })),
+};
+
+const statTiles = team
+  ? [
+      { label: 'Players', value: String(team.squad_size) },
+      { label: 'Avg age', value: avgAge != null ? String(avgAge) : '—' },
+      { label: 'Total caps', value: totalCaps.toLocaleString('en-US') },
+      { label: 'Group', value: meta.group },
+    ]
+  : [];
+---
+
+<BaseLayout title={pageTitle} description={pageDescription}>
+  {/* Header */}
+  <section class="border-b hairline bg-pitch">
+    <div class="container-page py-8 sm:py-10">
+      <nav aria-label="Breadcrumb" class="mb-4 text-xs text-ink-500 dark:text-ink-400">
+        <a href="/teams" class="hover:text-ink-900 dark:hover:text-ink-50">Teams</a>
+        <span aria-hidden> / </span>
+        <a href={`/groups#group-${meta.group.toLowerCase()}`} class="hover:text-ink-900 dark:hover:text-ink-50">Group {meta.group}</a>
+        <span aria-hidden> / </span>
+        <span class="text-ink-700 dark:text-ink-200">{meta.country}</span>
+      </nav>
+
+      <div class="flex items-center gap-4">
+        <Flag country={meta.country} size="xl" />
+        <div class="min-w-0 flex-1">
+          <h1 class="text-3xl font-bold tracking-tightish sm:text-5xl">{meta.country}</h1>
+          <p class="mt-1 text-sm text-ink-500 dark:text-ink-400">
+            2026 FIFA World Cup · Group {meta.group}
+            {team && (<><span aria-hidden> · </span><span>{team.squad_size}-player squad</span></>)}
+          </p>
+          {team && (
+            <div class="mt-2 flex flex-wrap items-center gap-2 text-xs font-medium text-ink-500 dark:text-ink-400">
+              <span class="inline-flex items-center gap-1.5">
+                <span class="inline-flex h-1.5 w-1.5 rounded-full bg-status-available"></span>
+                Updated {updatedRel}
+              </span>
+              <span aria-hidden class="text-ink-300 dark:text-ink-600">·</span>
+              <a class="prose-link" href={team.source.url} target="_blank" rel="noopener">{team.source.title}</a>
+            </div>
+          )}
+        </div>
+      </div>
+
+      {team && (
+        <dl class="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
+          {statTiles.map((s) => (
+            <div class="card px-4 py-3">
+              <dt class="text-xxs font-medium uppercase tracking-wider text-ink-500 dark:text-ink-400">{s.label}</dt>
+              <dd class="mt-1 text-2xl font-bold tabular tracking-tightish">{s.value}</dd>
+            </div>
+          ))}
+        </dl>
+      )}
+    </div>
+  </section>
+
+  <div class="container-page grid gap-10 py-10 lg:grid-cols-[1fr_300px]">
+    {/* Squad */}
+    <div class="min-w-0">
+      {team ? (
+        <>
+          <div class="mb-6 flex items-baseline justify-between gap-4">
+            <h2 class="text-xl font-bold tracking-tightish sm:text-2xl">Squad</h2>
+            <div class="text-xs text-ink-500 dark:text-ink-400">
+              <span class="hidden sm:inline">Tap any badge for status detail · </span>
+              <a href="/about#status" class="prose-link">Status legend</a>
+            </div>
+          </div>
+          <SquadTable players={team.players} />
+        </>
+      ) : (
+        <div class="card p-8">
+          <h2 class="text-xl font-bold tracking-tightish">Squad coming soon</h2>
+          <p class="mt-2 max-w-md text-sm text-ink-600 dark:text-ink-300">
+            {meta.country}'s 26-player squad is named by the head coach roughly 10 days before
+            kickoff. We&apos;ll publish it within minutes of the official announcement, with
+            per-player status badges from day one.
+          </p>
+          <a href="/teams" class="btn btn-outline btn-sm surface-hover mt-4">← Back to all teams</a>
+        </div>
+      )}
+    </div>
+
+    {/* Sidebar */}
+    <aside class="space-y-4 lg:sticky lg:top-20 lg:self-start">
+      {/* Next fixture — prominent */}
+      <div class="card overflow-hidden">
+        <div class="flex items-center justify-between border-b hairline px-4 py-2.5">
+          <h3 class="text-xxs font-semibold uppercase tracking-wider text-ink-500 dark:text-ink-400">Next fixture</h3>
+          {daysToNext != null && (
+            <span class="text-xxs font-semibold uppercase tracking-wider text-accent">in {daysToNext} days</span>
+          )}
+        </div>
+        {nextFixture && nextOpponent ? (
+          <a href={`/schedule#match-${nextFixture.matchNumber}`} class="block p-4 hover:text-accent">
+            <div class="text-xxs uppercase tracking-wider text-ink-400 dark:text-ink-500">vs</div>
+            <div class="mt-1 flex items-center gap-2.5">
+              <Flag country={nextOpponent.name} size="md" placeholder={!!nextOpponent.placeholder} />
+              <span class="truncate text-lg font-bold tracking-tightish">{nextOpponent.placeholder ? 'TBD' : nextOpponent.name}</span>
+            </div>
+            <div class="mt-3 text-sm tabular text-ink-600 dark:text-ink-300">
+              {longDateFromKey((nextFixture.localDate ?? nextFixture.dateUtc).slice(0, 10))}
+            </div>
+            <div class="mt-0.5 text-sm tabular text-ink-500 dark:text-ink-400">{hostTime(nextFixture)} local kickoff</div>
+            <div class="mt-1 text-sm text-ink-500 dark:text-ink-400">{nextFixture.venue}, {nextFixture.city}</div>
+          </a>
+        ) : (
+          <p class="p-4 text-sm text-ink-500 dark:text-ink-400">No remaining fixtures in the current schedule.</p>
+        )}
+      </div>
+
+      {/* Group standings */}
+      <div class="card overflow-hidden">
+        <h3 class="px-4 pb-1 pt-3 text-xxs font-semibold uppercase tracking-wider text-ink-500 dark:text-ink-400">
+          Group {meta.group}
+        </h3>
+        <ul class="p-1.5 pt-0.5 text-sm">
+          {groupTeams.map((t) => {
+            const isThis = t.slug === slug;
+            return (
+              <li>
+                <a
+                  href={`/teams/${t.slug}`}
+                  class={`flex items-center gap-2.5 rounded-lg px-2.5 py-1.5 ${isThis ? 'bg-accent/[0.08] font-semibold' : 'surface-hover text-ink-600 hover:text-ink-900 dark:text-ink-300 dark:hover:text-ink-50'}`}
+                  aria-current={isThis ? 'true' : undefined}
+                >
+                  <Flag country={t.country} size="sm" />
+                  <span class="truncate">{t.country}</span>
+                  {isThis && <span aria-hidden class="ml-auto text-accent">●</span>}
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
+
+      {/* Recent status changes */}
+      {recent.length > 0 && (
+        <div class="card overflow-hidden">
+          <h3 class="border-b hairline px-4 py-2.5 text-xxs font-semibold uppercase tracking-wider text-ink-500 dark:text-ink-400">
+            Recent status changes
+          </h3>
+          <ul class="divide-y hairline text-sm">
+            {recent.map(({ player, status }) => (
+              <li class="px-4 py-3">
+                <div class="flex items-center gap-2">
+                  <StatusBadge status={status} compact />
+                  <a href={`/players/${player.slug}`} class="truncate font-medium hover:text-accent">{player.display_name}</a>
+                </div>
+                {status.reason && <p class="mt-1 text-xs text-ink-500 dark:text-ink-400">{status.reason}</p>}
+                <time class="mt-0.5 block text-xxs tabular text-ink-400 dark:text-ink-500">{relTime(status.last_updated)}</time>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </aside>
+  </div>
+
+  {/* Fixtures */}
+  {teamFixtures.length > 0 && (
+    <section class="border-t hairline bg-[--bg]">
+      <div class="container-page py-12">
+        <div class="mb-5 flex items-end justify-between gap-4">
+          <div>
+            <div class="eyebrow">Group {meta.group} schedule</div>
+            <h2 class="mt-1.5 text-xl font-bold tracking-tightish sm:text-2xl">{meta.country}'s fixtures</h2>
+          </div>
+          <a href="/schedule" class="text-sm prose-link shrink-0">Full schedule →</a>
+        </div>
+        <div class="grid gap-3 lg:grid-cols-2">
+          {teamFixtures.map((match) => <MatchRow match={match} showDate />)}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {sportsTeam && <script type="application/ld+json" set:html={JSON.stringify(sportsTeam)} />}
+</BaseLayout>

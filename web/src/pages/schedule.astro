@@ -1,0 +1,403 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import MatchRow from '../components/MatchRow.astro';
+import Flag from '../components/Flag.astro';
+import {
+  getAllMatches,
+  getScheduleData,
+  stageMeta,
+  daysUntil,
+  type ScheduleMatch,
+} from '../lib/data';
+import {
+  hostTime,
+  longDateFromKey,
+  monthLabel,
+  teamName,
+} from '../lib/format';
+
+const schedule = getScheduleData();
+const matches = getAllMatches();
+const openingMatch = matches[0];
+const finalMatch = matches.find((m) => m.stage === 'Final') ?? matches[matches.length - 1];
+const groupMatches = matches.filter((m) => m.stage === 'Group stage');
+const knockoutMatches = matches.filter((m) => m.stage !== 'Group stage');
+const hostCities = new Set(matches.map((m) => m.city)).size;
+const venueCount = new Set(matches.map((m) => m.venue)).size;
+const daysToKickoff = daysUntil(openingMatch.dateUtc);
+
+const TODAY_KEY = new Date().toISOString().slice(0, 10);
+
+type CalendarDay = { key: string; matches: ScheduleMatch[] };
+type CalendarCell = {
+  key: string | null;
+  dayNumber: number | null;
+  matches: ScheduleMatch[];
+  isToday: boolean;
+};
+type CalendarMonth = {
+  key: string;
+  days: CalendarDay[];
+  weeks: CalendarCell[][];
+  matchCount: number;
+};
+
+const WEEKDAYS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+
+function hostDateKey(match: ScheduleMatch): string {
+  return (match.localDate ?? match.dateUtc).slice(0, 10);
+}
+
+const daysByKey = new Map<string, ScheduleMatch[]>();
+for (const match of matches) {
+  const key = hostDateKey(match);
+  const dayMatches = daysByKey.get(key) ?? [];
+  dayMatches.push(match);
+  daysByKey.set(key, dayMatches);
+}
+
+const monthsByKey = new Map<string, CalendarDay[]>();
+for (const [key, dayMatches] of daysByKey.entries()) {
+  const monthKey = key.slice(0, 7);
+  const monthDays = monthsByKey.get(monthKey) ?? [];
+  monthDays.push({ key, matches: dayMatches });
+  monthsByKey.set(monthKey, monthDays);
+}
+
+function buildMonthWeeks(monthKey: string): CalendarCell[][] {
+  const [year, month] = monthKey.split('-').map(Number);
+  const monthIndex = month - 1;
+  const firstDay = new Date(Date.UTC(year, monthIndex, 1)).getUTCDay();
+  const daysInMonth = new Date(Date.UTC(year, monthIndex + 1, 0)).getUTCDate();
+  const cells: CalendarCell[] = [];
+
+  for (let i = 0; i < firstDay; i += 1) {
+    cells.push({ key: null, dayNumber: null, matches: [], isToday: false });
+  }
+
+  for (let day = 1; day <= daysInMonth; day += 1) {
+    const key = `${monthKey}-${String(day).padStart(2, '0')}`;
+    cells.push({
+      key,
+      dayNumber: day,
+      matches: daysByKey.get(key) ?? [],
+      isToday: key === TODAY_KEY,
+    });
+  }
+
+  while (cells.length % 7 !== 0) {
+    cells.push({ key: null, dayNumber: null, matches: [], isToday: false });
+  }
+
+  const weeks: CalendarCell[][] = [];
+  for (let i = 0; i < cells.length; i += 7) {
+    weeks.push(cells.slice(i, i + 7));
+  }
+  return weeks;
+}
+
+const months: CalendarMonth[] = Array.from(monthsByKey.entries())
+  .sort(([a], [b]) => a.localeCompare(b))
+  .map(([key, days]) => {
+    const sortedDays = [...days].sort((a, b) => a.key.localeCompare(b.key));
+    return {
+      key,
+      days: sortedDays,
+      weeks: buildMonthWeeks(key),
+      matchCount: sortedDays.reduce((sum, day) => sum + day.matches.length, 0),
+    };
+  });
+
+const knockoutStages = ['Round of 32', 'Round of 16', 'Quarter-final', 'Semi-final', 'Final'];
+
+function chipCode(t: ScheduleMatch['home']): string {
+  return t.placeholder ?? t.code;
+}
+---
+
+<BaseLayout
+  title="FIFA World Cup 2026 Schedule Calendar"
+  description="Complete FIFA World Cup 2026 schedule calendar with all 104 matches, host dates, kickoff times, groups, venues, and knockout placeholders."
+>
+  {/* Hero */}
+  <section class="border-b hairline bg-pitch">
+    <div class="container-page py-10 sm:py-14">
+      <div class="grid gap-8 lg:grid-cols-[1fr_minmax(0,420px)] lg:items-end">
+        <div>
+          <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs font-semibold uppercase tracking-wider text-ink-500 dark:text-ink-400">
+            <span class="inline-flex items-center gap-1.5">
+              <span class="inline-flex h-1.5 w-1.5 rounded-full bg-status-available"></span>
+              {daysToKickoff} days to kickoff
+            </span>
+            <span aria-hidden class="text-ink-300 dark:text-ink-600">·</span>
+            <span>11 June – 19 July 2026</span>
+            <span aria-hidden class="text-ink-300 dark:text-ink-600">·</span>
+            <span>USA · Canada · Mexico</span>
+          </div>
+          <h1 class="mt-3 max-w-3xl text-balance text-3xl font-bold tracking-tightish sm:text-5xl">
+            World Cup 2026 schedule
+          </h1>
+          <p class="mt-3 max-w-2xl text-pretty text-base text-ink-600 dark:text-ink-300 sm:text-lg">
+            All 104 fixtures across 16 host cities. Grouped by host-local matchday, with the
+            UTC kickoff on every game. Knockout rounds fill in as groups are decided.
+          </p>
+          <div class="mt-6 flex flex-wrap gap-2">
+            <a href="#fixtures" class="btn btn-primary btn-sm">Browse fixtures</a>
+            <a href="#calendar" class="btn btn-outline btn-sm surface-hover">Calendar grid</a>
+            <a href="#knockouts" class="btn btn-outline btn-sm surface-hover">Knockout path</a>
+          </div>
+        </div>
+
+        {/* Opening + Final feature cards */}
+        <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-1">
+          {[
+            { match: openingMatch, label: 'Opening match' },
+            { match: finalMatch, label: 'Final' },
+          ].map(({ match, label }) => {
+            const stage = stageMeta(match.stage);
+            return (
+              <a href={`#match-${match.matchNumber}`} class="card card-hover block p-4">
+                <div class="flex items-center justify-between">
+                  <span class={`stage-pill ${stage.pill}`}>{label}</span>
+                  <span class="text-xxs tabular text-ink-500 dark:text-ink-400">
+                    {longDateFromKey(hostDateKey(match))}
+                  </span>
+                </div>
+                <div class="mt-3 flex items-center gap-2.5">
+                  <Flag country={match.home.name} size="md" />
+                  <span class="min-w-0 flex-1 truncate font-semibold">{teamName(match.home)}</span>
+                  <span class="text-xs font-semibold text-ink-400 dark:text-ink-500">v</span>
+                  <span class="min-w-0 flex-1 truncate text-right font-semibold">{teamName(match.away)}</span>
+                  <Flag country={match.away.name} size="md" />
+                </div>
+                <div class="mt-2 text-xs text-ink-500 dark:text-ink-400">
+                  {hostTime(match)} local · {match.venue}, {match.city}
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {/* Stat band */}
+  <section class="container-page py-6">
+    <dl class="grid grid-cols-2 gap-3 sm:grid-cols-4">
+      {[
+        { label: 'Matches', value: matches.length },
+        { label: 'Group games', value: groupMatches.length },
+        { label: 'Knockout games', value: knockoutMatches.length },
+        { label: 'Host cities', value: hostCities },
+      ].map((stat) => (
+        <div class="card px-4 py-3.5">
+          <dt class="text-xxs font-medium uppercase tracking-wider text-ink-500 dark:text-ink-400">{stat.label}</dt>
+          <dd class="mt-1 text-2xl font-bold tabular tracking-tightish">{stat.value}</dd>
+        </div>
+      ))}
+    </dl>
+  </section>
+
+  {/* Sticky toolbar */}
+  <div class="sticky top-14 z-20 border-y hairline backdrop-blur bg-blur">
+    <div class="container-page flex items-center gap-3 overflow-x-auto py-2.5">
+      <span class="shrink-0 text-xxs font-semibold uppercase tracking-wider text-ink-400 dark:text-ink-500">Jump to</span>
+      <nav aria-label="Schedule sections" class="flex shrink-0 items-center gap-1.5 text-sm">
+        {months.map((month) => (
+          <a href={`#month-${month.key}`} class="pill !text-ink-600 dark:!text-ink-300 surface-hover whitespace-nowrap">
+            {monthLabel(month.key)}
+          </a>
+        ))}
+        <a href="#knockouts" class="pill !text-ink-600 dark:!text-ink-300 surface-hover whitespace-nowrap">Knockouts</a>
+        <a href={`#match-${finalMatch.matchNumber}`} class="pill !text-amber-700 dark:!text-amber-300 surface-hover whitespace-nowrap">Final</a>
+      </nav>
+      <span class="ml-auto hidden shrink-0 text-xxs tabular text-ink-400 dark:text-ink-500 sm:block">
+        Source refreshed {schedule.generatedAt.slice(0, 10)}
+      </span>
+    </div>
+  </div>
+
+  {/* Calendar grid */}
+  <section id="calendar" class="container-page py-10 sm:py-12">
+    <div class="mb-6 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+      <div>
+        <div class="eyebrow">Calendar view</div>
+        <h2 class="mt-2 text-balance text-2xl font-bold tracking-tightish">Month-by-month</h2>
+      </div>
+      <div class="flex flex-wrap items-center gap-x-4 gap-y-1 text-xxs font-medium text-ink-500 dark:text-ink-400">
+        {['Group stage', 'Round of 16', 'Quarter-final', 'Final'].map((s) => (
+          <span class="inline-flex items-center gap-1.5">
+            <span class={`h-2 w-2 rounded-full ${stageMeta(s).accent}`}></span>
+            {stageMeta(s).label}
+          </span>
+        ))}
+      </div>
+    </div>
+
+    <div class="space-y-10">
+      {months.map((month) => (
+        <section aria-labelledby={`cal-title-${month.key}`}>
+          <div class="mb-3 flex items-end justify-between gap-4">
+            <h3 id={`cal-title-${month.key}`} class="text-lg font-bold tracking-tightish">
+              {monthLabel(month.key)}
+            </h3>
+            <span class="text-xs tabular text-ink-500 dark:text-ink-400">{month.matchCount} matches</span>
+          </div>
+
+          <div class="overflow-x-auto pb-2">
+            <div class="min-w-[920px] overflow-hidden rounded-xl border hairline">
+              <div class="grid grid-cols-7 border-b hairline bg-[--bg] text-xxs font-semibold uppercase tracking-wider text-ink-400 dark:text-ink-500">
+                {WEEKDAYS.map((weekday) => (
+                  <div class="px-3 py-2">{weekday}</div>
+                ))}
+              </div>
+
+              <div class="grid grid-cols-7">
+                {month.weeks.flat().map((cell, index) => (
+                  <div class={`min-h-36 border-b border-r hairline p-2 ${(index + 1) % 7 === 0 ? 'border-r-0' : ''} ${cell.key ? 'bg-[--card]' : 'bg-[--bg]'} ${cell.isToday ? 'bg-accent/[0.04]' : ''}`}>
+                    {cell.key && (
+                      <>
+                        <div class="mb-1.5 flex items-center justify-between gap-2">
+                          <a
+                            href={`#day-${cell.key}`}
+                            class={`inline-flex h-6 min-w-6 items-center justify-center rounded-md px-1 text-xs font-bold tabular ${cell.isToday ? 'bg-accent text-white' : 'text-ink-500 hover:text-accent dark:text-ink-400'}`}
+                            aria-label={`Fixtures for ${longDateFromKey(cell.key)}`}
+                          >
+                            {cell.dayNumber}
+                          </a>
+                          {cell.matches.length > 0 && (
+                            <span class="text-xxs tabular text-ink-400 dark:text-ink-500">{cell.matches.length}</span>
+                          )}
+                        </div>
+
+                        {cell.matches.length > 0 && (
+                          <div class="space-y-1">
+                            {cell.matches.map((match) => {
+                              const stage = stageMeta(match.stage);
+                              return (
+                                <a
+                                  href={`#match-${match.matchNumber}`}
+                                  class="block rounded-md border-l-2 bg-[--bg] py-1 pl-1.5 pr-1 text-xxs surface-hover"
+                                  style={`border-left-color: var(--cal-${stage.short})`}
+                                  data-stage={stage.short}
+                                >
+                                  <div class="flex items-center justify-between gap-1">
+                                    <span class="font-bold tabular">{hostTime(match)}</span>
+                                    {match.stage !== 'Group stage' && (
+                                      <span class={`rounded px-1 text-[9px] font-bold uppercase ${stage.pill}`}>{stage.short}</span>
+                                    )}
+                                  </div>
+                                  <div class="mt-0.5 flex items-center gap-1 truncate font-medium leading-tight">
+                                    <span class="truncate">{chipCode(match.home)}</span>
+                                    <span class="text-ink-400 dark:text-ink-500">v</span>
+                                    <span class="truncate">{chipCode(match.away)}</span>
+                                  </div>
+                                </a>
+                              );
+                            })}
+                          </div>
+                        )}
+                      </>
+                    )}
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+        </section>
+      ))}
+    </div>
+  </section>
+
+  {/* Fixtures list */}
+  <section id="fixtures" class="border-t hairline bg-[--bg]">
+    <div class="container-page space-y-12 py-12">
+      <div>
+        <div class="eyebrow">Full fixture list</div>
+        <h2 class="mt-2 text-balance text-2xl font-bold tracking-tightish">Every match, matchday by matchday</h2>
+      </div>
+
+      {months.map((month) => (
+        <section id={`month-${month.key}`} class="scroll-mt-28">
+          <div class="mb-5 flex items-end justify-between gap-4 border-b hairline pb-2">
+            <h3 class="text-xl font-bold tracking-tightish">{monthLabel(month.key)}</h3>
+            <span class="text-sm tabular text-ink-500 dark:text-ink-400">
+              {month.days.reduce((sum, day) => sum + day.matches.length, 0)} matches
+            </span>
+          </div>
+
+          <div class="space-y-7">
+            {month.days.map((day) => (
+              <section id={`day-${day.key}`} class="scroll-mt-28">
+                <div class="mb-3 flex items-baseline gap-2">
+                  <h4 class="text-sm font-bold tracking-tightish">{longDateFromKey(day.key)}</h4>
+                  <span class="text-xs tabular text-ink-400 dark:text-ink-500">
+                    {day.matches.length} match{day.matches.length === 1 ? '' : 'es'}
+                  </span>
+                </div>
+                <div class="grid gap-3 lg:grid-cols-2">
+                  {day.matches.map((match) => <MatchRow match={match} />)}
+                </div>
+              </section>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+  </section>
+
+  {/* Knockout path */}
+  <section id="knockouts" class="border-t hairline scroll-mt-28">
+    <div class="container-page py-12 sm:py-16">
+      <div class="max-w-2xl">
+        <div class="eyebrow">Knockout path</div>
+        <h2 class="mt-2 text-balance text-2xl font-bold tracking-tightish">Round of 32 to the final</h2>
+        <p class="mt-2 text-pretty text-sm text-ink-600 dark:text-ink-300">
+          Knockout fixtures use FIFA placeholders until the group stage is complete. Winner and
+          runner-up labels resolve from the same schedule source the moment teams are known.
+        </p>
+      </div>
+
+      <div class="mt-6 grid gap-3 sm:grid-cols-3 lg:grid-cols-5">
+        {knockoutStages.map((stage) => {
+          const stageMatches = matches.filter((m) => m.stage === stage);
+          const meta = stageMeta(stage);
+          const first = stageMatches[0] ?? finalMatch;
+          return (
+            <a href={`#match-${first.matchNumber}`} class="card card-hover block overflow-hidden">
+              <div class={`h-1 w-full ${meta.accent}`}></div>
+              <div class="p-4">
+                <div class="text-sm font-bold tracking-tightish">{meta.label}</div>
+                <div class="mt-1 text-xs tabular text-ink-500 dark:text-ink-400">
+                  {stageMatches.length} match{stageMatches.length === 1 ? '' : 'es'}
+                </div>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+
+      <p class="mt-8 text-xs text-ink-400 dark:text-ink-500">
+        Schedule source:
+        <a href={schedule.source.pageUrl} target="_blank" rel="noopener" class="prose-link">FIFA match schedule</a>.
+        This site is not affiliated with FIFA.
+      </p>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Calendar chip accent colours, keyed by stage short code. */
+  :root {
+    --cal-Group: #cbd5e1;
+    --cal-R32: #0ea5e9;
+    --cal-R16: #3b82f6;
+    --cal-QF: #8b5cf6;
+    --cal-SF: #d946ef;
+    --cal-3rd: #14b8a6;
+    --cal-Final: #f59e0b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --cal-Group: #475569; }
+  }
+</style>

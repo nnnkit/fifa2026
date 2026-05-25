@@ -1,0 +1,31 @@
+---
+import { STATUS_LABEL, relTime, type StatusOverlay } from '../lib/data';
+
+interface Props {
+  status: StatusOverlay;
+  compact?: boolean;
+}
+const { status, compact = false } = Astro.props;
+
+const cls = {
+  available: { wrap: 'badge-available', dot: 'dot-available' },
+  yellow:    { wrap: 'badge-yellow',    dot: 'dot-yellow' },
+  doubtful:  { wrap: 'badge-doubtful',  dot: 'dot-doubtful' },
+  injured:   { wrap: 'badge-injured',   dot: 'dot-injured' },
+  suspended: { wrap: 'badge-suspended', dot: 'dot-suspended' },
+}[status.status];
+
+const label = STATUS_LABEL[status.status];
+const ariaLabel = status.reason
+  ? `${label}. ${status.reason} Updated ${relTime(status.last_updated)}.`
+  : label;
+---
+
+<span
+  class={`badge ${cls.wrap}`}
+  title={status.reason ?? label}
+  aria-label={ariaLabel}
+>
+  <span aria-hidden class={`badge-dot ${cls.dot}`}></span>
+  {compact ? label.split(' ')[0] : label}
+</span>

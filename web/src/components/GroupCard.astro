@@ -1,0 +1,33 @@
+---
+import Flag from './Flag.astro';
+import { type TeamMeta } from '../lib/data';
+
+interface Props {
+  letter: string;
+  teams: TeamMeta[];
+}
+const { letter, teams } = Astro.props;
+---
+
+<div class="card overflow-hidden">
+  <a
+    href={`/groups#group-${letter.toLowerCase()}`}
+    class="group flex items-center justify-between rounded-lg px-2.5 pb-1 pt-2.5 surface-hover"
+  >
+    <h3 class="flex items-center gap-2 text-sm font-bold tracking-tightish">
+      <span class="inline-flex h-6 w-6 items-center justify-center rounded-md bg-ink-900 text-xs font-bold text-white dark:bg-ink-50 dark:text-ink-900">{letter}</span>
+      <span class="text-ink-500 dark:text-ink-400">Group {letter}</span>
+    </h3>
+    <span aria-hidden class="text-ink-300 transition-colors group-hover:text-accent dark:text-ink-600">→</span>
+  </a>
+  <ul class="p-1.5 pt-0.5">
+    {teams.map((t) => (
+      <li>
+        <a href={`/teams/${t.slug}`} class="flex items-center gap-2.5 rounded-lg px-2 py-1.5 surface-hover hover:text-accent">
+          <Flag country={t.country} size="sm" />
+          <span class="truncate text-sm font-medium">{t.country}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</div>

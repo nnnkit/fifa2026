@@ -1,0 +1,118 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  ogImage?: string;
+  canonical?: string;
+}
+
+const {
+  title,
+  description = 'Daily-refreshed squads for every nation at the 2026 FIFA World Cup. Player profiles, baseline availability, sourced status updates, free API, and MCP server.',
+  ogImage,
+  canonical,
+} = Astro.props;
+
+const fullTitle = title.includes('fifa2026squads') ? title : `${title} — fifa2026squads.com`;
+const url = canonical ?? new URL(Astro.url.pathname, Astro.site).toString();
+
+const path = Astro.url.pathname;
+const navItems = [
+  { href: '/teams', label: 'Teams' },
+  { href: '/groups', label: 'Groups' },
+  { href: '/schedule', label: 'Schedule' },
+  { href: '/api', label: 'API' },
+  { href: '/about', label: 'About' },
+];
+function isActive(href: string): boolean {
+  return href === '/' ? path === '/' : path === href || path.startsWith(`${href}/`);
+}
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#FFFFFF" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0A0A0A" media="(prefers-color-scheme: dark)" />
+    <meta name="color-scheme" content="light dark" />
+
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={url} />
+
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={url} />
+    <meta property="og:type" content="website" />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
+
+    <link rel="preconnect" href="https://rsms.me/" />
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+  </head>
+  <body class="min-h-screen flex flex-col">
+    <a
+      href="#main"
+      class="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:rounded focus:bg-ink-900 focus:px-3 focus:py-2 focus:text-sm focus:text-white"
+    >
+      Skip to content
+    </a>
+
+    <header class="sticky top-0 z-30 border-b hairline backdrop-blur bg-blur">
+      <div class="container-page flex h-14 items-center justify-between gap-4">
+        <a href="/" class="flex items-center gap-2 font-semibold tracking-tightish">
+          <span aria-hidden class="inline-flex h-7 w-7 items-center justify-center rounded-lg bg-ink-900 text-[11px] font-bold text-white dark:bg-white dark:text-ink-900">26</span>
+          <span class="hidden text-[15px] sm:inline">fifa2026<span class="text-ink-400 dark:text-ink-500">squads</span></span>
+          <span class="sm:hidden">squads</span>
+        </a>
+        <nav aria-label="Primary" class="flex items-center gap-0.5 text-sm">
+          {navItems.map((item) => (
+            <a
+              href={item.href}
+              class={`nav-link ${item.label === 'About' ? 'hidden sm:inline-flex' : ''}`}
+              aria-current={isActive(item.href) ? 'page' : undefined}
+            >
+              {item.label}
+            </a>
+          ))}
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="flex-1">
+      <slot />
+    </main>
+
+    <footer class="mt-20 border-t hairline">
+      <div class="container-page py-10 text-sm text-ink-500 dark:text-ink-400">
+        <div class="flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between">
+          <div class="max-w-md">
+            <div class="font-semibold text-ink-900 dark:text-ink-50">fifa2026squads.com</div>
+            <p class="mt-2 leading-relaxed">
+              Updated daily. Free developer API + MCP server. Squad data sourced from
+              Wikipedia / Wikidata under <a class="prose-link" href="/about#sources">CC BY-SA</a>;
+              photos credited per image.
+            </p>
+          </div>
+          <div class="grid grid-cols-2 gap-x-10 gap-y-2">
+            <a href="/teams" class="hover:text-ink-900 dark:hover:text-ink-50">All teams</a>
+            <a href="/api" class="hover:text-ink-900 dark:hover:text-ink-50">API docs</a>
+            <a href="/groups" class="hover:text-ink-900 dark:hover:text-ink-50">Groups</a>
+            <a href="/mcp" class="hover:text-ink-900 dark:hover:text-ink-50">MCP server</a>
+            <a href="/schedule" class="hover:text-ink-900 dark:hover:text-ink-50">Schedule</a>
+            <a href="/about" class="hover:text-ink-900 dark:hover:text-ink-50">About</a>
+            <a href="/about#sources" class="hover:text-ink-900 dark:hover:text-ink-50">Sources</a>
+          </div>
+        </div>
+        <div class="mt-8 text-xs">© 2026 fifa2026squads. Not affiliated with FIFA.</div>
+      </div>
+    </footer>
+  </body>
+</html>

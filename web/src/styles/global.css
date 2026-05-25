@@ -1,0 +1,244 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light dark;
+    /* Soft off-white page so white cards read as elevated (data-app look). */
+    --bg: #F4F5F7;
+    --bg-elev: #FFFFFF;
+    --card: #FFFFFF;
+    --text: #0A0A0A;
+    --text-muted: #6B6B6B;
+    --border: #E6E8EB;
+    --border-strong: #D4D7DC;
+    /* Strong easing curves — built-in CSS easings are too weak. */
+    --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+    --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #08090A;
+      --bg-elev: #141618;
+      --card: #131517;
+      --text: #F5F5F5;
+      --text-muted: #9B9B9B;
+      /* Kept close to the card fill so edges/dividers read as soft, not boxy. */
+      --border: #1B1D20;
+      --border-strong: #292C30;
+    }
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    background: var(--bg);
+    color: var(--text);
+    font-feature-settings: "cv11", "ss01", "ss03";
+  }
+
+  body {
+    font-family: theme('fontFamily.sans');
+    letter-spacing: -0.011em;
+  }
+
+  ::selection {
+    background: #FEF3C7;
+    color: #0A0A0A;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  a:focus-visible,
+  button:focus-visible,
+  [tabindex]:focus-visible {
+    outline: 2px solid theme('colors.accent.DEFAULT');
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  /* Tabular figures for numerical squad data */
+  .tabular { font-variant-numeric: tabular-nums; }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8;
+  }
+
+  .hairline {
+    border-color: var(--border);
+  }
+
+  .surface {
+    background: var(--bg-elev);
+  }
+
+  /* Translucent page background for sticky/blurred bars. */
+  .bg-blur {
+    background-color: var(--bg);
+  }
+  @supports (backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px)) {
+    .bg-blur {
+      background-color: color-mix(in srgb, var(--bg) 82%, transparent);
+    }
+  }
+
+  /* Elevated surface — the workhorse container for the data-app layout. */
+  .card {
+    @apply rounded-xl border;
+    border-color: var(--border);
+    background-color: var(--card);
+  }
+  .card-hover {
+    transition: border-color 160ms var(--ease-out), box-shadow 160ms var(--ease-out), transform 160ms var(--ease-out);
+  }
+  @media (hover: hover) and (pointer: fine) {
+    .card-hover:hover {
+      border-color: var(--border-strong);
+      box-shadow: 0 1px 2px rgb(0 0 0 / 0.04), 0 8px 24px -12px rgb(0 0 0 / 0.18);
+    }
+  }
+
+  /* Section eyebrow — the small uppercase kicker above headings. */
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-wider text-ink-500 dark:text-ink-400;
+  }
+
+  /* Flag chip — emoji flag in a consistent rounded tile. */
+  .flag {
+    @apply inline-flex shrink-0 items-center justify-center overflow-hidden rounded-md leading-none;
+    background: var(--bg);
+    box-shadow: inset 0 0 0 1px var(--border);
+  }
+  .flag-sm { @apply h-5 w-7 text-[15px]; }
+  .flag-md { @apply h-7 w-9 text-xl; }
+  .flag-lg { @apply h-11 w-14 text-3xl; }
+  .flag-xl { @apply h-16 w-20 text-5xl; }
+
+  /* Status badge — the only colour above the fold for player data. */
+  .badge {
+    @apply inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-xxs font-semibold uppercase tracking-wider;
+    line-height: 1.2;
+    /* PRODUCT.md: 150ms fade on status changes during live match days. */
+    transition: background-color 150ms var(--ease-out), color 150ms var(--ease-out);
+  }
+  .badge-dot {
+    @apply h-1.5 w-1.5 rounded-full;
+  }
+
+  .badge-available { @apply text-emerald-700 dark:text-emerald-300; background: rgb(22 163 74 / 0.10); }
+  .badge-yellow    { @apply text-amber-700 dark:text-amber-300;     background: rgb(234 179 8 / 0.12); }
+  .badge-doubtful  { @apply text-orange-700 dark:text-orange-300;   background: rgb(234 88 12 / 0.10); }
+  .badge-injured   { @apply text-red-700 dark:text-red-300;         background: rgb(220 38 38 / 0.10); }
+  .badge-suspended { @apply text-ink-800 dark:text-ink-100;         background: rgb(31 41 55 / 0.10); }
+
+  .dot-available { background: theme('colors.status.available'); }
+  .dot-yellow    { background: theme('colors.status.yellow'); }
+  .dot-doubtful  { background: theme('colors.status.doubtful'); }
+  .dot-injured   { background: theme('colors.status.injured'); }
+  .dot-suspended { background: theme('colors.status.suspended'); }
+
+  /* Stage pill — knockout round colour language (classes set inline per stage). */
+  .stage-pill {
+    @apply inline-flex items-center rounded-md px-2 py-0.5 text-xxs font-bold uppercase tracking-wider;
+  }
+
+  /* Generic small meta pill. */
+  .pill {
+    @apply inline-flex items-center gap-1 rounded-md px-2 py-0.5 text-xxs font-semibold uppercase tracking-wider text-ink-500 dark:text-ink-400;
+    background: var(--bg);
+    box-shadow: inset 0 0 0 1px var(--border);
+  }
+
+  /* Subtle link underline on hover for body copy */
+  .prose-link {
+    @apply text-accent underline-offset-2 hover:underline;
+  }
+
+  /* Button base — instant press feedback via scale, gated hover bg. */
+  .btn {
+    @apply inline-flex items-center justify-center gap-1.5 rounded-full text-sm font-semibold;
+    transition: transform 160ms var(--ease-out), background-color 160ms var(--ease-out), color 160ms var(--ease-out), border-color 160ms var(--ease-out);
+    will-change: transform;
+  }
+  .btn:active {
+    transform: scale(0.97);
+  }
+  .btn-primary {
+    @apply h-10 px-5;
+    background: var(--text);
+    color: var(--bg-elev);
+  }
+  .btn-outline {
+    @apply h-10 px-5 border;
+    border-color: var(--border-strong);
+    background: var(--card);
+  }
+  .btn-sm {
+    @apply h-9 px-4 rounded-lg;
+  }
+
+  /* Card / row hover — gated to true hover-capable devices. */
+  .surface-hover {
+    transition: background-color 160ms var(--ease-out), border-color 160ms var(--ease-out);
+  }
+  @media (hover: hover) and (pointer: fine) {
+    .surface-hover:hover {
+      background-color: theme('colors.ink.50');
+    }
+    @media (prefers-color-scheme: dark) {
+      .surface-hover:hover {
+        background-color: rgb(255 255 255 / 0.04);
+      }
+    }
+  }
+
+  /* Nav link hover — gated, ease-out. */
+  .nav-link {
+    @apply rounded-md px-2.5 py-1.5 font-medium text-ink-600 dark:text-ink-300;
+    transition: background-color 140ms var(--ease-out), color 140ms var(--ease-out);
+  }
+  .nav-link[aria-current="page"] {
+    @apply text-ink-900 dark:text-ink-50;
+    background-color: theme('colors.ink.100');
+  }
+  @media (prefers-color-scheme: dark) {
+    .nav-link[aria-current="page"] {
+      background-color: theme('colors.ink.800');
+    }
+  }
+  @media (hover: hover) and (pointer: fine) {
+    .nav-link:hover {
+      background-color: theme('colors.ink.100');
+      color: theme('colors.ink.900');
+    }
+    @media (prefers-color-scheme: dark) {
+      .nav-link:hover {
+        background-color: theme('colors.ink.800');
+        color: theme('colors.ink.50');
+      }
+    }
+  }
+}
+
+@layer utilities {
+  /* Faint pitch-line texture used behind hero sections. */
+  .bg-pitch {
+    background-image:
+      radial-gradient(60rem 30rem at 80% -10%, rgb(37 99 235 / 0.07), transparent 60%),
+      radial-gradient(50rem 30rem at 0% 110%, rgb(16 163 74 / 0.06), transparent 55%);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.001ms !important;
+      transition-duration: 0.001ms !important;
+    }
+  }
+}

@@ -1,0 +1,215 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import GroupCard from '../components/GroupCard.astro';
+import StatusBadge from '../components/StatusBadge.astro';
+import MatchRow from '../components/MatchRow.astro';
+import Flag from '../components/Flag.astro';
+import {
+  getGroups,
+  getRecentStatusChanges,
+  flag,
+  relTime,
+  getPopulatedTeamSlugs,
+  getAllTeamMeta,
+  getAllMatches,
+  getAllPlayers,
+  getTeam,
+  daysUntil,
+} from '../lib/data';
+
+const groups = getGroups();
+const groupLetters = Object.keys(groups).sort();
+const updates = getRecentStatusChanges();
+const populated = new Set(getPopulatedTeamSlugs());
+const allTeams = getAllTeamMeta();
+const playerCount = getAllPlayers().length;
+
+// "Most-watched" — handpicked top-8 attention teams
+const TOP8 = ['argentina', 'brazil', 'france', 'germany', 'spain', 'england', 'portugal', 'morocco'];
+const top8 = TOP8
+  .map((s) => allTeams.find((t) => t.slug === s))
+  .filter((t): t is NonNullable<typeof t> => Boolean(t));
+
+const matches = getAllMatches();
+const openingMatch = matches[0];
+const openingFixtures = matches.slice(0, 3);
+const daysToKickoff = daysUntil(openingMatch.dateUtc);
+const latestFetchedAt = allTeams
+  .map((team) => getTeam(team.slug)?.fetched_at)
+  .filter((value): value is string => Boolean(value))
+  .sort()
+  .at(-1);
+
+const stats = [
+  { label: 'Nations', value: '48' },
+  { label: 'Matches', value: '104' },
+  { label: 'Host cities', value: '16' },
+  { label: 'Player pages', value: playerCount.toLocaleString('en-US') },
+];
+---
+
+<BaseLayout title="2026 FIFA World Cup Squads — updated daily">
+  {/* Hero */}
+  <section class="border-b hairline bg-pitch">
+    <div class="container-page py-12 sm:py-16">
+      <div class="grid items-center gap-10 lg:grid-cols-[1fr_minmax(0,380px)]">
+        <div>
+          <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs font-semibold uppercase tracking-wider text-ink-500 dark:text-ink-400">
+            <span class="inline-flex items-center gap-1.5">
+              <span class="inline-flex h-1.5 w-1.5 rounded-full bg-status-available"></span>
+              Updated {relTime(latestFetchedAt)}
+            </span>
+            <span aria-hidden class="text-ink-300 dark:text-ink-600">·</span>
+            <span>{daysToKickoff} days to kickoff</span>
+          </div>
+          <h1 class="mt-3 text-balance text-4xl font-bold tracking-tightish sm:text-6xl">
+            Every squad,<br class="hidden sm:block" /> every player, every day.
+          </h1>
+          <p class="mt-4 max-w-2xl text-pretty text-base text-ink-600 dark:text-ink-300 sm:text-lg">
+            The reference site for the 2026 FIFA World Cup. 48 nations, {playerCount.toLocaleString('en-US')} player
+            pages, baseline availability plus sourced injury · suspension · yellow-card updates. Free
+            read-only <a class="prose-link" href="/api">JSON API</a> and
+            <a class="prose-link" href="/mcp">MCP server</a> for developers and AI agents.
+          </p>
+          <div class="mt-6 flex flex-wrap gap-2">
+            <a href="/teams" class="btn btn-primary">Browse all 48 teams</a>
+            <a href="/schedule" class="btn btn-outline surface-hover">View schedule →</a>
+          </div>
+        </div>
+
+        {/* Stat panel */}
+        <dl class="grid grid-cols-2 gap-3">
+          {stats.map((stat) => (
+            <div class="card px-4 py-4">
+              <dt class="text-xxs font-medium uppercase tracking-wider text-ink-500 dark:text-ink-400">{stat.label}</dt>
+              <dd class="mt-1 text-3xl font-bold tabular tracking-tightish">{stat.value}</dd>
+            </div>
+          ))}
+        </dl>
+      </div>
+    </div>
+  </section>
+
+  {/* Opening fixtures */}
+  <section class="container-page py-12 sm:py-14">
+    <div class="mb-6 flex items-end justify-between gap-4">
+      <div>
+        <div class="eyebrow">The tournament begins</div>
+        <h2 class="mt-1.5 text-xl font-bold tracking-tightish sm:text-2xl">Opening fixtures</h2>
+      </div>
+      <a href="/schedule" class="text-sm prose-link shrink-0">Full schedule →</a>
+    </div>
+    <div class="grid gap-3 lg:grid-cols-3">
+      {openingFixtures.map((match) => <MatchRow match={match} showDate />)}
+    </div>
+  </section>
+
+  {/* 12 groups */}
+  <section class="border-t hairline">
+    <div class="container-page py-12 sm:py-16">
+      <div class="mb-6 flex items-end justify-between gap-4">
+        <div>
+          <div class="eyebrow">48 teams · 12 groups</div>
+          <h2 class="mt-1.5 text-xl font-bold tracking-tightish sm:text-2xl">The group stage</h2>
+        </div>
+        <a href="/groups" class="text-sm prose-link shrink-0">All groups →</a>
+      </div>
+      <div class="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        {groupLetters.map((L) => <GroupCard letter={L} teams={groups[L]} />)}
+      </div>
+    </div>
+  </section>
+
+  {/* Most-watched teams */}
+  <section class="border-t hairline">
+    <div class="container-page py-12 sm:py-16">
+      <div class="mb-6 flex items-end justify-between gap-4">
+        <div>
+          <div class="eyebrow">Where the eyes are</div>
+          <h2 class="mt-1.5 text-xl font-bold tracking-tightish sm:text-2xl">Most-watched teams</h2>
+        </div>
+        <a href="/teams" class="text-sm prose-link shrink-0">All teams →</a>
+      </div>
+      <ul class="grid grid-cols-2 gap-3 sm:grid-cols-4">
+        {top8.map((t) => (
+          <li>
+            <a href={`/teams/${t.slug}`} class="card card-hover flex h-full items-center gap-3 p-3.5">
+              <Flag country={t.country} size="lg" />
+              <span class="min-w-0 flex-1">
+                <span class="block truncate font-semibold">{t.country}</span>
+                <span class="block text-xs text-ink-500 dark:text-ink-400">
+                  Group {t.group}{populated.has(t.slug) ? '' : ' · pre-squad'}
+                </span>
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  {/* Latest updates */}
+  <section class="border-t hairline">
+    <div class="container-page py-12 sm:py-16">
+      <div class="mb-6 flex items-end justify-between gap-4">
+        <div>
+          <div class="eyebrow">From the scanner</div>
+          <h2 class="mt-1.5 text-xl font-bold tracking-tightish sm:text-2xl">Latest squad updates</h2>
+        </div>
+      </div>
+      {updates.length > 0 ? (
+        <ul class="card divide-y hairline">
+          {updates.map(({ player, status }) => (
+            <li class="flex items-start gap-3 p-4 surface-hover sm:items-center">
+              <StatusBadge status={status} />
+              <div class="min-w-0 flex-1">
+                <a href={`/players/${player.slug}`} class="font-medium hover:text-accent">
+                  {player.display_name}
+                </a>
+                <span class="text-ink-400 dark:text-ink-500"> · </span>
+                <a href={`/teams/${player.team_slug}`} class="text-sm text-ink-500 hover:text-accent dark:text-ink-400">
+                  {flag(player.team_country ?? '')} {player.team_country}
+                </a>
+                <p class="mt-0.5 text-sm text-ink-600 dark:text-ink-300">{status.reason}</p>
+              </div>
+              <time datetime={status.last_updated} class="shrink-0 text-xs tabular text-ink-400 dark:text-ink-500">
+                {relTime(status.last_updated)}
+              </time>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <div class="card p-5 text-sm text-ink-600 dark:text-ink-300">
+          No sourced injury, suspension, or yellow-card updates are active right now. Baseline
+          availability shows on every squad until the daily scanner flags a change.
+        </div>
+      )}
+    </div>
+  </section>
+
+  {/* Developer CTA */}
+  <section class="border-t hairline bg-pitch">
+    <div class="container-page py-12 sm:py-16">
+      <div class="grid gap-3 sm:grid-cols-2">
+        <div class="card p-6">
+          <div class="eyebrow">For developers</div>
+          <h2 class="mt-1.5 text-xl font-bold tracking-tightish sm:text-2xl">Free read-only API</h2>
+          <p class="mt-2 max-w-md text-sm text-ink-600 dark:text-ink-300">
+            JSON for every team, player, and status update. No auth for the first 100 req/day
+            per IP. Email for a key beyond that.
+          </p>
+          <a href="/api" class="btn btn-outline btn-sm surface-hover mt-4">Read the docs →</a>
+        </div>
+        <div class="card p-6">
+          <div class="eyebrow">For AI agents</div>
+          <h2 class="mt-1.5 text-xl font-bold tracking-tightish sm:text-2xl">MCP server</h2>
+          <p class="mt-2 max-w-md text-sm text-ink-600 dark:text-ink-300">
+            One install command for Claude, Cursor, and ChatGPT. Same endpoints, exposed
+            as MCP tools.
+          </p>
+          <a href="/mcp" class="btn btn-outline btn-sm surface-hover mt-4">Install →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,68 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const endpoints = [
+  { method: 'GET', path: '/api/v1/teams', desc: 'List all 48 teams (slug, country, group).' },
+  { method: 'GET', path: '/api/v1/teams/{slug}', desc: 'Single team with full squad and per-player status overlay.' },
+  { method: 'GET', path: '/api/v1/players/{slug}', desc: 'Single player profile + status overlay.' },
+  { method: 'GET', path: '/api/v1/updates', desc: 'Recent status changes across all teams, newest first.' },
+];
+
+const curl = `curl https://fifa2026squads.com/api/v1/teams/argentina | jq '.players[0]'`;
+---
+
+<BaseLayout
+  title="Developer API"
+  description="Free read-only JSON API for the 2026 FIFA World Cup. Teams, players, status overlays. 100 requests/day per IP without auth."
+>
+  <div class="container-page py-10 sm:py-14">
+    <header class="mb-10 max-w-2xl">
+      <div class="text-xs font-medium uppercase tracking-wider text-ink-500 dark:text-ink-400">
+        Free · read-only · JSON
+      </div>
+      <h1 class="mt-2 text-3xl font-semibold tracking-tightish sm:text-4xl">Developer API</h1>
+      <p class="mt-3 text-ink-600 dark:text-ink-300">
+        The same data that powers this site, as JSON. 100 requests/day per IP without auth.
+        Email <a class="prose-link" href="mailto:hi@fifa2026squads.com">hi@fifa2026squads.com</a>
+        for a key beyond that.
+      </p>
+    </header>
+
+    <section class="mb-10">
+      <h2 class="mb-3 text-xs font-semibold uppercase tracking-wider text-ink-500 dark:text-ink-400">
+        Quick start
+      </h2>
+      <pre class="overflow-x-auto rounded-xl border hairline bg-ink-900 p-4 text-sm text-ink-50"><code>{curl}</code></pre>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="mb-3 text-xs font-semibold uppercase tracking-wider text-ink-500 dark:text-ink-400">
+        Endpoints
+      </h2>
+      <ul class="divide-y hairline border-y hairline">
+        {endpoints.map((e) => (
+          <li class="grid gap-1 py-3 sm:grid-cols-[60px_minmax(0,1fr)] sm:items-center">
+            <span class="inline-block text-xxs font-semibold uppercase tracking-wider text-status-available">
+              {e.method}
+            </span>
+            <div>
+              <code class="text-sm font-medium">{e.path}</code>
+              <p class="text-sm text-ink-500 dark:text-ink-400">{e.desc}</p>
+            </div>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="rounded-2xl border hairline bg-ink-50/60 p-6 dark:bg-ink-800/30">
+      <h2 class="text-lg font-semibold">MCP server</h2>
+      <p class="mt-2 max-w-prose text-sm text-ink-600 dark:text-ink-300">
+        Same data, exposed as Model Context Protocol tools. Install once in Claude Desktop,
+        Cursor, or ChatGPT and ask the model about any team or player.
+      </p>
+      <a href="/mcp" class="btn btn-outline btn-sm surface-hover mt-4 bg-white dark:bg-ink-900">
+        Install →
+      </a>
+    </section>
+  </div>
+</BaseLayout>

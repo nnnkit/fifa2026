@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const claudeConfig = `{
+  "mcpServers": {
+    "fifa2026squads": {
+      "command": "npx",
+      "args": ["-y", "@fifa2026squads/mcp"]
+    }
+  }
+}`;
+---
+
+<BaseLayout
+  title="MCP server"
+  description="Install the fifa2026squads MCP server in Claude, Cursor, or ChatGPT to give your AI agent live World Cup 2026 squad data."
+>
+  <div class="container-page py-10 sm:py-14">
+    <header class="mb-10 max-w-2xl">
+      <div class="text-xs font-medium uppercase tracking-wider text-ink-500 dark:text-ink-400">
+        For AI agents
+      </div>
+      <h1 class="mt-2 text-3xl font-semibold tracking-tightish sm:text-4xl">MCP server</h1>
+      <p class="mt-3 text-ink-600 dark:text-ink-300">
+        Install once and give Claude, Cursor or ChatGPT live access to every squad, every player,
+        and every status change at the 2026 FIFA World Cup.
+      </p>
+    </header>
+
+    <section class="mb-10">
+      <h2 class="mb-3 text-xs font-semibold uppercase tracking-wider text-ink-500 dark:text-ink-400">
+        Claude Desktop
+      </h2>
+      <p class="mb-3 text-sm text-ink-600 dark:text-ink-300">
+        Add to <code class="text-xs">~/Library/Application Support/Claude/claude_desktop_config.json</code>:
+      </p>
+      <pre class="overflow-x-auto rounded-xl border hairline bg-ink-900 p-4 text-sm text-ink-50"><code>{claudeConfig}</code></pre>
+    </section>
+
+    <section>
+      <h2 class="mb-3 text-xs font-semibold uppercase tracking-wider text-ink-500 dark:text-ink-400">
+        Tools exposed
+      </h2>
+      <ul class="divide-y hairline border-y hairline text-sm">
+        <li class="py-3"><code class="font-medium">list_teams</code> — all 48 nations with group.</li>
+        <li class="py-3"><code class="font-medium">get_team(slug)</code> — full squad + status overlay.</li>
+        <li class="py-3"><code class="font-medium">get_player(slug)</code> — single player + status.</li>
+        <li class="py-3"><code class="font-medium">recent_updates(limit)</code> — newest status changes.</li>
+      </ul>
+    </section>
+  </div>
+</BaseLayout>
