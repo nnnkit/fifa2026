@@ -1,0 +1,3752 @@
+{
+  "group": "A",
+  "generated_at": "2026-05-24T12:20:36+00:00",
+  "source_policy": "wikipedia-wikidata-commons-only",
+  "teams": [
+    {
+      "slug": "czech-republic",
+      "country": "Czech Republic",
+      "wikidata_qid": "Q483868",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+        "https://en.wikipedia.org/wiki/Czech_Republic_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Czech_Republic_national_football_team"
+      ],
+      "notes": [],
+      "players": [
+        {
+          "display_name": "Matěj Kovář",
+          "slug": "matěj-kovář",
+          "wikipedia_title": "Matěj Kovář",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mat%C4%9Bj_Kov%C3%A1%C5%99",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "2000-05-17",
+          "current_club": "PSV Eindhoven",
+          "caps": 19,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mat%C4%9Bj_Kov%C3%A1%C5%99"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Jindřich Staněk",
+          "slug": "jindřich-staněk",
+          "wikipedia_title": "Jindřich Staněk",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jind%C5%99ich_Stan%C4%9Bk",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1996-04-27",
+          "current_club": "Slavia Prague",
+          "caps": 14,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jind%C5%99ich_Stan%C4%9Bk"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Lukáš Horníček",
+          "slug": "lukáš-horníček",
+          "wikipedia_title": "Lukáš Horníček",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Horn%C3%AD%C4%8Dek",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "2002-07-13",
+          "current_club": "Braga",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Horn%C3%AD%C4%8Dek"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Vladimír Coufal",
+          "slug": "vladimír-coufal",
+          "wikipedia_title": "Vladimír Coufal",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Coufal",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1992-08-22",
+          "current_club": "TSG Hoffenheim",
+          "caps": 61,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Coufal"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Tomáš Holeš",
+          "slug": "tomáš-holeš",
+          "wikipedia_title": "Tomáš Holeš",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Hole%C5%A1",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1993-03-31",
+          "current_club": "Slavia Prague",
+          "caps": 39,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Hole%C5%A1"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Ladislav Krejčí",
+          "slug": "ladislav-krejčí",
+          "wikipedia_title": "Ladislav Krejčí (footballer, born 1999)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ladislav_Krej%C4%8D%C3%AD_(footballer%2C_born_1999)",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1999-04-20",
+          "current_club": "Wolverhampton Wanderers",
+          "caps": 25,
+          "goals": 5,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ladislav_Krej%C4%8D%C3%AD_(footballer%2C_born_1999)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "David Zima",
+          "slug": "david-zima",
+          "wikipedia_title": "David Zima",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/David_Zima",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-11-08",
+          "current_club": "Slavia Prague",
+          "caps": 24,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/David_Zima"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Jaroslav Zelený",
+          "slug": "jaroslav-zelený",
+          "wikipedia_title": "Jaroslav Zelený",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jaroslav_Zelen%C3%BD",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1992-08-20",
+          "current_club": "Sparta Prague",
+          "caps": 21,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jaroslav_Zelen%C3%BD"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "David Jurásek",
+          "slug": "david-jurásek",
+          "wikipedia_title": "David Jurásek",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/David_Jur%C3%A1sek",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-08-07",
+          "current_club": "Slavia Prague",
+          "caps": 16,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/David_Jur%C3%A1sek"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "David Douděra",
+          "slug": "david-douděra",
+          "wikipedia_title": "David Douděra",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/David_Doud%C4%9Bra",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1998-05-31",
+          "current_club": "Slavia Prague",
+          "caps": 15,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/David_Doud%C4%9Bra"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Robin Hranáč",
+          "slug": "robin-hranáč",
+          "wikipedia_title": "Robin Hranáč",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Robin_Hran%C3%A1%C4%8D",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-01-29",
+          "current_club": "TSG Hoffenheim",
+          "caps": 12,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Robin_Hran%C3%A1%C4%8D"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Štěpán Chaloupek",
+          "slug": "štěpán-chaloupek",
+          "wikipedia_title": "Štěpán Chaloupek",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0t%C4%9Bp%C3%A1n_Chaloupek",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2003-03-08",
+          "current_club": "Slavia Prague",
+          "caps": 3,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/%C5%A0t%C4%9Bp%C3%A1n_Chaloupek"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Tomáš Souček",
+          "slug": "tomáš-souček",
+          "wikipedia_title": "Tomáš Souček",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Sou%C4%8Dek",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1995-02-27",
+          "current_club": "West Ham United",
+          "caps": 89,
+          "goals": 17,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Sou%C4%8Dek"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Vladimír Darida",
+          "slug": "vladimír-darida",
+          "wikipedia_title": "Vladimír Darida",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Darida",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1990-08-08",
+          "current_club": "Hradec Králové",
+          "caps": 78,
+          "goals": 8,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Darida"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Lukáš Provod",
+          "slug": "lukáš-provod",
+          "wikipedia_title": "Lukáš Provod",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Provod",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1996-10-23",
+          "current_club": "Slavia Prague",
+          "caps": 37,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Provod"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Michal Sadílek",
+          "slug": "michal-sadílek",
+          "wikipedia_title": "Michal Sadílek",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Michal_Sad%C3%ADlek",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1999-05-31",
+          "current_club": "Slavia Prague",
+          "caps": 33,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Michal_Sad%C3%ADlek"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Pavel Šulc",
+          "slug": "pavel-šulc",
+          "wikipedia_title": "Pavel Šulc",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Pavel_%C5%A0ulc",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2000-12-29",
+          "current_club": "Lyon",
+          "caps": 20,
+          "goals": 5,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Pavel_%C5%A0ulc"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Lukáš Červ",
+          "slug": "lukáš-červ",
+          "wikipedia_title": "Lukáš Červ",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Luk%C3%A1%C5%A1_%C4%8Cerv",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2001-04-10",
+          "current_club": "Viktoria Plzeň",
+          "caps": 15,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Luk%C3%A1%C5%A1_%C4%8Cerv"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Tomáš Ladra",
+          "slug": "tomáš-ladra",
+          "wikipedia_title": "Tomáš Ladra",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Ladra",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1997-05-24",
+          "current_club": "Viktoria Plzeň",
+          "caps": 1,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Ladra"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Pavel Bucha",
+          "slug": "pavel-bucha",
+          "wikipedia_title": "Pavel Bucha",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Pavel_Bucha",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1998-03-11",
+          "current_club": "FC Cincinnati",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Pavel_Bucha"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Hugo Sochůrek",
+          "slug": "hugo-sochůrek",
+          "wikipedia_title": "Hugo Sochůrek",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Hugo_Soch%C5%AFrek",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2008-06-07",
+          "current_club": "Sparta Prague",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Hugo_Soch%C5%AFrek"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Alexandr Sojka",
+          "slug": "alexandr-sojka",
+          "wikipedia_title": "Alexandr Sojka",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alexandr_Sojka",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2003-04-02",
+          "current_club": "Viktoria Plzeň",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Alexandr_Sojka"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Denis Višinský",
+          "slug": "denis-višinský",
+          "wikipedia_title": "Denis Višinský",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Denis_Vi%C5%A1insk%C3%BD",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2003-03-21",
+          "current_club": "Viktoria Plzeň",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Denis_Vi%C5%A1insk%C3%BD"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Patrik Schick",
+          "slug": "patrik-schick",
+          "wikipedia_title": "Patrik Schick",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Patrik_Schick",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1996-01-24",
+          "current_club": "Bayer Leverkusen",
+          "caps": 52,
+          "goals": 25,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Patrik_Schick"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Adam Hložek",
+          "slug": "adam-hložek",
+          "wikipedia_title": "Adam Hložek",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Adam_Hlo%C5%BEek",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2002-07-25",
+          "current_club": "TSG Hoffenheim",
+          "caps": 41,
+          "goals": 4,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Adam_Hlo%C5%BEek"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Jan Kuchta",
+          "slug": "jan-kuchta",
+          "wikipedia_title": "Jan Kuchta",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jan_Kuchta",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1997-01-08",
+          "current_club": "Sparta Prague",
+          "caps": 30,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jan_Kuchta"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Tomáš Chorý",
+          "slug": "tomáš-chorý",
+          "wikipedia_title": "Tomáš Chorý",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Chor%C3%BD",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1995-01-26",
+          "current_club": "Slavia Prague",
+          "caps": 21,
+          "goals": 6,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Chor%C3%BD"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Mojmír Chytil",
+          "slug": "mojmír-chytil",
+          "wikipedia_title": "Mojmír Chytil",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mojm%C3%ADr_Chytil",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1999-04-29",
+          "current_club": "Slavia Prague",
+          "caps": 21,
+          "goals": 6,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mojm%C3%ADr_Chytil"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Christophe Kabongo",
+          "slug": "christophe-kabongo",
+          "wikipedia_title": "Christophe Kabongo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Christophe_Kabongo",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2003-08-27",
+          "current_club": "Mladá Boleslav",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Christophe_Kabongo"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mexico",
+      "country": "Mexico",
+      "wikidata_qid": "Q164089",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+        "https://en.wikipedia.org/wiki/Mexico_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Mexico_national_football_team"
+      ],
+      "notes": [],
+      "players": [
+        {
+          "display_name": "Guillermo Ochoa",
+          "slug": "guillermo-ochoa",
+          "wikipedia_title": "Guillermo Ochoa",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Guillermo_Ochoa",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1985-07-13",
+          "current_club": "AEL Limassol",
+          "caps": 151,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Guillermo_Ochoa"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Raúl Rangel",
+          "slug": "raúl-rangel",
+          "wikipedia_title": "Raúl Rangel (footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Rangel_(footballer)",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "2000-02-25",
+          "current_club": "Guadalajara",
+          "caps": 12,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ra%C3%BAl_Rangel_(footballer)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Carlos Acevedo",
+          "slug": "carlos-acevedo",
+          "wikipedia_title": "Carlos Acevedo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Acevedo",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1996-04-19",
+          "current_club": "Santos Laguna",
+          "caps": 7,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Carlos_Acevedo"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "José Antonio Rodríguez",
+          "slug": "josé-antonio-rodríguez",
+          "wikipedia_title": "José Antonio Rodríguez (Mexican footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Rodr%C3%ADguez_(Mexican_footballer)",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1992-07-04",
+          "current_club": "Tijuana",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Rodr%C3%ADguez_(Mexican_footballer)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Carlos Moreno",
+          "slug": "carlos-moreno",
+          "wikipedia_title": "Carlos Moreno (footballer, born 1998)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Moreno_(footballer%2C_born_1998)",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1998-01-29",
+          "current_club": "Pachuca",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Carlos_Moreno_(footballer%2C_born_1998)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Alex Padilla",
+          "slug": "alex-padilla",
+          "wikipedia_title": "Alex Padilla (footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Padilla_(footballer)",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "2003-09-01",
+          "current_club": "Athletic Bilbao",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Alex_Padilla_(footballer)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Jesús Gallardo",
+          "slug": "jesús-gallardo",
+          "wikipedia_title": "Jesús Gallardo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Gallardo",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1994-08-15",
+          "current_club": "Toluca",
+          "caps": 119,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jes%C3%BAs_Gallardo"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "César Montes",
+          "slug": "césar-montes",
+          "wikipedia_title": "César Montes",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Montes",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1997-02-24",
+          "current_club": "Lokomotiv Moscow",
+          "caps": 65,
+          "goals": 4,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/C%C3%A9sar_Montes"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Jorge Sánchez",
+          "slug": "jorge-sánchez",
+          "wikipedia_title": "Jorge Sánchez (footballer, born 1997)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jorge_S%C3%A1nchez_(footballer%2C_born_1997)",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1997-12-10",
+          "current_club": "PAOK",
+          "caps": 57,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jorge_S%C3%A1nchez_(footballer%2C_born_1997)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Johan Vásquez",
+          "slug": "johan-vásquez",
+          "wikipedia_title": "Johan Vásquez (footballer, born 1998)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Johan_V%C3%A1squez_(footballer%2C_born_1998)",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1998-10-22",
+          "current_club": "Genoa",
+          "caps": 44,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Johan_V%C3%A1squez_(footballer%2C_born_1998)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Israel Reyes",
+          "slug": "israel-reyes",
+          "wikipedia_title": "Israel Reyes",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Israel_Reyes",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-05-23",
+          "current_club": "América",
+          "caps": 32,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Israel_Reyes"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Jesús Alberto Angulo",
+          "slug": "jesús-alberto-angulo",
+          "wikipedia_title": "Jesús Alberto Angulo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Alberto_Angulo",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1998-01-30",
+          "current_club": "UANL",
+          "caps": 19,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jes%C3%BAs_Alberto_Angulo"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Julián Araujo",
+          "slug": "julián-araujo",
+          "wikipedia_title": "Julián Araujo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Juli%C3%A1n_Araujo",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2001-08-13",
+          "current_club": "Celtic",
+          "caps": 16,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Juli%C3%A1n_Araujo"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Mateo Chávez",
+          "slug": "mateo-chávez",
+          "wikipedia_title": "Mateo Chávez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mateo_Ch%C3%A1vez",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2004-05-11",
+          "current_club": "AZ",
+          "caps": 8,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mateo_Ch%C3%A1vez"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Víctor Guzmán",
+          "slug": "víctor-guzmán",
+          "wikipedia_title": "Víctor Guzmán (footballer, born 2002)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%ADctor_Guzm%C3%A1n_(footballer%2C_born_2002)",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2002-03-07",
+          "current_club": "Monterrey",
+          "caps": 6,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/V%C3%ADctor_Guzm%C3%A1n_(footballer%2C_born_2002)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Richard Ledezma",
+          "slug": "richard-ledezma",
+          "wikipedia_title": "Richard Ledezma",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Ledezma",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-09-06",
+          "current_club": "Guadalajara",
+          "caps": 3,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Richard_Ledezma"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Everardo López",
+          "slug": "everardo-lópez",
+          "wikipedia_title": "Everardo López",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Everardo_L%C3%B3pez",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2005-03-23",
+          "current_club": "Toluca",
+          "caps": 3,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Everardo_L%C3%B3pez"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Eduardo Águila",
+          "slug": "eduardo-águila",
+          "wikipedia_title": "Eduardo Águila",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Eduardo_%C3%81guila",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2002-05-17",
+          "current_club": "Atlético San Luis",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Eduardo_%C3%81guila"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Denzell García",
+          "slug": "denzell-garcía",
+          "wikipedia_title": "Denzell García",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Denzell_Garc%C3%ADa",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2003-08-15",
+          "current_club": "Juárez",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Denzell_Garc%C3%ADa"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Alejandro Gómez",
+          "slug": "alejandro-gómez",
+          "wikipedia_title": "Alejandro Gómez (Mexican footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alejandro_G%C3%B3mez_(Mexican_footballer)",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2002-01-31",
+          "current_club": "Tijuana",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Alejandro_G%C3%B3mez_(Mexican_footballer)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Bryan González",
+          "slug": "bryan-gonzález",
+          "wikipedia_title": "Bryan González (Mexican footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Bryan_Gonz%C3%A1lez_(Mexican_footballer)",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2003-04-10",
+          "current_club": "Guadalajara",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Bryan_Gonz%C3%A1lez_(Mexican_footballer)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Ramón Juárez",
+          "slug": "ramón-juárez",
+          "wikipedia_title": "Ramón Juárez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Ju%C3%A1rez",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2001-05-03",
+          "current_club": "América",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ram%C3%B3n_Ju%C3%A1rez"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Luis Rey",
+          "slug": "luis-rey",
+          "wikipedia_title": "Luis Rey (footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Rey_(footballer)",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2002-09-14",
+          "current_club": "Puebla",
+          "caps": 1,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Luis_Rey_(footballer)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Edson Álvarez",
+          "slug": "edson-álvarez",
+          "wikipedia_title": "Edson Álvarez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Edson_%C3%81lvarez",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1997-10-24",
+          "current_club": "Fenerbahçe",
+          "caps": 96,
+          "goals": 7,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Edson_%C3%81lvarez"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Orbelín Pineda",
+          "slug": "orbelín-pineda",
+          "wikipedia_title": "Orbelín Pineda",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Orbel%C3%ADn_Pineda",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1996-03-24",
+          "current_club": "AEK Athens",
+          "caps": 90,
+          "goals": 12,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Orbel%C3%ADn_Pineda"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Carlos Rodríguez",
+          "slug": "carlos-rodríguez",
+          "wikipedia_title": "Carlos Rodríguez (footballer, born 1997)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Rodr%C3%ADguez_(footballer%2C_born_1997)",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1997-01-03",
+          "current_club": "Cruz Azul",
+          "caps": 67,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Carlos_Rodr%C3%ADguez_(footballer%2C_born_1997)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Roberto Alvarado",
+          "slug": "roberto-alvarado",
+          "wikipedia_title": "Roberto Alvarado",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Roberto_Alvarado",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1998-09-07",
+          "current_club": "Guadalajara",
+          "caps": 66,
+          "goals": 5,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Roberto_Alvarado"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Luis Romo",
+          "slug": "luis-romo",
+          "wikipedia_title": "Luis Romo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Romo",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1995-06-05",
+          "current_club": "Guadalajara",
+          "caps": 61,
+          "goals": 4,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Luis_Romo"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Luis Chávez",
+          "slug": "luis-chávez",
+          "wikipedia_title": "Luis Chávez (footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Ch%C3%A1vez_(footballer)",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1996-01-15",
+          "current_club": "Dynamo Moscow",
+          "caps": 43,
+          "goals": 4,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Luis_Ch%C3%A1vez_(footballer)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Érick Sánchez",
+          "slug": "érick-sánchez",
+          "wikipedia_title": "Érick Sánchez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89rick_S%C3%A1nchez",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1999-09-27",
+          "current_club": "América",
+          "caps": 38,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/%C3%89rick_S%C3%A1nchez"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Diego Lainez",
+          "slug": "diego-lainez",
+          "wikipedia_title": "Diego Lainez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_Lainez",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2000-06-09",
+          "current_club": "UANL",
+          "caps": 33,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Diego_Lainez"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Érik Lira",
+          "slug": "érik-lira",
+          "wikipedia_title": "Érik Lira",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89rik_Lira",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2000-05-08",
+          "current_club": "Cruz Azul",
+          "caps": 23,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/%C3%89rik_Lira"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Marcel Ruiz",
+          "slug": "marcel-ruiz",
+          "wikipedia_title": "Marcel Ruiz (footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Marcel_Ruiz_(footballer)",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2000-10-26",
+          "current_club": "Toluca",
+          "caps": 17,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Marcel_Ruiz_(footballer)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Efraín Álvarez",
+          "slug": "efraín-álvarez",
+          "wikipedia_title": "Efraín Álvarez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Efra%C3%ADn_%C3%81lvarez",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2002-06-19",
+          "current_club": "Guadalajara",
+          "caps": 7,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Efra%C3%ADn_%C3%81lvarez"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Brian Gutiérrez",
+          "slug": "brian-gutiérrez",
+          "wikipedia_title": "Brian Gutiérrez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Guti%C3%A9rrez",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2003-06-17",
+          "current_club": "Guadalajara",
+          "caps": 6,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Brian_Guti%C3%A9rrez"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Gilberto Mora",
+          "slug": "gilberto-mora",
+          "wikipedia_title": "Gilberto Mora (footballer, born 2008)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Gilberto_Mora_(footballer%2C_born_2008)",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2008-10-14",
+          "current_club": "Tijuana",
+          "caps": 6,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Gilberto_Mora_(footballer%2C_born_2008)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Alexis Gutiérrez",
+          "slug": "alexis-gutiérrez",
+          "wikipedia_title": "Alexis Gutiérrez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Guti%C3%A9rrez",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2001-02-26",
+          "current_club": "América",
+          "caps": 5,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Alexis_Guti%C3%A9rrez"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Obed Vargas",
+          "slug": "obed-vargas",
+          "wikipedia_title": "Obed Vargas",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Obed_Vargas",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2005-08-05",
+          "current_club": "Atlético Madrid",
+          "caps": 5,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Obed_Vargas"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Jesús Ricardo Angulo",
+          "slug": "jesús-ricardo-angulo",
+          "wikipedia_title": "Jesús Ricardo Angulo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Ricardo_Angulo",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1997-02-20",
+          "current_club": "Toluca",
+          "caps": 3,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jes%C3%BAs_Ricardo_Angulo"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Kevin Castañeda",
+          "slug": "kevin-castañeda",
+          "wikipedia_title": "Kevin Castañeda",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Casta%C3%B1eda",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1999-10-28",
+          "current_club": "Tijuana",
+          "caps": 3,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Kevin_Casta%C3%B1eda"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Jordán Carrillo",
+          "slug": "jordán-carrillo",
+          "wikipedia_title": "Jordán Carrillo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jord%C3%A1n_Carrillo",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2001-11-30",
+          "current_club": "UNAM",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jord%C3%A1n_Carrillo"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Álvaro Fidalgo",
+          "slug": "álvaro-fidalgo",
+          "wikipedia_title": "Álvaro Fidalgo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Fidalgo",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1997-04-09",
+          "current_club": "Real Betis",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/%C3%81lvaro_Fidalgo"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Jorge Ruvalcaba",
+          "slug": "jorge-ruvalcaba",
+          "wikipedia_title": "Jorge Ruvalcaba",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jorge_Ruvalcaba",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2001-07-23",
+          "current_club": "New York Red Bulls",
+          "caps": 1,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jorge_Ruvalcaba"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Isaías Violante",
+          "slug": "isaías-violante",
+          "wikipedia_title": "Isaías Violante",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Isa%C3%ADas_Violante",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2003-10-20",
+          "current_club": "América",
+          "caps": 1,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Isa%C3%ADas_Violante"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Alexéi Domínguez",
+          "slug": "alexéi-domínguez",
+          "wikipedia_title": "Alexéi Domínguez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alex%C3%A9i_Dom%C3%ADnguez",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2005-01-03",
+          "current_club": "Pachuca",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Alex%C3%A9i_Dom%C3%ADnguez"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Jeremy Márquez",
+          "slug": "jeremy-márquez",
+          "wikipedia_title": "Jeremy Márquez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jeremy_M%C3%A1rquez",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2000-06-21",
+          "current_club": "Cruz Azul",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jeremy_M%C3%A1rquez"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Elías Montiel",
+          "slug": "elías-montiel",
+          "wikipedia_title": "Elías Montiel",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/El%C3%ADas_Montiel",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2005-10-07",
+          "current_club": "Pachuca",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/El%C3%ADas_Montiel"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Raúl Jiménez",
+          "slug": "raúl-jiménez",
+          "wikipedia_title": "Raúl Jiménez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Jim%C3%A9nez",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1991-05-05",
+          "current_club": "Fulham",
+          "caps": 123,
+          "goals": 44,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ra%C3%BAl_Jim%C3%A9nez"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Alexis Vega",
+          "slug": "alexis-vega",
+          "wikipedia_title": "Alexis Vega (Mexican footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Vega_(Mexican_footballer)",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1997-11-25",
+          "current_club": "Toluca",
+          "caps": 50,
+          "goals": 7,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Alexis_Vega_(Mexican_footballer)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Santiago Giménez",
+          "slug": "santiago-giménez",
+          "wikipedia_title": "Santiago Giménez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Santiago_Gim%C3%A9nez",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2001-04-18",
+          "current_club": "Milan",
+          "caps": 46,
+          "goals": 6,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Santiago_Gim%C3%A9nez"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "César Huerta",
+          "slug": "césar-huerta",
+          "wikipedia_title": "César Huerta",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Huerta",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2000-12-03",
+          "current_club": "Anderlecht",
+          "caps": 25,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/C%C3%A9sar_Huerta"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Julián Quiñones",
+          "slug": "julián-quiñones",
+          "wikipedia_title": "Julián Quiñones",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Juli%C3%A1n_Qui%C3%B1ones",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1997-03-24",
+          "current_club": "Al-Qadsiah",
+          "caps": 20,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Juli%C3%A1n_Qui%C3%B1ones"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Guillermo Martínez",
+          "slug": "guillermo-martínez",
+          "wikipedia_title": "Guillermo Martínez (footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Guillermo_Mart%C3%ADnez_(footballer)",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1995-03-15",
+          "current_club": "UNAM",
+          "caps": 10,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Guillermo_Mart%C3%ADnez_(footballer)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Germán Berterame",
+          "slug": "germán-berterame",
+          "wikipedia_title": "Germán Berterame",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Germ%C3%A1n_Berterame",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1998-11-13",
+          "current_club": "Inter Miami CF",
+          "caps": 9,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Germ%C3%A1n_Berterame"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Armando González",
+          "slug": "armando-gonzález",
+          "wikipedia_title": "Armando González (footballer, born 2003)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Armando_Gonz%C3%A1lez_(footballer%2C_born_2003)",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2003-04-20",
+          "current_club": "Guadalajara",
+          "caps": 7,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Armando_Gonz%C3%A1lez_(footballer%2C_born_2003)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "south-africa",
+      "country": "South Africa",
+      "wikidata_qid": "Q170327",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+        "https://en.wikipedia.org/wiki/South_Africa_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/South_Africa_national_football_team"
+      ],
+      "notes": [],
+      "players": [
+        {
+          "display_name": "Ronwen Williams",
+          "slug": "ronwen-williams",
+          "wikipedia_title": "Ronwen Williams",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ronwen_Williams",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1992-01-21",
+          "current_club": "Mamelodi Sundowns",
+          "caps": 62,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ronwen_Williams"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Ricardo Goss",
+          "slug": "ricardo-goss",
+          "wikipedia_title": "Ricardo Goss",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ricardo_Goss",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1994-04-02",
+          "current_club": "Siwelele",
+          "caps": 4,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ricardo_Goss"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Sipho Chaine",
+          "slug": "sipho-chaine",
+          "wikipedia_title": "Sipho Chaine",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Sipho_Chaine",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1996-12-14",
+          "current_club": "Orlando Pirates",
+          "caps": 3,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Sipho_Chaine"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Brandon Petersen",
+          "slug": "brandon-petersen",
+          "wikipedia_title": "Brandon Peterson (soccer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Brandon_Peterson_(soccer)",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1994-09-22",
+          "current_club": "Kaizer Chiefs",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Brandon_Peterson_(soccer)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Aubrey Modiba",
+          "slug": "aubrey-modiba",
+          "wikipedia_title": "Aubrey Modiba",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aubrey_Modiba",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1995-07-22",
+          "current_club": "Mamelodi Sundowns",
+          "caps": 44,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Aubrey_Modiba"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Khuliso Mudau",
+          "slug": "khuliso-mudau",
+          "wikipedia_title": "Khuliso Mudau",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Khuliso_Mudau",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1995-04-26",
+          "current_club": "Mamelodi Sundowns",
+          "caps": 32,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Khuliso_Mudau"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Nkosinathi Sibisi",
+          "slug": "nkosinathi-sibisi",
+          "wikipedia_title": "Nkosinathi Sibisi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Nkosinathi_Sibisi",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1995-09-22",
+          "current_club": "Orlando Pirates",
+          "caps": 19,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Nkosinathi_Sibisi"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Mbekezeli Mbokazi",
+          "slug": "mbekezeli-mbokazi",
+          "wikipedia_title": "Mbekezeli Mbokazi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mbekezeli_Mbokazi",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2005-09-19",
+          "current_club": "Chicago Fire",
+          "caps": 10,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mbekezeli_Mbokazi"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Ime Okon",
+          "slug": "ime-okon",
+          "wikipedia_title": "Ime Okon",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ime_Okon",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2004-02-20",
+          "current_club": "Hannover 96",
+          "caps": 7,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ime_Okon"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Samukele Kabini",
+          "slug": "samukele-kabini",
+          "wikipedia_title": "Samukele Kabini",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Samukele_Kabini",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2004-03-15",
+          "current_club": "Molde",
+          "caps": 5,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Samukele_Kabini"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Khulumani Ndamane",
+          "slug": "khulumani-ndamane",
+          "wikipedia_title": "Khulumani Ndamane",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Khulumani_Ndamane",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2004-02-05",
+          "current_club": "Mamelodi Sundowns",
+          "caps": 5,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Khulumani_Ndamane"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Thabang Matuludi",
+          "slug": "thabang-matuludi",
+          "wikipedia_title": "Thabang Matuludi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Thabang_Matuludi",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1999-01-14",
+          "current_club": "Polokwane City",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Thabang_Matuludi"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Thabiso Monyane",
+          "slug": "thabiso-monyane",
+          "wikipedia_title": "James Monyane",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/James_Monyane",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-04-30",
+          "current_club": "Kaizer Chiefs",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/James_Monyane"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Bradley Cross",
+          "slug": "bradley-cross",
+          "wikipedia_title": "Bradley Cross (soccer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Bradley_Cross_(soccer)",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2001-01-30",
+          "current_club": "Kaizer Chiefs",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Bradley_Cross_(soccer)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Olwethu Makhanya",
+          "slug": "olwethu-makhanya",
+          "wikipedia_title": "Olwethu Makhanya",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Olwethu_Makhanya",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2004-04-30",
+          "current_club": "Philadelphia Union",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Olwethu_Makhanya"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Themba Zwane",
+          "slug": "themba-zwane",
+          "wikipedia_title": "Themba Zwane",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Themba_Zwane",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1989-08-03",
+          "current_club": "Mamelodi Sundowns",
+          "caps": 53,
+          "goals": 12,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Themba_Zwane"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Teboho Mokoena",
+          "slug": "teboho-mokoena",
+          "wikipedia_title": "Teboho Mokoena (soccer, born 1997)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Teboho_Mokoena_(soccer%2C_born_1997)",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1997-01-24",
+          "current_club": "Mamelodi Sundowns",
+          "caps": 51,
+          "goals": 9,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Teboho_Mokoena_(soccer%2C_born_1997)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Sphephelo Sithole",
+          "slug": "sphephelo-sithole",
+          "wikipedia_title": "Sphephelo Sithole",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Sphephelo_Sithole",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1999-03-03",
+          "current_club": "Tondela",
+          "caps": 27,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Sphephelo_Sithole"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Lebohang Maboe",
+          "slug": "lebohang-maboe",
+          "wikipedia_title": "Lebohang Maboe",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Lebohang_Maboe",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1994-09-17",
+          "current_club": "Kaizer Chiefs",
+          "caps": 17,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Lebohang_Maboe"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Thalente Mbatha",
+          "slug": "thalente-mbatha",
+          "wikipedia_title": "Thalente Mbatha",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Thalente_Mbatha",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2000-03-06",
+          "current_club": "Orlando Pirates",
+          "caps": 14,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Thalente_Mbatha"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Jayden Adams",
+          "slug": "jayden-adams",
+          "wikipedia_title": "Jayden Adams",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jayden_Adams",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2001-05-05",
+          "current_club": "Mamelodi Sundowns",
+          "caps": 4,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jayden_Adams"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Brooklyn Poggenpoel",
+          "slug": "brooklyn-poggenpoel",
+          "wikipedia_title": "Brooklyn Poggenpoel",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Brooklyn_Poggenpoel",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1999-10-03",
+          "current_club": "Durban City",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Brooklyn_Poggenpoel"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Thapelo Morena",
+          "slug": "thapelo-morena",
+          "wikipedia_title": "Thapelo Morena",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Thapelo_Morena",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1993-08-06",
+          "current_club": "Mamelodi Sundowns",
+          "caps": 33,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Thapelo_Morena"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Lyle Foster",
+          "slug": "lyle-foster",
+          "wikipedia_title": "Lyle Foster",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Lyle_Foster",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2000-05-09",
+          "current_club": "Burnley",
+          "caps": 26,
+          "goals": 10,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Lyle_Foster"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Evidence Makgopa",
+          "slug": "evidence-makgopa",
+          "wikipedia_title": "Evidence Makgopa",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Evidence_Makgopa",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2000-06-05",
+          "current_club": "Orlando Pirates",
+          "caps": 26,
+          "goals": 6,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Evidence_Makgopa"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Oswin Appollis",
+          "slug": "oswin-appollis",
+          "wikipedia_title": "Oswin Appollis",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Oswin_Appollis",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2001-08-25",
+          "current_club": "Orlando Pirates",
+          "caps": 25,
+          "goals": 8,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Oswin_Appollis"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Iqraam Rayners",
+          "slug": "iqraam-rayners",
+          "wikipedia_title": "Iqraam Rayners",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Iqraam_Rayners",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1995-12-19",
+          "current_club": "Mamelodi Sundowns",
+          "caps": 13,
+          "goals": 4,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Iqraam_Rayners"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Relebohile Mofokeng",
+          "slug": "relebohile-mofokeng",
+          "wikipedia_title": "Relebohile Mofokeng",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Relebohile_Mofokeng",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2004-10-23",
+          "current_club": "Orlando Pirates",
+          "caps": 12,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Relebohile_Mofokeng"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Thapelo Maseko",
+          "slug": "thapelo-maseko",
+          "wikipedia_title": "Thapelo Maseko",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Thapelo_Maseko",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2003-11-11",
+          "current_club": "AEL Limassol",
+          "caps": 9,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Thapelo_Maseko"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Tshepang Moremi",
+          "slug": "tshepang-moremi",
+          "wikipedia_title": "Tshepang Moremi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tshepang_Moremi",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2000-10-02",
+          "current_club": "Orlando Pirates",
+          "caps": 9,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Tshepang_Moremi"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Patrick Maswanganyi",
+          "slug": "patrick-maswanganyi",
+          "wikipedia_title": "Patrick Maswanganyi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Maswanganyi",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1998-04-04",
+          "current_club": "Orlando Pirates",
+          "caps": 5,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Patrick_Maswanganyi"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Kamogelo Sebelebele",
+          "slug": "kamogelo-sebelebele",
+          "wikipedia_title": "Kamogelo Sebelebele",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kamogelo_Sebelebele",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2002-07-21",
+          "current_club": "Orlando Pirates",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Kamogelo_Sebelebele"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "south-korea",
+      "country": "South Korea",
+      "wikidata_qid": "Q543842",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+        "https://en.wikipedia.org/wiki/South_Korea_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/South_Korea_national_football_team"
+      ],
+      "notes": [],
+      "players": [
+        {
+          "display_name": "Kim Seung-gyu",
+          "slug": "kim-seung-gyu",
+          "wikipedia_title": "Kim Seung-gyu",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Seung-gyu",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1990-09-30",
+          "current_club": "FC Tokyo",
+          "caps": 85,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Kim_Seung-gyu"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Jo Hyeon-woo",
+          "slug": "jo-hyeon-woo",
+          "wikipedia_title": "Jo Hyeon-woo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jo_Hyeon-woo",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1991-09-25",
+          "current_club": "Ulsan HD",
+          "caps": 47,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jo_Hyeon-woo"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Song Bum-keun",
+          "slug": "song-bum-keun",
+          "wikipedia_title": "Song Bum-keun",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Song_Bum-keun",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1997-10-15",
+          "current_club": "Jeonbuk Hyundai Motors",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Song_Bum-keun"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Kim Min-jae",
+          "slug": "kim-min-jae",
+          "wikipedia_title": "Kim Min-jae (footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Min-jae_(footballer)",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1996-11-15",
+          "current_club": "Bayern Munich",
+          "caps": 77,
+          "goals": 4,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Kim_Min-jae_(footballer)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Kim Moon-hwan",
+          "slug": "kim-moon-hwan",
+          "wikipedia_title": "Kim Moon-hwan",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Moon-hwan",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1995-08-01",
+          "current_club": "Daejeon Hana Citizen",
+          "caps": 34,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Kim_Moon-hwan"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Seol Young-woo",
+          "slug": "seol-young-woo",
+          "wikipedia_title": "Seol Young-woo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Seol_Young-woo",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1998-12-05",
+          "current_club": "Red Star Belgrade",
+          "caps": 32,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Seol_Young-woo"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Cho Yu-min",
+          "slug": "cho-yu-min",
+          "wikipedia_title": "Cho Yu-min",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Cho_Yu-min",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1996-11-17",
+          "current_club": "Sharjah",
+          "caps": 18,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Cho_Yu-min"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Lee Tae-seok",
+          "slug": "lee-tae-seok",
+          "wikipedia_title": "Lee Tae-seok",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Tae-seok",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2002-07-28",
+          "current_club": "Austria Wien",
+          "caps": 14,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Lee_Tae-seok"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Park Jin-seob",
+          "slug": "park-jin-seob",
+          "wikipedia_title": "Park Jin-seob (footballer, born 1995)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Park_Jin-seob_(footballer%2C_born_1995)",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1995-10-23",
+          "current_club": "Zhejiang FC",
+          "caps": 12,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Park_Jin-seob_(footballer%2C_born_1995)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Kim Tae-hyeon",
+          "slug": "kim-tae-hyeon",
+          "wikipedia_title": "Kim Tae-hyeon",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Tae-hyeon",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-09-17",
+          "current_club": "Kashima Antlers",
+          "caps": 7,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Kim_Tae-hyeon"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Lee Han-beom",
+          "slug": "lee-han-beom",
+          "wikipedia_title": "Lee Han-beom",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Han-beom",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2002-06-17",
+          "current_club": "Midtjylland",
+          "caps": 6,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Lee_Han-beom"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Jens Castrop",
+          "slug": "jens-castrop",
+          "wikipedia_title": "Jens Castrop",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jens_Castrop",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2003-07-29",
+          "current_club": "Borussia Mönchengladbach",
+          "caps": 5,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jens_Castrop"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Lee Ki-hyuk",
+          "slug": "lee-ki-hyuk",
+          "wikipedia_title": "Lee Ki-hyuk (footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Ki-hyuk_(footballer)",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-07-07",
+          "current_club": "Gangwon FC",
+          "caps": 1,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Lee_Ki-hyuk_(footballer)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Lee Jae-sung",
+          "slug": "lee-jae-sung",
+          "wikipedia_title": "Lee Jae-sung",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Jae-sung",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1992-08-10",
+          "current_club": "Mainz 05",
+          "caps": 103,
+          "goals": 15,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Lee_Jae-sung"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Hwang Hee-chan",
+          "slug": "hwang-hee-chan",
+          "wikipedia_title": "Hwang Hee-chan",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Hwang_Hee-chan",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1996-01-26",
+          "current_club": "Wolverhampton Wanderers",
+          "caps": 77,
+          "goals": 16,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Hwang_Hee-chan"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Hwang In-beom",
+          "slug": "hwang-in-beom",
+          "wikipedia_title": "Hwang In-beom",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Hwang_In-beom",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1996-09-20",
+          "current_club": "Feyenoord",
+          "caps": 71,
+          "goals": 6,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Hwang_In-beom"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Lee Kang-in",
+          "slug": "lee-kang-in",
+          "wikipedia_title": "Lee Kang-in",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Kang-in",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2001-02-19",
+          "current_club": "Paris Saint-Germain",
+          "caps": 46,
+          "goals": 11,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Lee_Kang-in"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Paik Seung-ho",
+          "slug": "paik-seung-ho",
+          "wikipedia_title": "Paik Seung-ho",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Paik_Seung-ho",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1997-03-17",
+          "current_club": "Birmingham City",
+          "caps": 25,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Paik_Seung-ho"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Kim Jin-gyu",
+          "slug": "kim-jin-gyu",
+          "wikipedia_title": "Kim Jin-gyu (footballer, born 1997)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Jin-gyu_(footballer%2C_born_1997)",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1997-02-24",
+          "current_club": "Jeonbuk Hyundai Motors",
+          "caps": 20,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Kim_Jin-gyu_(footballer%2C_born_1997)"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Lee Dong-gyeong",
+          "slug": "lee-dong-gyeong",
+          "wikipedia_title": "Lee Dong-gyeong",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Dong-gyeong",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1997-09-20",
+          "current_club": "Ulsan HD",
+          "caps": 16,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Lee_Dong-gyeong"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Bae Jun-ho",
+          "slug": "bae-jun-ho",
+          "wikipedia_title": "Bae Jun-ho",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Bae_Jun-ho",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2003-08-21",
+          "current_club": "Stoke City",
+          "caps": 12,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Bae_Jun-ho"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Eom Ji-sung",
+          "slug": "eom-ji-sung",
+          "wikipedia_title": "Eom Ji-sung",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Eom_Ji-sung",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2002-05-09",
+          "current_club": "Swansea City",
+          "caps": 8,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Eom_Ji-sung"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Yang Hyun-jun",
+          "slug": "yang-hyun-jun",
+          "wikipedia_title": "Yang Hyun-jun",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Yang_Hyun-jun",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2002-05-25",
+          "current_club": "Celtic",
+          "caps": 8,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Yang_Hyun-jun"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Son Heung-min",
+          "slug": "son-heung-min",
+          "wikipedia_title": "Son Heung-min",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Son_Heung-min",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1992-07-08",
+          "current_club": "Los Angeles FC",
+          "caps": 142,
+          "goals": 54,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Son_Heung-min"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Cho Gue-sung",
+          "slug": "cho-gue-sung",
+          "wikipedia_title": "Cho Gue-sung",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Cho_Gue-sung",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1998-01-25",
+          "current_club": "Midtjylland",
+          "caps": 42,
+          "goals": 10,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Cho_Gue-sung"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        },
+        {
+          "display_name": "Oh Hyeon-gyu",
+          "slug": "oh-hyeon-gyu",
+          "wikipedia_title": "Oh Hyeon-gyu",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Oh_Hyeon-gyu",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2001-04-12",
+          "current_club": "Beşiktaş",
+          "caps": 26,
+          "goals": 6,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Oh_Hyeon-gyu"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "Wikidata lookup failed: ConnectionError",
+            "No Wikimedia Commons image found from Wikidata P18 or Wikipedia pageimage during bounded lookup."
+          ]
+        }
+      ]
+    }
+  ],
+  "blockers": []
+}

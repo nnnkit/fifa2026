@@ -1,0 +1,2571 @@
+{
+  "group": "G",
+  "generated_at": "2026-05-24T12:37:38.383603+00:00",
+  "source_policy": "wikipedia-wikidata-commons-only",
+  "teams": [
+    {
+      "slug": "belgium",
+      "country": "Belgium",
+      "wikidata_qid": "Q166776",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+        "https://en.wikipedia.org/wiki/Belgium_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Belgium_national_football_team"
+      ],
+      "notes": [],
+      "players": [
+        {
+          "display_name": "Thibaut Courtois",
+          "slug": "thibaut-courtois",
+          "wikipedia_title": "Thibaut Courtois",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Thibaut_Courtois",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1992-05-11",
+          "current_club": "Real Madrid",
+          "caps": 107,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Thibaut_Courtois"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Senne Lammens",
+          "slug": "senne-lammens",
+          "wikipedia_title": "Senne Lammens",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Senne_Lammens",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "2002-07-07",
+          "current_club": "Manchester United",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Senne_Lammens"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mike Penders",
+          "slug": "mike-penders",
+          "wikipedia_title": "Mike Penders",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Penders",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "2005-07-31",
+          "current_club": "Strasbourg",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mike_Penders"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Thomas Meunier",
+          "slug": "thomas-meunier",
+          "wikipedia_title": "Thomas Meunier",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Meunier",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1991-09-12",
+          "current_club": "Lille",
+          "caps": 78,
+          "goals": 10,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Thomas_Meunier"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Timothy Castagne",
+          "slug": "timothy-castagne",
+          "wikipedia_title": "Timothy Castagne",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Timothy_Castagne",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1995-12-05",
+          "current_club": "Fulham",
+          "caps": 62,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Timothy_Castagne"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Arthur Theate",
+          "slug": "arthur-theate",
+          "wikipedia_title": "Arthur Theate",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Theate",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-05-25",
+          "current_club": "Eintracht Frankfurt",
+          "caps": 32,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Arthur_Theate"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Zeno Debast",
+          "slug": "zeno-debast",
+          "wikipedia_title": "Zeno Debast",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Zeno_Debast",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2003-10-24",
+          "current_club": "Sporting CP",
+          "caps": 26,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Zeno_Debast"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Maxim De Cuyper",
+          "slug": "maxim-de-cuyper",
+          "wikipedia_title": "Maxim De Cuyper",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Maxim_De_Cuyper",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-12-22",
+          "current_club": "Brighton & Hove Albion",
+          "caps": 17,
+          "goals": 4,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Maxim_De_Cuyper"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Brandon Mechele",
+          "slug": "brandon-mechele",
+          "wikipedia_title": "Brandon Mechele",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Brandon_Mechele",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1993-01-28",
+          "current_club": "Club Brugge",
+          "caps": 7,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Brandon_Mechele"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Koni De Winter",
+          "slug": "koni-de-winter",
+          "wikipedia_title": "Koni De Winter",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Koni_De_Winter",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2002-06-12",
+          "current_club": "Milan",
+          "caps": 7,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Koni_De_Winter"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Joaquin Seys",
+          "slug": "joaquin-seys",
+          "wikipedia_title": "Joaquin Seys",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Joaquin_Seys",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2005-03-28",
+          "current_club": "Club Brugge",
+          "caps": 4,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Joaquin_Seys"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Nathan Ngoy",
+          "slug": "nathan-ngoy",
+          "wikipedia_title": "Nathan Ngoy",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Nathan_Ngoy",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2003-06-10",
+          "current_club": "Lille",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Nathan_Ngoy"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Axel Witsel",
+          "slug": "axel-witsel",
+          "wikipedia_title": "Axel Witsel",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Axel_Witsel",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1989-01-12",
+          "current_club": "Girona",
+          "caps": 136,
+          "goals": 12,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Axel_Witsel"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Kevin De Bruyne",
+          "slug": "kevin-de-bruyne",
+          "wikipedia_title": "Kevin De Bruyne",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1991-06-28",
+          "current_club": "Napoli",
+          "caps": 117,
+          "goals": 36,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Kevin_De_Bruyne"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Youri Tielemans",
+          "slug": "youri-tielemans",
+          "wikipedia_title": "Youri Tielemans",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Youri_Tielemans",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1997-05-07",
+          "current_club": "Aston Villa",
+          "caps": 83,
+          "goals": 12,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Youri_Tielemans"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Hans Vanaken",
+          "slug": "hans-vanaken",
+          "wikipedia_title": "Hans Vanaken",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Hans_Vanaken",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1992-08-24",
+          "current_club": "Club Brugge",
+          "caps": 32,
+          "goals": 7,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Hans_Vanaken"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Amadou Onana",
+          "slug": "amadou-onana",
+          "wikipedia_title": "Amadou Onana",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Amadou_Onana",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2001-08-16",
+          "current_club": "Aston Villa",
+          "caps": 27,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Amadou_Onana"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Nicolas Raskin",
+          "slug": "nicolas-raskin",
+          "wikipedia_title": "Nicolas Raskin",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas_Raskin",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2001-02-23",
+          "current_club": "Rangers",
+          "caps": 11,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Nicolas_Raskin"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Romelu Lukaku",
+          "slug": "romelu-lukaku",
+          "wikipedia_title": "Romelu Lukaku",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Romelu_Lukaku",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1993-05-13",
+          "current_club": "Napoli",
+          "caps": 124,
+          "goals": 89,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Romelu_Lukaku"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Leandro Trossard",
+          "slug": "leandro-trossard",
+          "wikipedia_title": "Leandro Trossard",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Leandro_Trossard",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1994-12-04",
+          "current_club": "Arsenal",
+          "caps": 50,
+          "goals": 11,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Leandro_Trossard"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Jérémy Doku",
+          "slug": "jeremy-doku",
+          "wikipedia_title": "Jérémy Doku",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9my_Doku",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2002-05-27",
+          "current_club": "Manchester City",
+          "caps": 41,
+          "goals": 7,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9my_Doku"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Dodi Lukébakio",
+          "slug": "dodi-lukebakio",
+          "wikipedia_title": "Dodi Lukébakio",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Dodi_Luk%C3%A9bakio",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1997-09-24",
+          "current_club": "Benfica",
+          "caps": 29,
+          "goals": 5,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Dodi_Luk%C3%A9bakio"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Charles De Ketelaere",
+          "slug": "charles-de-ketelaere",
+          "wikipedia_title": "Charles De Ketelaere",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_De_Ketelaere",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2001-03-10",
+          "current_club": "Atalanta",
+          "caps": 28,
+          "goals": 5,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Charles_De_Ketelaere"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Alexis Saelemaekers",
+          "slug": "alexis-saelemaekers",
+          "wikipedia_title": "Alexis Saelemaekers",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Saelemaekers",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1999-06-27",
+          "current_club": "Milan",
+          "caps": 23,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Alexis_Saelemaekers"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Diego Moreira",
+          "slug": "diego-moreira",
+          "wikipedia_title": "Diego Moreira",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_Moreira",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2004-08-06",
+          "current_club": "Strasbourg",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Diego_Moreira"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Matias Fernandez-Pardo",
+          "slug": "matias-fernandez-pardo",
+          "wikipedia_title": "Matias Fernandez-Pardo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Matias_Fernandez-Pardo",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2005-02-03",
+          "current_club": "Lille",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Matias_Fernandez-Pardo"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        }
+      ]
+    },
+    {
+      "slug": "egypt",
+      "country": "Egypt",
+      "wikidata_qid": "Q28089",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+        "https://en.wikipedia.org/wiki/Egypt_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Egypt_national_football_team"
+      ],
+      "notes": [
+        "Central squads article listed a 27-man preliminary squad and said the final squad would be announced on May 29."
+      ],
+      "players": [
+        {
+          "display_name": "Mohamed El Shenawy",
+          "slug": "mohamed-el-shenawy",
+          "wikipedia_title": "Mohamed El Shenawy",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_El_Shenawy",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1988-12-18",
+          "current_club": "Al Ahly",
+          "caps": 75,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mohamed_El_Shenawy"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mostafa Shobeir",
+          "slug": "mostafa-shobeir",
+          "wikipedia_title": "Mostafa Shobeir",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mostafa_Shobeir",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "2000-03-17",
+          "current_club": "Al Ahly",
+          "caps": 7,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mostafa_Shobeir"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mohamed Alaa",
+          "slug": "mohamed-alaa",
+          "wikipedia_title": "Mohamed Alaa",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Alaa",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1999-01-09",
+          "current_club": "El Gouna",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mohamed_Alaa"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "El Mahdy Soliman",
+          "slug": "el-mahdy-soliman",
+          "wikipedia_title": "El Mahdy Soliman",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/El_Mahdy_Soliman",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1987-06-08",
+          "current_club": "Zamalek",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/El_Mahdy_Soliman"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Hamdy Fathy",
+          "slug": "hamdy-fathy",
+          "wikipedia_title": "Hamdy Fathy",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Hamdy_Fathy",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1994-09-29",
+          "current_club": "Al-Wakrah",
+          "caps": 62,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Hamdy_Fathy"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ramy Rabia",
+          "slug": "ramy-rabia",
+          "wikipedia_title": "Ramy Rabia",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ramy_Rabia",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1993-05-20",
+          "current_club": "Al Ain",
+          "caps": 43,
+          "goals": 5,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ramy_Rabia"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mohamed Hany",
+          "slug": "mohamed-hany",
+          "wikipedia_title": "Mohamed Hany",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Hany",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1996-01-25",
+          "current_club": "Al Ahly",
+          "caps": 40,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mohamed_Hany"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ahmed Abou El Fotouh",
+          "slug": "ahmed-abou-el-fotouh",
+          "wikipedia_title": "Ahmed Abou El Fotouh",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_Abou_El_Fotouh",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1998-03-22",
+          "current_club": "Zamalek",
+          "caps": 38,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ahmed_Abou_El_Fotouh"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mohamed Abdelmonem",
+          "slug": "mohamed-abdelmonem",
+          "wikipedia_title": "Mohamed Abdelmonem",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Abdelmonem",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1999-02-01",
+          "current_club": "Nice",
+          "caps": 34,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mohamed_Abdelmonem"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Yasser Ibrahim",
+          "slug": "yasser-ibrahim",
+          "wikipedia_title": "Yasser Ibrahim",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Yasser_Ibrahim",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1993-02-10",
+          "current_club": "Al Ahly",
+          "caps": 15,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Yasser_Ibrahim"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Hossam Abdelmaguid",
+          "slug": "hossam-abdelmaguid",
+          "wikipedia_title": "Hossam Abdelmaguid",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Hossam_Abdelmaguid",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2001-04-30",
+          "current_club": "Zamalek",
+          "caps": 12,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Hossam_Abdelmaguid"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Karim Hafez",
+          "slug": "karim-hafez",
+          "wikipedia_title": "Karim Hafez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Karim_Hafez",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1996-03-12",
+          "current_club": "Pyramids",
+          "caps": 7,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Karim_Hafez"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Tarek Alaa",
+          "slug": "tarek-alaa",
+          "wikipedia_title": "Tarek Alaa",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tarek_Alaa",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2002-01-05",
+          "current_club": "ZED",
+          "caps": 1,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Tarek_Alaa"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Marwan Attia",
+          "slug": "marwan-attia",
+          "wikipedia_title": "Marwan Attia",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Marwan_Attia",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1998-08-12",
+          "current_club": "Al Ahly",
+          "caps": 32,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Marwan_Attia"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Emam Ashour",
+          "slug": "emam-ashour",
+          "wikipedia_title": "Emam Ashour",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Emam_Ashour",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1998-02-20",
+          "current_club": "Al Ahly",
+          "caps": 27,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Emam_Ashour"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mohanad Lasheen",
+          "slug": "mohanad-lasheen",
+          "wikipedia_title": "Mohanad Lasheen",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mohanad_Lasheen",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1996-05-29",
+          "current_club": "Pyramids",
+          "caps": 21,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mohanad_Lasheen"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mahmoud Saber",
+          "slug": "mahmoud-saber",
+          "wikipedia_title": "Mahmoud Saber",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mahmoud_Saber",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2001-07-30",
+          "current_club": "ZED",
+          "caps": 14,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mahmoud_Saber"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Nabil Emad",
+          "slug": "nabil-emad",
+          "wikipedia_title": "Nabil Emad",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Nabil_Emad",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1996-04-06",
+          "current_club": "Al-Najma",
+          "caps": 8,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Nabil_Emad"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mostafa Ziko",
+          "slug": "mostafa-ziko",
+          "wikipedia_title": "Mostafa Ziko",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mostafa_Ziko",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1997-04-27",
+          "current_club": "Pyramids",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mostafa_Ziko"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mohamed Salah",
+          "slug": "mohamed-salah",
+          "wikipedia_title": "Mohamed Salah",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Salah",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1992-06-15",
+          "current_club": "Liverpool",
+          "caps": 116,
+          "goals": 67,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mohamed_Salah"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Trézéguet",
+          "slug": "trezeguet",
+          "wikipedia_title": "Trézéguet",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tr%C3%A9z%C3%A9guet",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1996-10-01",
+          "current_club": "Al Ahly",
+          "caps": 94,
+          "goals": 23,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Tr%C3%A9z%C3%A9guet"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Zizo",
+          "slug": "zizo",
+          "wikipedia_title": "Zizo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Zizo",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1996-01-10",
+          "current_club": "Al Ahly",
+          "caps": 61,
+          "goals": 5,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Zizo"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Omar Marmoush",
+          "slug": "omar-marmoush",
+          "wikipedia_title": "Omar Marmoush",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Omar_Marmoush",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1999-02-07",
+          "current_club": "Manchester City",
+          "caps": 47,
+          "goals": 11,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Omar_Marmoush"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ibrahim Adel",
+          "slug": "ibrahim-adel",
+          "wikipedia_title": "Ibrahim Adel",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ibrahim_Adel",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2001-04-23",
+          "current_club": "Nordsjælland",
+          "caps": 22,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ibrahim_Adel"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Haissem Hassan",
+          "slug": "haissem-hassan",
+          "wikipedia_title": "Haissem Hassan",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Haissem_Hassan",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2002-02-08",
+          "current_club": "Oviedo",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Haissem_Hassan"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Aqtay Abdallah",
+          "slug": "aqtay-abdallah",
+          "wikipedia_title": "Aqtay Abdallah",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aqtay_Abdallah",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2003-06-01",
+          "current_club": "ENPPI",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Aqtay_Abdallah"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Hamza Abdelkarim",
+          "slug": "hamza-abdelkarim",
+          "wikipedia_title": "Hamza Abdelkarim",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Hamza_Abdelkarim",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2008-01-01",
+          "current_club": "Barcelona B",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Hamza_Abdelkarim"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        }
+      ]
+    },
+    {
+      "slug": "iran",
+      "country": "Iran",
+      "wikidata_qid": "Q184602",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+        "https://en.wikipedia.org/wiki/Iran_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Iran_national_football_team"
+      ],
+      "notes": [
+        "Central squads article listed a 30-man preliminary squad and said the final squad would be announced on June 1."
+      ],
+      "players": [
+        {
+          "display_name": "Alireza Beiranvand",
+          "slug": "alireza-beiranvand",
+          "wikipedia_title": "Alireza Beiranvand",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alireza_Beiranvand",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1992-09-21",
+          "current_club": "Tractor",
+          "caps": 84,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Alireza_Beiranvand"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Payam Niazmand",
+          "slug": "payam-niazmand",
+          "wikipedia_title": "Payam Niazmand",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Payam_Niazmand",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1995-04-06",
+          "current_club": "Persepolis",
+          "caps": 15,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Payam_Niazmand"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Hossein Hosseini",
+          "slug": "hossein-hosseini",
+          "wikipedia_title": "Hossein Hosseini",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Hossein_Hosseini",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1992-06-30",
+          "current_club": "Sepahan",
+          "caps": 13,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Hossein_Hosseini"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mohammad Khalife",
+          "slug": "mohammad-khalife",
+          "wikipedia_title": "Mohammad Khalife",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammad_Khalife",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "2004-08-19",
+          "current_club": "Aluminium Arak",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mohammad_Khalife"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ehsan Hajsafi",
+          "slug": "ehsan-hajsafi",
+          "wikipedia_title": "Ehsan Hajsafi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ehsan_Hajsafi",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1990-02-25",
+          "current_club": "Sepahan",
+          "caps": 144,
+          "goals": 7,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ehsan_Hajsafi"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Milad Mohammadi",
+          "slug": "milad-mohammadi",
+          "wikipedia_title": "Milad Mohammadi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Milad_Mohammadi",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1993-09-29",
+          "current_club": "Persepolis",
+          "caps": 75,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Milad_Mohammadi"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ramin Rezaeian",
+          "slug": "ramin-rezaeian",
+          "wikipedia_title": "Ramin Rezaeian",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ramin_Rezaeian",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1990-03-21",
+          "current_club": "Foolad",
+          "caps": 72,
+          "goals": 6,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ramin_Rezaeian"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Hossein Kanaanizadegan",
+          "slug": "hossein-kanaanizadegan",
+          "wikipedia_title": "Hossein Kanaanizadegan",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Hossein_Kanaanizadegan",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1994-03-23",
+          "current_club": "Persepolis",
+          "caps": 63,
+          "goals": 6,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Hossein_Kanaanizadegan"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Shojae Khalilzadeh",
+          "slug": "shojae-khalilzadeh",
+          "wikipedia_title": "Shojae Khalilzadeh",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Shojae_Khalilzadeh",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1989-05-14",
+          "current_club": "Tractor",
+          "caps": 56,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Shojae_Khalilzadeh"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Saleh Hardani",
+          "slug": "saleh-hardani",
+          "wikipedia_title": "Saleh Hardani",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Saleh_Hardani",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1998-12-26",
+          "current_club": "Esteghlal",
+          "caps": 17,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Saleh_Hardani"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ali Nemati",
+          "slug": "ali-nemati",
+          "wikipedia_title": "Ali Nemati",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Nemati",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1996-02-07",
+          "current_club": "Foolad",
+          "caps": 15,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ali_Nemati"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Aria Yousefi",
+          "slug": "aria-yousefi",
+          "wikipedia_title": "Aria Yousefi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aria_Yousefi",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2002-04-22",
+          "current_club": "Sepahan",
+          "caps": 12,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Aria_Yousefi"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Danial Eiri",
+          "slug": "danial-eiri",
+          "wikipedia_title": "Danial Eiri",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Danial_Eiri",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2003-10-26",
+          "current_club": "Malavan",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Danial_Eiri"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Alireza Jahanbakhsh",
+          "slug": "alireza-jahanbakhsh",
+          "wikipedia_title": "Alireza Jahanbakhsh",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alireza_Jahanbakhsh",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1993-08-11",
+          "current_club": "Dender",
+          "caps": 98,
+          "goals": 17,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Alireza_Jahanbakhsh"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Saeid Ezatolahi",
+          "slug": "saeid-ezatolahi",
+          "wikipedia_title": "Saeid Ezatolahi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Saeid_Ezatolahi",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1996-10-01",
+          "current_club": "Shabab Al-Ahli",
+          "caps": 81,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Saeid_Ezatolahi"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Saman Ghoddos",
+          "slug": "saman-ghoddos",
+          "wikipedia_title": "Saman Ghoddos",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Saman_Ghoddos",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1993-09-06",
+          "current_club": "Kalba",
+          "caps": 67,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Saman_Ghoddos"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mehdi Torabi",
+          "slug": "mehdi-torabi",
+          "wikipedia_title": "Mehdi Torabi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mehdi_Torabi",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1994-09-10",
+          "current_club": "Tractor",
+          "caps": 51,
+          "goals": 7,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mehdi_Torabi"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Rouzbeh Cheshmi",
+          "slug": "rouzbeh-cheshmi",
+          "wikipedia_title": "Rouzbeh Cheshmi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Rouzbeh_Cheshmi",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1993-07-24",
+          "current_club": "Esteghlal",
+          "caps": 40,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Rouzbeh_Cheshmi"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Omid Noorafkan",
+          "slug": "omid-noorafkan",
+          "wikipedia_title": "Omid Noorafkan",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Omid_Noorafkan",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1997-04-09",
+          "current_club": "Sepahan",
+          "caps": 39,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Omid_Noorafkan"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mohammad Mohebi",
+          "slug": "mohammad-mohebi",
+          "wikipedia_title": "Mohammad Mohebi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammad_Mohebi",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1998-12-20",
+          "current_club": "Rostov",
+          "caps": 35,
+          "goals": 14,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mohammad_Mohebi"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mohammad Ghorbani",
+          "slug": "mohammad-ghorbani",
+          "wikipedia_title": "Mohammad Ghorbani",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammad_Ghorbani",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2001-05-21",
+          "current_club": "Al-Wahda",
+          "caps": 14,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mohammad_Ghorbani"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Amirmohammad Razzaghinia",
+          "slug": "amirmohammad-razzaghinia",
+          "wikipedia_title": "Amirmohammad Razzaghinia",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Amirmohammad_Razzaghinia",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2006-04-11",
+          "current_club": "Esteghlal",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Amirmohammad_Razzaghinia"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Hadi Habibinejad",
+          "slug": "hadi-habibinejad",
+          "wikipedia_title": "Hadi Habibinejad",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Hadi_Habibinejad",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1995-10-17",
+          "current_club": "Chadormalou",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Hadi_Habibinejad"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mehdi Taremi",
+          "slug": "mehdi-taremi",
+          "wikipedia_title": "Mehdi Taremi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mehdi_Taremi",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1992-07-18",
+          "current_club": "Olympiacos",
+          "caps": 103,
+          "goals": 59,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mehdi_Taremi"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mehdi Ghayedi",
+          "slug": "mehdi-ghayedi",
+          "wikipedia_title": "Mehdi Ghayedi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mehdi_Ghayedi",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1998-12-05",
+          "current_club": "Al-Nasr",
+          "caps": 29,
+          "goals": 10,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mehdi_Ghayedi"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Amirhossein Hosseinzadeh",
+          "slug": "amirhossein-hosseinzadeh",
+          "wikipedia_title": "Amirhossein Hosseinzadeh",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Amirhossein_Hosseinzadeh",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2000-10-30",
+          "current_club": "Tractor",
+          "caps": 16,
+          "goals": 5,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Amirhossein_Hosseinzadeh"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ali Alipour",
+          "slug": "ali-alipour",
+          "wikipedia_title": "Ali Alipour",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Alipour",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1995-11-11",
+          "current_club": "Persepolis",
+          "caps": 12,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ali_Alipour"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Kasra Taheri",
+          "slug": "kasra-taheri",
+          "wikipedia_title": "Kasra Taheri",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kasra_Taheri",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2006-08-06",
+          "current_club": "Paykan",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Kasra_Taheri"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Amirhossein Mahmoudi",
+          "slug": "amirhossein-mahmoudi",
+          "wikipedia_title": "Amirhossein Mahmoudi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Amirhossein_Mahmoudi",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2006-07-12",
+          "current_club": "Persepolis",
+          "caps": 1,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Amirhossein_Mahmoudi"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Dennis Eckert",
+          "slug": "dennis-eckert",
+          "wikipedia_title": "Dennis Eckert",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Dennis_Eckert",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1997-01-09",
+          "current_club": "Standard Liège",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Dennis_Eckert"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        }
+      ]
+    },
+    {
+      "slug": "new-zealand",
+      "country": "New Zealand",
+      "wikidata_qid": "Q136682891",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+        "https://en.wikipedia.org/wiki/New_Zealand_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/New_Zealand_national_football_team"
+      ],
+      "notes": [],
+      "players": [
+        {
+          "display_name": "Max Crocombe",
+          "slug": "max-crocombe",
+          "wikipedia_title": "Max Crocombe",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Max_Crocombe",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1993-08-12",
+          "current_club": "Millwall",
+          "caps": 22,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Max_Crocombe"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Tim Payne",
+          "slug": "tim-payne",
+          "wikipedia_title": "Tim Payne",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Payne",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1994-01-10",
+          "current_club": "Wellington Phoenix",
+          "caps": 49,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Tim_Payne"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Francis de Vries",
+          "slug": "francis-de-vries",
+          "wikipedia_title": "Francis de Vries",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_de_Vries",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1994-11-28",
+          "current_club": "Auckland FC",
+          "caps": 18,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Francis_de_Vries"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Tyler Bindon",
+          "slug": "tyler-bindon",
+          "wikipedia_title": "Tyler Bindon",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tyler_Bindon",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2005-01-27",
+          "current_club": "Sheffield United",
+          "caps": 23,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Tyler_Bindon"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Michael Boxall",
+          "slug": "michael-boxall",
+          "wikipedia_title": "Michael Boxall",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Boxall",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1988-08-18",
+          "current_club": "Minnesota United FC",
+          "caps": 61,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Michael_Boxall"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Joe Bell",
+          "slug": "joe-bell",
+          "wikipedia_title": "Joe Bell",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Bell",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1999-04-27",
+          "current_club": "Viking",
+          "caps": 31,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Joe_Bell"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Matthew Garbett",
+          "slug": "matthew-garbett",
+          "wikipedia_title": "Matthew Garbett",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Matthew_Garbett",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2002-04-13",
+          "current_club": "Peterborough United",
+          "caps": 35,
+          "goals": 5,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Matthew_Garbett"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Marko Stamenić",
+          "slug": "marko-stamenic",
+          "wikipedia_title": "Marko Stamenić",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Marko_Stameni%C4%87",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2002-02-19",
+          "current_club": "Swansea City",
+          "caps": 37,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Marko_Stameni%C4%87"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Chris Wood",
+          "slug": "chris-wood",
+          "wikipedia_title": "Chris Wood",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Wood",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1991-12-07",
+          "current_club": "Nottingham Forest",
+          "caps": 88,
+          "goals": 45,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Chris_Wood"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Sarpreet Singh",
+          "slug": "sarpreet-singh",
+          "wikipedia_title": "Sarpreet Singh",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Sarpreet_Singh",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1999-02-20",
+          "current_club": "Wellington Phoenix",
+          "caps": 26,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Sarpreet_Singh"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Elijah Just",
+          "slug": "elijah-just",
+          "wikipedia_title": "Elijah Just",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Elijah_Just",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2000-05-01",
+          "current_club": "Motherwell",
+          "caps": 42,
+          "goals": 9,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Elijah_Just"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Alex Paulsen",
+          "slug": "alex-paulsen",
+          "wikipedia_title": "Alex Paulsen",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Paulsen",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "2002-07-04",
+          "current_club": "Lechia Gdańsk",
+          "caps": 6,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Alex_Paulsen"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Liberato Cacace",
+          "slug": "liberato-cacace",
+          "wikipedia_title": "Liberato Cacace",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Liberato_Cacace",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-09-27",
+          "current_club": "Wrexham",
+          "caps": 35,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Liberato_Cacace"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Alex Rufer",
+          "slug": "alex-rufer",
+          "wikipedia_title": "Alex Rufer",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Rufer",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1996-06-12",
+          "current_club": "Wellington Phoenix",
+          "caps": 24,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Alex_Rufer"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Nando Pijnaker",
+          "slug": "nando-pijnaker",
+          "wikipedia_title": "Nando Pijnaker",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Nando_Pijnaker",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1999-02-25",
+          "current_club": "Auckland FC",
+          "caps": 23,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Nando_Pijnaker"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Finn Surman",
+          "slug": "finn-surman",
+          "wikipedia_title": "Finn Surman",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Finn_Surman",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2003-09-23",
+          "current_club": "Portland Timbers",
+          "caps": 17,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Finn_Surman"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Kosta Barbarouses",
+          "slug": "kosta-barbarouses",
+          "wikipedia_title": "Kosta Barbarouses",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kosta_Barbarouses",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1990-02-19",
+          "current_club": "Western Sydney Wanderers",
+          "caps": 74,
+          "goals": 10,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Kosta_Barbarouses"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ben Waine",
+          "slug": "ben-waine",
+          "wikipedia_title": "Ben Waine",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ben_Waine",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2001-06-11",
+          "current_club": "Port Vale",
+          "caps": 30,
+          "goals": 9,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ben_Waine"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ben Old",
+          "slug": "ben-old",
+          "wikipedia_title": "Ben Old",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ben_Old",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2002-08-13",
+          "current_club": "Saint-Étienne",
+          "caps": 22,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ben_Old"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Callum McCowatt",
+          "slug": "callum-mccowatt",
+          "wikipedia_title": "Callum McCowatt",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Callum_McCowatt",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1999-04-30",
+          "current_club": "Silkeborg",
+          "caps": 30,
+          "goals": 4,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Callum_McCowatt"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Jesse Randall",
+          "slug": "jesse-randall",
+          "wikipedia_title": "Jesse Randall",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jesse_Randall",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2002-08-19",
+          "current_club": "Auckland FC",
+          "caps": 9,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jesse_Randall"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Michael Woud",
+          "slug": "michael-woud",
+          "wikipedia_title": "Michael Woud",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Woud",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1999-01-16",
+          "current_club": "Auckland FC",
+          "caps": 6,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Michael_Woud"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ryan Thomas",
+          "slug": "ryan-thomas",
+          "wikipedia_title": "Ryan Thomas",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Thomas",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1994-12-20",
+          "current_club": "PEC Zwolle",
+          "caps": 25,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ryan_Thomas"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Callan Elliot",
+          "slug": "callan-elliot",
+          "wikipedia_title": "Callan Elliot",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Callan_Elliot",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1999-07-07",
+          "current_club": "Auckland FC",
+          "caps": 9,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Callan_Elliot"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Lachlan Bayliss",
+          "slug": "lachlan-bayliss",
+          "wikipedia_title": "Lachlan Bayliss",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Lachlan_Bayliss",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2002-07-24",
+          "current_club": "Newcastle Jets",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Lachlan_Bayliss"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Tommy Smith",
+          "slug": "tommy-smith",
+          "wikipedia_title": "Tommy Smith",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tommy_Smith",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1990-03-31",
+          "current_club": "Braintree Town",
+          "caps": 56,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Tommy_Smith"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        }
+      ]
+    }
+  ],
+  "blockers": []
+}

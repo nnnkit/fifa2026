@@ -1,0 +1,3332 @@
+{
+  "group": "D",
+  "generated_at": "2026-05-24T12:30:58+00:00",
+  "source_policy": "wikipedia-wikidata-commons-only",
+  "teams": [
+    {
+      "slug": "australia",
+      "country": "Australia",
+      "wikidata_qid": "Q115799259",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+        "https://en.wikipedia.org/wiki/Australia_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team"
+      ],
+      "notes": [
+        "Central squads article did not include an Australia squad table as of this research pass; used national-team current-squad table."
+      ],
+      "players": [
+        {
+          "display_name": "Mathew Ryan",
+          "slug": "mathew-ryan",
+          "wikipedia_title": "Mathew Ryan",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mathew_Ryan",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1992-04-08",
+          "current_club": "Levante",
+          "caps": 103,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Mathew_Ryan"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Paul Izzo",
+          "slug": "paul-izzo",
+          "wikipedia_title": "Paul Izzo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Izzo",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1995-01-06",
+          "current_club": "Randers",
+          "caps": 4,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Paul_Izzo"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Patrick Beach",
+          "slug": "patrick-beach",
+          "wikipedia_title": "Patrick Beach",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Beach",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "2003-08-06",
+          "current_club": "Melbourne City",
+          "caps": 1,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Patrick_Beach"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Miloš Degenek",
+          "slug": "miloš-degenek",
+          "wikipedia_title": "Miloš Degenek",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Milo%C5%A1_Degenek",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1994-04-28",
+          "current_club": "APOEL",
+          "caps": 56,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Milo%C5%A1_Degenek"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Jacob Italiano",
+          "slug": "jacob-italiano",
+          "wikipedia_title": "Jacob Italiano",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jacob_Italiano",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2001-07-30",
+          "current_club": "Grazer AK",
+          "caps": 3,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Jacob_Italiano"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Kye Rowles",
+          "slug": "kye-rowles",
+          "wikipedia_title": "Kye Rowles",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kye_Rowles",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1998-06-24",
+          "current_club": "D.C. United",
+          "caps": 29,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Kye_Rowles"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Jordan Bos",
+          "slug": "jordan-bos",
+          "wikipedia_title": "Jordan Bos",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jordan_Bos",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2002-10-29",
+          "current_club": "Feyenoord",
+          "caps": 25,
+          "goals": 4,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Jordan_Bos"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Kai Trewin",
+          "slug": "kai-trewin",
+          "wikipedia_title": "Kai Trewin",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kai_Trewin",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2001-05-18",
+          "current_club": "New York City",
+          "caps": 4,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Kai_Trewin"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Aziz Behich",
+          "slug": "aziz-behich",
+          "wikipedia_title": "Aziz Behich",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aziz_Behich",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1990-12-16",
+          "current_club": "Melbourne City",
+          "caps": 82,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Aziz_Behich"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Jason Geria",
+          "slug": "jason-geria",
+          "wikipedia_title": "Jason Geria",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jason_Geria",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1993-05-10",
+          "current_club": "Albirex Niigata",
+          "caps": 13,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Jason_Geria"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Cameron Burgess",
+          "slug": "cameron-burgess",
+          "wikipedia_title": "Cameron Burgess",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Cameron_Burgess",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1995-10-21",
+          "current_club": "Swansea City",
+          "caps": 25,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Cameron_Burgess"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Alessandro Circati",
+          "slug": "alessandro-circati",
+          "wikipedia_title": "Alessandro Circati",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alessandro_Circati",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2003-10-10",
+          "current_club": "Parma",
+          "caps": 11,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Alessandro_Circati"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Lucas Herrington",
+          "slug": "lucas-herrington",
+          "wikipedia_title": "Lucas Herrington",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_Herrington",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2007-07-05",
+          "current_club": "Colorado Rapids",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Lucas_Herrington"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Connor Metcalfe",
+          "slug": "connor-metcalfe",
+          "wikipedia_title": "Connor Metcalfe",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Connor_Metcalfe",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1999-11-05",
+          "current_club": "FC St. Pauli",
+          "caps": 34,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Connor_Metcalfe"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ajdin Hrustić",
+          "slug": "ajdin-hrustić",
+          "wikipedia_title": "Ajdin Hrustić",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ajdin_Hrusti%C4%87",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1996-07-05",
+          "current_club": "Heracles Almelo",
+          "caps": 36,
+          "goals": 4,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Ajdin_Hrusti%C4%87"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Aiden O'Neill",
+          "slug": "aiden-oneill",
+          "wikipedia_title": "Aiden O'Neill",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aiden_O%27Neill",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1998-07-04",
+          "current_club": "New York City",
+          "caps": 29,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Aiden_O%27Neill"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Riley McGree",
+          "slug": "riley-mcgree",
+          "wikipedia_title": "Riley McGree",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Riley_McGree",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1998-11-02",
+          "current_club": "Middlesbrough",
+          "caps": 35,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Riley_McGree"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Patrick Yazbek",
+          "slug": "patrick-yazbek",
+          "wikipedia_title": "Patrick Yazbek",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Yazbek",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2002-04-05",
+          "current_club": "Nashville SC",
+          "caps": 9,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Patrick_Yazbek"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Paul Okon-Engstler",
+          "slug": "paul-okon-engstler",
+          "wikipedia_title": "Paul Okon-Engstler",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Okon-Engstler",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2005-01-24",
+          "current_club": "Sydney FC",
+          "caps": 4,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Paul_Okon-Engstler"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Alex Robertson",
+          "slug": "alex-robertson",
+          "wikipedia_title": "Alex Robertson",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Robertson",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2003-04-17",
+          "current_club": "Cardiff City",
+          "caps": 3,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Alex_Robertson"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Martin Boyle",
+          "slug": "martin-boyle",
+          "wikipedia_title": "Martin Boyle",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Boyle",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1993-04-25",
+          "current_club": "Hibernian",
+          "caps": 41,
+          "goals": 10,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Martin_Boyle"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Nestory Irankunda",
+          "slug": "nestory-irankunda",
+          "wikipedia_title": "Nestory Irankunda",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Nestory_Irankunda",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2006-02-09",
+          "current_club": "Watford",
+          "caps": 13,
+          "goals": 5,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Nestory_Irankunda"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Nishan Velupillay",
+          "slug": "nishan-velupillay",
+          "wikipedia_title": "Nishan Velupillay",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Nishan_Velupillay",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2001-05-07",
+          "current_club": "Melbourne Victory",
+          "caps": 6,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Nishan_Velupillay"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Awer Mabil",
+          "slug": "awer-mabil",
+          "wikipedia_title": "Awer Mabil",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Awer_Mabil",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1995-09-15",
+          "current_club": "Castellón",
+          "caps": 37,
+          "goals": 10,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Awer_Mabil"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Deni Jurić",
+          "slug": "deni-jurić",
+          "wikipedia_title": "Deni Jurić",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Deni_Juri%C4%87",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1997-09-03",
+          "current_club": "Wisła Płock",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Deni_Juri%C4%87"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ante Šuto",
+          "slug": "ante-šuto",
+          "wikipedia_title": "Ante Šuto",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ante_%C5%A0uto",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2000-06-19",
+          "current_club": "Hibernian",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Ante_%C5%A0uto"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        }
+      ]
+    },
+    {
+      "slug": "paraguay",
+      "country": "Paraguay",
+      "wikidata_qid": "Q172020",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+        "https://en.wikipedia.org/wiki/Paraguay_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Paraguay_national_football_team"
+      ],
+      "notes": [],
+      "players": [
+        {
+          "display_name": "Gatito Fernández",
+          "slug": "gatito-fernández",
+          "wikipedia_title": "Gatito Fernández",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Gatito_Fern%C3%A1ndez",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1988-03-29",
+          "current_club": "Cerro Porteño",
+          "caps": 30,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Gatito_Fern%C3%A1ndez"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Carlos Coronel",
+          "slug": "carlos-coronel",
+          "wikipedia_title": "Carlos Coronel",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Coronel",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1996-12-29",
+          "current_club": "São Paulo",
+          "caps": 9,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Carlos_Coronel"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Orlando Gill",
+          "slug": "orlando-gill",
+          "wikipedia_title": "Orlando Gill",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Orlando_Gill",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "2000-06-11",
+          "current_club": "San Lorenzo",
+          "caps": 5,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Orlando_Gill"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Santiago Rojas",
+          "slug": "santiago-rojas",
+          "wikipedia_title": "Santiago Rojas",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Santiago_Rojas",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1996-04-05",
+          "current_club": "Nacional",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Santiago_Rojas"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Juan Espínola",
+          "slug": "juan-espínola",
+          "wikipedia_title": "Juan Espínola (footballer, born 1994)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Esp%C3%ADnola_(footballer,_born_1994)",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1994-11-02",
+          "current_club": "Barracas Central",
+          "caps": 1,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Juan_Esp%C3%ADnola_(footballer,_born_1994)"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Gastón Olveira",
+          "slug": "gastón-olveira",
+          "wikipedia_title": "Gastón Olveira",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Gast%C3%B3n_Olveira",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1993-04-21",
+          "current_club": "Olimpia",
+          "caps": 1,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Gast%C3%B3n_Olveira"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Gustavo Gómez",
+          "slug": "gustavo-gómez",
+          "wikipedia_title": "Gustavo Gómez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Gustavo_G%C3%B3mez",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1993-05-06",
+          "current_club": "Palmeiras",
+          "caps": 88,
+          "goals": 4,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Gustavo_G%C3%B3mez"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Júnior Alonso",
+          "slug": "júnior-alonso",
+          "wikipedia_title": "Júnior Alonso",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/J%C3%BAnior_Alonso",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1993-02-09",
+          "current_club": "Atlético Mineiro",
+          "caps": 70,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/J%C3%BAnior_Alonso"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Fabián Balbuena",
+          "slug": "fabián-balbuena",
+          "wikipedia_title": "Fabián Balbuena",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Fabi%C3%A1n_Balbuena",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1991-08-23",
+          "current_club": "Grêmio",
+          "caps": 47,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Fabi%C3%A1n_Balbuena"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Omar Alderete",
+          "slug": "omar-alderete",
+          "wikipedia_title": "Omar Alderete",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Omar_Alderete",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1996-12-26",
+          "current_club": "Sunderland",
+          "caps": 35,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Omar_Alderete"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Juan José Cáceres",
+          "slug": "juan-josé-cáceres",
+          "wikipedia_title": "Juan José Cáceres",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_C%C3%A1ceres",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-06-01",
+          "current_club": "Dynamo Moscow",
+          "caps": 16,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_C%C3%A1ceres"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Blas Riveros",
+          "slug": "blas-riveros",
+          "wikipedia_title": "Blas Riveros",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Blas_Riveros",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1998-02-03",
+          "current_club": "Cerro Porteño",
+          "caps": 15,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Blas_Riveros"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Gustavo Velázquez",
+          "slug": "gustavo-velázquez",
+          "wikipedia_title": "Gustavo Velázquez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Gustavo_Vel%C3%A1zquez",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1991-04-17",
+          "current_club": "Cerro Porteño",
+          "caps": 12,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Gustavo_Vel%C3%A1zquez"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Alan Benítez",
+          "slug": "alan-benítez",
+          "wikipedia_title": "Alan Benítez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alan_Ben%C3%ADtez",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1994-01-25",
+          "current_club": "Libertad",
+          "caps": 8,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Alan_Ben%C3%ADtez"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Agustín Sández",
+          "slug": "agustín-sández",
+          "wikipedia_title": "Agustín Sández",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_S%C3%A1ndez",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2001-01-16",
+          "current_club": "Rosario Central",
+          "caps": 5,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Agust%C3%ADn_S%C3%A1ndez"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mateo Gamarra",
+          "slug": "mateo-gamarra",
+          "wikipedia_title": "Mateo Gamarra",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mateo_Gamarra",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-10-20",
+          "current_club": "Cruzeiro",
+          "caps": 3,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mateo_Gamarra"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Saúl Salcedo",
+          "slug": "saúl-salcedo",
+          "wikipedia_title": "Saúl Salcedo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Sa%C3%BAl_Salcedo",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1997-08-28",
+          "current_club": "Newell's Old Boys",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Sa%C3%BAl_Salcedo"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "José Canale",
+          "slug": "josé-canale",
+          "wikipedia_title": "José Canale",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Canale",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1996-07-20",
+          "current_club": "Lanús",
+          "caps": 1,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Jos%C3%A9_Canale"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Diego León",
+          "slug": "diego-león",
+          "wikipedia_title": "Diego León (footballer, born 2007)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_Le%C3%B3n_(footballer,_born_2007)",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2007-04-03",
+          "current_club": "Manchester United",
+          "caps": 1,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Diego_Le%C3%B3n_(footballer,_born_2007)"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Alexandro Maidana",
+          "slug": "alexandro-maidana",
+          "wikipedia_title": "Alexandro Maidana",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alexandro_Maidana",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2005-07-26",
+          "current_club": "Talleres",
+          "caps": 1,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Alexandro_Maidana"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Alcides Benítez",
+          "slug": "alcides-benítez",
+          "wikipedia_title": null,
+          "wikipedia_url": null,
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2002-06-08",
+          "current_club": "Belgrano",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "No linked player article found in squad table."
+          ]
+        },
+        {
+          "display_name": "Ronaldo Dejesús",
+          "slug": "ronaldo-dejesús",
+          "wikipedia_title": "Ronaldo Dejesús",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ronaldo_Dejes%C3%BAs",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2001-04-21",
+          "current_club": "Lanús",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ronaldo_Dejes%C3%BAs"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Alan Núñez",
+          "slug": "alan-núñez",
+          "wikipedia_title": "Alan Núñez",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alan_N%C3%BA%C3%B1ez",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2004-10-01",
+          "current_club": "Nacional",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Alan_N%C3%BA%C3%B1ez"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Miguel Almirón",
+          "slug": "miguel-almirón",
+          "wikipedia_title": "Miguel Almirón",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Miguel_Almir%C3%B3n",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1994-02-10",
+          "current_club": "Atlanta United FC",
+          "caps": 75,
+          "goals": 9,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Miguel_Almir%C3%B3n"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mathías Villasanti",
+          "slug": "mathías-villasanti",
+          "wikipedia_title": "Mathías Villasanti",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Math%C3%ADas_Villasanti",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1997-01-24",
+          "current_club": "Grêmio",
+          "caps": 51,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Math%C3%ADas_Villasanti"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Kaku",
+          "slug": "kaku",
+          "wikipedia_title": "Kaku (footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kaku_(footballer)",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1995-01-11",
+          "current_club": "Al Ain",
+          "caps": 32,
+          "goals": 5,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Kaku_(footballer)"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Andrés Cubas",
+          "slug": "andrés-cubas",
+          "wikipedia_title": "Andrés Cubas",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Cubas",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1996-05-22",
+          "current_club": "Vancouver Whitecaps FC",
+          "caps": 32,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Andr%C3%A9s_Cubas"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ramón Sosa",
+          "slug": "ramón-sosa",
+          "wikipedia_title": "Ramón Sosa",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Sosa",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1999-08-31",
+          "current_club": "Palmeiras",
+          "caps": 28,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ram%C3%B3n_Sosa"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Diego Gómez",
+          "slug": "diego-gómez",
+          "wikipedia_title": "Diego Gómez (Paraguayan footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_G%C3%B3mez_(Paraguayan_footballer)",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2003-03-27",
+          "current_club": "Brighton & Hove Albion",
+          "caps": 23,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Diego_G%C3%B3mez_(Paraguayan_footballer)"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Damián Bobadilla",
+          "slug": "damián-bobadilla",
+          "wikipedia_title": "Damián Bobadilla",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Dami%C3%A1n_Bobadilla",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2001-07-11",
+          "current_club": "São Paulo",
+          "caps": 19,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Dami%C3%A1n_Bobadilla"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Braian Ojeda",
+          "slug": "braian-ojeda",
+          "wikipedia_title": "Braian Ojeda",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Braian_Ojeda",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2000-07-27",
+          "current_club": "Orlando City SC",
+          "caps": 16,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Braian_Ojeda"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Matías Galarza",
+          "slug": "matías-galarza",
+          "wikipedia_title": "Matías Galarza (Paraguayan footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mat%C3%ADas_Galarza_(Paraguayan_footballer)",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2002-02-11",
+          "current_club": "Atlanta United FC",
+          "caps": 14,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mat%C3%ADas_Galarza_(Paraguayan_footballer)"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Robert Piris Da Motta",
+          "slug": "robert-piris-da-motta",
+          "wikipedia_title": "Robert Piris Da Motta",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Piris_Da_Motta",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1994-07-26",
+          "current_club": "Cerro Porteño",
+          "caps": 9,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Robert_Piris_Da_Motta"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Álvaro Campuzano",
+          "slug": "álvaro-campuzano",
+          "wikipedia_title": "Álvaro Campuzano",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Campuzano",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1995-06-12",
+          "current_club": "Libertad",
+          "caps": 4,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/%C3%81lvaro_Campuzano"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Diego González",
+          "slug": "diego-gonzález",
+          "wikipedia_title": "Diego González (footballer, born 2003)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_Gonz%C3%A1lez_(footballer,_born_2003)",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2003-01-07",
+          "current_club": "Atlas",
+          "caps": 4,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Diego_Gonz%C3%A1lez_(footballer,_born_2003)"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Hugo Cuenca",
+          "slug": "hugo-cuenca",
+          "wikipedia_title": "Hugo Cuenca (footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Hugo_Cuenca_(footballer)",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2005-01-08",
+          "current_club": "Burgos",
+          "caps": 3,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Hugo_Cuenca_(footballer)"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Maurício",
+          "slug": "maurício",
+          "wikipedia_title": "Maurício (footballer, born 2001)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Maur%C3%ADcio_(footballer,_born_2001)",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2001-06-22",
+          "current_club": "Palmeiras",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Maur%C3%ADcio_(footballer,_born_2001)"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Lucas Romero",
+          "slug": "lucas-romero",
+          "wikipedia_title": "Lucas Romero (Paraguayan footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_Romero_(Paraguayan_footballer)",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2002-08-29",
+          "current_club": "Universidad de Chile",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Lucas_Romero_(Paraguayan_footballer)"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Enso González",
+          "slug": "enso-gonzález",
+          "wikipedia_title": "Enso González",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Enso_Gonz%C3%A1lez",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2005-01-20",
+          "current_club": "Wolverhampton Wanderers",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Enso_Gonz%C3%A1lez"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Rubén Lezcano",
+          "slug": "rubén-lezcano",
+          "wikipedia_title": "Rubén Lezcano",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Rub%C3%A9n_Lezcano",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2004-02-09",
+          "current_club": "Olimpia",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Rub%C3%A9n_Lezcano"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Óscar Romero",
+          "slug": "óscar-romero",
+          "wikipedia_title": "Óscar Romero (footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%93scar_Romero_(footballer)",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1992-07-04",
+          "current_club": "Huracán",
+          "caps": 55,
+          "goals": 4,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/%C3%93scar_Romero_(footballer)"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ángel Romero",
+          "slug": "ángel-romero",
+          "wikipedia_title": "Ángel Romero (footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81ngel_Romero_(footballer)",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1992-07-04",
+          "current_club": "Boca Juniors",
+          "caps": 51,
+          "goals": 8,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/%C3%81ngel_Romero_(footballer)"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Antonio Sanabria",
+          "slug": "antonio-sanabria",
+          "wikipedia_title": "Antonio Sanabria",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_Sanabria",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1996-03-04",
+          "current_club": "Cremonese",
+          "caps": 47,
+          "goals": 7,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Antonio_Sanabria"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Julio Enciso",
+          "slug": "julio-enciso",
+          "wikipedia_title": "Julio Enciso (footballer, born 2004)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Julio_Enciso_(footballer,_born_2004)",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2004-01-23",
+          "current_club": "Strasbourg",
+          "caps": 31,
+          "goals": 4,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Julio_Enciso_(footballer,_born_2004)"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Gabriel Ávalos",
+          "slug": "gabriel-ávalos",
+          "wikipedia_title": "Gabriel Ávalos",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel_%C3%81valos",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1991-07-09",
+          "current_club": "Independiente",
+          "caps": 22,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Gabriel_%C3%81valos"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Carlos González",
+          "slug": "carlos-gonzález",
+          "wikipedia_title": "Carlos González (footballer, born 1993)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Gonz%C3%A1lez_(footballer,_born_1993)",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1993-02-04",
+          "current_club": "Independiente del Valle",
+          "caps": 15,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Carlos_Gonz%C3%A1lez_(footballer,_born_1993)"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Álex Arce",
+          "slug": "álex-arce",
+          "wikipedia_title": "Álex Arce",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lex_Arce",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1995-06-16",
+          "current_club": "Independiente Rivadavia",
+          "caps": 14,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/%C3%81lex_Arce"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Adam Bareiro",
+          "slug": "adam-bareiro",
+          "wikipedia_title": "Adam Bareiro",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Adam_Bareiro",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1996-07-26",
+          "current_club": "Boca Juniors",
+          "caps": 8,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Adam_Bareiro"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Lorenzo Melgarejo",
+          "slug": "lorenzo-melgarejo",
+          "wikipedia_title": "Lorenzo Melgarejo",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Lorenzo_Melgarejo",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1990-08-10",
+          "current_club": "Libertad",
+          "caps": 5,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Lorenzo_Melgarejo"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Isidro Pitta",
+          "slug": "isidro-pitta",
+          "wikipedia_title": "Isidro Pitta",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Isidro_Pitta",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1999-08-14",
+          "current_club": "Red Bull Bragantino",
+          "caps": 5,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Isidro_Pitta"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ronaldo Martínez",
+          "slug": "ronaldo-martínez",
+          "wikipedia_title": "Ronaldo Martínez (footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ronaldo_Mart%C3%ADnez_(footballer)",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1996-04-25",
+          "current_club": "Talleres",
+          "caps": 4,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ronaldo_Mart%C3%ADnez_(footballer)"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Gustavo Caballero",
+          "slug": "gustavo-caballero",
+          "wikipedia_title": "Gustavo Caballero",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Gustavo_Caballero",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2001-09-21",
+          "current_club": "Portsmouth",
+          "caps": 2,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Gustavo_Caballero"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Robert Morales",
+          "slug": "robert-morales",
+          "wikipedia_title": "Robert Morales (footballer)",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Morales_(footballer)",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1999-03-17",
+          "current_club": "UNAM",
+          "caps": 2,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Robert_Morales_(footballer)"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Adrián Alcaraz",
+          "slug": "adrián-alcaraz",
+          "wikipedia_title": null,
+          "wikipedia_url": null,
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1999-09-28",
+          "current_club": "Olimpia",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+          ],
+          "confidence": "medium",
+          "research_notes": [
+            "No linked player article found in squad table."
+          ]
+        },
+        {
+          "display_name": "Rodney Redes",
+          "slug": "rodney-redes",
+          "wikipedia_title": "Rodney Redes",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Rodney_Redes",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2000-02-22",
+          "current_club": "LDU Quito",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Rodney_Redes"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        }
+      ]
+    },
+    {
+      "slug": "turkey",
+      "country": "Turkey",
+      "wikidata_qid": "Q483856",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+        "https://en.wikipedia.org/wiki/Turkey_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Turkey_national_football_team"
+      ],
+      "notes": [],
+      "players": [
+        {
+          "display_name": "Uğurcan Çakır",
+          "slug": "uğurcan-çakır",
+          "wikipedia_title": "Uğurcan Çakır",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/U%C4%9Furcan_%C3%87ak%C4%B1r",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1996-04-05",
+          "current_club": "Galatasaray",
+          "caps": 38,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/U%C4%9Furcan_%C3%87ak%C4%B1r"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mert Günok",
+          "slug": "mert-günok",
+          "wikipedia_title": "Mert Günok",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mert_G%C3%BCnok",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1989-03-01",
+          "current_club": "Fenerbahçe",
+          "caps": 37,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mert_G%C3%BCnok"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Altay Bayındır",
+          "slug": "altay-bayındır",
+          "wikipedia_title": "Altay Bayındır",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Altay_Bay%C4%B1nd%C4%B1r",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1998-04-14",
+          "current_club": "Manchester United",
+          "caps": 11,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Altay_Bay%C4%B1nd%C4%B1r"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ersin Destanoğlu",
+          "slug": "ersin-destanoğlu",
+          "wikipedia_title": "Ersin Destanoğlu",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ersin_Destano%C4%9Flu",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "2001-01-01",
+          "current_club": "Beşiktaş",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ersin_Destano%C4%9Flu"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Muhammed Şengezer",
+          "slug": "muhammed-şengezer",
+          "wikipedia_title": "Muhammed Şengezer",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammed_%C5%9Eengezer",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1997-01-05",
+          "current_club": "İstanbul Başakşehir",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Muhammed_%C5%9Eengezer"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Merih Demiral",
+          "slug": "merih-demiral",
+          "wikipedia_title": "Merih Demiral",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Merih_Demiral",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1998-03-05",
+          "current_club": "Al-Ahli",
+          "caps": 61,
+          "goals": 6,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Merih_Demiral"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Zeki Çelik",
+          "slug": "zeki-çelik",
+          "wikipedia_title": "Zeki Çelik",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Zeki_%C3%87elik",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1997-02-17",
+          "current_club": "Roma",
+          "caps": 59,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Zeki_%C3%87elik"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Çağlar Söyüncü",
+          "slug": "çağlar-söyüncü",
+          "wikipedia_title": "Çağlar Söyüncü",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%87a%C4%9Flar_S%C3%B6y%C3%BCnc%C3%BC",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1996-05-23",
+          "current_club": "Fenerbahçe",
+          "caps": 59,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/%C3%87a%C4%9Flar_S%C3%B6y%C3%BCnc%C3%BC"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mert Müldür",
+          "slug": "mert-müldür",
+          "wikipedia_title": "Mert Müldür",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mert_M%C3%BCld%C3%BCr",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1999-04-03",
+          "current_club": "Fenerbahçe",
+          "caps": 43,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mert_M%C3%BCld%C3%BCr"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ferdi Kadıoğlu",
+          "slug": "ferdi-kadıoğlu",
+          "wikipedia_title": "Ferdi Kadıoğlu",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdi_Kad%C4%B1o%C4%9Flu",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1999-10-07",
+          "current_club": "Brighton & Hove Albion",
+          "caps": 30,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ferdi_Kad%C4%B1o%C4%9Flu"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ozan Kabak",
+          "slug": "ozan-kabak",
+          "wikipedia_title": "Ozan Kabak",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ozan_Kabak",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-03-25",
+          "current_club": "TSG Hoffenheim",
+          "caps": 28,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ozan_Kabak"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Abdülkerim Bardakcı",
+          "slug": "abdülkerim-bardakcı",
+          "wikipedia_title": "Abdülkerim Bardakcı",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Abd%C3%BClkerim_Bardakc%C4%B1",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1994-09-07",
+          "current_club": "Galatasaray",
+          "caps": 26,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Abd%C3%BClkerim_Bardakc%C4%B1"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Eren Elmalı",
+          "slug": "eren-elmalı",
+          "wikipedia_title": "Eren Elmalı",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Eren_Elmal%C4%B1",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-07-07",
+          "current_club": "Galatasaray",
+          "caps": 21,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Eren_Elmal%C4%B1"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Samet Akaydin",
+          "slug": "samet-akaydin",
+          "wikipedia_title": "Samet Akaydin",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Samet_Akaydin",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1994-05-13",
+          "current_club": "Çaykur Rizespor",
+          "caps": 18,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Samet_Akaydin"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Yusuf Akçiçek",
+          "slug": "yusuf-akçiçek",
+          "wikipedia_title": "Yusuf Akçiçek",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Yusuf_Ak%C3%A7i%C3%A7ek",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2006-01-25",
+          "current_club": "Al-Hilal",
+          "caps": 3,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Yusuf_Ak%C3%A7i%C3%A7ek"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mustafa Eskihellaç",
+          "slug": "mustafa-eskihellaç",
+          "wikipedia_title": "Mustafa Eskihellaç",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mustafa_Eskihella%C3%A7",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1997-05-05",
+          "current_club": "Trabzonspor",
+          "caps": 3,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Mustafa_Eskihella%C3%A7"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ahmetcan Kaplan",
+          "slug": "ahmetcan-kaplan",
+          "wikipedia_title": "Ahmetcan Kaplan",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmetcan_Kaplan",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2003-01-16",
+          "current_club": "NEC",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Ahmetcan_Kaplan"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Hakan Çalhanoğlu",
+          "slug": "hakan-çalhanoğlu",
+          "wikipedia_title": "Hakan Çalhanoğlu",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Hakan_%C3%87alhano%C4%9Flu",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1994-02-08",
+          "current_club": "Inter Milan",
+          "caps": 104,
+          "goals": 22,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Hakan_%C3%87alhano%C4%9Flu"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Kaan Ayhan",
+          "slug": "kaan-ayhan",
+          "wikipedia_title": "Kaan Ayhan",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kaan_Ayhan",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1994-11-10",
+          "current_club": "Galatasaray",
+          "caps": 72,
+          "goals": 5,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Kaan_Ayhan"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Orkun Kökçü",
+          "slug": "orkun-kökçü",
+          "wikipedia_title": "Orkun Kökçü",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Orkun_K%C3%B6k%C3%A7%C3%BC",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2000-12-29",
+          "current_club": "Beşiktaş",
+          "caps": 48,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Orkun_K%C3%B6k%C3%A7%C3%BC"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "İsmail Yüksek",
+          "slug": "ismail-yüksek",
+          "wikipedia_title": "İsmail Yüksek",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%B0smail_Y%C3%BCksek",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1999-01-26",
+          "current_club": "Fenerbahçe",
+          "caps": 31,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/%C4%B0smail_Y%C3%BCksek"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Salih Özcan",
+          "slug": "salih-özcan",
+          "wikipedia_title": "Salih Özcan",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Salih_%C3%96zcan",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1998-01-11",
+          "current_club": "Borussia Dortmund",
+          "caps": 28,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Salih_%C3%96zcan"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Atakan Karazor",
+          "slug": "atakan-karazor",
+          "wikipedia_title": "Atakan Karazor",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Atakan_Karazor",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1996-10-13",
+          "current_club": "VfB Stuttgart",
+          "caps": 2,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Atakan_Karazor"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Demir Ege Tıknaz",
+          "slug": "demir-ege-tıknaz",
+          "wikipedia_title": "Demir Ege Tıknaz",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Demir_Ege_T%C4%B1knaz",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2004-08-17",
+          "current_club": "Braga",
+          "caps": 1,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Demir_Ege_T%C4%B1knaz"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Kerem Aktürkoğlu",
+          "slug": "kerem-aktürkoğlu",
+          "wikipedia_title": "Kerem Aktürkoğlu",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kerem_Akt%C3%BCrko%C4%9Flu",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1998-10-21",
+          "current_club": "Fenerbahçe",
+          "caps": 51,
+          "goals": 15,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Kerem_Akt%C3%BCrko%C4%9Flu"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "İrfan Can Kahveci",
+          "slug": "irfan-can-kahveci",
+          "wikipedia_title": "İrfan Can Kahveci",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%B0rfan_Can_Kahveci",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1995-07-15",
+          "current_club": "Kasımpaşa",
+          "caps": 45,
+          "goals": 6,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/%C4%B0rfan_Can_Kahveci"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Barış Alper Yılmaz",
+          "slug": "barış-alper-yılmaz",
+          "wikipedia_title": "Barış Alper Yılmaz",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Bar%C4%B1%C5%9F_Alper_Y%C4%B1lmaz",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2000-05-23",
+          "current_club": "Galatasaray",
+          "caps": 33,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Bar%C4%B1%C5%9F_Alper_Y%C4%B1lmaz"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Arda Güler",
+          "slug": "arda-güler",
+          "wikipedia_title": "Arda Güler",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Arda_G%C3%BCler",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2005-02-25",
+          "current_club": "Real Madrid",
+          "caps": 28,
+          "goals": 6,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Arda_G%C3%BCler"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Kenan Yıldız",
+          "slug": "kenan-yıldız",
+          "wikipedia_title": "Kenan Yıldız",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Kenan_Y%C4%B1ld%C4%B1z",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2005-05-04",
+          "current_club": "Juventus",
+          "caps": 28,
+          "goals": 5,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Kenan_Y%C4%B1ld%C4%B1z"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Yunus Akgün",
+          "slug": "yunus-akgün",
+          "wikipedia_title": "Yunus Akgün",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Yunus_Akg%C3%BCn",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2000-07-07",
+          "current_club": "Galatasaray",
+          "caps": 17,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Yunus_Akg%C3%BCn"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Oğuz Aydın",
+          "slug": "oğuz-aydın",
+          "wikipedia_title": "Oğuz Aydın",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/O%C4%9Fuz_Ayd%C4%B1n",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2000-10-27",
+          "current_club": "Fenerbahçe",
+          "caps": 9,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/O%C4%9Fuz_Ayd%C4%B1n"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Deniz Gül",
+          "slug": "deniz-gül",
+          "wikipedia_title": "Deniz Gül",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Deniz_G%C3%BCl",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2004-07-02",
+          "current_club": "Porto",
+          "caps": 6,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Deniz_G%C3%BCl"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Yusuf Sarı",
+          "slug": "yusuf-sarı",
+          "wikipedia_title": "Yusuf Sarı",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Yusuf_Sar%C4%B1",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1998-11-20",
+          "current_club": "İstanbul Başakşehir",
+          "caps": 6,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Yusuf_Sar%C4%B1"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Can Uzun",
+          "slug": "can-uzun",
+          "wikipedia_title": "Can Uzun",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Can_Uzun",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2005-11-11",
+          "current_club": "Eintracht Frankfurt",
+          "caps": 4,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Can_Uzun"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        },
+        {
+          "display_name": "Aral Şimşir",
+          "slug": "aral-şimşir",
+          "wikipedia_title": "Aral Şimşir",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aral_%C5%9Eim%C5%9Fir",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2002-06-19",
+          "current_club": "Midtjylland",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+            "https://en.wikipedia.org/wiki/Aral_%C5%9Eim%C5%9Fir"
+          ],
+          "confidence": "high",
+          "research_notes": []
+        }
+      ]
+    },
+    {
+      "slug": "united-states",
+      "country": "United States",
+      "wikidata_qid": "Q164134",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+        "https://en.wikipedia.org/wiki/United_States_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team"
+      ],
+      "notes": [
+        "Central squads article did not include a United States squad table as of this research pass; used national-team current-squad table."
+      ],
+      "players": [
+        {
+          "display_name": "Matt Turner",
+          "slug": "matt-turner",
+          "wikipedia_title": "Matt Turner",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Matt_Turner",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1994-06-24",
+          "current_club": "New England Revolution",
+          "caps": 53,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Matt_Turner"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Matt Freese",
+          "slug": "matt-freese",
+          "wikipedia_title": "Matt Freese",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Matt_Freese",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "1998-09-02",
+          "current_club": "New York City FC",
+          "caps": 14,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Matt_Freese"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Chris Brady",
+          "slug": "chris-brady",
+          "wikipedia_title": "Chris Brady",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Brady",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "2004-03-03",
+          "current_club": "Chicago Fire",
+          "caps": 0,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Chris_Brady"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Patrick Schulte",
+          "slug": "patrick-schulte",
+          "wikipedia_title": "Patrick Schulte",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Schulte",
+          "wikidata_qid": null,
+          "position_code": "GK",
+          "date_of_birth": "2001-03-13",
+          "current_club": "Columbus Crew",
+          "caps": 3,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Patrick_Schulte"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Auston Trusty",
+          "slug": "auston-trusty",
+          "wikipedia_title": "Auston Trusty",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Auston_Trusty",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1998-08-12",
+          "current_club": "Celtic",
+          "caps": 6,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Auston_Trusty"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Chris Richards",
+          "slug": "chris-richards",
+          "wikipedia_title": "Chris Richards",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Richards",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2000-03-28",
+          "current_club": "Crystal Palace",
+          "caps": 36,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Chris_Richards"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Antonee Robinson",
+          "slug": "antonee-robinson",
+          "wikipedia_title": "Antonee Robinson",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Antonee_Robinson",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1997-08-08",
+          "current_club": "Fulham",
+          "caps": 52,
+          "goals": 4,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Antonee_Robinson"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Miles Robinson",
+          "slug": "miles-robinson",
+          "wikipedia_title": "Miles Robinson",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Miles_Robinson",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1997-03-14",
+          "current_club": "FC Cincinnati",
+          "caps": 38,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Miles_Robinson"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Tim Ream",
+          "slug": "tim-ream",
+          "wikipedia_title": "Tim Ream",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Ream",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1987-10-05",
+          "current_club": "Charlotte FC",
+          "caps": 80,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Tim_Ream"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Alex Freeman",
+          "slug": "alex-freeman",
+          "wikipedia_title": "Alex Freeman",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Freeman",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2004-08-09",
+          "current_club": "Villarreal",
+          "caps": 15,
+          "goals": 2,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Alex_Freeman"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Maximilian Arfsten",
+          "slug": "maximilian-arfsten",
+          "wikipedia_title": "Maximilian Arfsten",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Maximilian_Arfsten",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2001-04-19",
+          "current_club": "Columbus Crew",
+          "caps": 18,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Maximilian_Arfsten"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Joe Scally",
+          "slug": "joe-scally",
+          "wikipedia_title": "Joe Scally",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Scally",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "2002-12-31",
+          "current_club": "Borussia Mönchengladbach",
+          "caps": 24,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Joe_Scally"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Mark McKenzie",
+          "slug": "mark-mckenzie",
+          "wikipedia_title": "Mark McKenzie",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_McKenzie",
+          "wikidata_qid": null,
+          "position_code": "DF",
+          "date_of_birth": "1999-02-25",
+          "current_club": "Toulouse",
+          "caps": 27,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Mark_McKenzie"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Cristian Roldan",
+          "slug": "cristian-roldan",
+          "wikipedia_title": "Cristian Roldan",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Cristian_Roldan",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1995-06-03",
+          "current_club": "Seattle Sounders",
+          "caps": 45,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Cristian_Roldan"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Tanner Tessmann",
+          "slug": "tanner-tessmann",
+          "wikipedia_title": "Tanner Tessmann",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Tanner_Tessmann",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2001-09-24",
+          "current_club": "Lyon",
+          "caps": 14,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Tanner_Tessmann"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Giovanni Reyna",
+          "slug": "giovanni-reyna",
+          "wikipedia_title": "Giovanni Reyna",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Reyna",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2002-11-13",
+          "current_club": "Borussia Mönchengladbach",
+          "caps": 36,
+          "goals": 9,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Giovanni_Reyna"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Weston McKennie",
+          "slug": "weston-mckennie",
+          "wikipedia_title": "Weston McKennie",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Weston_McKennie",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "1998-08-28",
+          "current_club": "Juventus",
+          "caps": 64,
+          "goals": 12,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Weston_McKennie"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Sebastian Berhalter",
+          "slug": "sebastian-berhalter",
+          "wikipedia_title": "Sebastian Berhalter",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Sebastian_Berhalter",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2001-05-10",
+          "current_club": "Vancouver Whitecaps",
+          "caps": 11,
+          "goals": 1,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Sebastian_Berhalter"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Malik Tillman",
+          "slug": "malik-tillman",
+          "wikipedia_title": "Malik Tillman",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Malik_Tillman",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2002-05-28",
+          "current_club": "Bayer Leverkusen",
+          "caps": 28,
+          "goals": 3,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Malik_Tillman"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Aidan Morris",
+          "slug": "aidan-morris",
+          "wikipedia_title": "Aidan Morris",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Aidan_Morris",
+          "wikidata_qid": null,
+          "position_code": "MF",
+          "date_of_birth": "2001-11-16",
+          "current_club": "Middlesbrough",
+          "caps": 14,
+          "goals": 0,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Aidan_Morris"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Ricardo Pepi",
+          "slug": "ricardo-pepi",
+          "wikipedia_title": "Ricardo Pepi",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Ricardo_Pepi",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2003-01-09",
+          "current_club": "PSV Eindhoven",
+          "caps": 35,
+          "goals": 13,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Ricardo_Pepi"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Christian Pulisic",
+          "slug": "christian-pulisic",
+          "wikipedia_title": "Christian Pulisic",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Pulisic",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "1998-09-18",
+          "current_club": "AC Milan",
+          "caps": 84,
+          "goals": 32,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Christian_Pulisic"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Brenden Aaronson",
+          "slug": "brenden-aaronson",
+          "wikipedia_title": "Brenden Aaronson",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Brenden_Aaronson",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2000-10-22",
+          "current_club": "Leeds United",
+          "caps": 57,
+          "goals": 9,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Brenden_Aaronson"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Folarin Balogun",
+          "slug": "folarin-balogun",
+          "wikipedia_title": "Folarin Balogun",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Folarin_Balogun",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2001-07-03",
+          "current_club": "Monaco",
+          "caps": 25,
+          "goals": 8,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Folarin_Balogun"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Timothy Weah",
+          "slug": "timothy-weah",
+          "wikipedia_title": "Timothy Weah",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Timothy_Weah",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2000-02-22",
+          "current_club": "Marseille",
+          "caps": 49,
+          "goals": 7,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Timothy_Weah"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        },
+        {
+          "display_name": "Patrick Agyemang",
+          "slug": "patrick-agyemang",
+          "wikipedia_title": "Patrick Agyemang",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Agyemang",
+          "wikidata_qid": null,
+          "position_code": "FW",
+          "date_of_birth": "2000-11-07",
+          "current_club": "Derby County",
+          "caps": 14,
+          "goals": 6,
+          "photo": {
+            "filename": null,
+            "commons_url": null,
+            "license": null
+          },
+          "sources": [
+            "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+            "https://en.wikipedia.org/wiki/Patrick_Agyemang"
+          ],
+          "confidence": "medium",
+          "research_notes": []
+        }
+      ]
+    }
+  ],
+  "blockers": []
+}
