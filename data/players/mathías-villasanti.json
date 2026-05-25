@@ -1,0 +1,54 @@
+{
+  "slug": "mathías-villasanti",
+  "display_name": "Mathías Villasanti",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-01-24",
+  "age": 29,
+  "caps": 51,
+  "goals": 0,
+  "club_from_squad_table": "Grêmio",
+  "wikipedia_title": "Mathías Villasanti",
+  "date_of_birth": "1997-01-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Grêmio",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q29783600",
+  "qid": "Q29783600",
+  "name": "Mathías Villasanti",
+  "description": "association football player",
+  "place_of_birth_qid": "Q733",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 68.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q914086",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q914086",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Math%C3%ADas_Villasanti",
+  "transfermarkt_id": "436385",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Paraguay",
+  "wikidata_current_club": "Cerro Porteño",
+  "wikidata_current_club_qid": "Q914086",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

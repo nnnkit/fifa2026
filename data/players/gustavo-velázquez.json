@@ -1,0 +1,53 @@
+{
+  "slug": "gustavo-velázquez",
+  "display_name": "Gustavo Velázquez",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1991-04-17",
+  "age": 35,
+  "caps": 12,
+  "goals": 1,
+  "club_from_squad_table": "Cerro Porteño",
+  "wikipedia_title": "Gustavo Velázquez",
+  "date_of_birth": "1991-04-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Cerro Porteño",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20888302",
+  "qid": "Q20888302",
+  "name": "Gustavo Velásquez",
+  "description": "Paraguayan association football player",
+  "place_of_birth_qid": "Q4012700",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q603101",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q603101",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gustavo_Vel%C3%A1zquez",
+  "transfermarkt_id": "389399",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Villa del Rosario",
+  "wikidata_current_club": "Club Nacional",
+  "wikidata_current_club_qid": "Q603101",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

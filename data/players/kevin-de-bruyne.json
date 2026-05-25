@@ -1,0 +1,109 @@
+{
+  "slug": "kevin-de-bruyne",
+  "display_name": "Kevin De Bruyne",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1991-06-28",
+  "age": 34,
+  "caps": 117,
+  "goals": 36,
+  "club_from_squad_table": "Napoli",
+  "wikipedia_title": "Kevin De Bruyne",
+  "date_of_birth": "1991-06-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Napoli",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q357984",
+  "qid": "Q357984",
+  "name": "Kevin De Bruyne",
+  "description": "Belgian association football player (born 1991)",
+  "place_of_birth_qid": "Q1260195",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 181.0,
+  "weight_kg": 76.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q216032",
+      "start": "2008-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2015-01-01",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q51976",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q101859",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q166776",
+      "start": "2010-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q15224541",
+      "start": "2008-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q3589896",
+      "start": "2009-01-01",
+      "end": "2009-00-00"
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2011-00-00",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q2641",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2641",
+  "image_filename": "Kevin De Bruyne USMNT v Belgium Mar 28 2026-64 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne",
+  "transfermarkt_id": "88755",
+  "fifa_player_id": "358120",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Drongen",
+  "wikidata_current_club": "SSC Napoli",
+  "wikidata_current_club_qid": "Q2641",
+  "photo": {
+    "filename": "Kevin De Bruyne USMNT v Belgium Mar 28 2026-64 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+    "width": 3093,
+    "height": 4122,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kevin-de-bruyne.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

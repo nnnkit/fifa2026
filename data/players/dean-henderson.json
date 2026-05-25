@@ -1,0 +1,124 @@
+{
+  "slug": "dean-henderson",
+  "display_name": "Dean Henderson",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1997-03-12",
+  "age": 29,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Crystal Palace",
+  "wikipedia_title": "Dean Henderson",
+  "date_of_birth": "1997-03-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Crystal Palace",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28059260",
+  "qid": "Q28059260",
+  "name": "Dean Henderson",
+  "description": "English association football player (born 1997)",
+  "place_of_birth_qid": "Q1012481",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 85.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18656",
+      "start": "2015-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q18526",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q18515",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q19626",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q19607",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q19607",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q19490",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q19467",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q4201740",
+      "start": "2012-00-00",
+      "end": "2012-00-00"
+    },
+    {
+      "team_qid": "Q2752922",
+      "start": "2013-00-00",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q1049176",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q47762",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19467",
+  "image_filename": "DeanHenderson2018.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dean_Henderson",
+  "transfermarkt_id": "258919",
+  "fifa_player_id": "400078494",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Whitehaven",
+  "wikidata_current_club": "Crystal Palace F.C.",
+  "wikidata_current_club_qid": "Q19467",
+  "photo": {
+    "filename": "DeanHenderson2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/DeanHenderson2018.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DeanHenderson2018.jpg/960px-DeanHenderson2018.jpg",
+    "width": 1945,
+    "height": 2867,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jrppezza&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jrppezza (page does not exist)\">Jrppezza</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/dean-henderson.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

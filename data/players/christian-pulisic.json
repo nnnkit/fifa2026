@@ -1,0 +1,89 @@
+{
+  "slug": "christian-pulisic",
+  "display_name": "Christian Pulisic",
+  "shirt_no": 10,
+  "position_code": "FW",
+  "dob": "1998-09-18",
+  "age": 27,
+  "caps": 84,
+  "goals": 32,
+  "club_from_squad_table": "AC Milan",
+  "wikipedia_title": "Christian Pulisic",
+  "date_of_birth": "1998-09-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "AC Milan",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q22279773",
+  "qid": "Q22279773",
+  "name": "Christian Pulisic",
+  "description": "American soccer player (born 1998)",
+  "place_of_birth_qid": "Q868666",
+  "citizenship_qids": [
+    "Q30",
+    "Q224"
+  ],
+  "height_cm": 177.0,
+  "weight_kg": 73.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3590570",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q164134",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2016-00-00",
+      "end": "2019-01-02"
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2019-01-02",
+      "end": "2023-07-11"
+    },
+    {
+      "team_qid": "Q1543",
+      "start": "2023-07-12",
+      "end": null
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2019-01-03",
+      "end": "2019-06-30"
+    }
+  ],
+  "current_club_qid": "Q1543",
+  "image_filename": "Christian Pulisic USMNT v Belgium Mar 28 2026-73 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Pulisic",
+  "transfermarkt_id": "315779",
+  "fifa_player_id": "390267",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United States",
+    "Croatia"
+  ],
+  "place_of_birth": "Hershey",
+  "photo": {
+    "filename": "Christian Pulisic USMNT v Belgium Mar 28 2026-73 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Christian_Pulisic_USMNT_v_Belgium_Mar_28_2026-73_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Christian_Pulisic_USMNT_v_Belgium_Mar_28_2026-73_%28cropped%29.jpg/960px-Christian_Pulisic_USMNT_v_Belgium_Mar_28_2026-73_%28cropped%29.jpg",
+    "width": 3124,
+    "height": 4163,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/christian-pulisic.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

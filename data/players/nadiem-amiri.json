@@ -1,0 +1,113 @@
+{
+  "slug": "nadiem-amiri",
+  "display_name": "Nadiem Amiri",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-10-27",
+  "age": 29,
+  "caps": 9,
+  "goals": 1,
+  "club_from_squad_table": "Mainz 05",
+  "wikipedia_title": "Nadiem Amiri",
+  "date_of_birth": "1996-10-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Mainz 05",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19274473",
+  "qid": "Q19274473",
+  "name": "Nadiem Amiri",
+  "description": "German association football player",
+  "place_of_birth_qid": "Q2910",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q22707",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q16637410",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q314851",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2016992",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q324854",
+      "start": "2014-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q316497",
+      "start": "2015-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q22707",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q8466",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q2074",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q105254",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q104761",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q22707",
+  "image_filename": "20161011 U21 AUT GER 9328.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nadiem_Amiri",
+  "transfermarkt_id": "232454",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Ludwigshafen",
+  "wikidata_current_club": "TSG 1899 Hoffenheim",
+  "wikidata_current_club_qid": "Q22707",
+  "photo": {
+    "filename": "20161011 U21 AUT GER 9328.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/20161011_U21_AUT_GER_9328.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/20161011_U21_AUT_GER_9328.jpg",
+    "width": 893,
+    "height": 893,
+    "license": "CC BY-SA 3.0 at",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ailura\" title=\"User:Ailura\">Ailura</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nadiem-amiri.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

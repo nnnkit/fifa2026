@@ -1,0 +1,113 @@
+{
+  "slug": "memphis-depay",
+  "display_name": "Memphis Depay",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1994-02-13",
+  "age": 32,
+  "caps": 108,
+  "goals": 55,
+  "club_from_squad_table": "Corinthians",
+  "wikipedia_title": "Memphis Depay",
+  "date_of_birth": "1994-02-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Corinthians",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q1894",
+  "qid": "Q1894",
+  "name": "Memphis Depay",
+  "description": "Dutch association football player (born 1994)",
+  "place_of_birth_qid": "Q1019303",
+  "citizenship_qids": [
+    "Q29999",
+    "Q117"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q8025128",
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q47050",
+      "start": "2013-10-15",
+      "end": null
+    },
+    {
+      "team_qid": "Q11938",
+      "start": "2011-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2015-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q601723",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q514714",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q704",
+      "start": "2017-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q8701",
+      "start": "2023-01-20",
+      "end": "2024-07-01"
+    },
+    {
+      "team_qid": "Q35933",
+      "start": "2024-09-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q35933",
+  "image_filename": "Memphis Depay 2019.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Memphis_Depay",
+  "transfermarkt_id": "167850",
+  "fifa_player_id": "336098",
+  "positions": [
+    "wing half",
+    "forward"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands",
+    "Ghana"
+  ],
+  "place_of_birth": "Moordrecht",
+  "wikidata_current_club": "S.C. Corinthians Paulista",
+  "wikidata_current_club_qid": "Q35933",
+  "photo": {
+    "filename": "Memphis Depay 2019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Memphis_Depay_2019.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Memphis_Depay_2019.jpg",
+    "width": 400,
+    "height": 500,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<b>Derivative work: </b> <a href=\"//commons.wikimedia.org/w/index.php?title=User:Joe_Sins&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Joe Sins (page does not exist)\">Joe Sins</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/memphis-depay.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

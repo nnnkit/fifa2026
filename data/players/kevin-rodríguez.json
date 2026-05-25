@@ -1,0 +1,68 @@
+{
+  "slug": "kevin-rodríguez",
+  "display_name": "Kevin Rodríguez",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-03-04",
+  "age": 26,
+  "caps": 30,
+  "goals": 2,
+  "club_from_squad_table": "Union Saint-Gilloise",
+  "wikipedia_title": "Kevin Rodríguez (footballer, born 2000)",
+  "date_of_birth": "2000-03-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Union Saint-Gilloise",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q115132592",
+  "qid": "Q115132592",
+  "name": "Kevin Rodríguez",
+  "description": "Ecuadorian footballer",
+  "place_of_birth_qid": "Q946384",
+  "citizenship_qids": [
+    "Q736"
+  ],
+  "height_cm": 200.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q163386",
+      "start": "2018-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q987584",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q249648",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q196160",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q196160",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Rodr%C3%ADguez_(footballer,_born_2000)",
+  "transfermarkt_id": "684159",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Ecuador"
+  ],
+  "place_of_birth": "Ibarra",
+  "wikidata_current_club": "Royale Union Saint-Gilloise",
+  "wikidata_current_club_qid": "Q196160",
+  "team_slug": "ecuador",
+  "team_country": "Ecuador",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

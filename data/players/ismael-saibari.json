@@ -1,0 +1,79 @@
+{
+  "slug": "ismael-saibari",
+  "display_name": "Ismael Saibari",
+  "shirt_no": 11,
+  "position_code": "MF",
+  "dob": "2001-01-28",
+  "age": 25,
+  "caps": 27,
+  "goals": 7,
+  "club_from_squad_table": "PSV",
+  "wikipedia_title": "Ismael Saibari",
+  "date_of_birth": "2001-01-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "PSV",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q98784065",
+  "qid": "Q98784065",
+  "name": "Ismael Saibari",
+  "description": "Moroccan footballer (born 2001)",
+  "place_of_birth_qid": "Q13939",
+  "citizenship_qids": [
+    "Q1028",
+    "Q29"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q6008848"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q13534332",
+      "start": "2020-07-00",
+      "end": "2023-04-00"
+    },
+    {
+      "team_qid": "Q11938",
+      "start": "2020-11-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2686567",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q207337",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q11938",
+  "image_filename": "FC Salzburg (U19) gegen KRC Genk (U19) (UEFA Youth League 17. September 2019) 23.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ismael_Saibari",
+  "transfermarkt_id": "702869",
+  "positions": [
+    "central midfielder"
+  ],
+  "citizenship": [
+    "Morocco",
+    "Spain"
+  ],
+  "place_of_birth": "Terrassa",
+  "wikidata_current_club": "PSV Eindhoven",
+  "wikidata_current_club_qid": "Q11938",
+  "photo": {
+    "filename": "FC Salzburg (U19) gegen KRC Genk (U19) (UEFA Youth League 17. September 2019) 23.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/FC_Salzburg_%28U19%29_gegen_KRC_Genk_%28U19%29_%28UEFA_Youth_League_17._September_2019%29_23.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FC_Salzburg_%28U19%29_gegen_KRC_Genk_%28U19%29_%28UEFA_Youth_League_17._September_2019%29_23.jpg/960px-FC_Salzburg_%28U19%29_gegen_KRC_Genk_%28U19%29_%28UEFA_Youth_League_17._September_2019%29_23.jpg",
+    "width": 2373,
+    "height": 2568,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ismael-saibari.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

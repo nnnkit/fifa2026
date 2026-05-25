@@ -1,0 +1,82 @@
+{
+  "slug": "noor-al-rawabdeh",
+  "display_name": "Noor Al-Rawabdeh",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-02-24",
+  "age": 29,
+  "caps": 66,
+  "goals": 3,
+  "club_from_squad_table": "Selangor",
+  "wikipedia_title": "Noor Al-Rawabdeh",
+  "date_of_birth": "1997-02-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Selangor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q106173174",
+  "qid": "Q106173174",
+  "name": "Noor Al-Rawabdeh",
+  "description": "Jordanian footballer",
+  "place_of_birth_qid": "Q3805",
+  "citizenship_qids": [
+    "Q810"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q6008848"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q4702627",
+      "start": "2017-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q152572",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q285702",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q1835695",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q275940",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1835695",
+  "image_filename": "Noor Al-Rawabdeh.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Noor_Al-Rawabdeh",
+  "transfermarkt_id": "561485",
+  "positions": [
+    "central midfielder"
+  ],
+  "citizenship": [
+    "Jordan"
+  ],
+  "place_of_birth": "Amman",
+  "wikidata_current_club": "Selangor F.C.",
+  "wikidata_current_club_qid": "Q1835695",
+  "photo": {
+    "filename": "Noor Al-Rawabdeh.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Noor_Al-Rawabdeh.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Noor_Al-Rawabdeh.png",
+    "width": 720,
+    "height": 1167,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "M.Sadegh Nikgostar",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/noor-al-rawabdeh.png"
+  },
+  "team_slug": "jordan",
+  "team_country": "Jordan"
+}

@@ -1,0 +1,1794 @@
+{
+  "slug": "panama",
+  "country": "Panama",
+  "wikidata_qid": "Q223748",
+  "fetched_at": "2026-05-24T17:32:49+00:00",
+  "source": {
+    "kind": "national-team",
+    "title": "Panama national football team",
+    "url": "https://en.wikipedia.org/wiki/Panama_national_football_team"
+  },
+  "squad_size": 23,
+  "players": [
+    {
+      "slug": "luis-mej\u00eda",
+      "display_name": "Luis Mej\u00eda",
+      "shirt_no": 1,
+      "position_code": "GK",
+      "dob": "1991-03-16",
+      "age": 35,
+      "caps": 56,
+      "goals": 0,
+      "club_from_squad_table": "Nacional",
+      "wikipedia_title": "Luis Mej\u00eda",
+      "date_of_birth": "1991-03-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nacional",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q2465298",
+      "qid": "Q2465298",
+      "name": "Luis Mej\u00eda",
+      "description": "Panamanian footballer",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 191.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19518",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q921299",
+          "start": "2007-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q978110",
+          "start": "2010-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q499616",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590746",
+          "start": "2005-01-01",
+          "end": "2006-01-01"
+        },
+        {
+          "team_qid": "Q7129942",
+          "start": "2007-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q23930854",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q23930855",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q223748",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q978110",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q8835",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        }
+      ],
+      "current_club_qid": "Q499616",
+      "image_filename": "Concacaf Gold Cup (48248588296) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Mej%C3%ADa",
+      "transfermarkt_id": "76715",
+      "fifa_player_id": "267702",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "Club Nacional de Football",
+      "wikidata_current_club_qid": "Q499616",
+      "photo": {
+        "filename": "Concacaf Gold Cup (48248588296) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Concacaf_Gold_Cup_%2848248588296%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Concacaf_Gold_Cup_%2848248588296%29_%28cropped%29.jpg/960px-Concacaf_Gold_Cup_%2848248588296%29_%28cropped%29.jpg",
+        "width": 3244,
+        "height": 4024,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62091376@N03\">Erik Drost</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/luis-mej\u00eda.jpg"
+      }
+    },
+    {
+      "slug": "c\u00e9sar-samudio",
+      "display_name": "C\u00e9sar Samudio",
+      "shirt_no": 12,
+      "position_code": "GK",
+      "dob": "1994-03-26",
+      "age": 32,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Marath\u00f3n",
+      "wikipedia_title": "C\u00e9sar Samudio",
+      "date_of_birth": "1994-03-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Marath\u00f3n",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q114216100",
+      "qid": "Q114216100",
+      "name": "C\u00e9sar Samudio",
+      "description": "Panamanian association football player",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1861524",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q940894",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q29470395",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1871928",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2979808",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1023201",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1023201",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Samudio",
+      "transfermarkt_id": "865550",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "Chepo FC",
+      "wikidata_current_club_qid": "Q1861524",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "orlando-mosquera",
+      "display_name": "Orlando Mosquera",
+      "shirt_no": 22,
+      "position_code": "GK",
+      "dob": "1994-12-25",
+      "age": 31,
+      "caps": 46,
+      "goals": 0,
+      "club_from_squad_table": "Al-Fayha",
+      "wikipedia_title": "Orlando Mosquera",
+      "date_of_birth": "1994-12-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Fayha",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q48839143",
+      "qid": "Q48839143",
+      "name": "Orlando Mosquera",
+      "description": "Panamanian association football player",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 191.0,
+      "position_qids": [
+        "Q172964"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q223748",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q20081435",
+      "image_filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 160 (Orlando Mosquera).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Orlando_Mosquera",
+      "transfermarkt_id": "402979",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "Panama men's national football team",
+      "wikidata_current_club_qid": "Q223748",
+      "photo": {
+        "filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 160 (Orlando Mosquera).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_160_%28Orlando_Mosquera%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_160_%28Orlando_Mosquera%29.jpg/960px-Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_160_%28Orlando_Mosquera%29.jpg",
+        "width": 2633,
+        "height": 4000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/orlando-mosquera.jpg"
+      }
+    },
+    {
+      "slug": "c\u00e9sar-blackman",
+      "display_name": "C\u00e9sar Blackman",
+      "shirt_no": 2,
+      "position_code": "DF",
+      "dob": "1998-04-02",
+      "age": 28,
+      "caps": 37,
+      "goals": 3,
+      "club_from_squad_table": "Slovan Bratislava",
+      "wikipedia_title": "C\u00e9sar Blackman",
+      "date_of_birth": "1998-04-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Slovan Bratislava",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q51331558",
+      "qid": "Q51331558",
+      "name": "Cesar Blackman",
+      "description": "association football player",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 174.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q841378",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q192253",
+      "image_filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 153.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Blackman",
+      "transfermarkt_id": "440383",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "FC DAC 1904 Dunajsk\u00e1 Streda",
+      "wikidata_current_club_qid": "Q841378",
+      "photo": {
+        "filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 153.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_153.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_153.jpg/960px-Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_153.jpg",
+        "width": 1906,
+        "height": 3336,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/c\u00e9sar-blackman.jpg"
+      }
+    },
+    {
+      "slug": "jos\u00e9-c\u00f3rdoba",
+      "display_name": "Jos\u00e9 C\u00f3rdoba",
+      "shirt_no": 3,
+      "position_code": "DF",
+      "dob": "2001-06-03",
+      "age": 24,
+      "caps": 30,
+      "goals": 1,
+      "club_from_squad_table": "Norwich City",
+      "wikipedia_title": "Jos\u00e9 C\u00f3rdoba",
+      "date_of_birth": "2001-06-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Norwich City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q108543955",
+      "qid": "Q108543955",
+      "name": "Jos\u00e9 C\u00f3rdoba",
+      "description": "Panamanian footballer",
+      "place_of_birth_qid": "Q3306",
+      "height_cm": 185.0,
+      "teams": [
+        {
+          "team_qid": "Q2979808",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q108865196",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q16837310",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q144190",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18721",
+      "image_filename": "Jos\u00e9 C\u00f3rdoba.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_C%C3%B3rdoba",
+      "transfermarkt_id": "698415",
+      "wikidata_date_of_birth": "2001-03-06",
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "Club Atl\u00e9tico Independiente de La Chorrera",
+      "wikidata_current_club_qid": "Q2979808",
+      "photo": {
+        "filename": "Jos\u00e9 C\u00f3rdoba.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Jos%C3%A9_C%C3%B3rdoba.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jos%C3%A9_C%C3%B3rdoba.jpg/960px-Jos%C3%A9_C%C3%B3rdoba.jpg",
+        "width": 2056,
+        "height": 3197,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Biso\" title=\"User:Biso\">Biser Todorov</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jos\u00e9-c\u00f3rdoba.jpg"
+      },
+      "positions": [
+        "defender"
+      ],
+      "position_qids": [
+        "Q336286"
+      ]
+    },
+    {
+      "slug": "mart\u00edn-krug",
+      "display_name": "Mart\u00edn Krug",
+      "shirt_no": 4,
+      "position_code": "DF",
+      "dob": "2006-07-09",
+      "age": 19,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Atl\u00e9tico Levante",
+      "wikipedia_title": "Mart\u00edn Krug",
+      "date_of_birth": "2006-07-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atl\u00e9tico Levante",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q126970592",
+      "qid": "Q126970592",
+      "name": "Mart\u00edn Krug",
+      "description": "Panamanian footballer",
+      "place_of_birth_qid": "Q1297",
+      "citizenship_qids": [
+        "Q804",
+        "Q30"
+      ],
+      "position_qids": [
+        "Q268258"
+      ],
+      "image_filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 126 (Mart\u00edn Krug).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mart%C3%ADn_Krug",
+      "transfermarkt_id": "1105075",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Panama",
+        "United States"
+      ],
+      "place_of_birth": "Chicago",
+      "photo": {
+        "filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 126 (Mart\u00edn Krug).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_126_%28Mart%C3%ADn_Krug%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_126_%28Mart%C3%ADn_Krug%29.jpg",
+        "width": 300,
+        "height": 483,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mart\u00edn-krug.jpg"
+      },
+      "current_club_qid": "Q32538",
+      "height_cm": 192.0
+    },
+    {
+      "slug": "roderick-miller",
+      "display_name": "Roderick Miller",
+      "shirt_no": 5,
+      "position_code": "DF",
+      "dob": "1992-04-03",
+      "age": 34,
+      "caps": 48,
+      "goals": 2,
+      "club_from_squad_table": "Turan Tovuz",
+      "wikipedia_title": "Roderick Miller (footballer)",
+      "date_of_birth": "1992-04-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Turan Tovuz",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q3939881",
+      "qid": "Q3939881",
+      "name": "Roderick Miller",
+      "description": "Panamanian footballer",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 189.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2060037",
+          "start": "2010-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q1570578",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q7129942",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q223748",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q332605",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q671042",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q931971",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q77267327",
+          "start": "2020-01-00",
+          "end": "2020-06-00"
+        },
+        {
+          "team_qid": "Q2060037",
+          "start": "2020-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q248765",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q750779",
+      "image_filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 59 (Roderick Miller).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Roderick_Miller_(footballer)",
+      "transfermarkt_id": "157154",
+      "fifa_player_id": "344582",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "C.D. Cuenca",
+      "wikidata_current_club_qid": "Q248765",
+      "photo": {
+        "filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 59 (Roderick Miller).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_59_%28Roderick_Miller%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_59_%28Roderick_Miller%29.jpg/960px-Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_59_%28Roderick_Miller%29.jpg",
+        "width": 1374,
+        "height": 1999,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/roderick-miller.jpg"
+      }
+    },
+    {
+      "slug": "jiovany-ramos",
+      "display_name": "Jiovany Ramos",
+      "shirt_no": 13,
+      "position_code": "DF",
+      "dob": "1997-01-26",
+      "age": 29,
+      "caps": 20,
+      "goals": 1,
+      "club_from_squad_table": "Puerto Cabello",
+      "wikipedia_title": "Jiovany Ramos",
+      "date_of_birth": "1997-01-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Puerto Cabello",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q62006245",
+      "qid": "Q62006245",
+      "name": "Jiovany Ramos",
+      "description": "Panamanian footballer",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2060037",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q17619991",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jiovany_Ramos",
+      "transfermarkt_id": "403809",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "San Francisco F.C.",
+      "wikidata_current_club_qid": "Q2060037",
+      "height_cm": 180.0,
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "eric-davis",
+      "display_name": "Eric Davis",
+      "shirt_no": 15,
+      "position_code": "DF",
+      "dob": "1991-03-31",
+      "age": 35,
+      "caps": 104,
+      "goals": 9,
+      "club_from_squad_table": "Plaza Amador",
+      "wikipedia_title": "Eric Davis (Panamanian footballer)",
+      "date_of_birth": "1991-03-31",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Plaza Amador",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q3731469",
+      "qid": "Q3731469",
+      "name": "Eric Davis",
+      "description": "Panamanian association football player",
+      "place_of_birth_qid": "Q12825018",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 179.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q841378",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q729890",
+          "start": "2009-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q978110",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q729890",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2979908",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q7129942",
+          "start": "2011-00-00",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q223748",
+          "start": "2010-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1871928",
+      "image_filename": "Erick Davis (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Davis_(Panamanian_footballer)",
+      "transfermarkt_id": "121791",
+      "fifa_player_id": "337232",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Col\u00f3n City",
+      "wikidata_current_club": "FC DAC 1904 Dunajsk\u00e1 Streda",
+      "wikidata_current_club_qid": "Q841378",
+      "photo": {
+        "filename": "Erick Davis (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Erick_Davis_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Erick_Davis_%28cropped%29.jpg/960px-Erick_Davis_%28cropped%29.jpg",
+        "width": 1296,
+        "height": 2153,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/araizavictor/\">Victor Araiza</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/eric-davis.jpg"
+      }
+    },
+    {
+      "slug": "andr\u00e9s-andrade",
+      "display_name": "Andr\u00e9s Andrade",
+      "shirt_no": 16,
+      "position_code": "DF",
+      "dob": "1998-10-16",
+      "age": 27,
+      "caps": 47,
+      "goals": 1,
+      "club_from_squad_table": "LASK",
+      "wikipedia_title": "Andr\u00e9s Andrade (footballer, born 1998)",
+      "date_of_birth": "1998-10-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "LASK",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q38764408",
+      "qid": "Q38764408",
+      "name": "Andr\u00e9s Andrade Cede\u00f1o",
+      "description": "association football player",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 187.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2060037",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q5510497",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q20994357",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q392310",
+      "image_filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 51 (Andr\u00e9s Andrade Cede\u00f1o).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Andrade_(footballer,_born_1998)",
+      "transfermarkt_id": "403808",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "San Francisco F.C.",
+      "wikidata_current_club_qid": "Q2060037",
+      "photo": {
+        "filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 51 (Andr\u00e9s Andrade Cede\u00f1o).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_51_%28Andr%C3%A9s_Andrade_Cede%C3%B1o%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_51_%28Andr%C3%A9s_Andrade_Cede%C3%B1o%29.jpg",
+        "width": 694,
+        "height": 1002,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/andr\u00e9s-andrade.jpg"
+      }
+    },
+    {
+      "slug": "jorge-guti\u00e9rrez",
+      "display_name": "Jorge Guti\u00e9rrez",
+      "shirt_no": 19,
+      "position_code": "DF",
+      "dob": "1998-09-01",
+      "age": 27,
+      "caps": 17,
+      "goals": 0,
+      "club_from_squad_table": "Deportivo La Guaira",
+      "wikipedia_title": "Jorge Guti\u00e9rrez (footballer)",
+      "date_of_birth": "1998-09-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Deportivo La Guaira",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117818408",
+      "qid": "Q117818408",
+      "name": "Jorge Abdiel Guti\u00e9rrez",
+      "description": "footballer",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 171.0,
+      "teams": [
+        {
+          "team_qid": "Q921299",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q680336",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q628860",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q628860",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jorge_Guti%C3%A9rrez_(footballer)",
+      "transfermarkt_id": "443379",
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "Tauro F.C.",
+      "wikidata_current_club_qid": "Q921299",
+      "positions": [
+        "defender"
+      ],
+      "position_qids": [
+        "Q336286"
+      ],
+      "photo": {
+        "filename": "Jorge Abdiel Guti\u00e9rrez.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Jorge_Abdiel_Guti%C3%A9rrez.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Jorge_Abdiel_Guti%C3%A9rrez.jpg",
+        "width": 359,
+        "height": 543,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "jikatu",
+        "source": "wikimedia-commons-reviewed",
+        "local_path": "data/photos/jorge-guti\u00e9rrez.jpg"
+      }
+    },
+    {
+      "slug": "amir-murillo",
+      "display_name": "Amir Murillo",
+      "shirt_no": 23,
+      "position_code": "DF",
+      "dob": "1996-02-11",
+      "age": 30,
+      "caps": 91,
+      "goals": 9,
+      "club_from_squad_table": "Be\u015fikta\u015f",
+      "wikipedia_title": "Michael Amir Murillo",
+      "date_of_birth": "1996-02-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Be\u015fikta\u015f",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27805413",
+      "qid": "Q27805413",
+      "name": "Michael Amir Murillo",
+      "description": "Panamanian footballer",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2060037",
+          "start": "2014-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q223748",
+          "start": "2016-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q204220",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q18913672",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q204220",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q187528",
+          "start": "2020-01-01",
+          "end": "2023-08-30"
+        },
+        {
+          "team_qid": "Q132885",
+          "start": "2023-08-30",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q172567",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q172567",
+      "image_filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 63.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Amir_Murillo",
+      "transfermarkt_id": "354482",
+      "fifa_player_id": "385031",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "Be\u015fikta\u015f J.K.",
+      "wikidata_current_club_qid": "Q172567",
+      "photo": {
+        "filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 63.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_63.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_63.jpg/960px-Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_63.jpg",
+        "width": 2308,
+        "height": 3200,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/amir-murillo.jpg"
+      }
+    },
+    {
+      "slug": "cristian-mart\u00ednez",
+      "display_name": "Cristian Mart\u00ednez",
+      "shirt_no": 6,
+      "position_code": "MF",
+      "dob": "1997-02-06",
+      "age": 29,
+      "caps": 63,
+      "goals": 2,
+      "club_from_squad_table": "Ironi Kiryat Shmona",
+      "wikipedia_title": "Cristian Mart\u00ednez (Panamanian footballer)",
+      "date_of_birth": "1997-02-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Ironi Kiryat Shmona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q24688826",
+      "qid": "Q24688826",
+      "name": "Cristian Mart\u00ednez",
+      "description": "Panamanian footballer",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 170.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2212675",
+          "start": "2013-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q457163",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q570256",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q457163",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q59313306",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q922309",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q194387",
+          "start": "2016-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q308683",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q907321",
+      "image_filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 70.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cristian_Mart%C3%ADnez_(Panamanian_footballer)",
+      "transfermarkt_id": "419247",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "Chicago Fire FC",
+      "wikidata_current_club_qid": "Q308683",
+      "photo": {
+        "filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 70.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_70.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_70.jpg/960px-Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_70.jpg",
+        "width": 2509,
+        "height": 3142,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/cristian-mart\u00ednez.jpg"
+      }
+    },
+    {
+      "slug": "jos\u00e9-luis-rodr\u00edguez",
+      "display_name": "Jos\u00e9 Luis Rodr\u00edguez",
+      "shirt_no": 7,
+      "position_code": "MF",
+      "dob": "1998-06-19",
+      "age": 27,
+      "caps": 67,
+      "goals": 8,
+      "club_from_squad_table": "Ju\u00e1rez",
+      "wikipedia_title": "Jos\u00e9 Luis Rodr\u00edguez (footballer, born 1998)",
+      "date_of_birth": "1998-06-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Ju\u00e1rez",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q54512527",
+      "qid": "Q54512527",
+      "name": "Jos\u00e9 Luis Rodr\u00edguez",
+      "description": "Panamanian association football player",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18232",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q223748",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q96091531",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q18232",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q725916",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q5260721",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q5260721",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q223620",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q11984",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q12278",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1387105",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q173009",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q20051399",
+      "image_filename": "Jos\u00e9 Rodr\u00edguez.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_(footballer,_born_1998)",
+      "transfermarkt_id": "425028",
+      "fifa_player_id": "411176",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "FK Crvena zvezda",
+      "wikidata_current_club_qid": "Q173009",
+      "photo": {
+        "filename": "Jos\u00e9 Rodr\u00edguez.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Jos%C3%A9_Rodr%C3%ADguez.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Jos%C3%A9_Rodr%C3%ADguez.jpg",
+        "width": 372,
+        "height": 712,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jos\u00e9-luis-rodr\u00edguez.jpg"
+      }
+    },
+    {
+      "slug": "adalberto-carrasquilla",
+      "display_name": "Adalberto Carrasquilla",
+      "shirt_no": 8,
+      "position_code": "MF",
+      "dob": "1998-11-28",
+      "age": 27,
+      "caps": 73,
+      "goals": 3,
+      "club_from_squad_table": "UNAM",
+      "wikipedia_title": "Adalberto Carrasquilla",
+      "date_of_birth": "1998-11-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "UNAM",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q59193510",
+      "qid": "Q59193510",
+      "name": "Adalberto Carrasquilla",
+      "description": "Panamanian footballer",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 170.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q611653",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q921299",
+          "start": "2014-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q611653",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q223748",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q65706216",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q7129942",
+          "start": "2015-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3590746",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q328313",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1143000",
+      "image_filename": "Coco Carrasquilla.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Adalberto_Carrasquilla",
+      "transfermarkt_id": "375300",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "Houston Dynamo FC",
+      "wikidata_current_club_qid": "Q328313",
+      "photo": {
+        "filename": "Coco Carrasquilla.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Coco_Carrasquilla.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Coco_Carrasquilla.jpg/960px-Coco_Carrasquilla.jpg",
+        "width": 1500,
+        "height": 2000,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Keiteay\" title=\"User:Keiteay\">Keiteay</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/adalberto-carrasquilla.jpg"
+      }
+    },
+    {
+      "slug": "yoel-b\u00e1rcenas",
+      "display_name": "Yoel B\u00e1rcenas",
+      "shirt_no": 11,
+      "position_code": "MF",
+      "dob": "1993-10-23",
+      "age": 32,
+      "caps": 101,
+      "goals": 10,
+      "club_from_squad_table": "Mazatl\u00e1n",
+      "wikipedia_title": "Yoel B\u00e1rcenas",
+      "date_of_birth": "1993-10-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mazatl\u00e1n",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21072120",
+      "qid": "Q21072120",
+      "name": "\u00c9dgar Joel B\u00e1rcenas",
+      "description": "Panamanian association football player",
+      "place_of_birth_qid": "Q12825018",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q729890",
+          "start": "2012-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q223748",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q271574",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1255000",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q20539174",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q11945",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1103168",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q65706216",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        }
+      ],
+      "current_club_qid": "Q96045907",
+      "image_filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 68.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yoel_B%C3%A1rcenas",
+      "transfermarkt_id": "283473",
+      "fifa_player_id": "400416",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Col\u00f3n City",
+      "wikidata_current_club": "Girona FC",
+      "wikidata_current_club_qid": "Q11945",
+      "photo": {
+        "filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 68.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_68.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_68.jpg/960px-Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_68.jpg",
+        "width": 1860,
+        "height": 3083,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/yoel-b\u00e1rcenas.jpg"
+      }
+    },
+    {
+      "slug": "carlos-harvey",
+      "display_name": "Carlos Harvey",
+      "shirt_no": 14,
+      "position_code": "MF",
+      "dob": "2000-02-03",
+      "age": 26,
+      "caps": 25,
+      "goals": 2,
+      "club_from_squad_table": "Minnesota United",
+      "wikipedia_title": "Carlos Harvey",
+      "date_of_birth": "2000-02-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Minnesota United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q61990402",
+      "qid": "Q61990402",
+      "name": "Carlos Harvey",
+      "description": "Panamanian footballer",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 184.0,
+      "position_qids": [
+        "Q336286",
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q16842924",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19828435",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Harvey",
+      "transfermarkt_id": "628806",
+      "positions": [
+        "defender",
+        "midfielder"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "LA Galaxy II",
+      "wikidata_current_club_qid": "Q16842924",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "an\u00edbal-godoy",
+      "display_name": "An\u00edbal Godoy",
+      "shirt_no": 20,
+      "position_code": "MF",
+      "dob": "1990-02-10",
+      "age": 36,
+      "caps": 159,
+      "goals": 4,
+      "club_from_squad_table": "San Diego",
+      "wikipedia_title": "An\u00edbal Godoy",
+      "date_of_birth": "1990-02-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "San Diego",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q2759958",
+      "qid": "Q2759958",
+      "name": "An\u00edbal Godoy",
+      "description": "Panamanian\u00a0association football player",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804",
+        "Q30"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1861524",
+          "start": "2007-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q80882",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q275612",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q575370",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q7129942",
+          "start": "2007-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q223748",
+          "start": "2010-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q118945347",
+      "image_filename": "ENG-PAN (15) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/An%C3%ADbal_Godoy",
+      "transfermarkt_id": "161671",
+      "fifa_player_id": "269514",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Panama",
+        "United States"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "San Jose Earthquakes",
+      "wikidata_current_club_qid": "Q575370",
+      "photo": {
+        "filename": "ENG-PAN (15) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/ENG-PAN_%2815%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/ENG-PAN_%2815%29_%28cropped%29.jpg",
+        "width": 251,
+        "height": 375,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/an\u00edbal-godoy.jpg"
+      }
+    },
+    {
+      "slug": "c\u00e9sar-yanis",
+      "display_name": "C\u00e9sar Yanis",
+      "shirt_no": 21,
+      "position_code": "MF",
+      "dob": "1996-01-28",
+      "age": 30,
+      "caps": 55,
+      "goals": 5,
+      "club_from_squad_table": "Cobresal",
+      "wikipedia_title": "C\u00e9sar Yanis",
+      "date_of_birth": "1996-01-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cobresal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q100271502",
+      "qid": "Q100271502",
+      "name": "C\u00e9sar Yanis",
+      "description": "Panamanian footballer",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 170.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Yanis",
+      "transfermarkt_id": "741098",
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "image_filename": "Partido_Galicia_-_Panam\u00e1_en_Bala\u00eddos_16_(cropped).jpg",
+      "photo": {
+        "filename": "Partido_Galicia_-_Panam\u00e1_en_Bala\u00eddos_16_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_16_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_16_%28cropped%29.jpg/960px-Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_16_%28cropped%29.jpg",
+        "width": 1179,
+        "height": 1509,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/c\u00e9sar-yanis.jpg"
+      },
+      "current_club_qid": "Q642669",
+      "positions": [
+        "midfielder"
+      ],
+      "position_qids": [
+        "Q193592"
+      ]
+    },
+    {
+      "slug": "kadir-barr\u00eda",
+      "display_name": "Kadir Barr\u00eda",
+      "shirt_no": 9,
+      "position_code": "FW",
+      "dob": "2007-07-18",
+      "age": 18,
+      "caps": 3,
+      "goals": 1,
+      "club_from_squad_table": "Botafogo",
+      "wikipedia_title": "Kadir Barr\u00eda",
+      "date_of_birth": "2007-07-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Botafogo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q136496970",
+      "qid": "Q136496970",
+      "name": "Kadir Barr\u00eda",
+      "description": "Panamanian footballer (born 2007)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kadir_Barr%C3%ADa",
+      "transfermarkt_id": "1464878",
+      "wikidata_date_of_birth": "2007-01-01",
+      "current_club_qid": "Q80958",
+      "positions": [
+        "forward"
+      ],
+      "position_qids": [
+        "Q280658"
+      ],
+      "height_cm": 183.0,
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ismael-d\u00edaz",
+      "display_name": "Ismael D\u00edaz",
+      "shirt_no": 10,
+      "position_code": "FW",
+      "dob": "1997-05-12",
+      "age": 29,
+      "caps": 54,
+      "goals": 17,
+      "club_from_squad_table": "Le\u00f3n",
+      "wikipedia_title": "Ismael D\u00edaz (footballer, born 1997)",
+      "date_of_birth": "1997-05-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Le\u00f3n",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18921648",
+      "qid": "Q18921648",
+      "name": "Ismael D\u00edaz",
+      "description": "Panamanian footballer",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 182.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q5423714",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q921299",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3590746",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q7129942",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q223748",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q128446",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q8760",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q633223",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ismael_D%C3%ADaz_(footballer,_born_1997)",
+      "transfermarkt_id": "243298",
+      "fifa_player_id": "372342",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "FC Porto B",
+      "wikidata_current_club_qid": "Q5423714",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jos\u00e9-fajardo",
+      "display_name": "Jos\u00e9 Fajardo",
+      "shirt_no": 17,
+      "position_code": "FW",
+      "dob": "1993-08-18",
+      "age": 32,
+      "caps": 65,
+      "goals": 17,
+      "club_from_squad_table": "Universidad Cat\u00f3lica",
+      "wikipedia_title": "Jos\u00e9 Fajardo (footballer)",
+      "date_of_birth": "1993-08-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Universidad Cat\u00f3lica",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q48877857",
+      "qid": "Q48877857",
+      "name": "Jos\u00e9 Fajardo",
+      "description": "Panamanian footballer",
+      "place_of_birth_qid": "Q12825018",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2979808",
+          "start": "2016-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q223748",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q12247521",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q332668",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q2760357",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2308911",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Fajardo_(footballer)",
+      "transfermarkt_id": "546803",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Col\u00f3n City",
+      "wikidata_current_club": "Club 9 de Octubre",
+      "wikidata_current_club_qid": "Q2760357",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "cecilio-waterman",
+      "display_name": "Cecilio Waterman",
+      "shirt_no": 18,
+      "position_code": "FW",
+      "dob": "1991-04-13",
+      "age": 35,
+      "caps": 52,
+      "goals": 14,
+      "club_from_squad_table": "Universidad de Concepci\u00f3n",
+      "wikipedia_title": "Cecilio Waterman",
+      "date_of_birth": "1991-04-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Universidad de Concepci\u00f3n",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q969014",
+      "qid": "Q969014",
+      "name": "Cecilio Waterman",
+      "description": "Panamanian professional association football striker",
+      "place_of_birth_qid": "Q3306",
+      "citizenship_qids": [
+        "Q804"
+      ],
+      "height_cm": 181.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q978110",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2979908",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q7129942",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q223748",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q223748",
+          "start": "2010-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q721560",
+      "image_filename": "Cecilio Waterman Everton v Cobresal 20230828 02.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cecilio_Waterman",
+      "transfermarkt_id": "177064",
+      "fifa_player_id": "337251",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Panama"
+      ],
+      "place_of_birth": "Panama City",
+      "wikidata_current_club": "Centro Atl\u00e9tico F\u00e9nix",
+      "wikidata_current_club_qid": "Q978110",
+      "photo": {
+        "filename": "Cecilio Waterman Everton v Cobresal 20230828 02.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cecilio_Waterman_Everton_v_Cobresal_20230828_02.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cecilio_Waterman_Everton_v_Cobresal_20230828_02.jpg/960px-Cecilio_Waterman_Everton_v_Cobresal_20230828_02.jpg",
+        "width": 2192,
+        "height": 3081,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Carlos_yo\" title=\"User:Carlos yo\">Carlos yo</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/cecilio-waterman.jpg"
+      }
+    }
+  ]
+}

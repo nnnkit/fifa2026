@@ -1,0 +1,2188 @@
+{
+  "slug": "germany",
+  "country": "Germany",
+  "wikidata_qid": "Q43310",
+  "fetched_at": "2026-05-24T15:24:10+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "manuel-neuer",
+      "display_name": "Manuel Neuer",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1986-03-27",
+      "age": 40,
+      "caps": 124,
+      "goals": 0,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Manuel Neuer",
+      "date_of_birth": "1986-03-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107365",
+      "qid": "Q107365",
+      "name": "Manuel Neuer",
+      "description": "German association football player",
+      "place_of_birth_qid": "Q2765",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 193.0,
+      "weight_kg": 92.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3736767",
+          "start": "2004-00-00",
+          "end": "2008-00-00"
+        },
+        {
+          "team_qid": "Q32494",
+          "start": "2006-00-00",
+          "end": "2011-00-00"
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2009-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2006-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q2016992",
+          "start": "2004-01-01",
+          "end": "2004-01-01"
+        },
+        {
+          "team_qid": "Q324854",
+          "start": "2004-01-01",
+          "end": "2005-01-01"
+        },
+        {
+          "team_qid": "Q316497",
+          "start": "2005-01-01",
+          "end": "2006-01-01"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2011-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15789",
+      "image_filename": "20180602 FIFA Friendly Match Austria vs. Germany Team Germany 850 0740.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Manuel_Neuer",
+      "transfermarkt_id": "17259",
+      "fifa_player_id": "228912",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Gelsenkirchen",
+      "wikidata_current_club": "FC Bayern Munich",
+      "wikidata_current_club_qid": "Q15789",
+      "photo": {
+        "filename": "20180602 FIFA Friendly Match Austria vs. Germany Team Germany 850 0740.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Team_Germany_850_0740.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Team_Germany_850_0740.jpg/960px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Team_Germany_850_0740.jpg",
+        "width": 6670,
+        "height": 4447,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/manuel-neuer.jpg"
+      }
+    },
+    {
+      "slug": "oliver-baumann",
+      "display_name": "Oliver Baumann",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1990-06-02",
+      "age": 36,
+      "caps": 11,
+      "goals": 0,
+      "club_from_squad_table": "TSG Hoffenheim",
+      "wikipedia_title": "Oliver Baumann",
+      "date_of_birth": "1990-06-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "TSG Hoffenheim",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q129116",
+      "qid": "Q129116",
+      "name": "Oliver Baumann",
+      "description": "German footballer",
+      "place_of_birth_qid": "Q489911",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 187.0,
+      "weight_kg": 82.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q106394",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q106394",
+          "start": "2010-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q22707",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2010-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2016992",
+          "start": "2008-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q324854",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q316497",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        }
+      ],
+      "current_club_qid": "Q22707",
+      "image_filename": "OliverBaumann (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oliver_Baumann",
+      "transfermarkt_id": "55089",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Breisach",
+      "wikidata_current_club": "TSG 1899 Hoffenheim",
+      "wikidata_current_club_qid": "Q22707",
+      "photo": {
+        "filename": "OliverBaumann (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/OliverBaumann_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/OliverBaumann_%28cropped%29.jpg",
+        "width": 800,
+        "height": 1118,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Silesia711\" title=\"User:Silesia711\">Silesia711</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/oliver-baumann.jpg"
+      }
+    },
+    {
+      "slug": "alexander-nübel",
+      "display_name": "Alexander Nübel",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1996-09-30",
+      "age": 29,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "VfB Stuttgart",
+      "wikipedia_title": "Alexander Nübel",
+      "date_of_birth": "1996-09-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "VfB Stuttgart",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20435178",
+      "qid": "Q20435178",
+      "name": "Alexander Nübel",
+      "description": "German association football player",
+      "place_of_birth_qid": "Q2971",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 193.0,
+      "weight_kg": 85.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q160532",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q32494",
+          "start": "2015-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3736767",
+          "start": "2015-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q180305",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q32494",
+      "image_filename": "Alexander nuebel.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_N%C3%BCbel",
+      "transfermarkt_id": "195778",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Paderborn",
+      "wikidata_current_club": "Schalke 04",
+      "wikidata_current_club_qid": "Q32494",
+      "photo": {
+        "filename": "Alexander nuebel.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Alexander_nuebel.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Alexander_nuebel.jpg",
+        "width": 641,
+        "height": 800,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">Jeollo von VfB-exklusiv.de</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alexander-nübel.jpg"
+      }
+    },
+    {
+      "slug": "antonio-rüdiger",
+      "display_name": "Antonio Rüdiger",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1993-03-03",
+      "age": 33,
+      "caps": 82,
+      "goals": 3,
+      "club_from_squad_table": "Real Madrid",
+      "wikipedia_title": "Antonio Rüdiger",
+      "date_of_birth": "1993-03-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q96755",
+      "qid": "Q96755",
+      "name": "Antonio Rüdiger",
+      "description": "German association football player (born 1993)",
+      "place_of_birth_qid": "Q64",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 85.0,
+      "position_qids": [
+        "Q268258",
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q107421",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q4512",
+          "start": "2012-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2014-05-13",
+          "end": null
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q2016992",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q324854",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q316497",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2017-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        }
+      ],
+      "current_club_qid": "Q8682",
+      "image_filename": "20180602 FIFA Friendly Match Austria vs. Germany Antonio Rüdiger 850 0711.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_R%C3%BCdiger",
+      "transfermarkt_id": "86202",
+      "fifa_player_id": "379955",
+      "positions": [
+        "centre-back",
+        "defender"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Berlin",
+      "wikidata_current_club": "Real Madrid Club de Fútbol",
+      "wikidata_current_club_qid": "Q8682",
+      "photo": {
+        "filename": "20180602 FIFA Friendly Match Austria vs. Germany Antonio Rüdiger 850 0711.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Antonio_R%C3%BCdiger_850_0711.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Antonio_R%C3%BCdiger_850_0711.jpg/960px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Antonio_R%C3%BCdiger_850_0711.jpg",
+        "width": 2167,
+        "height": 3250,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/antonio-rüdiger.jpg"
+      }
+    },
+    {
+      "slug": "jonathan-tah",
+      "display_name": "Jonathan Tah",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-02-11",
+      "age": 30,
+      "caps": 45,
+      "goals": 1,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Jonathan Tah",
+      "date_of_birth": "1996-02-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q14640027",
+      "qid": "Q14640027",
+      "name": "Jonathan Tah",
+      "description": "German footballer (born 1996)",
+      "place_of_birth_qid": "Q1055",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 193.0,
+      "weight_kg": 98.0,
+      "position_qids": [
+        "Q268258",
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q51974",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q5644342",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q151747",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q104761",
+          "start": "2015-01-01",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2015-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2016-03-26",
+          "end": null
+        },
+        {
+          "team_qid": "Q1202759",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q319699",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q324854",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2025-06-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15789",
+      "image_filename": "2019-06-11 Fußball, Männer, Länderspiel, Deutschland-Estland StP 2060 LR10 by Stepro.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jonathan_Tah",
+      "transfermarkt_id": "196357",
+      "fifa_player_id": "401378",
+      "positions": [
+        "centre-back",
+        "defender"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Hamburg",
+      "wikidata_current_club": "FC Bayern Munich",
+      "wikidata_current_club_qid": "Q15789",
+      "photo": {
+        "filename": "2019-06-11 Fußball, Männer, Länderspiel, Deutschland-Estland StP 2060 LR10 by Stepro.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2060_LR10_by_Stepro.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2060_LR10_by_Stepro.jpg/960px-2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2060_LR10_by_Stepro.jpg",
+        "width": 3873,
+        "height": 2582,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jonathan-tah.jpg"
+      }
+    },
+    {
+      "slug": "david-raum",
+      "display_name": "David Raum",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-04-22",
+      "age": 28,
+      "caps": 36,
+      "goals": 1,
+      "club_from_squad_table": "RB Leipzig",
+      "wikipedia_title": "David Raum",
+      "date_of_birth": "1998-04-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "RB Leipzig",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28540571",
+      "qid": "Q28540571",
+      "name": "David Raum",
+      "description": "German association football player",
+      "place_of_birth_qid": "Q2090",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q153539",
+          "start": "2017-02-01",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q324854",
+          "start": "2016-11-13",
+          "end": "2017-07-09"
+        },
+        {
+          "team_qid": "Q316497",
+          "start": "2017-09-04",
+          "end": "2018-03-27"
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2021-08-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q22707",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q702455",
+      "image_filename": "2022 FIFA World Cup Germany 1–2 Japan - Germany celebrating.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Raum",
+      "transfermarkt_id": "318204",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Nuremberg",
+      "photo": {
+        "filename": "2022 FIFA World Cup Germany 1–2 Japan - Germany celebrating.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2022_FIFA_World_Cup_Germany_1%E2%80%932_Japan_-_Germany_celebrating.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2022_FIFA_World_Cup_Germany_1%E2%80%932_Japan_-_Germany_celebrating.jpg",
+        "width": 533,
+        "height": 799,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "حسین ظهروند",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/david-raum.jpg"
+      }
+    },
+    {
+      "slug": "nico-schlotterbeck",
+      "display_name": "Nico Schlotterbeck",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-12-01",
+      "age": 26,
+      "caps": 25,
+      "goals": 0,
+      "club_from_squad_table": "Borussia Dortmund",
+      "wikipedia_title": "Nico Schlotterbeck",
+      "date_of_birth": "1999-12-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Borussia Dortmund",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q62015814",
+      "qid": "Q62015814",
+      "name": "Nico Schlotterbeck",
+      "description": "German association football player",
+      "place_of_birth_qid": "Q4140",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 1.91,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q20631356",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q106394",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q141971",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2016992",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q324854",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q316497",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q41420",
+      "image_filename": "2023-08-12 TSV Schott Mainz gegen Borussia Dortmund (DFB-Pokal 2023-24) by Sandro Halank–069.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nico_Schlotterbeck",
+      "transfermarkt_id": "388198",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Waiblingen",
+      "photo": {
+        "filename": "2023-08-12 TSV Schott Mainz gegen Borussia Dortmund (DFB-Pokal 2023-24) by Sandro Halank–069.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93069.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93069.jpg/960px-2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93069.jpg",
+        "width": 2483,
+        "height": 2823,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sandro_Halank\" title=\"User:Sandro Halank\">Sandro Halank, Wikimedia Commons</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nico-schlotterbeck.jpg"
+      }
+    },
+    {
+      "slug": "waldemar-anton",
+      "display_name": "Waldemar Anton",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-07-20",
+      "age": 29,
+      "caps": 12,
+      "goals": 0,
+      "club_from_squad_table": "Borussia Dortmund",
+      "wikipedia_title": "Waldemar Anton",
+      "date_of_birth": "1996-07-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Borussia Dortmund",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q23559699",
+      "qid": "Q23559699",
+      "name": "Waldemar Anton",
+      "description": "German-Uzbek footballer (born 1996)",
+      "place_of_birth_qid": "Q986429",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 182.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q33748",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q314851",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q4512",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q4512",
+      "image_filename": "Waldemar anton (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Waldemar_Anton",
+      "transfermarkt_id": "193004",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Olmaliq",
+      "wikidata_current_club": "VfB Stuttgart",
+      "wikidata_current_club_qid": "Q4512",
+      "photo": {
+        "filename": "Waldemar anton (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Waldemar_anton_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Waldemar_anton_%28cropped%29.jpg",
+        "width": 391,
+        "height": 460,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">Jeollo</a> von VfB-exklusiv.de",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/waldemar-anton.jpg"
+      }
+    },
+    {
+      "slug": "malick-thiaw",
+      "display_name": "Malick Thiaw",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-08-08",
+      "age": 24,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Newcastle United",
+      "wikipedia_title": "Malick Thiaw",
+      "date_of_birth": "2001-08-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Newcastle United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q87268125",
+      "qid": "Q87268125",
+      "name": "Malick Thiaw",
+      "description": "German footballer",
+      "place_of_birth_qid": "Q1718",
+      "citizenship_qids": [
+        "Q183",
+        "Q33"
+      ],
+      "height_cm": 1.94,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q32494",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q18716",
+          "start": "2025-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18716",
+      "image_filename": "Milan Lecce 2023 Thiaw.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Malick_Thiaw",
+      "transfermarkt_id": "521964",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Germany",
+        "Finland"
+      ],
+      "place_of_birth": "Düsseldorf",
+      "wikidata_current_club": "Newcastle United F.C.",
+      "wikidata_current_club_qid": "Q18716",
+      "photo": {
+        "filename": "Milan Lecce 2023 Thiaw.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Milan_Lecce_2023_Thiaw.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Milan_Lecce_2023_Thiaw.jpg",
+        "width": 730,
+        "height": 894,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Saggittarius_A\" title=\"User:Saggittarius A\">Saggittarius A</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/malick-thiaw.jpg"
+      }
+    },
+    {
+      "slug": "nathaniel-brown",
+      "display_name": "Nathaniel Brown",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-06-16",
+      "age": 22,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Eintracht Frankfurt",
+      "wikipedia_title": "Nathaniel Brown (footballer)",
+      "date_of_birth": "2003-06-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Eintracht Frankfurt",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q122351097",
+      "qid": "Q122351097",
+      "name": "Nathaniel Brown",
+      "description": "German association football player",
+      "place_of_birth_qid": "Q7042",
+      "height_cm": 1.8,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nathaniel_Brown_(footballer)",
+      "transfermarkt_id": "691892",
+      "place_of_birth": "Amberg",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "joshua-kimmich",
+      "display_name": "Joshua Kimmich",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1995-02-08",
+      "age": 31,
+      "caps": 108,
+      "goals": 10,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Joshua Kimmich",
+      "date_of_birth": "1995-02-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q13865408",
+      "qid": "Q13865408",
+      "name": "Joshua Kimmich",
+      "description": "German association football player (born 1995)",
+      "place_of_birth_qid": "Q82960",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 177.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q193592",
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q702455",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2014-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2016-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15789",
+      "image_filename": "FC Red Bull Salzburg gegen Bayern München (2025-01-06 Testspiel) 30.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joshua_Kimmich",
+      "transfermarkt_id": "161056",
+      "fifa_player_id": "386413",
+      "positions": [
+        "midfielder",
+        "defender"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Rottweil",
+      "wikidata_current_club": "FC Bayern Munich",
+      "wikidata_current_club_qid": "Q15789",
+      "photo": {
+        "filename": "FC Red Bull Salzburg gegen Bayern München (2025-01-06 Testspiel) 30.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_30.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_30.jpg/960px-FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_30.jpg",
+        "width": 3447,
+        "height": 4000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/joshua-kimmich.jpg"
+      }
+    },
+    {
+      "slug": "leroy-sané",
+      "display_name": "Leroy Sané",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-01-11",
+      "age": 30,
+      "caps": 74,
+      "goals": 16,
+      "club_from_squad_table": "Galatasaray",
+      "wikipedia_title": "Leroy Sané",
+      "date_of_birth": "1996-01-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Galatasaray",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16499882",
+      "qid": "Q16499882",
+      "name": "Leroy Sané",
+      "description": "German association football player",
+      "place_of_birth_qid": "Q2066",
+      "citizenship_qids": [
+        "Q183",
+        "Q1041"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q1369558"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q43310",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q324854",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q32494",
+          "start": "2014-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2016-00-00",
+          "end": "2020-07-00"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2020-07-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q495299",
+          "start": "2025-07-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q495299",
+      "image_filename": "20180602 FIFA Friendly Match Austria vs. Germany Leroy Sané 850 0668.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leroy_San%C3%A9",
+      "transfermarkt_id": "192565",
+      "fifa_player_id": "404353",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "Germany",
+        "Senegal"
+      ],
+      "place_of_birth": "Essen",
+      "wikidata_current_club": "Galatasaray S.K.",
+      "wikidata_current_club_qid": "Q495299",
+      "photo": {
+        "filename": "20180602 FIFA Friendly Match Austria vs. Germany Leroy Sané 850 0668.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Leroy_San%C3%A9_850_0668.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Leroy_San%C3%A9_850_0668.jpg/960px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Leroy_San%C3%A9_850_0668.jpg",
+        "width": 1791,
+        "height": 2686,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/leroy-sané.jpg"
+      }
+    },
+    {
+      "slug": "leon-goretzka",
+      "display_name": "Leon Goretzka",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1995-02-06",
+      "age": 31,
+      "caps": 69,
+      "goals": 15,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Leon Goretzka",
+      "date_of_birth": "1995-02-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q520721",
+      "qid": "Q520721",
+      "name": "Leon Goretzka",
+      "description": "German association football player",
+      "place_of_birth_qid": "Q2103",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 189.0,
+      "weight_kg": 82.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q32494",
+          "start": "2013-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q105861",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3736767",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2013-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q1202759",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q319699",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q324854",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2018-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15789",
+      "image_filename": "2019-06-11 Fußball, Männer, Länderspiel, Deutschland-Estland StP 2074 LR10 by Stepro (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leon_Goretzka",
+      "transfermarkt_id": "153084",
+      "fifa_player_id": "395476",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Bochum",
+      "wikidata_current_club": "FC Bayern Munich",
+      "wikidata_current_club_qid": "Q15789",
+      "photo": {
+        "filename": "2019-06-11 Fußball, Männer, Länderspiel, Deutschland-Estland StP 2074 LR10 by Stepro (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2074_LR10_by_Stepro_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2074_LR10_by_Stepro_%28cropped%29.jpg/960px-2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2074_LR10_by_Stepro_%28cropped%29.jpg",
+        "width": 2072,
+        "height": 3108,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "crop by <a href=\"//commons.wikimedia.org/wiki/User:Nehme1499\" title=\"User:Nehme1499\">Nehme1499</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/leon-goretzka.jpg"
+      }
+    },
+    {
+      "slug": "jamal-musiala",
+      "display_name": "Jamal Musiala",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-02-26",
+      "age": 23,
+      "caps": 40,
+      "goals": 8,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Jamal Musiala",
+      "date_of_birth": "2003-02-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q96072055",
+      "qid": "Q96072055",
+      "name": "Jamal Musiala",
+      "description": "German association football player",
+      "place_of_birth_qid": "Q1022",
+      "citizenship_qids": [
+        "Q183",
+        "Q145"
+      ],
+      "height_cm": 184.0,
+      "position_qids": [
+        "Q90326494"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q994701",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15789",
+      "image_filename": "Jamal Musiala 2022 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jamal_Musiala",
+      "transfermarkt_id": "580195",
+      "fifa_player_id": "400125673",
+      "positions": [
+        "attacking midfielder"
+      ],
+      "citizenship": [
+        "Germany",
+        "United Kingdom"
+      ],
+      "place_of_birth": "Stuttgart",
+      "wikidata_current_club": "FC Bayern Munich",
+      "wikidata_current_club_qid": "Q15789",
+      "photo": {
+        "filename": "Jamal Musiala 2022 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jamal_Musiala_2022_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jamal_Musiala_2022_%28cropped%29.jpg",
+        "width": 477,
+        "height": 647,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "crop by <a href=\"//commons.wikimedia.org/wiki/User:ArsenalGhanaPartey\" class=\"mw-redirect\" title=\"User:ArsenalGhanaPartey\">ArsenalGhanaPartey</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jamal-musiala.jpg"
+      }
+    },
+    {
+      "slug": "florian-wirtz",
+      "display_name": "Florian Wirtz",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-05-03",
+      "age": 23,
+      "caps": 39,
+      "goals": 10,
+      "club_from_squad_table": "Liverpool",
+      "wikipedia_title": "Florian Wirtz",
+      "date_of_birth": "2003-05-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Liverpool",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q94699949",
+      "qid": "Q94699949",
+      "name": "Florian Wirtz",
+      "description": "German association football player (born 2003)",
+      "place_of_birth_qid": "Q4113",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 176.0,
+      "weight_kg": 71.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q104761",
+          "start": "2020-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q113136",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1202759",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q319699",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1130849",
+      "image_filename": "Florian Wirtz 04012026 (3) (extracted).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Florian_Wirtz",
+      "transfermarkt_id": "598577",
+      "fifa_player_id": "400125062",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Pulheim",
+      "wikidata_current_club": "Liverpool F.C.",
+      "wikidata_current_club_qid": "Q1130849",
+      "photo": {
+        "filename": "Florian Wirtz 04012026 (3) (extracted).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Florian_Wirtz_04012026_%283%29_%28extracted%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Florian_Wirtz_04012026_%283%29_%28extracted%29.jpg/960px-Florian_Wirtz_04012026_%283%29_%28extracted%29.jpg",
+        "width": 1204,
+        "height": 1801,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/florian-wirtz.jpg"
+      }
+    },
+    {
+      "slug": "pascal-groß",
+      "display_name": "Pascal Groß",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1991-06-15",
+      "age": 34,
+      "caps": 18,
+      "goals": 1,
+      "club_from_squad_table": "Brighton & Hove Albion",
+      "wikipedia_title": "Pascal Groß",
+      "date_of_birth": "1991-06-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Brighton & Hove Albion",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q509489",
+      "qid": "Q509489",
+      "name": "Pascal Groß",
+      "description": "German footballer (born 1991)",
+      "place_of_birth_qid": "Q2119",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 181.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q22707",
+          "start": "2008-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q105853",
+          "start": "2011-01-01",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q18704184",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q170117",
+          "start": "2012-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q5424977",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2016992",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q324854",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q316497",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2017-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2024-00-00",
+          "end": "2026-01-00"
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2026-01-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19453",
+      "image_filename": "PASCAL GROSS.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pascal_Gro%C3%9F",
+      "transfermarkt_id": "82873",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Mannheim",
+      "wikidata_current_club": "Brighton & Hove Albion F.C.",
+      "wikidata_current_club_qid": "Q19453",
+      "photo": {
+        "filename": "PASCAL GROSS.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PASCAL_GROSS.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PASCAL_GROSS.jpg/960px-PASCAL_GROSS.jpg",
+        "width": 1235,
+        "height": 1410,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37972999@N07\">James Boyes</a> from UK",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/pascal-groß.jpg"
+      }
+    },
+    {
+      "slug": "nadiem-amiri",
+      "display_name": "Nadiem Amiri",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-10-27",
+      "age": 29,
+      "caps": 9,
+      "goals": 1,
+      "club_from_squad_table": "Mainz 05",
+      "wikipedia_title": "Nadiem Amiri",
+      "date_of_birth": "1996-10-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mainz 05",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19274473",
+      "qid": "Q19274473",
+      "name": "Nadiem Amiri",
+      "description": "German association football player",
+      "place_of_birth_qid": "Q2910",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q22707",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q16637410",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2016992",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q324854",
+          "start": "2014-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q316497",
+          "start": "2015-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q22707",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q8466",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2074",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q105254",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q104761",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q22707",
+      "image_filename": "20161011 U21 AUT GER 9328.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nadiem_Amiri",
+      "transfermarkt_id": "232454",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Ludwigshafen",
+      "wikidata_current_club": "TSG 1899 Hoffenheim",
+      "wikidata_current_club_qid": "Q22707",
+      "photo": {
+        "filename": "20161011 U21 AUT GER 9328.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/20161011_U21_AUT_GER_9328.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/20161011_U21_AUT_GER_9328.jpg",
+        "width": 893,
+        "height": 893,
+        "license": "CC BY-SA 3.0 at",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ailura\" title=\"User:Ailura\">Ailura</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nadiem-amiri.jpg"
+      }
+    },
+    {
+      "slug": "aleksandar-pavlović",
+      "display_name": "Aleksandar Pavlović",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-05-03",
+      "age": 22,
+      "caps": 9,
+      "goals": 1,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Aleksandar Pavlović (footballer)",
+      "date_of_birth": "2004-05-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q121068701",
+      "qid": "Q121068701",
+      "name": "Aleksandar Pavlović",
+      "description": "German footballer (born 2004)",
+      "place_of_birth_qid": "Q1726",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 1.88,
+      "teams": [
+        {
+          "team_qid": "Q994701",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q316497",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15789",
+      "image_filename": "FC RB Salzburg gegen FC Bayern München (2026-01-06 Testspiel) 34.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aleksandar_Pavlovi%C4%87_(footballer)",
+      "transfermarkt_id": "792380",
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Munich",
+      "wikidata_current_club": "FC Bayern Munich",
+      "wikidata_current_club_qid": "Q15789",
+      "photo": {
+        "filename": "FC RB Salzburg gegen FC Bayern München (2026-01-06 Testspiel) 34.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_34.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_34.jpg/960px-FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_34.jpg",
+        "width": 1922,
+        "height": 3197,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/aleksandar-pavlović.jpg"
+      }
+    },
+    {
+      "slug": "angelo-stiller",
+      "display_name": "Angelo Stiller",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-04-04",
+      "age": 25,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "VfB Stuttgart",
+      "wikipedia_title": "Angelo Stiller",
+      "date_of_birth": "2001-04-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "VfB Stuttgart",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q68676722",
+      "qid": "Q68676722",
+      "name": "Angelo Stiller",
+      "description": "German footballer",
+      "place_of_birth_qid": "Q1726",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 1.83,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q994701",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q22707",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q4512",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        }
+      ],
+      "current_club_qid": "Q4512",
+      "image_filename": "Angelo Stiller 2023.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Angelo_Stiller",
+      "transfermarkt_id": "443710",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Munich",
+      "photo": {
+        "filename": "Angelo Stiller 2023.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Angelo_Stiller_2023.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Angelo_Stiller_2023.jpg",
+        "width": 641,
+        "height": 800,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">Jeollo von VfB-exklusiv.de</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/angelo-stiller.jpg"
+      }
+    },
+    {
+      "slug": "felix-nmecha",
+      "display_name": "Felix Nmecha",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-10-10",
+      "age": 25,
+      "caps": 6,
+      "goals": 1,
+      "club_from_squad_table": "Borussia Dortmund",
+      "wikipedia_title": "Felix Nmecha",
+      "date_of_birth": "2000-10-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Borussia Dortmund",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60889488",
+      "qid": "Q60889488",
+      "name": "Felix Nmecha",
+      "description": "German association football player",
+      "place_of_birth_qid": "Q1055",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 1.9,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q50602",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "Felix Nmecha 2021.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Felix_Nmecha",
+      "transfermarkt_id": "406640",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Hamburg",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "Felix Nmecha 2021.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Felix_Nmecha_2021.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Felix_Nmecha_2021.jpg",
+        "width": 819,
+        "height": 1529,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/felix-nmecha.jpg"
+      }
+    },
+    {
+      "slug": "jamie-leweling",
+      "display_name": "Jamie Leweling",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-02-26",
+      "age": 25,
+      "caps": 4,
+      "goals": 1,
+      "club_from_squad_table": "VfB Stuttgart",
+      "wikipedia_title": "Jamie Leweling",
+      "date_of_birth": "2001-02-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "VfB Stuttgart",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q65964628",
+      "qid": "Q65964628",
+      "name": "Jamie Leweling",
+      "description": "German association football player",
+      "place_of_birth_qid": "Q183",
+      "citizenship_qids": [
+        "Q183",
+        "Q117"
+      ],
+      "height_cm": 1.84,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q153539",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q153539",
+      "image_filename": "Jamie leweling.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jamie_Leweling",
+      "transfermarkt_id": "518505",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Germany",
+        "Ghana"
+      ],
+      "place_of_birth": "Germany",
+      "wikidata_current_club": "SpVgg Greuther Fürth",
+      "wikidata_current_club_qid": "Q153539",
+      "photo": {
+        "filename": "Jamie leweling.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jamie_leweling.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jamie_leweling.jpg",
+        "width": 640,
+        "height": 800,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">Jeollo von VfB-exklusiv.de</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jamie-leweling.jpg"
+      }
+    },
+    {
+      "slug": "lennart-karl",
+      "display_name": "Lennart Karl",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2008-02-22",
+      "age": 18,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Lennart Karl",
+      "date_of_birth": "2008-02-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q130776450",
+      "qid": "Q130776450",
+      "name": "Lennart Karl",
+      "description": "German association football player",
+      "place_of_birth_qid": "Q503743",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 1.68,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lennart_Karl",
+      "transfermarkt_id": "1075147",
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Frammersbach",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "kai-havertz",
+      "display_name": "Kai Havertz",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-06-11",
+      "age": 27,
+      "caps": 57,
+      "goals": 21,
+      "club_from_squad_table": "Arsenal",
+      "wikipedia_title": "Kai Havertz",
+      "date_of_birth": "1999-06-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Arsenal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27310755",
+      "qid": "Q27310755",
+      "name": "Kai Havertz",
+      "description": "German association football player (born 1999)",
+      "place_of_birth_qid": "Q1017",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 193.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q90326494",
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q104761",
+          "start": "2016-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q1202759",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q319699",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q324854",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2023-06-28",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9617",
+      "image_filename": "2019-06-11 Fußball, Männer, Länderspiel, Deutschland-Estland StP 2059 LR10 by Stepro.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kai_Havertz",
+      "transfermarkt_id": "309400",
+      "fifa_player_id": "201496540",
+      "positions": [
+        "attacking midfielder",
+        "forward"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Aachen",
+      "wikidata_current_club": "Arsenal F.C.",
+      "wikidata_current_club_qid": "Q9617",
+      "photo": {
+        "filename": "2019-06-11 Fußball, Männer, Länderspiel, Deutschland-Estland StP 2059 LR10 by Stepro.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2059_LR10_by_Stepro.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2059_LR10_by_Stepro.jpg/960px-2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2059_LR10_by_Stepro.jpg",
+        "width": 3162,
+        "height": 3162,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kai-havertz.jpg"
+      }
+    },
+    {
+      "slug": "nick-woltemade",
+      "display_name": "Nick Woltemade",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2002-02-14",
+      "age": 24,
+      "caps": 10,
+      "goals": 4,
+      "club_from_squad_table": "Newcastle United",
+      "wikipedia_title": "Nick Woltemade",
+      "date_of_birth": "2002-02-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Newcastle United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q84158344",
+      "qid": "Q84158344",
+      "name": "Nick Woltemadë",
+      "description": "German association football player (born 2002)",
+      "place_of_birth_qid": "Q24879",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 198.0,
+      "position_qids": [
+        "Q280658",
+        "Q90326494"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18716",
+          "start": "2025-08-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q319699",
+          "start": "2018-10-13",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q316497",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q51976",
+          "start": "2020-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q692691",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q4512",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2025-06-04",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18716",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nick_Woltemade",
+      "transfermarkt_id": "455661",
+      "positions": [
+        "forward",
+        "attacking midfielder"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Bremen",
+      "wikidata_current_club": "Newcastle United F.C.",
+      "wikidata_current_club_qid": "Q18716",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "deniz-undav",
+      "display_name": "Deniz Undav",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-07-19",
+      "age": 29,
+      "caps": 7,
+      "goals": 4,
+      "club_from_squad_table": "VfB Stuttgart",
+      "wikipedia_title": "Deniz Undav",
+      "date_of_birth": "1996-07-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "VfB Stuttgart",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q55955918",
+      "qid": "Q55955918",
+      "name": "Deniz Undav",
+      "description": "Turkish-German association football player (born 1996)",
+      "place_of_birth_qid": "Q496056",
+      "citizenship_qids": [
+        "Q183",
+        "Q43"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q16559523",
+          "start": "2017-07-01",
+          "end": "2018-06-30"
+        },
+        {
+          "team_qid": "Q819400",
+          "start": "2018-07-01",
+          "end": "2020-06-30"
+        },
+        {
+          "team_qid": "Q196160",
+          "start": "2020-07-01",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q4512",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q537301",
+          "start": "2015-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q4512",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q196160",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q4512",
+      "image_filename": "Deniz undav.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Deniz_Undav",
+      "transfermarkt_id": "339314",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Germany",
+        "Turkey"
+      ],
+      "place_of_birth": "Varel",
+      "photo": {
+        "filename": "Deniz undav.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Deniz_undav.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Deniz_undav.jpg",
+        "width": 641,
+        "height": 800,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">Jeollo von VfB-exklusiv.de</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/deniz-undav.jpg"
+      }
+    },
+    {
+      "slug": "maximilian-beier",
+      "display_name": "Maximilian Beier",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2002-10-17",
+      "age": 23,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Borussia Dortmund",
+      "wikipedia_title": "Maximilian Beier",
+      "date_of_birth": "2002-10-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Borussia Dortmund",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q80314837",
+      "qid": "Q80314837",
+      "name": "Maximilian Beier",
+      "description": "German footballer (born 2002)",
+      "place_of_birth_qid": "Q3931",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 1.82,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q22707",
+          "start": "2020-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q33748",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q43310",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q41420",
+      "image_filename": "Maximilian Beier training with Borussia Dortmund (2026).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maximilian_Beier",
+      "transfermarkt_id": "578392",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Brandenburg an der Havel",
+      "photo": {
+        "filename": "Maximilian Beier training with Borussia Dortmund (2026).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Maximilian_Beier_training_with_Borussia_Dortmund_%282026%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Maximilian_Beier_training_with_Borussia_Dortmund_%282026%29.jpg/960px-Maximilian_Beier_training_with_Borussia_Dortmund_%282026%29.jpg",
+        "width": 991,
+        "height": 1487,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:FriederR%C3%B6cklerII\" title=\"User:FriederRöcklerII\">FriederRöcklerII</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/maximilian-beier.jpg"
+      }
+    }
+  ],
+  "notes": [
+    "Germany photo/field audit 2026-05-24: verifier confirmed all 26 squad-table rows. Nathaniel Brown, Lennart Karl, and Nick Woltemade had no clean Wikimedia portrait and are marked reviewed-none; Wikidata current-club noise is left as conflict metadata while source-table club text remains authoritative."
+  ]
+}

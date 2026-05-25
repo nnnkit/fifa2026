@@ -1,0 +1,87 @@
+{
+  "slug": "farrukh-sayfiev",
+  "display_name": "Farrukh Sayfiev",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1991-01-17",
+  "age": 35,
+  "caps": 44,
+  "goals": 1,
+  "club_from_squad_table": "Neftchi",
+  "wikipedia_title": "Farrukh Sayfiev",
+  "date_of_birth": "1991-01-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Neftchi",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18753041",
+  "qid": "Q18753041",
+  "name": "Farrukh Sayfiev",
+  "description": "Uzbekistani professional footballer",
+  "place_of_birth_qid": "Q5753",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1150723",
+      "start": "2011-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q487321",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1388979",
+      "start": "2010-00-00",
+      "end": "2011-00-00"
+    },
+    {
+      "team_qid": "Q732106",
+      "start": "2018-00-00",
+      "end": "2024-01-00"
+    },
+    {
+      "team_qid": "Q1101346",
+      "start": "2024-01-00",
+      "end": "2025-01-00"
+    },
+    {
+      "team_qid": "Q870279",
+      "start": "2025-01-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q870279",
+  "image_filename": "Iran v Uzbekistan 2-2, 25 March 2025, Azadi Stadium, World Cup 2026 qualifier 32 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Farrukh_Sayfiev",
+  "transfermarkt_id": "212499",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Samarkand",
+  "wikidata_current_club": "FC Neftchi Fergana",
+  "wikidata_current_club_qid": "Q870279",
+  "photo": {
+    "filename": "Iran v Uzbekistan 2-2, 25 March 2025, Azadi Stadium, World Cup 2026 qualifier 32 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Iran_v_Uzbekistan_2-2%2C_25_March_2025%2C_Azadi_Stadium%2C_World_Cup_2026_qualifier_32_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Iran_v_Uzbekistan_2-2%2C_25_March_2025%2C_Azadi_Stadium%2C_World_Cup_2026_qualifier_32_%28cropped%29.jpg",
+    "width": 220,
+    "height": 323,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Meghdad Madadi",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/farrukh-sayfiev.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

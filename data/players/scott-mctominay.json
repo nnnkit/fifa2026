@@ -1,0 +1,74 @@
+{
+  "slug": "scott-mctominay",
+  "display_name": "Scott McTominay",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-12-08",
+  "age": 29,
+  "caps": 69,
+  "goals": 14,
+  "club_from_squad_table": "Napoli",
+  "wikipedia_title": "Scott McTominay",
+  "date_of_birth": "1996-12-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Napoli",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q29624459",
+  "qid": "Q29624459",
+  "name": "Scott McTominay",
+  "description": "Scottish association football player (born 1996)",
+  "place_of_birth_qid": "Q205905",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 88.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18656",
+      "start": "2017-00-00",
+      "end": "2024-08-30"
+    },
+    {
+      "team_qid": "Q34044",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2641",
+      "start": "2024-08-30",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2641",
+  "image_filename": "Scott McTominay 2021.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Scott_McTominay",
+  "transfermarkt_id": "315969",
+  "fifa_player_id": "201654801",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Lancaster",
+  "wikidata_current_club": "SSC Napoli",
+  "wikidata_current_club_qid": "Q2641",
+  "photo": {
+    "filename": "Scott McTominay 2021.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Scott_McTominay_2021.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Scott_McTominay_2021.jpg",
+    "width": 462,
+    "height": 869,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/scott-mctominay.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

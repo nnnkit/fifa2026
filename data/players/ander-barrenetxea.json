@@ -1,0 +1,100 @@
+{
+  "slug": "ander-barrenetxea",
+  "display_name": "Ander Barrenetxea",
+  "shirt_no": 26,
+  "position_code": "FW",
+  "dob": "2001-12-27",
+  "age": 24,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Real Sociedad",
+  "wikipedia_title": "Ander Barrenetxea (footballer)",
+  "date_of_birth": "2001-12-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Sociedad",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q59823403",
+  "qid": "Q59823403",
+  "name": "Ander Barrenetxea Muguruza",
+  "description": "Spanish association football player",
+  "place_of_birth_qid": "Q10313",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 1.78,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q10315",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q8246700",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1067750",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1967477",
+      "start": "2011-00-00",
+      "end": "2013-00-00"
+    },
+    {
+      "team_qid": "Q10315",
+      "start": "2013-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q3589784",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q2713491",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q1129595",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q42267",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q10315",
+  "image_filename": "Ander Barrenetxea 2018.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ander_Barrenetxea_(footballer)",
+  "transfermarkt_id": "616369",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "San Sebasti\u00e1n",
+  "photo": {
+    "filename": "Ander Barrenetxea 2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ander_Barrenetxea_2018.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ander_Barrenetxea_2018.jpg",
+    "width": 332,
+    "height": 408,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/129346400@N03\">Giovanni Batista Rodriguez</a> from San Sebastian-Donostia, Espa\u00f1a",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ander-barrenetxea.jpg"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain"
+}

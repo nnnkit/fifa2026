@@ -1,0 +1,78 @@
+{
+  "slug": "elijah-just",
+  "display_name": "Elijah Just",
+  "shirt_no": 11,
+  "position_code": "MF",
+  "dob": "2000-05-01",
+  "age": 26,
+  "caps": 42,
+  "goals": 9,
+  "club_from_squad_table": "Motherwell",
+  "wikipedia_title": "Elijah Just",
+  "date_of_birth": "2000-05-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Motherwell",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64031850",
+  "qid": "Q64031850",
+  "name": "Elijah Just",
+  "description": "New Zealand association football player",
+  "place_of_birth_qid": "Q212289",
+  "citizenship_qids": [
+    "Q664"
+  ],
+  "height_cm": 174.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3046573",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q5424959",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q289286",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q175315",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q289286",
+  "image_filename": "Elijah Just.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Elijah_Just",
+  "transfermarkt_id": "485672",
+  "fifa_player_id": "405454",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "New Zealand"
+  ],
+  "place_of_birth": "Palmerston North",
+  "wikidata_current_club": "AC Horsens",
+  "wikidata_current_club_qid": "Q289286",
+  "photo": {
+    "filename": "Elijah Just.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Elijah_Just.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Elijah_Just.jpg/960px-Elijah_Just.jpg",
+    "width": 1200,
+    "height": 2796,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/elijah-just.jpg"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand"
+}

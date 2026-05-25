@@ -1,0 +1,108 @@
+{
+  "slug": "jean-michaël-seri",
+  "display_name": "Jean Michaël Seri",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1991-07-19",
+  "age": 34,
+  "caps": 65,
+  "goals": 4,
+  "club_from_squad_table": "Maribor",
+  "wikipedia_title": "Jean Michaël Seri",
+  "date_of_birth": "1991-07-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Maribor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q6171506",
+  "qid": "Q6171506",
+  "name": "Jean Seri",
+  "description": "Ivorian footballer",
+  "place_of_birth_qid": "Q534166",
+  "citizenship_qids": [
+    "Q1008"
+  ],
+  "height_cm": 168.0,
+  "weight_kg": 65.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q185163",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q852266",
+      "start": "2010-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q371136",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q175145",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q383943",
+      "start": "2008-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q18708",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q5423714",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q495299",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q172476",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q19477",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q185163",
+  "image_filename": "Jean Seri.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Micha%C3%ABl_Seri",
+  "transfermarkt_id": "178614",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Ivory Coast"
+  ],
+  "place_of_birth": "Grand-Béréby",
+  "wikidata_current_club": "OGC Nice",
+  "wikidata_current_club_qid": "Q185163",
+  "photo": {
+    "filename": "Jean Seri.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Jean_Seri.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Jean_Seri.jpg",
+    "width": 416,
+    "height": 923,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Антон Зайцев",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jean-michaël-seri.jpg"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

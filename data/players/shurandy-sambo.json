@@ -1,0 +1,43 @@
+{
+  "slug": "shurandy-sambo",
+  "display_name": "Shurandy Sambo",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-08-19",
+  "age": 24,
+  "caps": 7,
+  "goals": 0,
+  "club_from_squad_table": "Sparta Rotterdam",
+  "wikipedia_title": "Shurandy Sambo",
+  "date_of_birth": "2001-08-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sparta Rotterdam",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q62714742",
+  "qid": "Q62714742",
+  "name": "Shurandy Sambo",
+  "description": "Curaçaoan association football player (born 2001)",
+  "place_of_birth_qid": "Q2636411",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 1.74,
+  "position_qids": [
+    "Q336286"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Shurandy_Sambo",
+  "transfermarkt_id": "412937",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Geldrop",
+  "team_slug": "curaçao",
+  "team_country": "Curaçao",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

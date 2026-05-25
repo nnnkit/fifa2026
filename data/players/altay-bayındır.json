@@ -1,0 +1,98 @@
+{
+  "slug": "altay-bayındır",
+  "display_name": "Altay Bayındır",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1998-04-14",
+  "age": 28,
+  "caps": 11,
+  "goals": 0,
+  "club_from_squad_table": "Manchester United",
+  "wikipedia_title": "Altay Bayındır",
+  "date_of_birth": "1998-04-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q57415806",
+  "qid": "Q57415806",
+  "name": "Altay Bayındır",
+  "description": "Turkish association football player (born 1998)",
+  "place_of_birth_qid": "Q1023140",
+  "citizenship_qids": [
+    "Q43"
+  ],
+  "height_cm": 1.98,
+  "position_qids": [
+    "Q172964"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q6601875",
+      "start": "2019-07-00",
+      "end": "2023-09-01"
+    },
+    {
+      "team_qid": "Q492826",
+      "start": "2015-02-00",
+      "end": "2019-07-00"
+    },
+    {
+      "team_qid": "Q3590479",
+      "start": "2014-08-00",
+      "end": "2014-08-00"
+    },
+    {
+      "team_qid": "Q7855167",
+      "start": "2017-02-00",
+      "end": "2017-02-00"
+    },
+    {
+      "team_qid": "Q7855168",
+      "start": "2018-06-00",
+      "end": "2018-06-00"
+    },
+    {
+      "team_qid": "Q1624749",
+      "start": "2018-03-00",
+      "end": "2020-10-00"
+    },
+    {
+      "team_qid": "Q483856",
+      "start": "2021-05-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2023-09-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18656",
+  "image_filename": "Altay Bayındır (2021-22 Süper Lig) - Resim1.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Altay_Bay%C4%B1nd%C4%B1r",
+  "transfermarkt_id": "336077",
+  "fifa_player_id": "201692826",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Turkey"
+  ],
+  "place_of_birth": "Osmangazi",
+  "wikidata_current_club": "Manchester United F.C.",
+  "wikidata_current_club_qid": "Q18656",
+  "photo": {
+    "filename": "Altay Bayındır (2021-22 Süper Lig) - Resim1.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Altay_Bay%C4%B1nd%C4%B1r_%282021-22_S%C3%BCper_Lig%29_-_Resim1.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Altay_Bay%C4%B1nd%C4%B1r_%282021-22_S%C3%BCper_Lig%29_-_Resim1.png/960px-Altay_Bay%C4%B1nd%C4%B1r_%282021-22_S%C3%BCper_Lig%29_-_Resim1.png",
+    "width": 1280,
+    "height": 720,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "beIN SPORTS Türkiye",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/altay-bayındır.png"
+  },
+  "team_slug": "turkey",
+  "team_country": "Turkey"
+}

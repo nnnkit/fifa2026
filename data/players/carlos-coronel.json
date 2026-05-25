@@ -1,0 +1,84 @@
+{
+  "slug": "carlos-coronel",
+  "display_name": "Carlos Coronel",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1996-12-29",
+  "age": 29,
+  "caps": 9,
+  "goals": 0,
+  "club_from_squad_table": "São Paulo",
+  "wikipedia_title": "Carlos Coronel",
+  "date_of_birth": "1996-12-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "São Paulo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21518688",
+  "qid": "Q21518688",
+  "name": "Carlos Coronel",
+  "description": "Brazilian-Paraguayan footballer",
+  "place_of_birth_qid": "Q271215",
+  "citizenship_qids": [
+    "Q155",
+    "Q733"
+  ],
+  "height_cm": 192.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1387293",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2402747",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q21070839",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q689874",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q204220",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1387293",
+  "image_filename": "Carlos Coronel Red Bull Atlanta 5.31.25-05 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Coronel",
+  "transfermarkt_id": "378871",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Brazil",
+    "Paraguay"
+  ],
+  "place_of_birth": "Corumbá",
+  "wikidata_current_club": "FC Liefering",
+  "wikidata_current_club_qid": "Q1387293",
+  "photo": {
+    "filename": "Carlos Coronel Red Bull Atlanta 5.31.25-05 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Carlos_Coronel_Red_Bull_Atlanta_5.31.25-05_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Carlos_Coronel_Red_Bull_Atlanta_5.31.25-05_%28cropped%29.jpg/960px-Carlos_Coronel_Red_Bull_Atlanta_5.31.25-05_%28cropped%29.jpg",
+    "width": 2454,
+    "height": 3270,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/carlos-coronel.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

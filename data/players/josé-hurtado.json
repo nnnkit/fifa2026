@@ -1,0 +1,70 @@
+{
+  "slug": "jos\u00e9-hurtado",
+  "display_name": "Jos\u00e9 Hurtado",
+  "shirt_no": 3,
+  "position_code": "DF",
+  "dob": "2001-12-23",
+  "age": 24,
+  "caps": 9,
+  "goals": 0,
+  "club_from_squad_table": "Red Bull Bragantino",
+  "wikipedia_title": "Jos\u00e9 Hurtado (footballer)",
+  "date_of_birth": "2001-12-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Red Bull Bragantino",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q106638309",
+  "qid": "Q106638309",
+  "name": "Jos\u00e9 Hurtado",
+  "description": "Ecuadorian footballer (2001)",
+  "place_of_birth_qid": "Q1015654",
+  "citizenship_qids": [
+    "Q736"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q249648",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q541744",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q987584",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q541744",
+  "image_filename": "S\u00e9rie A1 Bragantino 1x0 Corinthians (52633090853) - Jos\u00e9 Hurtado.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Hurtado_(footballer)",
+  "transfermarkt_id": "680506",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Ecuador"
+  ],
+  "place_of_birth": "Santo Domingo",
+  "photo": {
+    "filename": "S\u00e9rie A1 Bragantino 1x0 Corinthians (52633090853) - Jos\u00e9 Hurtado.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/S%C3%A9rie_A1_Bragantino_1x0_Corinthians_%2852633090853%29_-_Jos%C3%A9_Hurtado.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/S%C3%A9rie_A1_Bragantino_1x0_Corinthians_%2852633090853%29_-_Jos%C3%A9_Hurtado.jpg",
+    "width": 716,
+    "height": 1463,
+    "license": "PDM-owner",
+    "license_url": null,
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/132986455@N04\">SOCCER DIGITAL</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jos\u00e9-hurtado.jpg"
+  },
+  "team_slug": "ecuador",
+  "team_country": "Ecuador"
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "gustaf-lagerbielke",
+  "display_name": "Gustaf Lagerbielke",
+  "shirt_no": 2,
+  "position_code": "DF",
+  "dob": "2000-04-10",
+  "age": 26,
+  "caps": 9,
+  "goals": 2,
+  "club_from_squad_table": "Braga",
+  "wikipedia_title": "Gustaf Lagerbielke (footballer)",
+  "date_of_birth": "2000-04-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Braga",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q107316383",
+  "qid": "Q107316383",
+  "name": "Gustaf Lagerbielke",
+  "description": "Swedish association football player",
+  "place_of_birth_qid": "Q1754",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 1.93,
+  "teams": [
+    {
+      "team_qid": "Q10673259",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1140767",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1680249",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q211753",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q221602",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q10673259",
+  "image_filename": "Gustaf Lagerbielke (Sweden vs Moldova, 12 October 2023).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gustaf_Lagerbielke_(footballer)",
+  "transfermarkt_id": "485395",
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Stockholm",
+  "wikidata_current_club": "Sollentuna FK",
+  "wikidata_current_club_qid": "Q10673259",
+  "photo": {
+    "filename": "Gustaf Lagerbielke (Sweden vs Moldova, 12 October 2023).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Gustaf_Lagerbielke_%28Sweden_vs_Moldova%2C_12_October_2023%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gustaf_Lagerbielke_%28Sweden_vs_Moldova%2C_12_October_2023%29.jpg/960px-Gustaf_Lagerbielke_%28Sweden_vs_Moldova%2C_12_October_2023%29.jpg",
+    "width": 1928,
+    "height": 2520,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/198658015@N03\">Amanda Aikioniemi</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/gustaf-lagerbielke.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

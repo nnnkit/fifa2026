@@ -1,0 +1,87 @@
+{
+  "slug": "son-heung-min",
+  "display_name": "Son Heung-min",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1992-07-08",
+  "age": 33,
+  "caps": 142,
+  "goals": 54,
+  "club_from_squad_table": "Los Angeles FC",
+  "wikipedia_title": "Son Heung-min",
+  "wikidata_qid": "Q439722",
+  "qid": "Q439722",
+  "name": "Son Heung-min",
+  "description": "South Korean association football player (born 1992)",
+  "date_of_birth": "1992-07-08",
+  "place_of_birth_qid": "Q42148",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q51974",
+      "start": "2010-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q18741",
+      "start": "2015-01-01",
+      "end": "2025-08-00"
+    },
+    {
+      "team_qid": "Q104761",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q493401",
+      "start": "2008-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q543842",
+      "start": "2010-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q18380286",
+      "start": "2025-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18380286",
+  "image_filename": "BFA 2023 -2 Heung-Min Son (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Son_Heung-min",
+  "transfermarkt_id": "91845",
+  "fifa_player_id": "488666",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Los Angeles FC",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "Chuncheon",
+  "photo": {
+    "filename": "BFA 2023 -2 Heung-Min Son (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg/960px-BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg",
+    "width": 1753,
+    "height": 2372,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ujishadow&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ujishadow (page does not exist)\">Ujishadow</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/son-heung-min.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

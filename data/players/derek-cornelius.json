@@ -1,0 +1,105 @@
+{
+  "slug": "derek-cornelius",
+  "display_name": "Derek Cornelius",
+  "shirt_no": 13,
+  "position_code": "DF",
+  "dob": "1997-11-25",
+  "age": 28,
+  "caps": 42,
+  "goals": 1,
+  "club_from_squad_table": "Rangers",
+  "wikipedia_title": "Derek Cornelius",
+  "wikidata_qid": "Q29901014",
+  "qid": "Q29901014",
+  "name": "Derek Cornelius",
+  "description": "Canadian soccer player",
+  "date_of_birth": "1997-11-25",
+  "place_of_birth_qid": "Q386567",
+  "citizenship_qids": [
+    "Q16",
+    "Q766"
+  ],
+  "height_cm": 187.0,
+  "weight_kg": 86.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q208635",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q665920",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q639506",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q218724",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q196107",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1460053",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q204881",
+      "start": "2023-00-00",
+      "end": "2024-08-00"
+    },
+    {
+      "team_qid": "Q132885",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19597",
+      "start": "2025-09-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19597",
+  "image_filename": "08042023 BP-MFF reportagefotografen 7309.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Derek_Cornelius",
+  "transfermarkt_id": "328609",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Rangers",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Canada",
+    "Jamaica"
+  ],
+  "place_of_birth": "Ajax",
+  "wikidata_current_club": "Rangers F.C.",
+  "wikidata_current_club_qid": "Q19597",
+  "photo": {
+    "filename": "08042023 BP-MFF reportagefotografen 7309.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/08042023_BP-MFF_reportagefotografen_7309.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/08042023_BP-MFF_reportagefotografen_7309.jpg/960px-08042023_BP-MFF_reportagefotografen_7309.jpg",
+    "width": 3391,
+    "height": 2261,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Reportagefotografen\" title=\"User:Reportagefotografen\">Reportagefotografen</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/derek-cornelius.jpg"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

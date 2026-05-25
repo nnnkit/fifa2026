@@ -1,0 +1,82 @@
+{
+  "slug": "alistair-johnston",
+  "display_name": "Alistair Johnston",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-10-08",
+  "age": 27,
+  "caps": 56,
+  "goals": 1,
+  "club_from_squad_table": "Celtic",
+  "wikipedia_title": "Alistair Johnston",
+  "wikidata_qid": "Q81878309",
+  "qid": "Q81878309",
+  "name": "Alistair Johnston",
+  "description": "Canadian association football player",
+  "date_of_birth": "1998-10-08",
+  "place_of_birth_qid": "Q24639",
+  "citizenship_qids": [
+    "Q16"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q124355618"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q65056819",
+      "start": "2015-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q47518754",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q208635",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q167615",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q19593",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19593",
+  "image_filename": "A Johnston Canada national football team WC2022 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alistair_Johnston",
+  "transfermarkt_id": "637446",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Celtic",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "right-back"
+  ],
+  "citizenship": [
+    "Canada"
+  ],
+  "place_of_birth": "Vancouver",
+  "wikidata_current_club": "Celtic F.C.",
+  "wikidata_current_club_qid": "Q19593",
+  "photo": {
+    "filename": "A Johnston Canada national football team WC2022 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/A_Johnston_Canada_national_football_team_WC2022_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/A_Johnston_Canada_national_football_team_WC2022_%28cropped%29.jpg",
+    "width": 111,
+    "height": 189,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/alistair-johnston.jpg"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

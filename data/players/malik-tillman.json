@@ -1,0 +1,109 @@
+{
+  "slug": "malik-tillman",
+  "display_name": "Malik Tillman",
+  "shirt_no": 17,
+  "position_code": "MF",
+  "dob": "2002-05-28",
+  "age": 23,
+  "caps": 28,
+  "goals": 3,
+  "club_from_squad_table": "Bayer Leverkusen",
+  "wikipedia_title": "Malik Tillman",
+  "date_of_birth": "2002-05-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayer Leverkusen",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q96391665",
+  "qid": "Q96391665",
+  "name": "Malik Tillman",
+  "description": "German-American soccer player",
+  "place_of_birth_qid": "Q2090",
+  "citizenship_qids": [
+    "Q183",
+    "Q30"
+  ],
+  "height_cm": 1.87,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q994701",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2021-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q19597",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q11938",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q11938",
+      "start": "2024-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q104761",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q319699",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q316497",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q314851",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q164134",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q104761",
+  "image_filename": "Malik-Tillman-2025.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Malik_Tillman",
+  "transfermarkt_id": "467437",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Germany",
+    "United States"
+  ],
+  "place_of_birth": "Nuremberg",
+  "wikidata_current_club": "Bayer 04 Leverkusen",
+  "wikidata_current_club_qid": "Q104761",
+  "photo": {
+    "filename": "Malik-Tillman-2025.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Malik-Tillman-2025.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Malik-Tillman-2025.jpg",
+    "width": 900,
+    "height": 1200,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Fuguito\" title=\"User:Fuguito\">Fuguito</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/malik-tillman.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "rouzbeh-cheshmi",
+  "display_name": "Rouzbeh Cheshmi",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1993-07-24",
+  "age": 32,
+  "caps": 40,
+  "goals": 3,
+  "club_from_squad_table": "Esteghlal",
+  "wikipedia_title": "Rouzbeh Cheshmi",
+  "date_of_birth": "1993-07-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Esteghlal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q15981797",
+  "qid": "Q15981797",
+  "name": "Rouzbeh Cheshmi",
+  "description": "Iranian footballer (born 1993)",
+  "place_of_birth_qid": "Q3616",
+  "citizenship_qids": [
+    "Q794"
+  ],
+  "height_cm": 195.0,
+  "position_qids": [
+    "Q336286",
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3589804",
+      "start": "2008-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q6587944",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q3277524",
+      "start": "2014-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q184602",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q242260",
+      "start": "2012-00-00",
+      "end": "2013-00-00"
+    },
+    {
+      "team_qid": "Q613931",
+      "start": "2013-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q455971",
+      "start": "2015-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q958008",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q455971",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q455971",
+  "image_filename": "Esteghlal FC in training, 24 July 2022 - 22.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rouzbeh_Cheshmi",
+  "transfermarkt_id": "273879",
+  "fifa_player_id": "406595",
+  "positions": [
+    "defender",
+    "midfielder"
+  ],
+  "citizenship": [
+    "Iran"
+  ],
+  "place_of_birth": "Tehran",
+  "wikidata_current_club": "Esteghlal F.C.",
+  "wikidata_current_club_qid": "Q455971",
+  "photo": {
+    "filename": "Esteghlal FC in training, 24 July 2022 - 22.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Esteghlal_FC_in_training%2C_24_July_2022_-_22.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Esteghlal_FC_in_training%2C_24_July_2022_-_22.jpg",
+    "width": 682,
+    "height": 799,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "\u0645\u0647\u062f\u06cc \u0632\u0627\u0631\u0639 \u0627\u0631\u062f\u0633\u062a\u0627\u0646\u06cc",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/rouzbeh-cheshmi.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

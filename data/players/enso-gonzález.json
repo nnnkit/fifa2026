@@ -1,0 +1,63 @@
+{
+  "slug": "enso-gonzález",
+  "display_name": "Enso González",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2005-01-20",
+  "age": 21,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Wolverhampton Wanderers",
+  "wikipedia_title": "Enso González",
+  "date_of_birth": "2005-01-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Wolverhampton Wanderers",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q122075105",
+  "qid": "Q122075105",
+  "name": "Enso González",
+  "description": "Paraguayan association football player",
+  "place_of_birth_qid": "Q2933",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 1.69,
+  "position_qids": [
+    "Q1369558"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q848642",
+      "start": "2022-07-00",
+      "end": "2023-08-00"
+    },
+    {
+      "team_qid": "Q19500",
+      "start": "2023-08-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q16847286",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19500",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Enso_Gonz%C3%A1lez",
+  "transfermarkt_id": "1060740",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Asunción",
+  "wikidata_current_club": "Wolverhampton Wanderers F.C.",
+  "wikidata_current_club_qid": "Q19500",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

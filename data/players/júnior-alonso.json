@@ -1,0 +1,83 @@
+{
+  "slug": "júnior-alonso",
+  "display_name": "Júnior Alonso",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1993-02-09",
+  "age": 33,
+  "caps": 70,
+  "goals": 3,
+  "club_from_squad_table": "Atlético Mineiro",
+  "wikipedia_title": "Júnior Alonso",
+  "date_of_birth": "1993-02-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atlético Mineiro",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q11091593",
+  "qid": "Q11091593",
+  "name": "Júnior Alonso",
+  "description": "Paraguayan association football player",
+  "place_of_birth_qid": "Q2933",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q914086",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3328932",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q172020",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q8749",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q220854",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q914086",
+  "image_filename": "Júnior Alonso 20180612.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/J%C3%BAnior_Alonso",
+  "transfermarkt_id": "273000",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Asunción",
+  "wikidata_current_club": "Cerro Porteño",
+  "wikidata_current_club_qid": "Q914086",
+  "photo": {
+    "filename": "Júnior Alonso 20180612.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/J%C3%BAnior_Alonso_20180612.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/J%C3%BAnior_Alonso_20180612.jpg/960px-J%C3%BAnior_Alonso_20180612.jpg",
+    "width": 1200,
+    "height": 800,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Lokomotive74\" title=\"User:Lokomotive74\">El Loko</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/júnior-alonso.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

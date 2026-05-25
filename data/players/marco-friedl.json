@@ -1,0 +1,94 @@
+{
+  "slug": "marco-friedl",
+  "display_name": "Marco Friedl",
+  "shirt_no": 23,
+  "position_code": "DF",
+  "dob": "1998-03-16",
+  "age": 28,
+  "caps": 10,
+  "goals": 0,
+  "club_from_squad_table": "Werder Bremen",
+  "wikipedia_title": "Marco Friedl",
+  "date_of_birth": "1998-03-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Werder Bremen",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28692516",
+  "qid": "Q28692516",
+  "name": "Marco Friedl",
+  "description": "Austrian footballer",
+  "place_of_birth_qid": "Q263647",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 1.87,
+  "weight_kg": 71.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q15789",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q303033",
+      "start": "2017-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q994701",
+      "start": "2015-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q51976",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q4107588",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q51976",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q163534",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q51976",
+  "image_filename": "Austria national under-21 football team - Teamcamp June 2017 (053).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marco_Friedl",
+  "transfermarkt_id": "156990",
+  "fifa_player_id": "201625217",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Kirchbichl",
+  "wikidata_current_club": "SV Werder Bremen",
+  "wikidata_current_club_qid": "Q51976",
+  "photo": {
+    "filename": "Austria national under-21 football team - Teamcamp June 2017 (053).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28053%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28053%29.jpg/960px-Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28053%29.jpg",
+    "width": 2000,
+    "height": 3000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 10:36, 30 June 2017 (UTC)",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/marco-friedl.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

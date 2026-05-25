@@ -1,0 +1,84 @@
+{
+  "slug": "salem-al-dawsari",
+  "display_name": "Salem Al-Dawsari",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1991-08-19",
+  "age": 34,
+  "caps": 107,
+  "goals": 26,
+  "club_from_squad_table": "Al-Hilal",
+  "wikipedia_title": "Salem Al-Dawsari",
+  "date_of_birth": "1991-08-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Hilal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q3945419",
+  "qid": "Q3945419",
+  "name": "Salem Al-Dawsari",
+  "description": "Saudi Arabian footballer",
+  "place_of_birth_qid": "Q3692",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 171.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q21707087"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q73965",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q189723",
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873541",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q12297",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q23848735",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    }
+  ],
+  "current_club_qid": "Q73965",
+  "image_filename": "Salem Al-Dawsari.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Salem_Al-Dawsari",
+  "transfermarkt_id": "195332",
+  "fifa_player_id": "339745",
+  "positions": [
+    "inverted winger"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Riyadh",
+  "wikidata_current_club": "Al Hilal SFC",
+  "wikidata_current_club_qid": "Q73965",
+  "photo": {
+    "filename": "Salem Al-Dawsari.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Salem_Al-Dawsari.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Salem_Al-Dawsari.jpg",
+    "width": 242,
+    "height": 396,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0421\u0430\u0434\u043e\u0432\u043d\u0438\u043a\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/salem-al-dawsari.jpg"
+  },
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia"
+}

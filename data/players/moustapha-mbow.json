@@ -1,0 +1,58 @@
+{
+  "slug": "moustapha-mbow",
+  "display_name": "Moustapha Mbow",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-03-08",
+  "age": 26,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Paris FC",
+  "wikipedia_title": "Moustapha Mbow",
+  "date_of_birth": "2000-03-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Paris FC",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q61749038",
+  "qid": "Q61749038",
+  "name": "Moustapha Mbow",
+  "description": "Senegalese association football player",
+  "place_of_birth_qid": "Q3718",
+  "citizenship_qids": [
+    "Q1041"
+  ],
+  "height_cm": 192.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q16849821",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q208228",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q208228",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Moustapha_Mbow",
+  "transfermarkt_id": "649026",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Senegal"
+  ],
+  "place_of_birth": "Dakar",
+  "wikidata_current_club": "Stade de Reims",
+  "wikidata_current_club_qid": "Q208228",
+  "team_slug": "senegal",
+  "team_country": "Senegal",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

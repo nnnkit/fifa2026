@@ -1,0 +1,115 @@
+{
+  "slug": "francisco-trinc\u00e3o",
+  "display_name": "Francisco Trinc\u00e3o",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1999-12-29",
+  "age": 26,
+  "caps": 17,
+  "goals": 3,
+  "club_from_squad_table": "Sporting CP",
+  "wikipedia_title": "Francisco Trinc\u00e3o",
+  "date_of_birth": "1999-12-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sporting CP",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q24084271",
+  "qid": "Q24084271",
+  "name": "Francisco Trinc\u00e3o",
+  "description": "Portuguese association football player (born 1999)",
+  "place_of_birth_qid": "Q208158",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 186.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q75684",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2020-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q267245",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q7387158",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q19500",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q75729",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q75729",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590754",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q3873511",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q3873524",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1772776",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1630430",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    }
+  ],
+  "current_club_qid": "Q75729",
+  "image_filename": "Francisco Trinc\u00e3o 2019 (cropped) 2.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Francisco_Trinc%C3%A3o",
+  "transfermarkt_id": "412669",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Viana do Castelo",
+  "photo": {
+    "filename": "Francisco Trinc\u00e3o 2019 (cropped) 2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Francisco_Trinc%C3%A3o_2019_%28cropped%29_2.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Francisco_Trinc%C3%A3o_2019_%28cropped%29_2.jpg",
+    "width": 210,
+    "height": 328,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u043d\u0430 \u041d\u044d\u0441\u0441\u0438",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/francisco-trinc\u00e3o.jpg"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

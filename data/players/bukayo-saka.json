@@ -1,0 +1,92 @@
+{
+  "slug": "bukayo-saka",
+  "display_name": "Bukayo Saka",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-09-05",
+  "age": 24,
+  "caps": 48,
+  "goals": 14,
+  "club_from_squad_table": "Arsenal",
+  "wikipedia_title": "Bukayo Saka",
+  "date_of_birth": "2001-09-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Arsenal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q59306386",
+  "qid": "Q59306386",
+  "name": "Bukayo Saka",
+  "description": "English footballer (born 2001)",
+  "place_of_birth_qid": "Q83726",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q9617",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q4201740",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q2752922",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1049171",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q2358861",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q47762",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q9617",
+  "image_filename": "1 bukayo saka arsenal 2025 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bukayo_Saka",
+  "transfermarkt_id": "433177",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Ealing",
+  "wikidata_current_club": "Arsenal F.C.",
+  "wikidata_current_club_qid": "Q9617",
+  "photo": {
+    "filename": "1 bukayo saka arsenal 2025 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/1_bukayo_saka_arsenal_2025_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/1_bukayo_saka_arsenal_2025_%28cropped%29.jpg/960px-1_bukayo_saka_arsenal_2025_%28cropped%29.jpg",
+    "width": 2715,
+    "height": 3207,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\">Chensiyuan</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/bukayo-saka.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

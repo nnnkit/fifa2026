@@ -1,0 +1,1800 @@
+{
+  "slug": "australia",
+  "country": "Australia",
+  "wikidata_qid": "Q115799259",
+  "fetched_at": "2026-05-24T15:07:07+00:00",
+  "source": {
+    "kind": "national-team",
+    "title": "Australia men's national soccer team",
+    "url": "https://en.wikipedia.org/wiki/Australia_men's_national_soccer_team"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "mathew-ryan",
+      "display_name": "Mathew Ryan",
+      "shirt_no": 1,
+      "position_code": "GK",
+      "dob": "1992-04-08",
+      "age": 34,
+      "caps": 103,
+      "goals": 0,
+      "club_from_squad_table": "Levante",
+      "wikipedia_title": "Mathew Ryan",
+      "date_of_birth": "1992-04-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Levante",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q1587689",
+      "qid": "Q1587689",
+      "name": "Mathew Ryan",
+      "description": "Australian association football player",
+      "place_of_birth_qid": "Q7205460",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 73.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q762294",
+          "start": "2010-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q190916",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q10333",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q268208",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q216032",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2017-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q10315",
+          "start": "2021-00-00",
+          "end": "2022-08-00"
+        },
+        {
+          "team_qid": "Q188430",
+          "start": "2022-08-00",
+          "end": "2023-01-00"
+        },
+        {
+          "team_qid": "Q191264",
+          "start": "2023-01-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q191843",
+          "start": "2025-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q8823",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8823",
+      "image_filename": "20180601 FIFA Friendly Match Czech Republic vs. Australia Matthew Ryan 850 0230.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mathew_Ryan",
+      "transfermarkt_id": "128969",
+      "fifa_player_id": "339117",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Plumpton",
+      "wikidata_current_club": "Levante UD",
+      "wikidata_current_club_qid": "Q8823",
+      "photo": {
+        "filename": "20180601 FIFA Friendly Match Czech Republic vs. Australia Matthew Ryan 850 0230.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/20180601_FIFA_Friendly_Match_Czech_Republic_vs._Australia_Matthew_Ryan_850_0230.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20180601_FIFA_Friendly_Match_Czech_Republic_vs._Australia_Matthew_Ryan_850_0230.jpg/960px-20180601_FIFA_Friendly_Match_Czech_Republic_vs._Australia_Matthew_Ryan_850_0230.jpg",
+        "width": 1967,
+        "height": 2950,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mathew-ryan.jpg"
+      }
+    },
+    {
+      "slug": "paul-izzo",
+      "display_name": "Paul Izzo",
+      "shirt_no": 12,
+      "position_code": "GK",
+      "dob": "1995-01-06",
+      "age": 31,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Randers",
+      "wikipedia_title": "Paul Izzo",
+      "date_of_birth": "1995-01-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Randers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q7151477",
+      "qid": "Q7151477",
+      "name": "Paul Izzo",
+      "description": "Australian association football player",
+      "place_of_birth_qid": "Q5112",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "height_cm": 184.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q762294",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q354059",
+          "start": "2011-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3589754",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q3873546",
+          "start": "2011-01-01",
+          "end": "2014-01-01"
+        }
+      ],
+      "current_club_qid": "Q762294",
+      "image_filename": "Paul Izzo 2013.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Izzo",
+      "transfermarkt_id": "181921",
+      "fifa_player_id": "331135",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Adelaide",
+      "wikidata_current_club": "Central Coast Mariners FC",
+      "wikidata_current_club_qid": "Q762294",
+      "photo": {
+        "filename": "Paul Izzo 2013.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Paul_Izzo_2013.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Paul_Izzo_2013.jpg/960px-Paul_Izzo_2013.jpg",
+        "width": 1036,
+        "height": 1357,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/56397580@N07\">Pete Nowakowski</a> from Sydney, Australia",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/paul-izzo.jpg"
+      }
+    },
+    {
+      "slug": "patrick-beach",
+      "display_name": "Patrick Beach",
+      "shirt_no": 18,
+      "position_code": "GK",
+      "dob": "2003-08-06",
+      "age": 22,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Melbourne City",
+      "wikipedia_title": "Patrick Beach",
+      "date_of_birth": "2003-08-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Melbourne City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q126284601",
+      "qid": "Q126284601",
+      "name": "Patrick Beach",
+      "description": "Australian soccer player",
+      "place_of_birth_qid": "Q3130",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q748725",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q748725",
+      "image_filename": "PatrickBeachvWSW.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Beach",
+      "transfermarkt_id": "983578",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Sydney",
+      "wikidata_current_club": "Melbourne City FC",
+      "wikidata_current_club_qid": "Q748725",
+      "photo": {
+        "filename": "PatrickBeachvWSW.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/PatrickBeachvWSW.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/PatrickBeachvWSW.jpg",
+        "width": 553,
+        "height": 1039,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Leo12780&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Leo12780 (page does not exist)\">Leo12780</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/patrick-beach.jpg"
+      }
+    },
+    {
+      "slug": "miloš-degenek",
+      "display_name": "Miloš Degenek",
+      "shirt_no": 2,
+      "position_code": "DF",
+      "dob": "1994-04-28",
+      "age": 32,
+      "caps": 56,
+      "goals": 1,
+      "club_from_squad_table": "APOEL",
+      "wikipedia_title": "Miloš Degenek",
+      "date_of_birth": "1994-04-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "APOEL",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q14309492",
+      "qid": "Q14309492",
+      "name": "Miloš Degenek",
+      "description": "Australian association football player",
+      "place_of_birth_qid": "Q208514",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "height_cm": 187.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q4512",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q107421",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q131603",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3589754",
+          "start": "2009-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q953632",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q3589775",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q268208",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q854932",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q173009",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q73965",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q173009",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q457163",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q173009",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q173009",
+      "image_filename": "Milos degenek.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Milo%C5%A1_Degenek",
+      "transfermarkt_id": "187353",
+      "fifa_player_id": "331149",
+      "uefa_player_id": "23278",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Knin",
+      "wikidata_current_club": "FK Crvena zvezda",
+      "wikidata_current_club_qid": "Q173009",
+      "photo": {
+        "filename": "Milos degenek.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Milos_degenek.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Milos_degenek.jpg",
+        "width": 441,
+        "height": 600,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">jeollo von http://www.vfb-exklusiv.de</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/miloš-degenek.jpg"
+      }
+    },
+    {
+      "slug": "jacob-italiano",
+      "display_name": "Jacob Italiano",
+      "shirt_no": 3,
+      "position_code": "DF",
+      "dob": "2001-07-30",
+      "age": 24,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Grazer AK",
+      "wikipedia_title": "Jacob Italiano",
+      "date_of_birth": "2001-07-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Grazer AK",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q43303848",
+      "qid": "Q43303848",
+      "name": "Jacob Italiano",
+      "description": "association football player",
+      "place_of_birth_qid": "Q408",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q852033",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q852033",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jacob_Italiano",
+      "transfermarkt_id": "545810",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Australia",
+      "wikidata_current_club": "Perth Glory FC",
+      "wikidata_current_club_qid": "Q852033",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "kye-rowles",
+      "display_name": "Kye Rowles",
+      "shirt_no": 4,
+      "position_code": "DF",
+      "dob": "1998-06-24",
+      "age": 27,
+      "caps": 29,
+      "goals": 1,
+      "club_from_squad_table": "D.C. United",
+      "wikipedia_title": "Kye Rowles",
+      "date_of_birth": "1998-06-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "D.C. United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28839990",
+      "qid": "Q28839990",
+      "name": "Kye Rowles",
+      "description": "Australian association football player",
+      "place_of_birth_qid": "Q1740762",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 90.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q762294",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q762294",
+      "image_filename": "Kye Rowles NYCFC vs DC United on Aug 30 2025-016 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kye_Rowles",
+      "transfermarkt_id": "399990",
+      "fifa_player_id": "389539",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Kiama",
+      "wikidata_current_club": "Central Coast Mariners FC",
+      "wikidata_current_club_qid": "Q762294",
+      "photo": {
+        "filename": "Kye Rowles NYCFC vs DC United on Aug 30 2025-016 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Kye_Rowles_NYCFC_vs_DC_United_on_Aug_30_2025-016_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kye_Rowles_NYCFC_vs_DC_United_on_Aug_30_2025-016_%28cropped%29.jpg/960px-Kye_Rowles_NYCFC_vs_DC_United_on_Aug_30_2025-016_%28cropped%29.jpg",
+        "width": 3173,
+        "height": 4228,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kye-rowles.jpg"
+      }
+    },
+    {
+      "slug": "jordan-bos",
+      "display_name": "Jordan Bos",
+      "shirt_no": 5,
+      "position_code": "DF",
+      "dob": "2002-10-29",
+      "age": 23,
+      "caps": 25,
+      "goals": 4,
+      "club_from_squad_table": "Feyenoord",
+      "wikipedia_title": "Jordan Bos",
+      "date_of_birth": "2002-10-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Feyenoord",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q109768459",
+      "qid": "Q109768459",
+      "name": "Jordan Bos",
+      "description": "Australian soccer player",
+      "place_of_birth_qid": "Q7207994",
+      "citizenship_qids": [
+        "Q408",
+        "Q29999"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q849544",
+          "start": "2023-07-01",
+          "end": "2025-07-00"
+        },
+        {
+          "team_qid": "Q748725",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q268208",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q134241",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q134241",
+      "image_filename": "4822286 AE7I6649 - Jordan Bos.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jordan_Bos",
+      "transfermarkt_id": "855731",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Australia",
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Point Cook",
+      "wikidata_current_club": "Feyenoord Rotterdam",
+      "wikidata_current_club_qid": "Q134241",
+      "photo": {
+        "filename": "4822286 AE7I6649 - Jordan Bos.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/4822286_AE7I6649_-_Jordan_Bos.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/4822286_AE7I6649_-_Jordan_Bos.jpg",
+        "width": 235,
+        "height": 376,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Foad Ashtari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jordan-bos.jpg"
+      }
+    },
+    {
+      "slug": "kai-trewin",
+      "display_name": "Kai Trewin",
+      "shirt_no": 15,
+      "position_code": "DF",
+      "dob": "2001-05-18",
+      "age": 25,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "New York City",
+      "wikipedia_title": "Kai Trewin",
+      "date_of_birth": "2001-05-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "New York City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q87400019",
+      "qid": "Q87400019",
+      "name": "Kai Trewin",
+      "description": "Australian soccer player",
+      "place_of_birth_qid": "Q3114",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q839997",
+          "start": "2020-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q748725",
+          "start": "2024-00-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q268208",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q13361030",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q13361030",
+      "image_filename": "Kai Trewin NYCFC v Colorado Mar 14 2026-25 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kai_Trewin",
+      "transfermarkt_id": "691326",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Canberra",
+      "wikidata_current_club": "New York City FC",
+      "wikidata_current_club_qid": "Q13361030",
+      "photo": {
+        "filename": "Kai Trewin NYCFC v Colorado Mar 14 2026-25 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Kai_Trewin_NYCFC_v_Colorado_Mar_14_2026-25_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kai_Trewin_NYCFC_v_Colorado_Mar_14_2026-25_%28cropped%29.jpg/960px-Kai_Trewin_NYCFC_v_Colorado_Mar_14_2026-25_%28cropped%29.jpg",
+        "width": 2772,
+        "height": 3694,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kai-trewin.jpg"
+      }
+    },
+    {
+      "slug": "aziz-behich",
+      "display_name": "Aziz Behich",
+      "shirt_no": 16,
+      "position_code": "DF",
+      "dob": "1990-12-16",
+      "age": 35,
+      "caps": 82,
+      "goals": 3,
+      "club_from_squad_table": "Melbourne City",
+      "wikipedia_title": "Aziz Behich",
+      "date_of_birth": "1990-12-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Melbourne City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q2947963",
+      "qid": "Q2947963",
+      "name": "Aziz Behich",
+      "description": "Australian association football player",
+      "place_of_birth_qid": "Q1586921",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "height_cm": 172.0,
+      "weight_kg": 66.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q203573",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q2005622",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q5940588",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q3589775",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q268208",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q316789",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q748725",
+          "start": "2010-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q748725",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q316789",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        }
+      ],
+      "current_club_qid": "Q748725",
+      "image_filename": "Aziz Behich.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aziz_Behich",
+      "transfermarkt_id": "136834",
+      "fifa_player_id": "349342",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Moonee Ponds",
+      "wikidata_current_club": "Melbourne City FC",
+      "wikidata_current_club_qid": "Q748725",
+      "photo": {
+        "filename": "Aziz Behich.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Aziz_Behich.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Aziz_Behich.jpg",
+        "width": 831,
+        "height": 1200,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Camw\" title=\"User:Camw\">Camw</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/aziz-behich.jpg"
+      }
+    },
+    {
+      "slug": "jason-geria",
+      "display_name": "Jason Geria",
+      "shirt_no": 19,
+      "position_code": "DF",
+      "dob": "1993-05-10",
+      "age": 33,
+      "caps": 13,
+      "goals": 0,
+      "club_from_squad_table": "Albirex Niigata",
+      "wikipedia_title": "Jason Geria",
+      "date_of_birth": "1993-05-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Albirex Niigata",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q10556049",
+      "qid": "Q10556049",
+      "name": "Jason Geria",
+      "description": "Australian association football player",
+      "place_of_birth_qid": "Q3114",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "height_cm": 184.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q839997",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q3873546",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3589775",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q316789",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q646204",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q852033",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q383358",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q839997",
+      "image_filename": "Geria Victory Training May 2015.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jason_Geria",
+      "transfermarkt_id": "185175",
+      "fifa_player_id": "339112",
+      "uefa_player_id": "29427",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Canberra",
+      "wikidata_current_club": "Brisbane Roar FC",
+      "wikidata_current_club_qid": "Q839997",
+      "photo": {
+        "filename": "Geria Victory Training May 2015.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Geria_Victory_Training_May_2015.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Geria_Victory_Training_May_2015.jpg/960px-Geria_Victory_Training_May_2015.jpg",
+        "width": 2728,
+        "height": 2888,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Paladisious&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Paladisious (page does not exist)\">Paladisious</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jason-geria.jpg"
+      }
+    },
+    {
+      "slug": "cameron-burgess",
+      "display_name": "Cameron Burgess",
+      "shirt_no": 21,
+      "position_code": "DF",
+      "dob": "1995-10-21",
+      "age": 30,
+      "caps": 25,
+      "goals": 0,
+      "club_from_squad_table": "Swansea City",
+      "wikipedia_title": "Cameron Burgess",
+      "date_of_birth": "1995-10-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Swansea City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17496350",
+      "qid": "Q17496350",
+      "name": "Cameron Burgess",
+      "description": "Australian-Scottish association football player (born 1995)",
+      "place_of_birth_qid": "Q36405",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 194.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18708",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q180420",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q48932",
+          "start": "2016-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q48932",
+      "image_filename": "Cameron Burgess (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cameron_Burgess",
+      "transfermarkt_id": "255788",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Aberdeen",
+      "wikidata_current_club": "Cheltenham Town F.C.",
+      "wikidata_current_club_qid": "Q48932",
+      "photo": {
+        "filename": "Cameron Burgess (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cameron_Burgess_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cameron_Burgess_%28cropped%29.jpg",
+        "width": 174,
+        "height": 191,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Foad Ashtari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/cameron-burgess.jpg"
+      }
+    },
+    {
+      "slug": "alessandro-circati",
+      "display_name": "Alessandro Circati",
+      "shirt_no": 23,
+      "position_code": "DF",
+      "dob": "2003-10-10",
+      "age": 22,
+      "caps": 11,
+      "goals": 1,
+      "club_from_squad_table": "Parma",
+      "wikipedia_title": "Alessandro Circati",
+      "date_of_birth": "2003-10-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Parma",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q111020508",
+      "qid": "Q111020508",
+      "name": "Alessandro Circati",
+      "description": "Australian soccer player",
+      "place_of_birth_qid": "Q100811",
+      "citizenship_qids": [
+        "Q408",
+        "Q38"
+      ],
+      "height_cm": 190.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alessandro_Circati",
+      "transfermarkt_id": "867137",
+      "citizenship": [
+        "Australia",
+        "Italy"
+      ],
+      "place_of_birth": "Fidenza",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "lucas-herrington",
+      "display_name": "Lucas Herrington",
+      "shirt_no": 26,
+      "position_code": "DF",
+      "dob": "2007-09-05",
+      "age": 18,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Colorado Rapids",
+      "wikipedia_title": "Lucas Herrington",
+      "date_of_birth": "2007-09-05",
+      "date_of_birth_source": "wikidata+club-official-verified",
+      "current_club": "Colorado Rapids",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q133105064",
+      "qid": "Q133105064",
+      "name": "Lucas Herrington",
+      "description": "Australian soccer player",
+      "place_of_birth_qid": "Q34932",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q16828255",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q839997",
+          "start": "2024-00-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q642408",
+          "start": "2026-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873546",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q268208",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q642408",
+      "image_filename": "Lucas Herrington NYCFC v Colorado Mar 14 2026-29 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_Herrington",
+      "transfermarkt_id": "1279984",
+      "wikidata_date_of_birth": "2007-09-05",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Brisbane",
+      "photo": {
+        "filename": "Lucas Herrington NYCFC v Colorado Mar 14 2026-29 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Lucas_Herrington_NYCFC_v_Colorado_Mar_14_2026-29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Lucas_Herrington_NYCFC_v_Colorado_Mar_14_2026-29_%28cropped%29.jpg/960px-Lucas_Herrington_NYCFC_v_Colorado_Mar_14_2026-29_%28cropped%29.jpg",
+        "width": 3041,
+        "height": 4052,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lucas-herrington.jpg"
+      },
+      "squad_table_date_of_birth": "2007-07-05"
+    },
+    {
+      "slug": "connor-metcalfe",
+      "display_name": "Connor Metcalfe",
+      "shirt_no": 8,
+      "position_code": "MF",
+      "dob": "1999-11-05",
+      "age": 26,
+      "caps": 34,
+      "goals": 1,
+      "club_from_squad_table": "FC St. Pauli",
+      "wikipedia_title": "Connor Metcalfe",
+      "date_of_birth": "1999-11-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "FC St. Pauli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q51213832",
+      "qid": "Q51213832",
+      "name": "Connor Metcalfe",
+      "description": "Australian soccer player",
+      "place_of_birth_qid": "Q57278",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q748725",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q6463",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q268208",
+          "start": "2021-06-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873975",
+          "start": "2021-07-00",
+          "end": "2021-07-00"
+        }
+      ],
+      "current_club_qid": "Q6463",
+      "image_filename": "4822293 AE7I6590 - Connor Metcalfe.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Connor_Metcalfe",
+      "transfermarkt_id": "522223",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Newcastle",
+      "photo": {
+        "filename": "4822293 AE7I6590 - Connor Metcalfe.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/4822293_AE7I6590_-_Connor_Metcalfe.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/4822293_AE7I6590_-_Connor_Metcalfe.jpg",
+        "width": 302,
+        "height": 513,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Foad Ashtari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/connor-metcalfe.jpg"
+      }
+    },
+    {
+      "slug": "ajdin-hrustić",
+      "display_name": "Ajdin Hrustić",
+      "shirt_no": 10,
+      "position_code": "MF",
+      "dob": "1996-07-05",
+      "age": 29,
+      "caps": 36,
+      "goals": 4,
+      "club_from_squad_table": "Heracles Almelo",
+      "wikipedia_title": "Ajdin Hrustić",
+      "date_of_birth": "1996-07-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Heracles Almelo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q29109911",
+      "qid": "Q29109911",
+      "name": "Ajdin Hrustic",
+      "description": "Australian association football player",
+      "place_of_birth_qid": "Q1159408",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19490",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19490",
+      "image_filename": "2022128170418 2022-05-08 Fussball Eintracht Frankfurt vs Borussia Mönchengladbach - Sven - 1D X MK II - 2055 - B70I8166 (Ajdin Hrustić cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ajdin_Hrusti%C4%87",
+      "transfermarkt_id": "265625",
+      "fifa_player_id": "404319",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Dandenong",
+      "wikidata_current_club": "Nottingham Forest F.C.",
+      "wikidata_current_club_qid": "Q19490",
+      "photo": {
+        "filename": "2022128170418 2022-05-08 Fussball Eintracht Frankfurt vs Borussia Mönchengladbach - Sven - 1D X MK II - 2055 - B70I8166 (Ajdin Hrustić cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/2022128170418_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2055_-_B70I8166_%28Ajdin_Hrusti%C4%87_cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/2022128170418_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2055_-_B70I8166_%28Ajdin_Hrusti%C4%87_cropped%29.jpg",
+        "width": 317,
+        "height": 423,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Sven Mandel",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ajdin-hrustić.jpg"
+      }
+    },
+    {
+      "slug": "aiden-oneill",
+      "display_name": "Aiden O'Neill",
+      "shirt_no": 13,
+      "position_code": "MF",
+      "dob": "1998-07-04",
+      "age": 27,
+      "caps": 29,
+      "goals": 0,
+      "club_from_squad_table": "New York City",
+      "wikipedia_title": "Aiden O'Neill",
+      "date_of_birth": "1998-07-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "New York City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26485052",
+      "qid": "Q26485052",
+      "name": "Aiden O'Neill",
+      "description": "Australian soccer player",
+      "place_of_birth_qid": "Q34932",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19601",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19601",
+      "image_filename": "Aiden O'Neill CF Montreal NYCFC 6.28.25-034 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aiden_O%27Neill",
+      "transfermarkt_id": "385918",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Brisbane",
+      "wikidata_current_club": "Oldham Athletic A.F.C.",
+      "wikidata_current_club_qid": "Q19601",
+      "photo": {
+        "filename": "Aiden O'Neill CF Montreal NYCFC 6.28.25-034 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Aiden_O%27Neill_CF_Montreal_NYCFC_6.28.25-034_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aiden_O%27Neill_CF_Montreal_NYCFC_6.28.25-034_%28cropped%29.jpg/960px-Aiden_O%27Neill_CF_Montreal_NYCFC_6.28.25-034_%28cropped%29.jpg",
+        "width": 1966,
+        "height": 2620,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/aiden-oneill.jpg"
+      }
+    },
+    {
+      "slug": "riley-mcgree",
+      "display_name": "Riley McGree",
+      "shirt_no": 14,
+      "position_code": "MF",
+      "dob": "1998-11-02",
+      "age": 27,
+      "caps": 35,
+      "goals": 1,
+      "club_from_squad_table": "Middlesbrough",
+      "wikipedia_title": "Riley McGree",
+      "date_of_birth": "1998-11-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Middlesbrough",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q23771429",
+      "qid": "Q23771429",
+      "name": "Riley McGree",
+      "description": "Australian association football player",
+      "place_of_birth_qid": "Q5112",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3589754",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q190916",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q354059",
+          "start": "2019-07-05",
+          "end": null
+        },
+        {
+          "team_qid": "Q18661",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q732929",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q354059",
+      "image_filename": "Riley McGree.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Riley_McGree",
+      "transfermarkt_id": "428061",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Adelaide",
+      "wikidata_current_club": "Adelaide United Football Club",
+      "wikidata_current_club_qid": "Q354059",
+      "photo": {
+        "filename": "Riley McGree.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Riley_McGree.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Riley_McGree.jpg/960px-Riley_McGree.jpg",
+        "width": 3120,
+        "height": 4160,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:FastCube&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:FastCube (page does not exist)\">FastCube</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/riley-mcgree.jpg"
+      }
+    },
+    {
+      "slug": "patrick-yazbek",
+      "display_name": "Patrick Yazbek",
+      "shirt_no": 17,
+      "position_code": "MF",
+      "dob": "2002-04-05",
+      "age": 24,
+      "caps": 9,
+      "goals": 0,
+      "club_from_squad_table": "Nashville SC",
+      "wikipedia_title": "Patrick Yazbek",
+      "date_of_birth": "2002-04-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nashville SC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110068139",
+      "qid": "Q110068139",
+      "name": "Patrick Yazbek",
+      "description": "Australian soccer player",
+      "place_of_birth_qid": "Q3227602",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "height_cm": 1.83,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Patrick Yazbek Revolution Nashville 6.25.25-035 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Yazbek",
+      "transfermarkt_id": "867762",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Liverpool",
+      "photo": {
+        "filename": "Patrick Yazbek Revolution Nashville 6.25.25-035 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Patrick_Yazbek_Revolution_Nashville_6.25.25-035_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Patrick_Yazbek_Revolution_Nashville_6.25.25-035_%28cropped%29.jpg/960px-Patrick_Yazbek_Revolution_Nashville_6.25.25-035_%28cropped%29.jpg",
+        "width": 1800,
+        "height": 2399,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/patrick-yazbek.jpg"
+      }
+    },
+    {
+      "slug": "paul-okon-engstler",
+      "display_name": "Paul Okon-Engstler",
+      "shirt_no": 20,
+      "position_code": "MF",
+      "dob": "2005-01-24",
+      "age": 21,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Sydney FC",
+      "wikipedia_title": "Paul Okon-Engstler",
+      "date_of_birth": "2005-01-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sydney FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117000107",
+      "qid": "Q117000107",
+      "name": "Paul Okon-Engstler",
+      "description": "australian-Italian footballer (born 2005)",
+      "citizenship_qids": [
+        "Q38"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Okon-Engstler",
+      "citizenship": [
+        "Italy"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "alex-robertson",
+      "display_name": "Alex Robertson",
+      "shirt_no": 22,
+      "position_code": "MF",
+      "dob": "2003-04-17",
+      "age": 23,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Cardiff City",
+      "wikipedia_title": "Alex Robertson (soccer, born 2003)",
+      "date_of_birth": "2003-04-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cardiff City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107572014",
+      "qid": "Q107572014",
+      "name": "Alexander Robertson",
+      "description": "Australian association football player",
+      "place_of_birth_qid": "Q123709",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 182.0,
+      "image_filename": "Alex Robertson 05042025 (3).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Robertson_(soccer,_born_2003)",
+      "transfermarkt_id": "609887",
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Dundee",
+      "photo": {
+        "filename": "Alex Robertson 05042025 (3).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Alex_Robertson_05042025_%283%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alex_Robertson_05042025_%283%29.jpg/960px-Alex_Robertson_05042025_%283%29.jpg",
+        "width": 1085,
+        "height": 1290,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alex-robertson.jpg"
+      }
+    },
+    {
+      "slug": "martin-boyle",
+      "display_name": "Martin Boyle",
+      "shirt_no": 6,
+      "position_code": "FW",
+      "dob": "1993-04-25",
+      "age": 33,
+      "caps": 41,
+      "goals": 10,
+      "club_from_squad_table": "Hibernian",
+      "wikipedia_title": "Martin Boyle",
+      "date_of_birth": "1993-04-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Hibernian",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q6775043",
+      "qid": "Q6775043",
+      "name": "Martin Boyle",
+      "description": "Australian association footballer (born 1993)",
+      "place_of_birth_qid": "Q36405",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 172.0,
+      "position_qids": [
+        "Q526301"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q192597",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q335483",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q473136",
+          "start": "2009-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q473136",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q7435696",
+          "start": "2007-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q268208",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q192597",
+      "image_filename": "4822273 AE7I7255 - Martin Boyle.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Boyle",
+      "transfermarkt_id": "140554",
+      "positions": [
+        "Utility player"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Aberdeen",
+      "wikidata_current_club": "Hibernian F.C.",
+      "wikidata_current_club_qid": "Q192597",
+      "photo": {
+        "filename": "4822273 AE7I7255 - Martin Boyle.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/4822273_AE7I7255_-_Martin_Boyle.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/4822273_AE7I7255_-_Martin_Boyle.jpg",
+        "width": 394,
+        "height": 442,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Foad Ashtari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/martin-boyle.jpg"
+      }
+    },
+    {
+      "slug": "nestory-irankunda",
+      "display_name": "Nestory Irankunda",
+      "shirt_no": 7,
+      "position_code": "FW",
+      "dob": "2006-02-09",
+      "age": 20,
+      "caps": 13,
+      "goals": 5,
+      "club_from_squad_table": "Watford",
+      "wikipedia_title": "Nestory Irankunda",
+      "date_of_birth": "2006-02-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Watford",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110486192",
+      "qid": "Q110486192",
+      "name": "Nestor Irankunda",
+      "description": "Australian association football player (born 2006)",
+      "place_of_birth_qid": "Q244509",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "height_cm": 1.75,
+      "position_qids": [
+        "Q280658",
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15789",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q201360",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q201360",
+      "image_filename": "Nestory Irankunda and Kwadwo Baah 09082025 (1) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nestory_Irankunda",
+      "transfermarkt_id": "956920",
+      "positions": [
+        "forward",
+        "winger"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Kigoma",
+      "wikidata_current_club": "Grasshopper Club Zürich",
+      "wikidata_current_club_qid": "Q201360",
+      "photo": {
+        "filename": "Nestory Irankunda and Kwadwo Baah 09082025 (1) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Nestory_Irankunda_and_Kwadwo_Baah_09082025_%281%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Nestory_Irankunda_and_Kwadwo_Baah_09082025_%281%29_%28cropped%29.jpg",
+        "width": 460,
+        "height": 745,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nestory-irankunda.jpg"
+      }
+    },
+    {
+      "slug": "nishan-velupillay",
+      "display_name": "Nishan Velupillay",
+      "shirt_no": 9,
+      "position_code": "FW",
+      "dob": "2001-05-07",
+      "age": 25,
+      "caps": 6,
+      "goals": 3,
+      "club_from_squad_table": "Melbourne Victory",
+      "wikipedia_title": "Nishan Velupillay",
+      "date_of_birth": "2001-05-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Melbourne Victory",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q106916460",
+      "qid": "Q106916460",
+      "name": "Nishan Velupillay",
+      "description": "Australian soccer player",
+      "place_of_birth_qid": "Q408",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "height_cm": 1.81,
+      "image_filename": "Nishan Velupillay training for Melbourne Victory January 2023 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nishan_Velupillay",
+      "transfermarkt_id": "888140",
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Australia",
+      "photo": {
+        "filename": "Nishan Velupillay training for Melbourne Victory January 2023 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Nishan_Velupillay_training_for_Melbourne_Victory_January_2023_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Nishan_Velupillay_training_for_Melbourne_Victory_January_2023_%28cropped%29.jpg",
+        "width": 755,
+        "height": 1214,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:TobyMcG&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:TobyMcG (page does not exist)\">TobyMcG</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nishan-velupillay.jpg"
+      }
+    },
+    {
+      "slug": "awer-mabil",
+      "display_name": "Awer Mabil",
+      "shirt_no": 11,
+      "position_code": "FW",
+      "dob": "1995-09-15",
+      "age": 30,
+      "caps": 37,
+      "goals": 10,
+      "club_from_squad_table": "Castellón",
+      "wikipedia_title": "Awer Mabil",
+      "date_of_birth": "1995-09-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Castellón",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q4830013",
+      "qid": "Q4830013",
+      "name": "Awer Mabil",
+      "description": "Australian association football player",
+      "place_of_birth_qid": "Q1186085",
+      "citizenship_qids": [
+        "Q408"
+      ],
+      "height_cm": 1.79,
+      "weight_kg": 65.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q618520",
+          "start": "2015-01-01",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q5028222",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q354059",
+          "start": "2013-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q460448",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q193481",
+          "start": "2023-01-00",
+          "end": "2023-06-00"
+        },
+        {
+          "team_qid": "Q389879",
+          "start": "2016-08-00",
+          "end": "2017-06-00"
+        },
+        {
+          "team_qid": "Q371136",
+          "start": "2017-07-00",
+          "end": "2018-06-00"
+        },
+        {
+          "team_qid": "Q138230",
+          "start": "2022-02-00",
+          "end": "2022-06-00"
+        }
+      ],
+      "current_club_qid": "Q460448",
+      "image_filename": "Awer Mabil for Australia against Syria 15 January 2019 Asian Cup.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Awer_Mabil",
+      "transfermarkt_id": "255729",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Australia"
+      ],
+      "place_of_birth": "Kakuma",
+      "wikidata_current_club": "Cádiz Club de Fútbol",
+      "wikidata_current_club_qid": "Q460448",
+      "photo": {
+        "filename": "Awer Mabil for Australia against Syria 15 January 2019 Asian Cup.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Awer_Mabil_for_Australia_against_Syria_15_January_2019_Asian_Cup.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Awer_Mabil_for_Australia_against_Syria_15_January_2019_Asian_Cup.jpg/960px-Awer_Mabil_for_Australia_against_Syria_15_January_2019_Asian_Cup.jpg",
+        "width": 1280,
+        "height": 854,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Amir Ostovari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/awer-mabil.jpg"
+      }
+    },
+    {
+      "slug": "deni-jurić",
+      "display_name": "Deni Jurić",
+      "shirt_no": 24,
+      "position_code": "FW",
+      "dob": "1997-09-03",
+      "age": 28,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Wisła Płock",
+      "wikipedia_title": "Deni Jurić",
+      "date_of_birth": "1997-09-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Wisła Płock",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q84851202",
+      "qid": "Q84851202",
+      "name": "Deni Jurić",
+      "description": "Croatian-Australian football player",
+      "place_of_birth_qid": "Q657126",
+      "height_cm": 188.0,
+      "teams": [
+        {
+          "team_qid": "Q181216",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q181216",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Deni_Juri%C4%87",
+      "transfermarkt_id": "407697",
+      "place_of_birth": "Kogarah",
+      "wikidata_current_club": "HNK Hajduk Split",
+      "wikidata_current_club_qid": "Q181216",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ante-šuto",
+      "display_name": "Ante Šuto",
+      "shirt_no": 25,
+      "position_code": "FW",
+      "dob": "2000-06-19",
+      "age": 25,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Hibernian",
+      "wikipedia_title": "Ante Šuto",
+      "date_of_birth": "2000-06-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Hibernian",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q138025320",
+      "qid": "Q138025320",
+      "name": "Ante Šuto",
+      "description": "Croatian footballer",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ante_%C5%A0uto",
+      "transfermarkt_id": "697511",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    }
+  ],
+  "notes": [
+    "Australia imported 2026-05-24 from the national-team current squad table because the central 2026 FIFA World Cup squads article currently has an Australia heading without a parseable squad table.",
+    "Australia photo/field audit 2026-05-24: verifier confirmed all 26 imported rows match the Australia men's national soccer team current-squad table; no clean Wikimedia portrait was found for Jacob Italiano, Alessandro Circati, Paul Okon-Engstler, Deni Jurić, or Ante Šuto.",
+    "Lucas Herrington DOB audit 2026-05-24: national-team current squad table lists 2007-07-05, but Wikidata, enwiki, and Colorado Rapids official source support 2007-09-05; canonical DOB changed to 2007-09-05 and squad_table_date_of_birth preserves the imported table value."
+  ]
+}

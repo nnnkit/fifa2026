@@ -1,0 +1,67 @@
+{
+  "slug": "jacob-widell-zetterstr\u00f6m",
+  "display_name": "Jacob Widell Zetterstr\u00f6m",
+  "shirt_no": 1,
+  "position_code": "GK",
+  "dob": "1998-07-11",
+  "age": 27,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Derby County",
+  "wikipedia_title": "Jacob Widell Zetterstr\u00f6m",
+  "date_of_birth": "1998-07-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Derby County",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q95618487",
+  "qid": "Q95618487",
+  "name": "Jacob Widell Zetterstr\u00f6m",
+  "description": "Swedish footballer",
+  "place_of_birth_qid": "Q1754",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 197.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q622430",
+      "start": null,
+      "end": "2024-08-16"
+    },
+    {
+      "team_qid": "Q19470",
+      "start": "2024-08-17",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19470",
+  "image_filename": "FC RB Salzburg gegen Derby County (2025-07-18 Testspiel) 24 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jacob_Widell_Zetterstr%C3%B6m",
+  "transfermarkt_id": "549440",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Stockholm",
+  "wikidata_current_club": "Derby County F.C.",
+  "wikidata_current_club_qid": "Q19470",
+  "photo": {
+    "filename": "FC RB Salzburg gegen Derby County (2025-07-18 Testspiel) 24 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/FC_RB_Salzburg_gegen_Derby_County_%282025-07-18_Testspiel%29_24_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/FC_RB_Salzburg_gegen_Derby_County_%282025-07-18_Testspiel%29_24_%28cropped%29.jpg",
+    "width": 558,
+    "height": 866,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jacob-widell-zetterstr\u00f6m.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

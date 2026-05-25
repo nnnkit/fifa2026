@@ -1,0 +1,112 @@
+{
+  "slug": "philipp-lienhart",
+  "display_name": "Philipp Lienhart",
+  "shirt_no": 15,
+  "position_code": "DF",
+  "dob": "1996-07-11",
+  "age": 29,
+  "caps": 40,
+  "goals": 3,
+  "club_from_squad_table": "SC Freiburg",
+  "wikipedia_title": "Philipp Lienhart",
+  "date_of_birth": "1996-07-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "SC Freiburg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20078774",
+  "qid": "Q20078774",
+  "name": "Philipp Lienhart",
+  "description": "Austrian association football player (born 1996)",
+  "place_of_birth_qid": "Q871536",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 189.0,
+  "weight_kg": 83.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q12217",
+      "start": "2015-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2015-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q98228613",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1246437",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q302954",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q302977",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q303033",
+      "start": "2015-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q302967",
+      "start": "2015-01-01",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q106394",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q106394",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q163534",
+      "start": "2017-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q106394",
+  "image_filename": "Austria national under-21 football team - Teamcamp June 2017 (057).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Philipp_Lienhart",
+  "transfermarkt_id": "225657",
+  "fifa_player_id": "372243",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Lilienfeld",
+  "photo": {
+    "filename": "Austria national under-21 football team - Teamcamp June 2017 (057).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28057%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28057%29.jpg/960px-Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28057%29.jpg",
+    "width": 2000,
+    "height": 3000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 10:36, 30 June 2017 (UTC)",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/philipp-lienhart.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

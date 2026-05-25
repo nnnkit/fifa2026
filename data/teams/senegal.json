@@ -1,0 +1,1902 @@
+{
+  "slug": "senegal",
+  "country": "Senegal",
+  "wikidata_qid": "Q207441",
+  "fetched_at": "2026-05-24T17:12:48+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 28,
+  "players": [
+    {
+      "slug": "édouard-mendy",
+      "display_name": "Édouard Mendy",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1992-03-01",
+      "age": 34,
+      "caps": 56,
+      "goals": 0,
+      "club_from_squad_table": "Al-Ahli",
+      "wikipedia_title": "Édouard Mendy",
+      "date_of_birth": "1992-03-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Ahli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27736107",
+      "qid": "Q27736107",
+      "name": "Édouard Mendy",
+      "description": "Senegalese-French footballer (born 1992)",
+      "place_of_birth_qid": "Q845991",
+      "citizenship_qids": [
+        "Q1041",
+        "Q142"
+      ],
+      "height_cm": 194.0,
+      "weight_kg": 86.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q9616",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q19509",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q208228",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q109503074",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q298279",
+          "start": "2011-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q44441",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q207441",
+          "start": "2018-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q44441",
+      "image_filename": "2021 FIFA Club World Cup Final - 30.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89douard_Mendy",
+      "transfermarkt_id": "442531",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Senegal",
+        "France"
+      ],
+      "place_of_birth": "Montivilliers",
+      "wikidata_current_club": "Al Ahli FC",
+      "wikidata_current_club_qid": "Q44441",
+      "photo": {
+        "filename": "2021 FIFA Club World Cup Final - 30.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2021_FIFA_Club_World_Cup_Final_-_30.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2021_FIFA_Club_World_Cup_Final_-_30.jpg",
+        "width": 430,
+        "height": 568,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "محمد امین انصاری",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/édouard-mendy.jpg"
+      }
+    },
+    {
+      "slug": "mory-diaw",
+      "display_name": "Mory Diaw",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1993-06-22",
+      "age": 32,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Le Havre",
+      "wikipedia_title": "Mory Diaw",
+      "date_of_birth": "1993-06-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Le Havre",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17686992",
+      "qid": "Q17686992",
+      "name": "Mory Diaw",
+      "description": "Senegalese and French footballer",
+      "place_of_birth_qid": "Q457",
+      "citizenship_qids": [
+        "Q142",
+        "Q1041"
+      ],
+      "height_cm": 1.95,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q483020",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2945336",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q618990",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q618990",
+      "image_filename": "Mory Diaw 2015 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mory_Diaw",
+      "transfermarkt_id": "164904",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "France",
+        "Senegal"
+      ],
+      "place_of_birth": "Poissy",
+      "wikidata_current_club": "C.D. Mafra",
+      "wikidata_current_club_qid": "Q618990",
+      "photo": {
+        "filename": "Mory Diaw 2015 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mory_Diaw_2015_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mory_Diaw_2015_%28cropped%29.jpg",
+        "width": 664,
+        "height": 1584,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Liondartois\" title=\"User:Liondartois\">Liondartois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mory-diaw.jpg"
+      }
+    },
+    {
+      "slug": "yehvann-diouf",
+      "display_name": "Yehvann Diouf",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1999-11-16",
+      "age": 26,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Nice",
+      "wikipedia_title": "Yehvann Diouf",
+      "date_of_birth": "1999-11-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nice",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64010489",
+      "qid": "Q64010489",
+      "name": "Yehvann Diouf",
+      "description": "Senegalese association football player (born 1999)",
+      "place_of_birth_qid": "Q193370",
+      "citizenship_qids": [
+        "Q142",
+        "Q1041"
+      ],
+      "height_cm": 1.9,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q501693",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q208228",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2017-09-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2017-03-00",
+          "end": "2017-06-00"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q207441",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q208228",
+      "image_filename": "Diouf asse sr 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yehvann_Diouf",
+      "transfermarkt_id": "448632",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "France",
+        "Senegal"
+      ],
+      "place_of_birth": "Montreuil",
+      "wikidata_current_club": "Stade de Reims",
+      "wikidata_current_club_qid": "Q208228",
+      "photo": {
+        "filename": "Diouf asse sr 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Diouf_asse_sr_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Diouf_asse_sr_2425.png",
+        "width": 534,
+        "height": 711,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/yehvann-diouf.png"
+      }
+    },
+    {
+      "slug": "kalidou-koulibaly",
+      "display_name": "Kalidou Koulibaly",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1991-06-20",
+      "age": 34,
+      "caps": 103,
+      "goals": 2,
+      "club_from_squad_table": "Al-Hilal",
+      "wikipedia_title": "Kalidou Koulibaly",
+      "date_of_birth": "1991-06-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Hilal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q3192187",
+      "qid": "Q3192187",
+      "name": "Kalidou Koulibaly",
+      "description": "Senegalese-French footballer (born 1991)",
+      "place_of_birth_qid": "Q34427",
+      "citizenship_qids": [
+        "Q1041",
+        "Q142"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 89.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q221525",
+          "start": "2010-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q216032",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q2641",
+          "start": "2014-07-02",
+          "end": "2022-07-16"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2022-07-16",
+          "end": "2023-06-25"
+        },
+        {
+          "team_qid": "Q73965",
+          "start": "2023-06-25",
+          "end": null
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2011-00-00",
+          "end": "2012-00-00"
+        },
+        {
+          "team_qid": "Q207441",
+          "start": "2015-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q109502401",
+          "start": "2009-00-00",
+          "end": "2011-00-00"
+        }
+      ],
+      "current_club_qid": "Q73965",
+      "image_filename": "Joueur de foot.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kalidou_Koulibaly",
+      "transfermarkt_id": "93128",
+      "fifa_player_id": "339820",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Senegal",
+        "France"
+      ],
+      "place_of_birth": "Saint-Dié-des-Vosges",
+      "wikidata_current_club": "Al Hilal SFC",
+      "wikidata_current_club_qid": "Q73965",
+      "photo": {
+        "filename": "Joueur de foot.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Joueur_de_foot.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Joueur_de_foot.jpg/960px-Joueur_de_foot.jpg",
+        "width": 3000,
+        "height": 4500,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Happiraphael\" title=\"User:Happiraphael\">Happiraphael</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kalidou-koulibaly.jpg"
+      }
+    },
+    {
+      "slug": "krépin-diatta",
+      "display_name": "Krépin Diatta",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-02-25",
+      "age": 27,
+      "caps": 59,
+      "goals": 2,
+      "club_from_squad_table": "Monaco",
+      "wikipedia_title": "Krépin Diatta",
+      "date_of_birth": "1999-02-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Monaco",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q29168109",
+      "qid": "Q29168109",
+      "name": "Krepin Diatta",
+      "description": "Senegalese association football player",
+      "place_of_birth_qid": "Q3718",
+      "citizenship_qids": [
+        "Q1041"
+      ],
+      "height_cm": 1.75,
+      "weight_kg": 68.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1151909",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q190916",
+          "start": "2018-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q180305",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q207441",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q180305",
+      "image_filename": "Diatta asse asm 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kr%C3%A9pin_Diatta",
+      "transfermarkt_id": "490426",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Senegal"
+      ],
+      "place_of_birth": "Dakar",
+      "wikidata_current_club": "AS Monaco FC",
+      "wikidata_current_club_qid": "Q180305",
+      "photo": {
+        "filename": "Diatta asse asm 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Diatta_asse_asm_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Diatta_asse_asm_2425.png",
+        "width": 668,
+        "height": 850,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/krépin-diatta.png"
+      }
+    },
+    {
+      "slug": "moussa-niakhaté",
+      "display_name": "Moussa Niakhaté",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-03-08",
+      "age": 30,
+      "caps": 29,
+      "goals": 0,
+      "club_from_squad_table": "Lyon",
+      "wikipedia_title": "Moussa Niakhaté",
+      "date_of_birth": "1996-03-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lyon",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18637804",
+      "qid": "Q18637804",
+      "name": "Moussa Niakhate",
+      "description": "French association football player",
+      "place_of_birth_qid": "Q34001",
+      "citizenship_qids": [
+        "Q1041",
+        "Q142"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 82.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q212269",
+          "start": "2014-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q221525",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q221525",
+      "image_filename": "Niakhaté asse ol 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Moussa_Niakhat%C3%A9",
+      "transfermarkt_id": "291200",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Senegal",
+        "France"
+      ],
+      "place_of_birth": "Roubaix",
+      "wikidata_current_club": "FC Metz",
+      "wikidata_current_club_qid": "Q221525",
+      "photo": {
+        "filename": "Niakhaté asse ol 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Niakhat%C3%A9_asse_ol_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Niakhat%C3%A9_asse_ol_2425.png",
+        "width": 525,
+        "height": 841,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/moussa-niakhaté.png"
+      }
+    },
+    {
+      "slug": "ismail-jakobs",
+      "display_name": "Ismail Jakobs",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-08-17",
+      "age": 26,
+      "caps": 28,
+      "goals": 0,
+      "club_from_squad_table": "Galatasaray",
+      "wikipedia_title": "Ismail Jakobs",
+      "date_of_birth": "1999-08-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Galatasaray",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q74178822",
+      "qid": "Q74178822",
+      "name": "Ismail Jakobs",
+      "description": "Senegalese-German association football player",
+      "place_of_birth_qid": "Q365",
+      "citizenship_qids": [
+        "Q183",
+        "Q1041"
+      ],
+      "height_cm": 1.84,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q104770",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q180305",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q104770",
+      "image_filename": "Ismail Jakobs.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ismail_Jakobs",
+      "transfermarkt_id": "375137",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Germany",
+        "Senegal"
+      ],
+      "place_of_birth": "Cologne",
+      "wikidata_current_club": "1. FC Köln",
+      "wikidata_current_club_qid": "Q104770",
+      "photo": {
+        "filename": "Ismail Jakobs.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Ismail_Jakobs.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ismail_Jakobs.jpg/960px-Ismail_Jakobs.jpg",
+        "width": 1055,
+        "height": 2033,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "feguifoot",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ismail-jakobs.jpg"
+      }
+    },
+    {
+      "slug": "abdoulaye-seck",
+      "display_name": "Abdoulaye Seck",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1992-06-04",
+      "age": 34,
+      "caps": 21,
+      "goals": 4,
+      "club_from_squad_table": "Maccabi Haifa",
+      "wikipedia_title": "Abdoulaye Seck (footballer, born 1992)",
+      "date_of_birth": "1992-06-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Maccabi Haifa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17494543",
+      "qid": "Q17494543",
+      "name": "Abdoulaye Seck",
+      "description": "Senegalese association footballer (b. 1992)",
+      "place_of_birth_qid": "Q1019431",
+      "citizenship_qids": [
+        "Q801"
+      ],
+      "height_cm": 192.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2940765",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q657883",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q304060",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q861524",
+          "start": "2016-03-05",
+          "end": "2018-08-28"
+        },
+        {
+          "team_qid": "Q207441",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q732002",
+          "start": "2018-08-29",
+          "end": "2022-08-31"
+        },
+        {
+          "team_qid": "Q2129100",
+          "start": "2022-09-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2129100",
+      "image_filename": "Abdoulaye Seck.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abdoulaye_Seck_(footballer,_born_1992)",
+      "transfermarkt_id": "265383",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Israel"
+      ],
+      "place_of_birth": "M'Bour",
+      "wikidata_current_club": "Maccabi Haifa F.C.",
+      "wikidata_current_club_qid": "Q2129100",
+      "photo": {
+        "filename": "Abdoulaye Seck.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Abdoulaye_Seck.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Abdoulaye_Seck.jpg/960px-Abdoulaye_Seck.jpg",
+        "width": 2240,
+        "height": 1982,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "feguifoot",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/abdoulaye-seck.jpg"
+      }
+    },
+    {
+      "slug": "el-hadji-malick-diouf",
+      "display_name": "El Hadji Malick Diouf",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-12-29",
+      "age": 21,
+      "caps": 18,
+      "goals": 1,
+      "club_from_squad_table": "West Ham United",
+      "wikipedia_title": "El Hadji Malick Diouf",
+      "date_of_birth": "2004-12-29",
+      "date_of_birth_source": "west-ham+caf-verified",
+      "current_club": "West Ham United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q123479947",
+      "qid": "Q123479947",
+      "name": "El Hadji Malick Diouf",
+      "description": "Senegalese footballer",
+      "place_of_birth_qid": "Q202776",
+      "citizenship_qids": [
+        "Q1041"
+      ],
+      "height_cm": 1.83,
+      "position_qids": [
+        "Q336286"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/El_Hadji_Malick_Diouf",
+      "transfermarkt_id": "1111589",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Senegal"
+      ],
+      "place_of_birth": "Ziguinchor",
+      "squad_table_date_of_birth": "2004-12-28",
+      "image_filename": "El Hadji Malick Diouf 04032026 (1).jpg",
+      "photo": {
+        "filename": "El Hadji Malick Diouf 04032026 (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/El_Hadji_Malick_Diouf_04032026_%281%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/El_Hadji_Malick_Diouf_04032026_%281%29.jpg/960px-El_Hadji_Malick_Diouf_04032026_%281%29.jpg",
+        "width": 5184,
+        "height": 3888,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "commons-verified",
+        "local_path": "data/photos/el-hadji-malick-diouf.jpg"
+      }
+    },
+    {
+      "slug": "antoine-mendy",
+      "display_name": "Antoine Mendy",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-05-27",
+      "age": 22,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Nice",
+      "wikipedia_title": "Antoine Mendy (footballer)",
+      "date_of_birth": "2004-05-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nice",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q114713518",
+      "qid": "Q114713518",
+      "name": "Antoine Mendy",
+      "description": "French-Senegalese association footballer",
+      "place_of_birth_qid": "Q23482",
+      "citizenship_qids": [
+        "Q142",
+        "Q1041"
+      ],
+      "height_cm": 187.0,
+      "image_filename": "Mendy asse ogcn 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Antoine_Mendy_(footballer)",
+      "transfermarkt_id": "891998",
+      "citizenship": [
+        "France",
+        "Senegal"
+      ],
+      "place_of_birth": "Marseille",
+      "photo": {
+        "filename": "Mendy asse ogcn 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mendy_asse_ogcn_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mendy_asse_ogcn_2425.png",
+        "width": 693,
+        "height": 890,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/antoine-mendy.png"
+      }
+    },
+    {
+      "slug": "mamadou-sarr",
+      "display_name": "Mamadou Sarr",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2005-08-29",
+      "age": 20,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Chelsea",
+      "wikipedia_title": "Mamadou Sarr",
+      "date_of_birth": "2005-08-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Chelsea",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q108187024",
+      "qid": "Q108187024",
+      "name": "Mamadou Sarr",
+      "description": "Senegalese-French footballer (born 2005)",
+      "place_of_birth_qid": "Q237516",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 194.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q704",
+          "start": "2023-07-01",
+          "end": "2024-08-21"
+        },
+        {
+          "team_qid": "Q20979061",
+          "start": "2024-01-18",
+          "end": "2024-06-30"
+        },
+        {
+          "team_qid": "Q126334",
+          "start": "2024-08-22",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q126334",
+      "image_filename": "Sarr asse rcsa 2425.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mamadou_Sarr",
+      "transfermarkt_id": "910905",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Martigues",
+      "wikidata_current_club": "RC Strasbourg Alsace",
+      "wikidata_current_club_qid": "Q126334",
+      "photo": {
+        "filename": "Sarr asse rcsa 2425.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sarr_asse_rcsa_2425.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sarr_asse_rcsa_2425.jpg",
+        "width": 569,
+        "height": 798,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mamadou-sarr.jpg"
+      }
+    },
+    {
+      "slug": "ilay-camara",
+      "display_name": "Ilay Camara",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-01-18",
+      "age": 23,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Anderlecht",
+      "wikipedia_title": "Ilay Camara",
+      "date_of_birth": "2003-01-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Anderlecht",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q113577268",
+      "qid": "Q113577268",
+      "name": "Ilay Camara",
+      "description": "Senegalese association football player (born 2003)",
+      "place_of_birth_qid": "Q528222",
+      "citizenship_qids": [
+        "Q31",
+        "Q1041"
+      ],
+      "height_cm": 174.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ilay_Camara",
+      "transfermarkt_id": "570781",
+      "citizenship": [
+        "Belgium",
+        "Senegal"
+      ],
+      "place_of_birth": "Bonheiden",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "moustapha-mbow",
+      "display_name": "Moustapha Mbow",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-03-08",
+      "age": 26,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Paris FC",
+      "wikipedia_title": "Moustapha Mbow",
+      "date_of_birth": "2000-03-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q61749038",
+      "qid": "Q61749038",
+      "name": "Moustapha Mbow",
+      "description": "Senegalese association football player",
+      "place_of_birth_qid": "Q3718",
+      "citizenship_qids": [
+        "Q1041"
+      ],
+      "height_cm": 192.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q16849821",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q208228",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q208228",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Moustapha_Mbow",
+      "transfermarkt_id": "649026",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Senegal"
+      ],
+      "place_of_birth": "Dakar",
+      "wikidata_current_club": "Stade de Reims",
+      "wikidata_current_club_qid": "Q208228",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "idrissa-gueye",
+      "display_name": "Idrissa Gueye",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1989-09-26",
+      "age": 36,
+      "caps": 131,
+      "goals": 7,
+      "club_from_squad_table": "Everton",
+      "wikipedia_title": "Idrissa Gueye",
+      "date_of_birth": "1989-09-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Everton",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q46679",
+      "qid": "Q46679",
+      "name": "Idrissa Gueye",
+      "description": "Senegalese association football player",
+      "place_of_birth_qid": "Q3718",
+      "citizenship_qids": [
+        "Q1041"
+      ],
+      "height_cm": 174.0,
+      "weight_kg": 64.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18711",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q19516",
+          "start": "2010-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q207441",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q657883",
+          "start": "2007-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q16591640",
+          "start": "2008-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q3132749",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q5794",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q5794",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q5794",
+      "image_filename": "Idrissa Gueye (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Idrissa_Gueye",
+      "transfermarkt_id": "126665",
+      "fifa_player_id": "332314",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Senegal"
+      ],
+      "place_of_birth": "Dakar",
+      "wikidata_current_club": "Everton F.C.",
+      "wikidata_current_club_qid": "Q5794",
+      "photo": {
+        "filename": "Idrissa Gueye (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Idrissa_Gueye_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Idrissa_Gueye_%28cropped%29.jpg",
+        "width": 278,
+        "height": 359,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Екатерина Лаут",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/idrissa-gueye.jpg"
+      }
+    },
+    {
+      "slug": "pape-gueye",
+      "display_name": "Pape Gueye",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1999-01-24",
+      "age": 27,
+      "caps": 40,
+      "goals": 5,
+      "club_from_squad_table": "Villarreal",
+      "wikipedia_title": "Pape Gueye",
+      "date_of_birth": "1999-01-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Villarreal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q45935395",
+      "qid": "Q45935395",
+      "name": "Pape Gueye",
+      "description": "Senegalese and French footballer",
+      "place_of_birth_qid": "Q193370",
+      "citizenship_qids": [
+        "Q1041",
+        "Q142"
+      ],
+      "height_cm": 1.89,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q12297",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q12297",
+      "image_filename": "Football - 2023 Africa Cup of Nations - Finals - Guinea v Senegal - Charles Konan Stadium - Yamoussoukro - Cote dIvoire - 53483552243 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pape_Gueye",
+      "transfermarkt_id": "485963",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Senegal",
+        "France"
+      ],
+      "place_of_birth": "Montreuil",
+      "wikidata_current_club": "Villarreal CF",
+      "wikidata_current_club_qid": "Q12297",
+      "photo": {
+        "filename": "Football - 2023 Africa Cup of Nations - Finals - Guinea v Senegal - Charles Konan Stadium - Yamoussoukro - Cote dIvoire - 53483552243 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Football_-_2023_Africa_Cup_of_Nations_-_Finals_-_Guinea_v_Senegal_-_Charles_Konan_Stadium_-_Yamoussoukro_-_Cote_dIvoire_-_53483552243_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Football_-_2023_Africa_Cup_of_Nations_-_Finals_-_Guinea_v_Senegal_-_Charles_Konan_Stadium_-_Yamoussoukro_-_Cote_dIvoire_-_53483552243_%28cropped%29.jpg/960px-Football_-_2023_Africa_Cup_of_Nations_-_Finals_-_Guinea_v_Senegal_-_Charles_Konan_Stadium_-_Yamoussoukro_-_Cote_dIvoire_-_53483552243_%28cropped%29.jpg",
+        "width": 1394,
+        "height": 2308,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "feguifoot",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/pape-gueye.jpg"
+      }
+    },
+    {
+      "slug": "pape-matar-sarr",
+      "display_name": "Pape Matar Sarr",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-09-14",
+      "age": 23,
+      "caps": 38,
+      "goals": 4,
+      "club_from_squad_table": "Tottenham Hotspur",
+      "wikipedia_title": "Pape Matar Sarr",
+      "date_of_birth": "2002-09-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Tottenham Hotspur",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q104877690",
+      "qid": "Q104877690",
+      "name": "Pape Matar Sarr",
+      "description": "Senegalese association football player",
+      "place_of_birth_qid": "Q3523983",
+      "citizenship_qids": [
+        "Q1041"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "RC Lens - FC Metz (14-03-2021) 37.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pape_Matar_Sarr",
+      "transfermarkt_id": "568693",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Senegal"
+      ],
+      "place_of_birth": "Thiaroye",
+      "photo": {
+        "filename": "RC Lens - FC Metz (14-03-2021) 37.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/RC_Lens_-_FC_Metz_%2814-03-2021%29_37.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RC_Lens_-_FC_Metz_%2814-03-2021%29_37.jpg/960px-RC_Lens_-_FC_Metz_%2814-03-2021%29_37.jpg",
+        "width": 2203,
+        "height": 2937,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterhéninois (page does not exist)\">Supporterhéninois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/pape-matar-sarr.jpg"
+      }
+    },
+    {
+      "slug": "pathé-ciss",
+      "display_name": "Pathé Ciss",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-03-16",
+      "age": 32,
+      "caps": 29,
+      "goals": 0,
+      "club_from_squad_table": "Rayo Vallecano",
+      "wikipedia_title": "Pathé Ciss",
+      "date_of_birth": "1994-03-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rayo Vallecano",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q67089591",
+      "qid": "Q67089591",
+      "name": "Pathé Ciss",
+      "description": "Senegalese footballer",
+      "place_of_birth_qid": "Q3718",
+      "citizenship_qids": [
+        "Q1041"
+      ],
+      "height_cm": 1.86,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q108708",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q108708",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Path%C3%A9_Ciss",
+      "transfermarkt_id": "525578",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Senegal"
+      ],
+      "place_of_birth": "Dakar",
+      "wikidata_current_club": "CF Fuenlabrada",
+      "wikidata_current_club_qid": "Q108708",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "lamine-camara",
+      "display_name": "Lamine Camara",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-01-01",
+      "age": 22,
+      "caps": 25,
+      "goals": 7,
+      "club_from_squad_table": "Monaco",
+      "wikipedia_title": "Lamine Camara",
+      "date_of_birth": "2004-01-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Monaco",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q116896436",
+      "qid": "Q116896436",
+      "name": "Lamine Camara",
+      "description": "Senegalese association football player",
+      "place_of_birth_qid": "Q3028823",
+      "citizenship_qids": [
+        "Q1041"
+      ],
+      "height_cm": 1.73,
+      "image_filename": "5. Islamic Solidarity Games 2021 Konya 7 Lamine Camara (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lamine_Camara",
+      "transfermarkt_id": "918969",
+      "citizenship": [
+        "Senegal"
+      ],
+      "place_of_birth": "Diouloulou",
+      "photo": {
+        "filename": "5. Islamic Solidarity Games 2021 Konya 7 Lamine Camara (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/5._Islamic_Solidarity_Games_2021_Konya_7_Lamine_Camara_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/5._Islamic_Solidarity_Games_2021_Konya_7_Lamine_Camara_%28cropped%29.jpg",
+        "width": 174,
+        "height": 311,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/196259896@N06\">Astro medya  Org. Ltd. ŞTİ.</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lamine-camara.jpg"
+      }
+    },
+    {
+      "slug": "habib-diarra",
+      "display_name": "Habib Diarra",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-01-03",
+      "age": 22,
+      "caps": 19,
+      "goals": 4,
+      "club_from_squad_table": "Sunderland",
+      "wikipedia_title": "Habib Diarra",
+      "date_of_birth": "2004-01-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sunderland",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q108924143",
+      "qid": "Q108924143",
+      "name": "Habib Diarra",
+      "description": "Senegalese footballer (born 2004)",
+      "place_of_birth_qid": "Q1557691",
+      "citizenship_qids": [
+        "Q1041",
+        "Q142"
+      ],
+      "height_cm": 1.79,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Diarra asse rcsa 2425.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Habib_Diarra",
+      "transfermarkt_id": "876631",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Senegal",
+        "France"
+      ],
+      "place_of_birth": "Guédiawaye",
+      "photo": {
+        "filename": "Diarra asse rcsa 2425.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Diarra_asse_rcsa_2425.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Diarra_asse_rcsa_2425.jpg",
+        "width": 453,
+        "height": 465,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/habib-diarra.jpg"
+      }
+    },
+    {
+      "slug": "bara-sapoko-ndiaye",
+      "display_name": "Bara Sapoko Ndiaye",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2007-12-31",
+      "age": 18,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Bara Sapoko Ndiaye",
+      "date_of_birth": "2007-12-31",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q137733792",
+      "qid": "Q137733792",
+      "name": "Bara Sapoko Ndiaye",
+      "description": "Senegalese footballer (born 2007)",
+      "place_of_birth_qid": "Q2981190",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bara_Sapoko_Ndiaye",
+      "transfermarkt_id": "1497653",
+      "place_of_birth": "Meckhe",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "sadio-mané",
+      "display_name": "Sadio Mané",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1992-04-10",
+      "age": 34,
+      "caps": 126,
+      "goals": 53,
+      "club_from_squad_table": "Al-Nassr",
+      "wikipedia_title": "Sadio Mané",
+      "date_of_birth": "1992-04-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Nassr",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q209942",
+      "qid": "Q209942",
+      "name": "Sadio Mané",
+      "description": "Senegalese association football player (born 1992)",
+      "place_of_birth_qid": "Q2881751",
+      "citizenship_qids": [
+        "Q1041"
+      ],
+      "height_cm": 174.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q994811",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q221525",
+          "start": "2010-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q18732",
+          "start": "2014-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q3132749",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q207441",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2016-07-00",
+          "end": "2022-06-00"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2022-07-00",
+          "end": "2023-08-00"
+        },
+        {
+          "team_qid": "Q482764",
+          "start": "2023-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q482764",
+      "image_filename": "Esteghlal F.C. v Al Nassr FC, 3 March 2025, Sadio Mané (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sadio_Man%C3%A9",
+      "transfermarkt_id": "200512",
+      "fifa_player_id": "353790",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "Senegal"
+      ],
+      "place_of_birth": "Bambali",
+      "photo": {
+        "filename": "Esteghlal F.C. v Al Nassr FC, 3 March 2025, Sadio Mané (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Esteghlal_F.C._v_Al_Nassr_FC%2C_3_March_2025%2C_Sadio_Man%C3%A9_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Esteghlal_F.C._v_Al_Nassr_FC%2C_3_March_2025%2C_Sadio_Man%C3%A9_%28cropped%29.jpg",
+        "width": 499,
+        "height": 634,
+        "license": "Attribution",
+        "license_url": null,
+        "attribution": "Ali Rafati/علی رفعتی/ipna.ir",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/sadio-mané.jpg"
+      }
+    },
+    {
+      "slug": "ismaïla-sarr",
+      "display_name": "Ismaïla Sarr",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1998-02-25",
+      "age": 28,
+      "caps": 83,
+      "goals": 19,
+      "club_from_squad_table": "Crystal Palace",
+      "wikipedia_title": "Ismaïla Sarr",
+      "date_of_birth": "1998-02-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Crystal Palace",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26924482",
+      "qid": "Q26924482",
+      "name": "Ismaïla Sarr",
+      "description": "Senegalese association football player",
+      "place_of_birth_qid": "Q273779",
+      "citizenship_qids": [
+        "Q1041"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q221525",
+          "start": "2016-07-13",
+          "end": "2017-07-26"
+        },
+        {
+          "team_qid": "Q23887414",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q207441",
+          "start": "2016-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19509",
+          "start": "2017-07-26",
+          "end": "2019-08-08"
+        },
+        {
+          "team_qid": "Q2714",
+          "start": "2019-08-08",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2714",
+      "image_filename": "Ismaila Sarr 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Isma%C3%AFla_Sarr",
+      "transfermarkt_id": "410225",
+      "fifa_player_id": "401889",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Senegal"
+      ],
+      "place_of_birth": "Saint-Louis",
+      "wikidata_current_club": "Watford F.C.",
+      "wikidata_current_club_qid": "Q2714",
+      "photo": {
+        "filename": "Ismaila Sarr 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ismaila_Sarr_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ismaila_Sarr_2022.jpg",
+        "width": 819,
+        "height": 901,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "SENEGO TV HD",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ismaïla-sarr.jpg"
+      }
+    },
+    {
+      "slug": "iliman-ndiaye",
+      "display_name": "Iliman Ndiaye",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-03-06",
+      "age": 26,
+      "caps": 38,
+      "goals": 4,
+      "club_from_squad_table": "Everton",
+      "wikipedia_title": "Iliman Ndiaye",
+      "date_of_birth": "2000-03-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Everton",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q105956269",
+      "qid": "Q105956269",
+      "name": "Iliman Ndiaye",
+      "description": "Senegalese footballer (born 2000)",
+      "place_of_birth_qid": "Q30974",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q207441",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q132885",
+          "start": "2023-08-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q132885",
+      "image_filename": "Iliman Ndiaye.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Iliman_Ndiaye",
+      "transfermarkt_id": "623570",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Rouen",
+      "wikidata_current_club": "Olympique de Marseille",
+      "wikidata_current_club_qid": "Q132885",
+      "photo": {
+        "filename": "Iliman Ndiaye.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Iliman_Ndiaye.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Iliman_Ndiaye.png",
+        "width": 481,
+        "height": 677,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Irish Football Fan TV",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/iliman-ndiaye.png"
+      }
+    },
+    {
+      "slug": "nicolas-jackson",
+      "display_name": "Nicolas Jackson",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-06-20",
+      "age": 24,
+      "caps": 31,
+      "goals": 8,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Nicolas Jackson",
+      "date_of_birth": "2001-06-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q100144350",
+      "qid": "Q100144350",
+      "name": "Nicolas Jackson",
+      "description": "Senegalese association football player",
+      "place_of_birth_qid": "Q1041",
+      "citizenship_qids": [
+        "Q1041"
+      ],
+      "height_cm": 1.87,
+      "weight_kg": 78.0,
+      "teams": [
+        {
+          "team_qid": "Q9616",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9616",
+      "image_filename": "Nicolas Jackson 2025 FIFA Club World Cup Final.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas_Jackson",
+      "transfermarkt_id": "776890",
+      "citizenship": [
+        "Senegal"
+      ],
+      "place_of_birth": "Senegal",
+      "wikidata_current_club": "Chelsea F.C.",
+      "wikidata_current_club_qid": "Q9616",
+      "photo": {
+        "filename": "Nicolas Jackson 2025 FIFA Club World Cup Final.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nicolas_Jackson_2025_FIFA_Club_World_Cup_Final.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nicolas_Jackson_2025_FIFA_Club_World_Cup_Final.jpg",
+        "width": 330,
+        "height": 489,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "The White House",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nicolas-jackson.jpg"
+      }
+    },
+    {
+      "slug": "bamba-dieng",
+      "display_name": "Bamba Dieng",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-03-23",
+      "age": 26,
+      "caps": 21,
+      "goals": 2,
+      "club_from_squad_table": "Lorient",
+      "wikipedia_title": "Bamba Dieng",
+      "date_of_birth": "2000-03-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lorient",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q105426667",
+      "qid": "Q105426667",
+      "name": "Ahmadou Bamba Dieng",
+      "description": "Senegalese association football player",
+      "place_of_birth_qid": "Q1273644",
+      "citizenship_qids": [
+        "Q1041"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q657883",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q132885",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q657883",
+      "image_filename": "Dieng asse sco 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bamba_Dieng",
+      "transfermarkt_id": "822458",
+      "wikidata_date_of_birth": "2000-09-01",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Senegal"
+      ],
+      "place_of_birth": "Pikine",
+      "wikidata_current_club": "Diambars FC",
+      "wikidata_current_club_qid": "Q657883",
+      "photo": {
+        "filename": "Dieng asse sco 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Dieng_asse_sco_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Dieng_asse_sco_2425.png",
+        "width": 526,
+        "height": 863,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/bamba-dieng.png"
+      }
+    },
+    {
+      "slug": "cherif-ndiaye",
+      "display_name": "Cherif Ndiaye",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-01-23",
+      "age": 30,
+      "caps": 17,
+      "goals": 4,
+      "club_from_squad_table": "Samsunspor",
+      "wikipedia_title": "Cherif Ndiaye",
+      "date_of_birth": "1996-01-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Samsunspor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28811942",
+      "qid": "Q28811942",
+      "name": "Cherif Ndiaye",
+      "description": "Senegalese footballer",
+      "place_of_birth_qid": "Q3718",
+      "citizenship_qids": [
+        "Q1041"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q509170",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q509170",
+      "image_filename": "Cherif Ndiaye, 27092025 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cherif_Ndiaye",
+      "transfermarkt_id": "480705",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Senegal"
+      ],
+      "place_of_birth": "Dakar",
+      "wikidata_current_club": "Sportkring Beveren",
+      "wikidata_current_club_qid": "Q509170",
+      "photo": {
+        "filename": "Cherif Ndiaye, 27092025 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Cherif_Ndiaye%2C_27092025_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Cherif_Ndiaye%2C_27092025_%28cropped%29.jpg/960px-Cherif_Ndiaye%2C_27092025_%28cropped%29.jpg",
+        "width": 1943,
+        "height": 1947,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Samsunspor",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/cherif-ndiaye.jpg"
+      }
+    },
+    {
+      "slug": "ibrahim-mbaye",
+      "display_name": "Ibrahim Mbaye",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2008-01-24",
+      "age": 18,
+      "caps": 10,
+      "goals": 3,
+      "club_from_squad_table": "Paris Saint-Germain",
+      "wikipedia_title": "Ibrahim Mbaye",
+      "date_of_birth": "2008-01-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris Saint-Germain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q129088593",
+      "qid": "Q129088593",
+      "name": "Ibrahim Mbaye",
+      "description": "Senegalese-French association football player (born 2008)",
+      "place_of_birth_qid": "Q363266",
+      "citizenship_qids": [
+        "Q142",
+        "Q1041"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q483020",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q483020",
+      "image_filename": "PSG attacking vs Atletico Madrid Club World Cup (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ibrahim_Mbaye",
+      "transfermarkt_id": "1185888",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "France",
+        "Senegal"
+      ],
+      "place_of_birth": "Trappes",
+      "wikidata_current_club": "Paris Saint-Germain FC",
+      "wikidata_current_club_qid": "Q483020",
+      "photo": {
+        "filename": "PSG attacking vs Atletico Madrid Club World Cup (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/PSG_attacking_vs_Atletico_Madrid_Club_World_Cup_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/PSG_attacking_vs_Atletico_Madrid_Club_World_Cup_%28cropped%29.jpg",
+        "width": 300,
+        "height": 384,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Paul_Vaurie\" title=\"User:Paul Vaurie\">Paul Vaurie</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ibrahim-mbaye.jpg"
+      }
+    },
+    {
+      "slug": "assane-diao",
+      "display_name": "Assane Diao",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2005-09-07",
+      "age": 20,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Como",
+      "wikipedia_title": "Assane Diao",
+      "date_of_birth": "2005-09-07",
+      "date_of_birth_source": "enwiki+caf+wikidata-verified",
+      "current_club": "Como",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q120509822",
+      "qid": "Q120509822",
+      "name": "Assane Diao",
+      "description": "Senegalese association football player (born 2005)",
+      "place_of_birth_qid": "Q3337446",
+      "citizenship_qids": [
+        "Q1041",
+        "Q29"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2698432",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q8723",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1120838",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q3589784",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q207441",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2698432",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Assane_Diao",
+      "transfermarkt_id": "1061282",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Senegal",
+        "Spain"
+      ],
+      "place_of_birth": "Ndangane",
+      "wikidata_current_club": "Real Betis B",
+      "wikidata_current_club_qid": "Q2698432",
+      "squad_table_date_of_birth": "2005-12-07",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    }
+  ],
+  "notes": [
+    "Senegal row/QID/photo audit 2026-05-24: verifier confirmed all QIDs resolve to intended footballers. El Hadji Malick Diouf DOB corrected to 2004-12-29 from West Ham and CAF, and Assane Diao DOB corrected to 2005-09-07 from player page/Wikidata/Soccerway/Transfermarkt/CAF consensus; squad_table_date_of_birth preserves table conflicts. Added verified Commons photo El Hadji Malick Diouf 04032026 (1).jpg. Ilay Camara, Moustapha Mbow, Pathé Ciss, Bara Sapoko Ndiaye, and Assane Diao had no clean Wikimedia portrait/P18/pageimage and are marked reviewed-none."
+  ]
+}

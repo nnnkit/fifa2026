@@ -1,0 +1,62 @@
+{
+  "slug": "rayan",
+  "display_name": "Rayan",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2006-08-03",
+  "age": 19,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Bournemouth",
+  "wikipedia_title": "Rayan (footballer, born 2006)",
+  "date_of_birth": "2006-08-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bournemouth",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q115937989",
+  "qid": "Q115937989",
+  "name": "Rayan",
+  "description": "Brazilian football player",
+  "place_of_birth_qid": "Q8678",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q5014111",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q5014111",
+  "image_filename": "Rayan 2026.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rayan_(footballer,_born_2006)",
+  "transfermarkt_id": "1012564",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "Rio de Janeiro",
+  "wikidata_current_club": "CR Vasco da Gama",
+  "wikidata_current_club_qid": "Q5014111",
+  "photo": {
+    "filename": "Rayan 2026.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Rayan_2026.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Rayan_2026.png",
+    "width": 545,
+    "height": 645,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "AFC Bournemouth",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/rayan.png"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

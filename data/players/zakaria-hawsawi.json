@@ -1,0 +1,67 @@
+{
+  "slug": "zakaria-hawsawi",
+  "display_name": "Zakaria Hawsawi",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-01-12",
+  "age": 25,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Al-Ahli",
+  "wikipedia_title": "Zakaria Hawsawi",
+  "date_of_birth": "2001-01-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Ahli",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q113690029",
+  "qid": "Q113690029",
+  "name": "Zakaria Hawsawi",
+  "description": "Saudi Arabian association football player",
+  "place_of_birth_qid": "Q35484",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 173.0,
+  "weight_kg": 70.0,
+  "teams": [
+    {
+      "team_qid": "Q2027736",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q309480",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q189723",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2027736",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Zakaria_Hawsawi",
+  "transfermarkt_id": "1057849",
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Medina",
+  "wikidata_current_club": "Ohod Club",
+  "wikidata_current_club_qid": "Q2027736",
+  "image_filename": "Zakaria_Hawsawi.png",
+  "photo": {
+    "filename": "Zakaria_Hawsawi.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Zakaria_Hawsawi.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zakaria_Hawsawi.png/960px-Zakaria_Hawsawi.png",
+    "width": 1016,
+    "height": 1548,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:OmarZi64&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:OmarZi64 (page does not exist)\">OmarZi64</a>",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/zakaria-hawsawi.png"
+  },
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia"
+}

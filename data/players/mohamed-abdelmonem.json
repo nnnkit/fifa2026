@@ -1,0 +1,52 @@
+{
+  "slug": "mohamed-abdelmonem",
+  "display_name": "Mohamed Abdelmonem",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-02-01",
+  "age": 27,
+  "caps": 34,
+  "goals": 3,
+  "club_from_squad_table": "Nice",
+  "wikipedia_title": "Mohamed Abdelmonem",
+  "date_of_birth": "1999-02-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Nice",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q110244202",
+  "qid": "Q110244202",
+  "name": "Mohamed Abdel Monem",
+  "description": "Egyptian association football player",
+  "place_of_birth_qid": "Q140304",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "height_cm": 184.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "image_filename": "Abdelmonem asse ogcn 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Abdelmonem",
+  "transfermarkt_id": "566025",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "place_of_birth": "Zagazig",
+  "photo": {
+    "filename": "Abdelmonem asse ogcn 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Abdelmonem_asse_ogcn_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Abdelmonem_asse_ogcn_2425.png",
+    "width": 697,
+    "height": 838,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mohamed-abdelmonem.png"
+  },
+  "team_slug": "egypt",
+  "team_country": "Egypt"
+}

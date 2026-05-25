@@ -1,0 +1,81 @@
+{
+  "slug": "joris-kayembe",
+  "display_name": "Joris Kayembe",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1994-08-08",
+  "age": 31,
+  "caps": 24,
+  "goals": 0,
+  "club_from_squad_table": "Genk",
+  "wikipedia_title": "Joris Kayembe",
+  "date_of_birth": "1994-08-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Genk",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16979997",
+  "qid": "Q16979997",
+  "name": "Joris Kayembe",
+  "description": "Congolese and Belgian footballer",
+  "place_of_birth_qid": "Q239",
+  "citizenship_qids": [
+    "Q31",
+    "Q974"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q622432",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q5423714",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q128446",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1386869",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q216032",
+      "start": "2023-07-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q216032",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joris_Kayembe",
+  "transfermarkt_id": "129586",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Belgium",
+    "Democratic Republic of the Congo"
+  ],
+  "place_of_birth": "Brussels",
+  "wikidata_current_club": "K.R.C. Genk",
+  "wikidata_current_club_qid": "Q216032",
+  "team_slug": "dr-congo",
+  "team_country": "DR Congo",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "brandon-petersen",
+  "display_name": "Brandon Petersen",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1994-09-22",
+  "age": 31,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Kaizer Chiefs",
+  "wikipedia_title": "Brandon Peterson (soccer)",
+  "wikidata_qid": "Q16236448",
+  "qid": "Q16236448",
+  "name": "Brandon Peterson",
+  "description": "South African soccer player",
+  "date_of_birth": "1994-09-22",
+  "place_of_birth_qid": "Q5465",
+  "citizenship_qids": [
+    "Q258"
+  ],
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q412502",
+      "start": "2013-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q412502",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brandon_Peterson_(soccer)",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Kaizer Chiefs",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "South Africa"
+  ],
+  "place_of_birth": "Cape Town",
+  "wikidata_current_club": "Cape Town Spurs F.C.",
+  "wikidata_current_club_qid": "Q412502",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "south-africa",
+  "team_country": "South Africa"
+}

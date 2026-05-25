@@ -1,0 +1,67 @@
+{
+  "slug": "luka-su\u010di\u0107",
+  "display_name": "Luka Su\u010di\u0107",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2002-09-08",
+  "age": 23,
+  "caps": 19,
+  "goals": 1,
+  "club_from_squad_table": "Real Sociedad",
+  "wikipedia_title": "Luka Su\u010di\u0107",
+  "date_of_birth": "2002-09-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Sociedad",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q67999144",
+  "qid": "Q67999144",
+  "name": "Luka Su\u010di\u0107",
+  "description": "Croatian association football player",
+  "place_of_birth_qid": "Q41329",
+  "citizenship_qids": [
+    "Q224"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1387293",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q10315",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1387293",
+  "image_filename": "FC Red Bull Salzburg gegen Wolfsberger AC (2022-02-20) 32.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luka_Su%C4%8Di%C4%87",
+  "transfermarkt_id": "502722",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Croatia"
+  ],
+  "place_of_birth": "Linz",
+  "wikidata_current_club": "FC Liefering",
+  "wikidata_current_club_qid": "Q1387293",
+  "photo": {
+    "filename": "FC Red Bull Salzburg gegen Wolfsberger AC (2022-02-20) 32.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/FC_Red_Bull_Salzburg_gegen_Wolfsberger_AC_%282022-02-20%29_32.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FC_Red_Bull_Salzburg_gegen_Wolfsberger_AC_%282022-02-20%29_32.jpg/960px-FC_Red_Bull_Salzburg_gegen_Wolfsberger_AC_%282022-02-20%29_32.jpg",
+    "width": 2856,
+    "height": 3447,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/luka-su\u010di\u0107.jpg"
+  },
+  "team_slug": "croatia",
+  "team_country": "Croatia"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "ayumu-seko",
+  "display_name": "Ayumu Seko",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-06-07",
+  "age": 26,
+  "caps": 13,
+  "goals": 0,
+  "club_from_squad_table": "Le Havre",
+  "wikipedia_title": "Ayumu Seko",
+  "date_of_birth": "2000-06-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Le Havre",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27990922",
+  "qid": "Q27990922",
+  "name": "Ayumu Seko",
+  "description": "Japanese association football player",
+  "place_of_birth_qid": "Q35765",
+  "citizenship_qids": [
+    "Q17"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q855809",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q855809",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ayumu_Seko",
+  "transfermarkt_id": "405389",
+  "uefa_player_id": "19480",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Japan"
+  ],
+  "place_of_birth": "Osaka",
+  "wikidata_current_club": "Cerezo Osaka",
+  "wikidata_current_club_qid": "Q855809",
+  "team_slug": "japan",
+  "team_country": "Japan",
+  "photo": {
+    "filename": "Ayumu Seko Japan 2025 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Ayumu_Seko_Japan_2025_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ayumu_Seko_Japan_2025_%28cropped%29.jpg/960px-Ayumu_Seko_Japan_2025_%28cropped%29.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Keiteay\" title=\"User:Keiteay\">Keiteay</a>",
+    "source": "commons-verifier-found",
+    "local_path": "data/photos/ayumu-seko.jpg"
+  }
+}

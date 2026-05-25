@@ -1,0 +1,89 @@
+{
+  "slug": "davinson-s\u00e1nchez",
+  "display_name": "Davinson S\u00e1nchez",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-06-12",
+  "age": 29,
+  "caps": 77,
+  "goals": 3,
+  "club_from_squad_table": "Galatasaray",
+  "wikipedia_title": "Davinson S\u00e1nchez",
+  "date_of_birth": "1996-06-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Galatasaray",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20737387",
+  "qid": "Q20737387",
+  "name": "D\u00e1vinson S\u00e1nchez",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q2420491",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q332605",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3589930",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1641573",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q16581702",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q212564",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q18741",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q332605",
+  "image_filename": "D\u00e1vinson S\u00e1nchez, POL vs COL; FWC 2018.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Davinson_S%C3%A1nchez",
+  "transfermarkt_id": "341429",
+  "fifa_player_id": "386013",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Caloto",
+  "wikidata_current_club": "Atl\u00e9tico Nacional",
+  "wikidata_current_club_qid": "Q332605",
+  "photo": {
+    "filename": "D\u00e1vinson S\u00e1nchez, POL vs COL; FWC 2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/D%C3%A1vinson_S%C3%A1nchez%2C_POL_vs_COL%3B_FWC_2018.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/D%C3%A1vinson_S%C3%A1nchez%2C_POL_vs_COL%3B_FWC_2018.jpg",
+    "width": 547,
+    "height": 731,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "\u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0441\u043f\u043e\u0440\u0442\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/davinson-s\u00e1nchez.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

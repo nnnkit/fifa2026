@@ -1,0 +1,72 @@
+{
+  "slug": "mamadou-sarr",
+  "display_name": "Mamadou Sarr",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2005-08-29",
+  "age": 20,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "Chelsea",
+  "wikipedia_title": "Mamadou Sarr",
+  "date_of_birth": "2005-08-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Chelsea",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q108187024",
+  "qid": "Q108187024",
+  "name": "Mamadou Sarr",
+  "description": "Senegalese-French footballer (born 2005)",
+  "place_of_birth_qid": "Q237516",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 194.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q704",
+      "start": "2023-07-01",
+      "end": "2024-08-21"
+    },
+    {
+      "team_qid": "Q20979061",
+      "start": "2024-01-18",
+      "end": "2024-06-30"
+    },
+    {
+      "team_qid": "Q126334",
+      "start": "2024-08-22",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q126334",
+  "image_filename": "Sarr asse rcsa 2425.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mamadou_Sarr",
+  "transfermarkt_id": "910905",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "Martigues",
+  "wikidata_current_club": "RC Strasbourg Alsace",
+  "wikidata_current_club_qid": "Q126334",
+  "photo": {
+    "filename": "Sarr asse rcsa 2425.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sarr_asse_rcsa_2425.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sarr_asse_rcsa_2425.jpg",
+    "width": 569,
+    "height": 798,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mamadou-sarr.jpg"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

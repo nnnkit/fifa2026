@@ -1,0 +1,97 @@
+{
+  "slug": "anthony-gordon",
+  "display_name": "Anthony Gordon",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-02-24",
+  "age": 25,
+  "caps": 17,
+  "goals": 2,
+  "club_from_squad_table": "Newcastle United",
+  "wikipedia_title": "Anthony Gordon (footballer)",
+  "date_of_birth": "2001-02-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Newcastle United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q45179405",
+  "qid": "Q45179405",
+  "name": "Anthony Gordon",
+  "description": "English association football player (born 2001)",
+  "place_of_birth_qid": "Q24826",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q5794",
+      "start": "2017-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q19612",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q18716",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1049171",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q2358861",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1049176",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q47762",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18716",
+  "image_filename": "Gordon in 2024.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anthony_Gordon_(footballer)",
+  "transfermarkt_id": "503733",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Liverpool",
+  "wikidata_current_club": "Newcastle United F.C.",
+  "wikidata_current_club_qid": "Q18716",
+  "photo": {
+    "filename": "Gordon in 2024.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Gordon_in_2024.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gordon_in_2024.jpg/960px-Gordon_in_2024.jpg",
+    "width": 1440,
+    "height": 1169,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.youtube.com/@fuboTVOfficial\">https://www.youtube.com/@fuboTVOfficial</a> fuboTV",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/anthony-gordon.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

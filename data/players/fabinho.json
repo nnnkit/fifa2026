@@ -1,0 +1,113 @@
+{
+  "slug": "fabinho",
+  "display_name": "Fabinho",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1993-10-23",
+  "age": 32,
+  "caps": 31,
+  "goals": 0,
+  "club_from_squad_table": "Al-Ittihad",
+  "wikipedia_title": "Fabinho (footballer, born 1993)",
+  "date_of_birth": "1993-10-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Ittihad",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q641425",
+  "qid": "Q641425",
+  "name": "Fabinho",
+  "description": "Brazilian association football player (born 1995)",
+  "place_of_birth_qid": "Q171617",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q18691898"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q8682",
+      "start": "2013-00-00",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q180305",
+      "start": "2013-07-19",
+      "end": "2015-06-30"
+    },
+    {
+      "team_qid": "Q622432",
+      "start": "2012-06-08",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q12217",
+      "start": "2012-07-19",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q180305",
+      "start": "2015-07-01",
+      "end": "2018-07-01"
+    },
+    {
+      "team_qid": "Q899189",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2308235",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q1130849",
+      "start": "2018-07-01",
+      "end": "2023-07-31"
+    },
+    {
+      "team_qid": "Q309480",
+      "start": "2023-07-31",
+      "end": null
+    },
+    {
+      "team_qid": "Q80987",
+      "start": "2012-00-00",
+      "end": "2012-06-08"
+    }
+  ],
+  "current_club_qid": "Q309480",
+  "image_filename": "Fabinho (43934382122) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fabinho_(footballer,_born_1993)",
+  "transfermarkt_id": "225693",
+  "positions": [
+    "defensive midfielder"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "Campinas",
+  "wikidata_current_club": "Al Ittihad FC",
+  "wikidata_current_club_qid": "Q309480",
+  "photo": {
+    "filename": "Fabinho (43934382122) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Fabinho_%2843934382122%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fabinho_%2843934382122%29_%28cropped%29.jpg/960px-Fabinho_%2843934382122%29_%28cropped%29.jpg",
+    "width": 1735,
+    "height": 2477,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/86624586@N00\">Kevin Walsh</a> from Preston Brook, England",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/fabinho.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

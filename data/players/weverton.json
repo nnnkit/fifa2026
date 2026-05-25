@@ -1,0 +1,93 @@
+{
+  "slug": "weverton",
+  "display_name": "Weverton",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1987-12-13",
+  "age": 38,
+  "caps": 10,
+  "goals": 0,
+  "club_from_squad_table": "Grêmio",
+  "wikipedia_title": "Weverton (footballer, born 1987)",
+  "date_of_birth": "1987-12-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Grêmio",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q8040741",
+  "qid": "Q8040741",
+  "name": "Weverton Pereira da Silva",
+  "description": "Brazilian footballer",
+  "place_of_birth_qid": "Q171612",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 186.0,
+  "weight_kg": 91.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q204675",
+      "start": "2010-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q2552872",
+      "start": "2006-01-01",
+      "end": "2007-01-01"
+    },
+    {
+      "team_qid": "Q482262",
+      "start": "2009-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q966183",
+      "start": "2009-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q2332493",
+      "start": "2010-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q35933",
+      "start": "2007-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q506832",
+      "start": "2012-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q506832",
+  "image_filename": "Weverton-Palmeiras-Athletico-jul-2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Weverton_(footballer,_born_1987)",
+  "transfermarkt_id": "69400",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "Rio Branco",
+  "wikidata_current_club": "Club Athletico Paranaense",
+  "wikidata_current_club_qid": "Q506832",
+  "photo": {
+    "filename": "Weverton-Palmeiras-Athletico-jul-2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Weverton-Palmeiras-Athletico-jul-2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Weverton-Palmeiras-Athletico-jul-2022.jpg/960px-Weverton-Palmeiras-Athletico-jul-2022.jpg",
+    "width": 2232,
+    "height": 3192,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "SOCCER DIGITAL",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/weverton.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

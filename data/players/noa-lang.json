@@ -1,0 +1,92 @@
+{
+  "slug": "noa-lang",
+  "display_name": "Noa Lang",
+  "shirt_no": 17,
+  "position_code": "FW",
+  "dob": "1999-06-17",
+  "age": 26,
+  "caps": 15,
+  "goals": 3,
+  "club_from_squad_table": "Galatasaray",
+  "wikipedia_title": "Noa Lang",
+  "date_of_birth": "1999-06-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Galatasaray",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q29441778",
+  "qid": "Q29441778",
+  "name": "Noa Lang",
+  "description": "Dutch association football player (born 1999)",
+  "place_of_birth_qid": "Q734860",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 176.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q81888",
+      "start": "2013-07-01",
+      "end": "2017-06-30"
+    },
+    {
+      "team_qid": "Q1770361",
+      "start": "2017-07-01",
+      "end": "2019-09-11"
+    },
+    {
+      "team_qid": "Q81888",
+      "start": "2019-09-12",
+      "end": "2021-06-30"
+    },
+    {
+      "team_qid": "Q190916",
+      "start": "2020-10-05",
+      "end": "2021-06-30"
+    },
+    {
+      "team_qid": "Q11938",
+      "start": "2023-07-08",
+      "end": "2025-07-14"
+    },
+    {
+      "team_qid": "Q190916",
+      "start": "2021-07-01",
+      "end": "2023-07-07"
+    },
+    {
+      "team_qid": "Q2641",
+      "start": "2025-07-15",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2641",
+  "image_filename": "Austria U-18 vs. Netherlands U-18 2017-03-23 (094).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Noa_Lang",
+  "transfermarkt_id": "339332",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Capelle aan den IJssel",
+  "wikidata_current_club": "SSC Napoli",
+  "wikidata_current_club_qid": "Q2641",
+  "photo": {
+    "filename": "Austria U-18 vs. Netherlands U-18 2017-03-23 (094).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28094%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28094%29.jpg/960px-Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28094%29.jpg",
+    "width": 2000,
+    "height": 3000,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 23:03, 30 March 2017 (UTC)",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/noa-lang.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "ramy-bensebaini",
+  "display_name": "Ramy Bensebaini",
+  "shirt_no": 21,
+  "position_code": "DF",
+  "dob": "1995-04-16",
+  "age": 31,
+  "caps": 81,
+  "goals": 7,
+  "club_from_squad_table": "Borussia Dortmund",
+  "wikipedia_title": "Ramy Bensebaini",
+  "date_of_birth": "1995-04-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Borussia Dortmund",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q17484446",
+  "qid": "Q17484446",
+  "name": "Ramy Bensebaini",
+  "description": "Algerian footballer (born 1995)",
+  "place_of_birth_qid": "Q187346",
+  "citizenship_qids": [
+    "Q262"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 85.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q428782",
+      "start": "2013-07-01",
+      "end": "2016-07-05"
+    },
+    {
+      "team_qid": "Q725018",
+      "start": "2014-07-01",
+      "end": "2015-06-30"
+    },
+    {
+      "team_qid": "Q19513",
+      "start": "2015-07-01",
+      "end": "2016-06-30"
+    },
+    {
+      "team_qid": "Q19509",
+      "start": "2016-07-05",
+      "end": "2019-08-14"
+    },
+    {
+      "team_qid": "Q101959",
+      "start": "2019-08-14",
+      "end": null
+    },
+    {
+      "team_qid": "Q624825",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q3589664",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q181903",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q101959",
+  "image_filename": "Stade rennais vs USM Alger, July 16th 2016 - 25.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ramy_Bensebaini",
+  "transfermarkt_id": "284732",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Algeria"
+  ],
+  "place_of_birth": "Constantine",
+  "wikidata_current_club": "Borussia M\u00f6nchengladbach",
+  "wikidata_current_club_qid": "Q101959",
+  "photo": {
+    "filename": "Stade rennais vs USM Alger, July 16th 2016 - 25.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Stade_rennais_vs_USM_Alger%2C_July_16th_2016_-_25.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Stade_rennais_vs_USM_Alger%2C_July_16th_2016_-_25.jpg/960px-Stade_rennais_vs_USM_Alger%2C_July_16th_2016_-_25.jpg",
+    "width": 2500,
+    "height": 3180,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Buff\" title=\"User:Buff\">S. Plaine</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ramy-bensebaini.jpg"
+  },
+  "team_slug": "algeria",
+  "team_country": "Algeria"
+}

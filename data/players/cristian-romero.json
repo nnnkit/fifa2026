@@ -1,0 +1,103 @@
+{
+  "slug": "cristian-romero",
+  "display_name": "Cristian Romero",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-04-27",
+  "age": 28,
+  "caps": 49,
+  "goals": 3,
+  "club_from_squad_table": "Tottenham Hotspur",
+  "wikipedia_title": "Cristian Romero",
+  "wikidata_qid": "Q28058687",
+  "qid": "Q28058687",
+  "name": "Cristian Romero",
+  "description": "Argentine association football player (born 1998)",
+  "date_of_birth": "1998-04-27",
+  "place_of_birth_qid": "Q44210",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 85.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q59962",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q2074",
+      "start": "2018-07-00",
+      "end": "2019-07-12"
+    },
+    {
+      "team_qid": "Q1422",
+      "start": "2019-07-12",
+      "end": "2021-08-06"
+    },
+    {
+      "team_qid": "Q2074",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2021-08-06",
+      "end": "2022-08-30"
+    },
+    {
+      "team_qid": "Q18741",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q18741",
+      "start": "2022-08-30",
+      "end": null
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2021-06-03",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18741",
+  "image_filename": "Cristian Romero WC2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cristian_Romero",
+  "transfermarkt_id": "355915",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Tottenham Hotspur",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Córdoba",
+  "wikidata_current_club": "Tottenham Hotspur F.C.",
+  "wikidata_current_club_qid": "Q18741",
+  "photo": {
+    "filename": "Cristian Romero WC2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cristian_Romero_WC2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cristian_Romero_WC2022.jpg",
+    "width": 668,
+    "height": 1058,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Hossein Zohrevand",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/cristian-romero.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

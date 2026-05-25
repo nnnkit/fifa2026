@@ -1,0 +1,119 @@
+{
+  "slug": "giovani-lo-celso",
+  "display_name": "Giovani Lo Celso",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-04-09",
+  "age": 30,
+  "caps": 65,
+  "goals": 4,
+  "club_from_squad_table": "Real Betis",
+  "wikipedia_title": "Giovani Lo Celso",
+  "wikidata_qid": "Q20743436",
+  "qid": "Q20743436",
+  "name": "Giovani Lo Celso",
+  "description": "Argentine association football player",
+  "date_of_birth": "1996-04-09",
+  "place_of_birth_qid": "Q52535",
+  "citizenship_qids": [
+    "Q414",
+    "Q38"
+  ],
+  "height_cm": 177.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q318307",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q8723",
+      "start": "2018-08-00",
+      "end": "2019-06-00"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2016-07-00",
+      "end": "2019-07-00"
+    },
+    {
+      "team_qid": "Q318307",
+      "start": "2016-07-00",
+      "end": "2016-12-00"
+    },
+    {
+      "team_qid": "Q8723",
+      "start": "2019-07-00",
+      "end": "2020-07-00"
+    },
+    {
+      "team_qid": "Q18741",
+      "start": "2019-08-00",
+      "end": "2020-06-30"
+    },
+    {
+      "team_qid": "Q18741",
+      "start": "2020-07-01",
+      "end": "2024-08-30"
+    },
+    {
+      "team_qid": "Q12297",
+      "start": "2022-01-00",
+      "end": "2022-06-30"
+    },
+    {
+      "team_qid": "Q12297",
+      "start": "2022-08-00",
+      "end": "2023-06-30"
+    },
+    {
+      "team_qid": "Q2462207",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q8723",
+      "start": "2024-08-30",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8723",
+  "image_filename": "2020-03-10 Fußball, Männer, UEFA Champions League Achtelfinale, RB Leipzig - Tottenham Hotspur 1DX 3705 by Stepro.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giovani_Lo_Celso",
+  "transfermarkt_id": "348795",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Betis",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Argentina",
+    "Italy"
+  ],
+  "place_of_birth": "Rosario",
+  "wikidata_current_club": "Real Betis Balompié",
+  "wikidata_current_club_qid": "Q8723",
+  "photo": {
+    "filename": "2020-03-10 Fußball, Männer, UEFA Champions League Achtelfinale, RB Leipzig - Tottenham Hotspur 1DX 3705 by Stepro.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/2020-03-10_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League_Achtelfinale%2C_RB_Leipzig_-_Tottenham_Hotspur_1DX_3705_by_Stepro.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2020-03-10_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League_Achtelfinale%2C_RB_Leipzig_-_Tottenham_Hotspur_1DX_3705_by_Stepro.jpg/960px-2020-03-10_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League_Achtelfinale%2C_RB_Leipzig_-_Tottenham_Hotspur_1DX_3705_by_Stepro.jpg",
+    "width": 2738,
+    "height": 2738,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/giovani-lo-celso.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

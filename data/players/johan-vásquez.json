@@ -1,0 +1,76 @@
+{
+  "slug": "johan-vásquez",
+  "display_name": "Johan Vásquez",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-10-22",
+  "age": 27,
+  "caps": 44,
+  "goals": 1,
+  "club_from_squad_table": "Genoa",
+  "wikipedia_title": "Johan Vásquez (footballer, born 1998)",
+  "wikidata_qid": "Q39161128",
+  "qid": "Q39161128",
+  "name": "Johan Vázquez",
+  "description": "Mexican association football player (born 1998)",
+  "date_of_birth": "1998-10-22",
+  "place_of_birth_qid": "Q1001522",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 1.84,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q768253",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q1143000",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q19878740",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q2074",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2074",
+  "image_filename": "Johan Vásquez.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johan_V%C3%A1squez_(footballer,_born_1998)",
+  "transfermarkt_id": "532937",
+  "current_club": "Genoa",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Navojoa",
+  "wikidata_current_club": "Genoa CFC",
+  "wikidata_current_club_qid": "Q2074",
+  "photo": {
+    "filename": "Johan Vásquez.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Johan_V%C3%A1squez.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Johan_V%C3%A1squez.jpg",
+    "width": 635,
+    "height": 750,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UC3D3rXIt1zy-TC_wJ3V8Z_w\">Selección Nacional de México</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/johan-vásquez.jpg"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

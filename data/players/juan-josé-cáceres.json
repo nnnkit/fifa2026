@@ -1,0 +1,54 @@
+{
+  "slug": "juan-josé-cáceres",
+  "display_name": "Juan José Cáceres",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-06-01",
+  "age": 26,
+  "caps": 16,
+  "goals": 0,
+  "club_from_squad_table": "Dynamo Moscow",
+  "wikipedia_title": "Juan José Cáceres",
+  "date_of_birth": "2000-06-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Dynamo Moscow",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q101791178",
+  "qid": "Q101791178",
+  "name": "Juan José Cáceres",
+  "description": "Argentine-Paraguayan footballer",
+  "place_of_birth_qid": "Q2569014",
+  "citizenship_qids": [
+    "Q414",
+    "Q733"
+  ],
+  "height_cm": 173.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_C%C3%A1ceres",
+  "transfermarkt_id": "756494",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Argentina",
+    "Paraguay"
+  ],
+  "place_of_birth": "Dock Sud",
+  "image_filename": "Juan_José_Cáceres_2025.jpg",
+  "photo": {
+    "filename": "Juan_José_Cáceres_2025.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Juan_Jos%C3%A9_C%C3%A1ceres_2025.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Juan_Jos%C3%A9_C%C3%A1ceres_2025.jpg",
+    "width": 611,
+    "height": 869,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Вячеслав Евдокимов / ФК «Зенит»",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/juan-josé-cáceres.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

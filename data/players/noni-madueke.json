@@ -1,0 +1,102 @@
+{
+  "slug": "noni-madueke",
+  "display_name": "Noni Madueke",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2002-03-10",
+  "age": 24,
+  "caps": 10,
+  "goals": 1,
+  "club_from_squad_table": "Arsenal",
+  "wikipedia_title": "Noni Madueke",
+  "date_of_birth": "2002-03-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Arsenal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q66801705",
+  "qid": "Q66801705",
+  "name": "Noni Madueke",
+  "description": "English footballer (born 2002)",
+  "place_of_birth_qid": "Q2884709",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q13534332",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q11938",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q4201740",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q2752922",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1049171",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q47762",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q9617",
+  "image_filename": "Fulham v Chelsea 20042025 (7) (Noni Madueke).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Noni_Madueke",
+  "transfermarkt_id": "503987",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Barnet",
+  "wikidata_current_club": "Arsenal F.C.",
+  "wikidata_current_club_qid": "Q9617",
+  "photo": {
+    "filename": "Fulham v Chelsea 20042025 (7) (Noni Madueke).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Fulham_v_Chelsea_20042025_%287%29_%28Noni_Madueke%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Fulham_v_Chelsea_20042025_%287%29_%28Noni_Madueke%29.jpg",
+    "width": 309,
+    "height": 395,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/noni-madueke.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

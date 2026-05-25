@@ -1,0 +1,78 @@
+{
+  "slug": "ibrahim-sangaré",
+  "display_name": "Ibrahim Sangaré",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-12-02",
+  "age": 28,
+  "caps": 57,
+  "goals": 12,
+  "club_from_squad_table": "Nottingham Forest",
+  "wikipedia_title": "Ibrahim Sangaré (Ivorian footballer)",
+  "date_of_birth": "1997-12-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Nottingham Forest",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27832634",
+  "qid": "Q27832634",
+  "name": "Ibrahim Sangaré",
+  "description": "Ivorian professional footballer",
+  "place_of_birth_qid": "Q1283513",
+  "citizenship_qids": [
+    "Q1008"
+  ],
+  "height_cm": 1.91,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19518",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q175145",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q11938",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q298294",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19518",
+  "image_filename": "Ibrahim Sangaré (2018-05-09).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ibrahim_Sangar%C3%A9_(Ivorian_footballer)",
+  "transfermarkt_id": "375885",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Ivory Coast"
+  ],
+  "place_of_birth": "Koumassi",
+  "wikidata_current_club": "Toulouse FC",
+  "wikidata_current_club_qid": "Q19518",
+  "photo": {
+    "filename": "Ibrahim Sangaré (2018-05-09).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ibrahim_Sangar%C3%A9_%282018-05-09%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ibrahim_Sangar%C3%A9_%282018-05-09%29.jpg/960px-Ibrahim_Sangar%C3%A9_%282018-05-09%29.jpg",
+    "width": 2592,
+    "height": 3888,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gaillac&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gaillac (page does not exist)\">Gaillac</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ibrahim-sangaré.jpg"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

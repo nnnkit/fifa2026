@@ -1,0 +1,112 @@
+{
+  "slug": "james-trafford",
+  "display_name": "James Trafford",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2002-10-10",
+  "age": 23,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Manchester City",
+  "wikipedia_title": "James Trafford",
+  "date_of_birth": "2002-10-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q107985608",
+  "qid": "Q107985608",
+  "name": "Steppe Trafford",
+  "description": "English footballer (born 2002)",
+  "place_of_birth_qid": "Q241684",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 1.97,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q48843",
+      "start": "2021-07-00",
+      "end": "2022-01-00"
+    },
+    {
+      "team_qid": "Q19451",
+      "start": "2022-01-00",
+      "end": "2022-05-00"
+    },
+    {
+      "team_qid": "Q19451",
+      "start": "2022-07-00",
+      "end": "2023-05-00"
+    },
+    {
+      "team_qid": "Q19458",
+      "start": "2023-07-00",
+      "end": "2025-07-00"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2020-11-00",
+      "end": "2023-06-00"
+    },
+    {
+      "team_qid": "Q4201740",
+      "start": "2018-02-00",
+      "end": "2018-02-00"
+    },
+    {
+      "team_qid": "Q2752922",
+      "start": "2018-09-00",
+      "end": "2019-05-00"
+    },
+    {
+      "team_qid": "Q1049171",
+      "start": "2019-09-00",
+      "end": "2019-10-00"
+    },
+    {
+      "team_qid": "Q1049176",
+      "start": "2021-09-00",
+      "end": "2022-03-00"
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2022-06-00",
+      "end": "2024-03-00"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2025-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q50602",
+  "image_filename": "Queen Park Rangers v Burnley 26042025 (25) (James Trafford).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/James_Trafford",
+  "transfermarkt_id": "566799",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Cockermouth",
+  "wikidata_current_club": "Manchester City F.C.",
+  "wikidata_current_club_qid": "Q50602",
+  "photo": {
+    "filename": "Queen Park Rangers v Burnley 26042025 (25) (James Trafford).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Queen_Park_Rangers_v_Burnley_26042025_%2825%29_%28James_Trafford%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Queen_Park_Rangers_v_Burnley_26042025_%2825%29_%28James_Trafford%29.jpg",
+    "width": 514,
+    "height": 782,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/james-trafford.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

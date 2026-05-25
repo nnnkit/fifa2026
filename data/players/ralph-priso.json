@@ -1,0 +1,62 @@
+{
+  "slug": "ralph-priso",
+  "display_name": "Ralph Priso",
+  "shirt_no": 3,
+  "position_code": "DF",
+  "dob": "2002-08-02",
+  "age": 23,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Vancouver Whitecaps",
+  "wikipedia_title": "Ralph Priso",
+  "wikidata_qid": "Q78637995",
+  "qid": "Q78637995",
+  "name": "Ralph Priso",
+  "description": "Canadian soccer player",
+  "date_of_birth": "2002-08-02",
+  "place_of_birth_qid": "Q172",
+  "citizenship_qids": [
+    "Q16"
+  ],
+  "height_cm": 175.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q327238",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q327238",
+  "image_filename": "Ralph Priso (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ralph_Priso",
+  "transfermarkt_id": "657271",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Vancouver Whitecaps",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Canada"
+  ],
+  "place_of_birth": "Toronto",
+  "wikidata_current_club": "Toronto FC",
+  "wikidata_current_club_qid": "Q327238",
+  "photo": {
+    "filename": "Ralph Priso (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ralph_Priso_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ralph_Priso_%28cropped%29.jpg",
+    "width": 88,
+    "height": 158,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Robin Glover",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ralph-priso.jpg"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

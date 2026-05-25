@@ -1,0 +1,87 @@
+{
+  "slug": "tim-ream",
+  "display_name": "Tim Ream",
+  "shirt_no": 13,
+  "position_code": "DF",
+  "dob": "1987-10-05",
+  "age": 38,
+  "caps": 80,
+  "goals": 1,
+  "club_from_squad_table": "Charlotte FC",
+  "wikipedia_title": "Tim Ream",
+  "date_of_birth": "1987-10-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Charlotte FC",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q716113",
+  "qid": "Q716113",
+  "name": "Tim Ream",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q38022",
+  "citizenship_qids": [
+    "Q30"
+  ],
+  "height_cm": 186.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19451",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q7401658",
+      "start": "2003-00-00",
+      "end": "2005-00-00"
+    },
+    {
+      "team_qid": "Q739468",
+      "start": "2008-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q204220",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q18708",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q164134",
+      "start": "2010-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18708",
+  "image_filename": "Tim Ream NYCFC v Charlotte 20 Sep 2025-021 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Ream",
+  "transfermarkt_id": "145466",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "United States"
+  ],
+  "place_of_birth": "St. Louis",
+  "wikidata_current_club": "Fulham F.C.",
+  "wikidata_current_club_qid": "Q18708",
+  "photo": {
+    "filename": "Tim Ream NYCFC v Charlotte 20 Sep 2025-021 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Tim_Ream_NYCFC_v_Charlotte_20_Sep_2025-021_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tim_Ream_NYCFC_v_Charlotte_20_Sep_2025-021_%28cropped%29.jpg/960px-Tim_Ream_NYCFC_v_Charlotte_20_Sep_2025-021_%28cropped%29.jpg",
+    "width": 2957,
+    "height": 3941,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/tim-ream.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

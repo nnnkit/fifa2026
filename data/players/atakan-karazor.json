@@ -1,0 +1,69 @@
+{
+  "slug": "atakan-karazor",
+  "display_name": "Atakan Karazor",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-10-13",
+  "age": 29,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "VfB Stuttgart",
+  "wikipedia_title": "Atakan Karazor",
+  "date_of_birth": "1996-10-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "VfB Stuttgart",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q47487632",
+  "qid": "Q47487632",
+  "name": "Atakan Karazor",
+  "description": "Turkish-German association football player (born 1996)",
+  "place_of_birth_qid": "Q2066",
+  "citizenship_qids": [
+    "Q183",
+    "Q43"
+  ],
+  "height_cm": 1.91,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q41420",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q4512",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q41420",
+  "image_filename": "Atakan karazor.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Atakan_Karazor",
+  "transfermarkt_id": "232320",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Germany",
+    "Turkey"
+  ],
+  "place_of_birth": "Essen",
+  "wikidata_current_club": "Borussia Dortmund",
+  "wikidata_current_club_qid": "Q41420",
+  "photo": {
+    "filename": "Atakan karazor.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Atakan_karazor.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Atakan_karazor.jpg",
+    "width": 640,
+    "height": 800,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo_von_VfB-exklusiv.de&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo von VfB-exklusiv.de (page does not exist)\">Jeollo von VfB-exklusiv.de</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/atakan-karazor.jpg"
+  },
+  "team_slug": "turkey",
+  "team_country": "Turkey"
+}

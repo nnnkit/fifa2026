@@ -1,0 +1,64 @@
+{
+  "slug": "santiago-bueno",
+  "display_name": "Santiago Bueno",
+  "shirt_no": 22,
+  "position_code": "DF",
+  "dob": "1998-11-09",
+  "age": 27,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "Wolverhampton Wanderers",
+  "wikipedia_title": "Santiago Bueno",
+  "date_of_birth": "1998-11-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Wolverhampton Wanderers",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q25367692",
+  "qid": "Q25367692",
+  "name": "Santiago Bueno",
+  "description": "Uruguayan association football player",
+  "place_of_birth_qid": "Q1335",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 79.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q7156",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q7156",
+  "image_filename": "Santiago Bueno.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Santiago_Bueno",
+  "transfermarkt_id": "438001",
+  "fifa_player_id": "402904",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Montevideo",
+  "wikidata_current_club": "Futbol Club Barcelona",
+  "wikidata_current_club_qid": "Q7156",
+  "photo": {
+    "filename": "Santiago Bueno.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Santiago_Bueno.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Santiago_Bueno.png",
+    "width": 478,
+    "height": 838,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%C3%86thelred&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:\u00c6thelred (page does not exist)\">\u00c6thelred</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/santiago-bueno.png"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

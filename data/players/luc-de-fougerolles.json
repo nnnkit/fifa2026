@@ -1,0 +1,60 @@
+{
+  "slug": "luc-de-fougerolles",
+  "display_name": "Luc de Fougerolles",
+  "shirt_no": 15,
+  "position_code": "DF",
+  "dob": "2005-10-12",
+  "age": 20,
+  "caps": 11,
+  "goals": 0,
+  "club_from_squad_table": "Dender",
+  "wikipedia_title": "Luc de Fougerolles",
+  "wikidata_qid": "Q121829403",
+  "qid": "Q121829403",
+  "name": "Luc de Fougerolles",
+  "description": "Canadian soccer player",
+  "date_of_birth": "2005-10-12",
+  "place_of_birth_qid": "Q84",
+  "citizenship_qids": [
+    "Q145",
+    "Q16"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18708",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q208635",
+      "start": "2024-03-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18708",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luc_de_Fougerolles",
+  "transfermarkt_id": "921995",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Dender",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "United Kingdom",
+    "Canada"
+  ],
+  "place_of_birth": "London",
+  "wikidata_current_club": "Fulham F.C.",
+  "wikidata_current_club_qid": "Q18708",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "yan-valery",
+  "display_name": "Yan Valery",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-02-22",
+  "age": 27,
+  "caps": 21,
+  "goals": 0,
+  "club_from_squad_table": "Young Boys",
+  "wikipedia_title": "Yan Valery",
+  "date_of_birth": "1999-02-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Young Boys",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q59268317",
+  "qid": "Q59268317",
+  "name": "Yan Valery",
+  "description": "Tunisian-French footballer (born 1999)",
+  "place_of_birth_qid": "Q192378",
+  "citizenship_qids": [
+    "Q142",
+    "Q948"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18732",
+      "start": "2018-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18732",
+  "image_filename": "Sheffield Wednesday's Starting Eleven 18102025 (1) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yan_Valery",
+  "transfermarkt_id": "406008",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "France",
+    "Tunisia"
+  ],
+  "place_of_birth": "Champigny-sur-Marne",
+  "wikidata_current_club": "Southampton F.C.",
+  "wikidata_current_club_qid": "Q18732",
+  "photo": {
+    "filename": "Sheffield Wednesday's Starting Eleven 18102025 (1) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sheffield_Wednesday%27s_Starting_Eleven_18102025_%281%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sheffield_Wednesday%27s_Starting_Eleven_18102025_%281%29_%28cropped%29.jpg",
+    "width": 457,
+    "height": 673,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/yan-valery.jpg"
+  },
+  "team_slug": "tunisia",
+  "team_country": "Tunisia"
+}

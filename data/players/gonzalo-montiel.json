@@ -1,0 +1,83 @@
+{
+  "slug": "gonzalo-montiel",
+  "display_name": "Gonzalo Montiel",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-01-01",
+  "age": 29,
+  "caps": 38,
+  "goals": 2,
+  "club_from_squad_table": "River Plate",
+  "wikipedia_title": "Gonzalo Montiel",
+  "wikidata_qid": "Q26255087",
+  "qid": "Q26255087",
+  "name": "Gonzalo Montiel",
+  "description": "Argentinian association football player",
+  "date_of_birth": "1997-01-01",
+  "place_of_birth_qid": "Q6163801",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 175.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q15799",
+      "start": "2016-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q10329",
+      "start": "2021-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q19490",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q15799",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q15799",
+  "image_filename": "Palestino - River Plate 20190424 05.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gonzalo_Montiel",
+  "transfermarkt_id": "402733",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "River Plate",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Virrey del Pino",
+  "wikidata_current_club": "Club Atlético River Plate",
+  "wikidata_current_club_qid": "Q15799",
+  "photo": {
+    "filename": "Palestino - River Plate 20190424 05.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Palestino_-_River_Plate_20190424_05.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Palestino_-_River_Plate_20190424_05.jpg/960px-Palestino_-_River_Plate_20190424_05.jpg",
+    "width": 1785,
+    "height": 1786,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Carlos_yo\" title=\"User:Carlos yo\">Carlos Figueroa Rojas</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/gonzalo-montiel.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

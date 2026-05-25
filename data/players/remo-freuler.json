@@ -1,0 +1,119 @@
+{
+  "slug": "remo-freuler",
+  "display_name": "Remo Freuler",
+  "shirt_no": 8,
+  "position_code": "MF",
+  "dob": "1992-04-15",
+  "age": 34,
+  "caps": 86,
+  "goals": 11,
+  "club_from_squad_table": "Bologna",
+  "wikipedia_title": "Remo Freuler",
+  "date_of_birth": "1992-04-15",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bologna",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16595441",
+  "qid": "Q16595441",
+  "name": "Remo Freuler",
+  "description": "Swiss association football player",
+  "place_of_birth_qid": "Q659434",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1886",
+      "start": "2016-01-01",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q201969",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q201360",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q201969",
+      "start": "2011-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q223262",
+      "start": "2014-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q4140019",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q678582",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q3873550",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q19490",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q1893",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q1893",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q165141",
+      "start": "2017-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1893",
+  "image_filename": "RemoFreuler.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Remo_Freuler",
+  "transfermarkt_id": "148252",
+  "fifa_player_id": "402021",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Ennenda",
+  "wikidata_current_club": "Bologna F.C. 1909",
+  "wikidata_current_club_qid": "Q1893",
+  "photo": {
+    "filename": "RemoFreuler.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/RemoFreuler.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/RemoFreuler.jpg",
+    "width": 308,
+    "height": 439,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ago76\" title=\"User:Ago76\">Ago76</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/remo-freuler.jpg"
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

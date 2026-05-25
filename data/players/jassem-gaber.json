@@ -1,0 +1,67 @@
+{
+  "slug": "jassem-gaber",
+  "display_name": "Jassem Gaber",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2002-02-20",
+  "age": 24,
+  "caps": 31,
+  "goals": 1,
+  "club_from_squad_table": "Al-Rayyan",
+  "wikipedia_title": "Jassem Gaber",
+  "date_of_birth": "2002-02-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Rayyan",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q80809664",
+  "qid": "Q80809664",
+  "name": "Jassem Gaber",
+  "description": "Qatari footballer",
+  "place_of_birth_qid": "Q3861",
+  "citizenship_qids": [
+    "Q846"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q283760",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q963238",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q283760",
+  "image_filename": "Asian Nations Cup Iran - Qatar (5) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jassem_Gaber",
+  "transfermarkt_id": "735813",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Qatar"
+  ],
+  "place_of_birth": "Doha",
+  "wikidata_current_club": "Al-Arabi SC",
+  "wikidata_current_club_qid": "Q283760",
+  "photo": {
+    "filename": "Asian Nations Cup Iran - Qatar (5) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Asian_Nations_Cup_Iran_-_Qatar_%285%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Asian_Nations_Cup_Iran_-_Qatar_%285%29_%28cropped%29.jpg",
+    "width": 264,
+    "height": 364,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "M.Sadegh Nikgostar",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jassem-gaber.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

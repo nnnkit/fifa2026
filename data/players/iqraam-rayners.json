@@ -1,0 +1,78 @@
+{
+  "slug": "iqraam-rayners",
+  "display_name": "Iqraam Rayners",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1995-12-19",
+  "age": 30,
+  "caps": 13,
+  "goals": 4,
+  "club_from_squad_table": "Mamelodi Sundowns",
+  "wikipedia_title": "Iqraam Rayners",
+  "wikidata_qid": "Q100565190",
+  "qid": "Q100565190",
+  "name": "Iqraam Rayners",
+  "description": "South African soccer player",
+  "date_of_birth": "1995-12-19",
+  "place_of_birth_qid": "Q5465",
+  "citizenship_qids": [
+    "Q258"
+  ],
+  "height_cm": 176.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1541768",
+      "start": "2014-08-00",
+      "end": "2017-07-00"
+    },
+    {
+      "team_qid": "Q28129381",
+      "start": "2017-07-00",
+      "end": "2020-06-00"
+    },
+    {
+      "team_qid": "Q1281608",
+      "start": "2020-07-00",
+      "end": "2023-01-00"
+    },
+    {
+      "team_qid": "Q28129381",
+      "start": "2023-01-00",
+      "end": "2024-08-00"
+    },
+    {
+      "team_qid": "Q784965",
+      "start": "2024-08-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q170327",
+      "start": "2023-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q784965",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Iqraam_Rayners",
+  "transfermarkt_id": "337884",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Mamelodi Sundowns",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "South Africa"
+  ],
+  "place_of_birth": "Cape Town",
+  "wikidata_current_club": "Mamelodi Sundowns F.C.",
+  "wikidata_current_club_qid": "Q784965",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "south-africa",
+  "team_country": "South Africa"
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "érick-sánchez",
+  "display_name": "Érick Sánchez",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1999-09-27",
+  "age": 26,
+  "caps": 38,
+  "goals": 3,
+  "club_from_squad_table": "América",
+  "wikipedia_title": "Érick Sánchez",
+  "wikidata_qid": "Q29033823",
+  "qid": "Q29033823",
+  "name": "Erick Sánchez",
+  "description": "Mexican association football player",
+  "date_of_birth": "1999-09-27",
+  "place_of_birth_qid": "Q2027082",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 1.67,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q736937",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q736937",
+  "image_filename": "Erick Sanchez.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89rick_S%C3%A1nchez",
+  "transfermarkt_id": "370875",
+  "fifa_player_id": "408094",
+  "current_club": "América",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Gustavo A. Madero",
+  "wikidata_current_club": "CF Pachuca",
+  "wikidata_current_club_qid": "Q736937",
+  "photo": {
+    "filename": "Erick Sanchez.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Erick_Sanchez.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Erick_Sanchez.png",
+    "width": 376,
+    "height": 470,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/érick-sánchez.png"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "leon-goretzka",
+  "display_name": "Leon Goretzka",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1995-02-06",
+  "age": 31,
+  "caps": 69,
+  "goals": 15,
+  "club_from_squad_table": "Bayern Munich",
+  "wikipedia_title": "Leon Goretzka",
+  "date_of_birth": "1995-02-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayern Munich",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q520721",
+  "qid": "Q520721",
+  "name": "Leon Goretzka",
+  "description": "German association football player",
+  "place_of_birth_qid": "Q2103",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 189.0,
+  "weight_kg": 82.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q32494",
+      "start": "2013-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q105861",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q43310",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3736767",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q314851",
+      "start": "2013-01-01",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q1202759",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q319699",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q324854",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2018-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q15789",
+  "image_filename": "2019-06-11 Fußball, Männer, Länderspiel, Deutschland-Estland StP 2074 LR10 by Stepro (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Leon_Goretzka",
+  "transfermarkt_id": "153084",
+  "fifa_player_id": "395476",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Bochum",
+  "wikidata_current_club": "FC Bayern Munich",
+  "wikidata_current_club_qid": "Q15789",
+  "photo": {
+    "filename": "2019-06-11 Fußball, Männer, Länderspiel, Deutschland-Estland StP 2074 LR10 by Stepro (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2074_LR10_by_Stepro_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2074_LR10_by_Stepro_%28cropped%29.jpg/960px-2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2074_LR10_by_Stepro_%28cropped%29.jpg",
+    "width": 2072,
+    "height": 3108,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "crop by <a href=\"//commons.wikimedia.org/wiki/User:Nehme1499\" title=\"User:Nehme1499\">Nehme1499</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/leon-goretzka.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

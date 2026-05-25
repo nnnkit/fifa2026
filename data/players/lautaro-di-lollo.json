@@ -1,0 +1,65 @@
+{
+  "slug": "lautaro-di-lollo",
+  "display_name": "Lautaro Di Lollo",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2004-03-10",
+  "age": 22,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Boca Juniors",
+  "wikipedia_title": "Lautaro Di Lollo",
+  "wikidata_qid": "Q116196701",
+  "qid": "Q116196701",
+  "name": "Lautaro Di Lollo",
+  "description": "Argentine professional footballer",
+  "date_of_birth": "2004-03-10",
+  "place_of_birth_qid": "Q1486",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 1.87,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q170703",
+      "start": "2024-05-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": "2022-05-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q170703",
+  "image_filename": "Lautaro Di Lollo (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lautaro_Di_Lollo",
+  "transfermarkt_id": "1019744",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Boca Juniors",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Buenos Aires",
+  "photo": {
+    "filename": "Lautaro Di Lollo (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Lautaro_Di_Lollo_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Lautaro_Di_Lollo_%28cropped%29.jpg",
+    "width": 952,
+    "height": 1527,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:BugWarp\" title=\"User:BugWarp\">BugWarp</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lautaro-di-lollo.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

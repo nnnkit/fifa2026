@@ -1,0 +1,109 @@
+{
+  "slug": "granit-xhaka",
+  "display_name": "Granit Xhaka",
+  "shirt_no": 10,
+  "position_code": "MF",
+  "dob": "1992-09-27",
+  "age": 33,
+  "caps": 144,
+  "goals": 16,
+  "club_from_squad_table": "Sunderland",
+  "wikipedia_title": "Granit Xhaka",
+  "date_of_birth": "1992-09-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sunderland",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q514427",
+  "qid": "Q514427",
+  "name": "Granit Xhaka",
+  "description": "Swiss footballer (born 1975)",
+  "place_of_birth_qid": "Q78",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 82.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q165141",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q189671",
+      "start": "2010-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q101959",
+      "start": "2012-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q650273",
+      "start": "2008-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q19019176",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q4140019",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q678582",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2016-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q104761",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q18739",
+      "start": "2025-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18739",
+  "image_filename": "Granit Xhaka (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Granit_Xhaka",
+  "transfermarkt_id": "111455",
+  "fifa_player_id": "311558",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Basel",
+  "wikidata_current_club": "Sunderland A.F.C.",
+  "wikidata_current_club_qid": "Q18739",
+  "photo": {
+    "filename": "Granit Xhaka (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Granit_Xhaka_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Granit_Xhaka_%28cropped%29.jpg/960px-Granit_Xhaka_%28cropped%29.jpg",
+    "width": 1145,
+    "height": 1834,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/121676765@N07\">@cfcunofficial (Chelsea Debs) London</a> from London, UK",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/granit-xhaka.jpg"
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

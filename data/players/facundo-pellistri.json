@@ -1,0 +1,87 @@
+{
+  "slug": "facundo-pellistri",
+  "display_name": "Facundo Pellistri",
+  "shirt_no": 11,
+  "position_code": "FW",
+  "dob": "2001-12-20",
+  "age": 24,
+  "caps": 39,
+  "goals": 2,
+  "club_from_squad_table": "Panathinaikos",
+  "wikipedia_title": "Facundo Pellistri",
+  "date_of_birth": "2001-12-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Panathinaikos",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q72091732",
+  "qid": "Q72091732",
+  "name": "Facundo Pellistri",
+  "description": "Uruguayan association football player",
+  "place_of_birth_qid": "Q1335",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 1.74,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q16320",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2020-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q223620",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q8812",
+      "start": "2024-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q134916",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q4122219",
+      "start": "2024-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q4122219",
+  "image_filename": "Facundo Pellistri WC2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Facundo_Pellistri",
+  "transfermarkt_id": "676318",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Montevideo",
+  "wikidata_current_club": "Panathinaikos F.C.",
+  "wikidata_current_club_qid": "Q4122219",
+  "photo": {
+    "filename": "Facundo Pellistri WC2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Facundo_Pellistri_WC2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Facundo_Pellistri_WC2022.jpg",
+    "width": 439,
+    "height": 557,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/facundo-pellistri.jpg"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

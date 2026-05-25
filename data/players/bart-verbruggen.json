@@ -1,0 +1,81 @@
+{
+  "slug": "bart-verbruggen",
+  "display_name": "Bart Verbruggen",
+  "shirt_no": 1,
+  "position_code": "GK",
+  "dob": "2002-08-18",
+  "age": 23,
+  "caps": 27,
+  "goals": 0,
+  "club_from_squad_table": "Brighton & Hove Albion",
+  "wikipedia_title": "Bart Verbruggen",
+  "date_of_birth": "2002-08-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Brighton & Hove Albion",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q98682558",
+  "qid": "Q98682558",
+  "name": "Bart Verbruggen",
+  "description": "Dutch association football player (born 2002)",
+  "place_of_birth_qid": "Q40844",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 193.0,
+  "teams": [
+    {
+      "team_qid": "Q187528",
+      "start": "2020-08-26",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q114056326",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q19453",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q16854907",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q23886910",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19453",
+  "image_filename": "Bart Verbruggen.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bart_Verbruggen",
+  "transfermarkt_id": "565093",
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Breda",
+  "wikidata_current_club": "Brighton & Hove Albion F.C.",
+  "wikidata_current_club_qid": "Q19453",
+  "photo": {
+    "filename": "Bart Verbruggen.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bart_Verbruggen.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bart_Verbruggen.png",
+    "width": 226,
+    "height": 352,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "AFC Bournemouth",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/bart-verbruggen.png"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

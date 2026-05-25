@@ -1,0 +1,69 @@
+{
+  "slug": "tino-livramento",
+  "display_name": "Tino Livramento",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2002-11-12",
+  "age": 23,
+  "caps": 5,
+  "goals": 0,
+  "club_from_squad_table": "Newcastle United",
+  "wikipedia_title": "Tino Livramento",
+  "date_of_birth": "2002-11-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Newcastle United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q107930811",
+  "qid": "Q107930811",
+  "name": "Tino Livramento",
+  "description": "English association football player",
+  "place_of_birth_qid": "Q2213391",
+  "citizenship_qids": [
+    "Q145",
+    "Q45"
+  ],
+  "height_cm": 1.73,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18732",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q18716",
+      "start": "2023-08-08",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18716",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tino_Livramento",
+  "transfermarkt_id": "503981",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "United Kingdom",
+    "Portugal"
+  ],
+  "place_of_birth": "Croydon",
+  "wikidata_current_club": "Newcastle United F.C.",
+  "wikidata_current_club_qid": "Q18716",
+  "image_filename": "Manchester United v Southampton, 12 February 2022 (23).jpg",
+  "photo": {
+    "filename": "Manchester United v Southampton, 12 February 2022 (23).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Manchester_United_v_Southampton%2C_12_February_2022_%2823%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Manchester_United_v_Southampton%2C_12_February_2022_%2823%29.jpg/960px-Manchester_United_v_Southampton%2C_12_February_2022_%2823%29.jpg",
+    "width": 1971,
+    "height": 1833,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+    "source": "commons-category-search",
+    "local_path": "data/photos/tino-livramento.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "amar-dedić",
+  "display_name": "Amar Dedić",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2002-08-18",
+  "age": 23,
+  "caps": 26,
+  "goals": 1,
+  "club_from_squad_table": "Benfica",
+  "wikipedia_title": "Amar Dedić",
+  "wikidata_qid": "Q65948595",
+  "qid": "Q65948595",
+  "name": "Amar Dedić",
+  "description": "Bosnian association football player",
+  "date_of_birth": "2002-08-18",
+  "place_of_birth_qid": "Q187572",
+  "citizenship_qids": [
+    "Q225"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q994811",
+      "start": "2019-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q1387293",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q694484",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q132885",
+      "start": "2025-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q131499",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q430190",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q844509",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q769512",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q131499",
+  "image_filename": "(2024-09-10 ) FC RB Salzburg gegen SCR Altach 24.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amar_Dedi%C4%87",
+  "transfermarkt_id": "519184",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Benfica",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Zell am See",
+  "wikidata_current_club": "S.L. Benfica",
+  "wikidata_current_club_qid": "Q131499",
+  "photo": {
+    "filename": "(2024-09-10 ) FC RB Salzburg gegen SCR Altach 24.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/%282024-09-10_%29_FC_RB_Salzburg_gegen_SCR_Altach_24.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%282024-09-10_%29_FC_RB_Salzburg_gegen_SCR_Altach_24.jpg/960px-%282024-09-10_%29_FC_RB_Salzburg_gegen_SCR_Altach_24.jpg",
+    "width": 4123,
+    "height": 4000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/amar-dedić.jpg"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

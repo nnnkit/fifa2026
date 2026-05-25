@@ -1,0 +1,37 @@
+{
+  "slug": "john-mercado",
+  "display_name": "John Mercado",
+  "shirt_no": 18,
+  "position_code": "FW",
+  "dob": "2002-06-03",
+  "age": 23,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "Sparta Prague",
+  "wikipedia_title": "John Mercado",
+  "date_of_birth": "2002-06-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sparta Prague",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q111192857",
+  "qid": "Q111192857",
+  "name": "John Mercado",
+  "description": "Ecuadorian footballer",
+  "place_of_birth_qid": "Q43509",
+  "citizenship_qids": [
+    "Q736"
+  ],
+  "height_cm": 186.0,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Mercado",
+  "transfermarkt_id": "659804",
+  "citizenship": [
+    "Ecuador"
+  ],
+  "place_of_birth": "Guayaquil",
+  "team_slug": "ecuador",
+  "team_country": "Ecuador",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

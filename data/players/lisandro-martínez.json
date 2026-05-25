@@ -1,0 +1,98 @@
+{
+  "slug": "lisandro-martínez",
+  "display_name": "Lisandro Martínez",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-01-18",
+  "age": 28,
+  "caps": 26,
+  "goals": 1,
+  "club_from_squad_table": "Manchester United",
+  "wikipedia_title": "Lisandro Martínez",
+  "wikidata_qid": "Q30881092",
+  "qid": "Q30881092",
+  "name": "Lisandro Martínez",
+  "description": "Argentine association football player",
+  "date_of_birth": "1998-01-18",
+  "place_of_birth_qid": "Q52602",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 175.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q221882",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1024338",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1024338",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q2462207",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q81888",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18656",
+  "image_filename": "Lisandro Martinez 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lisandro_Mart%C3%ADnez",
+  "transfermarkt_id": "480762",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester United",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Gualeguay",
+  "wikidata_current_club": "Manchester United F.C.",
+  "wikidata_current_club_qid": "Q18656",
+  "photo": {
+    "filename": "Lisandro Martinez 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lisandro_Martinez_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lisandro_Martinez_2022.jpg",
+    "width": 672,
+    "height": 1008,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lisandro-martínez.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

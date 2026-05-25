@@ -1,0 +1,82 @@
+{
+  "slug": "joaqu\u00edn-piquerez",
+  "display_name": "Joaqu\u00edn Piquerez",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-08-24",
+  "age": 27,
+  "caps": 19,
+  "goals": 0,
+  "club_from_squad_table": "Palmeiras",
+  "wikipedia_title": "Joaqu\u00edn Piquerez",
+  "date_of_birth": "1998-08-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Palmeiras",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q35066458",
+  "qid": "Q35066458",
+  "name": "Joaqu\u00edn Piquerez",
+  "description": "Italian-Uruguay association football player",
+  "place_of_birth_qid": "Q1335",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q844238",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q980573",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q16320",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q80964",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q134916",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q80964",
+  "image_filename": "Joaquin-Piquerez-Palmeiras-Athletico-jul-2022-2.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Piquerez",
+  "transfermarkt_id": "496268",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Montevideo",
+  "wikidata_current_club": "Sociedade Esportiva Palmeiras",
+  "wikidata_current_club_qid": "Q80964",
+  "photo": {
+    "filename": "Joaquin-Piquerez-Palmeiras-Athletico-jul-2022-2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Joaquin-Piquerez-Palmeiras-Athletico-jul-2022-2.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Joaquin-Piquerez-Palmeiras-Athletico-jul-2022-2.jpg/960px-Joaquin-Piquerez-Palmeiras-Athletico-jul-2022-2.jpg",
+    "width": 1014,
+    "height": 1740,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "SOCCER DIGITAL",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/joaqu\u00edn-piquerez.jpg"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

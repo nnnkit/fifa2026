@@ -1,0 +1,89 @@
+{
+  "slug": "eray-cömert",
+  "display_name": "Eray Cömert",
+  "shirt_no": 18,
+  "position_code": "DF",
+  "dob": "1998-02-04",
+  "age": 28,
+  "caps": 20,
+  "goals": 0,
+  "club_from_squad_table": "Valencia",
+  "wikipedia_title": "Eray Cömert",
+  "date_of_birth": "1998-02-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Valencia",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q24052364",
+  "qid": "Q24052364",
+  "name": "Eray Cömert",
+  "description": "Swiss association football player",
+  "place_of_birth_qid": "Q269667",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 1.83,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q189671",
+      "start": "2015-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q650273",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q633521",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q321061",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q678582",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q10333",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q10333",
+  "image_filename": "Eray Cömert 2019.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Eray_C%C3%B6mert",
+  "transfermarkt_id": "298583",
+  "fifa_player_id": "201460674",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Rheinfelden",
+  "wikidata_current_club": "Valencia CF",
+  "wikidata_current_club_qid": "Q10333",
+  "photo": {
+    "filename": "Eray Cömert 2019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Eray_C%C3%B6mert_2019.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Eray_C%C3%B6mert_2019.jpg",
+    "width": 449,
+    "height": 1021,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Дмитрий Пукалик",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/eray-cömert.jpg"
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

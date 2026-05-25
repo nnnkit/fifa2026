@@ -1,0 +1,104 @@
+{
+  "slug": "kristoffer-nordfeldt",
+  "display_name": "Kristoffer Nordfeldt",
+  "shirt_no": 23,
+  "position_code": "GK",
+  "dob": "1989-06-23",
+  "age": 36,
+  "caps": 20,
+  "goals": 0,
+  "club_from_squad_table": "AIK",
+  "wikipedia_title": "Kristoffer Nordfeldt",
+  "date_of_birth": "1989-06-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "AIK",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q1398221",
+  "qid": "Q1398221",
+  "name": "Kristoffer Nordfeldt",
+  "description": "Swedish association football player",
+  "place_of_birth_qid": "Q1754",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 85.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q754339",
+      "start": "2006-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q18659",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q200321",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q2255212",
+      "start": "2006-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q2255267",
+      "start": "2008-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q160826",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q3590410",
+      "start": "2006-01-01",
+      "end": "2006-01-01"
+    },
+    {
+      "team_qid": "Q2255212",
+      "start": "2008-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q221602",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18659",
+  "image_filename": "Kristoffer Nordfeldt (Sweden starting XI vs Moldova, 12 October 2023).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kristoffer_Nordfeldt",
+  "transfermarkt_id": "75890",
+  "fifa_player_id": "360496",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Stockholm",
+  "wikidata_current_club": "Swansea City A.F.C.",
+  "wikidata_current_club_qid": "Q18659",
+  "photo": {
+    "filename": "Kristoffer Nordfeldt (Sweden starting XI vs Moldova, 12 October 2023).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Kristoffer_Nordfeldt_%28Sweden_starting_XI_vs_Moldova%2C_12_October_2023%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Kristoffer_Nordfeldt_%28Sweden_starting_XI_vs_Moldova%2C_12_October_2023%29.jpg",
+    "width": 825,
+    "height": 1007,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/198658015@N03\">Amanda Aikioniemi</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kristoffer-nordfeldt.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

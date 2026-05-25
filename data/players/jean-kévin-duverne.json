@@ -1,0 +1,64 @@
+{
+  "slug": "jean-kévin-duverne",
+  "display_name": "Jean-Kévin Duverne",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-07-12",
+  "age": 28,
+  "caps": 15,
+  "goals": 1,
+  "club_from_squad_table": "Gent",
+  "wikipedia_title": "Jean-Kévin Duverne",
+  "date_of_birth": "1997-07-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Gent",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26251605",
+  "qid": "Q26251605",
+  "name": "Jean-Kévin Duverne",
+  "description": "French-Haitian association football player",
+  "place_of_birth_qid": "Q90",
+  "citizenship_qids": [
+    "Q142",
+    "Q790"
+  ],
+  "height_cm": 1.84,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q191843",
+      "start": "2016-09-14",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q191843",
+  "image_filename": "RC Lens - FC Nantes (28-10-2023) - Duverne.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-K%C3%A9vin_Duverne",
+  "transfermarkt_id": "344864",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "France",
+    "Haiti"
+  ],
+  "place_of_birth": "Paris",
+  "wikidata_current_club": "R.C. Lens",
+  "wikidata_current_club_qid": "Q191843",
+  "photo": {
+    "filename": "RC Lens - FC Nantes (28-10-2023) - Duverne.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/RC_Lens_-_FC_Nantes_%2828-10-2023%29_-_Duverne.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/RC_Lens_-_FC_Nantes_%2828-10-2023%29_-_Duverne.jpg/960px-RC_Lens_-_FC_Nantes_%2828-10-2023%29_-_Duverne.jpg",
+    "width": 1032,
+    "height": 1224,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:SonoGrazy\" title=\"User:SonoGrazy\">SonoGrazy</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jean-kévin-duverne.jpg"
+  },
+  "team_slug": "haiti",
+  "team_country": "Haiti"
+}

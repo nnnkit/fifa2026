@@ -1,0 +1,93 @@
+{
+  "slug": "jalal-hassan",
+  "display_name": "Jalal Hassan",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1991-05-18",
+  "age": 35,
+  "caps": 100,
+  "goals": 0,
+  "club_from_squad_table": "Al-Zawraa",
+  "wikipedia_title": "Jalal Hassan",
+  "date_of_birth": "1991-05-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Zawraa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q10526042",
+  "qid": "Q10526042",
+  "name": "Jalal Hasan",
+  "description": "Iraqi footballer",
+  "place_of_birth_qid": "Q694939",
+  "citizenship_qids": [
+    "Q796",
+    "Q62987"
+  ],
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q4166058",
+      "start": "2009-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q1156579",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3195941",
+      "start": "2015-01-01",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q195932",
+      "start": "2011-01-01",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q186243",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q117996",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q284668",
+      "start": "2017-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q284668",
+  "image_filename": "Jalal12.JPG",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jalal_Hassan",
+  "transfermarkt_id": "206782",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Iraq",
+    "Al-Q\u0101disiyyah Governorate"
+  ],
+  "place_of_birth": "Al Diwaniyah",
+  "wikidata_current_club": "Al-Zawra'a SC",
+  "wikidata_current_club_qid": "Q284668",
+  "photo": {
+    "filename": "Jalal12.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Jalal12.JPG",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Jalal12.JPG",
+    "width": 588,
+    "height": 620,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Viacheslav Evdokimov",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jalal-hassan.JPG"
+  },
+  "team_slug": "iraq",
+  "team_country": "Iraq"
+}

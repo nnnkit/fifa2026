@@ -1,0 +1,61 @@
+{
+  "slug": "johan-manzambi",
+  "display_name": "Johan Manzambi",
+  "shirt_no": 9,
+  "position_code": "MF",
+  "dob": "2005-10-14",
+  "age": 20,
+  "caps": 10,
+  "goals": 3,
+  "club_from_squad_table": "SC Freiburg",
+  "wikipedia_title": "Johan Manzambi",
+  "date_of_birth": "2005-10-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "SC Freiburg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q125376751",
+  "qid": "Q125376751",
+  "name": "Johan Manzambi",
+  "description": "Swiss footballer (born 2005)",
+  "place_of_birth_qid": "Q71",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q219235",
+      "start": null,
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q106394",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q20631356",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q106394",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johan_Manzambi",
+  "transfermarkt_id": "927353",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Geneva",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

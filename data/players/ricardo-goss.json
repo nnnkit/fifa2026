@@ -1,0 +1,43 @@
+{
+  "slug": "ricardo-goss",
+  "display_name": "Ricardo Goss",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1994-04-02",
+  "age": 32,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Siwelele",
+  "wikipedia_title": "Ricardo Goss",
+  "wikidata_qid": "Q58796031",
+  "qid": "Q58796031",
+  "name": "Ricardo Goss",
+  "description": "football player",
+  "date_of_birth": "1994-04-02",
+  "place_of_birth_qid": "Q5468",
+  "citizenship_qids": [
+    "Q258"
+  ],
+  "height_cm": 181.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ricardo_Goss",
+  "transfermarkt_id": "258304",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "South Africa"
+  ],
+  "place_of_birth": "Durban",
+  "current_club": "Siwelele",
+  "current_club_source": "wikipedia-squad-table",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "south-africa",
+  "team_country": "South Africa"
+}

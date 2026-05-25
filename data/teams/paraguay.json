@@ -1,0 +1,3389 @@
+{
+  "slug": "paraguay",
+  "country": "Paraguay",
+  "wikidata_qid": "Q172020",
+  "fetched_at": "2026-05-24T15:10:02+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 55,
+  "players": [
+    {
+      "slug": "gatito-fernández",
+      "display_name": "Gatito Fernández",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1988-03-29",
+      "age": 38,
+      "caps": 30,
+      "goals": 0,
+      "club_from_squad_table": "Cerro Porteño",
+      "wikipedia_title": "Gatito Fernández",
+      "date_of_birth": "1988-03-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cerro Porteño",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q781683",
+      "qid": "Q781683",
+      "name": "Gatito Fernández",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q2933",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 191.0,
+      "weight_kg": 86.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q274465",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q914086",
+          "start": "2007-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q214940",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q276533",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q24680",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q914086",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q218334",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3328932",
+          "start": "2007-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q172020",
+          "start": "2011-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q218334",
+      "image_filename": "Gatito Fernández (Cerro Porteño).png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gatito_Fern%C3%A1ndez",
+      "transfermarkt_id": "107318",
+      "fifa_player_id": "318647",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Asunción",
+      "wikidata_current_club": "Figueirense Futebol Clube",
+      "wikidata_current_club_qid": "Q218334",
+      "photo": {
+        "filename": "Gatito Fernández (Cerro Porteño).png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Gatito_Fern%C3%A1ndez_%28Cerro_Porte%C3%B1o%29.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Gatito_Fern%C3%A1ndez_%28Cerro_Porte%C3%B1o%29.png",
+        "width": 442,
+        "height": 537,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:VictorVoorhees&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:VictorVoorhees (page does not exist)\">VictorVoorhees</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/gatito-fernández.png"
+      }
+    },
+    {
+      "slug": "carlos-coronel",
+      "display_name": "Carlos Coronel",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1996-12-29",
+      "age": 29,
+      "caps": 9,
+      "goals": 0,
+      "club_from_squad_table": "São Paulo",
+      "wikipedia_title": "Carlos Coronel",
+      "date_of_birth": "1996-12-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "São Paulo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21518688",
+      "qid": "Q21518688",
+      "name": "Carlos Coronel",
+      "description": "Brazilian-Paraguayan footballer",
+      "place_of_birth_qid": "Q271215",
+      "citizenship_qids": [
+        "Q155",
+        "Q733"
+      ],
+      "height_cm": 192.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1387293",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2402747",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q21070839",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q689874",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q204220",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1387293",
+      "image_filename": "Carlos Coronel Red Bull Atlanta 5.31.25-05 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Coronel",
+      "transfermarkt_id": "378871",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Brazil",
+        "Paraguay"
+      ],
+      "place_of_birth": "Corumbá",
+      "wikidata_current_club": "FC Liefering",
+      "wikidata_current_club_qid": "Q1387293",
+      "photo": {
+        "filename": "Carlos Coronel Red Bull Atlanta 5.31.25-05 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Carlos_Coronel_Red_Bull_Atlanta_5.31.25-05_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Carlos_Coronel_Red_Bull_Atlanta_5.31.25-05_%28cropped%29.jpg/960px-Carlos_Coronel_Red_Bull_Atlanta_5.31.25-05_%28cropped%29.jpg",
+        "width": 2454,
+        "height": 3270,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/carlos-coronel.jpg"
+      }
+    },
+    {
+      "slug": "orlando-gill",
+      "display_name": "Orlando Gill",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2000-06-11",
+      "age": 26,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "San Lorenzo",
+      "wikipedia_title": "Orlando Gill",
+      "date_of_birth": "2000-06-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "San Lorenzo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60842077",
+      "qid": "Q60842077",
+      "name": "Orlando Gill",
+      "description": "Paraguayan footballer (born 2000)",
+      "place_of_birth_qid": "Q938739",
+      "height_cm": 198.0,
+      "teams": [
+        {
+          "team_qid": "Q2980003",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2980003",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Orlando_Gill",
+      "transfermarkt_id": "643259",
+      "place_of_birth": "San Lorenzo",
+      "wikidata_current_club": "Club Sportivo San Lorenzo",
+      "wikidata_current_club_qid": "Q2980003",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "santiago-rojas",
+      "display_name": "Santiago Rojas",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1996-04-05",
+      "age": 30,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Nacional",
+      "wikipedia_title": "Santiago Rojas",
+      "date_of_birth": "1996-04-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nacional",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60735377",
+      "qid": "Q60735377",
+      "name": "Santiago Rojas",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q946497",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 189.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q603101",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q603101",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Santiago_Rojas",
+      "transfermarkt_id": "514121",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Luque",
+      "wikidata_current_club": "Club Nacional",
+      "wikidata_current_club_qid": "Q603101",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "juan-espínola",
+      "display_name": "Juan Espínola",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1994-11-02",
+      "age": 31,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Barracas Central",
+      "wikipedia_title": "Juan Espínola (footballer, born 1994)",
+      "date_of_birth": "1994-11-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barracas Central",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q63011249",
+      "qid": "Q63011249",
+      "name": "Juan Espínola",
+      "description": "association football player born 1994",
+      "place_of_birth_qid": "Q192235",
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q603101",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q603101",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Esp%C3%ADnola_(footballer,_born_1994)",
+      "transfermarkt_id": "532557",
+      "positions": [
+        "goalkeeper"
+      ],
+      "place_of_birth": "Ciudad del Este",
+      "wikidata_current_club": "Club Nacional",
+      "wikidata_current_club_qid": "Q603101",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "gastón-olveira",
+      "display_name": "Gastón Olveira",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1993-04-21",
+      "age": 33,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Olimpia",
+      "wikipedia_title": "Gastón Olveira",
+      "date_of_birth": "1993-04-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Olimpia",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18020415",
+      "qid": "Q18020415",
+      "name": "Gastón Olveira",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q1335",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 1.91,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q980573",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2384857",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        }
+      ],
+      "current_club_qid": "Q980573",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gast%C3%B3n_Olveira",
+      "transfermarkt_id": "301722",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Club Atlético River Plate",
+      "wikidata_current_club_qid": "Q980573",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "gustavo-gómez",
+      "display_name": "Gustavo Gómez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1993-05-06",
+      "age": 33,
+      "caps": 88,
+      "goals": 4,
+      "club_from_squad_table": "Palmeiras",
+      "wikipedia_title": "Gustavo Gómez",
+      "date_of_birth": "1993-05-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Palmeiras",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q1033783",
+      "qid": "Q1033783",
+      "name": "Gustavo Gómez",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q530895",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 85.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q848642",
+          "start": "2011-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q3590745",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q3590745",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q172020",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3328932",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q170703",
+          "start": "2016-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1543",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q170703",
+      "image_filename": "Gustavo-gomez-palmeiras-wikipedia (cropped).png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gustavo_G%C3%B3mez",
+      "transfermarkt_id": "215390",
+      "fifa_player_id": "369744",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "San Juan Bautista",
+      "wikidata_current_club": "Boca Juniors",
+      "wikidata_current_club_qid": "Q170703",
+      "photo": {
+        "filename": "Gustavo-gomez-palmeiras-wikipedia (cropped).png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gustavo-gomez-palmeiras-wikipedia_%28cropped%29.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gustavo-gomez-palmeiras-wikipedia_%28cropped%29.png",
+        "width": 261,
+        "height": 261,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:NullReason\" title=\"User:NullReason\">NullReason</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/gustavo-gómez.png"
+      }
+    },
+    {
+      "slug": "júnior-alonso",
+      "display_name": "Júnior Alonso",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1993-02-09",
+      "age": 33,
+      "caps": 70,
+      "goals": 3,
+      "club_from_squad_table": "Atlético Mineiro",
+      "wikipedia_title": "Júnior Alonso",
+      "date_of_birth": "1993-02-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlético Mineiro",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q11091593",
+      "qid": "Q11091593",
+      "name": "Júnior Alonso",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q2933",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q914086",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3328932",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q172020",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q8749",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q220854",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q914086",
+      "image_filename": "Júnior Alonso 20180612.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/J%C3%BAnior_Alonso",
+      "transfermarkt_id": "273000",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Asunción",
+      "wikidata_current_club": "Cerro Porteño",
+      "wikidata_current_club_qid": "Q914086",
+      "photo": {
+        "filename": "Júnior Alonso 20180612.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/J%C3%BAnior_Alonso_20180612.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/J%C3%BAnior_Alonso_20180612.jpg/960px-J%C3%BAnior_Alonso_20180612.jpg",
+        "width": 1200,
+        "height": 800,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Lokomotive74\" title=\"User:Lokomotive74\">El Loko</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/júnior-alonso.jpg"
+      }
+    },
+    {
+      "slug": "fabián-balbuena",
+      "display_name": "Fabián Balbuena",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1991-08-23",
+      "age": 34,
+      "caps": 47,
+      "goals": 2,
+      "club_from_squad_table": "Grêmio",
+      "wikipedia_title": "Fabián Balbuena",
+      "date_of_birth": "1991-08-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Grêmio",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16297591",
+      "qid": "Q16297591",
+      "name": "Fabián Balbuena",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q192235",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 82.0,
+      "position_qids": [
+        "Q336286",
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q35933",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q603101",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q2623197",
+          "start": "2010-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q603085",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q848642",
+          "start": "2014-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q172020",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q18747",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q35933",
+      "image_filename": "Fabián Balbuena 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fabi%C3%A1n_Balbuena",
+      "transfermarkt_id": "285548",
+      "positions": [
+        "defender",
+        "centre-back"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Ciudad del Este",
+      "wikidata_current_club": "S.C. Corinthians Paulista",
+      "wikidata_current_club_qid": "Q35933",
+      "photo": {
+        "filename": "Fabián Balbuena 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fabi%C3%A1n_Balbuena_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fabi%C3%A1n_Balbuena_2022.jpg",
+        "width": 599,
+        "height": 854,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Антон Зайцев",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/fabián-balbuena.jpg"
+      }
+    },
+    {
+      "slug": "omar-alderete",
+      "display_name": "Omar Alderete",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-12-26",
+      "age": 29,
+      "caps": 35,
+      "goals": 3,
+      "club_from_squad_table": "Sunderland",
+      "wikipedia_title": "Omar Alderete",
+      "date_of_birth": "1996-12-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sunderland",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q41800131",
+      "qid": "Q41800131",
+      "name": "Omar Alderete",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q2933",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 1.88,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18640",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18640",
+      "image_filename": "Omar Alderete 2019 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Omar_Alderete",
+      "transfermarkt_id": "353032",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Asunción",
+      "wikidata_current_club": "Club de Gimnasia y Esgrima La Plata",
+      "wikidata_current_club_qid": "Q18640",
+      "photo": {
+        "filename": "Omar Alderete 2019 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Omar_Alderete_2019_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Omar_Alderete_2019_%28cropped%29.jpg",
+        "width": 417,
+        "height": 590,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Дмитрий Пукалик",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/omar-alderete.jpg"
+      }
+    },
+    {
+      "slug": "juan-josé-cáceres",
+      "display_name": "Juan José Cáceres",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-06-01",
+      "age": 26,
+      "caps": 16,
+      "goals": 0,
+      "club_from_squad_table": "Dynamo Moscow",
+      "wikipedia_title": "Juan José Cáceres",
+      "date_of_birth": "2000-06-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Dynamo Moscow",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q101791178",
+      "qid": "Q101791178",
+      "name": "Juan José Cáceres",
+      "description": "Argentine-Paraguayan footballer",
+      "place_of_birth_qid": "Q2569014",
+      "citizenship_qids": [
+        "Q414",
+        "Q733"
+      ],
+      "height_cm": 173.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_C%C3%A1ceres",
+      "transfermarkt_id": "756494",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Argentina",
+        "Paraguay"
+      ],
+      "place_of_birth": "Dock Sud",
+      "image_filename": "Juan_José_Cáceres_2025.jpg",
+      "photo": {
+        "filename": "Juan_José_Cáceres_2025.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Juan_Jos%C3%A9_C%C3%A1ceres_2025.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Juan_Jos%C3%A9_C%C3%A1ceres_2025.jpg",
+        "width": 611,
+        "height": 869,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Вячеслав Евдокимов / ФК «Зенит»",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/juan-josé-cáceres.jpg"
+      }
+    },
+    {
+      "slug": "blas-riveros",
+      "display_name": "Blas Riveros",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-02-03",
+      "age": 28,
+      "caps": 15,
+      "goals": 0,
+      "club_from_squad_table": "Cerro Porteño",
+      "wikipedia_title": "Blas Riveros",
+      "date_of_birth": "1998-02-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cerro Porteño",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20950164",
+      "qid": "Q20950164",
+      "name": "Blás Riveros",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q1093634",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 68.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q604589",
+          "start": "2015-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q3590745",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q172020",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q189671",
+          "start": "2016-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q189671",
+      "image_filename": "Blás Riveros.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Blas_Riveros",
+      "transfermarkt_id": "401732",
+      "fifa_player_id": "390401",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Villa monica alritmo",
+      "wikidata_current_club": "FC Basel",
+      "wikidata_current_club_qid": "Q189671",
+      "photo": {
+        "filename": "Blás Riveros.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bl%C3%A1s_Riveros.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bl%C3%A1s_Riveros.jpg",
+        "width": 781,
+        "height": 857,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/75116651@N03\">Agencia de Noticias ANDES</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/blas-riveros.jpg"
+      }
+    },
+    {
+      "slug": "gustavo-velázquez",
+      "display_name": "Gustavo Velázquez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1991-04-17",
+      "age": 35,
+      "caps": 12,
+      "goals": 1,
+      "club_from_squad_table": "Cerro Porteño",
+      "wikipedia_title": "Gustavo Velázquez",
+      "date_of_birth": "1991-04-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cerro Porteño",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20888302",
+      "qid": "Q20888302",
+      "name": "Gustavo Velásquez",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q4012700",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q603101",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q603101",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gustavo_Vel%C3%A1zquez",
+      "transfermarkt_id": "389399",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Villa del Rosario",
+      "wikidata_current_club": "Club Nacional",
+      "wikidata_current_club_qid": "Q603101",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "alan-benítez",
+      "display_name": "Alan Benítez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1994-01-25",
+      "age": 32,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Libertad",
+      "wikipedia_title": "Alan Benítez",
+      "date_of_birth": "1994-01-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Libertad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16297740",
+      "qid": "Q16297740",
+      "name": "Alan Benítez",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q2933",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 147.0,
+      "weight_kg": 69.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q848642",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q603085",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q7387221",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590745",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        }
+      ],
+      "current_club_qid": "Q7387221",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alan_Ben%C3%ADtez",
+      "transfermarkt_id": "344676",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Asunción",
+      "wikidata_current_club": "S.L. Benfica B",
+      "wikidata_current_club_qid": "Q7387221",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "agustín-sández",
+      "display_name": "Agustín Sández",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-01-16",
+      "age": 25,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Rosario Central",
+      "wikipedia_title": "Agustín Sández",
+      "date_of_birth": "2001-01-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rosario Central",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q106589042",
+      "qid": "Q106589042",
+      "name": "Agustín Sández",
+      "description": "Argentine football player",
+      "place_of_birth_qid": "Q1622565",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q170703",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q170703",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_S%C3%A1ndez",
+      "transfermarkt_id": "847023",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Lanús",
+      "wikidata_current_club": "Boca Juniors",
+      "wikidata_current_club_qid": "Q170703",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "mateo-gamarra",
+      "display_name": "Mateo Gamarra",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-10-20",
+      "age": 25,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Cruzeiro",
+      "wikipedia_title": "Mateo Gamarra",
+      "date_of_birth": "2000-10-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cruzeiro",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q115952095",
+      "qid": "Q115952095",
+      "name": "Mateo Gamarra",
+      "description": "Paraguayan footballer",
+      "place_of_birth_qid": "Q840962",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mateo_Gamarra",
+      "transfermarkt_id": "661245",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Concepción",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "saúl-salcedo",
+      "display_name": "Saúl Salcedo",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-08-28",
+      "age": 28,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Newell's Old Boys",
+      "wikipedia_title": "Saúl Salcedo",
+      "date_of_birth": "1997-08-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Newell's Old Boys",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19681762",
+      "qid": "Q19681762",
+      "name": "Saúl Salcedo",
+      "description": "Paraguayan footballer, born 1997",
+      "place_of_birth_qid": "Q723811",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q604589",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3328932",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q604589",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sa%C3%BAl_Salcedo",
+      "transfermarkt_id": "353035",
+      "wikidata_date_of_birth": "1997-08-29",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Capiatá",
+      "wikidata_current_club": "Club Olimpia",
+      "wikidata_current_club_qid": "Q604589",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "josé-canale",
+      "display_name": "José Canale",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-07-20",
+      "age": 29,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Lanús",
+      "wikipedia_title": "José Canale",
+      "date_of_birth": "1996-07-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lanús",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q50105161",
+      "qid": "Q50105161",
+      "name": "José María Canale",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q1093634",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q848642",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q848642",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Canale",
+      "transfermarkt_id": "402627",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Villa monica alritmo",
+      "wikidata_current_club": "Club Libertad",
+      "wikidata_current_club_qid": "Q848642",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "diego-león",
+      "display_name": "Diego León",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2007-04-03",
+      "age": 19,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Manchester United",
+      "wikipedia_title": "Diego León (footballer, born 2007)",
+      "date_of_birth": "2007-04-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q130564681",
+      "qid": "Q130564681",
+      "name": "Diego León",
+      "description": "Paraguayan football player",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 1.77,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_Le%C3%B3n_(footballer,_born_2007)",
+      "transfermarkt_id": "1283997",
+      "citizenship": [
+        "Paraguay"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "alexandro-maidana",
+      "display_name": "Alexandro Maidana",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2005-07-26",
+      "age": 20,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Talleres",
+      "wikipedia_title": "Alexandro Maidana",
+      "date_of_birth": "2005-07-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Talleres",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q136375048",
+      "qid": "Q136375048",
+      "name": "Alexandro Maidana",
+      "description": "Paraguayan footballer",
+      "place_of_birth_qid": "Q135959",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexandro_Maidana",
+      "transfermarkt_id": "1371519",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Caacupé",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "alcides-benítez",
+      "display_name": "Alcides Benítez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-06-28",
+      "age": 24,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Belgrano",
+      "wikipedia_title": null,
+      "date_of_birth": "2002-06-28",
+      "date_of_birth_source": "transfermarkt+bdfutbol+eswiki-verified",
+      "current_club": "Belgrano",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      },
+      "squad_table_date_of_birth": "2002-06-08",
+      "identity_review": {
+        "status": "no-unambiguous-wikidata-qid",
+        "reviewed_at": "2026-05-25",
+        "reason": "No Wikidata exact-label or Transfermarkt-ID item found for the Belgrano defender."
+      }
+    },
+    {
+      "slug": "ronaldo-dejesús",
+      "display_name": "Ronaldo Dejesús",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-04-21",
+      "age": 25,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Lanús",
+      "wikipedia_title": "Ronaldo Dejesús",
+      "date_of_birth": "2001-04-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lanús",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q124837380",
+      "qid": "Q124837380",
+      "name": "Ronaldo De Jesús",
+      "description": "Paraguayan footballer",
+      "place_of_birth_qid": "Q1749429",
+      "citizenship_qids": [
+        "Q733",
+        "Q155"
+      ],
+      "height_cm": 192.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q914086",
+          "start": "2023-04-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q16847286",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2030810",
+          "start": "2022-01-00",
+          "end": "2022-12-00"
+        }
+      ],
+      "current_club_qid": "Q914086",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ronaldo_Dejes%C3%BAs",
+      "transfermarkt_id": "847074",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Paraguay",
+        "Brazil"
+      ],
+      "place_of_birth": "San Patricio",
+      "wikidata_current_club": "Cerro Porteño",
+      "wikidata_current_club_qid": "Q914086",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "alan-núñez",
+      "display_name": "Alan Núñez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-10-01",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Nacional",
+      "wikipedia_title": "Alan Núñez",
+      "date_of_birth": "2004-10-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nacional",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q124844796",
+      "qid": "Q124844796",
+      "name": "Alan Núñez",
+      "description": "Paraguayan footballer",
+      "place_of_birth_qid": "Q946497",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 176.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q914086",
+          "start": "2022-05-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3328932",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q16847286",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q216459",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q216459",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alan_N%C3%BA%C3%B1ez",
+      "transfermarkt_id": "912703",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Luque",
+      "wikidata_current_club": "C.D. Nacional",
+      "wikidata_current_club_qid": "Q216459",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "miguel-almirón",
+      "display_name": "Miguel Almirón",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-02-10",
+      "age": 32,
+      "caps": 75,
+      "goals": 9,
+      "club_from_squad_table": "Atlanta United FC",
+      "wikipedia_title": "Miguel Almirón",
+      "date_of_birth": "1994-02-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlanta United FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16145667",
+      "qid": "Q16145667",
+      "name": "Miguel Almirón",
+      "description": "Paraguayan association football player (born 1994)",
+      "place_of_birth_qid": "Q2933",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 174.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q914086",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3590745",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q3273941",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q172020",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q324589",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q16836317",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q18716",
+          "start": "2019-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q16836317",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q16836317",
+      "image_filename": "Miguel Almirón Red Bull Atlanta 5.31.25-069 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Miguel_Almir%C3%B3n",
+      "transfermarkt_id": "272999",
+      "fifa_player_id": "369761",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Asunción",
+      "photo": {
+        "filename": "Miguel Almirón Red Bull Atlanta 5.31.25-069 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Miguel_Almir%C3%B3n_Red_Bull_Atlanta_5.31.25-069_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Miguel_Almir%C3%B3n_Red_Bull_Atlanta_5.31.25-069_%28cropped%29.jpg/960px-Miguel_Almir%C3%B3n_Red_Bull_Atlanta_5.31.25-069_%28cropped%29.jpg",
+        "width": 1929,
+        "height": 2570,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/miguel-almirón.jpg"
+      }
+    },
+    {
+      "slug": "mathías-villasanti",
+      "display_name": "Mathías Villasanti",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-01-24",
+      "age": 29,
+      "caps": 51,
+      "goals": 0,
+      "club_from_squad_table": "Grêmio",
+      "wikipedia_title": "Mathías Villasanti",
+      "date_of_birth": "1997-01-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Grêmio",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q29783600",
+      "qid": "Q29783600",
+      "name": "Mathías Villasanti",
+      "description": "association football player",
+      "place_of_birth_qid": "Q733",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 68.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q914086",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q914086",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Math%C3%ADas_Villasanti",
+      "transfermarkt_id": "436385",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Paraguay",
+      "wikidata_current_club": "Cerro Porteño",
+      "wikidata_current_club_qid": "Q914086",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "kaku",
+      "display_name": "Kaku",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1995-01-11",
+      "age": 31,
+      "caps": 32,
+      "goals": 5,
+      "club_from_squad_table": "Al Ain",
+      "wikipedia_title": "Kaku (footballer)",
+      "date_of_birth": "1995-01-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al Ain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19319791",
+      "qid": "Q19319791",
+      "name": "Alejandro Romero Gamarra",
+      "description": "Argentine-Paraguayan footballer",
+      "place_of_birth_qid": "Q1328458",
+      "citizenship_qids": [
+        "Q414",
+        "Q733"
+      ],
+      "height_cm": 165.0,
+      "weight_kg": 60.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q327172",
+          "start": "2013-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2015-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q204220",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q172020",
+          "start": "2018-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q204220",
+      "image_filename": "Alejandro Romero 20180612 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kaku_(footballer)",
+      "transfermarkt_id": "355817",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Argentina",
+        "Paraguay"
+      ],
+      "place_of_birth": "Ciudadela",
+      "wikidata_current_club": "Red Bull New York",
+      "wikidata_current_club_qid": "Q204220",
+      "photo": {
+        "filename": "Alejandro Romero 20180612 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Alejandro_Romero_20180612_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Alejandro_Romero_20180612_%28cropped%29.jpg",
+        "width": 463,
+        "height": 640,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Lokomotive74\" title=\"User:Lokomotive74\">El Loko</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kaku.jpg"
+      }
+    },
+    {
+      "slug": "andrés-cubas",
+      "display_name": "Andrés Cubas",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-05-22",
+      "age": 30,
+      "caps": 32,
+      "goals": 0,
+      "club_from_squad_table": "Vancouver Whitecaps FC",
+      "wikipedia_title": "Andrés Cubas",
+      "date_of_birth": "1996-05-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Vancouver Whitecaps FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16298600",
+      "qid": "Q16298600",
+      "name": "Andrés Cubas",
+      "description": "Argentine-Paraguayan footballer",
+      "place_of_birth_qid": "Q2861426",
+      "citizenship_qids": [
+        "Q414",
+        "Q733"
+      ],
+      "height_cm": 163.0,
+      "weight_kg": 60.0,
+      "position_qids": [
+        "Q904289"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1024338",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2710",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q170703",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1024338",
+      "image_filename": "InddelVal-Boca (3).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Cubas",
+      "transfermarkt_id": "323872",
+      "wikidata_date_of_birth": "1996-06-22",
+      "positions": [
+        "stopper"
+      ],
+      "citizenship": [
+        "Argentina",
+        "Paraguay"
+      ],
+      "place_of_birth": "Aristóbulo del Valle",
+      "wikidata_current_club": "Defensa y Justicia",
+      "wikidata_current_club_qid": "Q1024338",
+      "photo": {
+        "filename": "InddelVal-Boca (3).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/InddelVal-Boca_%283%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/InddelVal-Boca_%283%29.jpg",
+        "width": 744,
+        "height": 1170,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/agenciaandes_ec/\">Agencia de Noticias ANDES</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/andrés-cubas.jpg"
+      }
+    },
+    {
+      "slug": "ramón-sosa",
+      "display_name": "Ramón Sosa",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1999-08-31",
+      "age": 26,
+      "caps": 28,
+      "goals": 1,
+      "club_from_squad_table": "Palmeiras",
+      "wikipedia_title": "Ramón Sosa",
+      "date_of_birth": "1999-08-31",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Palmeiras",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110160871",
+      "qid": "Q110160871",
+      "name": "Ramón Sosa",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q29227977",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2030810",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q604589",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q18640",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q1022939",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q19490",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q80964",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q172020",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q80964",
+      "image_filename": "Ramon-sosa-palmeiras-sport-ago-25-4 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Sosa",
+      "transfermarkt_id": "745191",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Maracaná",
+      "wikidata_current_club": "Sociedade Esportiva Palmeiras",
+      "wikidata_current_club_qid": "Q80964",
+      "photo": {
+        "filename": "Ramon-sosa-palmeiras-sport-ago-25-4 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ramon-sosa-palmeiras-sport-ago-25-4_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ramon-sosa-palmeiras-sport-ago-25-4_%28cropped%29.jpg/960px-Ramon-sosa-palmeiras-sport-ago-25-4_%28cropped%29.jpg",
+        "width": 1866,
+        "height": 2488,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:NullReason\" title=\"User:NullReason\">NullReason</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ramón-sosa.jpg"
+      }
+    },
+    {
+      "slug": "diego-gómez",
+      "display_name": "Diego Gómez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-03-27",
+      "age": 23,
+      "caps": 23,
+      "goals": 3,
+      "club_from_squad_table": "Brighton & Hove Albion",
+      "wikipedia_title": "Diego Gómez (Paraguayan footballer)",
+      "date_of_birth": "2003-03-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Brighton & Hove Albion",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q115978703",
+      "qid": "Q115978703",
+      "name": "Diego Gómez",
+      "description": "Paraguayan association football player (born 2003)",
+      "place_of_birth_qid": "Q530895",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q848642",
+          "start": "2022-05-00",
+          "end": "2023-07-00"
+        },
+        {
+          "team_qid": "Q16844931",
+          "start": "2023-07-00",
+          "end": "2024-12-00"
+        },
+        {
+          "team_qid": "Q3328932",
+          "start": "2022-06-00",
+          "end": "2023-02-00"
+        },
+        {
+          "team_qid": "Q16847286",
+          "start": "2023-12-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q172020",
+          "start": "2022-08-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2025-01-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19453",
+      "image_filename": "Diego Gomez 2023 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_G%C3%B3mez_(Paraguayan_footballer)",
+      "transfermarkt_id": "996897",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "San Juan Bautista",
+      "wikidata_current_club": "Brighton & Hove Albion F.C.",
+      "wikidata_current_club_qid": "Q19453",
+      "photo": {
+        "filename": "Diego Gomez 2023 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Diego_Gomez_2023_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Diego_Gomez_2023_%28cropped%29.jpg",
+        "width": 675,
+        "height": 929,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:TheSoccerBoy\" title=\"User:TheSoccerBoy\">TheSoccerBoy</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/diego-gómez.jpg"
+      }
+    },
+    {
+      "slug": "damián-bobadilla",
+      "display_name": "Damián Bobadilla",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-07-11",
+      "age": 24,
+      "caps": 19,
+      "goals": 1,
+      "club_from_squad_table": "São Paulo",
+      "wikipedia_title": "Damián Bobadilla",
+      "date_of_birth": "2001-07-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "São Paulo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q116223348",
+      "qid": "Q116223348",
+      "name": "Damián Bobadilla",
+      "description": "Paraguayan footballer",
+      "place_of_birth_qid": "Q2933",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 181.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dami%C3%A1n_Bobadilla",
+      "transfermarkt_id": "861852",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Asunción",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "braian-ojeda",
+      "display_name": "Braian Ojeda",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-07-27",
+      "age": 25,
+      "caps": 16,
+      "goals": 0,
+      "club_from_squad_table": "Orlando City SC",
+      "wikipedia_title": "Braian Ojeda",
+      "date_of_birth": "2000-07-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Orlando City SC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60828724",
+      "qid": "Q60828724",
+      "name": "Braian Ojeda",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q1093634",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 172.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19490",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19490",
+      "image_filename": "Dynamo vs Real Salt Lake (Mar 2025) 16 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Braian_Ojeda",
+      "transfermarkt_id": "491596",
+      "wikidata_date_of_birth": "2000-06-27",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Villa monica alritmo",
+      "wikidata_current_club": "Nottingham Forest F.C.",
+      "wikidata_current_club_qid": "Q19490",
+      "photo": {
+        "filename": "Dynamo vs Real Salt Lake (Mar 2025) 16 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Dynamo_vs_Real_Salt_Lake_%28Mar_2025%29_16_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Dynamo_vs_Real_Salt_Lake_%28Mar_2025%29_16_%28cropped%29.jpg",
+        "width": 542,
+        "height": 1027,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://old.reddit.com/user/reepers_hellcat\">u/reepers_hellcat</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/braian-ojeda.jpg"
+      }
+    },
+    {
+      "slug": "matías-galarza",
+      "display_name": "Matías Galarza",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-02-11",
+      "age": 24,
+      "caps": 14,
+      "goals": 2,
+      "club_from_squad_table": "Atlanta United FC",
+      "wikipedia_title": "Matías Galarza (Paraguayan footballer)",
+      "date_of_birth": "2002-02-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlanta United FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q106804819",
+      "qid": "Q106804819",
+      "name": "Matías Galarza",
+      "description": "Paraguayan footballer",
+      "place_of_birth_qid": "Q2933",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Matías Galarza - Brasileirão Série A- Bragantino 4 x 2 Coritiba - 52150854647 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mat%C3%ADas_Galarza_(Paraguayan_footballer)",
+      "transfermarkt_id": "661269",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Asunción",
+      "photo": {
+        "filename": "Matías Galarza - Brasileirão Série A- Bragantino 4 x 2 Coritiba - 52150854647 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mat%C3%ADas_Galarza_-_Brasileir%C3%A3o_S%C3%A9rie_A-_Bragantino_4_x_2_Coritiba_-_52150854647_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mat%C3%ADas_Galarza_-_Brasileir%C3%A3o_S%C3%A9rie_A-_Bragantino_4_x_2_Coritiba_-_52150854647_%28cropped%29.jpg/960px-Mat%C3%ADas_Galarza_-_Brasileir%C3%A3o_S%C3%A9rie_A-_Bragantino_4_x_2_Coritiba_-_52150854647_%28cropped%29.jpg",
+        "width": 1148,
+        "height": 885,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "SOCCER DIGITAL",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/matías-galarza.jpg"
+      }
+    },
+    {
+      "slug": "robert-piris-da-motta",
+      "display_name": "Robert Piris Da Motta",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-07-26",
+      "age": 31,
+      "caps": 9,
+      "goals": 0,
+      "club_from_squad_table": "Cerro Porteño",
+      "wikipedia_title": "Robert Piris Da Motta",
+      "date_of_birth": "1994-07-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cerro Porteño",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20950163",
+      "qid": "Q20950163",
+      "name": "Robert Piris Da Motta",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q192235",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q604589",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q503321",
+          "start": "2008-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3328932",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3328932",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q172020",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q17479",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q604589",
+      "image_filename": "Flamengo v Vasco September 2018 IMG 4439 (43805135645).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Piris_Da_Motta",
+      "transfermarkt_id": "273033",
+      "fifa_player_id": "369756",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Ciudad del Este",
+      "wikidata_current_club": "Club Olimpia",
+      "wikidata_current_club_qid": "Q604589",
+      "photo": {
+        "filename": "Flamengo v Vasco September 2018 IMG 4439 (43805135645).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flamengo_v_Vasco_September_2018_IMG_4439_%2843805135645%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flamengo_v_Vasco_September_2018_IMG_4439_%2843805135645%29.jpg/960px-Flamengo_v_Vasco_September_2018_IMG_4439_%2843805135645%29.jpg",
+        "width": 1995,
+        "height": 3546,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/140441867@N03\">Nadine Oliverr</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/robert-piris-da-motta.jpg"
+      }
+    },
+    {
+      "slug": "álvaro-campuzano",
+      "display_name": "Álvaro Campuzano",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1995-06-12",
+      "age": 30,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Libertad",
+      "wikipedia_title": "Álvaro Campuzano",
+      "date_of_birth": "1995-06-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Libertad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q122557561",
+      "qid": "Q122557561",
+      "name": "Álvaro Campuzano",
+      "description": "Paraguayan footballer",
+      "place_of_birth_qid": "Q2377309",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q848642",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q848642",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Campuzano",
+      "transfermarkt_id": "750770",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Eusebio Ayala",
+      "wikidata_current_club": "Club Libertad",
+      "wikidata_current_club_qid": "Q848642",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "diego-gonzález",
+      "display_name": "Diego González",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-01-07",
+      "age": 23,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Atlas",
+      "wikipedia_title": "Diego González (footballer, born 2003)",
+      "date_of_birth": "2003-01-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlas",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q116433960",
+      "qid": "Q116433960",
+      "name": "Diego González",
+      "description": "Paraguayan footballer (born 2003)",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 168.0,
+      "image_filename": "Atlas Diego González.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_Gonz%C3%A1lez_(footballer,_born_2003)",
+      "transfermarkt_id": "873981",
+      "citizenship": [
+        "Paraguay"
+      ],
+      "photo": {
+        "filename": "Atlas Diego González.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Atlas_Diego_Gonz%C3%A1lez.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Atlas_Diego_Gonz%C3%A1lez.jpg/960px-Atlas_Diego_Gonz%C3%A1lez.jpg",
+        "width": 1050,
+        "height": 1400,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Keiteay\" title=\"User:Keiteay\">Keiteay</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/diego-gonzález.jpg"
+      }
+    },
+    {
+      "slug": "hugo-cuenca",
+      "display_name": "Hugo Cuenca",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2005-01-08",
+      "age": 21,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Burgos",
+      "wikipedia_title": "Hugo Cuenca (footballer)",
+      "date_of_birth": "2005-01-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Burgos",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q121820432",
+      "qid": "Q121820432",
+      "name": "Hugo Cuenca",
+      "description": "Paraguayan footballer",
+      "place_of_birth_qid": "Q935504",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 183.0,
+      "teams": [
+        {
+          "team_qid": "Q126923253",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q2074",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2074",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hugo_Cuenca_(footballer)",
+      "transfermarkt_id": "906315",
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Coronel Oviedo",
+      "wikidata_current_club": "Genoa CFC",
+      "wikidata_current_club_qid": "Q2074",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "maurício",
+      "display_name": "Maurício",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-06-22",
+      "age": 24,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Palmeiras",
+      "wikipedia_title": "Maurício (footballer, born 2001)",
+      "date_of_birth": "2001-06-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Palmeiras",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q65718498",
+      "qid": "Q65718498",
+      "name": "Maurício",
+      "description": "Paraguayan association football player (born 2001)",
+      "place_of_birth_qid": "Q174",
+      "citizenship_qids": [
+        "Q155",
+        "Q733"
+      ],
+      "height_cm": 174.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q188277",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q188277",
+      "image_filename": "Mauricio-palmeiras-sport-ago-25 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maur%C3%ADcio_(footballer,_born_2001)",
+      "transfermarkt_id": "678439",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Brazil",
+        "Paraguay"
+      ],
+      "place_of_birth": "São Paulo",
+      "wikidata_current_club": "Cruzeiro E.C.",
+      "wikidata_current_club_qid": "Q188277",
+      "photo": {
+        "filename": "Mauricio-palmeiras-sport-ago-25 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mauricio-palmeiras-sport-ago-25_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mauricio-palmeiras-sport-ago-25_%28cropped%29.jpg/960px-Mauricio-palmeiras-sport-ago-25_%28cropped%29.jpg",
+        "width": 1970,
+        "height": 2627,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:NullReason\" title=\"User:NullReason\">NullReason</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/maurício.jpg"
+      }
+    },
+    {
+      "slug": "lucas-romero",
+      "display_name": "Lucas Romero",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-08-29",
+      "age": 23,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Universidad de Chile",
+      "wikipedia_title": "Lucas Romero (Paraguayan footballer)",
+      "date_of_birth": "2002-08-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Universidad de Chile",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q137168736",
+      "qid": "Q137168736",
+      "name": "Lucas Romero",
+      "description": "Paraguayan footballer",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_Romero_(Paraguayan_footballer)",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "enso-gonzález",
+      "display_name": "Enso González",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2005-01-20",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Wolverhampton Wanderers",
+      "wikipedia_title": "Enso González",
+      "date_of_birth": "2005-01-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Wolverhampton Wanderers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q122075105",
+      "qid": "Q122075105",
+      "name": "Enso González",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q2933",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 1.69,
+      "position_qids": [
+        "Q1369558"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q848642",
+          "start": "2022-07-00",
+          "end": "2023-08-00"
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2023-08-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q16847286",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19500",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Enso_Gonz%C3%A1lez",
+      "transfermarkt_id": "1060740",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Asunción",
+      "wikidata_current_club": "Wolverhampton Wanderers F.C.",
+      "wikidata_current_club_qid": "Q19500",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "rubén-lezcano",
+      "display_name": "Rubén Lezcano",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-02-09",
+      "age": 22,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Olimpia",
+      "wikipedia_title": "Rubén Lezcano",
+      "date_of_birth": "2004-02-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Olimpia",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q124805566",
+      "qid": "Q124805566",
+      "name": "Rubén Lezcano",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q1751115",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q90326494"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q848642",
+          "start": "2022-07-00",
+          "end": "2024-12-00"
+        },
+        {
+          "team_qid": "Q16847286",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q80987",
+          "start": "2025-02-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q848642",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q848642",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rub%C3%A9n_Lezcano",
+      "transfermarkt_id": "1039533",
+      "positions": [
+        "attacking midfielder"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Repatriación",
+      "wikidata_current_club": "Club Libertad",
+      "wikidata_current_club_qid": "Q848642",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "óscar-romero",
+      "display_name": "Óscar Romero",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1992-07-04",
+      "age": 33,
+      "caps": 55,
+      "goals": 4,
+      "club_from_squad_table": "Huracán",
+      "wikipedia_title": "Óscar Romero (footballer)",
+      "date_of_birth": "1992-07-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Huracán",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q15960512",
+      "qid": "Q15960512",
+      "name": "Óscar Romero",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q47062",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 176.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q914086",
+          "start": "2011-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q276533",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q172020",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q223620",
+          "start": "2017-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q223620",
+      "image_filename": "Óscar Romero 20180612 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%93scar_Romero_(footballer)",
+      "transfermarkt_id": "217886",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Fernando de la Mora",
+      "wikidata_current_club": "Deportivo Alavés",
+      "wikidata_current_club_qid": "Q223620",
+      "photo": {
+        "filename": "Óscar Romero 20180612 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/%C3%93scar_Romero_20180612_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/%C3%93scar_Romero_20180612_%28cropped%29.jpg",
+        "width": 395,
+        "height": 618,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Lokomotive74\" title=\"User:Lokomotive74\">El Loko</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/óscar-romero.jpg"
+      }
+    },
+    {
+      "slug": "ángel-romero",
+      "display_name": "Ángel Romero",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1992-07-04",
+      "age": 33,
+      "caps": 51,
+      "goals": 8,
+      "club_from_squad_table": "Boca Juniors",
+      "wikipedia_title": "Ángel Romero (footballer)",
+      "date_of_birth": "1992-07-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Boca Juniors",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q15960510",
+      "qid": "Q15960510",
+      "name": "Ángel Romero",
+      "description": "Paraguayan footballer (born 1992)",
+      "place_of_birth_qid": "Q47062",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 177.0,
+      "weight_kg": 73.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q35933",
+          "start": "2014-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q914086",
+          "start": "2011-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q172020",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q207373",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q207373",
+      "image_filename": "RomeroCorinthians2018A.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81ngel_Romero_(footballer)",
+      "transfermarkt_id": "262262",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Fernando de la Mora",
+      "wikidata_current_club": "Club Social y Deportivo Colo Colo",
+      "wikidata_current_club_qid": "Q207373",
+      "photo": {
+        "filename": "RomeroCorinthians2018A.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/RomeroCorinthians2018A.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RomeroCorinthians2018A.jpg/960px-RomeroCorinthians2018A.jpg",
+        "width": 1131,
+        "height": 2074,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/27902642@N03\">Renato Gizzi</a> from Guarulhos",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ángel-romero.jpg"
+      }
+    },
+    {
+      "slug": "antonio-sanabria",
+      "display_name": "Antonio Sanabria",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-03-04",
+      "age": 30,
+      "caps": 47,
+      "goals": 7,
+      "club_from_squad_table": "Cremonese",
+      "wikipedia_title": "Antonio Sanabria",
+      "date_of_birth": "1996-03-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cremonese",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q10856523",
+      "qid": "Q10856523",
+      "name": "Antonio Sanabria",
+      "description": "footballer",
+      "place_of_birth_qid": "Q938739",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 76.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2739",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q12278",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q10467",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q8603",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q3590745",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3328932",
+          "start": "2013-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q172020",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q10467",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q8603",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q8723",
+          "start": "2016-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8723",
+      "image_filename": "Antonio Sanabria, 2025 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_Sanabria",
+      "transfermarkt_id": "234523",
+      "fifa_player_id": "369768",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "San Lorenzo",
+      "wikidata_current_club": "Real Betis Balompié",
+      "wikidata_current_club_qid": "Q8723",
+      "photo": {
+        "filename": "Antonio Sanabria, 2025 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Antonio_Sanabria%2C_2025_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Antonio_Sanabria%2C_2025_%28cropped%29.jpg",
+        "width": 769,
+        "height": 1021,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Antonio0403&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Antonio0403 (page does not exist)\">Antonio0403</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/antonio-sanabria.jpg"
+      }
+    },
+    {
+      "slug": "julio-enciso",
+      "display_name": "Julio Enciso",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2004-01-23",
+      "age": 22,
+      "caps": 31,
+      "goals": 4,
+      "club_from_squad_table": "Strasbourg",
+      "wikipedia_title": "Julio Enciso (footballer, born 2004)",
+      "date_of_birth": "2004-01-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Strasbourg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q85872272",
+      "qid": "Q85872272",
+      "name": "Julio César Enciso",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q733",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 1.68,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q848642",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q848642",
+      "image_filename": "Enciso 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Julio_Enciso_(footballer,_born_2004)",
+      "transfermarkt_id": "660867",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Paraguay",
+      "wikidata_current_club": "Club Libertad",
+      "wikidata_current_club_qid": "Q848642",
+      "photo": {
+        "filename": "Enciso 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Enciso_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Enciso_2022.jpg",
+        "width": 271,
+        "height": 581,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "jamesboyes",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/julio-enciso.jpg"
+      }
+    },
+    {
+      "slug": "gabriel-ávalos",
+      "display_name": "Gabriel Ávalos",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1991-07-09",
+      "age": 34,
+      "caps": 22,
+      "goals": 2,
+      "club_from_squad_table": "Independiente",
+      "wikipedia_title": "Gabriel Ávalos",
+      "date_of_birth": "1991-07-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Independiente",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q14592575",
+      "qid": "Q14592575",
+      "name": "Gabriel Ávalos",
+      "description": "Paraguayan footballer",
+      "place_of_birth_qid": "Q1985377",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 187.0,
+      "position_qids": [
+        "Q3446915",
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1773830",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q220621",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1773830",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel_%C3%81valos",
+      "transfermarkt_id": "358418",
+      "wikidata_date_of_birth": "1990-10-12",
+      "positions": [
+        "attacker",
+        "forward"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Edelira",
+      "wikidata_current_club": "Club Atlético Patronato",
+      "wikidata_current_club_qid": "Q1773830",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "carlos-gonzález",
+      "display_name": "Carlos González",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1993-02-04",
+      "age": 33,
+      "caps": 15,
+      "goals": 0,
+      "club_from_squad_table": "Independiente del Valle",
+      "wikipedia_title": "Carlos González (footballer, born 1993)",
+      "date_of_birth": "1993-02-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Independiente del Valle",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16543245",
+      "qid": "Q16543245",
+      "name": "Carlos González",
+      "description": "Paraguayan Footballer",
+      "place_of_birth_qid": "Q288685",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 76.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3296621",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q515425",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q719338",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1143000",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q30115947",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q3296621",
+      "image_filename": "Carlos Gonzalez xolos.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Gonz%C3%A1lez_(footballer,_born_1993)",
+      "transfermarkt_id": "366620",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Villarrica",
+      "wikidata_current_club": "San Marcos de Arica",
+      "wikidata_current_club_qid": "Q3296621",
+      "photo": {
+        "filename": "Carlos Gonzalez xolos.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Carlos_Gonzalez_xolos.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Carlos_Gonzalez_xolos.jpg",
+        "width": 557,
+        "height": 683,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Philip.theiss&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Philip.theiss (page does not exist)\">Philip.theiss</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/carlos-gonzález.jpg"
+      }
+    },
+    {
+      "slug": "álex-arce",
+      "display_name": "Álex Arce",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1995-06-16",
+      "age": 30,
+      "caps": 14,
+      "goals": 1,
+      "club_from_squad_table": "Independiente Rivadavia",
+      "wikipedia_title": "Álex Arce",
+      "date_of_birth": "1995-06-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Independiente Rivadavia",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q118935199",
+      "qid": "Q118935199",
+      "name": "Alex Arce",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q1035409",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 187.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lex_Arce",
+      "transfermarkt_id": "970518",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Carapeguá",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "adam-bareiro",
+      "display_name": "Adam Bareiro",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-07-26",
+      "age": 29,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Boca Juniors",
+      "wikipedia_title": "Adam Bareiro",
+      "date_of_birth": "1996-07-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Boca Juniors",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60286902",
+      "qid": "Q60286902",
+      "name": "Adam Bareiro",
+      "description": "Paraguayan association football player",
+      "place_of_birth_qid": "Q1093634",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 184.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q603101",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q15799",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q603101",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Adam_Bareiro",
+      "transfermarkt_id": "514120",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Villa monica alritmo",
+      "wikidata_current_club": "Club Nacional",
+      "wikidata_current_club_qid": "Q603101",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "lorenzo-melgarejo",
+      "display_name": "Lorenzo Melgarejo",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1990-08-10",
+      "age": 35,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Libertad",
+      "wikipedia_title": "Lorenzo Melgarejo",
+      "date_of_birth": "1990-08-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Libertad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q963953",
+      "qid": "Q963953",
+      "name": "Lorenzo Melgarejo",
+      "description": "Paraguayan footballer",
+      "place_of_birth_qid": "Q2411023",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 171.0,
+      "weight_kg": 61.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q29103",
+          "start": "2013-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q1900225",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q604589",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q602815",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q371136",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q7387221",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q29112",
+          "start": "2016-02-08",
+          "end": null
+        },
+        {
+          "team_qid": "Q3328932",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q172020",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3328932",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        }
+      ],
+      "current_club_qid": "Q29112",
+      "image_filename": "Lorenzo Melgarejo 2012.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lorenzo_Melgarejo",
+      "transfermarkt_id": "127822",
+      "fifa_player_id": "314107",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Loma Grande District",
+      "wikidata_current_club": "Spartak Moscow",
+      "wikidata_current_club_qid": "Q29112",
+      "photo": {
+        "filename": "Lorenzo Melgarejo 2012.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lorenzo_Melgarejo_2012.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lorenzo_Melgarejo_2012.jpg",
+        "width": 758,
+        "height": 666,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Садовников Дмитрий",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lorenzo-melgarejo.jpg"
+      }
+    },
+    {
+      "slug": "isidro-pitta",
+      "display_name": "Isidro Pitta",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-08-14",
+      "age": 26,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Red Bull Bragantino",
+      "wikipedia_title": "Isidro Pitta",
+      "date_of_birth": "1999-08-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Red Bull Bragantino",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q99096411",
+      "qid": "Q99096411",
+      "name": "Isidro Pitta",
+      "description": "Paraguayan footballer",
+      "place_of_birth_qid": "Q2933",
+      "height_cm": 183.0,
+      "image_filename": "Isidro-Pitta-Juventude-Corinthians-jun-2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Isidro_Pitta",
+      "transfermarkt_id": "675178",
+      "place_of_birth": "Asunción",
+      "photo": {
+        "filename": "Isidro-Pitta-Juventude-Corinthians-jun-2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Isidro-Pitta-Juventude-Corinthians-jun-2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Isidro-Pitta-Juventude-Corinthians-jun-2022.jpg",
+        "width": 430,
+        "height": 585,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "SOCCER DIGITAL",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/isidro-pitta.jpg"
+      }
+    },
+    {
+      "slug": "ronaldo-martínez",
+      "display_name": "Ronaldo Martínez",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-04-25",
+      "age": 30,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Talleres",
+      "wikipedia_title": "Ronaldo Martínez (footballer)",
+      "date_of_birth": "1996-04-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Talleres",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q118189132",
+      "qid": "Q118189132",
+      "name": "Ronaldo Martínez",
+      "description": "Paraguayan footballer",
+      "place_of_birth_qid": "Q2377309",
+      "citizenship_qids": [
+        "Q717"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ronaldo_Mart%C3%ADnez_(footballer)",
+      "transfermarkt_id": "567736",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Venezuela"
+      ],
+      "place_of_birth": "Eusebio Ayala",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "gustavo-caballero",
+      "display_name": "Gustavo Caballero",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-09-21",
+      "age": 24,
+      "caps": 2,
+      "goals": 1,
+      "club_from_squad_table": "Portsmouth",
+      "wikipedia_title": "Gustavo Caballero",
+      "date_of_birth": "2001-09-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Portsmouth",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q127179158",
+      "qid": "Q127179158",
+      "name": "Gustavo Caballero",
+      "description": "Paraguayan footballer",
+      "place_of_birth_qid": "Q938739",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 178.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gustavo_Caballero",
+      "transfermarkt_id": "891672",
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "San Lorenzo",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "robert-morales",
+      "display_name": "Robert Morales",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-03-17",
+      "age": 27,
+      "caps": 2,
+      "goals": 1,
+      "club_from_squad_table": "UNAM",
+      "wikipedia_title": "Robert Morales (footballer)",
+      "date_of_birth": "1999-03-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "UNAM",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q106685298",
+      "qid": "Q106685298",
+      "name": "Robert Morales",
+      "description": "Paraguayan footballer",
+      "place_of_birth_qid": "Q840962",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Morales_(footballer)",
+      "transfermarkt_id": "832340",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "Concepción",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "adrián-alcaraz",
+      "display_name": "Adrián Alcaraz",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-09-28",
+      "age": 26,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Olimpia",
+      "wikipedia_title": null,
+      "date_of_birth": "1999-09-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Olimpia",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      },
+      "identity_review": {
+        "status": "no-unambiguous-wikidata-qid",
+        "reviewed_at": "2026-05-25",
+        "reason": "No Wikidata exact-label or Transfermarkt-ID item found for the Olimpia forward."
+      }
+    },
+    {
+      "slug": "rodney-redes",
+      "display_name": "Rodney Redes",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-02-22",
+      "age": 26,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "LDU Quito",
+      "wikipedia_title": "Rodney Redes",
+      "date_of_birth": "2000-02-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "LDU Quito",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q86878740",
+      "qid": "Q86878740",
+      "name": "Rodney Redes",
+      "description": "Paraguayan footballer",
+      "place_of_birth_qid": "Q376227",
+      "citizenship_qids": [
+        "Q733"
+      ],
+      "height_cm": 173.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q605044",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q60643348",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q605044",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        }
+      ],
+      "current_club_qid": "Q60643348",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rodney_Redes",
+      "transfermarkt_id": "664546",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Paraguay"
+      ],
+      "place_of_birth": "La Colmena",
+      "wikidata_current_club": "Austin FC",
+      "wikidata_current_club_qid": "Q60643348",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    }
+  ],
+  "notes": [
+    "Paraguay photo/QID audit 2026-05-24: verifier found no clean Wikimedia portrait for 30 no-photo rows. Alcides Benítez and Adrián Alcaraz have no confirmed Wikidata item; external identities are Transfermarkt 980793 and 975188 respectively. Alcides Benítez canonical DOB corrected to 2002-06-28 from Transfermarkt/BDFutbol/eswiki, while squad_table_date_of_birth preserves the imported 2002-06-08 value."
+  ]
+}

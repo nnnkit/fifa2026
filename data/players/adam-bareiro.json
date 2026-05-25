@@ -1,0 +1,58 @@
+{
+  "slug": "adam-bareiro",
+  "display_name": "Adam Bareiro",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1996-07-26",
+  "age": 29,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "Boca Juniors",
+  "wikipedia_title": "Adam Bareiro",
+  "date_of_birth": "1996-07-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Boca Juniors",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q60286902",
+  "qid": "Q60286902",
+  "name": "Adam Bareiro",
+  "description": "Paraguayan association football player",
+  "place_of_birth_qid": "Q1093634",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 184.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q603101",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q15799",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q603101",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Adam_Bareiro",
+  "transfermarkt_id": "514120",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Villa monica alritmo",
+  "wikidata_current_club": "Club Nacional",
+  "wikidata_current_club_qid": "Q603101",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "shehab-ellethy",
+  "display_name": "Shehab Ellethy",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2000-04-18",
+  "age": 26,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Al-Shahaniya",
+  "wikipedia_title": "Shehab Ellethy",
+  "date_of_birth": "2000-04-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Shahaniya",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q54232975",
+  "qid": "Q54232975",
+  "name": "Shehab Ellethy",
+  "description": "association football player",
+  "place_of_birth_qid": "Q846",
+  "citizenship_qids": [
+    "Q846"
+  ],
+  "height_cm": 1.83,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1056948",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1056948",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Shehab_Ellethy",
+  "transfermarkt_id": "589101",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Qatar"
+  ],
+  "place_of_birth": "Qatar",
+  "wikidata_current_club": "Al-Duhail SC",
+  "wikidata_current_club_qid": "Q1056948",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

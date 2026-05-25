@@ -1,0 +1,94 @@
+{
+  "slug": "alexander-isak",
+  "display_name": "Alexander Isak",
+  "shirt_no": 9,
+  "position_code": "FW",
+  "dob": "1999-09-21",
+  "age": 26,
+  "caps": 56,
+  "goals": 16,
+  "club_from_squad_table": "Liverpool",
+  "wikipedia_title": "Alexander Isak",
+  "date_of_birth": "1999-09-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Liverpool",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q23759917",
+  "qid": "Q23759917",
+  "name": "Alexander Isak",
+  "description": "Swedish footballer (born 1999)",
+  "place_of_birth_qid": "Q109010",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 192.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q221602",
+      "start": "2016-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q160826",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q332664",
+      "start": "2019-01-00",
+      "end": "2019-06-00"
+    },
+    {
+      "team_qid": "Q10315",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q18716",
+      "start": "2022-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q1130849",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1130849",
+  "image_filename": "UEFA EURO qualifiers Sweden vs Spain 20191015 Alexander Isak 56 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Isak",
+  "transfermarkt_id": "349066",
+  "fifa_player_id": "201449682",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Solna Municipality",
+  "wikidata_current_club": "Liverpool F.C.",
+  "wikidata_current_club_qid": "Q1130849",
+  "photo": {
+    "filename": "UEFA EURO qualifiers Sweden vs Spain 20191015 Alexander Isak 56 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_Alexander_Isak_56_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_Alexander_Isak_56_%28cropped%29.jpg/960px-UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_Alexander_Isak_56_%28cropped%29.jpg",
+    "width": 1193,
+    "height": 1651,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Rolandhino1\" title=\"User:Rolandhino1\">Rolandhino1</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/alexander-isak.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

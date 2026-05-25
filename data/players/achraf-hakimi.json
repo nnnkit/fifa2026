@@ -1,0 +1,96 @@
+{
+  "slug": "achraf-hakimi",
+  "display_name": "Achraf Hakimi",
+  "shirt_no": 2,
+  "position_code": "DF",
+  "dob": "1998-11-04",
+  "age": 27,
+  "caps": 95,
+  "goals": 11,
+  "club_from_squad_table": "Paris Saint-Germain",
+  "wikipedia_title": "Achraf Hakimi",
+  "date_of_birth": "1998-11-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Paris Saint-Germain",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26932598",
+  "qid": "Q26932598",
+  "name": "Achraf Hakimi",
+  "description": "Moroccan association football player",
+  "place_of_birth_qid": "Q2807",
+  "citizenship_qids": [
+    "Q29",
+    "Q1028"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 69.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q12217",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q207337",
+      "start": "2016-10-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2017-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q631",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2686567",
+      "start": "2016-06-00",
+      "end": "2024-00-00"
+    }
+  ],
+  "current_club_qid": "Q483020",
+  "image_filename": "Achraf Hakimi vs Niger, 5 Sept 2025.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Achraf_Hakimi",
+  "transfermarkt_id": "398073",
+  "fifa_player_id": "400721",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Spain",
+    "Morocco"
+  ],
+  "place_of_birth": "Madrid",
+  "wikidata_current_club": "Paris Saint-Germain FC",
+  "wikidata_current_club_qid": "Q483020",
+  "photo": {
+    "filename": "Achraf Hakimi vs Niger, 5 Sept 2025.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Achraf_Hakimi_vs_Niger%2C_5_Sept_2025.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Achraf_Hakimi_vs_Niger%2C_5_Sept_2025.jpg/960px-Achraf_Hakimi_vs_Niger%2C_5_Sept_2025.jpg",
+    "width": 1261,
+    "height": 1635,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Laloumance",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/achraf-hakimi.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

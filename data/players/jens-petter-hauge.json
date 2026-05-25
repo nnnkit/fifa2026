@@ -1,0 +1,80 @@
+{
+  "slug": "jens-petter-hauge",
+  "display_name": "Jens Petter Hauge",
+  "shirt_no": 23,
+  "position_code": "MF",
+  "dob": "1999-10-12",
+  "age": 26,
+  "caps": 14,
+  "goals": 1,
+  "club_from_squad_table": "Bod\u00f8/Glimt",
+  "wikipedia_title": "Jens Petter Hauge",
+  "date_of_birth": "1999-10-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bod\u00f8/Glimt",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q24007299",
+  "qid": "Q24007299",
+  "name": "Jens Petter Hauge",
+  "description": "Norwegian association football player",
+  "place_of_birth_qid": "Q39383",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q336286",
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q478167",
+      "start": "2016-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q214992",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1543",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q478167",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q478167",
+  "image_filename": "2022128171253 2022-05-08 Fussball Eintracht Frankfurt vs Borussia M\u00f6nchengladbach - Sven - 1D X MK II - 2064 - B70I8175 (Jens Petter Hauge cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jens_Petter_Hauge",
+  "transfermarkt_id": "422355",
+  "fifa_player_id": "201493817",
+  "positions": [
+    "defender",
+    "midfielder"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "Bod\u00f8",
+  "wikidata_current_club": "FK Bod\u00f8/Glimt",
+  "wikidata_current_club_qid": "Q478167",
+  "photo": {
+    "filename": "2022128171253 2022-05-08 Fussball Eintracht Frankfurt vs Borussia M\u00f6nchengladbach - Sven - 1D X MK II - 2064 - B70I8175 (Jens Petter Hauge cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/2022128171253_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2064_-_B70I8175_%28Jens_Petter_Hauge_cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/2022128171253_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2064_-_B70I8175_%28Jens_Petter_Hauge_cropped%29.jpg",
+    "width": 873,
+    "height": 1165,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Sven Mandel",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jens-petter-hauge.jpg"
+  },
+  "team_slug": "norway",
+  "team_country": "Norway"
+}

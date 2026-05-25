@@ -1,0 +1,32 @@
+{
+  "slug": "aqtay-abdallah",
+  "display_name": "Aqtay Abdallah",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2003-06-01",
+  "age": 23,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "ENPPI",
+  "wikipedia_title": null,
+  "date_of_birth": "2003-06-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "ENPPI",
+  "current_club_source": "wikipedia-squad-table",
+  "team_slug": "egypt",
+  "team_country": "Egypt",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "wikidata_review": {
+    "status": "no-confirmed-qid",
+    "reviewed_at": "2026-05-24",
+    "note": "Verifier found no confirmed Wikidata item for this squad-table player."
+  },
+  "identity_review": {
+    "status": "no-unambiguous-wikidata-qid",
+    "reviewed_at": "2026-05-25",
+    "reason": "No Wikidata exact-label or Transfermarkt-ID item found for the ENPPI forward."
+  }
+}

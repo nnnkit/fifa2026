@@ -1,0 +1,54 @@
+{
+  "slug": "elye-wahi",
+  "display_name": "Elye Wahi",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2003-01-02",
+  "age": 23,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Nice",
+  "wikipedia_title": "Elye Wahi",
+  "date_of_birth": "2003-01-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Nice",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q104215027",
+  "qid": "Q104215027",
+  "name": "Elye Wahi",
+  "description": "Ivorian association football player (born 2003)",
+  "place_of_birth_qid": "Q1138493",
+  "citizenship_qids": [
+    "Q142",
+    "Q1008"
+  ],
+  "height_cm": 181.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "image_filename": "Elye Wahi 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Elye_Wahi",
+  "transfermarkt_id": "659542",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "France",
+    "Ivory Coast"
+  ],
+  "place_of_birth": "Courcouronnes",
+  "photo": {
+    "filename": "Elye Wahi 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Elye_Wahi_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Elye_Wahi_2022.jpg/960px-Elye_Wahi_2022.jpg",
+    "width": 974,
+    "height": 1080,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "MHSC TV - Montpellier Hérault Sport Club",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/elye-wahi.jpg"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

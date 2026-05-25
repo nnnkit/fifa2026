@@ -1,0 +1,2196 @@
+{
+  "slug": "new-zealand",
+  "country": "New Zealand",
+  "wikidata_qid": "Q136682891",
+  "fetched_at": "2026-05-24T16:42:31+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "max-crocombe",
+      "display_name": "Max Crocombe",
+      "shirt_no": 1,
+      "position_code": "GK",
+      "dob": "1993-08-12",
+      "age": 32,
+      "caps": 22,
+      "goals": 0,
+      "club_from_squad_table": "Millwall",
+      "wikipedia_title": "Max Crocombe",
+      "date_of_birth": "1993-08-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Millwall",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q6794678",
+      "qid": "Q6794678",
+      "name": "Max Crocombe",
+      "description": "New Zealand footballer",
+      "place_of_birth_qid": "Q37100",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 194.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18525",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q4983239",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q48946",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q18524",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q9408",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3720046",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q510953",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18525",
+      "image_filename": "Max Crocombe.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Max_Crocombe",
+      "transfermarkt_id": "207843",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Auckland",
+      "wikidata_current_club": "Southport F.C.",
+      "wikidata_current_club_qid": "Q18525",
+      "photo": {
+        "filename": "Max Crocombe.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Max_Crocombe.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Max_Crocombe.png",
+        "width": 500,
+        "height": 600,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sixtrap&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sixtrap (page does not exist)\">Kane Brooker</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/max-crocombe.png"
+      }
+    },
+    {
+      "slug": "tim-payne",
+      "display_name": "Tim Payne",
+      "shirt_no": 2,
+      "position_code": "DF",
+      "dob": "1994-01-10",
+      "age": 32,
+      "caps": 50,
+      "goals": 3,
+      "club_from_squad_table": "Wellington Phoenix",
+      "wikipedia_title": "Tim Payne (footballer)",
+      "date_of_birth": "1994-01-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Wellington Phoenix",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q2642525",
+      "qid": "Q2642525",
+      "name": "Tim Payne",
+      "description": "New Zealand footballer",
+      "place_of_birth_qid": "Q37100",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 179.0,
+      "weight_kg": 73.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19446",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q630544",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q611885",
+          "start": "2010-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q630544",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q18343817",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3590285",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q3720046",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q510953",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q175315",
+          "start": "2012-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18343817",
+      "image_filename": "Tim Payne - Wellington Phoenix.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Payne_(footballer)",
+      "transfermarkt_id": "149901",
+      "fifa_player_id": "331463",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Auckland",
+      "wikidata_current_club": "Portland Timbers 2",
+      "wikidata_current_club_qid": "Q18343817",
+      "photo": {
+        "filename": "Tim Payne - Wellington Phoenix.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Tim_Payne_-_Wellington_Phoenix.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Tim_Payne_-_Wellington_Phoenix.jpg/960px-Tim_Payne_-_Wellington_Phoenix.jpg",
+        "width": 2740,
+        "height": 3828,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/tim-payne.jpg"
+      },
+      "squad_table_caps": 49,
+      "caps_source": "nz-football-official-squad-2026-05-14"
+    },
+    {
+      "slug": "francis-de-vries",
+      "display_name": "Francis de Vries",
+      "shirt_no": 3,
+      "position_code": "DF",
+      "dob": "1994-11-28",
+      "age": 31,
+      "caps": 18,
+      "goals": 1,
+      "club_from_squad_table": "Auckland FC",
+      "wikipedia_title": "Francis de Vries",
+      "date_of_birth": "1994-11-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Auckland FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q29113776",
+      "qid": "Q29113776",
+      "name": "Francis de Vries",
+      "description": "New Zealand association football player",
+      "place_of_birth_qid": "Q79990",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3856892",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1133590",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q538793",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q3856892",
+      "image_filename": "Francis de Vries.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_de_Vries",
+      "transfermarkt_id": "207061",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Christchurch",
+      "wikidata_current_club": "Flint City Bucks",
+      "wikidata_current_club_qid": "Q3856892",
+      "photo": {
+        "filename": "Francis de Vries.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Francis_de_Vries.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Francis_de_Vries.jpg/500px-Francis_de_Vries.jpg",
+        "width": 856,
+        "height": 2032,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/francis-de-vries.jpg"
+      }
+    },
+    {
+      "slug": "tyler-bindon",
+      "display_name": "Tyler Bindon",
+      "shirt_no": 4,
+      "position_code": "DF",
+      "dob": "2005-01-27",
+      "age": 21,
+      "caps": 23,
+      "goals": 3,
+      "club_from_squad_table": "Sheffield United",
+      "wikipedia_title": "Tyler Bindon",
+      "date_of_birth": "2005-01-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sheffield United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q121353909",
+      "qid": "Q121353909",
+      "name": "Tyler Bindon",
+      "description": "English footballer (born 2005)",
+      "place_of_birth_qid": "Q37100",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18729",
+          "start": "2023-08-00",
+          "end": "2025-02-00"
+        },
+        {
+          "team_qid": "Q175315",
+          "start": "2023-10-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q510953",
+          "start": "2024-07-00",
+          "end": "2024-07-00"
+        },
+        {
+          "team_qid": "Q91906315",
+          "start": "2023-03-00",
+          "end": "2023-03-00"
+        },
+        {
+          "team_qid": "Q19490",
+          "start": "2025-02-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18729",
+          "start": "2025-02-00",
+          "end": "2025-06-00"
+        },
+        {
+          "team_qid": "Q19607",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19607",
+      "image_filename": "Tyler Bindon.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tyler_Bindon",
+      "transfermarkt_id": "1007720",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Auckland",
+      "wikidata_current_club": "Sheffield United F.C.",
+      "wikidata_current_club_qid": "Q19607",
+      "photo": {
+        "filename": "Tyler Bindon.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Tyler_Bindon.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tyler_Bindon.jpg/500px-Tyler_Bindon.jpg",
+        "width": 616,
+        "height": 1700,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/tyler-bindon.jpg"
+      }
+    },
+    {
+      "slug": "michael-boxall",
+      "display_name": "Michael Boxall",
+      "shirt_no": 5,
+      "position_code": "DF",
+      "dob": "1988-08-18",
+      "age": 37,
+      "caps": 61,
+      "goals": 1,
+      "club_from_squad_table": "Minnesota United FC",
+      "wikipedia_title": "Michael Boxall",
+      "date_of_birth": "1988-08-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Minnesota United FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q524730",
+      "qid": "Q524730",
+      "name": "Michael Boxall",
+      "description": "New Zealand footballer",
+      "place_of_birth_qid": "Q37100",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q815890",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q5365185",
+          "start": "2006-00-00",
+          "end": "2006-00-00"
+        },
+        {
+          "team_qid": "Q166141",
+          "start": "2007-00-00",
+          "end": "2007-00-00"
+        },
+        {
+          "team_qid": "Q630544",
+          "start": "2006-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q196107",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q7914272",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q7914272",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q7074109",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q18397899",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1281608",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3720046",
+          "start": "2005-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q510953",
+          "start": "2007-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q175315",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q19828435",
+          "start": "2017-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19828435",
+      "image_filename": "Michael Boxall - MNUFC - MLS - new zealand - (52125271279).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Boxall",
+      "transfermarkt_id": "81723",
+      "fifa_player_id": "261367",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Auckland",
+      "photo": {
+        "filename": "Michael Boxall - MNUFC - MLS - new zealand - (52125271279).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Michael_Boxall_-_MNUFC_-_MLS_-_new_zealand_-_%2852125271279%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Michael_Boxall_-_MNUFC_-_MLS_-_new_zealand_-_%2852125271279%29.jpg/960px-Michael_Boxall_-_MNUFC_-_MLS_-_new_zealand_-_%2852125271279%29.jpg",
+        "width": 7862,
+        "height": 5102,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/42878734@N06\">Andy Witchger</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/michael-boxall.jpg"
+      }
+    },
+    {
+      "slug": "joe-bell",
+      "display_name": "Joe Bell",
+      "shirt_no": 6,
+      "position_code": "MF",
+      "dob": "1999-04-27",
+      "age": 27,
+      "caps": 31,
+      "goals": 1,
+      "club_from_squad_table": "Viking",
+      "wikipedia_title": "Joe Bell (footballer)",
+      "date_of_birth": "1999-04-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Viking",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64433070",
+      "qid": "Q64433070",
+      "name": "Joe Bell",
+      "description": "New Zealand association football player",
+      "place_of_birth_qid": "Q23154",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q211177",
+          "start": "2020-01-00",
+          "end": "2021-01-00"
+        },
+        {
+          "team_qid": "Q211906",
+          "start": "2022-02-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q175315",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q211906",
+      "image_filename": "Joe Bell 2023.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Bell_(footballer)",
+      "transfermarkt_id": "345700",
+      "fifa_player_id": "390181",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Bristol",
+      "wikidata_current_club": "Brøndby IF",
+      "wikidata_current_club_qid": "Q211906",
+      "photo": {
+        "filename": "Joe Bell 2023.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Joe_Bell_2023.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Joe_Bell_2023.jpg",
+        "width": 675,
+        "height": 885,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "3point.dk",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/joe-bell.jpg"
+      }
+    },
+    {
+      "slug": "matthew-garbett",
+      "display_name": "Matthew Garbett",
+      "shirt_no": 7,
+      "position_code": "MF",
+      "dob": "2002-04-13",
+      "age": 24,
+      "caps": 36,
+      "goals": 5,
+      "club_from_squad_table": "Peterborough United",
+      "wikipedia_title": "Matthew Garbett",
+      "date_of_birth": "2002-04-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Peterborough United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q96091702",
+      "qid": "Q96091702",
+      "name": "Matthew Garbett",
+      "description": "New Zealand association football player",
+      "place_of_birth_qid": "Q84",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q175315",
+          "start": "2021-10-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1394197",
+          "start": "2020-00-00",
+          "end": "2021-08-00"
+        },
+        {
+          "team_qid": "Q2768",
+          "start": "2021-08-00",
+          "end": "2023-06-00"
+        },
+        {
+          "team_qid": "Q332642",
+          "start": "2023-01-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q332642",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Matthew_Garbett",
+      "transfermarkt_id": "617019",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "London",
+      "wikidata_current_club": "NAC Breda",
+      "wikidata_current_club_qid": "Q332642",
+      "squad_table_caps": 35,
+      "caps_source": "nz-football-official-squad-2026-05-14",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "marko-stamenić",
+      "display_name": "Marko Stamenić",
+      "shirt_no": 8,
+      "position_code": "MF",
+      "dob": "2002-02-19",
+      "age": 24,
+      "caps": 37,
+      "goals": 3,
+      "club_from_squad_table": "Swansea City",
+      "wikipedia_title": "Marko Stamenić",
+      "date_of_birth": "2002-02-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Swansea City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q102257634",
+      "qid": "Q102257634",
+      "name": "Marko Stamenic",
+      "description": "New Zealand association football player",
+      "place_of_birth_qid": "Q23661",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 1.88,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q188430",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q188430",
+      "image_filename": "FC Zenit Saint Petersburg vs. Red Star Belgrade, 4 July 2023 (50).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marko_Stameni%C4%87",
+      "transfermarkt_id": "617018",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Wellington",
+      "wikidata_current_club": "F.C. Copenhagen",
+      "wikidata_current_club_qid": "Q188430",
+      "photo": {
+        "filename": "FC Zenit Saint Petersburg vs. Red Star Belgrade, 4 July 2023 (50).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/FC_Zenit_Saint_Petersburg_vs._Red_Star_Belgrade%2C_4_July_2023_%2850%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/FC_Zenit_Saint_Petersburg_vs._Red_Star_Belgrade%2C_4_July_2023_%2850%29.jpg/960px-FC_Zenit_Saint_Petersburg_vs._Red_Star_Belgrade%2C_4_July_2023_%2850%29.jpg",
+        "width": 1575,
+        "height": 1050,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Вячеслав Евдокимов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marko-stamenić.jpg"
+      }
+    },
+    {
+      "slug": "chris-wood",
+      "display_name": "Chris Wood",
+      "shirt_no": 9,
+      "position_code": "FW",
+      "dob": "1991-12-07",
+      "age": 34,
+      "caps": 88,
+      "goals": 45,
+      "club_from_squad_table": "Nottingham Forest",
+      "wikipedia_title": "Chris Wood (footballer, born 1991)",
+      "date_of_birth": "1991-12-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nottingham Forest",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q74548",
+      "qid": "Q74548",
+      "name": "Chris Wood",
+      "description": "New Zealand association football player",
+      "place_of_birth_qid": "Q37100",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 191.0,
+      "weight_kg": 82.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19444",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q19456",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q18744",
+          "start": "2009-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q19481",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1855082",
+          "start": "2007-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q5645234",
+          "start": "2008-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q19442",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q19487",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q9653",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q19481",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1128631",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590285",
+          "start": "2007-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q510953",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q175315",
+          "start": "2009-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q19458",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1128631",
+      "image_filename": "Chris Wood (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Wood_(footballer,_born_1991)",
+      "transfermarkt_id": "108725",
+      "fifa_player_id": "274078",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Auckland",
+      "wikidata_current_club": "Leeds United F.C.",
+      "wikidata_current_club_qid": "Q1128631",
+      "photo": {
+        "filename": "Chris Wood (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Chris_Wood_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chris_Wood_%28cropped%29.jpg/960px-Chris_Wood_%28cropped%29.jpg",
+        "width": 1604,
+        "height": 2552,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sebalston&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sebalston (page does not exist)\">Sebalston</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/chris-wood.jpg"
+      }
+    },
+    {
+      "slug": "sarpreet-singh",
+      "display_name": "Sarpreet Singh",
+      "shirt_no": 10,
+      "position_code": "MF",
+      "dob": "1999-02-20",
+      "age": 27,
+      "caps": 26,
+      "goals": 3,
+      "club_from_squad_table": "Wellington Phoenix",
+      "wikipedia_title": "Sarpreet Singh",
+      "date_of_birth": "1999-02-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Wellington Phoenix",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28800473",
+      "qid": "Q28800473",
+      "name": "Sarpreet Singh",
+      "description": "New Zealand association football player",
+      "place_of_birth_qid": "Q37100",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 1.75,
+      "weight_kg": 65.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q815890",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q994701",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q142005",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q142005",
+      "image_filename": "Sarpreet Singh Training 2019-07-28 FC Bayern Munich.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sarpreet_Singh",
+      "transfermarkt_id": "350357",
+      "fifa_player_id": "309209",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Auckland",
+      "wikidata_current_club": "F.C. Hansa Rostock",
+      "wikidata_current_club_qid": "Q142005",
+      "photo": {
+        "filename": "Sarpreet Singh Training 2019-07-28 FC Bayern Munich.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sarpreet_Singh_Training_2019-07-28_FC_Bayern_Munich.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sarpreet_Singh_Training_2019-07-28_FC_Bayern_Munich.png",
+        "width": 662,
+        "height": 929,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mrsmiis&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mrsmiis (page does not exist)\">Mrsmiis</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/sarpreet-singh.png"
+      }
+    },
+    {
+      "slug": "elijah-just",
+      "display_name": "Elijah Just",
+      "shirt_no": 11,
+      "position_code": "MF",
+      "dob": "2000-05-01",
+      "age": 26,
+      "caps": 42,
+      "goals": 9,
+      "club_from_squad_table": "Motherwell",
+      "wikipedia_title": "Elijah Just",
+      "date_of_birth": "2000-05-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Motherwell",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64031850",
+      "qid": "Q64031850",
+      "name": "Elijah Just",
+      "description": "New Zealand association football player",
+      "place_of_birth_qid": "Q212289",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 174.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3046573",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q5424959",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q289286",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q175315",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q289286",
+      "image_filename": "Elijah Just.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Elijah_Just",
+      "transfermarkt_id": "485672",
+      "fifa_player_id": "405454",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Palmerston North",
+      "wikidata_current_club": "AC Horsens",
+      "wikidata_current_club_qid": "Q289286",
+      "photo": {
+        "filename": "Elijah Just.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Elijah_Just.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Elijah_Just.jpg/960px-Elijah_Just.jpg",
+        "width": 1200,
+        "height": 2796,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/elijah-just.jpg"
+      }
+    },
+    {
+      "slug": "alex-paulsen",
+      "display_name": "Alex Paulsen",
+      "shirt_no": 12,
+      "position_code": "GK",
+      "dob": "2002-07-04",
+      "age": 23,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Lechia Gdańsk",
+      "wikipedia_title": "Alex Paulsen",
+      "date_of_birth": "2002-07-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lechia Gdańsk",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107558242",
+      "qid": "Q107558242",
+      "name": "Alex Paulsen",
+      "description": "New Zealand association football player",
+      "place_of_birth_qid": "Q37100",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 193.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18397899",
+          "start": "2018-10-00",
+          "end": "2021-02-00"
+        },
+        {
+          "team_qid": "Q2744301",
+          "start": "2021-03-00",
+          "end": "2021-09-00"
+        },
+        {
+          "team_qid": "Q815890",
+          "start": "2021-09-00",
+          "end": "2024-06-00"
+        },
+        {
+          "team_qid": "Q19568",
+          "start": "2024-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q123717355",
+          "start": "2024-08-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590285",
+          "start": "2018-09-00",
+          "end": "2019-11-00"
+        },
+        {
+          "team_qid": "Q20993912",
+          "start": "2019-09-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q175315",
+          "start": "2024-06-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q510953",
+          "start": "2024-08-00",
+          "end": "2024-08-00"
+        }
+      ],
+      "current_club_qid": "Q123717355",
+      "image_filename": "Alex Paulsen.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Paulsen",
+      "transfermarkt_id": "617009",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Auckland",
+      "wikidata_current_club": "Auckland FC",
+      "wikidata_current_club_qid": "Q123717355",
+      "photo": {
+        "filename": "Alex Paulsen.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Alex_Paulsen.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Alex_Paulsen.jpg",
+        "width": 642,
+        "height": 962,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alex-paulsen.jpg"
+      }
+    },
+    {
+      "slug": "liberato-cacace",
+      "display_name": "Liberato Cacace",
+      "shirt_no": 13,
+      "position_code": "DF",
+      "dob": "2000-09-27",
+      "age": 25,
+      "caps": 35,
+      "goals": 1,
+      "club_from_squad_table": "Wrexham",
+      "wikipedia_title": "Liberato Cacace",
+      "date_of_birth": "2000-09-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Wrexham",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q47544166",
+      "qid": "Q47544166",
+      "name": "Liberato Cacace",
+      "description": "New Zealand association football player",
+      "place_of_birth_qid": "Q23661",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 1.83,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q815890",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q815890",
+      "image_filename": "Liberato Cacace 30082025 (1).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Liberato_Cacace",
+      "transfermarkt_id": "469211",
+      "fifa_player_id": "405469",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Wellington",
+      "wikidata_current_club": "Wellington Phoenix FC",
+      "wikidata_current_club_qid": "Q815890",
+      "photo": {
+        "filename": "Liberato Cacace 30082025 (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Liberato_Cacace_30082025_%281%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Liberato_Cacace_30082025_%281%29.jpg/960px-Liberato_Cacace_30082025_%281%29.jpg",
+        "width": 2205,
+        "height": 4520,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/liberato-cacace.jpg"
+      }
+    },
+    {
+      "slug": "alex-rufer",
+      "display_name": "Alex Rufer",
+      "shirt_no": 14,
+      "position_code": "MF",
+      "dob": "1996-06-12",
+      "age": 29,
+      "caps": 24,
+      "goals": 0,
+      "club_from_squad_table": "Wellington Phoenix",
+      "wikipedia_title": "Alex Rufer",
+      "date_of_birth": "1996-06-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Wellington Phoenix",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16239766",
+      "qid": "Q16239766",
+      "name": "Alex Rufer",
+      "description": "New Zealand footballer",
+      "place_of_birth_qid": "Q23661",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q815890",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1811079",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3565169",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q18397899",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q175315",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18397899",
+      "image_filename": "Alex Rufer.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Rufer",
+      "transfermarkt_id": "256019",
+      "fifa_player_id": "371142",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Wellington",
+      "wikidata_current_club": "Wellington Phoenix FC Reserves",
+      "wikidata_current_club_qid": "Q18397899",
+      "photo": {
+        "filename": "Alex Rufer.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Alex_Rufer.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Alex_Rufer.jpg",
+        "width": 818,
+        "height": 1701,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alex-rufer.jpg"
+      }
+    },
+    {
+      "slug": "nando-pijnaker",
+      "display_name": "Nando Pijnaker",
+      "shirt_no": 15,
+      "position_code": "DF",
+      "dob": "1999-02-25",
+      "age": 27,
+      "caps": 23,
+      "goals": 0,
+      "club_from_squad_table": "Auckland FC",
+      "wikipedia_title": "Nando Pijnaker",
+      "date_of_birth": "1999-02-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Auckland FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64031855",
+      "qid": "Q64031855",
+      "name": "Nando Pijnaker",
+      "description": "New Zealand association football player",
+      "place_of_birth_qid": "Q109535",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 192.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3046573",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q3046573",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nando_Pijnaker",
+      "transfermarkt_id": "455425",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Zutphen",
+      "wikidata_current_club": "Eastern Suburbs AFC",
+      "wikidata_current_club_qid": "Q3046573",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "finn-surman",
+      "display_name": "Finn Surman",
+      "shirt_no": 16,
+      "position_code": "DF",
+      "dob": "2003-09-23",
+      "age": 22,
+      "caps": 17,
+      "goals": 2,
+      "club_from_squad_table": "Portland Timbers",
+      "wikipedia_title": "Finn Surman",
+      "date_of_birth": "2003-09-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Portland Timbers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q109968695",
+      "qid": "Q109968695",
+      "name": "Finn Surman",
+      "description": "New Zealand footballer",
+      "place_of_birth_qid": "Q79990",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q107564181",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q175315",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18397899",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q2744301",
+          "start": "2021-01-00",
+          "end": "2021-06-00"
+        },
+        {
+          "team_qid": "Q815890",
+          "start": "2021-07-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q1031200",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1031200",
+      "image_filename": "Finn Surman.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Finn_Surman",
+      "transfermarkt_id": "724809",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Christchurch",
+      "photo": {
+        "filename": "Finn Surman.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Finn_Surman.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Finn_Surman.jpg/960px-Finn_Surman.jpg",
+        "width": 1693,
+        "height": 2324,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Macosal&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Macosal (page does not exist)\">Macosal</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/finn-surman.jpg"
+      }
+    },
+    {
+      "slug": "kosta-barbarouses",
+      "display_name": "Kosta Barbarouses",
+      "shirt_no": 17,
+      "position_code": "FW",
+      "dob": "1990-02-19",
+      "age": 36,
+      "caps": 74,
+      "goals": 10,
+      "club_from_squad_table": "Western Sydney Wanderers",
+      "wikipedia_title": "Kosta Barbarouses",
+      "date_of_birth": "1990-02-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Western Sydney Wanderers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q771396",
+      "qid": "Q771396",
+      "name": "Kosta Barbarouses",
+      "description": "New Zealand footballer",
+      "place_of_birth_qid": "Q23661",
+      "citizenship_qids": [
+        "Q41",
+        "Q664"
+      ],
+      "height_cm": 171.0,
+      "weight_kg": 71.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q4122219",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q240438",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q542455",
+          "start": "2005-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q815890",
+          "start": "2007-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q839997",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q6722667",
+          "start": "2008-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q3590285",
+          "start": "2006-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q510953",
+          "start": "2008-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q175315",
+          "start": "2008-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q316789",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3720046",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q316789",
+      "image_filename": "New Zealand-Portugal (24) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kosta_Barbarouses",
+      "transfermarkt_id": "50200",
+      "fifa_player_id": "269592",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Greece",
+        "New Zealand"
+      ],
+      "place_of_birth": "Wellington",
+      "wikidata_current_club": "Melbourne Victory FC",
+      "wikidata_current_club_qid": "Q316789",
+      "photo": {
+        "filename": "New Zealand-Portugal (24) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/New_Zealand-Portugal_%2824%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/New_Zealand-Portugal_%2824%29_%28cropped%29.jpg",
+        "width": 600,
+        "height": 882,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Кирилл Венедиктов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kosta-barbarouses.jpg"
+      }
+    },
+    {
+      "slug": "ben-waine",
+      "display_name": "Ben Waine",
+      "shirt_no": 18,
+      "position_code": "FW",
+      "dob": "2001-06-11",
+      "age": 25,
+      "caps": 30,
+      "goals": 9,
+      "club_from_squad_table": "Port Vale",
+      "wikipedia_title": "Ben Waine",
+      "date_of_birth": "2001-06-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Port Vale",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q62629839",
+      "qid": "Q62629839",
+      "name": "Ben Waine",
+      "description": "New Zealand association football player",
+      "place_of_birth_qid": "Q23661",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q815890",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q175315",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q510953",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q48947",
+          "start": "2023-01-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q48947",
+      "image_filename": "Ben Waine.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ben_Waine",
+      "transfermarkt_id": "539502",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Wellington",
+      "wikidata_current_club": "Plymouth Argyle F.C.",
+      "wikidata_current_club_qid": "Q48947",
+      "photo": {
+        "filename": "Ben Waine.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Ben_Waine.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Ben_Waine.jpg",
+        "width": 828,
+        "height": 1636,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:EchetusXe&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:EchetusXe (page does not exist)\">EchetusXe</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ben-waine.jpg"
+      }
+    },
+    {
+      "slug": "ben-old",
+      "display_name": "Ben Old",
+      "shirt_no": 19,
+      "position_code": "MF",
+      "dob": "2002-08-13",
+      "age": 23,
+      "caps": 22,
+      "goals": 2,
+      "club_from_squad_table": "Saint-Étienne",
+      "wikipedia_title": "Ben Old",
+      "date_of_birth": "2002-08-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Saint-Étienne",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q106939313",
+      "qid": "Q106939313",
+      "name": "Ben Old",
+      "description": "New Zealand footballer",
+      "place_of_birth_qid": "Q37100",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 173.0,
+      "position_qids": [
+        "Q1369558"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18397899",
+          "start": "2019-07-00",
+          "end": "2021-02-00"
+        },
+        {
+          "team_qid": "Q2744301",
+          "start": "2021-03-00",
+          "end": "2021-09-00"
+        },
+        {
+          "team_qid": "Q815890",
+          "start": "2021-09-00",
+          "end": "2024-07-00"
+        },
+        {
+          "team_qid": "Q19521",
+          "start": "2024-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590285",
+          "start": "2018-09-00",
+          "end": "2019-11-00"
+        },
+        {
+          "team_qid": "Q20993912",
+          "start": "2023-03-00",
+          "end": "2023-03-00"
+        },
+        {
+          "team_qid": "Q175315",
+          "start": "2022-03-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19521",
+      "image_filename": "Ben Old playing for Wellington v Perth, March 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ben_Old",
+      "transfermarkt_id": "617021",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Auckland",
+      "wikidata_current_club": "AS Saint-Étienne",
+      "wikidata_current_club_qid": "Q19521",
+      "photo": {
+        "filename": "Ben Old playing for Wellington v Perth, March 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Ben_Old_playing_for_Wellington_v_Perth%2C_March_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ben_Old_playing_for_Wellington_v_Perth%2C_March_2022.jpg/960px-Ben_Old_playing_for_Wellington_v_Perth%2C_March_2022.jpg",
+        "width": 1621,
+        "height": 3363,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Macosal&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Macosal (page does not exist)\">Macosal</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ben-old.jpg"
+      }
+    },
+    {
+      "slug": "callum-mccowatt",
+      "display_name": "Callum McCowatt",
+      "shirt_no": 20,
+      "position_code": "MF",
+      "dob": "1999-04-30",
+      "age": 27,
+      "caps": 30,
+      "goals": 4,
+      "club_from_squad_table": "Silkeborg",
+      "wikipedia_title": "Callum McCowatt",
+      "date_of_birth": "1999-04-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Silkeborg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q50829202",
+      "qid": "Q50829202",
+      "name": "Callum McCowatt",
+      "description": "New Zealand association football player",
+      "place_of_birth_qid": "Q37100",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q630544",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q630544",
+      "image_filename": "Callum McCowatt playing for New Zealand, 26 March 2023 (2) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Callum_McCowatt",
+      "transfermarkt_id": "400797",
+      "fifa_player_id": "390196",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Auckland",
+      "wikidata_current_club": "Auckland City FC",
+      "wikidata_current_club_qid": "Q630544",
+      "photo": {
+        "filename": "Callum McCowatt playing for New Zealand, 26 March 2023 (2) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Callum_McCowatt_playing_for_New_Zealand%2C_26_March_2023_%282%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Callum_McCowatt_playing_for_New_Zealand%2C_26_March_2023_%282%29_%28cropped%29.jpg/960px-Callum_McCowatt_playing_for_New_Zealand%2C_26_March_2023_%282%29_%28cropped%29.jpg",
+        "width": 1291,
+        "height": 1440,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/callum-mccowatt.jpg"
+      }
+    },
+    {
+      "slug": "jesse-randall",
+      "display_name": "Jesse Randall",
+      "shirt_no": 21,
+      "position_code": "FW",
+      "dob": "2002-08-19",
+      "age": 23,
+      "caps": 9,
+      "goals": 2,
+      "club_from_squad_table": "Auckland FC",
+      "wikipedia_title": "Jesse Randall",
+      "date_of_birth": "2002-08-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Auckland FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q118287620",
+      "qid": "Q118287620",
+      "name": "Jesse Randall",
+      "description": "New Zealand footballer (born 2002)",
+      "place_of_birth_qid": "Q23661",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 176.0,
+      "position_qids": [
+        "Q1369558"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q6083002",
+          "start": "2018-01-00",
+          "end": "2018-12-00"
+        },
+        {
+          "team_qid": "Q7057214",
+          "start": "2019-01-00",
+          "end": "2019-06-00"
+        },
+        {
+          "team_qid": "Q21756881",
+          "start": "2019-07-00",
+          "end": "2020-09-00"
+        },
+        {
+          "team_qid": "Q1247436",
+          "start": "2020-10-00",
+          "end": "2021-03-00"
+        },
+        {
+          "team_qid": "Q7057214",
+          "start": "2021-04-00",
+          "end": "2022-03-00"
+        },
+        {
+          "team_qid": "Q3559228",
+          "start": "2022-03-00",
+          "end": "2023-03-00"
+        },
+        {
+          "team_qid": "Q1066683",
+          "start": "2023-03-00",
+          "end": "2023-12-00"
+        },
+        {
+          "team_qid": "Q3559228",
+          "start": "2024-01-00",
+          "end": "2024-06-00"
+        },
+        {
+          "team_qid": "Q123717355",
+          "start": "2024-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590285",
+          "start": "2019-05-00",
+          "end": "2019-11-00"
+        },
+        {
+          "team_qid": "Q20993912",
+          "start": "2023-03-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q175315",
+          "start": "2024-06-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q510953",
+          "start": "2024-08-00",
+          "end": "2024-08-00"
+        }
+      ],
+      "current_club_qid": "Q123717355",
+      "image_filename": "Jesse Randall.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jesse_Randall",
+      "transfermarkt_id": "677509",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Wellington",
+      "photo": {
+        "filename": "Jesse Randall.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Jesse_Randall.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Jesse_Randall.jpg/500px-Jesse_Randall.jpg",
+        "width": 864,
+        "height": 2324,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jesse-randall.jpg"
+      }
+    },
+    {
+      "slug": "michael-woud",
+      "display_name": "Michael Woud",
+      "shirt_no": 22,
+      "position_code": "GK",
+      "dob": "1999-01-16",
+      "age": 27,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Auckland FC",
+      "wikipedia_title": "Michael Woud",
+      "date_of_birth": "1999-01-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Auckland FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q54862548",
+      "qid": "Q54862548",
+      "name": "Michael Woud",
+      "description": "New Zealand association football player",
+      "place_of_birth_qid": "Q37100",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 194.0,
+      "position_qids": [
+        "Q172964"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q332664",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q332664",
+      "image_filename": "Michael Woud.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Woud",
+      "transfermarkt_id": "350347",
+      "fifa_player_id": "390218",
+      "uefa_player_id": "45028",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Auckland",
+      "wikidata_current_club": "Willem II",
+      "wikidata_current_club_qid": "Q332664",
+      "photo": {
+        "filename": "Michael Woud.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Michael_Woud.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Michael_Woud.jpg/960px-Michael_Woud.jpg",
+        "width": 1178,
+        "height": 1928,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/michael-woud.jpg"
+      }
+    },
+    {
+      "slug": "ryan-thomas",
+      "display_name": "Ryan Thomas",
+      "shirt_no": 23,
+      "position_code": "MF",
+      "dob": "1994-12-20",
+      "age": 31,
+      "caps": 25,
+      "goals": 3,
+      "club_from_squad_table": "PEC Zwolle",
+      "wikipedia_title": "Ryan Thomas (footballer)",
+      "date_of_birth": "1994-12-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "PEC Zwolle",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q3943100",
+      "qid": "Q3943100",
+      "name": "Ryan Thomas",
+      "description": "New Zealand footballer",
+      "place_of_birth_qid": "Q1020244",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 174.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1855082",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q2659901",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q269151",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q175315",
+          "start": "2014-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3720046",
+          "start": "2013-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q269151",
+      "image_filename": "Ryan thomas-1444759971.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Thomas_(footballer)",
+      "transfermarkt_id": "203357",
+      "fifa_player_id": "336641",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Te Puke",
+      "photo": {
+        "filename": "Ryan thomas-1444759971.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Ryan_thomas-1444759971.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Ryan_thomas-1444759971.png",
+        "width": 534,
+        "height": 662,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Klaas Jilderda",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ryan-thomas.png"
+      }
+    },
+    {
+      "slug": "callan-elliot",
+      "display_name": "Callan Elliot",
+      "shirt_no": 24,
+      "position_code": "DF",
+      "dob": "1999-07-07",
+      "age": 26,
+      "caps": 9,
+      "goals": 0,
+      "club_from_squad_table": "Auckland FC",
+      "wikipedia_title": "Callan Elliot",
+      "date_of_birth": "1999-07-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Auckland FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q62006806",
+      "qid": "Q62006806",
+      "name": "Callan Elliot",
+      "description": "New Zealand association football player",
+      "place_of_birth_qid": "Q22",
+      "citizenship_qids": [
+        "Q664"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q815890",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q815890",
+      "image_filename": "Callan Elliot.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Callan_Elliot",
+      "transfermarkt_id": "482204",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "New Zealand"
+      ],
+      "place_of_birth": "Scotland",
+      "wikidata_current_club": "Wellington Phoenix FC",
+      "wikidata_current_club_qid": "Q815890",
+      "photo": {
+        "filename": "Callan Elliot.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Callan_Elliot.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Callan_Elliot.jpg/960px-Callan_Elliot.jpg",
+        "width": 1040,
+        "height": 2560,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/callan-elliot.jpg"
+      }
+    },
+    {
+      "slug": "lachlan-bayliss",
+      "display_name": "Lachlan Bayliss",
+      "shirt_no": 25,
+      "position_code": "MF",
+      "dob": "2002-07-24",
+      "age": 23,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Newcastle Jets",
+      "wikipedia_title": "Lachlan Bayliss",
+      "date_of_birth": "2002-07-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Newcastle Jets",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q123571870",
+      "qid": "Q123571870",
+      "name": "Lachlan Bayliss",
+      "description": "Australian association footballer",
+      "citizenship_qids": [
+        "Q664",
+        "Q408"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q90326494"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q762294",
+          "start": "2023-01-00",
+          "end": "2023-06-00"
+        },
+        {
+          "team_qid": "Q732929",
+          "start": "2023-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q510953",
+          "start": "2024-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q732929",
+      "image_filename": "Lachlan Bayliss.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lachlan_Bayliss",
+      "transfermarkt_id": "1109358",
+      "positions": [
+        "attacking midfielder"
+      ],
+      "citizenship": [
+        "New Zealand",
+        "Australia"
+      ],
+      "wikidata_current_club": "Newcastle Jets FC",
+      "wikidata_current_club_qid": "Q732929",
+      "photo": {
+        "filename": "Lachlan Bayliss.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Lachlan_Bayliss.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Lachlan_Bayliss.jpg/500px-Lachlan_Bayliss.jpg",
+        "width": 804,
+        "height": 1568,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lachlan-bayliss.jpg"
+      }
+    },
+    {
+      "slug": "tommy-smith",
+      "display_name": "Tommy Smith",
+      "shirt_no": 26,
+      "position_code": "DF",
+      "dob": "1990-03-31",
+      "age": 36,
+      "caps": 56,
+      "goals": 2,
+      "club_from_squad_table": "Braintree Town",
+      "wikipedia_title": "Tommy Smith (footballer, born 1990)",
+      "date_of_birth": "1990-03-31",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Braintree Town",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q462503",
+      "qid": "Q462503",
+      "name": "Tommy Smith",
+      "description": "New Zealand footballer",
+      "place_of_birth_qid": "Q868637",
+      "citizenship_qids": [
+        "Q664",
+        "Q145"
+      ],
+      "height_cm": 187.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q268258",
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q9653",
+          "start": "2007-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q19578",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q19571",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q9426",
+          "start": "2008-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q2752922",
+          "start": "2007-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q1049171",
+          "start": "2008-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q175315",
+          "start": "2010-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q9653",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q642408",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q642408",
+      "image_filename": "Tommy Smith - It 8.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tommy_Smith_(footballer,_born_1990)",
+      "transfermarkt_id": "54381",
+      "fifa_player_id": "274102",
+      "positions": [
+        "centre-back",
+        "full-back"
+      ],
+      "citizenship": [
+        "New Zealand",
+        "United Kingdom"
+      ],
+      "place_of_birth": "Macclesfield",
+      "wikidata_current_club": "Colorado Rapids",
+      "wikidata_current_club_qid": "Q642408",
+      "photo": {
+        "filename": "Tommy Smith - It 8.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Tommy_Smith_-_It_8.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tommy_Smith_-_It_8.jpg/960px-Tommy_Smith_-_It_8.jpg",
+        "width": 3648,
+        "height": 2736,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a href=\"https://en.wikipedia.org/wiki/User:Just-an-Ipswich-fan\" class=\"extiw\" title=\"en:User:Just-an-Ipswich-fan\">Just-an-Ipswich-fan</a> (<a href=\"https://en.wikipedia.org/wiki/User_talk:Just-an-Ipswich-fan\" class=\"extiw\" title=\"en:User talk:Just-an-Ipswich-fan\">talk</a>)",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/tommy-smith.jpg"
+      }
+    }
+  ],
+  "notes": [
+    "New Zealand row/QID/photo audit 2026-05-24: verifier confirmed all 26 squad-table rows and QID identities. Official NZ Football squad article lists Tim Payne at 50 caps and Matt/Matthew Garbett at 36 caps, so those caps override the Wikipedia table while squad_table_caps preserves the table values. Tyler Bindon remains Sheffield United because the tournament table uses last competitive/loan club while the NZ Football article lists parent club Nottingham Forest. Matthew Garbett and Nando Pijnaker had no clean Wikimedia portrait, P18 image, or pageimage and are marked reviewed-none."
+  ]
+}

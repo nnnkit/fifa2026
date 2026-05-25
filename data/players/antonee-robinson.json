@@ -1,0 +1,75 @@
+{
+  "slug": "antonee-robinson",
+  "display_name": "Antonee Robinson",
+  "shirt_no": 5,
+  "position_code": "DF",
+  "dob": "1997-08-08",
+  "age": 28,
+  "caps": 52,
+  "goals": 4,
+  "club_from_squad_table": "Fulham",
+  "wikipedia_title": "Antonee Robinson",
+  "date_of_birth": "1997-08-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Fulham",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q35778151",
+  "qid": "Q35778151",
+  "name": "Antonee Robinson",
+  "description": "American-English soccer player",
+  "place_of_birth_qid": "Q204234",
+  "citizenship_qids": [
+    "Q30",
+    "Q145"
+  ],
+  "height_cm": 1.83,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q164134",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q5794",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q18750",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q5794",
+  "image_filename": "Antonee Robinson WC2022 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Antonee_Robinson",
+  "transfermarkt_id": "349701",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "United States",
+    "United Kingdom"
+  ],
+  "place_of_birth": "Milton Keynes",
+  "wikidata_current_club": "Everton F.C.",
+  "wikidata_current_club_qid": "Q5794",
+  "photo": {
+    "filename": "Antonee Robinson WC2022 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Antonee_Robinson_WC2022_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Antonee_Robinson_WC2022_%28cropped%29.jpg",
+    "width": 278,
+    "height": 391,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Hossein Zohrevand",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/antonee-robinson.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

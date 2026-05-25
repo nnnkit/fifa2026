@@ -1,0 +1,104 @@
+{
+  "slug": "aziz-behich",
+  "display_name": "Aziz Behich",
+  "shirt_no": 16,
+  "position_code": "DF",
+  "dob": "1990-12-16",
+  "age": 35,
+  "caps": 82,
+  "goals": 3,
+  "club_from_squad_table": "Melbourne City",
+  "wikipedia_title": "Aziz Behich",
+  "date_of_birth": "1990-12-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Melbourne City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q2947963",
+  "qid": "Q2947963",
+  "name": "Aziz Behich",
+  "description": "Australian association football player",
+  "place_of_birth_qid": "Q1586921",
+  "citizenship_qids": [
+    "Q408"
+  ],
+  "height_cm": 172.0,
+  "weight_kg": 66.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q203573",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q2005622",
+      "start": "2008-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q5940588",
+      "start": "2010-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q3589775",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q268208",
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q316789",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q748725",
+      "start": "2010-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q748725",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q316789",
+      "start": "2010-01-01",
+      "end": "2010-01-01"
+    }
+  ],
+  "current_club_qid": "Q748725",
+  "image_filename": "Aziz Behich.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aziz_Behich",
+  "transfermarkt_id": "136834",
+  "fifa_player_id": "349342",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Australia"
+  ],
+  "place_of_birth": "Moonee Ponds",
+  "wikidata_current_club": "Melbourne City FC",
+  "wikidata_current_club_qid": "Q748725",
+  "photo": {
+    "filename": "Aziz Behich.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Aziz_Behich.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Aziz_Behich.jpg",
+    "width": 831,
+    "height": 1200,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Camw\" title=\"User:Camw\">Camw</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/aziz-behich.jpg"
+  },
+  "team_slug": "australia",
+  "team_country": "Australia"
+}

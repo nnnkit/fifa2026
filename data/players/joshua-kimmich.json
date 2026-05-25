@@ -1,0 +1,81 @@
+{
+  "slug": "joshua-kimmich",
+  "display_name": "Joshua Kimmich",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1995-02-08",
+  "age": 31,
+  "caps": 108,
+  "goals": 10,
+  "club_from_squad_table": "Bayern Munich",
+  "wikipedia_title": "Joshua Kimmich",
+  "date_of_birth": "1995-02-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayern Munich",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q13865408",
+  "qid": "Q13865408",
+  "name": "Joshua Kimmich",
+  "description": "German association football player (born 1995)",
+  "place_of_birth_qid": "Q82960",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 177.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q193592",
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q702455",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q314851",
+      "start": "2014-01-01",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q43310",
+      "start": "2016-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q15789",
+  "image_filename": "FC Red Bull Salzburg gegen Bayern München (2025-01-06 Testspiel) 30.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joshua_Kimmich",
+  "transfermarkt_id": "161056",
+  "fifa_player_id": "386413",
+  "positions": [
+    "midfielder",
+    "defender"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Rottweil",
+  "wikidata_current_club": "FC Bayern Munich",
+  "wikidata_current_club_qid": "Q15789",
+  "photo": {
+    "filename": "FC Red Bull Salzburg gegen Bayern München (2025-01-06 Testspiel) 30.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_30.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_30.jpg/960px-FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_30.jpg",
+    "width": 3447,
+    "height": 4000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/joshua-kimmich.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

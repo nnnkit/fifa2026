@@ -1,0 +1,73 @@
+{
+  "slug": "hiroki-it\u014d",
+  "display_name": "Hiroki It\u014d",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-05-12",
+  "age": 27,
+  "caps": 23,
+  "goals": 1,
+  "club_from_squad_table": "Bayern Munich",
+  "wikipedia_title": "Hiroki It\u014d (footballer, born 1999)",
+  "date_of_birth": "1999-05-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayern Munich",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q30933054",
+  "qid": "Q30933054",
+  "name": "Hiroki It\u014d",
+  "description": "Japanese association football player (born 1999)",
+  "place_of_birth_qid": "Q185125",
+  "citizenship_qids": [
+    "Q17"
+  ],
+  "height_cm": 1.88,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q249662",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q855401",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q4512",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q249662",
+  "image_filename": "Hiroki Ito VfB Stuttgart.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hiroki_It%C5%8D_(footballer,_born_1999)",
+  "transfermarkt_id": "353892",
+  "uefa_player_id": "19488",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Japan"
+  ],
+  "place_of_birth": "Hamamatsu",
+  "wikidata_current_club": "Nagoya Grampus",
+  "wikidata_current_club_qid": "Q249662",
+  "photo": {
+    "filename": "Hiroki Ito VfB Stuttgart.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Hiroki_Ito_VfB_Stuttgart.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Hiroki_Ito_VfB_Stuttgart.jpg",
+    "width": 642,
+    "height": 800,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">Jeollo von VfB-exklusiv.de</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/hiroki-it\u014d.jpg"
+  },
+  "team_slug": "japan",
+  "team_country": "Japan"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "léo-pereira",
+  "display_name": "Léo Pereira",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-01-31",
+  "age": 30,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Flamengo",
+  "wikipedia_title": "Léo Pereira (footballer, born 1996)",
+  "date_of_birth": "1996-01-31",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Flamengo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18199184",
+  "qid": "Q18199184",
+  "name": "Léo Pereira",
+  "description": "Brazilian footballer",
+  "place_of_birth_qid": "Q4361",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 186.0,
+  "weight_kg": 76.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q506832",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2590133",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q2402747",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2308235",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q506832",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q506832",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q506832",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/L%C3%A9o_Pereira_(footballer,_born_1996)",
+  "transfermarkt_id": "288431",
+  "fifa_player_id": "371956",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "Curitiba",
+  "wikidata_current_club": "Club Athletico Paranaense",
+  "wikidata_current_club_qid": "Q506832",
+  "team_slug": "brazil",
+  "team_country": "Brazil",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+  }
+}

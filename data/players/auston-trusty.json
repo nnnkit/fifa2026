@@ -1,0 +1,97 @@
+{
+  "slug": "auston-trusty",
+  "display_name": "Auston Trusty",
+  "shirt_no": 2,
+  "position_code": "DF",
+  "dob": "1998-08-12",
+  "age": 27,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "Celtic",
+  "wikipedia_title": "Auston Trusty",
+  "date_of_birth": "1998-08-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Celtic",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q24007335",
+  "qid": "Q24007335",
+  "name": "Auston Trusty",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q1187804",
+  "citizenship_qids": [
+    "Q30"
+  ],
+  "height_cm": 191.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q21070839",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q689874",
+      "start": "2016-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q21070839",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q642408",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590570",
+      "start": "2015-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q91906315",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q287804",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q3590572",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q642408",
+  "image_filename": "Dsc 5720 29430463257 o (50120746293) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Auston_Trusty",
+  "transfermarkt_id": "389253",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "United States"
+  ],
+  "place_of_birth": "Media",
+  "wikidata_current_club": "Colorado Rapids",
+  "wikidata_current_club_qid": "Q642408",
+  "photo": {
+    "filename": "Dsc 5720 29430463257 o (50120746293) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Dsc_5720_29430463257_o_%2850120746293%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dsc_5720_29430463257_o_%2850120746293%29_%28cropped%29.jpg/960px-Dsc_5720_29430463257_o_%2850120746293%29_%28cropped%29.jpg",
+    "width": 1289,
+    "height": 1911,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/10457902@N08\">All-Pro Reels</a> from District of Columbia, USA",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/auston-trusty.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "adem-arous",
+  "display_name": "Adem Arous",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2004-07-17",
+  "age": 21,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Kasımpaşa",
+  "wikipedia_title": "Adem Arous",
+  "date_of_birth": "2004-07-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Kasımpaşa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q136092007",
+  "qid": "Q136092007",
+  "name": "Adem Arous",
+  "description": "Tunisian association football player (born 2004)",
+  "place_of_birth_qid": "Q35484",
+  "citizenship_qids": [
+    "Q948"
+  ],
+  "height_cm": 188.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Adem_Arous",
+  "transfermarkt_id": "1071742",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Tunisia"
+  ],
+  "place_of_birth": "Medina",
+  "team_slug": "tunisia",
+  "team_country": "Tunisia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

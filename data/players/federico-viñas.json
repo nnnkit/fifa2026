@@ -1,0 +1,77 @@
+{
+  "slug": "federico-vi\u00f1as",
+  "display_name": "Federico Vi\u00f1as",
+  "shirt_no": 19,
+  "position_code": "FW",
+  "dob": "1998-06-30",
+  "age": 27,
+  "caps": 11,
+  "goals": 2,
+  "club_from_squad_table": "Oviedo",
+  "wikipedia_title": "Federico Vi\u00f1as",
+  "date_of_birth": "1998-06-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Oviedo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q62594816",
+  "qid": "Q62594816",
+  "name": "Federico Vi\u00f1as",
+  "description": "Uruguayan footballer",
+  "place_of_birth_qid": "Q1335",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 1.83,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q217644",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q459090",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q633223",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q271574",
+      "start": "2024-08-28",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q271574",
+  "image_filename": "Federico Vi\u00f1as.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Federico_Vi%C3%B1as",
+  "transfermarkt_id": "578419",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Montevideo",
+  "wikidata_current_club": "Real Oviedo",
+  "wikidata_current_club_qid": "Q271574",
+  "photo": {
+    "filename": "Federico Vi\u00f1as.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Federico_Vi%C3%B1as.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Federico_Vi%C3%B1as.jpg",
+    "width": 782,
+    "height": 906,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UC3j75twE_C1Y3TKgkN2iffA\">Club Am\u00e9rica</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/federico-vi\u00f1as.jpg"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

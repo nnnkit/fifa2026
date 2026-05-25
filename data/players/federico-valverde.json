@@ -1,0 +1,99 @@
+{
+  "slug": "federico-valverde",
+  "display_name": "Federico Valverde",
+  "shirt_no": 15,
+  "position_code": "MF",
+  "dob": "1998-07-22",
+  "age": 27,
+  "caps": 73,
+  "goals": 9,
+  "club_from_squad_table": "Real Madrid",
+  "wikipedia_title": "Federico Valverde",
+  "date_of_birth": "1998-07-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19509544",
+  "qid": "Q19509544",
+  "name": "Federico Valverde",
+  "description": "Uruguayan professional footballer (born 1998)",
+  "place_of_birth_qid": "Q1335",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q8682",
+      "start": "2018-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3589858",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q12217",
+      "start": "2016-07-00",
+      "end": "2017-07-00"
+    },
+    {
+      "team_qid": "Q2442864",
+      "start": "2016-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q134916",
+      "start": "2017-08-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q16320",
+      "start": "2015-07-23",
+      "end": "2016-07-00"
+    },
+    {
+      "team_qid": "Q8760",
+      "start": "2017-07-00",
+      "end": "2018-06-00"
+    },
+    {
+      "team_qid": "Q20831422",
+      "start": "2015-00-00",
+      "end": "2015-00-00"
+    }
+  ],
+  "current_club_qid": "Q8682",
+  "image_filename": "Federico Valverde 2021 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Federico_Valverde",
+  "transfermarkt_id": "369081",
+  "fifa_player_id": "402884",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Montevideo",
+  "wikidata_current_club": "Real Madrid Club de F\u00fatbol",
+  "wikidata_current_club_qid": "Q8682",
+  "photo": {
+    "filename": "Federico Valverde 2021 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Federico_Valverde_2021_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Federico_Valverde_2021_%28cropped%29.jpg",
+    "width": 895,
+    "height": 680,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Real Madrid",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/federico-valverde.jpg"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

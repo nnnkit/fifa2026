@@ -1,0 +1,67 @@
+{
+  "slug": "dominik-kotarski",
+  "display_name": "Dominik Kotarski",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2000-02-10",
+  "age": 26,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Copenhagen",
+  "wikipedia_title": "Dominik Kotarski",
+  "date_of_birth": "2000-02-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Copenhagen",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q51159914",
+  "qid": "Q51159914",
+  "name": "Dominik Kotarski",
+  "description": "Croatian association football player",
+  "place_of_birth_qid": "Q139018",
+  "citizenship_qids": [
+    "Q224"
+  ],
+  "height_cm": 1.89,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q81888",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q918425",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q81888",
+  "image_filename": "S\u00f8nderjyskE - FC K\u00f8benhavn, 27. September 2025 - j (Dominik Kotarski).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dominik_Kotarski",
+  "transfermarkt_id": "370997",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Croatia"
+  ],
+  "place_of_birth": "Zabok",
+  "wikidata_current_club": "AFC Ajax",
+  "wikidata_current_club_qid": "Q81888",
+  "photo": {
+    "filename": "S\u00f8nderjyskE - FC K\u00f8benhavn, 27. September 2025 - j (Dominik Kotarski).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/S%C3%B8nderjyskE_-_FC_K%C3%B8benhavn%2C_27._September_2025_-_j_%28Dominik_Kotarski%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/S%C3%B8nderjyskE_-_FC_K%C3%B8benhavn%2C_27._September_2025_-_j_%28Dominik_Kotarski%29.jpg",
+    "width": 668,
+    "height": 1140,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Tdn70\" title=\"User:Tdn70\">Thomas Dahlstr\u00f8m Nielsen</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/dominik-kotarski.jpg"
+  },
+  "team_slug": "croatia",
+  "team_country": "Croatia"
+}

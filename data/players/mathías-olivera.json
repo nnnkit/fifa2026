@@ -1,0 +1,86 @@
+{
+  "slug": "math\u00edas-olivera",
+  "display_name": "Math\u00edas Olivera",
+  "shirt_no": 16,
+  "position_code": "DF",
+  "dob": "1997-10-31",
+  "age": 28,
+  "caps": 35,
+  "goals": 2,
+  "club_from_squad_table": "Napoli",
+  "wikipedia_title": "Math\u00edas Olivera",
+  "date_of_birth": "1997-10-31",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Napoli",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q23679804",
+  "qid": "Q23679804",
+  "name": "Math\u00edas Olivera",
+  "description": "Uruguayan association football player",
+  "place_of_birth_qid": "Q1335",
+  "citizenship_qids": [
+    "Q77",
+    "Q29"
+  ],
+  "height_cm": 184.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q499616",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q386543",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q8806",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q576285",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q2442864",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    }
+  ],
+  "current_club_qid": "Q8806",
+  "image_filename": "Math\u00edas Olivera 2017.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Math%C3%ADas_Olivera",
+  "transfermarkt_id": "376514",
+  "fifa_player_id": "402893",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Uruguay",
+    "Spain"
+  ],
+  "place_of_birth": "Montevideo",
+  "wikidata_current_club": "Getafe CF",
+  "wikidata_current_club_qid": "Q8806",
+  "photo": {
+    "filename": "Math\u00edas Olivera 2017.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Math%C3%ADas_Olivera_2017.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Math%C3%ADas_Olivera_2017.jpg/960px-Math%C3%ADas_Olivera_2017.jpg",
+    "width": 2077,
+    "height": 2689,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/75116651@N03\">Agencia de Noticias ANDES</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/math\u00edas-olivera.jpg"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

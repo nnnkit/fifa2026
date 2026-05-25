@@ -1,0 +1,2452 @@
+{
+  "slug": "bosnia-and-herzegovina",
+  "country": "Bosnia and Herzegovina",
+  "wikidata_qid": "Q181190",
+  "fetched_at": "2026-05-24T14:32:57+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "nikola-vasilj",
+      "display_name": "Nikola Vasilj",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1995-12-02",
+      "age": 30,
+      "caps": 25,
+      "goals": 0,
+      "club_from_squad_table": "FC St. Pauli",
+      "wikipedia_title": "Nikola Vasilj",
+      "wikidata_qid": "Q77243490",
+      "qid": "Q77243490",
+      "name": "Nikola Vasilj",
+      "description": "Bosnian association football player",
+      "date_of_birth": "1995-12-02",
+      "place_of_birth_qid": "Q93347",
+      "citizenship_qids": [
+        "Q225",
+        "Q224"
+      ],
+      "height_cm": 193.0,
+      "position_qids": [
+        "Q172964"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q4545849",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q754307",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q399282",
+          "start": "2013-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1388907",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q282164",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q6463",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q6463",
+      "image_filename": "2025-04-23 - FC St Pauli - Nikola Vasilj (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nikola_Vasilj",
+      "transfermarkt_id": "248454",
+      "fifa_player_id": "201187025",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "FC St. Pauli",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Bosnia and Herzegovina",
+        "Croatia"
+      ],
+      "place_of_birth": "Mostar",
+      "photo": {
+        "filename": "2025-04-23 - FC St Pauli - Nikola Vasilj (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/2025-04-23_-_FC_St_Pauli_-_Nikola_Vasilj_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/2025-04-23_-_FC_St_Pauli_-_Nikola_Vasilj_%28cropped%29.jpg",
+        "width": 742,
+        "height": 1111,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lanthan2003&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lanthan2003 (page does not exist)\">Lanthan2003</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nikola-vasilj.jpg"
+      }
+    },
+    {
+      "slug": "martin-zlomislić",
+      "display_name": "Martin Zlomislić",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1998-08-16",
+      "age": 27,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Rijeka",
+      "wikipedia_title": "Martin Zlomislić",
+      "wikidata_qid": "Q83795769",
+      "qid": "Q83795769",
+      "name": "Martin Zlomislić",
+      "description": "Bosnian footballer",
+      "date_of_birth": "1998-08-16",
+      "place_of_birth_qid": "Q932478",
+      "citizenship_qids": [
+        "Q225",
+        "Q224"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q263258",
+          "start": "2017-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q318969",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q318969",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Zlomisli%C4%87",
+      "transfermarkt_id": "495320",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rijeka",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Bosnia and Herzegovina",
+        "Croatia"
+      ],
+      "place_of_birth": "Posušje",
+      "wikidata_current_club": "HNK Rijeka",
+      "wikidata_current_club_qid": "Q318969",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "osman-hadžikić",
+      "display_name": "Osman Hadžikić",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1996-03-12",
+      "age": 30,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Slaven Belupo",
+      "wikipedia_title": "Osman Hadžikić",
+      "wikidata_qid": "Q20656130",
+      "qid": "Q20656130",
+      "name": "Osman Hadzikic",
+      "description": "Bosnian-Austrian association football player",
+      "date_of_birth": "1996-03-12",
+      "place_of_birth_qid": "Q487522",
+      "citizenship_qids": [
+        "Q40",
+        "Q225"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q131209",
+          "start": "2011-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q131209",
+          "start": "2014-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q302977",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q206692",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q723644",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q698702",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q818698",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q368909",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q368909",
+      "image_filename": "Austria national under-21 football team - Teamcamp June 2017 (Osman).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Osman_Had%C5%BEiki%C4%87",
+      "transfermarkt_id": "188881",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Slaven Belupo",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Austria",
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Klosterneuburg",
+      "wikidata_current_club": "NK Slaven Belupo",
+      "wikidata_current_club_qid": "Q368909",
+      "photo": {
+        "filename": "Austria national under-21 football team - Teamcamp June 2017 (Osman).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28Osman%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28Osman%29.jpg",
+        "width": 485,
+        "height": 585,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 10:33, 30 June 2017 (UTC)",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/osman-hadžikić.jpg"
+      }
+    },
+    {
+      "slug": "sead-kolašinac",
+      "display_name": "Sead Kolašinac",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1993-06-20",
+      "age": 32,
+      "caps": 64,
+      "goals": 0,
+      "club_from_squad_table": "Atalanta",
+      "wikipedia_title": "Sead Kolašinac",
+      "wikidata_qid": "Q127914",
+      "qid": "Q127914",
+      "name": "Sead Kolašinac",
+      "description": "Bosnian-German association football player (born 1993)",
+      "date_of_birth": "1993-06-20",
+      "place_of_birth_qid": "Q1040",
+      "citizenship_qids": [
+        "Q183",
+        "Q225"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 82.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q32494",
+          "start": "2012-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3736767",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2016992",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q324854",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q316497",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2017-00-00",
+          "end": "2022-01-18"
+        },
+        {
+          "team_qid": "Q132885",
+          "start": "2022-01-19",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q1886",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q32494",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        }
+      ],
+      "current_club_qid": "Q1886",
+      "image_filename": "1 Sead Kolašinac 2018 (cropped2).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sead_Kola%C5%A1inac",
+      "transfermarkt_id": "94005",
+      "fifa_player_id": "376230",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atalanta",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Germany",
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Karlsruhe",
+      "wikidata_current_club": "Atalanta BC",
+      "wikidata_current_club_qid": "Q1886",
+      "photo": {
+        "filename": "1 Sead Kolašinac 2018 (cropped2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/1_Sead_Kola%C5%A1inac_2018_%28cropped2%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/1_Sead_Kola%C5%A1inac_2018_%28cropped2%29.jpg/960px-1_Sead_Kola%C5%A1inac_2018_%28cropped2%29.jpg",
+        "width": 1174,
+        "height": 1654,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\">Chensiyuan</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/sead-kolašinac.jpg"
+      }
+    },
+    {
+      "slug": "dennis-hadžikadunić",
+      "display_name": "Dennis Hadžikadunić",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-07-09",
+      "age": 27,
+      "caps": 30,
+      "goals": 0,
+      "club_from_squad_table": "Sampdoria",
+      "wikipedia_title": "Dennis Hadžikadunić",
+      "wikidata_qid": "Q27654739",
+      "qid": "Q27654739",
+      "name": "Dennis Hadžikadunić",
+      "description": "Bosnian-Swedish association football player",
+      "date_of_birth": "1998-07-09",
+      "place_of_birth_qid": "Q2211",
+      "citizenship_qids": [
+        "Q34",
+        "Q225"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q204881",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2255267",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q182930",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q818624",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q204881",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q8835",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q51974",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q1457",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1457",
+      "image_filename": "Dennis Hadžikadunić 2021.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dennis_Had%C5%BEikaduni%C4%87",
+      "transfermarkt_id": "322065",
+      "fifa_player_id": "201541165",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sampdoria",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Sweden",
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Malmö",
+      "wikidata_current_club": "U.C. Sampdoria",
+      "wikidata_current_club_qid": "Q1457",
+      "photo": {
+        "filename": "Dennis Hadžikadunić 2021.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dennis_Had%C5%BEikaduni%C4%87_2021.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dennis_Had%C5%BEikaduni%C4%87_2021.jpg",
+        "width": 703,
+        "height": 829,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Артем Гусев",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dennis-hadžikadunić.jpg"
+      }
+    },
+    {
+      "slug": "amar-dedić",
+      "display_name": "Amar Dedić",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-08-18",
+      "age": 23,
+      "caps": 26,
+      "goals": 1,
+      "club_from_squad_table": "Benfica",
+      "wikipedia_title": "Amar Dedić",
+      "wikidata_qid": "Q65948595",
+      "qid": "Q65948595",
+      "name": "Amar Dedić",
+      "description": "Bosnian association football player",
+      "date_of_birth": "2002-08-18",
+      "place_of_birth_qid": "Q187572",
+      "citizenship_qids": [
+        "Q225"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q994811",
+          "start": "2019-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q1387293",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q694484",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q132885",
+          "start": "2025-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q430190",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q844509",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q769512",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q131499",
+      "image_filename": "(2024-09-10 ) FC RB Salzburg gegen SCR Altach 24.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Amar_Dedi%C4%87",
+      "transfermarkt_id": "519184",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Benfica",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Zell am See",
+      "wikidata_current_club": "S.L. Benfica",
+      "wikidata_current_club_qid": "Q131499",
+      "photo": {
+        "filename": "(2024-09-10 ) FC RB Salzburg gegen SCR Altach 24.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/%282024-09-10_%29_FC_RB_Salzburg_gegen_SCR_Altach_24.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%282024-09-10_%29_FC_RB_Salzburg_gegen_SCR_Altach_24.jpg/960px-%282024-09-10_%29_FC_RB_Salzburg_gegen_SCR_Altach_24.jpg",
+        "width": 4123,
+        "height": 4000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/amar-dedić.jpg"
+      }
+    },
+    {
+      "slug": "nikola-katić",
+      "display_name": "Nikola Katić",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-10-10",
+      "age": 29,
+      "caps": 15,
+      "goals": 1,
+      "club_from_squad_table": "Schalke 04",
+      "wikipedia_title": "Nikola Katić",
+      "wikidata_qid": "Q27957334",
+      "qid": "Q27957334",
+      "name": "Nikola Katić",
+      "description": "Bosnian association football player (born 1996)",
+      "date_of_birth": "1996-10-10",
+      "place_of_birth_qid": "Q1018016",
+      "citizenship_qids": [
+        "Q225"
+      ],
+      "height_cm": 194.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19597",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q2331381",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q12637739",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q368909",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q181216",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q206692",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q48947",
+          "start": "2025-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q32494",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q134479",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q32494",
+      "image_filename": "SM-Rangers18 (16).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nikola_Kati%C4%87",
+      "transfermarkt_id": "422051",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Schalke 04",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Ljubuški",
+      "photo": {
+        "filename": "SM-Rangers18 (16).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/SM-Rangers18_%2816%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/SM-Rangers18_%2816%29.jpg",
+        "width": 636,
+        "height": 942,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Антон Зайцев",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nikola-katić.jpg"
+      }
+    },
+    {
+      "slug": "tarik-muharemović",
+      "display_name": "Tarik Muharemović",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-02-28",
+      "age": 23,
+      "caps": 12,
+      "goals": 1,
+      "club_from_squad_table": "Sassuolo",
+      "wikipedia_title": "Tarik Muharemović",
+      "wikidata_qid": "Q106620882",
+      "qid": "Q106620882",
+      "name": "Tarik Muharemović",
+      "description": "Bosnian association football player",
+      "date_of_birth": "2003-02-28",
+      "place_of_birth_qid": "Q437",
+      "citizenship_qids": [
+        "Q215",
+        "Q225"
+      ],
+      "height_cm": 187.0,
+      "teams": [
+        {
+          "team_qid": "Q98307365",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q694484",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q56025745",
+          "start": "2021-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q8603",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q844509",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q769512",
+          "start": "2021-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8603",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tarik_Muharemovi%C4%87",
+      "transfermarkt_id": "679423",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sassuolo",
+      "current_club_source": "wikipedia-squad-table",
+      "citizenship": [
+        "Slovenia",
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Ljubljana",
+      "wikidata_current_club": "US Sassuolo Calcio",
+      "wikidata_current_club_qid": "Q8603",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "nihad-mujakić",
+      "display_name": "Nihad Mujakić",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-04-15",
+      "age": 28,
+      "caps": 10,
+      "goals": 1,
+      "club_from_squad_table": "Gaziantep",
+      "wikipedia_title": "Nihad Mujakić",
+      "wikidata_qid": "Q50623645",
+      "qid": "Q50623645",
+      "name": "Nihad Mujakić",
+      "description": "Bosnian association football player",
+      "date_of_birth": "1998-04-15",
+      "place_of_birth_qid": "Q11194",
+      "citizenship_qids": [
+        "Q225"
+      ],
+      "height_cm": 189.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q239663",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q618620",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q181216",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q509170",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q239663",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q492826",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q188656",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q118919",
+          "start": "2025-00-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q824850",
+          "start": "2026-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q844509",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q769512",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q824850",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nihad_Mujaki%C4%87",
+      "transfermarkt_id": "380919",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Gaziantep",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Sarajevo",
+      "wikidata_current_club": "Gaziantep F.K.",
+      "wikidata_current_club_qid": "Q824850",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "stjepan-radeljić",
+      "display_name": "Stjepan Radeljić",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-09-05",
+      "age": 28,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Rijeka",
+      "wikipedia_title": "Stjepan Radeljić",
+      "wikidata_qid": "Q56227031",
+      "qid": "Q56227031",
+      "name": "Stjepan Radeljić",
+      "description": "Bosnian association football player (born 1997)",
+      "date_of_birth": "1997-09-05",
+      "place_of_birth_qid": "Q159818",
+      "citizenship_qids": [
+        "Q225"
+      ],
+      "height_cm": 189.0,
+      "teams": [
+        {
+          "team_qid": "Q107421",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q263258",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q210768",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q318969",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q844509",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q769512",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q318969",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stjepan_Radelji%C4%87",
+      "transfermarkt_id": "384568",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rijeka",
+      "current_club_source": "wikipedia-squad-table",
+      "citizenship": [
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Travnik",
+      "wikidata_current_club": "HNK Rijeka",
+      "wikidata_current_club_qid": "Q318969",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "nidal-čelik",
+      "display_name": "Nidal Čelik",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2006-07-17",
+      "age": 19,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Lens",
+      "wikipedia_title": "Nidal Čelik",
+      "wikidata_qid": "Q131149776",
+      "qid": "Q131149776",
+      "name": "Nidal Čelik",
+      "description": "Bosnian footballer",
+      "date_of_birth": "2006-07-17",
+      "place_of_birth_qid": "Q11194",
+      "citizenship_qids": [
+        "Q225"
+      ],
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q239663",
+          "start": "2022-08-26",
+          "end": "2025-02-03"
+        },
+        {
+          "team_qid": "Q191843",
+          "start": "2025-02-03",
+          "end": null
+        },
+        {
+          "team_qid": "Q430190",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q844509",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q769512",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q191843",
+      "image_filename": "Čelik rcl asse 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nidal_%C4%8Celik",
+      "transfermarkt_id": "819566",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lens",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Sarajevo",
+      "wikidata_current_club": "R.C. Lens",
+      "wikidata_current_club_qid": "Q191843",
+      "photo": {
+        "filename": "Čelik rcl asse 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/%C4%8Celik_rcl_asse_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/%C4%8Celik_rcl_asse_2425.png",
+        "width": 678,
+        "height": 892,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nidal-čelik.png"
+      }
+    },
+    {
+      "slug": "amir-hadžiahmetović",
+      "display_name": "Amir Hadžiahmetović",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-03-08",
+      "age": 29,
+      "caps": 34,
+      "goals": 0,
+      "club_from_squad_table": "Hull City",
+      "wikipedia_title": "Amir Hadžiahmetović",
+      "wikidata_qid": "Q22833412",
+      "qid": "Q22833412",
+      "name": "Amir Hadžiahmetović",
+      "description": "association football player",
+      "date_of_birth": "1997-03-08",
+      "place_of_birth_qid": "Q643410",
+      "citizenship_qids": [
+        "Q225"
+      ],
+      "height_cm": 179.0,
+      "weight_kg": 71.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q219929",
+          "start": "2014-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q513840",
+          "start": "2016-01-01",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q430190",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q16836924",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q844509",
+          "start": "2014-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q769512",
+          "start": "2015-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q172567",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q272712",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q19477",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19477",
+      "image_filename": "Amir Hadžiahmetović playing for Beşiktaş (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Amir_Had%C5%BEiahmetovi%C4%87",
+      "transfermarkt_id": "293213",
+      "fifa_player_id": "201388771",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Hull City",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Nexø",
+      "wikidata_current_club": "Hull City A.F.C.",
+      "wikidata_current_club_qid": "Q19477",
+      "photo": {
+        "filename": "Amir Hadžiahmetović playing for Beşiktaş (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Amir_Had%C5%BEiahmetovi%C4%87_playing_for_Be%C5%9Fikta%C5%9F_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Amir_Had%C5%BEiahmetovi%C4%87_playing_for_Be%C5%9Fikta%C5%9F_%28cropped%29.jpg/960px-Amir_Had%C5%BEiahmetovi%C4%87_playing_for_Be%C5%9Fikta%C5%9F_%28cropped%29.jpg",
+        "width": 1806,
+        "height": 1902,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Beşiktaş JK",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/amir-hadžiahmetović.jpg"
+      }
+    },
+    {
+      "slug": "benjamin-tahirović",
+      "display_name": "Benjamin Tahirović",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-03-03",
+      "age": 23,
+      "caps": 26,
+      "goals": 2,
+      "club_from_squad_table": "Brøndby",
+      "wikipedia_title": "Benjamin Tahirović",
+      "wikidata_qid": "Q115194574",
+      "qid": "Q115194574",
+      "name": "Benjamin Tahirović",
+      "description": "Bosnian-Swedish association football player",
+      "date_of_birth": "2003-03-03",
+      "place_of_birth_qid": "Q861644",
+      "citizenship_qids": [
+        "Q34",
+        "Q225"
+      ],
+      "height_cm": 1.93,
+      "teams": [
+        {
+          "team_qid": "Q602918",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q81888",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q211906",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q211906",
+      "image_filename": "Benjamin Tahirović - GAE - Ajax (53465349575).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Tahirovi%C4%87",
+      "transfermarkt_id": "787907",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Brøndby",
+      "current_club_source": "wikipedia-squad-table",
+      "citizenship": [
+        "Sweden",
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Spånga-Tensta city district",
+      "wikidata_current_club": "Brøndby IF",
+      "wikidata_current_club_qid": "Q211906",
+      "photo": {
+        "filename": "Benjamin Tahirović - GAE - Ajax (53465349575).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Benjamin_Tahirovi%C4%87_-_GAE_-_Ajax_%2853465349575%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Benjamin_Tahirovi%C4%87_-_GAE_-_Ajax_%2853465349575%29.jpg/960px-Benjamin_Tahirovi%C4%87_-_GAE_-_Ajax_%2853465349575%29.jpg",
+        "width": 1685,
+        "height": 2667,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/131306819@N08\">Carlo Bruil</a> from Nederland",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/benjamin-tahirović.jpg"
+      }
+    },
+    {
+      "slug": "armin-gigović",
+      "display_name": "Armin Gigović",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-04-06",
+      "age": 24,
+      "caps": 18,
+      "goals": 1,
+      "club_from_squad_table": "Young Boys",
+      "wikipedia_title": "Armin Gigović",
+      "wikidata_qid": "Q70251271",
+      "qid": "Q70251271",
+      "name": "Armin Gigović",
+      "description": "Bosnian-Swedish association football player",
+      "date_of_birth": "2002-04-06",
+      "place_of_birth_qid": "Q2167",
+      "citizenship_qids": [
+        "Q34",
+        "Q225"
+      ],
+      "height_cm": 187.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q207503",
+          "start": "2019-00-00",
+          "end": "2020-10-14"
+        },
+        {
+          "team_qid": "Q182930",
+          "start": "2020-10-15",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q863273",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q207503",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q211912",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q618520",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q97940890",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q190526",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590410",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q2255212",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q2255267",
+          "start": "2020-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q160826",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q190526",
+      "image_filename": "Armin Gigović 2021.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Armin_Gigovi%C4%87",
+      "transfermarkt_id": "651269",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Young Boys",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Sweden",
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Lund",
+      "wikidata_current_club": "BSC Young Boys",
+      "wikidata_current_club_qid": "Q190526",
+      "photo": {
+        "filename": "Armin Gigović 2021.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Armin_Gigovi%C4%87_2021.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Armin_Gigovi%C4%87_2021.jpg",
+        "width": 610,
+        "height": 1036,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Анна Нэсси",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/armin-gigović.jpg"
+      }
+    },
+    {
+      "slug": "dženis-burnić",
+      "display_name": "Dženis Burnić",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-05-22",
+      "age": 28,
+      "caps": 18,
+      "goals": 0,
+      "club_from_squad_table": "Karlsruher SC",
+      "wikipedia_title": "Dženis Burnić",
+      "wikidata_qid": "Q27468610",
+      "qid": "Q27468610",
+      "name": "Dženis Burnić",
+      "description": "Bosnian-German association football player",
+      "date_of_birth": "1998-05-22",
+      "place_of_birth_qid": "Q2880",
+      "citizenship_qids": [
+        "Q183",
+        "Q225"
+      ],
+      "height_cm": 181.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q41420",
+          "start": "2016-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q4512",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q865720",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q141931",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q162251",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q105853",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q105853",
+      "image_filename": "Dženis Burnić.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/D%C5%BEenis_Burni%C4%87",
+      "transfermarkt_id": "251295",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Karlsruher SC",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Germany",
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Hamm",
+      "photo": {
+        "filename": "Dženis Burnić.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/D%C5%BEenis_Burni%C4%87.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/D%C5%BEenis_Burni%C4%87.jpg",
+        "width": 853,
+        "height": 1066,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">Jeollo von http://www.vfb-exklusiv.de</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dženis-burnić.jpg"
+      }
+    },
+    {
+      "slug": "ivan-bašić",
+      "display_name": "Ivan Bašić",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-04-30",
+      "age": 24,
+      "caps": 15,
+      "goals": 0,
+      "club_from_squad_table": "Astana",
+      "wikipedia_title": "Ivan Bašić",
+      "wikidata_qid": "Q111536418",
+      "qid": "Q111536418",
+      "name": "Ivan Bašić",
+      "description": "Bosnian-Croatian association football player",
+      "date_of_birth": "2002-04-30",
+      "place_of_birth_qid": "Q397656",
+      "citizenship_qids": [
+        "Q225",
+        "Q224"
+      ],
+      "height_cm": 178.0,
+      "teams": [
+        {
+          "team_qid": "Q399282",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q2095484",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q779698",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q844509",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q769512",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q779698",
+      "image_filename": "Ivan Bašić 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ivan_Ba%C5%A1i%C4%87",
+      "transfermarkt_id": "620560",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Astana",
+      "current_club_source": "wikipedia-squad-table",
+      "citizenship": [
+        "Bosnia and Herzegovina",
+        "Croatia"
+      ],
+      "place_of_birth": "Imotski",
+      "wikidata_current_club": "FC Astana",
+      "wikidata_current_club_qid": "Q779698",
+      "photo": {
+        "filename": "Ivan Bašić 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Ivan_Ba%C5%A1i%C4%87_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Ivan_Ba%C5%A1i%C4%87_2022.jpg",
+        "width": 621,
+        "height": 1119,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Артем Гусев",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ivan-bašić.jpg"
+      }
+    },
+    {
+      "slug": "esmir-bajraktarević",
+      "display_name": "Esmir Bajraktarević",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2005-03-10",
+      "age": 21,
+      "caps": 14,
+      "goals": 1,
+      "club_from_squad_table": "PSV Eindhoven",
+      "wikipedia_title": "Esmir Bajraktarević",
+      "wikidata_qid": "Q108518721",
+      "qid": "Q108518721",
+      "name": "Esmir Bajraktarević",
+      "description": "American-Bosnian association football player",
+      "date_of_birth": "2005-03-10",
+      "place_of_birth_qid": "Q94928",
+      "citizenship_qids": [
+        "Q30",
+        "Q225"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q84045964",
+          "start": "2021-00-00",
+          "end": "2023-10-00"
+        },
+        {
+          "team_qid": "Q309095",
+          "start": "2022-00-00",
+          "end": "2025-01-02"
+        },
+        {
+          "team_qid": "Q91906315",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q3590572",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q11938",
+          "start": "2025-01-02",
+          "end": null
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2024-09-07",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q11938",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Esmir_Bajraktarevi%C4%87",
+      "transfermarkt_id": "925862",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "PSV Eindhoven",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United States",
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Appleton",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "amar-memić",
+      "display_name": "Amar Memić",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-01-20",
+      "age": 25,
+      "caps": 11,
+      "goals": 1,
+      "club_from_squad_table": "Viktoria Plzeň",
+      "wikipedia_title": "Amar Memić",
+      "wikidata_qid": "Q124051749",
+      "qid": "Q124051749",
+      "name": "Amar Memić",
+      "description": "Bosnian footballer (born 2001)",
+      "date_of_birth": "2001-01-20",
+      "place_of_birth_qid": "Q11194",
+      "citizenship_qids": [
+        "Q225"
+      ],
+      "height_cm": 176.0,
+      "teams": [
+        {
+          "team_qid": "Q206838",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q11229612",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q64363556",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1881407",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q769512",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q206838",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Amar_Memi%C4%87",
+      "transfermarkt_id": "638990",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Viktoria Plzeň",
+      "current_club_source": "wikipedia-squad-table",
+      "citizenship": [
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Sarajevo",
+      "wikidata_current_club": "FC Viktoria Plzeň",
+      "wikidata_current_club_qid": "Q206838",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ivan-šunjić",
+      "display_name": "Ivan Šunjić",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-10-09",
+      "age": 29,
+      "caps": 11,
+      "goals": 0,
+      "club_from_squad_table": "Pafos",
+      "wikipedia_title": "Ivan Šunjić",
+      "wikidata_qid": "Q19662444",
+      "qid": "Q19662444",
+      "name": "Ivan Šunjić",
+      "description": "Croatian association football player",
+      "date_of_birth": "1996-10-09",
+      "place_of_birth_qid": "Q184046",
+      "citizenship_qids": [
+        "Q224",
+        "Q225"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q172803",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q3589940",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3446766",
+          "start": "2014-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q2331381",
+          "start": "2014-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q19444",
+          "start": "2019-07-27",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q134479",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q99662863",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q959086",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q172803",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q102720",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q17442894",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q17442894",
+      "image_filename": "Ivan Sunjic Birmingham 2019.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ivan_%C5%A0unji%C4%87",
+      "transfermarkt_id": "226097",
+      "fifa_player_id": "372436",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Pafos",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Croatia",
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Zenica",
+      "wikidata_current_club": "Pafos FC",
+      "wikidata_current_club_qid": "Q17442894",
+      "photo": {
+        "filename": "Ivan Sunjic Birmingham 2019.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ivan_Sunjic_Birmingham_2019.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ivan_Sunjic_Birmingham_2019.jpg",
+        "width": 629,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Struway2&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Struway2 (page does not exist)\">Struway2</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ivan-šunjić.jpg"
+      }
+    },
+    {
+      "slug": "kerim-alajbegović",
+      "display_name": "Kerim Alajbegović",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2007-09-21",
+      "age": 18,
+      "caps": 8,
+      "goals": 1,
+      "club_from_squad_table": "Red Bull Salzburg",
+      "wikipedia_title": "Kerim Alajbegović",
+      "wikidata_qid": "Q130741313",
+      "qid": "Q130741313",
+      "name": "Kerim Alajbegović",
+      "description": "Bosnia and Herzegovina footballer (born 2007)",
+      "date_of_birth": "2007-09-21",
+      "place_of_birth_qid": "Q365",
+      "citizenship_qids": [
+        "Q225"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q994811",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q430190",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q844509",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q769512",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q994811",
+      "image_filename": "Jahresbeginnfeier FC RB Salzburg (2026-01-25 RB Arena) 10.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kerim_Alajbegovi%C4%87",
+      "transfermarkt_id": "929994",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Red Bull Salzburg",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Cologne",
+      "wikidata_current_club": "FC Red Bull Salzburg",
+      "wikidata_current_club_qid": "Q994811",
+      "photo": {
+        "filename": "Jahresbeginnfeier FC RB Salzburg (2026-01-25 RB Arena) 10.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg/960px-Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg",
+        "width": 3370,
+        "height": 3872,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kerim-alajbegović.jpg"
+      }
+    },
+    {
+      "slug": "ermin-mahmić",
+      "display_name": "Ermin Mahmić",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2005-03-14",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Slovan Liberec",
+      "wikipedia_title": "Ermin Mahmić",
+      "wikidata_qid": "Q123139564",
+      "qid": "Q123139564",
+      "name": "Ermin Mahmić",
+      "description": "Bosnia and Herzegovina association football player (born 2005)",
+      "date_of_birth": "2005-03-14",
+      "place_of_birth_qid": "Q178582",
+      "citizenship_qids": [
+        "Q40",
+        "Q225"
+      ],
+      "height_cm": 1.82,
+      "teams": [
+        {
+          "team_qid": "Q15137936",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q221671",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q4825450",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q844509",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2025-00-00",
+          "end": "2026-00-00"
+        }
+      ],
+      "current_club_qid": "Q221671",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ermin_Mahmi%C4%87",
+      "transfermarkt_id": "803049",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Slovan Liberec",
+      "current_club_source": "wikipedia-squad-table",
+      "citizenship": [
+        "Austria",
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Wels",
+      "wikidata_current_club": "FC Slovan Liberec",
+      "wikidata_current_club_qid": "Q221671",
+      "photo": {
+        "filename": "FC Liefering gegen SV Lafnitz (2024-05-25) 23.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/FC_Liefering_gegen_SV_Lafnitz_%282024-05-25%29_23.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/FC_Liefering_gegen_SV_Lafnitz_%282024-05-25%29_23.jpg/960px-FC_Liefering_gegen_SV_Lafnitz_%282024-05-25%29_23.jpg",
+        "width": 3254,
+        "height": 3545,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "manual-commons-verifier",
+        "local_path": "data/photos/ermin-mahmić.jpg"
+      }
+    },
+    {
+      "slug": "edin-džeko",
+      "display_name": "Edin Džeko",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1986-03-17",
+      "age": 40,
+      "caps": 148,
+      "goals": 73,
+      "club_from_squad_table": "Schalke 04",
+      "wikipedia_title": "Edin Džeko",
+      "wikidata_qid": "Q153786",
+      "qid": "Q153786",
+      "name": "Edin Džeko",
+      "description": "Bosnian association football player",
+      "date_of_birth": "1986-03-17",
+      "place_of_birth_qid": "Q11194",
+      "citizenship_qids": [
+        "Q225"
+      ],
+      "height_cm": 193.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q101859",
+          "start": "2007-07-00",
+          "end": "2011-01-00"
+        },
+        {
+          "team_qid": "Q738886",
+          "start": "2005-07-00",
+          "end": "2007-07-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2011-01-00",
+          "end": "2016-07-00"
+        },
+        {
+          "team_qid": "Q220928",
+          "start": "2005-08-00",
+          "end": "2005-12-00"
+        },
+        {
+          "team_qid": "Q219929",
+          "start": "2003-07-00",
+          "end": "2005-07-00"
+        },
+        {
+          "team_qid": "Q844509",
+          "start": "2003-09-00",
+          "end": "2004-10-00"
+        },
+        {
+          "team_qid": "Q769512",
+          "start": "2006-08-00",
+          "end": "2006-10-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2007-06-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2015-08-12",
+          "end": "2016-06-30"
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2021-08-00",
+          "end": "2023-06-00"
+        },
+        {
+          "team_qid": "Q6601875",
+          "start": "2023-06-00",
+          "end": "2025-07-00"
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2016-07-00",
+          "end": "2021-08-00"
+        },
+        {
+          "team_qid": "Q2052",
+          "start": "2025-07-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q32494",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q32494",
+      "image_filename": "20150331 2026 AUT BIH 2177 Edin Džeko (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Edin_D%C5%BEeko",
+      "transfermarkt_id": "28396",
+      "fifa_player_id": "300409",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Schalke 04",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Sarajevo",
+      "photo": {
+        "filename": "20150331 2026 AUT BIH 2177 Edin Džeko (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/20150331_2026_AUT_BIH_2177_Edin_D%C5%BEeko_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/20150331_2026_AUT_BIH_2177_Edin_D%C5%BEeko_%28cropped%29.jpg",
+        "width": 528,
+        "height": 792,
+        "license": "CC BY-SA 3.0 at",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ailura\" title=\"User:Ailura\">Ailura</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/edin-džeko.jpg"
+      }
+    },
+    {
+      "slug": "ermedin-demirović",
+      "display_name": "Ermedin Demirović",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1998-03-25",
+      "age": 28,
+      "caps": 38,
+      "goals": 4,
+      "club_from_squad_table": "VfB Stuttgart",
+      "wikipedia_title": "Ermedin Demirović",
+      "wikidata_qid": "Q47067481",
+      "qid": "Q47067481",
+      "name": "Ermedin Demirović",
+      "description": "Bosnian-German association football player",
+      "date_of_birth": "1998-03-25",
+      "place_of_birth_qid": "Q1055",
+      "citizenship_qids": [
+        "Q225",
+        "Q183"
+      ],
+      "height_cm": 1.85,
+      "weight_kg": 76.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q51974",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q15755",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q4512",
+          "start": "2024-07-16",
+          "end": null
+        },
+        {
+          "team_qid": "Q20994272",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q223620",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q19512",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q10407",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q659212",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q106394",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q430190",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q844509",
+          "start": "2015-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q769512",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q4512",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ermedin_Demirovi%C4%87",
+      "transfermarkt_id": "335457",
+      "fifa_player_id": "201670519",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "VfB Stuttgart",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Bosnia and Herzegovina",
+        "Germany"
+      ],
+      "place_of_birth": "Hamburg",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "samed-baždar",
+      "display_name": "Samed Baždar",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2004-01-31",
+      "age": 22,
+      "caps": 11,
+      "goals": 1,
+      "club_from_squad_table": "Jagiellonia Białystok",
+      "wikipedia_title": "Samed Baždar",
+      "wikidata_qid": "Q107284545",
+      "qid": "Q107284545",
+      "name": "Samed Baždar",
+      "description": "Bosnian association football player",
+      "date_of_birth": "2004-01-31",
+      "place_of_birth_qid": "Q202453",
+      "citizenship_qids": [
+        "Q403",
+        "Q225"
+      ],
+      "height_cm": 186.0,
+      "teams": [
+        {
+          "team_qid": "Q188656",
+          "start": "2021-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q10308",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q189170",
+          "start": "2026-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q182740",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q189170",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Samed_Ba%C5%BEdar",
+      "transfermarkt_id": "710969",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Jagiellonia Białystok",
+      "current_club_source": "wikipedia-squad-table",
+      "citizenship": [
+        "Serbia",
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Novi Pazar",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "haris-tabaković",
+      "display_name": "Haris Tabaković",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1994-06-20",
+      "age": 31,
+      "caps": 10,
+      "goals": 4,
+      "club_from_squad_table": "Borussia Mönchengladbach",
+      "wikipedia_title": "Haris Tabaković",
+      "wikidata_qid": "Q15257381",
+      "qid": "Q15257381",
+      "name": "Haris Tabaković",
+      "description": "Bosnian-Swiss association football player",
+      "date_of_birth": "1994-06-20",
+      "place_of_birth_qid": "Q68248",
+      "citizenship_qids": [
+        "Q39",
+        "Q225"
+      ],
+      "height_cm": 194.0,
+      "weight_kg": 90.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q201360",
+          "start": "2016-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q190526",
+          "start": "2012-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q187091",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q678582",
+          "start": "2013-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q4140019",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q205732",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q767400",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q696507",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q131209",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q102720",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q22707",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q101959",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q101959",
+      "image_filename": "FC RB Salzburg vs. FK Austria Wien (2023-04-09) 55.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Haris_Tabakovi%C4%87",
+      "transfermarkt_id": "203123",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Borussia Mönchengladbach",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Switzerland",
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Grenchen",
+      "photo": {
+        "filename": "FC RB Salzburg vs. FK Austria Wien (2023-04-09) 55.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/FC_RB_Salzburg_vs._FK_Austria_Wien_%282023-04-09%29_55.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/FC_RB_Salzburg_vs._FK_Austria_Wien_%282023-04-09%29_55.jpg/960px-FC_RB_Salzburg_vs._FK_Austria_Wien_%282023-04-09%29_55.jpg",
+        "width": 2195,
+        "height": 1964,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/haris-tabaković.jpg"
+      }
+    },
+    {
+      "slug": "jovo-lukić",
+      "display_name": "Jovo Lukić",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1998-11-28",
+      "age": 27,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Universitatea Cluj",
+      "wikipedia_title": "Jovo Lukić",
+      "wikidata_qid": "Q96182876",
+      "qid": "Q96182876",
+      "name": "Jovo Lukić",
+      "description": "Bosnian association football player",
+      "date_of_birth": "1998-11-28",
+      "place_of_birth_qid": "Q131127",
+      "citizenship_qids": [
+        "Q225"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q9731197"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1353948",
+          "start": "2019-02-00",
+          "end": "2019-06-00"
+        },
+        {
+          "team_qid": "Q3443529",
+          "start": "2015-08-00",
+          "end": "2018-02-00"
+        },
+        {
+          "team_qid": "Q18125728",
+          "start": "2018-02-00",
+          "end": "2020-07-00"
+        },
+        {
+          "team_qid": "Q128897",
+          "start": "2020-07-00",
+          "end": "2024-09-00"
+        },
+        {
+          "team_qid": "Q16838020",
+          "start": "2024-09-00",
+          "end": "2025-06-00"
+        },
+        {
+          "team_qid": "Q753462",
+          "start": "2025-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q769512",
+          "start": "2018-11-00",
+          "end": "2020-11-00"
+        },
+        {
+          "team_qid": "Q181190",
+          "start": "2021-12-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q753462",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jovo_Luki%C4%87",
+      "transfermarkt_id": "457738",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Universitatea Cluj",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "centre-forward"
+      ],
+      "citizenship": [
+        "Bosnia and Herzegovina"
+      ],
+      "place_of_birth": "Banja Luka",
+      "wikidata_current_club": "FC Universitatea Cluj",
+      "wikidata_current_club_qid": "Q753462",
+      "photo": {
+        "filename": "Jovo Lukić 97.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Jovo_Luki%C4%87_97.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jovo_Luki%C4%87_97.jpg/960px-Jovo_Luki%C4%87_97.jpg",
+        "width": 4000,
+        "height": 2667,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Hatorcat\" title=\"User:Hatorcat\">Hatorcat</a>",
+        "source": "manual-commons-verifier",
+        "local_path": "data/photos/jovo-lukić.jpg"
+      }
+    }
+  ],
+  "notes": [
+    "Bosnia and Herzegovina photo audit 2026-05-24: verifier added clean Wikimedia photos for Ermin Mahmić and Jovo Lukić; eight other no-photo rows are marked wikimedia-reviewed-none."
+  ]
+}

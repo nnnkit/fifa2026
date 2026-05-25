@@ -1,0 +1,54 @@
+{
+  "slug": "logan-costa",
+  "display_name": "Logan Costa",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-04-01",
+  "age": 25,
+  "caps": 26,
+  "goals": 0,
+  "club_from_squad_table": "Villarreal",
+  "wikipedia_title": "Logan Costa",
+  "date_of_birth": "2001-04-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Villarreal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q110184199",
+  "qid": "Q110184199",
+  "name": "Logan Costa",
+  "description": "Cape Verdean association football player (born 2001)",
+  "place_of_birth_qid": "Q160506",
+  "citizenship_qids": [
+    "Q142",
+    "Q1011"
+  ],
+  "height_cm": 1.9,
+  "position_qids": [
+    "Q268258"
+  ],
+  "image_filename": "Logan Costa.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Logan_Costa",
+  "transfermarkt_id": "484988",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "France",
+    "Cape Verde"
+  ],
+  "place_of_birth": "Saint-Denis",
+  "photo": {
+    "filename": "Logan Costa.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Logan_Costa.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Logan_Costa.jpg",
+    "width": 491,
+    "height": 803,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:ArretsSurImage&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ArretsSurImage (page does not exist)\">ArretsSurImage</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/logan-costa.jpg"
+  },
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde"
+}

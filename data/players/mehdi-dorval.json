@@ -1,0 +1,37 @@
+{
+  "slug": "mehdi-dorval",
+  "display_name": "Mehdi Dorval",
+  "shirt_no": 3,
+  "position_code": "DF",
+  "dob": "2001-02-09",
+  "age": 25,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Bari",
+  "wikipedia_title": "Mehdi Dorval",
+  "date_of_birth": "2001-02-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bari",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q114049411",
+  "qid": "Q114049411",
+  "name": "Mehdi Dorval",
+  "description": "French footballer (born 2001)",
+  "place_of_birth_qid": "Q90",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 176.0,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mehdi_Dorval",
+  "transfermarkt_id": "784575",
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "Paris",
+  "team_slug": "algeria",
+  "team_country": "Algeria",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

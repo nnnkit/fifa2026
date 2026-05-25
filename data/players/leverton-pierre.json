@@ -1,0 +1,53 @@
+{
+  "slug": "leverton-pierre",
+  "display_name": "Leverton Pierre",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1998-03-09",
+  "age": 28,
+  "caps": 33,
+  "goals": 0,
+  "club_from_squad_table": "Vizela",
+  "wikipedia_title": "Leverton Pierre",
+  "date_of_birth": "1998-03-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Vizela",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q49004376",
+  "qid": "Q49004376",
+  "name": "Leverton Pierre",
+  "description": "association football player",
+  "place_of_birth_qid": "Q926648",
+  "citizenship_qids": [
+    "Q790"
+  ],
+  "height_cm": 181.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q270051",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q270051",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Leverton_Pierre",
+  "transfermarkt_id": "552467",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Haiti"
+  ],
+  "place_of_birth": "Tabarre",
+  "wikidata_current_club": "A.C. Ajaccio",
+  "wikidata_current_club_qid": "Q270051",
+  "team_slug": "haiti",
+  "team_country": "Haiti",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

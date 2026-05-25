@@ -1,0 +1,53 @@
+{
+  "slug": "louicius-deedson",
+  "display_name": "Louicius Deedson",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-02-11",
+  "age": 25,
+  "caps": 30,
+  "goals": 10,
+  "club_from_squad_table": "FC Dallas",
+  "wikipedia_title": "Louicius Deedson",
+  "date_of_birth": "2001-02-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "FC Dallas",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q72697581",
+  "qid": "Q72697581",
+  "name": "Louicius Don Deedson",
+  "description": "Haitian footballer",
+  "place_of_birth_qid": "Q926648",
+  "citizenship_qids": [
+    "Q790"
+  ],
+  "height_cm": 1.78,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q17165601",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q17165601",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Louicius_Deedson",
+  "transfermarkt_id": "646108",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Haiti"
+  ],
+  "place_of_birth": "Tabarre",
+  "wikidata_current_club": "Hobro IK",
+  "wikidata_current_club_qid": "Q17165601",
+  "team_slug": "haiti",
+  "team_country": "Haiti",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

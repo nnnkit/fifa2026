@@ -1,0 +1,124 @@
+{
+  "slug": "ante-budimir",
+  "display_name": "Ante Budimir",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1991-07-22",
+  "age": 34,
+  "caps": 36,
+  "goals": 6,
+  "club_from_squad_table": "Osasuna",
+  "wikipedia_title": "Ante Budimir",
+  "date_of_birth": "1991-07-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Osasuna",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q17505049",
+  "qid": "Q17505049",
+  "name": "Ante Budimir",
+  "description": "Croatian association football player (born 1991)",
+  "place_of_birth_qid": "Q184046",
+  "citizenship_qids": [
+    "Q224"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q6690",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q723644",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q959086",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q6463",
+      "start": "2014-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q2331381",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q1457",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q6690",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q6690",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q8835",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q8835",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q10286",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q10286",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q134479",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q10286",
+  "image_filename": "Budimir, Ante FCSP 15-16 WP (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ante_Budimir",
+  "transfermarkt_id": "46413",
+  "fifa_player_id": "200735031",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Croatia"
+  ],
+  "place_of_birth": "Zenica",
+  "wikidata_current_club": "Club Atl\u00e9tico Osasuna",
+  "wikidata_current_club_qid": "Q10286",
+  "photo": {
+    "filename": "Budimir, Ante FCSP 15-16 WP (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Budimir%2C_Ante_FCSP_15-16_WP_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Budimir%2C_Ante_FCSP_15-16_WP_%28cropped%29.jpg",
+    "width": 575,
+    "height": 899,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Northside\" title=\"User:Northside\">Northside</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ante-budimir.jpg"
+  },
+  "team_slug": "croatia",
+  "team_country": "Croatia"
+}

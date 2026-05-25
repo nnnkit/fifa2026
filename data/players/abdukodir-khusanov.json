@@ -1,0 +1,72 @@
+{
+  "slug": "abdukodir-khusanov",
+  "display_name": "Abdukodir Khusanov",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2004-02-29",
+  "age": 22,
+  "caps": 25,
+  "goals": 0,
+  "club_from_squad_table": "Manchester City",
+  "wikipedia_title": "Abdukodir Khusanov",
+  "date_of_birth": "2004-02-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q111479885",
+  "qid": "Q111479885",
+  "name": "Abdukodir Khusanov",
+  "description": "Uzbek association football player",
+  "place_of_birth_qid": "Q269",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "height_cm": 1.86,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3091283",
+      "start": "2022-03-00",
+      "end": "2023-07-00"
+    },
+    {
+      "team_qid": "Q191843",
+      "start": "2023-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q50602",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q191843",
+  "image_filename": "Abdukodir Khusanov (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abdukodir_Khusanov",
+  "transfermarkt_id": "763079",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Tashkent",
+  "wikidata_current_club": "R.C. Lens",
+  "wikidata_current_club_qid": "Q191843",
+  "photo": {
+    "filename": "Abdukodir Khusanov (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Abdukodir_Khusanov_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Abdukodir_Khusanov_%28cropped%29.jpg",
+    "width": 237,
+    "height": 354,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "olympic.uz",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/abdukodir-khusanov.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

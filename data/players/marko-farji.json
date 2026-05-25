@@ -1,0 +1,39 @@
+{
+  "slug": "marko-farji",
+  "display_name": "Marko Farji",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2004-03-16",
+  "age": 22,
+  "caps": 9,
+  "goals": 0,
+  "club_from_squad_table": "Venezia",
+  "wikipedia_title": "Marko Farji",
+  "date_of_birth": "2004-03-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Venezia",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q126373302",
+  "qid": "Q126373302",
+  "name": "Marko Farji",
+  "description": "Iraqi footballer (born 2004)",
+  "place_of_birth_qid": "Q90590",
+  "citizenship_qids": [
+    "Q796",
+    "Q20"
+  ],
+  "height_cm": 184.0,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marko_Farji",
+  "transfermarkt_id": "663153",
+  "citizenship": [
+    "Iraq",
+    "Norway"
+  ],
+  "place_of_birth": "Grimstad",
+  "team_slug": "iraq",
+  "team_country": "Iraq",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

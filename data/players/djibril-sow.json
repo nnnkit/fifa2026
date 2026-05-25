@@ -1,0 +1,69 @@
+{
+  "slug": "djibril-sow",
+  "display_name": "Djibril Sow",
+  "shirt_no": 15,
+  "position_code": "MF",
+  "dob": "1997-02-06",
+  "age": 29,
+  "caps": 50,
+  "goals": 0,
+  "club_from_squad_table": "Sevilla",
+  "wikipedia_title": "Djibril Sow",
+  "date_of_birth": "1997-02-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sevilla",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27995699",
+  "qid": "Q27995699",
+  "name": "Djibril Sow",
+  "description": "Swiss association football player",
+  "place_of_birth_qid": "Q72",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 1.84,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q190526",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q678582",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q190526",
+  "image_filename": "DjibrilSow.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Djibril_Sow",
+  "transfermarkt_id": "212723",
+  "fifa_player_id": "201461264",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Zurich",
+  "wikidata_current_club": "BSC Young Boys",
+  "wikidata_current_club_qid": "Q190526",
+  "photo": {
+    "filename": "DjibrilSow.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/DjibrilSow.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DjibrilSow.jpg/960px-DjibrilSow.jpg",
+    "width": 1494,
+    "height": 2851,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Silesia711\" title=\"User:Silesia711\">Silesia711</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/djibril-sow.jpg"
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

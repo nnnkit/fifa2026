@@ -1,0 +1,93 @@
+{
+  "slug": "nikola-vasilj",
+  "display_name": "Nikola Vasilj",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1995-12-02",
+  "age": 30,
+  "caps": 25,
+  "goals": 0,
+  "club_from_squad_table": "FC St. Pauli",
+  "wikipedia_title": "Nikola Vasilj",
+  "wikidata_qid": "Q77243490",
+  "qid": "Q77243490",
+  "name": "Nikola Vasilj",
+  "description": "Bosnian association football player",
+  "date_of_birth": "1995-12-02",
+  "place_of_birth_qid": "Q93347",
+  "citizenship_qids": [
+    "Q225",
+    "Q224"
+  ],
+  "height_cm": 193.0,
+  "position_qids": [
+    "Q172964"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q4545849",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q754307",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q399282",
+      "start": "2013-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q1388907",
+      "start": "2014-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q282164",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q6463",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q6463",
+  "image_filename": "2025-04-23 - FC St Pauli - Nikola Vasilj (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nikola_Vasilj",
+  "transfermarkt_id": "248454",
+  "fifa_player_id": "201187025",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "FC St. Pauli",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Bosnia and Herzegovina",
+    "Croatia"
+  ],
+  "place_of_birth": "Mostar",
+  "photo": {
+    "filename": "2025-04-23 - FC St Pauli - Nikola Vasilj (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/2025-04-23_-_FC_St_Pauli_-_Nikola_Vasilj_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/2025-04-23_-_FC_St_Pauli_-_Nikola_Vasilj_%28cropped%29.jpg",
+    "width": 742,
+    "height": 1111,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lanthan2003&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lanthan2003 (page does not exist)\">Lanthan2003</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nikola-vasilj.jpg"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

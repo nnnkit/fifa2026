@@ -1,0 +1,104 @@
+{
+  "slug": "r\u00faben-dias",
+  "display_name": "R\u00faben Dias",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-05-14",
+  "age": 29,
+  "caps": 74,
+  "goals": 3,
+  "club_from_squad_table": "Manchester City",
+  "wikipedia_title": "R\u00faben Dias",
+  "date_of_birth": "1997-05-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21621168",
+  "qid": "Q21621168",
+  "name": "R\u00faben Dias",
+  "description": "Portuguese association football player",
+  "place_of_birth_qid": "Q189166",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 186.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q7387221",
+      "start": "2015-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q131499",
+      "start": "2017-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q7232579",
+      "start": "2013-00-00",
+      "end": "2013-00-00"
+    },
+    {
+      "team_qid": "Q3590754",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q3873524",
+      "start": "2014-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q1772776",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q1630430",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q267245",
+      "start": "2018-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q50602",
+  "image_filename": "Ruben Dias, 14 November 2024 (4).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%BAben_Dias",
+  "transfermarkt_id": "258004",
+  "fifa_player_id": "201482417",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Amadora",
+  "wikidata_current_club": "Manchester City F.C.",
+  "wikidata_current_club_qid": "Q50602",
+  "photo": {
+    "filename": "Ruben Dias, 14 November 2024 (4).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ruben_Dias%2C_14_November_2024_%284%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ruben_Dias%2C_14_November_2024_%284%29.jpg/960px-Ruben_Dias%2C_14_November_2024_%284%29.jpg",
+    "width": 3303,
+    "height": 4005,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Web Summit",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/r\u00faben-dias.jpg"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

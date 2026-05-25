@@ -1,0 +1,64 @@
+{
+  "slug": "pape-gueye",
+  "display_name": "Pape Gueye",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1999-01-24",
+  "age": 27,
+  "caps": 40,
+  "goals": 5,
+  "club_from_squad_table": "Villarreal",
+  "wikipedia_title": "Pape Gueye",
+  "date_of_birth": "1999-01-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Villarreal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q45935395",
+  "qid": "Q45935395",
+  "name": "Pape Gueye",
+  "description": "Senegalese and French footballer",
+  "place_of_birth_qid": "Q193370",
+  "citizenship_qids": [
+    "Q1041",
+    "Q142"
+  ],
+  "height_cm": 1.89,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q12297",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q12297",
+  "image_filename": "Football - 2023 Africa Cup of Nations - Finals - Guinea v Senegal - Charles Konan Stadium - Yamoussoukro - Cote dIvoire - 53483552243 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pape_Gueye",
+  "transfermarkt_id": "485963",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Senegal",
+    "France"
+  ],
+  "place_of_birth": "Montreuil",
+  "wikidata_current_club": "Villarreal CF",
+  "wikidata_current_club_qid": "Q12297",
+  "photo": {
+    "filename": "Football - 2023 Africa Cup of Nations - Finals - Guinea v Senegal - Charles Konan Stadium - Yamoussoukro - Cote dIvoire - 53483552243 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Football_-_2023_Africa_Cup_of_Nations_-_Finals_-_Guinea_v_Senegal_-_Charles_Konan_Stadium_-_Yamoussoukro_-_Cote_dIvoire_-_53483552243_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Football_-_2023_Africa_Cup_of_Nations_-_Finals_-_Guinea_v_Senegal_-_Charles_Konan_Stadium_-_Yamoussoukro_-_Cote_dIvoire_-_53483552243_%28cropped%29.jpg/960px-Football_-_2023_Africa_Cup_of_Nations_-_Finals_-_Guinea_v_Senegal_-_Charles_Konan_Stadium_-_Yamoussoukro_-_Cote_dIvoire_-_53483552243_%28cropped%29.jpg",
+    "width": 1394,
+    "height": 2308,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "feguifoot",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/pape-gueye.jpg"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

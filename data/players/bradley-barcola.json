@@ -1,0 +1,94 @@
+{
+  "slug": "bradley-barcola",
+  "display_name": "Bradley Barcola",
+  "shirt_no": 12,
+  "position_code": "FW",
+  "dob": "2002-09-02",
+  "age": 23,
+  "caps": 18,
+  "goals": 3,
+  "club_from_squad_table": "Paris Saint-Germain",
+  "wikipedia_title": "Bradley Barcola",
+  "date_of_birth": "2002-09-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Paris Saint-Germain",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q99670930",
+  "qid": "Q99670930",
+  "name": "Bradley Barcola",
+  "description": "French footballer (born 2002)",
+  "place_of_birth_qid": "Q582",
+  "citizenship_qids": [
+    "Q142",
+    "Q945"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3924852",
+      "start": "2020-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q704",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1344163",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q23886907",
+      "start": "2024-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q47774",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q483020",
+  "image_filename": "Bradley Barcola vs MHSC 7 May 2023.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bradley_Barcola",
+  "transfermarkt_id": "708265",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "France",
+    "Togo"
+  ],
+  "place_of_birth": "Villeurbanne",
+  "wikidata_current_club": "Paris Saint-Germain FC",
+  "wikidata_current_club_qid": "Q483020",
+  "photo": {
+    "filename": "Bradley Barcola vs MHSC 7 May 2023.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bradley_Barcola_vs_MHSC_7_May_2023.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bradley_Barcola_vs_MHSC_7_May_2023.png",
+    "width": 660,
+    "height": 742,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "MHSC TV - Montpellier H\u00e9rault Sport Club",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/bradley-barcola.png"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

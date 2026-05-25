@@ -1,0 +1,77 @@
+{
+  "slug": "homam-ahmed",
+  "display_name": "Homam Ahmed",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-08-25",
+  "age": 26,
+  "caps": 66,
+  "goals": 3,
+  "club_from_squad_table": "Cultural Leonesa",
+  "wikipedia_title": "Homam Ahmed",
+  "date_of_birth": "1999-08-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Cultural Leonesa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64364375",
+  "qid": "Q64364375",
+  "name": "Homam Ahmed",
+  "description": "Qatari association football player",
+  "place_of_birth_qid": "Q3861",
+  "citizenship_qids": [
+    "Q846"
+  ],
+  "height_cm": 1.86,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q428211",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873543",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q963238",
+      "start": "2019-12-00",
+      "end": "2020-01-00"
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2019-11-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q428211",
+  "image_filename": "Asian Nations Cup Iran - Qatar (8) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Homam_Ahmed",
+  "transfermarkt_id": "556713",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Qatar"
+  ],
+  "place_of_birth": "Doha",
+  "wikidata_current_club": "Al-Gharafa SC",
+  "wikidata_current_club_qid": "Q428211",
+  "photo": {
+    "filename": "Asian Nations Cup Iran - Qatar (8) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Asian_Nations_Cup_Iran_-_Qatar_%288%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Asian_Nations_Cup_Iran_-_Qatar_%288%29_%28cropped%29.jpg",
+    "width": 214,
+    "height": 273,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "M.Sadegh Nikgostar",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/homam-ahmed.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

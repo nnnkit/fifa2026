@@ -1,0 +1,92 @@
+{
+  "slug": "tyler-bindon",
+  "display_name": "Tyler Bindon",
+  "shirt_no": 4,
+  "position_code": "DF",
+  "dob": "2005-01-27",
+  "age": 21,
+  "caps": 23,
+  "goals": 3,
+  "club_from_squad_table": "Sheffield United",
+  "wikipedia_title": "Tyler Bindon",
+  "date_of_birth": "2005-01-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sheffield United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q121353909",
+  "qid": "Q121353909",
+  "name": "Tyler Bindon",
+  "description": "English footballer (born 2005)",
+  "place_of_birth_qid": "Q37100",
+  "citizenship_qids": [
+    "Q664"
+  ],
+  "height_cm": 188.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18729",
+      "start": "2023-08-00",
+      "end": "2025-02-00"
+    },
+    {
+      "team_qid": "Q175315",
+      "start": "2023-10-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q510953",
+      "start": "2024-07-00",
+      "end": "2024-07-00"
+    },
+    {
+      "team_qid": "Q91906315",
+      "start": "2023-03-00",
+      "end": "2023-03-00"
+    },
+    {
+      "team_qid": "Q19490",
+      "start": "2025-02-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q18729",
+      "start": "2025-02-00",
+      "end": "2025-06-00"
+    },
+    {
+      "team_qid": "Q19607",
+      "start": "2025-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19607",
+  "image_filename": "Tyler Bindon.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tyler_Bindon",
+  "transfermarkt_id": "1007720",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "New Zealand"
+  ],
+  "place_of_birth": "Auckland",
+  "wikidata_current_club": "Sheffield United F.C.",
+  "wikidata_current_club_qid": "Q19607",
+  "photo": {
+    "filename": "Tyler Bindon.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Tyler_Bindon.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tyler_Bindon.jpg/500px-Tyler_Bindon.jpg",
+    "width": 616,
+    "height": 1700,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/tyler-bindon.jpg"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand"
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "nuno-mendes",
+  "display_name": "Nuno Mendes",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2002-06-19",
+  "age": 23,
+  "caps": 43,
+  "goals": 1,
+  "club_from_squad_table": "Paris Saint-Germain",
+  "wikipedia_title": "Nuno Mendes (footballer, born 2002)",
+  "date_of_birth": "2002-06-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Paris Saint-Germain",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q96396963",
+  "qid": "Q96396963",
+  "name": "Nuno Mendes",
+  "description": "Portuguese association football player",
+  "place_of_birth_qid": "Q190187",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 1.83,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q75729",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q7232579",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q3590754",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q3873511",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q3873524",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1630430",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q267245",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q483020",
+  "image_filename": "FC Salzburg gegen Paris Saint-Germain UEFA Champions League 85 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nuno_Mendes_(footballer,_born_2002)",
+  "transfermarkt_id": "616341",
+  "fifa_player_id": "400125650",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Sintra",
+  "wikidata_current_club": "Paris Saint-Germain FC",
+  "wikidata_current_club_qid": "Q483020",
+  "photo": {
+    "filename": "FC Salzburg gegen Paris Saint-Germain UEFA Champions League 85 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/FC_Salzburg_gegen_Paris_Saint-Germain_UEFA_Champions_League_85_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/FC_Salzburg_gegen_Paris_Saint-Germain_UEFA_Champions_League_85_%28cropped%29.jpg/960px-FC_Salzburg_gegen_Paris_Saint-Germain_UEFA_Champions_League_85_%28cropped%29.jpg",
+    "width": 1128,
+    "height": 1556,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nuno-mendes.jpg"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "john-yeboah",
+  "display_name": "John Yeboah",
+  "shirt_no": 9,
+  "position_code": "MF",
+  "dob": "2000-06-23",
+  "age": 25,
+  "caps": 21,
+  "goals": 3,
+  "club_from_squad_table": "Venezia",
+  "wikipedia_title": "John Yeboah",
+  "date_of_birth": "2000-06-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Venezia",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q58215731",
+  "qid": "Q58215731",
+  "name": "John Yeboah",
+  "description": "Ecuadorian association football player (born 2000)",
+  "place_of_birth_qid": "Q1055",
+  "citizenship_qids": [
+    "Q183",
+    "Q736"
+  ],
+  "height_cm": 170.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q101859",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q16645947",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1202759",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q319699",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q2016992",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q324854",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q987584",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q101859",
+  "image_filename": "John Yeboah 2020.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Yeboah",
+  "transfermarkt_id": "439914",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Germany",
+    "Ecuador"
+  ],
+  "place_of_birth": "Hamburg",
+  "wikidata_current_club": "VfL Wolfsburg",
+  "wikidata_current_club_qid": "Q101859",
+  "photo": {
+    "filename": "John Yeboah 2020.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/John_Yeboah_2020.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/John_Yeboah_2020.png",
+    "width": 896,
+    "height": 911,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "VVV-Venlo",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/john-yeboah.png"
+  },
+  "team_slug": "ecuador",
+  "team_country": "Ecuador"
+}

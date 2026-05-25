@@ -1,0 +1,75 @@
+{
+  "slug": "connor-metcalfe",
+  "display_name": "Connor Metcalfe",
+  "shirt_no": 8,
+  "position_code": "MF",
+  "dob": "1999-11-05",
+  "age": 26,
+  "caps": 34,
+  "goals": 1,
+  "club_from_squad_table": "FC St. Pauli",
+  "wikipedia_title": "Connor Metcalfe",
+  "date_of_birth": "1999-11-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "FC St. Pauli",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q51213832",
+  "qid": "Q51213832",
+  "name": "Connor Metcalfe",
+  "description": "Australian soccer player",
+  "place_of_birth_qid": "Q57278",
+  "citizenship_qids": [
+    "Q408"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q748725",
+      "start": "2018-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q6463",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q268208",
+      "start": "2021-06-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873975",
+      "start": "2021-07-00",
+      "end": "2021-07-00"
+    }
+  ],
+  "current_club_qid": "Q6463",
+  "image_filename": "4822293 AE7I6590 - Connor Metcalfe.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Connor_Metcalfe",
+  "transfermarkt_id": "522223",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Australia"
+  ],
+  "place_of_birth": "Newcastle",
+  "photo": {
+    "filename": "4822293 AE7I6590 - Connor Metcalfe.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/4822293_AE7I6590_-_Connor_Metcalfe.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/4822293_AE7I6590_-_Connor_Metcalfe.jpg",
+    "width": 302,
+    "height": 513,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Foad Ashtari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/connor-metcalfe.jpg"
+  },
+  "team_slug": "australia",
+  "team_country": "Australia"
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "tommy-smith",
+  "display_name": "Tommy Smith",
+  "shirt_no": 26,
+  "position_code": "DF",
+  "dob": "1990-03-31",
+  "age": 36,
+  "caps": 56,
+  "goals": 2,
+  "club_from_squad_table": "Braintree Town",
+  "wikipedia_title": "Tommy Smith (footballer, born 1990)",
+  "date_of_birth": "1990-03-31",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Braintree Town",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q462503",
+  "qid": "Q462503",
+  "name": "Tommy Smith",
+  "description": "New Zealand footballer",
+  "place_of_birth_qid": "Q868637",
+  "citizenship_qids": [
+    "Q664",
+    "Q145"
+  ],
+  "height_cm": 187.0,
+  "weight_kg": 74.0,
+  "position_qids": [
+    "Q268258",
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q9653",
+      "start": "2007-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q19578",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q19571",
+      "start": "2010-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q9426",
+      "start": "2008-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q2752922",
+      "start": "2007-01-01",
+      "end": "2007-01-01"
+    },
+    {
+      "team_qid": "Q1049171",
+      "start": "2008-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q175315",
+      "start": "2010-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q9653",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q642408",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q642408",
+  "image_filename": "Tommy Smith - It 8.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tommy_Smith_(footballer,_born_1990)",
+  "transfermarkt_id": "54381",
+  "fifa_player_id": "274102",
+  "positions": [
+    "centre-back",
+    "full-back"
+  ],
+  "citizenship": [
+    "New Zealand",
+    "United Kingdom"
+  ],
+  "place_of_birth": "Macclesfield",
+  "wikidata_current_club": "Colorado Rapids",
+  "wikidata_current_club_qid": "Q642408",
+  "photo": {
+    "filename": "Tommy Smith - It 8.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Tommy_Smith_-_It_8.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tommy_Smith_-_It_8.jpg/960px-Tommy_Smith_-_It_8.jpg",
+    "width": 3648,
+    "height": 2736,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a href=\"https://en.wikipedia.org/wiki/User:Just-an-Ipswich-fan\" class=\"extiw\" title=\"en:User:Just-an-Ipswich-fan\">Just-an-Ipswich-fan</a> (<a href=\"https://en.wikipedia.org/wiki/User_talk:Just-an-Ipswich-fan\" class=\"extiw\" title=\"en:User talk:Just-an-Ipswich-fan\">talk</a>)",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/tommy-smith.jpg"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand"
+}

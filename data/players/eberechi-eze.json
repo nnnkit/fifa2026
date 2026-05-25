@@ -1,0 +1,94 @@
+{
+  "slug": "eberechi-eze",
+  "display_name": "Eberechi Eze",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1998-06-29",
+  "age": 27,
+  "caps": 16,
+  "goals": 3,
+  "club_from_squad_table": "Arsenal",
+  "wikipedia_title": "Eberechi Eze",
+  "date_of_birth": "1998-06-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Arsenal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28445512",
+  "qid": "Q28445512",
+  "name": "Eberechi Eze",
+  "description": "English association football player (born 1998)",
+  "place_of_birth_qid": "Q179385",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q90326494",
+    "Q114358158"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18723",
+      "start": "2016-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q48953",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q19467",
+      "start": "2020-00-00",
+      "end": "2025-08-00"
+    },
+    {
+      "team_qid": "Q1049176",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q47762",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2025-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q9617",
+  "image_filename": "Qpr2018eberechieeze001.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Eberechi_Eze",
+  "transfermarkt_id": "479999",
+  "positions": [
+    "attacking midfielder",
+    "left winger"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Greenwich",
+  "wikidata_current_club": "Arsenal F.C.",
+  "wikidata_current_club_qid": "Q9617",
+  "photo": {
+    "filename": "Qpr2018eberechieeze001.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Qpr2018eberechieeze001.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Qpr2018eberechieeze001.jpg/960px-Qpr2018eberechieeze001.jpg",
+    "width": 2951,
+    "height": 3760,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"https://en.wikipedia.org/wiki/User:Jrppezza\" class=\"extiw\" title=\"en:User:Jrppezza\">Jrppezza</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/eberechi-eze.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

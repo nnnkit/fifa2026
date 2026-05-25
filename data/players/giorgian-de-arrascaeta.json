@@ -1,0 +1,86 @@
+{
+  "slug": "giorgian-de-arrascaeta",
+  "display_name": "Giorgian de Arrascaeta",
+  "shirt_no": 10,
+  "position_code": "MF",
+  "dob": "1994-06-01",
+  "age": 31,
+  "caps": 60,
+  "goals": 13,
+  "club_from_squad_table": "Flamengo",
+  "wikipedia_title": "Giorgian de Arrascaeta",
+  "date_of_birth": "1994-06-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Flamengo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q13578003",
+  "qid": "Q13578003",
+  "name": "Giorgian de Arrascaeta",
+  "description": "Uruguayan footballer",
+  "place_of_birth_qid": "Q1714088",
+  "citizenship_qids": [
+    "Q77",
+    "Q38"
+  ],
+  "height_cm": 172.0,
+  "weight_kg": 67.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q844238",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q17479",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2442864",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q134916",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q188277",
+      "start": "2015-00-00",
+      "end": "2018-00-00"
+    }
+  ],
+  "current_club_qid": "Q17479",
+  "image_filename": "Giorgian De Arrascaeta 20171114 AUT URU 4546 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giorgian_de_Arrascaeta",
+  "transfermarkt_id": "248410",
+  "fifa_player_id": "368652",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Uruguay",
+    "Italy"
+  ],
+  "place_of_birth": "Nuevo Berl\u00edn",
+  "wikidata_current_club": "Clube de Regatas do Flamengo",
+  "wikidata_current_club_qid": "Q17479",
+  "photo": {
+    "filename": "Giorgian De Arrascaeta 20171114 AUT URU 4546 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Giorgian_De_Arrascaeta_20171114_AUT_URU_4546_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Giorgian_De_Arrascaeta_20171114_AUT_URU_4546_%28cropped%29.jpg",
+    "width": 707,
+    "height": 975,
+    "license": "CC BY-SA 3.0 at",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ailura\" title=\"User:Ailura\">Ailura</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/giorgian-de-arrascaeta.jpg"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

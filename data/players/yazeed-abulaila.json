@@ -1,0 +1,92 @@
+{
+  "slug": "yazeed-abulaila",
+  "display_name": "Yazeed Abulaila",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1993-01-08",
+  "age": 33,
+  "caps": 74,
+  "goals": 0,
+  "club_from_squad_table": "Al-Hussein",
+  "wikipedia_title": "Yazeed Abulaila",
+  "date_of_birth": "1993-01-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Hussein",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q23772014",
+  "qid": "Q23772014",
+  "name": "Yazeed Abulaila",
+  "description": "Jordanian association football player (born 1993)",
+  "place_of_birth_qid": "Q148062",
+  "citizenship_qids": [
+    "Q810"
+  ],
+  "height_cm": 189.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3174223",
+      "start": "2013-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q275940",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q285702",
+      "start": "2017-12-00",
+      "end": "2023-07-00"
+    },
+    {
+      "team_qid": "Q4704095",
+      "start": "2023-01-00",
+      "end": "2023-05-00"
+    },
+    {
+      "team_qid": "Q4704095",
+      "start": "2023-07-00",
+      "end": "2024-07-00"
+    },
+    {
+      "team_qid": "Q2829355",
+      "start": "2024-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q11144859",
+      "start": "2015-09-00",
+      "end": "2015-10-00"
+    }
+  ],
+  "current_club_qid": "Q2829355",
+  "image_filename": "Yazeed Abulaila.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yazeed_Abulaila",
+  "transfermarkt_id": "261850",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Jordan"
+  ],
+  "place_of_birth": "Zarqa",
+  "wikidata_current_club": "Al-Hussein SC",
+  "wikidata_current_club_qid": "Q2829355",
+  "photo": {
+    "filename": "Yazeed Abulaila.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Yazeed_Abulaila.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Yazeed_Abulaila.png",
+    "width": 702,
+    "height": 391,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "M.Sadegh Nikgostar",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/yazeed-abulaila.png"
+  },
+  "team_slug": "jordan",
+  "team_country": "Jordan"
+}

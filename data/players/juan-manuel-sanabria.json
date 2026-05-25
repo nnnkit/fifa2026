@@ -1,0 +1,58 @@
+{
+  "slug": "juan-manuel-sanabria",
+  "display_name": "Juan Manuel Sanabria",
+  "shirt_no": 6,
+  "position_code": "MF",
+  "dob": "2000-03-29",
+  "age": 26,
+  "caps": 5,
+  "goals": 1,
+  "club_from_squad_table": "Real Salt Lake",
+  "wikipedia_title": "Juan Manuel Sanabria",
+  "date_of_birth": "2000-03-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Salt Lake",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q60841788",
+  "qid": "Q60841788",
+  "name": "Juan Manuel Sanabria",
+  "description": "Uruguayan association football player",
+  "place_of_birth_qid": "Q812",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 173.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q499616",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q2442864",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q499616",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Manuel_Sanabria",
+  "transfermarkt_id": "446106",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Florida",
+  "wikidata_current_club": "Club Nacional de Football",
+  "wikidata_current_club_qid": "Q499616",
+  "team_slug": "uruguay",
+  "team_country": "Uruguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

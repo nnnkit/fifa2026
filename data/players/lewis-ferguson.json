@@ -1,0 +1,58 @@
+{
+  "slug": "lewis-ferguson",
+  "display_name": "Lewis Ferguson",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1999-08-24",
+  "age": 26,
+  "caps": 23,
+  "goals": 1,
+  "club_from_squad_table": "Bologna",
+  "wikipedia_title": "Lewis Ferguson",
+  "date_of_birth": "1999-08-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bologna",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q47467341",
+  "qid": "Q47467341",
+  "name": "Lewis Ferguson",
+  "description": "Scottish association football player (born 1999)",
+  "place_of_birth_qid": "Q4131",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 181.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19597",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1812121",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19597",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lewis_Ferguson",
+  "transfermarkt_id": "428563",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Hamilton",
+  "wikidata_current_club": "Rangers F.C.",
+  "wikidata_current_club_qid": "Q19597",
+  "team_slug": "scotland",
+  "team_country": "Scotland",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

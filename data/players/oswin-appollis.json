@@ -1,0 +1,85 @@
+{
+  "slug": "oswin-appollis",
+  "display_name": "Oswin Appollis",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-08-25",
+  "age": 24,
+  "caps": 25,
+  "goals": 8,
+  "club_from_squad_table": "Orlando Pirates",
+  "wikipedia_title": "Oswin Appollis",
+  "wikidata_qid": "Q64167435",
+  "qid": "Q64167435",
+  "name": "Oswin Appollis",
+  "description": "South African association footballer",
+  "date_of_birth": "2001-08-25",
+  "place_of_birth_qid": "Q4917624",
+  "citizenship_qids": [
+    "Q258"
+  ],
+  "height_cm": 171.0,
+  "position_qids": [
+    "Q193592",
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q7565407",
+      "start": "2019-05-00",
+      "end": "2019-05-00"
+    },
+    {
+      "team_qid": "Q1281608",
+      "start": "2019-11-00",
+      "end": "2022-08-00"
+    },
+    {
+      "team_qid": "Q7896161",
+      "start": "2021-02-00",
+      "end": "2021-06-00"
+    },
+    {
+      "team_qid": "Q106371788",
+      "start": "2022-09-00",
+      "end": "2023-06-00"
+    },
+    {
+      "team_qid": "Q7225920",
+      "start": "2023-07-00",
+      "end": "2025-07-00"
+    },
+    {
+      "team_qid": "Q607939",
+      "start": "2025-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q170327",
+      "start": "2023-11-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q607939",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Oswin_Appollis",
+  "transfermarkt_id": "673381",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Orlando Pirates",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder",
+    "winger"
+  ],
+  "citizenship": [
+    "South Africa"
+  ],
+  "place_of_birth": "Bishop Lavis",
+  "wikidata_current_club": "Orlando Pirates F.C.",
+  "wikidata_current_club_qid": "Q607939",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "south-africa",
+  "team_country": "South Africa"
+}

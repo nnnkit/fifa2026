@@ -1,0 +1,84 @@
+{
+  "slug": "isma\u00efla-sarr",
+  "display_name": "Isma\u00efla Sarr",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1998-02-25",
+  "age": 28,
+  "caps": 83,
+  "goals": 19,
+  "club_from_squad_table": "Crystal Palace",
+  "wikipedia_title": "Isma\u00efla Sarr",
+  "date_of_birth": "1998-02-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Crystal Palace",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26924482",
+  "qid": "Q26924482",
+  "name": "Isma\u00efla Sarr",
+  "description": "Senegalese association football player",
+  "place_of_birth_qid": "Q273779",
+  "citizenship_qids": [
+    "Q1041"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q221525",
+      "start": "2016-07-13",
+      "end": "2017-07-26"
+    },
+    {
+      "team_qid": "Q23887414",
+      "start": "2015-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q207441",
+      "start": "2016-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19509",
+      "start": "2017-07-26",
+      "end": "2019-08-08"
+    },
+    {
+      "team_qid": "Q2714",
+      "start": "2019-08-08",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2714",
+  "image_filename": "Ismaila Sarr 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Isma%C3%AFla_Sarr",
+  "transfermarkt_id": "410225",
+  "fifa_player_id": "401889",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Senegal"
+  ],
+  "place_of_birth": "Saint-Louis",
+  "wikidata_current_club": "Watford F.C.",
+  "wikidata_current_club_qid": "Q2714",
+  "photo": {
+    "filename": "Ismaila Sarr 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ismaila_Sarr_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ismaila_Sarr_2022.jpg",
+    "width": 819,
+    "height": 901,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "SENEGO TV HD",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/isma\u00efla-sarr.jpg"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

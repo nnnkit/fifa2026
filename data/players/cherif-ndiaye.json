@@ -1,0 +1,62 @@
+{
+  "slug": "cherif-ndiaye",
+  "display_name": "Cherif Ndiaye",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1996-01-23",
+  "age": 30,
+  "caps": 17,
+  "goals": 4,
+  "club_from_squad_table": "Samsunspor",
+  "wikipedia_title": "Cherif Ndiaye",
+  "date_of_birth": "1996-01-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Samsunspor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28811942",
+  "qid": "Q28811942",
+  "name": "Cherif Ndiaye",
+  "description": "Senegalese footballer",
+  "place_of_birth_qid": "Q3718",
+  "citizenship_qids": [
+    "Q1041"
+  ],
+  "height_cm": 190.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q509170",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q509170",
+  "image_filename": "Cherif Ndiaye, 27092025 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cherif_Ndiaye",
+  "transfermarkt_id": "480705",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Senegal"
+  ],
+  "place_of_birth": "Dakar",
+  "wikidata_current_club": "Sportkring Beveren",
+  "wikidata_current_club_qid": "Q509170",
+  "photo": {
+    "filename": "Cherif Ndiaye, 27092025 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Cherif_Ndiaye%2C_27092025_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Cherif_Ndiaye%2C_27092025_%28cropped%29.jpg/960px-Cherif_Ndiaye%2C_27092025_%28cropped%29.jpg",
+    "width": 1943,
+    "height": 1947,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Samsunspor",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/cherif-ndiaye.jpg"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

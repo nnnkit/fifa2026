@@ -1,0 +1,73 @@
+{
+  "slug": "khuliso-mudau",
+  "display_name": "Khuliso Mudau",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1995-04-26",
+  "age": 31,
+  "caps": 32,
+  "goals": 1,
+  "club_from_squad_table": "Mamelodi Sundowns",
+  "wikipedia_title": "Khuliso Mudau",
+  "wikidata_qid": "Q58810793",
+  "qid": "Q58810793",
+  "name": "Khuliso Mudau",
+  "description": "South African footballer",
+  "date_of_birth": "1995-04-26",
+  "place_of_birth_qid": "Q1025661",
+  "citizenship_qids": [
+    "Q258"
+  ],
+  "height_cm": 181.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q85770382",
+      "start": null,
+      "end": "2016-07-00"
+    },
+    {
+      "team_qid": "Q28223143",
+      "start": "2016-07-00",
+      "end": "2017-06-00"
+    },
+    {
+      "team_qid": "Q619771",
+      "start": "2017-07-00",
+      "end": "2020-10-00"
+    },
+    {
+      "team_qid": "Q784965",
+      "start": "2020-10-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q170327",
+      "start": "2022-03-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q784965",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Khuliso_Mudau",
+  "transfermarkt_id": "450806",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Mamelodi Sundowns",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "South Africa"
+  ],
+  "place_of_birth": "Musina",
+  "wikidata_current_club": "Mamelodi Sundowns F.C.",
+  "wikidata_current_club_qid": "Q784965",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "south-africa",
+  "team_country": "South Africa"
+}

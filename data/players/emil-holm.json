@@ -1,0 +1,72 @@
+{
+  "slug": "emil-holm",
+  "display_name": "Emil Holm",
+  "shirt_no": 6,
+  "position_code": "DF",
+  "dob": "2000-05-13",
+  "age": 26,
+  "caps": 16,
+  "goals": 2,
+  "club_from_squad_table": "Juventus",
+  "wikipedia_title": "Emil Holm (footballer)",
+  "date_of_birth": "2000-05-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Juventus",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q66843837",
+  "qid": "Q66843837",
+  "name": "Emil Holm",
+  "description": "Swedish footballer born 2000",
+  "place_of_birth_qid": "Q2253528",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 1.91,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q201567",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q3511548",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q120984494",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q3511548",
+  "image_filename": "Emil Holm (Sweden vs Moldova, 12 October 2023).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Emil_Holm_(footballer)",
+  "transfermarkt_id": "496745",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Kungsbacka parish",
+  "wikidata_current_club": "S\u00f8nderjyske Fodbold",
+  "wikidata_current_club_qid": "Q3511548",
+  "photo": {
+    "filename": "Emil Holm (Sweden vs Moldova, 12 October 2023).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Emil_Holm_%28Sweden_vs_Moldova%2C_12_October_2023%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emil_Holm_%28Sweden_vs_Moldova%2C_12_October_2023%29.jpg/960px-Emil_Holm_%28Sweden_vs_Moldova%2C_12_October_2023%29.jpg",
+    "width": 1512,
+    "height": 2452,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/198658015@N03\">Amanda Aikioniemi</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/emil-holm.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

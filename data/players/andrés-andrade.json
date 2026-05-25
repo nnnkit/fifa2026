@@ -1,0 +1,72 @@
+{
+  "slug": "andr\u00e9s-andrade",
+  "display_name": "Andr\u00e9s Andrade",
+  "shirt_no": 16,
+  "position_code": "DF",
+  "dob": "1998-10-16",
+  "age": 27,
+  "caps": 47,
+  "goals": 1,
+  "club_from_squad_table": "LASK",
+  "wikipedia_title": "Andr\u00e9s Andrade (footballer, born 1998)",
+  "date_of_birth": "1998-10-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "LASK",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q38764408",
+  "qid": "Q38764408",
+  "name": "Andr\u00e9s Andrade Cede\u00f1o",
+  "description": "association football player",
+  "place_of_birth_qid": "Q3306",
+  "citizenship_qids": [
+    "Q804"
+  ],
+  "height_cm": 187.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2060037",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q5510497",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q20994357",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q392310",
+  "image_filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 51 (Andr\u00e9s Andrade Cede\u00f1o).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Andrade_(footballer,_born_1998)",
+  "transfermarkt_id": "403808",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Panama"
+  ],
+  "place_of_birth": "Panama City",
+  "wikidata_current_club": "San Francisco F.C.",
+  "wikidata_current_club_qid": "Q2060037",
+  "photo": {
+    "filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 51 (Andr\u00e9s Andrade Cede\u00f1o).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_51_%28Andr%C3%A9s_Andrade_Cede%C3%B1o%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_51_%28Andr%C3%A9s_Andrade_Cede%C3%B1o%29.jpg",
+    "width": 694,
+    "height": 1002,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/andr\u00e9s-andrade.jpg"
+  },
+  "team_slug": "panama",
+  "team_country": "Panama"
+}

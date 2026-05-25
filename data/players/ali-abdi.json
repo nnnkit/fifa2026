@@ -1,0 +1,107 @@
+{
+  "slug": "ali-abdi",
+  "display_name": "Ali Abdi",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1993-12-20",
+  "age": 32,
+  "caps": 45,
+  "goals": 7,
+  "club_from_squad_table": "Nice",
+  "wikipedia_title": "Ali Abdi (footballer)",
+  "date_of_birth": "1993-12-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Nice",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q17350507",
+  "qid": "Q17350507",
+  "name": "Ali Abdi",
+  "description": "Tunisian association football player",
+  "place_of_birth_qid": "Q46325",
+  "citizenship_qids": [
+    "Q948"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q44897",
+      "start": "2012-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q1851954",
+      "start": "2014-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q374632",
+      "start": null,
+      "end": "2011-00-00"
+    },
+    {
+      "team_qid": "Q1688574",
+      "start": "2011-00-00",
+      "end": "2012-00-00"
+    },
+    {
+      "team_qid": "Q1102938",
+      "start": "2016-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1051013",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q193377",
+      "start": "2021-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q27971",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q109506285",
+      "start": "2021-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q185163",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q185163",
+  "image_filename": "Abdi asse ogcn 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Abdi_(footballer)",
+  "transfermarkt_id": "211474",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Tunisia"
+  ],
+  "place_of_birth": "Sfax",
+  "wikidata_current_club": "OGC Nice",
+  "wikidata_current_club_qid": "Q185163",
+  "photo": {
+    "filename": "Abdi asse ogcn 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Abdi_asse_ogcn_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Abdi_asse_ogcn_2425.png",
+    "width": 574,
+    "height": 895,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ali-abdi.png"
+  },
+  "team_slug": "tunisia",
+  "team_country": "Tunisia"
+}

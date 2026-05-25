@@ -1,0 +1,61 @@
+{
+  "slug": "víctor-guzmán",
+  "display_name": "Víctor Guzmán",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2002-03-07",
+  "age": 24,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "Monterrey",
+  "wikipedia_title": "Víctor Guzmán (footballer, born 2002)",
+  "wikidata_qid": "Q85707677",
+  "qid": "Q85707677",
+  "name": "Víctor Guzmán",
+  "description": "Mexican association football player (born 2002)",
+  "date_of_birth": "2002-03-07",
+  "place_of_birth_qid": "Q124739",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1103168",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1103168",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%ADctor_Guzm%C3%A1n_(footballer,_born_2002)",
+  "transfermarkt_id": "686444",
+  "current_club": "Monterrey",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Tijuana",
+  "wikidata_current_club": "Club Tijuana",
+  "wikidata_current_club_qid": "Q1103168",
+  "image_filename": "2023_Leagues_Cup_-_Seattle_vs._Monterrey_-_Víctor_Guzmán.jpg",
+  "photo": {
+    "filename": "2023_Leagues_Cup_-_Seattle_vs._Monterrey_-_Víctor_Guzmán.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/2023_Leagues_Cup_-_Seattle_vs._Monterrey_-_V%C3%ADctor_Guzm%C3%A1n.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/2023_Leagues_Cup_-_Seattle_vs._Monterrey_-_V%C3%ADctor_Guzm%C3%A1n.jpg",
+    "width": 220,
+    "height": 322,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:SounderBruce\" title=\"User:SounderBruce\">SounderBruce</a>",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/víctor-guzmán.jpg"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

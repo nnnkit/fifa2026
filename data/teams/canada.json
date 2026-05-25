@@ -1,0 +1,2136 @@
+{
+  "slug": "canada",
+  "country": "Canada",
+  "wikidata_qid": "Q5029526",
+  "fetched_at": "2026-05-24T14:39:37+00:00",
+  "source": {
+    "kind": "national-team",
+    "title": "Canada men's national soccer team",
+    "url": "https://en.wikipedia.org/wiki/Canada_men's_national_soccer_team"
+  },
+  "squad_size": 28,
+  "players": [
+    {
+      "slug": "dayne-st-clair",
+      "display_name": "Dayne St. Clair",
+      "shirt_no": 1,
+      "position_code": "GK",
+      "dob": "1997-05-09",
+      "age": 29,
+      "caps": 19,
+      "goals": 0,
+      "club_from_squad_table": "Inter Miami",
+      "wikipedia_title": "Dayne St. Clair",
+      "wikidata_qid": "Q60583915",
+      "qid": "Q60583915",
+      "name": "Dayne St. Clair",
+      "description": "Canadian soccer player",
+      "date_of_birth": "1997-05-09",
+      "place_of_birth_qid": "Q386626",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 191.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q6781513",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q16842434",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q7013918",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q19828435",
+          "start": "2019-00-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q60745055",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q22025437",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q16844931",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q16844931",
+      "image_filename": "Dayne St. Clair - MNUFC - May 2025.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dayne_St._Clair",
+      "transfermarkt_id": "439750",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Inter Miami",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Pickering",
+      "wikidata_current_club": "Inter Miami CF",
+      "wikidata_current_club_qid": "Q16844931",
+      "photo": {
+        "filename": "Dayne St. Clair - MNUFC - May 2025.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dayne_St._Clair_-_MNUFC_-_May_2025.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dayne_St._Clair_-_MNUFC_-_May_2025.jpg/960px-Dayne_St._Clair_-_MNUFC_-_May_2025.jpg",
+        "width": 3887,
+        "height": 4735,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Andy Witchger",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dayne-st-clair.jpg"
+      }
+    },
+    {
+      "slug": "maxime-cr\u00e9peau",
+      "display_name": "Maxime Cr\u00e9peau",
+      "shirt_no": 16,
+      "position_code": "GK",
+      "dob": "1994-04-11",
+      "age": 32,
+      "caps": 30,
+      "goals": 0,
+      "club_from_squad_table": "Orlando City",
+      "wikipedia_title": "Maxime Cr\u00e9peau",
+      "wikidata_qid": "Q19866530",
+      "qid": "Q19866530",
+      "name": "Maxime Cr\u00e9peau",
+      "description": "Canadian soccer player",
+      "date_of_birth": "1994-04-11",
+      "place_of_birth_qid": "Q959858",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q167615",
+          "start": "2013-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18175589",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q3590639",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q5029522",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3873967",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q18175589",
+          "start": "2016-01-01",
+          "end": "2016-01-01"
+        }
+      ],
+      "current_club_qid": "Q3873967",
+      "image_filename": "Maxime Cr\u00e9peau and James Pantemis Portland Timbers 2024 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maxime_Cr%C3%A9peau",
+      "transfermarkt_id": "189014",
+      "wikidata_date_of_birth": "1994-05-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Orlando City",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Greenfield Park",
+      "wikidata_current_club": "Canada Olympic soccer team",
+      "wikidata_current_club_qid": "Q3873967",
+      "photo": {
+        "filename": "Maxime Cr\u00e9peau and James Pantemis Portland Timbers 2024 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Maxime_Cr%C3%A9peau_and_James_Pantemis_Portland_Timbers_2024_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Maxime_Cr%C3%A9peau_and_James_Pantemis_Portland_Timbers_2024_%28cropped%29.jpg/500px-Maxime_Cr%C3%A9peau_and_James_Pantemis_Portland_Timbers_2024_%28cropped%29.jpg",
+        "width": 603,
+        "height": 849,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Frenchieinportland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Frenchieinportland (page does not exist)\">Frenchieinportland</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/maxime-cr\u00e9peau.jpg"
+      }
+    },
+    {
+      "slug": "owen-goodman",
+      "display_name": "Owen Goodman",
+      "shirt_no": 18,
+      "position_code": "GK",
+      "dob": "2003-11-27",
+      "age": 22,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Barnsley",
+      "wikipedia_title": "Owen Goodman",
+      "wikidata_qid": "Q119079226",
+      "qid": "Q119079226",
+      "name": "Owen Goodman",
+      "description": "English association football player",
+      "date_of_birth": "2003-11-27",
+      "image_filename": "Owen Goodman 15022025 (1).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Owen_Goodman",
+      "transfermarkt_id": "814848",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barnsley",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Owen Goodman 15022025 (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Owen_Goodman_15022025_%281%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Owen_Goodman_15022025_%281%29.jpg/960px-Owen_Goodman_15022025_%281%29.jpg",
+        "width": 2253,
+        "height": 4032,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/owen-goodman.jpg"
+      }
+    },
+    {
+      "slug": "jahkeele-marshall-rutty",
+      "display_name": "Jahkeele Marshall-Rutty",
+      "shirt_no": 2,
+      "position_code": "DF",
+      "dob": "2004-06-16",
+      "age": 21,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "New York Red Bulls",
+      "wikipedia_title": "Jahkeele Marshall-Rutty",
+      "wikidata_qid": "Q65951205",
+      "qid": "Q65951205",
+      "name": "Jahkeele Marshall-Rutty",
+      "description": "Canadian soccer player",
+      "date_of_birth": "2004-06-16",
+      "place_of_birth_qid": "Q44198",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 171.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19931776",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q204220",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q167615",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q78944434",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19931776",
+      "image_filename": "Jahkeele Marshall-Rutty Red Bulls Revolution-12.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jahkeele_Marshall-Rutty",
+      "transfermarkt_id": "640852",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "New York Red Bulls",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Brampton",
+      "wikidata_current_club": "Toronto FC II",
+      "wikidata_current_club_qid": "Q19931776",
+      "photo": {
+        "filename": "Jahkeele Marshall-Rutty Red Bulls Revolution-12.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Jahkeele_Marshall-Rutty_Red_Bulls_Revolution-12.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Jahkeele_Marshall-Rutty_Red_Bulls_Revolution-12.jpg/960px-Jahkeele_Marshall-Rutty_Red_Bulls_Revolution-12.jpg",
+        "width": 3333,
+        "height": 5000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jahkeele-marshall-rutty.jpg"
+      }
+    },
+    {
+      "slug": "ralph-priso",
+      "display_name": "Ralph Priso",
+      "shirt_no": 3,
+      "position_code": "DF",
+      "dob": "2002-08-02",
+      "age": 23,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Vancouver Whitecaps",
+      "wikipedia_title": "Ralph Priso",
+      "wikidata_qid": "Q78637995",
+      "qid": "Q78637995",
+      "name": "Ralph Priso",
+      "description": "Canadian soccer player",
+      "date_of_birth": "2002-08-02",
+      "place_of_birth_qid": "Q172",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q327238",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q327238",
+      "image_filename": "Ralph Priso (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ralph_Priso",
+      "transfermarkt_id": "657271",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Vancouver Whitecaps",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Toronto",
+      "wikidata_current_club": "Toronto FC",
+      "wikidata_current_club_qid": "Q327238",
+      "photo": {
+        "filename": "Ralph Priso (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ralph_Priso_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ralph_Priso_%28cropped%29.jpg",
+        "width": 88,
+        "height": 158,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Robin Glover",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ralph-priso.jpg"
+      }
+    },
+    {
+      "slug": "kamal-miller",
+      "display_name": "Kamal Miller",
+      "shirt_no": 4,
+      "position_code": "DF",
+      "dob": "1997-05-16",
+      "age": 29,
+      "caps": 52,
+      "goals": 0,
+      "club_from_squad_table": "Portland Timbers",
+      "wikipedia_title": "Kamal Miller",
+      "wikidata_qid": "Q61959630",
+      "qid": "Q61959630",
+      "name": "Kamal Miller",
+      "description": "Canadian soccer player",
+      "date_of_birth": "1997-05-16",
+      "place_of_birth_qid": "Q1025401",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 185.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15214308",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q16842434",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q7300584",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q5029522",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q167615",
+          "start": "2021-00-00",
+          "end": "2023-04-00"
+        },
+        {
+          "team_qid": "Q9169796",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q16844931",
+          "start": "2023-04-00",
+          "end": "2023-12-00"
+        },
+        {
+          "team_qid": "Q1031200",
+          "start": "2024-01-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1031200",
+      "image_filename": "Inter Miami 0-0 Nashville SC 12 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kamal_Miller",
+      "transfermarkt_id": "487504",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Portland Timbers",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Scarborough",
+      "photo": {
+        "filename": "Inter Miami 0-0 Nashville SC 12 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Inter_Miami_0-0_Nashville_SC_12_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Inter_Miami_0-0_Nashville_SC_12_%28cropped%29.jpg",
+        "width": 899,
+        "height": 1213,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:TheSoccerBoy\" title=\"User:TheSoccerBoy\">TheSoccerBoy</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kamal-miller.jpg"
+      }
+    },
+    {
+      "slug": "joel-waterman",
+      "display_name": "Joel Waterman",
+      "shirt_no": 5,
+      "position_code": "DF",
+      "dob": "1996-01-24",
+      "age": 30,
+      "caps": 17,
+      "goals": 0,
+      "club_from_squad_table": "Chicago Fire",
+      "wikipedia_title": "Joel Waterman",
+      "wikidata_qid": "Q63700064",
+      "qid": "Q63700064",
+      "name": "Joel Waterman",
+      "description": "Canadian soccer player",
+      "date_of_birth": "1996-01-24",
+      "place_of_birth_qid": "Q1805330",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q6418318",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q55075185",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q19876568",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q53795705",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q167615",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q167615",
+      "image_filename": "Joel Waterman Philadelphia Chicago 10.26.25-025 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joel_Waterman",
+      "transfermarkt_id": "441738",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Chicago Fire",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Langley",
+      "wikidata_current_club": "CF Montr\u00e9al",
+      "wikidata_current_club_qid": "Q167615",
+      "photo": {
+        "filename": "Joel Waterman Philadelphia Chicago 10.26.25-025 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Joel_Waterman_Philadelphia_Chicago_10.26.25-025_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Joel_Waterman_Philadelphia_Chicago_10.26.25-025_%28cropped%29.jpg/960px-Joel_Waterman_Philadelphia_Chicago_10.26.25-025_%28cropped%29.jpg",
+        "width": 3184,
+        "height": 4243,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/joel-waterman.jpg"
+      }
+    },
+    {
+      "slug": "derek-cornelius",
+      "display_name": "Derek Cornelius",
+      "shirt_no": 13,
+      "position_code": "DF",
+      "dob": "1997-11-25",
+      "age": 28,
+      "caps": 42,
+      "goals": 1,
+      "club_from_squad_table": "Rangers",
+      "wikipedia_title": "Derek Cornelius",
+      "wikidata_qid": "Q29901014",
+      "qid": "Q29901014",
+      "name": "Derek Cornelius",
+      "description": "Canadian soccer player",
+      "date_of_birth": "1997-11-25",
+      "place_of_birth_qid": "Q386567",
+      "citizenship_qids": [
+        "Q16",
+        "Q766"
+      ],
+      "height_cm": 187.0,
+      "weight_kg": 86.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q208635",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q665920",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q639506",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q218724",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q196107",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1460053",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q204881",
+          "start": "2023-00-00",
+          "end": "2024-08-00"
+        },
+        {
+          "team_qid": "Q132885",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19597",
+          "start": "2025-09-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19597",
+      "image_filename": "08042023 BP-MFF reportagefotografen 7309.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Derek_Cornelius",
+      "transfermarkt_id": "328609",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rangers",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Canada",
+        "Jamaica"
+      ],
+      "place_of_birth": "Ajax",
+      "wikidata_current_club": "Rangers F.C.",
+      "wikidata_current_club_qid": "Q19597",
+      "photo": {
+        "filename": "08042023 BP-MFF reportagefotografen 7309.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/08042023_BP-MFF_reportagefotografen_7309.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/08042023_BP-MFF_reportagefotografen_7309.jpg/960px-08042023_BP-MFF_reportagefotografen_7309.jpg",
+        "width": 3391,
+        "height": 2261,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Reportagefotografen\" title=\"User:Reportagefotografen\">Reportagefotografen</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/derek-cornelius.jpg"
+      }
+    },
+    {
+      "slug": "luc-de-fougerolles",
+      "display_name": "Luc de Fougerolles",
+      "shirt_no": 15,
+      "position_code": "DF",
+      "dob": "2005-10-12",
+      "age": 20,
+      "caps": 11,
+      "goals": 0,
+      "club_from_squad_table": "Dender",
+      "wikipedia_title": "Luc de Fougerolles",
+      "wikidata_qid": "Q121829403",
+      "qid": "Q121829403",
+      "name": "Luc de Fougerolles",
+      "description": "Canadian soccer player",
+      "date_of_birth": "2005-10-12",
+      "place_of_birth_qid": "Q84",
+      "citizenship_qids": [
+        "Q145",
+        "Q16"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18708",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2024-03-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18708",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luc_de_Fougerolles",
+      "transfermarkt_id": "921995",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Dender",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "United Kingdom",
+        "Canada"
+      ],
+      "place_of_birth": "London",
+      "wikidata_current_club": "Fulham F.C.",
+      "wikidata_current_club_qid": "Q18708",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "richie-laryea",
+      "display_name": "Richie Laryea",
+      "shirt_no": 22,
+      "position_code": "DF",
+      "dob": "1995-01-07",
+      "age": 31,
+      "caps": 73,
+      "goals": 1,
+      "club_from_squad_table": "Toronto FC",
+      "wikipedia_title": "Richie Laryea",
+      "wikidata_qid": "Q22096162",
+      "qid": "Q22096162",
+      "name": "Richie Laryea",
+      "description": "Canadian soccer player",
+      "date_of_birth": "1995-01-07",
+      "place_of_birth_qid": "Q172",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15214308",
+          "start": "2016-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q20807149",
+          "start": "2016-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q19876709",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q65090007",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q3873967",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q327238",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q4701707",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q327238",
+      "image_filename": "CINvOCB 2017-05-13 - Richie Laryea (34525525311) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Richie_Laryea",
+      "transfermarkt_id": "417348",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Toronto FC",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Toronto",
+      "photo": {
+        "filename": "CINvOCB 2017-05-13 - Richie Laryea (34525525311) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/CINvOCB_2017-05-13_-_Richie_Laryea_%2834525525311%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CINvOCB_2017-05-13_-_Richie_Laryea_%2834525525311%29_%28cropped%29.jpg/960px-CINvOCB_2017-05-13_-_Richie_Laryea_%2834525525311%29_%28cropped%29.jpg",
+        "width": 1305,
+        "height": 2604,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65581273@N05\">Hayden Schiff</a> from Cincinnati, USA",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/richie-laryea.jpg"
+      }
+    },
+    {
+      "slug": "niko-sigur",
+      "display_name": "Niko Sigur",
+      "shirt_no": 23,
+      "position_code": "DF",
+      "dob": "2003-09-09",
+      "age": 22,
+      "caps": 17,
+      "goals": 2,
+      "club_from_squad_table": "Hajduk Split",
+      "wikipedia_title": "Niko Sigur",
+      "wikidata_qid": "Q117830854",
+      "qid": "Q117830854",
+      "name": "Niko Sigur",
+      "description": "croatian-Canadian soccer player (born 2003)",
+      "date_of_birth": "2003-09-09",
+      "place_of_birth_qid": "Q244025",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 180.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Niko_Sigur",
+      "transfermarkt_id": "1045375",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Burnaby",
+      "current_club": "Hajduk Split",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "alistair-johnston",
+      "display_name": "Alistair Johnston",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-10-08",
+      "age": 27,
+      "caps": 56,
+      "goals": 1,
+      "club_from_squad_table": "Celtic",
+      "wikipedia_title": "Alistair Johnston",
+      "wikidata_qid": "Q81878309",
+      "qid": "Q81878309",
+      "name": "Alistair Johnston",
+      "description": "Canadian association football player",
+      "date_of_birth": "1998-10-08",
+      "place_of_birth_qid": "Q24639",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q124355618"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q65056819",
+          "start": "2015-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q47518754",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q167615",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q19593",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19593",
+      "image_filename": "A Johnston Canada national football team WC2022 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alistair_Johnston",
+      "transfermarkt_id": "637446",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Celtic",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "right-back"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Vancouver",
+      "wikidata_current_club": "Celtic F.C.",
+      "wikidata_current_club_qid": "Q19593",
+      "photo": {
+        "filename": "A Johnston Canada national football team WC2022 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/A_Johnston_Canada_national_football_team_WC2022_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/A_Johnston_Canada_national_football_team_WC2022_%28cropped%29.jpg",
+        "width": 111,
+        "height": 189,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alistair-johnston.jpg"
+      }
+    },
+    {
+      "slug": "mo\u00efse-bombito",
+      "display_name": "Mo\u00efse Bombito",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-03-30",
+      "age": 26,
+      "caps": 19,
+      "goals": 0,
+      "club_from_squad_table": "Nice",
+      "wikipedia_title": "Mo\u00efse Bombito",
+      "wikidata_qid": "Q116146104",
+      "qid": "Q116146104",
+      "name": "Mo\u00efse Bombito",
+      "description": "Canadian soccer player",
+      "date_of_birth": "2000-03-30",
+      "place_of_birth_qid": "Q340",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q104422415",
+          "start": null,
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q642408",
+          "start": "2023-05-14",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q110764010",
+          "start": "2023-05-08",
+          "end": "2023-08-10"
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2023-06-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q185163",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q185163",
+      "image_filename": "Bombito asse ogcn 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mo%C3%AFse_Bombito",
+      "transfermarkt_id": "1089202",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nice",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Montreal",
+      "wikidata_current_club": "OGC Nice",
+      "wikidata_current_club_qid": "Q185163",
+      "photo": {
+        "filename": "Bombito asse ogcn 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bombito_asse_ogcn_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bombito_asse_ogcn_2425.png",
+        "width": 568,
+        "height": 882,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mo\u00efse-bombito.png"
+      }
+    },
+    {
+      "slug": "mathieu-choini\u00e8re",
+      "display_name": "Mathieu Choini\u00e8re",
+      "shirt_no": 6,
+      "position_code": "MF",
+      "dob": "1999-02-07",
+      "age": 27,
+      "caps": 22,
+      "goals": 0,
+      "club_from_squad_table": "Los Angeles FC",
+      "wikipedia_title": "Mathieu Choini\u00e8re",
+      "wikidata_qid": "Q55760452",
+      "qid": "Q55760452",
+      "name": "Mathieu Choini\u00e8re",
+      "description": "Canadian soccer player",
+      "date_of_birth": "1999-02-07",
+      "place_of_birth_qid": "Q3461713",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q167615",
+          "start": "2018-07-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q5029522",
+          "start": "2018-11-00",
+          "end": "2018-11-00"
+        },
+        {
+          "team_qid": "Q3873967",
+          "start": "2018-05-00",
+          "end": "2018-06-00"
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2023-10-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q201360",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18380286",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18380286",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mathieu_Choini%C3%A8re",
+      "transfermarkt_id": "589006",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Los Angeles FC",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Saint-Alexandre",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "isma\u00ebl-kon\u00e9",
+      "display_name": "Isma\u00ebl Kon\u00e9",
+      "shirt_no": 8,
+      "position_code": "MF",
+      "dob": "2002-06-16",
+      "age": 23,
+      "caps": 38,
+      "goals": 4,
+      "club_from_squad_table": "Sassuolo",
+      "wikipedia_title": "Isma\u00ebl Kon\u00e9",
+      "wikidata_qid": "Q111009946",
+      "qid": "Q111009946",
+      "name": "Isma\u00ebl Kon\u00e9",
+      "description": "Canadian soccer player",
+      "date_of_birth": "2002-06-16",
+      "place_of_birth_qid": "Q1515",
+      "citizenship_qids": [
+        "Q1008",
+        "Q16"
+      ],
+      "height_cm": 1.88,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2714",
+          "start": "2023-01-01",
+          "end": "2024-07-00"
+        },
+        {
+          "team_qid": "Q132885",
+          "start": "2024-07-02",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q132885",
+      "image_filename": "Isma\u00ebl Kon\u00e9 WC2022 (cropped 2).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Isma%C3%ABl_Kon%C3%A9",
+      "transfermarkt_id": "921655",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sassuolo",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Ivory Coast",
+        "Canada"
+      ],
+      "place_of_birth": "Abidjan",
+      "wikidata_current_club": "Olympique de Marseille",
+      "wikidata_current_club_qid": "Q132885",
+      "photo": {
+        "filename": "Isma\u00ebl Kon\u00e9 WC2022 (cropped 2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Isma%C3%ABl_Kon%C3%A9_WC2022_%28cropped_2%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Isma%C3%ABl_Kon%C3%A9_WC2022_%28cropped_2%29.jpg",
+        "width": 506,
+        "height": 676,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/isma\u00ebl-kon\u00e9.jpg"
+      }
+    },
+    {
+      "slug": "junior-hoilett",
+      "display_name": "Junior Hoilett",
+      "shirt_no": 10,
+      "position_code": "MF",
+      "dob": "1990-06-05",
+      "age": 35,
+      "caps": 69,
+      "goals": 17,
+      "club_from_squad_table": "Swindon Town",
+      "wikipedia_title": "Junior Hoilett",
+      "wikidata_qid": "Q376313",
+      "qid": "Q376313",
+      "name": "Junior Hoilett",
+      "description": "Canadian soccer player",
+      "date_of_birth": "1990-06-05",
+      "place_of_birth_qid": "Q44198",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 174.0,
+      "weight_kg": 67.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19446",
+          "start": "2007-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q160532",
+          "start": "2007-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q6463",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q18723",
+          "start": "2012-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q18662",
+          "start": "2016-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q18729",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q196107",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q187326",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q192597",
+          "start": "2024-00-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q19634",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19634",
+      "image_filename": "David Hoilett WC2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Junior_Hoilett",
+      "transfermarkt_id": "58993",
+      "fifa_player_id": "392850",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Swindon Town",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Brampton",
+      "wikidata_current_club": "Swindon Town F.C.",
+      "wikidata_current_club_qid": "Q19634",
+      "photo": {
+        "filename": "David Hoilett WC2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/David_Hoilett_WC2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/David_Hoilett_WC2022.jpg",
+        "width": 720,
+        "height": 993,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/junior-hoilett.jpg"
+      }
+    },
+    {
+      "slug": "liam-millar",
+      "display_name": "Liam Millar",
+      "shirt_no": 11,
+      "position_code": "MF",
+      "dob": "1999-09-27",
+      "age": 26,
+      "caps": 39,
+      "goals": 1,
+      "club_from_squad_table": "Hull City",
+      "wikipedia_title": "Liam Millar",
+      "wikidata_qid": "Q50505969",
+      "qid": "Q50505969",
+      "name": "Liam Millar",
+      "description": "Canadian soccer player",
+      "date_of_birth": "1999-09-27",
+      "place_of_birth_qid": "Q172",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 1.81,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q208635",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q18708",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18708",
+      "image_filename": "Liam Millar.jpeg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Liam_Millar",
+      "transfermarkt_id": "487417",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Hull City",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Toronto",
+      "wikidata_current_club": "Fulham F.C.",
+      "wikidata_current_club_qid": "Q18708",
+      "photo": {
+        "filename": "Liam Millar.jpeg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Liam_Millar.jpeg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Liam_Millar.jpeg",
+        "width": 637,
+        "height": 1016,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/143707741@N04\">Kane Brooker</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/liam-millar.jpeg"
+      }
+    },
+    {
+      "slug": "tajon-buchanan",
+      "display_name": "Tajon Buchanan",
+      "shirt_no": 17,
+      "position_code": "MF",
+      "dob": "1999-02-08",
+      "age": 27,
+      "caps": 58,
+      "goals": 8,
+      "club_from_squad_table": "Villarreal",
+      "wikipedia_title": "Tajon Buchanan",
+      "wikidata_qid": "Q62016194",
+      "qid": "Q62016194",
+      "name": "Tajon Buchanan",
+      "description": "Canadian soccer player",
+      "date_of_birth": "1999-02-08",
+      "place_of_birth_qid": "Q44198",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 68.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q65090007",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q309095",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q190916",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2024-00-00",
+          "end": "2025-07-29"
+        },
+        {
+          "team_qid": "Q3873967",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q9169796",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2025-02-00",
+          "end": "2025-07-29"
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2025-07-30",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q12297",
+      "image_filename": "Tajon Buchanan WC2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tajon_Buchanan",
+      "transfermarkt_id": "638793",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Villarreal",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Brampton",
+      "wikidata_current_club": "Villarreal CF",
+      "wikidata_current_club_qid": "Q12297",
+      "photo": {
+        "filename": "Tajon Buchanan WC2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Tajon_Buchanan_WC2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Tajon_Buchanan_WC2022.jpg",
+        "width": 448,
+        "height": 530,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/tajon-buchanan.jpg"
+      }
+    },
+    {
+      "slug": "nathan-saliba",
+      "display_name": "Nathan Saliba",
+      "shirt_no": 19,
+      "position_code": "MF",
+      "dob": "2004-02-07",
+      "age": 22,
+      "caps": 13,
+      "goals": 2,
+      "club_from_squad_table": "Anderlecht",
+      "wikipedia_title": "Nathan Saliba",
+      "wikidata_qid": "Q116908746",
+      "qid": "Q116908746",
+      "name": "Nathan Saliba",
+      "description": "Canadian soccer player",
+      "date_of_birth": "2004-02-07",
+      "place_of_birth_qid": "Q139398",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Nathan-Dylan Saliba RSC Anderlecht 2025.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nathan_Saliba",
+      "transfermarkt_id": "842420",
+      "wikidata_date_of_birth": "2004-08-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Longueuil",
+      "current_club": "Anderlecht",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Nathan-Dylan Saliba RSC Anderlecht 2025.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Nathan-Dylan_Saliba_RSC_Anderlecht_2025.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Nathan-Dylan_Saliba_RSC_Anderlecht_2025.jpg",
+        "width": 835,
+        "height": 1232,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sidney.Cortez&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sidney.Cortez (page does not exist)\">Sidney.Cortez</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nathan-saliba.jpg"
+      }
+    },
+    {
+      "slug": "ali-ahmed",
+      "display_name": "Ali Ahmed",
+      "shirt_no": 20,
+      "position_code": "MF",
+      "dob": "2000-10-10",
+      "age": 25,
+      "caps": 24,
+      "goals": 1,
+      "club_from_squad_table": "Norwich City",
+      "wikipedia_title": "Ali Ahmed (soccer)",
+      "wikidata_qid": "Q111741178",
+      "qid": "Q111741178",
+      "name": "Ali Ahmed",
+      "description": "Canadian soccer player",
+      "date_of_birth": "2000-10-10",
+      "place_of_birth_qid": "Q172",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19564744",
+          "start": "2022-03-00",
+          "end": "2022-11-00"
+        },
+        {
+          "team_qid": "Q196107",
+          "start": "2022-04-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2023-06-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18721",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18721",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Ahmed_(soccer)",
+      "transfermarkt_id": "995642",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Norwich City",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Toronto",
+      "wikidata_current_club": "Norwich City F.C.",
+      "wikidata_current_club_qid": "Q18721",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "jonathan-osorio",
+      "display_name": "Jonathan Osorio",
+      "shirt_no": 21,
+      "position_code": "MF",
+      "dob": "1992-06-12",
+      "age": 33,
+      "caps": 89,
+      "goals": 9,
+      "club_from_squad_table": "Toronto FC",
+      "wikipedia_title": "Jonathan Osorio",
+      "wikidata_qid": "Q10554558",
+      "qid": "Q10554558",
+      "name": "Jonathan Osorio",
+      "description": "Canadian soccer player",
+      "date_of_birth": "1992-06-12",
+      "place_of_birth_qid": "Q172",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 175.0,
+      "weight_kg": 73.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q327238",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2616054",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q5029522",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2013-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q327238",
+      "image_filename": "Jonathan Osorio.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jonathan_Osorio",
+      "transfermarkt_id": "260807",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Toronto FC",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Toronto",
+      "photo": {
+        "filename": "Jonathan Osorio.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Jonathan_Osorio.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Jonathan_Osorio.jpg",
+        "width": 360,
+        "height": 465,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.rocketrobinsoccerintoronto.com/\">Robin Glover</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jonathan-osorio.jpg"
+      }
+    },
+    {
+      "slug": "marcelo-flores",
+      "display_name": "Marcelo Flores",
+      "shirt_no": 26,
+      "position_code": "MF",
+      "dob": "2003-10-01",
+      "age": 22,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "UANL",
+      "wikipedia_title": "Marcelo Flores",
+      "wikidata_qid": "Q100243106",
+      "qid": "Q100243106",
+      "name": "Marcelo Flores",
+      "description": "Canadian association football player (born 2003)",
+      "date_of_birth": "2003-10-01",
+      "place_of_birth_qid": "Q3103735",
+      "citizenship_qids": [
+        "Q16",
+        "Q96"
+      ],
+      "height_cm": 1.64,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q9653",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q4384231",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q271574",
+          "start": "2022-07-20",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q849823",
+          "start": "2023-09-08",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q849823",
+      "image_filename": "Inter Miami CF 2-1 UANL (20 August 2025) 26 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marcelo_Flores",
+      "transfermarkt_id": "668495",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "UANL",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Canada",
+        "Mexico"
+      ],
+      "place_of_birth": "Georgetown",
+      "wikidata_current_club": "Tigres UANL",
+      "wikidata_current_club_qid": "Q849823",
+      "photo": {
+        "filename": "Inter Miami CF 2-1 UANL (20 August 2025) 26 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Inter_Miami_CF_2-1_UANL_%2820_August_2025%29_26_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Inter_Miami_CF_2-1_UANL_%2820_August_2025%29_26_%28cropped%29.jpg",
+        "width": 833,
+        "height": 1201,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:TheSoccerBoy\" title=\"User:TheSoccerBoy\">TheSoccerBoy</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marcelo-flores.jpg"
+      }
+    },
+    {
+      "slug": "jonathan-david",
+      "display_name": "Jonathan David",
+      "shirt_no": 7,
+      "position_code": "FW",
+      "dob": "2000-01-14",
+      "age": 26,
+      "caps": 75,
+      "goals": 39,
+      "club_from_squad_table": "Juventus",
+      "wikipedia_title": "Jonathan David",
+      "wikidata_qid": "Q56085180",
+      "qid": "Q56085180",
+      "name": "Jonathan David",
+      "description": "Canadian soccer player",
+      "date_of_birth": "2000-01-14",
+      "place_of_birth_qid": "Q18419",
+      "citizenship_qids": [
+        "Q16",
+        "Q30"
+      ],
+      "height_cm": 1.75,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18232",
+          "start": "2018-07-01",
+          "end": "2020-08-10"
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19516",
+          "start": "2020-08-11",
+          "end": "2025-06-30"
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2025-07-04",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1422",
+      "image_filename": "Jonathan David asse losc 2425 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jonathan_David",
+      "transfermarkt_id": "533738",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Juventus",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Canada",
+        "United States"
+      ],
+      "place_of_birth": "Brooklyn",
+      "wikidata_current_club": "Juventus FC",
+      "wikidata_current_club_qid": "Q1422",
+      "photo": {
+        "filename": "Jonathan David asse losc 2425 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Jonathan_David_asse_losc_2425_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Jonathan_David_asse_losc_2425_%28cropped%29.jpg",
+        "width": 781,
+        "height": 952,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jonathan-david.jpg"
+      }
+    },
+    {
+      "slug": "cyle-larin",
+      "display_name": "Cyle Larin",
+      "shirt_no": 9,
+      "position_code": "FW",
+      "dob": "1995-04-17",
+      "age": 31,
+      "caps": 88,
+      "goals": 30,
+      "club_from_squad_table": "Southampton",
+      "wikipedia_title": "Cyle Larin",
+      "wikidata_qid": "Q16935084",
+      "qid": "Q16935084",
+      "name": "Cyle Larin",
+      "description": "Canadian association football player",
+      "date_of_birth": "1995-04-17",
+      "place_of_birth_qid": "Q44198",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 86.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15214308",
+          "start": "2015-01-15",
+          "end": "2018-01-15"
+        },
+        {
+          "team_qid": "Q5029522",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q172567",
+          "start": "2018-01-15",
+          "end": null
+        },
+        {
+          "team_qid": "Q5161552",
+          "start": "2013-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q8835",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q172567",
+      "image_filename": "Cyle Larin (2021-22 S\u00fcper Lig) - Resim1.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cyle_Larin",
+      "transfermarkt_id": "343463",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Southampton",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Brampton",
+      "wikidata_current_club": "Be\u015fikta\u015f J.K.",
+      "wikidata_current_club_qid": "Q172567",
+      "photo": {
+        "filename": "Cyle Larin (2021-22 S\u00fcper Lig) - Resim1.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cyle_Larin_%282021-22_S%C3%BCper_Lig%29_-_Resim1.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cyle_Larin_%282021-22_S%C3%BCper_Lig%29_-_Resim1.png/960px-Cyle_Larin_%282021-22_S%C3%BCper_Lig%29_-_Resim1.png",
+        "width": 1920,
+        "height": 1080,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "beIN SPORTS T\u00fcrkiye",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/cyle-larin.png"
+      }
+    },
+    {
+      "slug": "tani-oluwaseyi",
+      "display_name": "Tani Oluwaseyi",
+      "shirt_no": 12,
+      "position_code": "FW",
+      "dob": "2000-05-15",
+      "age": 26,
+      "caps": 22,
+      "goals": 2,
+      "club_from_squad_table": "Villarreal",
+      "wikipedia_title": "Tani Oluwaseyi",
+      "wikidata_qid": "Q113564288",
+      "qid": "Q113564288",
+      "name": "Tani Oluwaseyi",
+      "description": "Nigerian-Canadian soccer player",
+      "date_of_birth": "2000-05-15",
+      "place_of_birth_qid": "Q3787",
+      "citizenship_qids": [
+        "Q1033"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q65118858",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q19828435",
+          "start": "2022-00-00",
+          "end": "2025-08-29"
+        },
+        {
+          "team_qid": "Q110996637",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q22025437",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q281705",
+          "start": "2019-05-00",
+          "end": "2019-07-00"
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2025-08-29",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q12297",
+      "image_filename": "Tani O (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tani_Oluwaseyi",
+      "transfermarkt_id": "972465",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Villarreal",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Nigeria"
+      ],
+      "place_of_birth": "Abuja",
+      "wikidata_current_club": "Villarreal CF",
+      "wikidata_current_club_qid": "Q12297",
+      "photo": {
+        "filename": "Tani O (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tani_O_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tani_O_%28cropped%29.jpg",
+        "width": 307,
+        "height": 389,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Robin Glover",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/tani-oluwaseyi.jpg"
+      }
+    },
+    {
+      "slug": "aribim-pepple",
+      "display_name": "Aribim Pepple",
+      "shirt_no": 14,
+      "position_code": "FW",
+      "dob": "2002-12-25",
+      "age": 23,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Plymouth Argyle",
+      "wikipedia_title": "Aribim Pepple",
+      "wikidata_qid": "Q66363762",
+      "qid": "Q66363762",
+      "name": "Aribim Pepple",
+      "description": "English association football player (born 2002)",
+      "date_of_birth": "2002-12-25",
+      "place_of_birth_qid": "Q984613",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19876568",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19876568",
+      "image_filename": "Aribim Pepple of Cavalry FC.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aribim_Pepple",
+      "transfermarkt_id": "696502",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Plymouth Argyle",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Kettering",
+      "wikidata_current_club": "Calgary Foothills FC",
+      "wikidata_current_club_qid": "Q19876568",
+      "photo": {
+        "filename": "Aribim Pepple of Cavalry FC.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Aribim_Pepple_of_Cavalry_FC.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Aribim_Pepple_of_Cavalry_FC.jpg",
+        "width": 334,
+        "height": 379,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/29442760@N00\">A Disappearing Act</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/aribim-pepple.jpg"
+      }
+    },
+    {
+      "slug": "daniel-jebbison",
+      "display_name": "Daniel Jebbison",
+      "shirt_no": 24,
+      "position_code": "FW",
+      "dob": "2003-07-11",
+      "age": 22,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Preston North End",
+      "wikipedia_title": "Daniel Jebbison",
+      "wikidata_qid": "Q106766809",
+      "qid": "Q106766809",
+      "name": "Daniel Jebbison",
+      "description": "Canadian soccer player (born 2003)",
+      "date_of_birth": "2003-07-11",
+      "place_of_birth_qid": "Q424984",
+      "citizenship_qids": [
+        "Q16",
+        "Q145"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q9731197"
+      ],
+      "image_filename": "Daniel Jebbison 2024.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Daniel_Jebbison",
+      "transfermarkt_id": "746740",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "positions": [
+        "centre-forward"
+      ],
+      "citizenship": [
+        "Canada",
+        "United Kingdom"
+      ],
+      "place_of_birth": "Oakville",
+      "current_club": "Preston North End",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Daniel Jebbison 2024.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Daniel_Jebbison_2024.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Daniel_Jebbison_2024.jpg/960px-Daniel_Jebbison_2024.jpg",
+        "width": 1260,
+        "height": 1713,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "AFC Bournemouth",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/daniel-jebbison.jpg"
+      }
+    },
+    {
+      "slug": "jacen-russell-rowe",
+      "display_name": "Jacen Russell-Rowe",
+      "shirt_no": 25,
+      "position_code": "FW",
+      "dob": "2002-09-13",
+      "age": 23,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Toulouse",
+      "wikipedia_title": "Jacen Russell-Rowe",
+      "wikidata_qid": "Q78637933",
+      "qid": "Q78637933",
+      "name": "Jacen Russell-Rowe",
+      "description": "Canadian soccer player",
+      "date_of_birth": "2002-09-13",
+      "place_of_birth_qid": "Q172",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q457163",
+          "start": "2022-06-00",
+          "end": "2026-02-00"
+        },
+        {
+          "team_qid": "Q109973913",
+          "start": "2022-03-00",
+          "end": "2023-04-00"
+        },
+        {
+          "team_qid": "Q19931776",
+          "start": "2019-07-00",
+          "end": "2019-07-00"
+        },
+        {
+          "team_qid": "Q3590639",
+          "start": "2019-05-00",
+          "end": "2019-11-00"
+        },
+        {
+          "team_qid": "Q208635",
+          "start": "2023-06-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19518",
+          "start": "2026-02-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19518",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jacen_Russell-Rowe",
+      "transfermarkt_id": "683625",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Toulouse",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Toronto",
+      "wikidata_current_club": "Toulouse FC",
+      "wikidata_current_club_qid": "Q19518",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    }
+  ]
+}

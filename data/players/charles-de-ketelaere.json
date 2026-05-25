@@ -1,0 +1,102 @@
+{
+  "slug": "charles-de-ketelaere",
+  "display_name": "Charles De Ketelaere",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-03-10",
+  "age": 25,
+  "caps": 28,
+  "goals": 5,
+  "club_from_squad_table": "Atalanta",
+  "wikipedia_title": "Charles De Ketelaere",
+  "date_of_birth": "2001-03-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atalanta",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q68607008",
+  "qid": "Q68607008",
+  "name": "Charles De Ketelaere",
+  "description": "Belgian association football player (born 2001)",
+  "place_of_birth_qid": "Q12994",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 1.92,
+  "position_qids": [
+    "Q1642283"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1543",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q23674710",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q190916",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3589895",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q3589896",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2020-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q166776",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1886",
+  "image_filename": "Charles De Ketelaere 2022 Salzburg vs AC Milan 2022-09-06.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_De_Ketelaere",
+  "transfermarkt_id": "435772",
+  "positions": [
+    "second striker"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Bruges",
+  "wikidata_current_club": "Atalanta BC",
+  "wikidata_current_club_qid": "Q1886",
+  "photo": {
+    "filename": "Charles De Ketelaere 2022 Salzburg vs AC Milan 2022-09-06.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Charles_De_Ketelaere_2022_Salzburg_vs_AC_Milan_2022-09-06.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Charles_De_Ketelaere_2022_Salzburg_vs_AC_Milan_2022-09-06.jpg",
+    "width": 424,
+    "height": 530,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Werner100359",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/charles-de-ketelaere.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "blas-riveros",
+  "display_name": "Blas Riveros",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-02-03",
+  "age": 28,
+  "caps": 15,
+  "goals": 0,
+  "club_from_squad_table": "Cerro Porteño",
+  "wikipedia_title": "Blas Riveros",
+  "date_of_birth": "1998-02-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Cerro Porteño",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20950164",
+  "qid": "Q20950164",
+  "name": "Blás Riveros",
+  "description": "Paraguayan association football player",
+  "place_of_birth_qid": "Q1093634",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 68.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q604589",
+      "start": "2015-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q3590745",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q172020",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q189671",
+      "start": "2016-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q189671",
+  "image_filename": "Blás Riveros.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Blas_Riveros",
+  "transfermarkt_id": "401732",
+  "fifa_player_id": "390401",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Villa monica alritmo",
+  "wikidata_current_club": "FC Basel",
+  "wikidata_current_club_qid": "Q189671",
+  "photo": {
+    "filename": "Blás Riveros.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bl%C3%A1s_Riveros.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bl%C3%A1s_Riveros.jpg",
+    "width": 781,
+    "height": 857,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/75116651@N03\">Agencia de Noticias ANDES</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/blas-riveros.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

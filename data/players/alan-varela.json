@@ -1,0 +1,45 @@
+{
+  "slug": "alan-varela",
+  "display_name": "Alan Varela",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2001-07-04",
+  "age": 24,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Porto",
+  "wikipedia_title": "Alan Varela",
+  "wikidata_qid": "Q104375627",
+  "qid": "Q104375627",
+  "name": "Alan Varela",
+  "description": "Argentine association football player",
+  "date_of_birth": "2001-07-04",
+  "place_of_birth_qid": "Q1308616",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 1.77,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alan_Varela",
+  "transfermarkt_id": "756990",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "La Matanza Partido",
+  "current_club": "Porto",
+  "current_club_source": "wikipedia-squad-table",
+  "team_slug": "argentina",
+  "team_country": "Argentina",
+  "photo": {
+    "filename": "FC Salzburg gegen FC Porto (2025-09-25 UEFA Euro League ) 63.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/FC_Salzburg_gegen_FC_Porto_%282025-09-25_UEFA_Euro_League_%29_63.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/FC_Salzburg_gegen_FC_Porto_%282025-09-25_UEFA_Euro_League_%29_63.jpg/960px-FC_Salzburg_gegen_FC_Porto_%282025-09-25_UEFA_Euro_League_%29_63.jpg",
+    "width": 2607,
+    "height": 2376,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "commons-category-search",
+    "local_path": "data/photos/alan-varela.jpg"
+  }
+}

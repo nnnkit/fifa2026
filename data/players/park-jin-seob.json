@@ -1,0 +1,87 @@
+{
+  "slug": "park-jin-seob",
+  "display_name": "Park Jin-seob",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1995-10-23",
+  "age": 30,
+  "caps": 12,
+  "goals": 1,
+  "club_from_squad_table": "Zhejiang FC",
+  "wikipedia_title": "Park Jin-seob (footballer, born 1995)",
+  "wikidata_qid": "Q69696842",
+  "qid": "Q69696842",
+  "name": "Park Jin-seop",
+  "description": "South Korean association football player (1995-)",
+  "date_of_birth": "1995-10-23",
+  "place_of_birth_qid": "Q884",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 184.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q483579",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q27952107",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q484584",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q483152",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q488454",
+      "start": "2023-09-00",
+      "end": "2023-10-00"
+    },
+    {
+      "team_qid": "Q543842",
+      "start": "2023-11-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q483152",
+  "image_filename": "250702 FC 서울 vs 전북 (박진섭).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Park_Jin-seob_(footballer,_born_1995)",
+  "transfermarkt_id": "557469",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Zhejiang FC",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "South Korea",
+  "wikidata_current_club": "Jeonbuk Hyundai Motors FC",
+  "wikidata_current_club_qid": "Q483152",
+  "photo": {
+    "filename": "250702 FC 서울 vs 전북 (박진섭).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/250702_FC_%EC%84%9C%EC%9A%B8_vs_%EC%A0%84%EB%B6%81_%28%EB%B0%95%EC%A7%84%EC%84%AD%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/250702_FC_%EC%84%9C%EC%9A%B8_vs_%EC%A0%84%EB%B6%81_%28%EB%B0%95%EC%A7%84%EC%84%AD%29.jpg/960px-250702_FC_%EC%84%9C%EC%9A%B8_vs_%EC%A0%84%EB%B6%81_%28%EB%B0%95%EC%A7%84%EC%84%AD%29.jpg",
+    "width": 1600,
+    "height": 2000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/park-jin-seob.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

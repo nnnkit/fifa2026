@@ -1,0 +1,59 @@
+{
+  "slug": "scott-mckenna",
+  "display_name": "Scott McKenna",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-11-12",
+  "age": 29,
+  "caps": 49,
+  "goals": 1,
+  "club_from_squad_table": "Dinamo Zagreb",
+  "wikipedia_title": "Scott McKenna",
+  "date_of_birth": "1996-11-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Dinamo Zagreb",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q24084667",
+  "qid": "Q24084667",
+  "name": "Scott McKenna",
+  "description": "Scottish association football player (born 1996)",
+  "place_of_birth_qid": "Q1011603",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 189.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q793241",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1812121",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q793241",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Scott_McKenna",
+  "transfermarkt_id": "255906",
+  "fifa_player_id": "201297243",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Kirriemuir",
+  "wikidata_current_club": "Ayr United F.C.",
+  "wikidata_current_club_qid": "Q793241",
+  "team_slug": "scotland",
+  "team_country": "Scotland",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

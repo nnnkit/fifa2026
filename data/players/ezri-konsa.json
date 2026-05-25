@@ -1,0 +1,91 @@
+{
+  "slug": "ezri-konsa",
+  "display_name": "Ezri Konsa",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-10-23",
+  "age": 28,
+  "caps": 18,
+  "goals": 1,
+  "club_from_squad_table": "Aston Villa",
+  "wikipedia_title": "Ezri Konsa",
+  "date_of_birth": "1997-10-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Aston Villa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27063854",
+  "qid": "Q27063854",
+  "name": "Ezri Konsa",
+  "description": "English association football player (born 1997)",
+  "place_of_birth_qid": "Q208139",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q268258",
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19462",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q19571",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q18711",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1049176",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q47762",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18711",
+  "image_filename": "Ezri Konsa April 2026 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ezri_Konsa",
+  "transfermarkt_id": "413403",
+  "fifa_player_id": "403049",
+  "positions": [
+    "centre-back",
+    "full-back"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "London Borough of Newham",
+  "wikidata_current_club": "Aston Villa F.C.",
+  "wikidata_current_club_qid": "Q18711",
+  "photo": {
+    "filename": "Ezri Konsa April 2026 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ezri_Konsa_April_2026_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ezri_Konsa_April_2026_%28cropped%29.jpg",
+    "width": 700,
+    "height": 998,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MintyGel&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MintyGel (page does not exist)\">MintyGel</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ezri-konsa.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

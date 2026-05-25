@@ -1,0 +1,77 @@
+{
+  "slug": "ermin-mahmić",
+  "display_name": "Ermin Mahmić",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2005-03-14",
+  "age": 21,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Slovan Liberec",
+  "wikipedia_title": "Ermin Mahmić",
+  "wikidata_qid": "Q123139564",
+  "qid": "Q123139564",
+  "name": "Ermin Mahmić",
+  "description": "Bosnia and Herzegovina association football player (born 2005)",
+  "date_of_birth": "2005-03-14",
+  "place_of_birth_qid": "Q178582",
+  "citizenship_qids": [
+    "Q40",
+    "Q225"
+  ],
+  "height_cm": 1.82,
+  "teams": [
+    {
+      "team_qid": "Q15137936",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q221671",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q4825450",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q844509",
+      "start": "2023-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q303033",
+      "start": "2025-00-00",
+      "end": "2026-00-00"
+    }
+  ],
+  "current_club_qid": "Q221671",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ermin_Mahmi%C4%87",
+  "transfermarkt_id": "803049",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Slovan Liberec",
+  "current_club_source": "wikipedia-squad-table",
+  "citizenship": [
+    "Austria",
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Wels",
+  "wikidata_current_club": "FC Slovan Liberec",
+  "wikidata_current_club_qid": "Q221671",
+  "photo": {
+    "filename": "FC Liefering gegen SV Lafnitz (2024-05-25) 23.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/FC_Liefering_gegen_SV_Lafnitz_%282024-05-25%29_23.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/FC_Liefering_gegen_SV_Lafnitz_%282024-05-25%29_23.jpg/960px-FC_Liefering_gegen_SV_Lafnitz_%282024-05-25%29_23.jpg",
+    "width": 3254,
+    "height": 3545,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "manual-commons-verifier",
+    "local_path": "data/photos/ermin-mahmić.jpg"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

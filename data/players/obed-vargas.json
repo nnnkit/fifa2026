@@ -1,0 +1,64 @@
+{
+  "slug": "obed-vargas",
+  "display_name": "Obed Vargas",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2005-08-05",
+  "age": 20,
+  "caps": 5,
+  "goals": 0,
+  "club_from_squad_table": "Atlético Madrid",
+  "wikipedia_title": "Obed Vargas",
+  "wikidata_qid": "Q106778770",
+  "qid": "Q106778770",
+  "name": "Obed Vargas",
+  "description": "Mexican soccer player",
+  "date_of_birth": "2005-08-05",
+  "place_of_birth_qid": "Q39450",
+  "citizenship_qids": [
+    "Q30",
+    "Q96"
+  ],
+  "height_cm": 175.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18378129",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q632511",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q632511",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q632511",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Obed_Vargas",
+  "transfermarkt_id": "889435",
+  "current_club": "Atlético Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United States",
+    "Mexico"
+  ],
+  "place_of_birth": "Anchorage",
+  "wikidata_current_club": "Seattle Sounders FC",
+  "wikidata_current_club_qid": "Q632511",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

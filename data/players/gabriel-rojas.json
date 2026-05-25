@@ -1,0 +1,63 @@
+{
+  "slug": "gabriel-rojas",
+  "display_name": "Gabriel Rojas",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-06-22",
+  "age": 28,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Racing",
+  "wikipedia_title": "Gabriel Rojas (footballer, born 1997)",
+  "wikidata_qid": "Q26263573",
+  "qid": "Q26263573",
+  "name": "Gabriel Rojas",
+  "description": "Argentinian association footballer",
+  "date_of_birth": "1997-06-22",
+  "place_of_birth_qid": "Q1399432",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 68.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q218282",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q218282",
+  "image_filename": "Gabriel Rojas 2017.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel_Rojas_(footballer,_born_1997)",
+  "transfermarkt_id": "471639",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Racing",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Almirante Brown Partido",
+  "wikidata_current_club": "San Lorenzo de Almagro",
+  "wikidata_current_club_qid": "Q218282",
+  "photo": {
+    "filename": "Gabriel Rojas 2017.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gabriel_Rojas_2017.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gabriel_Rojas_2017.jpg",
+    "width": 955,
+    "height": 1326,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/75116651@N03\">Agencia de Noticias ANDES</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/gabriel-rojas.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

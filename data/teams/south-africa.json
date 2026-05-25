@@ -1,0 +1,1514 @@
+{
+  "slug": "south-africa",
+  "country": "South Africa",
+  "wikidata_qid": "Q170327",
+  "fetched_at": "2026-05-24T14:34:39+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 32,
+  "players": [
+    {
+      "slug": "ronwen-williams",
+      "display_name": "Ronwen Williams",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1992-01-21",
+      "age": 34,
+      "caps": 62,
+      "goals": 0,
+      "club_from_squad_table": "Mamelodi Sundowns",
+      "wikipedia_title": "Ronwen Williams",
+      "wikidata_qid": "Q7366080",
+      "qid": "Q7366080",
+      "name": "Ronwen Williams",
+      "description": "South African footballer",
+      "date_of_birth": "1992-01-21",
+      "place_of_birth_qid": "Q125434",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 184.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1281608",
+          "start": "2010-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q170327",
+          "start": "2014-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1281608",
+      "image_filename": "Ronwen Williams AFCON2025Q 35.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ronwen_Williams",
+      "transfermarkt_id": "175577",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mamelodi Sundowns",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Gqeberha",
+      "wikidata_current_club": "SuperSport United F.C.",
+      "wikidata_current_club_qid": "Q1281608",
+      "photo": {
+        "filename": "Ronwen Williams AFCON2025Q 35.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Ronwen_Williams_AFCON2025Q_35.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ronwen_Williams_AFCON2025Q_35.jpg/960px-Ronwen_Williams_AFCON2025Q_35.jpg",
+        "width": 5184,
+        "height": 3456,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Gadlee\" title=\"User:Gadlee\">Gadlee</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ronwen-williams.jpg"
+      }
+    },
+    {
+      "slug": "ricardo-goss",
+      "display_name": "Ricardo Goss",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1994-04-02",
+      "age": 32,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Siwelele",
+      "wikipedia_title": "Ricardo Goss",
+      "wikidata_qid": "Q58796031",
+      "qid": "Q58796031",
+      "name": "Ricardo Goss",
+      "description": "football player",
+      "date_of_birth": "1994-04-02",
+      "place_of_birth_qid": "Q5468",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 181.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ricardo_Goss",
+      "transfermarkt_id": "258304",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Durban",
+      "current_club": "Siwelele",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "sipho-chaine",
+      "display_name": "Sipho Chaine",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1996-12-14",
+      "age": 29,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Orlando Pirates",
+      "wikipedia_title": "Sipho Chaine",
+      "wikidata_qid": "Q58796434",
+      "qid": "Q58796434",
+      "name": "Sipho Chaine",
+      "description": "football player",
+      "date_of_birth": "1996-12-14",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sipho_Chaine",
+      "transfermarkt_id": "453370",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Orlando Pirates",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "brandon-petersen",
+      "display_name": "Brandon Petersen",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1994-09-22",
+      "age": 31,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Kaizer Chiefs",
+      "wikipedia_title": "Brandon Peterson (soccer)",
+      "wikidata_qid": "Q16236448",
+      "qid": "Q16236448",
+      "name": "Brandon Peterson",
+      "description": "South African soccer player",
+      "date_of_birth": "1994-09-22",
+      "place_of_birth_qid": "Q5465",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q412502",
+          "start": "2013-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q412502",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brandon_Peterson_(soccer)",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Kaizer Chiefs",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Cape Town",
+      "wikidata_current_club": "Cape Town Spurs F.C.",
+      "wikidata_current_club_qid": "Q412502",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "aubrey-modiba",
+      "display_name": "Aubrey Modiba",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1995-07-22",
+      "age": 30,
+      "caps": 44,
+      "goals": 3,
+      "club_from_squad_table": "Mamelodi Sundowns",
+      "wikipedia_title": "Aubrey Modiba",
+      "wikidata_qid": "Q26405966",
+      "qid": "Q26405966",
+      "name": "Aubrey Modiba",
+      "description": "South African footballer",
+      "date_of_birth": "1995-07-22",
+      "place_of_birth_qid": "Q131662",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 160.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q170327",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q607939",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q607939",
+      "image_filename": "Aubrey Modiba (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aubrey_Modiba",
+      "transfermarkt_id": "353432",
+      "fifa_player_id": "395050",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mamelodi Sundowns",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Polokwane",
+      "wikidata_current_club": "Orlando Pirates F.C.",
+      "wikidata_current_club_qid": "Q607939",
+      "photo": {
+        "filename": "Aubrey Modiba (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Aubrey_Modiba_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Aubrey_Modiba_%28cropped%29.jpg",
+        "width": 446,
+        "height": 660,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "Carlo Bruil Fotografie",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/aubrey-modiba.jpg"
+      }
+    },
+    {
+      "slug": "khuliso-mudau",
+      "display_name": "Khuliso Mudau",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1995-04-26",
+      "age": 31,
+      "caps": 32,
+      "goals": 1,
+      "club_from_squad_table": "Mamelodi Sundowns",
+      "wikipedia_title": "Khuliso Mudau",
+      "wikidata_qid": "Q58810793",
+      "qid": "Q58810793",
+      "name": "Khuliso Mudau",
+      "description": "South African footballer",
+      "date_of_birth": "1995-04-26",
+      "place_of_birth_qid": "Q1025661",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 181.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q85770382",
+          "start": null,
+          "end": "2016-07-00"
+        },
+        {
+          "team_qid": "Q28223143",
+          "start": "2016-07-00",
+          "end": "2017-06-00"
+        },
+        {
+          "team_qid": "Q619771",
+          "start": "2017-07-00",
+          "end": "2020-10-00"
+        },
+        {
+          "team_qid": "Q784965",
+          "start": "2020-10-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q170327",
+          "start": "2022-03-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q784965",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Khuliso_Mudau",
+      "transfermarkt_id": "450806",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mamelodi Sundowns",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Musina",
+      "wikidata_current_club": "Mamelodi Sundowns F.C.",
+      "wikidata_current_club_qid": "Q784965",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "nkosinathi-sibisi",
+      "display_name": "Nkosinathi Sibisi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1995-09-22",
+      "age": 30,
+      "caps": 19,
+      "goals": 0,
+      "club_from_squad_table": "Orlando Pirates",
+      "wikipedia_title": "Nkosinathi Sibisi",
+      "wikidata_qid": "Q58580967",
+      "qid": "Q58580967",
+      "name": "Nkosinathi Sibisi",
+      "description": "football player",
+      "date_of_birth": "1995-09-22",
+      "place_of_birth_qid": "Q5468",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 172.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nkosinathi_Sibisi",
+      "transfermarkt_id": "399068",
+      "wikidata_date_of_birth": "1995-05-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Durban",
+      "current_club": "Orlando Pirates",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "mbekezeli-mbokazi",
+      "display_name": "Mbekezeli Mbokazi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2005-09-19",
+      "age": 20,
+      "caps": 10,
+      "goals": 1,
+      "club_from_squad_table": "Chicago Fire",
+      "wikipedia_title": "Mbekezeli Mbokazi",
+      "wikidata_qid": "Q133464757",
+      "qid": "Q133464757",
+      "name": "Mbekezeli Mbokazi",
+      "description": "South African soccer player (born 2005)",
+      "date_of_birth": "2005-09-19",
+      "place_of_birth_qid": "Q1004768",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 1.77,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mbekezeli_Mbokazi",
+      "transfermarkt_id": "1378320",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Hluhluwe",
+      "current_club": "Chicago Fire",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ime-okon",
+      "display_name": "Ime Okon",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-02-20",
+      "age": 22,
+      "caps": 7,
+      "goals": 1,
+      "club_from_squad_table": "Hannover 96",
+      "wikipedia_title": "Ime Okon",
+      "wikidata_qid": "Q127514195",
+      "qid": "Q127514195",
+      "name": "Ime Okon",
+      "description": "South African soccer player",
+      "date_of_birth": "2004-02-20",
+      "place_of_birth_qid": "Q258",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 1.87,
+      "position_qids": [
+        "Q268258"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ime_Okon",
+      "transfermarkt_id": "1107265",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "South Africa",
+      "current_club": "Hannover 96",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "samukele-kabini",
+      "display_name": "Samukele Kabini",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-03-15",
+      "age": 22,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Molde",
+      "wikipedia_title": "Samukele Kabini",
+      "wikidata_qid": "Q133794425",
+      "qid": "Q133794425",
+      "name": "Samukele Kabini",
+      "description": "South African professional Football player",
+      "date_of_birth": "2004-03-15",
+      "place_of_birth_qid": "Q258",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 1.81,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Samukele_Kabini",
+      "transfermarkt_id": "1175086",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "South Africa",
+      "current_club": "Molde",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "khulumani-ndamane",
+      "display_name": "Khulumani Ndamane",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-02-05",
+      "age": 22,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Mamelodi Sundowns",
+      "wikipedia_title": "Khulumani Ndamane",
+      "wikidata_qid": "Q137299823",
+      "qid": "Q137299823",
+      "name": "Khulumani Ndamane",
+      "description": "South African soccer player (born 2004)",
+      "date_of_birth": "2004-02-05",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Khulumani_Ndamane",
+      "transfermarkt_id": "1283140",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mamelodi Sundowns",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "thabang-matuludi",
+      "display_name": "Thabang Matuludi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-01-14",
+      "age": 27,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Polokwane City",
+      "wikipedia_title": "Thabang Matuludi",
+      "wikidata_qid": "Q127324870",
+      "qid": "Q127324870",
+      "name": "Thabang Matuludi",
+      "description": "South African soccer player",
+      "date_of_birth": "1999-01-14",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thabang_Matuludi",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Polokwane City",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "thabiso-monyane",
+      "display_name": "Thabiso Monyane",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-04-30",
+      "age": 26,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Kaizer Chiefs",
+      "wikipedia_title": "James Monyane",
+      "wikidata_qid": "Q97578621",
+      "qid": "Q97578621",
+      "name": "James Monyane",
+      "description": "South African footballer",
+      "date_of_birth": "2000-04-30",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 167.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q607939",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q7565407",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q607939",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/James_Monyane",
+      "transfermarkt_id": "579037",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Kaizer Chiefs",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "wikidata_current_club": "Orlando Pirates F.C.",
+      "wikidata_current_club_qid": "Q607939",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "bradley-cross",
+      "display_name": "Bradley Cross",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-01-30",
+      "age": 25,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Kaizer Chiefs",
+      "wikipedia_title": "Bradley Cross (soccer)",
+      "wikidata_qid": "Q117790110",
+      "qid": "Q117790110",
+      "name": "Bradley Cross",
+      "description": "South African footballer",
+      "date_of_birth": "2001-01-30",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bradley_Cross_(soccer)",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "citizenship": [
+        "South Africa"
+      ],
+      "current_club": "Kaizer Chiefs",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "olwethu-makhanya",
+      "display_name": "Olwethu Makhanya",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-04-30",
+      "age": 22,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Philadelphia Union",
+      "wikipedia_title": "Olwethu Makhanya",
+      "wikidata_qid": "Q122207713",
+      "qid": "Q122207713",
+      "name": "Olwethu Makhanya",
+      "description": "South African footballer",
+      "date_of_birth": "2004-04-30",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "position_qids": [
+        "Q336286"
+      ],
+      "image_filename": "Olwethu Makhanya Philadelphia Chicago 10.26.25-037 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Olwethu_Makhanya",
+      "transfermarkt_id": "1069801",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "current_club": "Philadelphia Union",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Olwethu Makhanya Philadelphia Chicago 10.26.25-037 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Olwethu_Makhanya_Philadelphia_Chicago_10.26.25-037_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olwethu_Makhanya_Philadelphia_Chicago_10.26.25-037_%28cropped%29.jpg/960px-Olwethu_Makhanya_Philadelphia_Chicago_10.26.25-037_%28cropped%29.jpg",
+        "width": 2800,
+        "height": 3731,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/olwethu-makhanya.jpg"
+      }
+    },
+    {
+      "slug": "themba-zwane",
+      "display_name": "Themba Zwane",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1989-08-03",
+      "age": 36,
+      "caps": 53,
+      "goals": 12,
+      "club_from_squad_table": "Mamelodi Sundowns",
+      "wikipedia_title": "Themba Zwane",
+      "wikidata_qid": "Q7781199",
+      "qid": "Q7781199",
+      "name": "Themba Zwane",
+      "description": "South African soccer player",
+      "date_of_birth": "1989-08-03",
+      "place_of_birth_qid": "Q1580709",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 170.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q784965",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q965994",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q170327",
+          "start": "2014-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q784965",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Themba_Zwane",
+      "transfermarkt_id": "176578",
+      "fifa_player_id": "395984",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mamelodi Sundowns",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Thembisa",
+      "wikidata_current_club": "Mamelodi Sundowns F.C.",
+      "wikidata_current_club_qid": "Q784965",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "teboho-mokoena",
+      "display_name": "Teboho Mokoena",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-01-24",
+      "age": 29,
+      "caps": 51,
+      "goals": 9,
+      "club_from_squad_table": "Mamelodi Sundowns",
+      "wikipedia_title": "Teboho Mokoena (soccer, born 1997)",
+      "wikidata_qid": "Q58790870",
+      "qid": "Q58790870",
+      "name": "Teboho Mokoena",
+      "description": "football player",
+      "date_of_birth": "1997-01-24",
+      "place_of_birth_qid": "Q831326",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 176.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q170327",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q170327",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Teboho_Mokoena_(soccer,_born_1997)",
+      "transfermarkt_id": "436372",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mamelodi Sundowns",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Bethlehem",
+      "wikidata_current_club": "South Africa men's national association football team",
+      "wikidata_current_club_qid": "Q170327",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "sphephelo-sithole",
+      "display_name": "Sphephelo Sithole",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1999-03-03",
+      "age": 27,
+      "caps": 27,
+      "goals": 1,
+      "club_from_squad_table": "Tondela",
+      "wikipedia_title": "Sphephelo Sithole",
+      "wikidata_qid": "Q104530871",
+      "qid": "Q104530871",
+      "name": "Sphephelo Sithole",
+      "description": "South African association football player",
+      "date_of_birth": "1999-03-03",
+      "place_of_birth_qid": "Q5468",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 1.86,
+      "teams": [
+        {
+          "team_qid": "Q59212899",
+          "start": "2020-10-26",
+          "end": null
+        },
+        {
+          "team_qid": "Q1023227",
+          "start": "2023-07-11",
+          "end": "2025-07-11"
+        }
+      ],
+      "current_club_qid": "Q59212899",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sphephelo_Sithole",
+      "transfermarkt_id": "401736",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Tondela",
+      "current_club_source": "wikipedia-squad-table",
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Durban",
+      "wikidata_current_club": "B-SAD",
+      "wikidata_current_club_qid": "Q59212899",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "lebohang-maboe",
+      "display_name": "Lebohang Maboe",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-09-17",
+      "age": 31,
+      "caps": 17,
+      "goals": 3,
+      "club_from_squad_table": "Kaizer Chiefs",
+      "wikipedia_title": "Lebohang Maboe",
+      "wikidata_qid": "Q58494664",
+      "qid": "Q58494664",
+      "name": "Lebohang Maboe",
+      "description": "South African association football player - Lebohang Kgosana Maboe",
+      "date_of_birth": "1994-09-17",
+      "place_of_birth_qid": "Q258",
+      "height_cm": 172.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q170327",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q170327",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lebohang_Maboe",
+      "transfermarkt_id": "420543",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Kaizer Chiefs",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "place_of_birth": "South Africa",
+      "wikidata_current_club": "South Africa men's national association football team",
+      "wikidata_current_club_qid": "Q170327",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "thalente-mbatha",
+      "display_name": "Thalente Mbatha",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-03-06",
+      "age": 26,
+      "caps": 14,
+      "goals": 3,
+      "club_from_squad_table": "Orlando Pirates",
+      "wikipedia_title": "Thalente Mbatha",
+      "wikidata_qid": "Q130261099",
+      "qid": "Q130261099",
+      "name": "Thalente Mbatha",
+      "description": "South African soccer player (born 2000)",
+      "date_of_birth": "2000-03-06",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thalente_Mbatha",
+      "transfermarkt_id": "735697",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Orlando Pirates",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jayden-adams",
+      "display_name": "Jayden Adams",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-05-05",
+      "age": 25,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Mamelodi Sundowns",
+      "wikipedia_title": "Jayden Adams",
+      "wikidata_qid": "Q105520386",
+      "qid": "Q105520386",
+      "name": "Jayden Adams",
+      "description": "South African soccer player",
+      "date_of_birth": "2001-05-05",
+      "place_of_birth_qid": "Q5465",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q28129381",
+          "start": "2020-08-00",
+          "end": "2025-01-00"
+        },
+        {
+          "team_qid": "Q784965",
+          "start": "2025-01-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q170327",
+          "start": "2022-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q784965",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jayden_Adams",
+      "transfermarkt_id": "804472",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mamelodi Sundowns",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Cape Town",
+      "wikidata_current_club": "Mamelodi Sundowns F.C.",
+      "wikidata_current_club_qid": "Q784965",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "brooklyn-poggenpoel",
+      "display_name": "Brooklyn Poggenpoel",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1999-10-03",
+      "age": 26,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Durban City",
+      "wikipedia_title": "Brooklyn Poggenpoel",
+      "wikidata_qid": "Q128791878",
+      "qid": "Q128791878",
+      "name": "Brooklyn Poggenpoel",
+      "description": "South African soccer player",
+      "date_of_birth": "1999-10-03",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brooklyn_Poggenpoel",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Durban City",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "thapelo-morena",
+      "display_name": "Thapelo Morena",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1993-08-06",
+      "age": 32,
+      "caps": 33,
+      "goals": 3,
+      "club_from_squad_table": "Mamelodi Sundowns",
+      "wikipedia_title": "Thapelo Morena",
+      "wikidata_qid": "Q58582542",
+      "qid": "Q58582542",
+      "name": "Thapelo Morena",
+      "description": "football player",
+      "date_of_birth": "1993-08-06",
+      "place_of_birth_qid": "Q744437",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 170.0,
+      "weight_kg": 64.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q170327",
+          "start": "2015-03-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q884858",
+          "start": "2013-11-00",
+          "end": "2016-08-00"
+        },
+        {
+          "team_qid": "Q784965",
+          "start": "2016-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q784965",
+      "image_filename": "Go Ahead Eagles - Mamelodi Sundowns FC - 53066146134.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thapelo_Morena",
+      "transfermarkt_id": "297509",
+      "fifa_player_id": "395047",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mamelodi Sundowns",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Randfontein",
+      "wikidata_current_club": "Mamelodi Sundowns F.C.",
+      "wikidata_current_club_qid": "Q784965",
+      "photo": {
+        "filename": "Go Ahead Eagles - Mamelodi Sundowns FC - 53066146134.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Go_Ahead_Eagles_-_Mamelodi_Sundowns_FC_-_53066146134.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Go_Ahead_Eagles_-_Mamelodi_Sundowns_FC_-_53066146134.jpg/960px-Go_Ahead_Eagles_-_Mamelodi_Sundowns_FC_-_53066146134.jpg",
+        "width": 2666,
+        "height": 4000,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Carlo Bruil Fotografie",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/thapelo-morena.jpg"
+      }
+    },
+    {
+      "slug": "lyle-foster",
+      "display_name": "Lyle Foster",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-05-09",
+      "age": 26,
+      "caps": 26,
+      "goals": 10,
+      "club_from_squad_table": "Burnley",
+      "wikipedia_title": "Lyle Foster",
+      "wikidata_qid": "Q42725482",
+      "qid": "Q42725482",
+      "name": "Lyle Foster",
+      "description": "South African association football player",
+      "date_of_birth": "2000-05-09",
+      "place_of_birth_qid": "Q217426",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q607939",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q7565407",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q607939",
+      "image_filename": "Lyle Foster 29112025 (6).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lyle_Foster",
+      "transfermarkt_id": "467623",
+      "wikidata_date_of_birth": "2000-09-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Burnley",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Soweto",
+      "wikidata_current_club": "Orlando Pirates F.C.",
+      "wikidata_current_club_qid": "Q607939",
+      "photo": {
+        "filename": "Lyle Foster 29112025 (6).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Lyle_Foster_29112025_%286%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lyle_Foster_29112025_%286%29.jpg/960px-Lyle_Foster_29112025_%286%29.jpg",
+        "width": 1046,
+        "height": 1895,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lyle-foster.jpg"
+      }
+    },
+    {
+      "slug": "evidence-makgopa",
+      "display_name": "Evidence Makgopa",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-06-05",
+      "age": 26,
+      "caps": 26,
+      "goals": 6,
+      "club_from_squad_table": "Orlando Pirates",
+      "wikipedia_title": "Evidence Makgopa",
+      "wikidata_qid": "Q100984327",
+      "qid": "Q100984327",
+      "name": "Evidence Makgopa",
+      "description": "South African soccer player",
+      "date_of_birth": "2000-06-05",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 188.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Evidence_Makgopa",
+      "transfermarkt_id": "746781",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "citizenship": [
+        "South Africa"
+      ],
+      "current_club": "Orlando Pirates",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "oswin-appollis",
+      "display_name": "Oswin Appollis",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-08-25",
+      "age": 24,
+      "caps": 25,
+      "goals": 8,
+      "club_from_squad_table": "Orlando Pirates",
+      "wikipedia_title": "Oswin Appollis",
+      "wikidata_qid": "Q64167435",
+      "qid": "Q64167435",
+      "name": "Oswin Appollis",
+      "description": "South African association footballer",
+      "date_of_birth": "2001-08-25",
+      "place_of_birth_qid": "Q4917624",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 171.0,
+      "position_qids": [
+        "Q193592",
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7565407",
+          "start": "2019-05-00",
+          "end": "2019-05-00"
+        },
+        {
+          "team_qid": "Q1281608",
+          "start": "2019-11-00",
+          "end": "2022-08-00"
+        },
+        {
+          "team_qid": "Q7896161",
+          "start": "2021-02-00",
+          "end": "2021-06-00"
+        },
+        {
+          "team_qid": "Q106371788",
+          "start": "2022-09-00",
+          "end": "2023-06-00"
+        },
+        {
+          "team_qid": "Q7225920",
+          "start": "2023-07-00",
+          "end": "2025-07-00"
+        },
+        {
+          "team_qid": "Q607939",
+          "start": "2025-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q170327",
+          "start": "2023-11-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q607939",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oswin_Appollis",
+      "transfermarkt_id": "673381",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Orlando Pirates",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder",
+        "winger"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Bishop Lavis",
+      "wikidata_current_club": "Orlando Pirates F.C.",
+      "wikidata_current_club_qid": "Q607939",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "iqraam-rayners",
+      "display_name": "Iqraam Rayners",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1995-12-19",
+      "age": 30,
+      "caps": 13,
+      "goals": 4,
+      "club_from_squad_table": "Mamelodi Sundowns",
+      "wikipedia_title": "Iqraam Rayners",
+      "wikidata_qid": "Q100565190",
+      "qid": "Q100565190",
+      "name": "Iqraam Rayners",
+      "description": "South African soccer player",
+      "date_of_birth": "1995-12-19",
+      "place_of_birth_qid": "Q5465",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 176.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1541768",
+          "start": "2014-08-00",
+          "end": "2017-07-00"
+        },
+        {
+          "team_qid": "Q28129381",
+          "start": "2017-07-00",
+          "end": "2020-06-00"
+        },
+        {
+          "team_qid": "Q1281608",
+          "start": "2020-07-00",
+          "end": "2023-01-00"
+        },
+        {
+          "team_qid": "Q28129381",
+          "start": "2023-01-00",
+          "end": "2024-08-00"
+        },
+        {
+          "team_qid": "Q784965",
+          "start": "2024-08-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q170327",
+          "start": "2023-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q784965",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Iqraam_Rayners",
+      "transfermarkt_id": "337884",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mamelodi Sundowns",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Cape Town",
+      "wikidata_current_club": "Mamelodi Sundowns F.C.",
+      "wikidata_current_club_qid": "Q784965",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "relebohile-mofokeng",
+      "display_name": "Relebohile Mofokeng",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2004-10-23",
+      "age": 21,
+      "caps": 12,
+      "goals": 0,
+      "club_from_squad_table": "Orlando Pirates",
+      "wikipedia_title": "Relebohile Mofokeng",
+      "wikidata_qid": "Q119413564",
+      "qid": "Q119413564",
+      "name": "Relebohile Mofokeng",
+      "description": "South African soccer player",
+      "date_of_birth": "2004-10-23",
+      "place_of_birth_qid": "Q1422014",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 1.61,
+      "position_qids": [
+        "Q193592",
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q607939",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q170327",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q607939",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Relebohile_Mofokeng",
+      "transfermarkt_id": "1125037",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Orlando Pirates",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder",
+        "winger"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Sharpeville",
+      "wikidata_current_club": "Orlando Pirates F.C.",
+      "wikidata_current_club_qid": "Q607939",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "thapelo-maseko",
+      "display_name": "Thapelo Maseko",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2003-11-11",
+      "age": 22,
+      "caps": 9,
+      "goals": 1,
+      "club_from_squad_table": "AEL Limassol",
+      "wikipedia_title": "Thapelo Maseko",
+      "wikidata_qid": "Q124173111",
+      "qid": "Q124173111",
+      "name": "Thapelo Maseko",
+      "description": "South African footballer (born 2002)",
+      "date_of_birth": "2003-11-11",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "position_qids": [
+        "Q11681748"
+      ],
+      "image_filename": "Go Ahead Eagles - Mamelodi Sundowns FC - 53066145739.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thapelo_Maseko",
+      "transfermarkt_id": "983330",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "current_club": "AEL Limassol",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Go Ahead Eagles - Mamelodi Sundowns FC - 53066145739.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Go_Ahead_Eagles_-_Mamelodi_Sundowns_FC_-_53066145739.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Go_Ahead_Eagles_-_Mamelodi_Sundowns_FC_-_53066145739.jpg/960px-Go_Ahead_Eagles_-_Mamelodi_Sundowns_FC_-_53066145739.jpg",
+        "width": 4000,
+        "height": 2666,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Carlo Bruil Fotografie",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/thapelo-maseko.jpg"
+      }
+    },
+    {
+      "slug": "tshepang-moremi",
+      "display_name": "Tshepang Moremi",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-10-02",
+      "age": 25,
+      "caps": 9,
+      "goals": 1,
+      "club_from_squad_table": "Orlando Pirates",
+      "wikipedia_title": "Tshepang Moremi",
+      "wikidata_qid": "Q125166783",
+      "qid": "Q125166783",
+      "name": "Tshepang Moremi",
+      "description": "South African soccer player",
+      "date_of_birth": "2000-10-02",
+      "place_of_birth_qid": "Q1422014",
+      "citizenship_qids": [
+        "Q258"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q11681748"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tshepang_Moremi",
+      "transfermarkt_id": "844485",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "South Africa"
+      ],
+      "place_of_birth": "Sharpeville",
+      "current_club": "Orlando Pirates",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "patrick-maswanganyi",
+      "display_name": "Patrick Maswanganyi",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1998-04-04",
+      "age": 28,
+      "caps": 5,
+      "goals": 2,
+      "club_from_squad_table": "Orlando Pirates",
+      "wikipedia_title": "Patrick Maswanganyi",
+      "wikidata_qid": "Q130324414",
+      "qid": "Q130324414",
+      "name": "Patrick Maswanganyi",
+      "description": "South African footballer",
+      "date_of_birth": "1998-04-04",
+      "place_of_birth_qid": "Q1580709",
+      "height_cm": 175.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Maswanganyi",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "place_of_birth": "Thembisa",
+      "current_club": "Orlando Pirates",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "kamogelo-sebelebele",
+      "display_name": "Kamogelo Sebelebele",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2002-07-21",
+      "age": 23,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Orlando Pirates",
+      "wikipedia_title": "Kamogelo Sebelebele",
+      "wikidata_qid": "Q137441719",
+      "qid": "Q137441719",
+      "name": "Kamogelo Sebelebele",
+      "description": "South African soccer player (born 2002)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kamogelo_Sebelebele",
+      "date_of_birth": "2002-07-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Orlando Pirates",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    }
+  ],
+  "notes": [
+    "South Africa photo audit 2026-05-24: verifier found no clean Wikimedia photo for 26 players; those rows are marked wikimedia-reviewed-none and should render initials avatars, not fake photos."
+  ]
+}

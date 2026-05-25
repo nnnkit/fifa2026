@@ -1,0 +1,108 @@
+{
+  "slug": "pedro-neto",
+  "display_name": "Pedro Neto",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-03-09",
+  "age": 26,
+  "caps": 23,
+  "goals": 2,
+  "club_from_squad_table": "Chelsea",
+  "wikipedia_title": "Pedro Neto",
+  "date_of_birth": "2000-03-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Chelsea",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q30036972",
+  "qid": "Q30036972",
+  "name": "Pedro Neto",
+  "description": "Portuguese association football player",
+  "place_of_birth_qid": "Q208158",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 173.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q75684",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q2609",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q19500",
+      "start": "2019-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q3590754",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q3873511",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q3873524",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1772776",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1630430",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q267245",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2024-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q9616",
+  "image_filename": "Pedro Neto USMNT v Portugal Mar 31 2026-48.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Neto",
+  "transfermarkt_id": "487465",
+  "fifa_player_id": "201657796",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Viana do Castelo",
+  "wikidata_current_club": "Chelsea F.C.",
+  "wikidata_current_club_qid": "Q9616",
+  "photo": {
+    "filename": "Pedro Neto USMNT v Portugal Mar 31 2026-48.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Pedro_Neto_USMNT_v_Portugal_Mar_31_2026-48.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pedro_Neto_USMNT_v_Portugal_Mar_31_2026-48.jpg/960px-Pedro_Neto_USMNT_v_Portugal_Mar_31_2026-48.jpg",
+    "width": 3333,
+    "height": 5000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/pedro-neto.jpg"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

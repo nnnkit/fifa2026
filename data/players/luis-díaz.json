@@ -1,0 +1,88 @@
+{
+  "slug": "luis-d\u00edaz",
+  "display_name": "Luis D\u00edaz",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1997-01-13",
+  "age": 29,
+  "caps": 72,
+  "goals": 21,
+  "club_from_squad_table": "Bayern Munich",
+  "wikipedia_title": "Luis D\u00edaz (footballer, born 1997)",
+  "date_of_birth": "1997-01-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayern Munich",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28531111",
+  "qid": "Q28531111",
+  "name": "Luis D\u00edaz",
+  "description": "Colombian association football player (born 1997)",
+  "place_of_birth_qid": "Q786529",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 65.0,
+  "position_qids": [
+    "Q114358158"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q212564",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3293573",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q332524",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q128446",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1130849",
+      "start": "2022-00-00",
+      "end": "2025-07-00"
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2025-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q15789",
+  "image_filename": "FC RB Salzburg gegen FC Bayern M\u00fcnchen (2026-01-06 Testspiel) 40 (Luiz D\u00edaz).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_D%C3%ADaz_(footballer,_born_1997)",
+  "transfermarkt_id": "480692",
+  "positions": [
+    "left winger"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Barrancas",
+  "wikidata_current_club": "FC Bayern Munich",
+  "wikidata_current_club_qid": "Q15789",
+  "photo": {
+    "filename": "FC RB Salzburg gegen FC Bayern M\u00fcnchen (2026-01-06 Testspiel) 40 (Luiz D\u00edaz).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_40_%28Luiz_D%C3%ADaz%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_40_%28Luiz_D%C3%ADaz%29.jpg",
+    "width": 769,
+    "height": 1127,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/luis-d\u00edaz.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

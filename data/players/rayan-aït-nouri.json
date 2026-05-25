@@ -1,0 +1,69 @@
+{
+  "slug": "rayan-a\u00eft-nouri",
+  "display_name": "Rayan A\u00eft-Nouri",
+  "shirt_no": 15,
+  "position_code": "DF",
+  "dob": "2001-06-06",
+  "age": 24,
+  "caps": 27,
+  "goals": 0,
+  "club_from_squad_table": "Manchester City",
+  "wikipedia_title": "Rayan A\u00eft-Nouri",
+  "date_of_birth": "2001-06-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q50825738",
+  "qid": "Q50825738",
+  "name": "Rayan A\u00eft-Nouri",
+  "description": "Algerian-French footballer (born 2001)",
+  "place_of_birth_qid": "Q193370",
+  "citizenship_qids": [
+    "Q142",
+    "Q262"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19500",
+      "start": "2019-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19500",
+  "image_filename": "Rayan A\u00eft-Nouri playing for Algeria in 2024 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rayan_A%C3%AFt-Nouri",
+  "transfermarkt_id": "578391",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "France",
+    "Algeria"
+  ],
+  "place_of_birth": "Montreuil",
+  "wikidata_current_club": "Wolverhampton Wanderers F.C.",
+  "wikidata_current_club_qid": "Q19500",
+  "photo": {
+    "filename": "Rayan A\u00eft-Nouri playing for Algeria in 2024 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Rayan_A%C3%AFt-Nouri_playing_for_Algeria_in_2024_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Rayan_A%C3%AFt-Nouri_playing_for_Algeria_in_2024_%28cropped%29.jpg",
+    "width": 929,
+    "height": 1154,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Anneprudence\" title=\"User:Anneprudence\">Anneprudence</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/rayan-a\u00eft-nouri.jpg"
+  },
+  "team_slug": "algeria",
+  "team_country": "Algeria"
+}

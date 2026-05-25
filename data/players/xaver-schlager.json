@@ -1,0 +1,102 @@
+{
+  "slug": "xaver-schlager",
+  "display_name": "Xaver Schlager",
+  "shirt_no": 4,
+  "position_code": "MF",
+  "dob": "1997-09-28",
+  "age": 28,
+  "caps": 50,
+  "goals": 4,
+  "club_from_squad_table": "RB Leipzig",
+  "wikipedia_title": "Xaver Schlager",
+  "date_of_birth": "1997-09-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "RB Leipzig",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20190657",
+  "qid": "Q20190657",
+  "name": "Xaver Schlager",
+  "description": "Austrian association football player",
+  "place_of_birth_qid": "Q41329",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 1.74,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1387293",
+      "start": "2015-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q994811",
+      "start": "2016-01-01",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q4825450",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q302977",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q302967",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q163534",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q303033",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q101859",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q702455",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q702455",
+  "image_filename": "FC Liefering gegen Austria Lustenau SKY GO Liga 15.JPG",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Xaver_Schlager",
+  "transfermarkt_id": "223979",
+  "fifa_player_id": "201400643",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Linz",
+  "photo": {
+    "filename": "FC Liefering gegen Austria Lustenau SKY GO Liga 15.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/FC_Liefering_gegen_Austria_Lustenau_SKY_GO_Liga_15.JPG",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/FC_Liefering_gegen_Austria_Lustenau_SKY_GO_Liga_15.JPG/960px-FC_Liefering_gegen_Austria_Lustenau_SKY_GO_Liga_15.JPG",
+    "width": 1621,
+    "height": 1614,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/xaver-schlager.JPG"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

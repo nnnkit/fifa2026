@@ -1,0 +1,48 @@
+{
+  "slug": "kim-tae-hyeon",
+  "display_name": "Kim Tae-hyeon",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-09-17",
+  "age": 25,
+  "caps": 7,
+  "goals": 0,
+  "club_from_squad_table": "Kashima Antlers",
+  "wikipedia_title": "Kim Tae-hyeon",
+  "wikidata_qid": "Q79904514",
+  "qid": "Q79904514",
+  "name": "Kim Tae-hyeon",
+  "description": "South Korean association football player",
+  "date_of_birth": "2000-09-17",
+  "place_of_birth_qid": "Q884",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 187.0,
+  "teams": [
+    {
+      "team_qid": "Q129673",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q129673",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Tae-hyeon",
+  "transfermarkt_id": "645847",
+  "uefa_player_id": "45209",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Kashima Antlers",
+  "current_club_source": "wikipedia-squad-table",
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "South Korea",
+  "wikidata_current_club": "Ulsan HD FC",
+  "wikidata_current_club_qid": "Q129673",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

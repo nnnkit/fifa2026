@@ -1,0 +1,77 @@
+{
+  "slug": "abdullah-al-hamdan",
+  "display_name": "Abdullah Al-Hamdan",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1999-09-12",
+  "age": 26,
+  "caps": 47,
+  "goals": 11,
+  "club_from_squad_table": "Al-Nassr",
+  "wikipedia_title": "Abdullah Al-Hamdan",
+  "date_of_birth": "1999-09-12",
+  "date_of_birth_source": "saudi-pro-league-official-verified",
+  "current_club": "Al-Nassr",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q47499719",
+  "qid": "Q47499719",
+  "name": "Abdullah Al-Hamdan",
+  "description": "association football Saudi player",
+  "place_of_birth_qid": "Q3692",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 1.84,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q73965",
+      "start": "2021-00-00",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q2636005",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q3873541",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q189723",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q482764",
+      "start": "2026-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2756148",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    }
+  ],
+  "current_club_qid": "Q482764",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abdullah_Al-Hamdan",
+  "transfermarkt_id": "68626",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Riyadh",
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "squad_table_date_of_birth": "1999-09-13"
+}

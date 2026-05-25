@@ -1,0 +1,73 @@
+{
+  "slug": "yasser-ibrahim",
+  "display_name": "Yasser Ibrahim",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1993-02-10",
+  "age": 33,
+  "caps": 15,
+  "goals": 1,
+  "club_from_squad_table": "Al Ahly",
+  "wikipedia_title": "Yasser Ibrahim",
+  "date_of_birth": "1993-02-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al Ahly",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q17386078",
+  "qid": "Q17386078",
+  "name": "Yasser Ibrahim",
+  "description": "Egyptian association football player",
+  "place_of_birth_qid": "Q223587",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3048741",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1751138",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q286504",
+      "start": "2013-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q3048741",
+  "image_filename": "Yasser Ibrahim in FIFA Club World Cup.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yasser_Ibrahim",
+  "transfermarkt_id": "237425",
+  "wikidata_date_of_birth": "1989-05-08",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "place_of_birth": "Mansoura",
+  "wikidata_current_club": "Smouha SC",
+  "wikidata_current_club_qid": "Q3048741",
+  "photo": {
+    "filename": "Yasser Ibrahim in FIFA Club World Cup.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Yasser_Ibrahim_in_FIFA_Club_World_Cup.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Yasser_Ibrahim_in_FIFA_Club_World_Cup.jpg",
+    "width": 780,
+    "height": 1176,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mohammad Amin Ansari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/yasser-ibrahim.jpg"
+  },
+  "team_slug": "egypt",
+  "team_country": "Egypt"
+}

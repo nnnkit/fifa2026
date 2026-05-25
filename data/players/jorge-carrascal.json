@@ -1,0 +1,87 @@
+{
+  "slug": "jorge-carrascal",
+  "display_name": "Jorge Carrascal",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1998-05-25",
+  "age": 28,
+  "caps": 22,
+  "goals": 2,
+  "club_from_squad_table": "Flamengo",
+  "wikipedia_title": "Jorge Carrascal",
+  "date_of_birth": "1998-05-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Flamengo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19362872",
+  "qid": "Q19362872",
+  "name": "Jorge Carrascal",
+  "description": "Colombian football player",
+  "place_of_birth_qid": "Q657461",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q950835",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q223360",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q10329",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q15799",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q176371",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q17497",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q950835",
+  "image_filename": "Jorge Carrascal in 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jorge_Carrascal",
+  "transfermarkt_id": "354145",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Cartagena",
+  "wikidata_current_club": "Sevilla Atl\u00e9tico",
+  "wikidata_current_club_qid": "Q950835",
+  "photo": {
+    "filename": "Jorge Carrascal in 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jorge_Carrascal_in_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jorge_Carrascal_in_2022.jpg",
+    "width": 624,
+    "height": 974,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jorge-carrascal.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

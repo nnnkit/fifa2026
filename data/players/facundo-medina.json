@@ -1,0 +1,75 @@
+{
+  "slug": "facundo-medina",
+  "display_name": "Facundo Medina",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-05-28",
+  "age": 27,
+  "caps": 7,
+  "goals": 0,
+  "club_from_squad_table": "Marseille",
+  "wikipedia_title": "Facundo Medina",
+  "wikidata_qid": "Q28056787",
+  "qid": "Q28056787",
+  "name": "Facundo Medina",
+  "description": "Argentinian association football player",
+  "date_of_birth": "1999-05-28",
+  "place_of_birth_qid": "Q1486",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 1.84,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q336286",
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1022939",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q191843",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q191843",
+  "image_filename": "Entraînement du RC Lens - 15 juillet 2020 21.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Facundo_Medina",
+  "transfermarkt_id": "474800",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Marseille",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender",
+    "full-back"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Buenos Aires",
+  "wikidata_current_club": "R.C. Lens",
+  "wikidata_current_club_qid": "Q191843",
+  "photo": {
+    "filename": "Entraînement du RC Lens - 15 juillet 2020 21.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Entra%C3%AEnement_du_RC_Lens_-_15_juillet_2020_21.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Entra%C3%AEnement_du_RC_Lens_-_15_juillet_2020_21.jpg/960px-Entra%C3%AEnement_du_RC_Lens_-_15_juillet_2020_21.jpg",
+    "width": 2592,
+    "height": 3456,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterhéninois (page does not exist)\">Supporterhéninois</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/facundo-medina.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

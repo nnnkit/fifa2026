@@ -1,0 +1,106 @@
+{
+  "slug": "tim-payne",
+  "display_name": "Tim Payne",
+  "shirt_no": 2,
+  "position_code": "DF",
+  "dob": "1994-01-10",
+  "age": 32,
+  "caps": 50,
+  "goals": 3,
+  "club_from_squad_table": "Wellington Phoenix",
+  "wikipedia_title": "Tim Payne (footballer)",
+  "date_of_birth": "1994-01-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Wellington Phoenix",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q2642525",
+  "qid": "Q2642525",
+  "name": "Tim Payne",
+  "description": "New Zealand footballer",
+  "place_of_birth_qid": "Q37100",
+  "citizenship_qids": [
+    "Q664"
+  ],
+  "height_cm": 179.0,
+  "weight_kg": 73.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19446",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q630544",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q611885",
+      "start": "2010-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q630544",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q18343817",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3590285",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q3720046",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q510953",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q175315",
+      "start": "2012-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18343817",
+  "image_filename": "Tim Payne - Wellington Phoenix.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Payne_(footballer)",
+  "transfermarkt_id": "149901",
+  "fifa_player_id": "331463",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "New Zealand"
+  ],
+  "place_of_birth": "Auckland",
+  "wikidata_current_club": "Portland Timbers 2",
+  "wikidata_current_club_qid": "Q18343817",
+  "photo": {
+    "filename": "Tim Payne - Wellington Phoenix.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Tim_Payne_-_Wellington_Phoenix.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Tim_Payne_-_Wellington_Phoenix.jpg/960px-Tim_Payne_-_Wellington_Phoenix.jpg",
+    "width": 2740,
+    "height": 3828,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/tim-payne.jpg"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand",
+  "squad_table_caps": 49,
+  "caps_source": "nz-football-official-squad-2026-05-14"
+}

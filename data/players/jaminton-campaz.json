@@ -1,0 +1,54 @@
+{
+  "slug": "jaminton-campaz",
+  "display_name": "Jaminton Campaz",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2000-05-24",
+  "age": 26,
+  "caps": 9,
+  "goals": 1,
+  "club_from_squad_table": "Rosario Central",
+  "wikipedia_title": "Jaminton Campaz",
+  "date_of_birth": "2000-05-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Rosario Central",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q30050934",
+  "qid": "Q30050934",
+  "name": "Jaminton Campaz",
+  "description": "Colombian soccer player",
+  "place_of_birth_qid": "Q1005555",
+  "citizenship_qids": [
+    "Q717"
+  ],
+  "height_cm": 165.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q221695",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q221695",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jaminton_Campaz",
+  "transfermarkt_id": "491553",
+  "fifa_player_id": "405755",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Venezuela"
+  ],
+  "place_of_birth": "Tumaco",
+  "wikidata_current_club": "Gr\u00eamio FBPA",
+  "wikidata_current_club_qid": "Q221695",
+  "team_slug": "colombia",
+  "team_country": "Colombia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

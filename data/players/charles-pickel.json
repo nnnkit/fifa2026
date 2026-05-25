@@ -1,0 +1,118 @@
+{
+  "slug": "charles-pickel",
+  "display_name": "Charles Pickel",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-05-15",
+  "age": 29,
+  "caps": 33,
+  "goals": 1,
+  "club_from_squad_table": "Espanyol",
+  "wikipedia_title": "Charles Pickel",
+  "date_of_birth": "1997-05-15",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Espanyol",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q24256738",
+  "qid": "Q24256738",
+  "name": "Charles Pickel",
+  "description": "Congolese international footballer. He plays as a defensive midfielder for US Cremonese",
+  "place_of_birth_qid": "Q68965",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 1.8,
+  "weight_kg": 76.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q189671",
+      "start": "2016-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q4140019",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q201360",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q209509",
+      "start": "2019-07-01",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q172247",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q335195",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1387105",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q759482",
+      "start": "2022-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q8780",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19019176",
+      "start": "2014-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q3873550",
+      "start": "2015-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q270080",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8780",
+  "image_filename": "RC Lens - Grenoble Foot 38 (10-02-2020) 60.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Pickel",
+  "transfermarkt_id": "243879",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Solothurn",
+  "wikidata_current_club": "RCD Espanyol de Barcelona",
+  "wikidata_current_club_qid": "Q8780",
+  "photo": {
+    "filename": "RC Lens - Grenoble Foot 38 (10-02-2020) 60.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/RC_Lens_-_Grenoble_Foot_38_%2810-02-2020%29_60.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RC_Lens_-_Grenoble_Foot_38_%2810-02-2020%29_60.jpg/960px-RC_Lens_-_Grenoble_Foot_38_%2810-02-2020%29_60.jpg",
+    "width": 1271,
+    "height": 1695,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterh\u00e9ninois (page does not exist)\">Supporterh\u00e9ninois</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/charles-pickel.jpg"
+  },
+  "team_slug": "dr-congo",
+  "team_country": "DR Congo"
+}

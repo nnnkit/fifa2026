@@ -1,0 +1,55 @@
+{
+  "slug": "salim-obaid",
+  "display_name": "Salim Obaid",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1992-01-17",
+  "age": 34,
+  "caps": 9,
+  "goals": 0,
+  "club_from_squad_table": "Al-Hussein",
+  "wikipedia_title": "Salim Obaid",
+  "date_of_birth": "1992-01-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Hussein",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q33124960",
+  "qid": "Q33124960",
+  "name": "Salim Obaid",
+  "description": "association football player",
+  "place_of_birth_qid": "Q3805",
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2829200",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2829200",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Salim_Obaid",
+  "transfermarkt_id": "658807",
+  "positions": [
+    "defender"
+  ],
+  "place_of_birth": "Amman",
+  "wikidata_current_club": "Al-Ahli",
+  "wikidata_current_club_qid": "Q2829200",
+  "image_filename": "Sepahan_and_Al-Hussein_Jordan_football_teams_meet_21_(2025)_esfahanzibaonline.ir_(cropped2).jpg",
+  "photo": {
+    "filename": "Sepahan_and_Al-Hussein_Jordan_football_teams_meet_21_(2025)_esfahanzibaonline.ir_(cropped2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sepahan_and_Al-Hussein_Jordan_football_teams_meet_21_%282025%29_esfahanzibaonline.ir_%28cropped2%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sepahan_and_Al-Hussein_Jordan_football_teams_meet_21_%282025%29_esfahanzibaonline.ir_%28cropped2%29.jpg",
+    "width": 474,
+    "height": 622,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "\u0645\u062d\u0645\u062f \u06a9\u0627\u0638\u0645 \u06a9\u0645\u0627\u0644\u06cc",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/salim-obaid.jpg"
+  },
+  "team_slug": "jordan",
+  "team_country": "Jordan"
+}

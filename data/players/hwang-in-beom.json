@@ -1,0 +1,118 @@
+{
+  "slug": "hwang-in-beom",
+  "display_name": "Hwang In-beom",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-09-20",
+  "age": 29,
+  "caps": 71,
+  "goals": 6,
+  "club_from_squad_table": "Feyenoord",
+  "wikipedia_title": "Hwang In-beom",
+  "wikidata_qid": "Q19603924",
+  "qid": "Q19603924",
+  "name": "Hwang In-beom",
+  "description": "South Korean association football player",
+  "date_of_birth": "1996-09-20",
+  "place_of_birth_qid": "Q20921",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 177.0,
+  "weight_kg": 64.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q484584",
+      "start": "2015-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q493401",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q495929",
+      "start": "2014-01-01",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q6431906",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q488454",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q543842",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q196107",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q170040",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q482406",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q19628",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q173009",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q134241",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q173009",
+  "image_filename": "240611 대한민국 vs 중국 (황인범).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hwang_In-beom",
+  "transfermarkt_id": "365394",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Feyenoord",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "Daejeon",
+  "wikidata_current_club": "FK Crvena zvezda",
+  "wikidata_current_club_qid": "Q173009",
+  "photo": {
+    "filename": "240611 대한민국 vs 중국 (황인범).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/240611_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_vs_%EC%A4%91%EA%B5%AD_%28%ED%99%A9%EC%9D%B8%EB%B2%94%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/240611_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_vs_%EC%A4%91%EA%B5%AD_%28%ED%99%A9%EC%9D%B8%EB%B2%94%29.jpg/960px-240611_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_vs_%EC%A4%91%EA%B5%AD_%28%ED%99%A9%EC%9D%B8%EB%B2%94%29.jpg",
+    "width": 1600,
+    "height": 2000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/hwang-in-beom.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

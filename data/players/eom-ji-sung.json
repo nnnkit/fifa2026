@@ -1,0 +1,62 @@
+{
+  "slug": "eom-ji-sung",
+  "display_name": "Eom Ji-sung",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2002-05-09",
+  "age": 24,
+  "caps": 8,
+  "goals": 2,
+  "club_from_squad_table": "Swansea City",
+  "wikipedia_title": "Eom Ji-sung",
+  "wikidata_qid": "Q105896342",
+  "qid": "Q105896342",
+  "name": "Eom Ji-sung",
+  "description": "South Korean association football player",
+  "date_of_birth": "2002-05-09",
+  "place_of_birth_qid": "Q42077",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q168364",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q168364",
+  "image_filename": "230917 FC 서울 vs 광주 FC (엄지성).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Eom_Ji-sung",
+  "transfermarkt_id": "706968",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Swansea City",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "Gimje",
+  "wikidata_current_club": "Gwangju FC",
+  "wikidata_current_club_qid": "Q168364",
+  "photo": {
+    "filename": "230917 FC 서울 vs 광주 FC (엄지성).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/230917_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B4%91%EC%A3%BC_FC_%28%EC%97%84%EC%A7%80%EC%84%B1%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/230917_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B4%91%EC%A3%BC_FC_%28%EC%97%84%EC%A7%80%EC%84%B1%29.jpg/960px-230917_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B4%91%EC%A3%BC_FC_%28%EC%97%84%EC%A7%80%EC%84%B1%29.jpg",
+    "width": 1600,
+    "height": 2000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Explicit",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/eom-ji-sung.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

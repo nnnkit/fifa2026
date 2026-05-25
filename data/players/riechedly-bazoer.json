@@ -1,0 +1,93 @@
+{
+  "slug": "riechedly-bazoer",
+  "display_name": "Riechedly Bazoer",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-10-12",
+  "age": 29,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Konyaspor",
+  "wikipedia_title": "Riechedly Bazoer",
+  "date_of_birth": "1996-10-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Konyaspor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q3431767",
+  "qid": "Q3431767",
+  "name": "Riechedly Bazoer",
+  "description": "Curaçaoan footballer",
+  "place_of_birth_qid": "Q39297398",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 184.0,
+  "weight_kg": 81.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q81888",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1770361",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q601723",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q514714",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q81888",
+      "start": "2014-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q81888",
+  "image_filename": "Dnepr-Ajax (2).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Riechedly_Bazoer",
+  "transfermarkt_id": "216443",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Utrecht",
+  "wikidata_current_club": "AFC Ajax",
+  "wikidata_current_club_qid": "Q81888",
+  "photo": {
+    "filename": "Dnepr-Ajax (2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Dnepr-Ajax_%282%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Dnepr-Ajax_%282%29.jpg",
+    "width": 571,
+    "height": 722,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Илья Хохлов",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/riechedly-bazoer.jpg"
+  },
+  "team_slug": "curaçao",
+  "team_country": "Curaçao"
+}

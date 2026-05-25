@@ -1,0 +1,79 @@
+{
+  "slug": "patrick-agyemang",
+  "display_name": "Patrick Agyemang",
+  "shirt_no": 25,
+  "position_code": "FW",
+  "dob": "2000-11-07",
+  "age": 25,
+  "caps": 14,
+  "goals": 6,
+  "club_from_squad_table": "Derby County",
+  "wikipedia_title": "Patrick Agyemang (soccer, born 2000)",
+  "date_of_birth": "2000-11-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Derby County",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q118954382",
+  "qid": "Q118954382",
+  "name": "Patrick Agyemang",
+  "description": "American soccer player (born 2000)",
+  "place_of_birth_qid": "Q754618",
+  "citizenship_qids": [
+    "Q117",
+    "Q30"
+  ],
+  "height_cm": 1.93,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q78944434",
+      "start": "2023-05-00",
+      "end": "2025-07-00"
+    },
+    {
+      "team_qid": "Q116776963",
+      "start": "2023-03-00",
+      "end": "2023-10-00"
+    },
+    {
+      "team_qid": "Q19470",
+      "start": "2025-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q164134",
+      "start": "2025-01-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19470",
+  "image_filename": "Patrick Agyemang USMNT Debut.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Agyemang_(soccer,_born_2000)",
+  "transfermarkt_id": "1089574",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Ghana",
+    "United States"
+  ],
+  "place_of_birth": "East Hartford",
+  "wikidata_current_club": "Derby County F.C.",
+  "wikidata_current_club_qid": "Q19470",
+  "photo": {
+    "filename": "Patrick Agyemang USMNT Debut.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Patrick_Agyemang_USMNT_Debut.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Patrick_Agyemang_USMNT_Debut.jpg/960px-Patrick_Agyemang_USMNT_Debut.jpg",
+    "width": 2225,
+    "height": 3337,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Choosesam&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Choosesam (page does not exist)\">Choosesam</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/patrick-agyemang.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

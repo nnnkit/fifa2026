@@ -1,0 +1,73 @@
+{
+  "slug": "joe-bell",
+  "display_name": "Joe Bell",
+  "shirt_no": 6,
+  "position_code": "MF",
+  "dob": "1999-04-27",
+  "age": 27,
+  "caps": 31,
+  "goals": 1,
+  "club_from_squad_table": "Viking",
+  "wikipedia_title": "Joe Bell (footballer)",
+  "date_of_birth": "1999-04-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Viking",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64433070",
+  "qid": "Q64433070",
+  "name": "Joe Bell",
+  "description": "New Zealand association football player",
+  "place_of_birth_qid": "Q23154",
+  "citizenship_qids": [
+    "Q664"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q211177",
+      "start": "2020-01-00",
+      "end": "2021-01-00"
+    },
+    {
+      "team_qid": "Q211906",
+      "start": "2022-02-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q175315",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q211906",
+  "image_filename": "Joe Bell 2023.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Bell_(footballer)",
+  "transfermarkt_id": "345700",
+  "fifa_player_id": "390181",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "New Zealand"
+  ],
+  "place_of_birth": "Bristol",
+  "wikidata_current_club": "Br\u00f8ndby IF",
+  "wikidata_current_club_qid": "Q211906",
+  "photo": {
+    "filename": "Joe Bell 2023.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Joe_Bell_2023.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Joe_Bell_2023.jpg",
+    "width": 675,
+    "height": 885,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "3point.dk",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/joe-bell.jpg"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand"
+}

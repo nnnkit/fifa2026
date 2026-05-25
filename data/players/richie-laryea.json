@@ -1,0 +1,95 @@
+{
+  "slug": "richie-laryea",
+  "display_name": "Richie Laryea",
+  "shirt_no": 22,
+  "position_code": "DF",
+  "dob": "1995-01-07",
+  "age": 31,
+  "caps": 73,
+  "goals": 1,
+  "club_from_squad_table": "Toronto FC",
+  "wikipedia_title": "Richie Laryea",
+  "wikidata_qid": "Q22096162",
+  "qid": "Q22096162",
+  "name": "Richie Laryea",
+  "description": "Canadian soccer player",
+  "date_of_birth": "1995-01-07",
+  "place_of_birth_qid": "Q172",
+  "citizenship_qids": [
+    "Q16"
+  ],
+  "height_cm": 175.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q15214308",
+      "start": "2016-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q20807149",
+      "start": "2016-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q19876709",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q65090007",
+      "start": "2015-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q3873967",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q327238",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q208635",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q4701707",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q327238",
+  "image_filename": "CINvOCB 2017-05-13 - Richie Laryea (34525525311) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Richie_Laryea",
+  "transfermarkt_id": "417348",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Toronto FC",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Canada"
+  ],
+  "place_of_birth": "Toronto",
+  "photo": {
+    "filename": "CINvOCB 2017-05-13 - Richie Laryea (34525525311) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/CINvOCB_2017-05-13_-_Richie_Laryea_%2834525525311%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CINvOCB_2017-05-13_-_Richie_Laryea_%2834525525311%29_%28cropped%29.jpg/960px-CINvOCB_2017-05-13_-_Richie_Laryea_%2834525525311%29_%28cropped%29.jpg",
+    "width": 1305,
+    "height": 2604,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65581273@N05\">Hayden Schiff</a> from Cincinnati, USA",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/richie-laryea.jpg"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

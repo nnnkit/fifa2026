@@ -1,0 +1,104 @@
+{
+  "slug": "ousmane-demb\u00e9l\u00e9",
+  "display_name": "Ousmane Demb\u00e9l\u00e9",
+  "shirt_no": 7,
+  "position_code": "FW",
+  "dob": "1997-05-15",
+  "age": 29,
+  "caps": 58,
+  "goals": 7,
+  "club_from_squad_table": "Paris Saint-Germain",
+  "wikipedia_title": "Ousmane Demb\u00e9l\u00e9",
+  "date_of_birth": "1997-05-15",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Paris Saint-Germain",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20851003",
+  "qid": "Q20851003",
+  "name": "Ousmane Demb\u00e9l\u00e9",
+  "description": "French footballer (born 1997)",
+  "place_of_birth_qid": "Q236736",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 179.0,
+  "weight_kg": 67.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19509",
+      "start": "2015-00-00",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": "2013-00-00",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q1450557",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q2701714",
+      "start": "2015-01-01",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2017-00-00",
+      "end": "2023-08-11"
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q47774",
+      "start": "2016-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2023-08-11",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q483020",
+  "image_filename": "Ousmane Demb\u00e9l\u00e9 2018 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+  "transfermarkt_id": "288230",
+  "fifa_player_id": "398680",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "Vernon",
+  "wikidata_current_club": "Paris Saint-Germain FC",
+  "wikidata_current_club_qid": "Q483020",
+  "photo": {
+    "filename": "Ousmane Demb\u00e9l\u00e9 2018 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ousmane_Demb%C3%A9l%C3%A9_2018_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ousmane_Demb%C3%A9l%C3%A9_2018_%28cropped%29.jpg",
+    "width": 354,
+    "height": 463,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ousmane-demb\u00e9l\u00e9.jpg"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

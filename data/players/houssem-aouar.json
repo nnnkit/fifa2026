@@ -1,0 +1,69 @@
+{
+  "slug": "houssem-aouar",
+  "display_name": "Houssem Aouar",
+  "shirt_no": 8,
+  "position_code": "MF",
+  "dob": "1998-06-30",
+  "age": 27,
+  "caps": 19,
+  "goals": 6,
+  "club_from_squad_table": "Al-Ittihad",
+  "wikipedia_title": "Houssem Aouar",
+  "date_of_birth": "1998-06-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Ittihad",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27927442",
+  "qid": "Q27927442",
+  "name": "Houssem Aouar",
+  "description": "Algerian-French footballer (born 1998)",
+  "place_of_birth_qid": "Q456",
+  "citizenship_qids": [
+    "Q142",
+    "Q262"
+  ],
+  "height_cm": 175.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2739",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2739",
+  "image_filename": "Houssem Aouar 2017.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Houssem_Aouar",
+  "transfermarkt_id": "395693",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "France",
+    "Algeria"
+  ],
+  "place_of_birth": "Lyon",
+  "wikidata_current_club": "AS Roma",
+  "wikidata_current_club_qid": "Q2739",
+  "photo": {
+    "filename": "Houssem Aouar 2017.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Houssem_Aouar_2017.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Houssem_Aouar_2017.jpg/960px-Houssem_Aouar_2017.jpg",
+    "width": 3200,
+    "height": 4780,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/153890490@N04\">Laura Jonin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/houssem-aouar.jpg"
+  },
+  "team_slug": "algeria",
+  "team_country": "Algeria"
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "lyndon-dykes",
+  "display_name": "Lyndon Dykes",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1995-10-07",
+  "age": 30,
+  "caps": 50,
+  "goals": 10,
+  "club_from_squad_table": "Charlton Athletic",
+  "wikipedia_title": "Lyndon Dykes",
+  "date_of_birth": "1995-10-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Charlton Athletic",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26405109",
+  "qid": "Q26405109",
+  "name": "Lyndon Dykes",
+  "description": "Scotland association football player (born 1995)",
+  "place_of_birth_qid": "Q140075",
+  "citizenship_qids": [
+    "Q145",
+    "Q408"
+  ],
+  "height_cm": 188.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q854890",
+      "start": "2016-07-01",
+      "end": "2019-01-30"
+    },
+    {
+      "team_qid": "Q867921",
+      "start": "2019-01-30",
+      "end": "2020-08-19"
+    },
+    {
+      "team_qid": "Q854890",
+      "start": "2019-01-31",
+      "end": "2019-05-19"
+    },
+    {
+      "team_qid": "Q18723",
+      "start": "2020-08-19",
+      "end": null
+    },
+    {
+      "team_qid": "Q34044",
+      "start": "2020-09-04",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18723",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lyndon_Dykes",
+  "transfermarkt_id": "347138",
+  "fifa_player_id": "400086960",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "United Kingdom",
+    "Australia"
+  ],
+  "place_of_birth": "Gold Coast",
+  "wikidata_current_club": "Queens Park Rangers F.C.",
+  "wikidata_current_club_qid": "Q18723",
+  "image_filename": "First_Minister_meets_with_Scottish_National_Football_Team_-_55168603663_(cropped).jpg",
+  "photo": {
+    "filename": "First_Minister_meets_with_Scottish_National_Football_Team_-_55168603663_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/First_Minister_meets_with_Scottish_National_Football_Team_-_55168603663_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/First_Minister_meets_with_Scottish_National_Football_Team_-_55168603663_%28cropped%29.jpg",
+    "width": 156,
+    "height": 199,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Scottish Government",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/lyndon-dykes.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

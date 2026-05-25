@@ -1,0 +1,98 @@
+{
+  "slug": "eloy-room",
+  "display_name": "Eloy Room",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1989-02-06",
+  "age": 37,
+  "caps": 70,
+  "goals": 0,
+  "club_from_squad_table": "Miami FC",
+  "wikipedia_title": "Eloy Room",
+  "date_of_birth": "1989-02-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Miami FC",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q862963",
+  "qid": "Q862963",
+  "name": "Eloy Room",
+  "description": "Curaçaoan association football player",
+  "place_of_birth_qid": "Q47887",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 81.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q219233",
+      "start": "2008-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q749589",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q729640",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q11938",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q457163",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q13534332",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q92606214",
+      "start": "2011-00-00",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q13882315",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q457163",
+  "image_filename": "Room Eloy Columbus Crew SC Meet the Team 2019.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Eloy_Room",
+  "transfermarkt_id": "79294",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Nijmegen",
+  "wikidata_current_club": "Columbus Crew",
+  "wikidata_current_club_qid": "Q457163",
+  "photo": {
+    "filename": "Room Eloy Columbus Crew SC Meet the Team 2019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Room_Eloy_Columbus_Crew_SC_Meet_the_Team_2019.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Room_Eloy_Columbus_Crew_SC_Meet_the_Team_2019.jpg/960px-Room_Eloy_Columbus_Crew_SC_Meet_the_Team_2019.jpg",
+    "width": 1539,
+    "height": 2164,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jay_eyem&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jay eyem (page does not exist)\">Jay eyem</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/eloy-room.jpg"
+  },
+  "team_slug": "curaçao",
+  "team_country": "Curaçao"
+}

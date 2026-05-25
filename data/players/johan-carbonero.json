@@ -1,0 +1,55 @@
+{
+  "slug": "johan-carbonero",
+  "display_name": "Johan Carbonero",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1999-07-20",
+  "age": 26,
+  "caps": 2,
+  "goals": 2,
+  "club_from_squad_table": "Internacional",
+  "wikipedia_title": "Johan Carbonero",
+  "date_of_birth": "1999-07-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Internacional",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q59644108",
+  "qid": "Q59644108",
+  "name": "Johan Carbonero",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q1093175",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 170.0,
+  "position_qids": [
+    "Q3446915",
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q47533",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q47533",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johan_Carbonero",
+  "transfermarkt_id": "572042",
+  "positions": [
+    "attacker",
+    "forward"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Santander de Quilichao",
+  "wikidata_current_club": "Once Caldas",
+  "wikidata_current_club_qid": "Q47533",
+  "team_slug": "colombia",
+  "team_country": "Colombia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

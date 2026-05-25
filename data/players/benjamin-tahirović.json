@@ -1,0 +1,78 @@
+{
+  "slug": "benjamin-tahirović",
+  "display_name": "Benjamin Tahirović",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2003-03-03",
+  "age": 23,
+  "caps": 26,
+  "goals": 2,
+  "club_from_squad_table": "Brøndby",
+  "wikipedia_title": "Benjamin Tahirović",
+  "wikidata_qid": "Q115194574",
+  "qid": "Q115194574",
+  "name": "Benjamin Tahirović",
+  "description": "Bosnian-Swedish association football player",
+  "date_of_birth": "2003-03-03",
+  "place_of_birth_qid": "Q861644",
+  "citizenship_qids": [
+    "Q34",
+    "Q225"
+  ],
+  "height_cm": 1.93,
+  "teams": [
+    {
+      "team_qid": "Q602918",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q2739",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q81888",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q211906",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q211906",
+  "image_filename": "Benjamin Tahirović - GAE - Ajax (53465349575).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Tahirovi%C4%87",
+  "transfermarkt_id": "787907",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Brøndby",
+  "current_club_source": "wikipedia-squad-table",
+  "citizenship": [
+    "Sweden",
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Spånga-Tensta city district",
+  "wikidata_current_club": "Brøndby IF",
+  "wikidata_current_club_qid": "Q211906",
+  "photo": {
+    "filename": "Benjamin Tahirović - GAE - Ajax (53465349575).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Benjamin_Tahirovi%C4%87_-_GAE_-_Ajax_%2853465349575%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Benjamin_Tahirovi%C4%87_-_GAE_-_Ajax_%2853465349575%29.jpg/960px-Benjamin_Tahirovi%C4%87_-_GAE_-_Ajax_%2853465349575%29.jpg",
+    "width": 1685,
+    "height": 2667,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/131306819@N08\">Carlo Bruil</a> from Nederland",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/benjamin-tahirović.jpg"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

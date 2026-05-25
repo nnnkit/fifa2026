@@ -1,0 +1,82 @@
+{
+  "slug": "mark-mckenzie",
+  "display_name": "Mark McKenzie",
+  "shirt_no": 22,
+  "position_code": "DF",
+  "dob": "1999-02-25",
+  "age": 27,
+  "caps": 27,
+  "goals": 0,
+  "club_from_squad_table": "Toulouse",
+  "wikipedia_title": "Mark McKenzie (soccer, born 1999)",
+  "date_of_birth": "1999-02-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Toulouse",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27995843",
+  "qid": "Q27995843",
+  "name": "Mark McKenzie",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q755632",
+  "citizenship_qids": [
+    "Q30"
+  ],
+  "height_cm": 1.84,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q21070839",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q689874",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q21070839",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q287804",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q164134",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q689874",
+  "image_filename": "McKenzie asse tfc 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_McKenzie_(soccer,_born_1999)",
+  "transfermarkt_id": "429259",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "United States"
+  ],
+  "place_of_birth": "Bear",
+  "wikidata_current_club": "Philadelphia Union",
+  "wikidata_current_club_qid": "Q689874",
+  "photo": {
+    "filename": "McKenzie asse tfc 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/McKenzie_asse_tfc_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/McKenzie_asse_tfc_2425.png",
+    "width": 672,
+    "height": 802,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mark-mckenzie.png"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

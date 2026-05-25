@@ -1,0 +1,53 @@
+{
+  "slug": "zaid-romero",
+  "display_name": "Zaid Romero",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-12-15",
+  "age": 26,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Getafe",
+  "wikipedia_title": "Zaid Romero",
+  "wikidata_qid": "Q92550871",
+  "qid": "Q92550871",
+  "name": "Zaid Romero",
+  "description": "Argentine association football player",
+  "date_of_birth": "1999-12-15",
+  "place_of_birth_qid": "Q44237",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 195.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q80882",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q80882",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Zaid_Romero",
+  "transfermarkt_id": "741142",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Getafe",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Mendoza",
+  "wikidata_current_club": "Godoy Cruz Antonio Tomba",
+  "wikidata_current_club_qid": "Q80882",
+  "team_slug": "argentina",
+  "team_country": "Argentina",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "alexandro-maidana",
+  "display_name": "Alexandro Maidana",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2005-07-26",
+  "age": 20,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Talleres",
+  "wikipedia_title": "Alexandro Maidana",
+  "date_of_birth": "2005-07-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Talleres",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q136375048",
+  "qid": "Q136375048",
+  "name": "Alexandro Maidana",
+  "description": "Paraguayan footballer",
+  "place_of_birth_qid": "Q135959",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexandro_Maidana",
+  "transfermarkt_id": "1371519",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Caacupé",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

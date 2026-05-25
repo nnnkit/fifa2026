@@ -1,0 +1,54 @@
+{
+  "slug": "daniel-jebbison",
+  "display_name": "Daniel Jebbison",
+  "shirt_no": 24,
+  "position_code": "FW",
+  "dob": "2003-07-11",
+  "age": 22,
+  "caps": 7,
+  "goals": 0,
+  "club_from_squad_table": "Preston North End",
+  "wikipedia_title": "Daniel Jebbison",
+  "wikidata_qid": "Q106766809",
+  "qid": "Q106766809",
+  "name": "Daniel Jebbison",
+  "description": "Canadian soccer player (born 2003)",
+  "date_of_birth": "2003-07-11",
+  "place_of_birth_qid": "Q424984",
+  "citizenship_qids": [
+    "Q16",
+    "Q145"
+  ],
+  "height_cm": 190.0,
+  "position_qids": [
+    "Q9731197"
+  ],
+  "image_filename": "Daniel Jebbison 2024.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Daniel_Jebbison",
+  "transfermarkt_id": "746740",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "positions": [
+    "centre-forward"
+  ],
+  "citizenship": [
+    "Canada",
+    "United Kingdom"
+  ],
+  "place_of_birth": "Oakville",
+  "current_club": "Preston North End",
+  "current_club_source": "wikipedia-squad-table",
+  "photo": {
+    "filename": "Daniel Jebbison 2024.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Daniel_Jebbison_2024.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Daniel_Jebbison_2024.jpg/960px-Daniel_Jebbison_2024.jpg",
+    "width": 1260,
+    "height": 1713,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "AFC Bournemouth",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/daniel-jebbison.jpg"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

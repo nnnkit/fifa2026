@@ -1,0 +1,93 @@
+{
+  "slug": "jude-bellingham",
+  "display_name": "Jude Bellingham",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2003-06-29",
+  "age": 22,
+  "caps": 46,
+  "goals": 6,
+  "club_from_squad_table": "Real Madrid",
+  "wikipedia_title": "Jude Bellingham",
+  "date_of_birth": "2003-06-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q66241169",
+  "qid": "Q66241169",
+  "name": "Jude Bellingham",
+  "description": "English association football player (born 2003)",
+  "place_of_birth_qid": "Q661707",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 186.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19444",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2020-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q4201740",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q2752922",
+      "start": "2019-09-06",
+      "end": "2019-09-10"
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2020-09-04",
+      "end": "2020-10-13"
+    },
+    {
+      "team_qid": "Q47762",
+      "start": "2020-11-12",
+      "end": null
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8682",
+  "image_filename": "25th Laureus World Sports Awards - Red Carpet - Jude Bellingham - 240422 190551-2 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jude_Bellingham",
+  "transfermarkt_id": "581678",
+  "fifa_player_id": "400136607",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Stourbridge",
+  "wikidata_current_club": "Real Madrid Club de F\u00fatbol",
+  "wikidata_current_club_qid": "Q8682",
+  "photo": {
+    "filename": "25th Laureus World Sports Awards - Red Carpet - Jude Bellingham - 240422 190551-2 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Jude_Bellingham_-_240422_190551-2_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Jude_Bellingham_-_240422_190551-2_%28cropped%29.jpg/960px-25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Jude_Bellingham_-_240422_190551-2_%28cropped%29.jpg",
+    "width": 1007,
+    "height": 1497,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Barcex\" title=\"User:Barcex\">Barcex</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jude-bellingham.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

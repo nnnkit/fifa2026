@@ -1,0 +1,75 @@
+{
+  "slug": "assim-madibo",
+  "display_name": "Assim Madibo",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-10-22",
+  "age": 29,
+  "caps": 49,
+  "goals": 0,
+  "club_from_squad_table": "Al-Wakrah",
+  "wikipedia_title": "Assim Madibo",
+  "date_of_birth": "1996-10-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Wakrah",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21000530",
+  "qid": "Q21000530",
+  "name": "Assim Madibo",
+  "description": "Qatari association football player",
+  "place_of_birth_qid": "Q846",
+  "citizenship_qids": [
+    "Q846"
+  ],
+  "height_cm": 1.68,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q392310",
+      "start": "2015-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q1387445",
+      "start": "2015-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q582342",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873543",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    }
+  ],
+  "current_club_qid": "Q582342",
+  "image_filename": "Qatar - Japan, AFC Asian Cup 2019 58 - Assim Madibo.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Assim_Madibo",
+  "transfermarkt_id": "336667",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Qatar"
+  ],
+  "place_of_birth": "Qatar",
+  "photo": {
+    "filename": "Qatar - Japan, AFC Asian Cup 2019 58 - Assim Madibo.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Qatar_-_Japan%2C_AFC_Asian_Cup_2019_58_-_Assim_Madibo.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Qatar_-_Japan%2C_AFC_Asian_Cup_2019_58_-_Assim_Madibo.jpg",
+    "width": 171,
+    "height": 199,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mehdi Bolourian",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/assim-madibo.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

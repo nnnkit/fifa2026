@@ -1,0 +1,77 @@
+{
+  "slug": "jos\u00e9-mar\u00eda-gim\u00e9nez",
+  "display_name": "Jos\u00e9 Mar\u00eda Gim\u00e9nez",
+  "shirt_no": 2,
+  "position_code": "DF",
+  "dob": "1995-01-20",
+  "age": 31,
+  "caps": 99,
+  "goals": 8,
+  "club_from_squad_table": "Atl\u00e9tico Madrid",
+  "wikipedia_title": "Jos\u00e9 Mar\u00eda Gim\u00e9nez",
+  "date_of_birth": "1995-01-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atl\u00e9tico Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q13634114",
+  "qid": "Q13634114",
+  "name": "Jos\u00e9 Mar\u00eda Gim\u00e9nez",
+  "description": "Uruguayan association football player",
+  "place_of_birth_qid": "Q841342",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 76.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q8701",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q584316",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2442864",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q134916",
+      "start": "2013-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8701",
+  "image_filename": "Jos\u00e9 Mar\u00eda Gim\u00e9nez (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Gim%C3%A9nez",
+  "transfermarkt_id": "250845",
+  "fifa_player_id": "368655",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Canelones",
+  "photo": {
+    "filename": "Jos\u00e9 Mar\u00eda Gim\u00e9nez (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jos%C3%A9_Mar%C3%ADa_Gim%C3%A9nez_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jos%C3%A9_Mar%C3%ADa_Gim%C3%A9nez_%28cropped%29.jpg",
+    "width": 467,
+    "height": 522,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u043d\u0430 \u041d\u044d\u0441\u0441\u0438",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jos\u00e9-mar\u00eda-gim\u00e9nez.jpg"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

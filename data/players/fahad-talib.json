@@ -1,0 +1,68 @@
+{
+  "slug": "fahad-talib",
+  "display_name": "Fahad Talib",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1994-10-21",
+  "age": 31,
+  "caps": 20,
+  "goals": 0,
+  "club_from_squad_table": "Al-Talaba",
+  "wikipedia_title": "Fahad Talib",
+  "date_of_birth": "1994-10-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Talaba",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16555086",
+  "qid": "Q16555086",
+  "name": "Fahad Talib",
+  "description": "Iraqi association football player \u0645\u0633\u0644\u0645 \u0634\u064a\u0639\u064a",
+  "place_of_birth_qid": "Q1530",
+  "citizenship_qids": [
+    "Q796"
+  ],
+  "height_cm": 192.0,
+  "weight_kg": 84.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q285510",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q195932",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q285510",
+  "image_filename": "Fahad Talib.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fahad_Talib",
+  "transfermarkt_id": "377268",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Iraq"
+  ],
+  "place_of_birth": "Baghdad",
+  "wikidata_current_club": "Al-Quwa Al-Jawiya",
+  "wikidata_current_club_qid": "Q285510",
+  "photo": {
+    "filename": "Fahad Talib.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Fahad_Talib.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Fahad_Talib.png",
+    "width": 530,
+    "height": 718,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<p>\u0627\u0644\u0645\u0643\u062a\u0628 \u0627\u0644\u0627\u0639\u0644\u0627\u0645\u064a \u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u0648\u0632\u0631\u0627\u0621\nMedia Office of the Prime Minister in Iraq\n</p>\nCreative Commons Attribution license (reuse allowed)",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/fahad-talib.png"
+  },
+  "team_slug": "iraq",
+  "team_country": "Iraq"
+}

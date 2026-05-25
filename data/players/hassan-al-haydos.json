@@ -1,0 +1,78 @@
+{
+  "slug": "hassan-al-haydos",
+  "display_name": "Hassan Al-Haydos",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1990-12-11",
+  "age": 35,
+  "caps": 184,
+  "goals": 41,
+  "club_from_squad_table": "Al-Sadd",
+  "wikipedia_title": "Hassan Al-Haydos",
+  "date_of_birth": "1990-12-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Sadd",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q5679556",
+  "qid": "Q5679556",
+  "name": "Hassan Al Haidos",
+  "description": "Qatari footballer",
+  "place_of_birth_qid": "Q3861",
+  "citizenship_qids": [
+    "Q846"
+  ],
+  "height_cm": 174.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q283545",
+      "start": "2007-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873543",
+      "start": "2007-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q963238",
+      "start": "2007-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2008-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q283545",
+  "image_filename": "Qatar - Japan, AFC Asian Cup 2019 58 - Hassan Al Haydos.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hassan_Al-Haydos",
+  "transfermarkt_id": "86286",
+  "fifa_player_id": "284190",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Qatar"
+  ],
+  "place_of_birth": "Doha",
+  "wikidata_current_club": "Al Sadd Sports Club",
+  "wikidata_current_club_qid": "Q283545",
+  "photo": {
+    "filename": "Qatar - Japan, AFC Asian Cup 2019 58 - Hassan Al Haydos.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Qatar_-_Japan%2C_AFC_Asian_Cup_2019_58_-_Hassan_Al_Haydos.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Qatar_-_Japan%2C_AFC_Asian_Cup_2019_58_-_Hassan_Al_Haydos.jpg",
+    "width": 246,
+    "height": 356,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mehdi Bolourian",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/hassan-al-haydos.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "francis-amuzu",
+  "display_name": "Francis Amuzu",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1999-08-23",
+  "age": 26,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Gr\u00eamio",
+  "wikipedia_title": "Francis Amuzu",
+  "date_of_birth": "1999-08-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Gr\u00eamio",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q46696898",
+  "qid": "Q46696898",
+  "name": "Francis Amuzu",
+  "description": "Belgian association football player",
+  "place_of_birth_qid": "Q3761",
+  "citizenship_qids": [
+    "Q31",
+    "Q117"
+  ],
+  "height_cm": 1.69,
+  "weight_kg": 65.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q187528",
+      "start": "2018-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q815515",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q187528",
+  "image_filename": "FRAncis AmuZU 1 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Amuzu",
+  "transfermarkt_id": "423604",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Belgium",
+    "Ghana"
+  ],
+  "place_of_birth": "Accra",
+  "wikidata_current_club": "R.S.C. Anderlecht",
+  "wikidata_current_club_qid": "Q187528",
+  "photo": {
+    "filename": "FRAncis AmuZU 1 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/FRAncis_AmuZU_1_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/FRAncis_AmuZU_1_%28cropped%29.jpg",
+    "width": 202,
+    "height": 312,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:KALMPSPAZ&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:KALMPSPAZ (page does not exist)\">KALMPSPAZ</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/francis-amuzu.jpg"
+  },
+  "team_slug": "ghana",
+  "team_country": "Ghana"
+}

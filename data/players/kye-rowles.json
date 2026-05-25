@@ -1,0 +1,64 @@
+{
+  "slug": "kye-rowles",
+  "display_name": "Kye Rowles",
+  "shirt_no": 4,
+  "position_code": "DF",
+  "dob": "1998-06-24",
+  "age": 27,
+  "caps": 29,
+  "goals": 1,
+  "club_from_squad_table": "D.C. United",
+  "wikipedia_title": "Kye Rowles",
+  "date_of_birth": "1998-06-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "D.C. United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28839990",
+  "qid": "Q28839990",
+  "name": "Kye Rowles",
+  "description": "Australian association football player",
+  "place_of_birth_qid": "Q1740762",
+  "citizenship_qids": [
+    "Q408"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 90.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q762294",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q762294",
+  "image_filename": "Kye Rowles NYCFC vs DC United on Aug 30 2025-016 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kye_Rowles",
+  "transfermarkt_id": "399990",
+  "fifa_player_id": "389539",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Australia"
+  ],
+  "place_of_birth": "Kiama",
+  "wikidata_current_club": "Central Coast Mariners FC",
+  "wikidata_current_club_qid": "Q762294",
+  "photo": {
+    "filename": "Kye Rowles NYCFC vs DC United on Aug 30 2025-016 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Kye_Rowles_NYCFC_vs_DC_United_on_Aug_30_2025-016_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kye_Rowles_NYCFC_vs_DC_United_on_Aug_30_2025-016_%28cropped%29.jpg/960px-Kye_Rowles_NYCFC_vs_DC_United_on_Aug_30_2025-016_%28cropped%29.jpg",
+    "width": 3173,
+    "height": 4228,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kye-rowles.jpg"
+  },
+  "team_slug": "australia",
+  "team_country": "Australia"
+}

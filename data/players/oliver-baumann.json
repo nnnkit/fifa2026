@@ -1,0 +1,93 @@
+{
+  "slug": "oliver-baumann",
+  "display_name": "Oliver Baumann",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1990-06-02",
+  "age": 36,
+  "caps": 11,
+  "goals": 0,
+  "club_from_squad_table": "TSG Hoffenheim",
+  "wikipedia_title": "Oliver Baumann",
+  "date_of_birth": "1990-06-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "TSG Hoffenheim",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q129116",
+  "qid": "Q129116",
+  "name": "Oliver Baumann",
+  "description": "German footballer",
+  "place_of_birth_qid": "Q489911",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 187.0,
+  "weight_kg": 82.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q106394",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q106394",
+      "start": "2010-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q22707",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q314851",
+      "start": "2010-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2016992",
+      "start": "2008-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q324854",
+      "start": "2008-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q316497",
+      "start": "2010-01-01",
+      "end": "2010-01-01"
+    }
+  ],
+  "current_club_qid": "Q22707",
+  "image_filename": "OliverBaumann (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Oliver_Baumann",
+  "transfermarkt_id": "55089",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Breisach",
+  "wikidata_current_club": "TSG 1899 Hoffenheim",
+  "wikidata_current_club_qid": "Q22707",
+  "photo": {
+    "filename": "OliverBaumann (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/OliverBaumann_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/OliverBaumann_%28cropped%29.jpg",
+    "width": 800,
+    "height": 1118,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Silesia711\" title=\"User:Silesia711\">Silesia711</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/oliver-baumann.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

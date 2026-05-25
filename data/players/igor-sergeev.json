@@ -1,0 +1,94 @@
+{
+  "slug": "igor-sergeev",
+  "display_name": "Igor Sergeev",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1993-04-30",
+  "age": 33,
+  "caps": 81,
+  "goals": 24,
+  "club_from_squad_table": "Persepolis",
+  "wikipedia_title": "Igor Sergeev",
+  "date_of_birth": "1993-04-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Persepolis",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q10549264",
+  "qid": "Q10549264",
+  "name": "Igor Sergeev",
+  "description": "footballer",
+  "place_of_birth_qid": "Q269",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "height_cm": 181.0,
+  "weight_kg": 74.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q732106",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3328961",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q3328961",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q3328961",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q487321",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q194170",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q477814",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q732106",
+  "image_filename": "Igor Sergeyev (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Igor_Sergeev",
+  "transfermarkt_id": "185372",
+  "fifa_player_id": "368546",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Tashkent",
+  "wikidata_current_club": "Pakhtakor Tashkent FK",
+  "wikidata_current_club_qid": "Q732106",
+  "photo": {
+    "filename": "Igor Sergeyev (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Igor_Sergeyev_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Igor_Sergeyev_%28cropped%29.jpg",
+    "width": 396,
+    "height": 373,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "NOC of Uzbekistan",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/igor-sergeev.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

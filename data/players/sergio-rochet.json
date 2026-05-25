@@ -1,0 +1,73 @@
+{
+  "slug": "sergio-rochet",
+  "display_name": "Sergio Rochet",
+  "shirt_no": 1,
+  "position_code": "GK",
+  "dob": "1993-03-23",
+  "age": 33,
+  "caps": 35,
+  "goals": 0,
+  "club_from_squad_table": "Internacional",
+  "wikipedia_title": "Sergio Rochet",
+  "date_of_birth": "1993-03-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Internacional",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q17086753",
+  "qid": "Q17086753",
+  "name": "Sergio Rochet",
+  "description": "Uruguayan footballer",
+  "place_of_birth_qid": "Q1023521",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 82.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q191264",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q584316",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q2442864",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    }
+  ],
+  "current_club_qid": "Q191264",
+  "image_filename": "Zenit-AZ (8).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sergio_Rochet",
+  "transfermarkt_id": "264014",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Nueva Palmira",
+  "wikidata_current_club": "AZ Alkmaar",
+  "wikidata_current_club_qid": "Q191264",
+  "photo": {
+    "filename": "Zenit-AZ (8).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Zenit-AZ_%288%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Zenit-AZ_%288%29.jpg",
+    "width": 841,
+    "height": 637,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0415\u0432\u0434\u043e\u043a\u0438\u043c\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/sergio-rochet.jpg"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

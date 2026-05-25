@@ -1,0 +1,59 @@
+{
+  "slug": "moteb-al-harbi",
+  "display_name": "Moteb Al-Harbi",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-02-19",
+  "age": 26,
+  "caps": 10,
+  "goals": 0,
+  "club_from_squad_table": "Al-Hilal",
+  "wikipedia_title": "Moteb Al-Harbi",
+  "date_of_birth": "2000-02-19",
+  "date_of_birth_source": "saudi-pro-league-official-verified",
+  "current_club": "Al-Hilal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q97698786",
+  "qid": "Q97698786",
+  "name": "Moteb Al-Harbi",
+  "description": "Saudi Arabian association football player",
+  "place_of_birth_qid": "Q851",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 173.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2636005",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q189723",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2636005",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Moteb_Al-Harbi",
+  "transfermarkt_id": "869509",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Saudi Arabia",
+  "wikidata_current_club": "Al-Shabab Football Club",
+  "wikidata_current_club_qid": "Q2636005",
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "squad_table_date_of_birth": "2000-02-20"
+}

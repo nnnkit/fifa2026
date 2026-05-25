@@ -1,0 +1,1550 @@
+{
+  "slug": "algeria",
+  "country": "Algeria",
+  "wikidata_qid": "Q181903",
+  "fetched_at": "2026-05-24T17:14:44+00:00",
+  "source": {
+    "kind": "national-team",
+    "title": "Algeria national football team",
+    "url": "https://en.wikipedia.org/wiki/Algeria_national_football_team"
+  },
+  "squad_size": 27,
+  "players": [
+    {
+      "slug": "anthony-mandrea",
+      "display_name": "Anthony Mandrea",
+      "shirt_no": 1,
+      "position_code": "GK",
+      "dob": "1996-12-25",
+      "age": 29,
+      "caps": 21,
+      "goals": 0,
+      "club_from_squad_table": "Caen",
+      "wikipedia_title": "Anthony Mandrea",
+      "date_of_birth": "1996-12-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Caen",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q15133433",
+      "qid": "Q15133433",
+      "name": "Anthony Mandrea",
+      "description": "Algerian and French footballer",
+      "place_of_birth_qid": "Q173705",
+      "citizenship_qids": [
+        "Q262",
+        "Q142"
+      ],
+      "height_cm": 186.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q185163",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        }
+      ],
+      "current_club_qid": "Q185163",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anthony_Mandrea",
+      "transfermarkt_id": "290559",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Algeria",
+        "France"
+      ],
+      "place_of_birth": "Grasse",
+      "wikidata_current_club": "OGC Nice",
+      "wikidata_current_club_qid": "Q185163",
+      "image_filename": "Joueurs_du_Stade_Malherbe_Caen_10_août_2024_(Mandrea).jpg",
+      "photo": {
+        "filename": "Joueurs_du_Stade_Malherbe_Caen_10_août_2024_(Mandrea).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Joueurs_du_Stade_Malherbe_Caen_10_ao%C3%BBt_2024_%28Mandrea%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Joueurs_du_Stade_Malherbe_Caen_10_ao%C3%BBt_2024_%28Mandrea%29.jpg/960px-Joueurs_du_Stade_Malherbe_Caen_10_ao%C3%BBt_2024_%28Mandrea%29.jpg",
+        "width": 970,
+        "height": 1295,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Benoit-caen\" title=\"User:Benoit-caen\">Benoit-caen</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/anthony-mandrea.jpg"
+      }
+    },
+    {
+      "slug": "kilian-belazzoug",
+      "display_name": "Kilian Belazzoug",
+      "shirt_no": 16,
+      "position_code": "GK",
+      "dob": "2006-07-18",
+      "age": 19,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Rennes B",
+      "wikipedia_title": "Kilian Belazzoug",
+      "date_of_birth": "2006-07-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rennes B",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q136500038",
+      "qid": "Q136500038",
+      "name": "Kilian Belazzoug",
+      "wikipedia_url": "https://fr.wikipedia.org/wiki/Kilian_Belazzoug",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "luca-zidane",
+      "display_name": "Luca Zidane",
+      "shirt_no": 23,
+      "position_code": "GK",
+      "dob": "1998-05-13",
+      "age": 28,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Granada",
+      "wikipedia_title": "Luca Zidane",
+      "date_of_birth": "1998-05-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Granada",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19952334",
+      "qid": "Q19952334",
+      "name": "Luca Zidane",
+      "description": "Algerian footballer (born 1998)",
+      "place_of_birth_qid": "Q23482",
+      "citizenship_qids": [
+        "Q142",
+        "Q262"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3590033",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q12217",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q12236",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q10300",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q770740",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q8812",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        }
+      ],
+      "current_club_qid": "Q8812",
+      "image_filename": "Real Madrid C.F. the Winner Of The Champions League in 2018 (1) (Luca).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luca_Zidane",
+      "transfermarkt_id": "283489",
+      "fifa_player_id": "389879",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "France",
+        "Algeria"
+      ],
+      "place_of_birth": "Marseille",
+      "wikidata_current_club": "Granada CF",
+      "wikidata_current_club_qid": "Q8812",
+      "photo": {
+        "filename": "Real Madrid C.F. the Winner Of The Champions League in 2018 (1) (Luca).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Real_Madrid_C.F._the_Winner_Of_The_Champions_League_in_2018_%281%29_%28Luca%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Real_Madrid_C.F._the_Winner_Of_The_Champions_League_in_2018_%281%29_%28Luca%29.jpg",
+        "width": 88,
+        "height": 107,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Антон Зайцев",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/luca-zidane.jpg"
+      }
+    },
+    {
+      "slug": "melvin-mastil",
+      "display_name": "Melvin Mastil",
+      "shirt_no": 28,
+      "position_code": "GK",
+      "dob": "2000-02-19",
+      "age": 26,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Stade Nyonnais",
+      "wikipedia_title": "Melvin Mastil",
+      "date_of_birth": "2000-02-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Stade Nyonnais",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q105846503",
+      "qid": "Q105846503",
+      "name": "Melvin Mastil",
+      "description": "French association football player",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Melvin_Mastil",
+      "transfermarkt_id": "534398",
+      "citizenship": [
+        "France"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "aïssa-mandi",
+      "display_name": "Aïssa Mandi",
+      "shirt_no": 2,
+      "position_code": "DF",
+      "dob": "1991-10-22",
+      "age": 34,
+      "caps": 116,
+      "goals": 7,
+      "club_from_squad_table": "Lille",
+      "wikipedia_title": "Aïssa Mandi",
+      "date_of_birth": "1991-10-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lille",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q2876432",
+      "qid": "Q2876432",
+      "name": "Aïssa Mandi",
+      "description": "Algerian association football player",
+      "place_of_birth_qid": "Q47135",
+      "citizenship_qids": [
+        "Q262"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q208228",
+          "start": "2009-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q181903",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q8723",
+          "start": "2016-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q12297",
+      "image_filename": "Algérie - Arménie - 20140531 - Aissa Mandi.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/A%C3%AFssa_Mandi",
+      "transfermarkt_id": "80293",
+      "fifa_player_id": "376285",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Algeria"
+      ],
+      "place_of_birth": "Châlons-en-Champagne",
+      "wikidata_current_club": "Villarreal CF",
+      "wikidata_current_club_qid": "Q12297",
+      "photo": {
+        "filename": "Algérie - Arménie - 20140531 - Aissa Mandi.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Alg%C3%A9rie_-_Arm%C3%A9nie_-_20140531_-_Aissa_Mandi.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Alg%C3%A9rie_-_Arm%C3%A9nie_-_20140531_-_Aissa_Mandi.jpg/960px-Alg%C3%A9rie_-_Arm%C3%A9nie_-_20140531_-_Aissa_Mandi.jpg",
+        "width": 1471,
+        "height": 2222,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pleclown\" title=\"User:Pleclown\">Clément Bucco-Lechat</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/aïssa-mandi.jpg"
+      }
+    },
+    {
+      "slug": "mehdi-dorval",
+      "display_name": "Mehdi Dorval",
+      "shirt_no": 3,
+      "position_code": "DF",
+      "dob": "2001-02-09",
+      "age": 25,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Bari",
+      "wikipedia_title": "Mehdi Dorval",
+      "date_of_birth": "2001-02-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bari",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q114049411",
+      "qid": "Q114049411",
+      "name": "Mehdi Dorval",
+      "description": "French footballer (born 2001)",
+      "place_of_birth_qid": "Q90",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 176.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mehdi_Dorval",
+      "transfermarkt_id": "784575",
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Paris",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "achref-abada",
+      "display_name": "Achref Abada",
+      "shirt_no": 4,
+      "position_code": "DF",
+      "dob": "1999-06-15",
+      "age": 26,
+      "caps": 6,
+      "goals": 1,
+      "club_from_squad_table": "USM Alger",
+      "wikipedia_title": "Achref Abada",
+      "date_of_birth": "1999-06-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "USM Alger",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q136462891",
+      "qid": "Q136462891",
+      "name": "Achref Abada",
+      "description": "Algerian footballer (born 1999)",
+      "citizenship_qids": [
+        "Q262"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Achref_Abada",
+      "transfermarkt_id": "949929",
+      "citizenship": [
+        "Algeria"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "zineddine-belaïd",
+      "display_name": "Zineddine Belaïd",
+      "shirt_no": 5,
+      "position_code": "DF",
+      "dob": "1999-03-20",
+      "age": 27,
+      "caps": 9,
+      "goals": 1,
+      "club_from_squad_table": "JS Kabylie",
+      "wikipedia_title": "Zineddine Belaïd",
+      "date_of_birth": "1999-03-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "JS Kabylie",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q100273072",
+      "qid": "Q100273072",
+      "name": "Zineddine Belaïd",
+      "description": "Algerian footballer",
+      "place_of_birth_qid": "Q2225013",
+      "citizenship_qids": [
+        "Q262"
+      ],
+      "height_cm": 187.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "image_filename": "Zineddine Belaïd - 20240326 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zineddine_Bela%C3%AFd",
+      "transfermarkt_id": "625142",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Algeria"
+      ],
+      "place_of_birth": "Thénia",
+      "photo": {
+        "filename": "Zineddine Belaïd - 20240326 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Zineddine_Bela%C3%AFd_-_20240326_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Zineddine_Bela%C3%AFd_-_20240326_%28cropped%29.jpg/960px-Zineddine_Bela%C3%AFd_-_20240326_%28cropped%29.jpg",
+        "width": 2568,
+        "height": 3682,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Mohamed Assil Chaibainou",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/zineddine-belaïd.jpg"
+      }
+    },
+    {
+      "slug": "sohaib-naïr",
+      "display_name": "Sohaib Naïr",
+      "shirt_no": 13,
+      "position_code": "DF",
+      "dob": "2002-04-23",
+      "age": 24,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Guingamp",
+      "wikipedia_title": "Sohaib Naïr",
+      "date_of_birth": "2002-04-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Guingamp",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q133342235",
+      "qid": "Q133342235",
+      "name": "Sohaib Naïr",
+      "description": "footballer (born 2002)",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sohaib_Na%C3%AFr",
+      "transfermarkt_id": "966312",
+      "citizenship": [
+        "France"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "rayan-aït-nouri",
+      "display_name": "Rayan Aït-Nouri",
+      "shirt_no": 15,
+      "position_code": "DF",
+      "dob": "2001-06-06",
+      "age": 24,
+      "caps": 27,
+      "goals": 0,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "Rayan Aït-Nouri",
+      "date_of_birth": "2001-06-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q50825738",
+      "qid": "Q50825738",
+      "name": "Rayan Aït-Nouri",
+      "description": "Algerian-French footballer (born 2001)",
+      "place_of_birth_qid": "Q193370",
+      "citizenship_qids": [
+        "Q142",
+        "Q262"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19500",
+          "start": "2019-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19500",
+      "image_filename": "Rayan Aït-Nouri playing for Algeria in 2024 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rayan_A%C3%AFt-Nouri",
+      "transfermarkt_id": "578391",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "France",
+        "Algeria"
+      ],
+      "place_of_birth": "Montreuil",
+      "wikidata_current_club": "Wolverhampton Wanderers F.C.",
+      "wikidata_current_club_qid": "Q19500",
+      "photo": {
+        "filename": "Rayan Aït-Nouri playing for Algeria in 2024 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Rayan_A%C3%AFt-Nouri_playing_for_Algeria_in_2024_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Rayan_A%C3%AFt-Nouri_playing_for_Algeria_in_2024_%28cropped%29.jpg",
+        "width": 929,
+        "height": 1154,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Anneprudence\" title=\"User:Anneprudence\">Anneprudence</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/rayan-aït-nouri.jpg"
+      }
+    },
+    {
+      "slug": "ramy-bensebaini",
+      "display_name": "Ramy Bensebaini",
+      "shirt_no": 21,
+      "position_code": "DF",
+      "dob": "1995-04-16",
+      "age": 31,
+      "caps": 81,
+      "goals": 7,
+      "club_from_squad_table": "Borussia Dortmund",
+      "wikipedia_title": "Ramy Bensebaini",
+      "date_of_birth": "1995-04-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Borussia Dortmund",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17484446",
+      "qid": "Q17484446",
+      "name": "Ramy Bensebaini",
+      "description": "Algerian footballer (born 1995)",
+      "place_of_birth_qid": "Q187346",
+      "citizenship_qids": [
+        "Q262"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 85.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q428782",
+          "start": "2013-07-01",
+          "end": "2016-07-05"
+        },
+        {
+          "team_qid": "Q725018",
+          "start": "2014-07-01",
+          "end": "2015-06-30"
+        },
+        {
+          "team_qid": "Q19513",
+          "start": "2015-07-01",
+          "end": "2016-06-30"
+        },
+        {
+          "team_qid": "Q19509",
+          "start": "2016-07-05",
+          "end": "2019-08-14"
+        },
+        {
+          "team_qid": "Q101959",
+          "start": "2019-08-14",
+          "end": null
+        },
+        {
+          "team_qid": "Q624825",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q3589664",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q181903",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q101959",
+      "image_filename": "Stade rennais vs USM Alger, July 16th 2016 - 25.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ramy_Bensebaini",
+      "transfermarkt_id": "284732",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Algeria"
+      ],
+      "place_of_birth": "Constantine",
+      "wikidata_current_club": "Borussia Mönchengladbach",
+      "wikidata_current_club_qid": "Q101959",
+      "photo": {
+        "filename": "Stade rennais vs USM Alger, July 16th 2016 - 25.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Stade_rennais_vs_USM_Alger%2C_July_16th_2016_-_25.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Stade_rennais_vs_USM_Alger%2C_July_16th_2016_-_25.jpg/960px-Stade_rennais_vs_USM_Alger%2C_July_16th_2016_-_25.jpg",
+        "width": 2500,
+        "height": 3180,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Buff\" title=\"User:Buff\">S. Plaine</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ramy-bensebaini.jpg"
+      }
+    },
+    {
+      "slug": "rafik-belghali",
+      "display_name": "Rafik Belghali",
+      "shirt_no": 25,
+      "position_code": "DF",
+      "dob": "2002-06-07",
+      "age": 23,
+      "caps": 11,
+      "goals": 1,
+      "club_from_squad_table": "Hellas Verona",
+      "wikipedia_title": "Rafik Belghali",
+      "date_of_birth": "2002-06-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Hellas Verona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q106030853",
+      "qid": "Q106030853",
+      "name": "Rafik Belghali",
+      "description": "Belgian association football player",
+      "place_of_birth_qid": "Q118958",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 186.0,
+      "teams": [
+        {
+          "team_qid": "Q1668203",
+          "start": "2021-07-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1668203",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rafik_Belghali",
+      "transfermarkt_id": "864306",
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Leuven",
+      "wikidata_current_club": "Lommel SK",
+      "wikidata_current_club_qid": "Q1668203",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ramiz-zerrouki",
+      "display_name": "Ramiz Zerrouki",
+      "shirt_no": 6,
+      "position_code": "MF",
+      "dob": "1998-05-26",
+      "age": 27,
+      "caps": 51,
+      "goals": 3,
+      "club_from_squad_table": "Twente",
+      "wikipedia_title": "Ramiz Zerrouki",
+      "date_of_birth": "1998-05-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Twente",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q73149048",
+      "qid": "Q73149048",
+      "name": "Ramiz Zerrouki",
+      "description": "Algerian association football player",
+      "place_of_birth_qid": "Q727",
+      "citizenship_qids": [
+        "Q29999",
+        "Q262"
+      ],
+      "height_cm": 1.83,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Ramiz zerrouki-1672746224.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ramiz_Zerrouki",
+      "transfermarkt_id": "416660",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands",
+        "Algeria"
+      ],
+      "place_of_birth": "Amsterdam",
+      "photo": {
+        "filename": "Ramiz zerrouki-1672746224.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Ramiz_zerrouki-1672746224.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ramiz_zerrouki-1672746224.jpg/960px-Ramiz_zerrouki-1672746224.jpg",
+        "width": 1099,
+        "height": 1572,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Hans Reefman",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ramiz-zerrouki.jpg"
+      }
+    },
+    {
+      "slug": "houssem-aouar",
+      "display_name": "Houssem Aouar",
+      "shirt_no": 8,
+      "position_code": "MF",
+      "dob": "1998-06-30",
+      "age": 27,
+      "caps": 19,
+      "goals": 6,
+      "club_from_squad_table": "Al-Ittihad",
+      "wikipedia_title": "Houssem Aouar",
+      "date_of_birth": "1998-06-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Ittihad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27927442",
+      "qid": "Q27927442",
+      "name": "Houssem Aouar",
+      "description": "Algerian-French footballer (born 1998)",
+      "place_of_birth_qid": "Q456",
+      "citizenship_qids": [
+        "Q142",
+        "Q262"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2739",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2739",
+      "image_filename": "Houssem Aouar 2017.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Houssem_Aouar",
+      "transfermarkt_id": "395693",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France",
+        "Algeria"
+      ],
+      "place_of_birth": "Lyon",
+      "wikidata_current_club": "AS Roma",
+      "wikidata_current_club_qid": "Q2739",
+      "photo": {
+        "filename": "Houssem Aouar 2017.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Houssem_Aouar_2017.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Houssem_Aouar_2017.jpg/960px-Houssem_Aouar_2017.jpg",
+        "width": 3200,
+        "height": 4780,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/153890490@N04\">Laura Jonin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/houssem-aouar.jpg"
+      }
+    },
+    {
+      "slug": "farès-chaïbi",
+      "display_name": "Farès Chaïbi",
+      "shirt_no": 10,
+      "position_code": "MF",
+      "dob": "2002-11-28",
+      "age": 23,
+      "caps": 28,
+      "goals": 3,
+      "club_from_squad_table": "Eintracht Frankfurt",
+      "wikipedia_title": "Farès Chaïbi",
+      "date_of_birth": "2002-11-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Eintracht Frankfurt",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q113474248",
+      "qid": "Q113474248",
+      "name": "Farès Chaïbi",
+      "description": "Algerian and French footballer",
+      "place_of_birth_qid": "Q3348",
+      "citizenship_qids": [
+        "Q142",
+        "Q262"
+      ],
+      "height_cm": 1.83,
+      "image_filename": "World Cup Qualification Africa Guinea v Algeria 14 (Farès Chaïbi).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Far%C3%A8s_Cha%C3%AFbi",
+      "transfermarkt_id": "855015",
+      "citizenship": [
+        "France",
+        "Algeria"
+      ],
+      "place_of_birth": "3rd arrondissement of Lyon",
+      "photo": {
+        "filename": "World Cup Qualification Africa Guinea v Algeria 14 (Farès Chaïbi).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/World_Cup_Qualification_Africa_Guinea_v_Algeria_14_%28Far%C3%A8s_Cha%C3%AFbi%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/World_Cup_Qualification_Africa_Guinea_v_Algeria_14_%28Far%C3%A8s_Cha%C3%AFbi%29.jpg",
+        "width": 811,
+        "height": 1207,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "feguifoot",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/farès-chaïbi.jpg"
+      }
+    },
+    {
+      "slug": "hicham-boudaoui",
+      "display_name": "Hicham Boudaoui",
+      "shirt_no": 14,
+      "position_code": "MF",
+      "dob": "1999-09-23",
+      "age": 26,
+      "caps": 32,
+      "goals": 0,
+      "club_from_squad_table": "Nice",
+      "wikipedia_title": "Hicham Boudaoui",
+      "date_of_birth": "1999-09-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nice",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q59306433",
+      "qid": "Q59306433",
+      "name": "Hicham Boudaoui",
+      "description": "Algerian footballer",
+      "place_of_birth_qid": "Q638704",
+      "citizenship_qids": [
+        "Q262"
+      ],
+      "height_cm": 1.75,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q428782",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q428782",
+      "image_filename": "Boudaoui asse ogcn 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hicham_Boudaoui",
+      "transfermarkt_id": "560593",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Algeria"
+      ],
+      "place_of_birth": "Béchar",
+      "wikidata_current_club": "Paradou AC",
+      "wikidata_current_club_qid": "Q428782",
+      "photo": {
+        "filename": "Boudaoui asse ogcn 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Boudaoui_asse_ogcn_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Boudaoui_asse_ogcn_2425.png",
+        "width": 706,
+        "height": 920,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/hicham-boudaoui.png"
+      }
+    },
+    {
+      "slug": "adil-aouchiche",
+      "display_name": "Adil Aouchiche",
+      "shirt_no": 20,
+      "position_code": "MF",
+      "dob": "2002-07-15",
+      "age": 23,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Schalke 04",
+      "wikipedia_title": "Adil Aouchiche",
+      "date_of_birth": "2002-07-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Schalke 04",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q63636233",
+      "qid": "Q63636233",
+      "name": "Adil Aouchiche",
+      "description": "French footballer",
+      "place_of_birth_qid": "Q208313",
+      "citizenship_qids": [
+        "Q142",
+        "Q262"
+      ],
+      "height_cm": 1.81,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q483020",
+          "start": "2019-08-30",
+          "end": "2020-07-20"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q19521",
+          "start": "2020-07-20",
+          "end": "2022-09-01"
+        },
+        {
+          "team_qid": "Q48911",
+          "start": "2022-09-01",
+          "end": "2023-09-01"
+        },
+        {
+          "team_qid": "Q18739",
+          "start": "2023-09-01",
+          "end": "2025-01-31"
+        },
+        {
+          "team_qid": "Q19604",
+          "start": "2025-01-31",
+          "end": "2025-07-06"
+        },
+        {
+          "team_qid": "Q187326",
+          "start": "2025-07-06",
+          "end": "2026-02-02"
+        }
+      ],
+      "current_club_qid": "Q187326",
+      "image_filename": "2019-07-17 SG Dynamo Dresden vs. Paris Saint-Germain by Sandro Halank–157 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Adil_Aouchiche",
+      "transfermarkt_id": "569385",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France",
+        "Algeria"
+      ],
+      "place_of_birth": "Le Blanc-Mesnil",
+      "wikidata_current_club": "Aberdeen F.C.",
+      "wikidata_current_club_qid": "Q187326",
+      "photo": {
+        "filename": "2019-07-17 SG Dynamo Dresden vs. Paris Saint-Germain by Sandro Halank–157 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93157_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93157_%28cropped%29.jpg/960px-2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93157_%28cropped%29.jpg",
+        "width": 2107,
+        "height": 2888,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sandro_Halank\" title=\"User:Sandro Halank\">Sandro Halank</a>, Wikimedia Commons",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/adil-aouchiche.jpg"
+      }
+    },
+    {
+      "slug": "ibrahim-maza",
+      "display_name": "Ibrahim Maza",
+      "shirt_no": 22,
+      "position_code": "MF",
+      "dob": "2005-11-24",
+      "age": 20,
+      "caps": 15,
+      "goals": 2,
+      "club_from_squad_table": "Bayer Leverkusen",
+      "wikipedia_title": "Ibrahim Maza",
+      "date_of_birth": "2005-11-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayer Leverkusen",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q118118504",
+      "qid": "Q118118504",
+      "name": "Ibrahim Maza",
+      "description": "Algerian-German footballer",
+      "place_of_birth_qid": "Q64",
+      "citizenship_qids": [
+        "Q183",
+        "Q262"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ibrahim_Maza",
+      "transfermarkt_id": "905011",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Germany",
+        "Algeria"
+      ],
+      "place_of_birth": "Berlin",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "yacine-titraoui",
+      "display_name": "Yacine Titraoui",
+      "shirt_no": 24,
+      "position_code": "MF",
+      "dob": "2003-07-26",
+      "age": 22,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Charleroi",
+      "wikipedia_title": "Yacine Titraoui",
+      "date_of_birth": "2003-07-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Charleroi",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q109986890",
+      "qid": "Q109986890",
+      "name": "Yacine Titraoui",
+      "description": "Algerian footballer",
+      "place_of_birth_qid": "Q262",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yacine_Titraoui",
+      "transfermarkt_id": "748445",
+      "wikidata_date_of_birth": "2003-01-01",
+      "place_of_birth": "Algeria",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "riyad-mahrez",
+      "display_name": "Riyad Mahrez",
+      "shirt_no": 7,
+      "position_code": "FW",
+      "dob": "1991-02-21",
+      "age": 35,
+      "caps": 113,
+      "goals": 38,
+      "club_from_squad_table": "Al-Ahli",
+      "wikipedia_title": "Riyad Mahrez",
+      "date_of_birth": "1991-02-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Ahli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q8338725",
+      "qid": "Q8338725",
+      "name": "Riyad Mahrez",
+      "description": "Algerian-French footballer (born 1991)",
+      "place_of_birth_qid": "Q201982",
+      "citizenship_qids": [
+        "Q262",
+        "Q142"
+      ],
+      "height_cm": 181.0,
+      "weight_kg": 66.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q328658",
+          "start": "2011-00-00",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q181903",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q19481",
+          "start": "2014-01-11",
+          "end": "2018-07-10"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2018-07-10",
+          "end": "2023-07-28"
+        },
+        {
+          "team_qid": "Q1431996",
+          "start": "2009-00-00",
+          "end": "2010-00-00"
+        },
+        {
+          "team_qid": "Q44441",
+          "start": "2023-07-28",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q44441",
+      "image_filename": "Mahrez 2021.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Riyad_Mahrez",
+      "transfermarkt_id": "171424",
+      "fifa_player_id": "379942",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Algeria",
+        "France"
+      ],
+      "place_of_birth": "Clichy",
+      "wikidata_current_club": "Al Ahli FC",
+      "wikidata_current_club_qid": "Q44441",
+      "photo": {
+        "filename": "Mahrez 2021.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Mahrez_2021.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Mahrez_2021.jpg",
+        "width": 639,
+        "height": 1162,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeanpierrekepseu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeanpierrekepseu (page does not exist)\">Jeanpierrekepseu</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/riyad-mahrez.jpg"
+      }
+    },
+    {
+      "slug": "amine-gouiri",
+      "display_name": "Amine Gouiri",
+      "shirt_no": 9,
+      "position_code": "FW",
+      "dob": "2000-02-16",
+      "age": 26,
+      "caps": 21,
+      "goals": 8,
+      "club_from_squad_table": "Marseille",
+      "wikipedia_title": "Amine Gouiri",
+      "date_of_birth": "2000-02-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Marseille",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30045780",
+      "qid": "Q30045780",
+      "name": "Amine Gouiri",
+      "description": "Algerian and French footballer",
+      "place_of_birth_qid": "Q208893",
+      "citizenship_qids": [
+        "Q142",
+        "Q262"
+      ],
+      "height_cm": 1.8,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1450568",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q704",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q185163",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        }
+      ],
+      "current_club_qid": "Q185163",
+      "image_filename": "RC Lens - OGC Nice (10-04-2022) 25 Amine Gouiri.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Amine_Gouiri",
+      "transfermarkt_id": "418659",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "France",
+        "Algeria"
+      ],
+      "place_of_birth": "Bourgoin-Jallieu",
+      "wikidata_current_club": "OGC Nice",
+      "wikidata_current_club_qid": "Q185163",
+      "photo": {
+        "filename": "RC Lens - OGC Nice (10-04-2022) 25 Amine Gouiri.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/RC_Lens_-_OGC_Nice_%2810-04-2022%29_25_Amine_Gouiri.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RC_Lens_-_OGC_Nice_%2810-04-2022%29_25_Amine_Gouiri.jpg/960px-RC_Lens_-_OGC_Nice_%2810-04-2022%29_25_Amine_Gouiri.jpg",
+        "width": 2340,
+        "height": 3120,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterhéninois (page does not exist)\">Supporterhéninois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/amine-gouiri.jpg"
+      }
+    },
+    {
+      "slug": "nadhir-benbouali",
+      "display_name": "Nadhir Benbouali",
+      "shirt_no": 12,
+      "position_code": "FW",
+      "dob": "2000-04-17",
+      "age": 26,
+      "caps": 2,
+      "goals": 1,
+      "club_from_squad_table": "Győr",
+      "wikipedia_title": "Nadhir Benbouali",
+      "date_of_birth": "2000-04-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Győr",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q112654639",
+      "qid": "Q112654639",
+      "name": "Ahmed Nadhir Benbouali",
+      "description": "Algerian footballer (born 2000)",
+      "place_of_birth_qid": "Q849561",
+      "citizenship_qids": [
+        "Q262"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "image_filename": "Ahmed Nadhir Benbouali 2025.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nadhir_Benbouali",
+      "transfermarkt_id": "840254",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Algeria"
+      ],
+      "place_of_birth": "Chlef",
+      "photo": {
+        "filename": "Ahmed Nadhir Benbouali 2025.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ahmed_Nadhir_Benbouali_2025.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ahmed_Nadhir_Benbouali_2025.jpg",
+        "width": 388,
+        "height": 618,
+        "license": "Attribution",
+        "license_url": null,
+        "attribution": "mlsz.hu – the official website of the Hungarian Football Federation",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nadhir-benbouali.jpg"
+      }
+    },
+    {
+      "slug": "farès-ghedjemis",
+      "display_name": "Farès Ghedjemis",
+      "shirt_no": 17,
+      "position_code": "FW",
+      "dob": "2002-09-06",
+      "age": 23,
+      "caps": 1,
+      "goals": 1,
+      "club_from_squad_table": "Frosinone",
+      "wikipedia_title": "Farès Ghedjemis",
+      "date_of_birth": "2002-09-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Frosinone",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q124151324",
+      "qid": "Q124151324",
+      "name": "Farès Ghedjemis",
+      "description": "French professional footballer",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 180.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Far%C3%A8s_Ghedjemis",
+      "transfermarkt_id": "888738",
+      "wikidata_date_of_birth": "2002-01-01",
+      "citizenship": [
+        "France"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "mohamed-amoura",
+      "display_name": "Mohamed Amoura",
+      "shirt_no": 18,
+      "position_code": "FW",
+      "dob": "2000-05-09",
+      "age": 26,
+      "caps": 44,
+      "goals": 19,
+      "club_from_squad_table": "VfL Wolfsburg",
+      "wikipedia_title": "Mohamed Amoura",
+      "date_of_birth": "2000-05-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "VfL Wolfsburg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107285723",
+      "qid": "Q107285723",
+      "name": "Mohamed Amoura",
+      "description": "Algerian footballer",
+      "place_of_birth_qid": "Q312095",
+      "citizenship_qids": [
+        "Q39",
+        "Q31",
+        "Q262"
+      ],
+      "height_cm": 1.68,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q633521",
+          "start": "2021-08-29",
+          "end": "2023-08-17"
+        },
+        {
+          "team_qid": "Q196160",
+          "start": "2023-08-18",
+          "end": null
+        },
+        {
+          "team_qid": "Q101859",
+          "start": "2024-07-08",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q101859",
+      "image_filename": "Mohammed Amoura training against Mozambique.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Amoura",
+      "transfermarkt_id": "746910",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Switzerland",
+        "Belgium",
+        "Algeria"
+      ],
+      "place_of_birth": "Taher",
+      "photo": {
+        "filename": "Mohammed Amoura training against Mozambique.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mohammed_Amoura_training_against_Mozambique.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mohammed_Amoura_training_against_Mozambique.png",
+        "width": 294,
+        "height": 289,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "SAMFOOTX",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mohamed-amoura.png"
+      }
+    },
+    {
+      "slug": "amin-chiakha",
+      "display_name": "Amin Chiakha",
+      "shirt_no": 19,
+      "position_code": "FW",
+      "dob": "2006-03-12",
+      "age": 20,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Rosenborg",
+      "wikipedia_title": "Amin Chiakha",
+      "date_of_birth": "2006-03-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rosenborg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q126082751",
+      "qid": "Q126082751",
+      "name": "Amin Chiakha",
+      "description": "Danish footballer (born 2006)",
+      "place_of_birth_qid": "Q1748",
+      "citizenship_qids": [
+        "Q756617",
+        "Q262"
+      ],
+      "height_cm": 191.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Amin_Chiakha",
+      "transfermarkt_id": "1017261",
+      "citizenship": [
+        "Kingdom of Denmark",
+        "Algeria"
+      ],
+      "place_of_birth": "Copenhagen",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "adil-boulbina",
+      "display_name": "Adil Boulbina",
+      "shirt_no": 27,
+      "position_code": "FW",
+      "dob": "2003-05-02",
+      "age": 23,
+      "caps": 10,
+      "goals": 6,
+      "club_from_squad_table": "Al-Duhail",
+      "wikipedia_title": "Adil Boulbina",
+      "date_of_birth": "2003-05-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Duhail",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q112654481",
+      "qid": "Q112654481",
+      "name": "Adel Boulbina",
+      "description": "Algerian footballer",
+      "place_of_birth_qid": "Q2215434",
+      "citizenship_qids": [
+        "Q262"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Adil_Boulbina",
+      "transfermarkt_id": "748443",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Algeria"
+      ],
+      "place_of_birth": "El Milia",
+      "image_filename": "Adel_Boulbina.jpg",
+      "photo": {
+        "filename": "Adel_Boulbina.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Adel_Boulbina.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Adel_Boulbina.jpg/960px-Adel_Boulbina.jpg",
+        "width": 2048,
+        "height": 2048,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Nadjib_Berbouchi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Nadjib Berbouchi (page does not exist)\">Nadjib Berbouchi</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/adil-boulbina.jpg"
+      }
+    },
+    {
+      "slug": "anis-hadj-moussa",
+      "display_name": "Anis Hadj Moussa",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2002-02-11",
+      "age": 24,
+      "caps": 13,
+      "goals": 0,
+      "club_from_squad_table": "Feyenoord",
+      "wikipedia_title": "Anis Hadj Moussa",
+      "date_of_birth": "2002-02-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Feyenoord",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q121946144",
+      "qid": "Q121946144",
+      "name": "Anis Hadj Moussa",
+      "description": "Algerian footballer (born 2002)",
+      "place_of_birth_qid": "Q90",
+      "citizenship_qids": [
+        "Q262"
+      ],
+      "height_cm": 1.76,
+      "image_filename": "MCI VS FER 2024 (Anis Hadj Moussa).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anis_Hadj_Moussa",
+      "transfermarkt_id": "917911",
+      "citizenship": [
+        "Algeria"
+      ],
+      "place_of_birth": "Paris",
+      "photo": {
+        "filename": "MCI VS FER 2024 (Anis Hadj Moussa).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/MCI_VS_FER_2024_%28Anis_Hadj_Moussa%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/MCI_VS_FER_2024_%28Anis_Hadj_Moussa%29.jpg",
+        "width": 241,
+        "height": 355,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Hainotdeptrai&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Hainotdeptrai (page does not exist)\">Hainotdeptrai</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/anis-hadj-moussa.jpg"
+      }
+    }
+  ],
+  "notes": [
+    "Algeria row/QID/photo audit 2026-05-24: no public Algeria World Cup final/provisional squad table was found, so this file uses the national-team current squad table for March 2026 friendlies. Verifier confirmed all 27 local rows under that fallback caveat. Added confirmed QID Q136500038 for Kilian Belazzoug. Yacine Titraoui and Farès Ghedjemis DOB conflicts were inspected and local table/infobox dates are retained. No clean Wikimedia portrait/P18/pageimage was found for the 10 no-photo rows, which are marked reviewed-none."
+  ]
+}

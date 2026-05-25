@@ -1,0 +1,105 @@
+{
+  "slug": "marcus-thuram",
+  "display_name": "Marcus Thuram",
+  "shirt_no": 9,
+  "position_code": "FW",
+  "dob": "1997-08-06",
+  "age": 28,
+  "caps": 33,
+  "goals": 3,
+  "club_from_squad_table": "Inter Milan",
+  "wikipedia_title": "Marcus Thuram",
+  "date_of_birth": "1997-08-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Inter Milan",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19903718",
+  "qid": "Q19903718",
+  "name": "Marcus Thuram",
+  "description": "French footballer (born 1997)",
+  "place_of_birth_qid": "Q2683",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 192.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19512",
+      "start": "2015-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1450557",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q2701714",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q459148",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q101959",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q631",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1344163",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q47774",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q631",
+  "image_filename": "MARCUS THURAM - INTER MILAN vs SALZBURG.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Thuram",
+  "transfermarkt_id": "318528",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "Parma",
+  "photo": {
+    "filename": "MARCUS THURAM - INTER MILAN vs SALZBURG.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/MARCUS_THURAM_-_INTER_MILAN_vs_SALZBURG.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/MARCUS_THURAM_-_INTER_MILAN_vs_SALZBURG.jpg",
+    "width": 567,
+    "height": 814,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/marcus-thuram.jpg"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

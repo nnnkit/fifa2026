@@ -1,0 +1,72 @@
+{
+  "slug": "brenden-aaronson",
+  "display_name": "Brenden Aaronson",
+  "shirt_no": 11,
+  "position_code": "FW",
+  "dob": "2000-10-22",
+  "age": 25,
+  "caps": 57,
+  "goals": 9,
+  "club_from_squad_table": "Leeds United",
+  "wikipedia_title": "Brenden Aaronson",
+  "date_of_birth": "2000-10-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Leeds United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q33129609",
+  "qid": "Q33129609",
+  "name": "Brenden Aaronson",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q3015360",
+  "citizenship_qids": [
+    "Q30"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q21070839",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q689874",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q164134",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q689874",
+  "image_filename": "FC RB Salzburg gegen WSG Tirol ( mit Meisterteller\u00fcbergabe 22. Mai 2021) 15.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brenden_Aaronson",
+  "transfermarkt_id": "393323",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United States"
+  ],
+  "place_of_birth": "Medford",
+  "wikidata_current_club": "Philadelphia Union",
+  "wikidata_current_club_qid": "Q689874",
+  "photo": {
+    "filename": "FC RB Salzburg gegen WSG Tirol ( mit Meisterteller\u00fcbergabe 22. Mai 2021) 15.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/FC_RB_Salzburg_gegen_WSG_Tirol_%28_mit_Meisterteller%C3%BCbergabe_22._Mai_2021%29_15.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/FC_RB_Salzburg_gegen_WSG_Tirol_%28_mit_Meisterteller%C3%BCbergabe_22._Mai_2021%29_15.jpg/960px-FC_RB_Salzburg_gegen_WSG_Tirol_%28_mit_Meisterteller%C3%BCbergabe_22._Mai_2021%29_15.jpg",
+    "width": 2096,
+    "height": 3175,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/brenden-aaronson.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

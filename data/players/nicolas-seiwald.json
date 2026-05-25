@@ -1,0 +1,80 @@
+{
+  "slug": "nicolas-seiwald",
+  "display_name": "Nicolas Seiwald",
+  "shirt_no": 6,
+  "position_code": "MF",
+  "dob": "2001-05-04",
+  "age": 25,
+  "caps": 46,
+  "goals": 1,
+  "club_from_squad_table": "RB Leipzig",
+  "wikipedia_title": "Nicolas Seiwald",
+  "date_of_birth": "2001-05-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "RB Leipzig",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64010197",
+  "qid": "Q64010197",
+  "name": "Nicolas Seiwald",
+  "description": "Austrian association football player",
+  "place_of_birth_qid": "Q40",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 179.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1387293",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q994811",
+      "start": "2020-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q702455",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q303033",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q163534",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q702455",
+  "image_filename": "FC Liefering versus WSG Wattens (24. Mai 2019) 04.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas_Seiwald",
+  "transfermarkt_id": "404950",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Austria",
+  "photo": {
+    "filename": "FC Liefering versus WSG Wattens (24. Mai 2019) 04.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/FC_Liefering_versus_WSG_Wattens_%2824._Mai_2019%29_04.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/FC_Liefering_versus_WSG_Wattens_%2824._Mai_2019%29_04.jpg/960px-FC_Liefering_versus_WSG_Wattens_%2824._Mai_2019%29_04.jpg",
+    "width": 2094,
+    "height": 2656,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nicolas-seiwald.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

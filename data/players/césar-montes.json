@@ -1,0 +1,67 @@
+{
+  "slug": "césar-montes",
+  "display_name": "César Montes",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-02-24",
+  "age": 29,
+  "caps": 65,
+  "goals": 4,
+  "club_from_squad_table": "Lokomotiv Moscow",
+  "wikipedia_title": "César Montes",
+  "wikidata_qid": "Q20816441",
+  "qid": "Q20816441",
+  "name": "César Montes",
+  "description": "Mexican association football player",
+  "date_of_birth": "1997-02-24",
+  "place_of_birth_qid": "Q189138",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 191.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q768253",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q164089",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q768253",
+  "image_filename": "Coréia do Sul x México - Futebol masculino - Olimpíada Rio 2016 (28866553346) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Montes",
+  "transfermarkt_id": "387687",
+  "current_club": "Lokomotiv Moscow",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Hermosillo",
+  "wikidata_current_club": "Club de Fútbol Monterrey",
+  "wikidata_current_club_qid": "Q768253",
+  "photo": {
+    "filename": "Coréia do Sul x México - Futebol masculino - Olimpíada Rio 2016 (28866553346) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Cor%C3%A9ia_do_Sul_x_M%C3%A9xico_-_Futebol_masculino_-_Olimp%C3%ADada_Rio_2016_%2828866553346%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cor%C3%A9ia_do_Sul_x_M%C3%A9xico_-_Futebol_masculino_-_Olimp%C3%ADada_Rio_2016_%2828866553346%29_%28cropped%29.jpg/960px-Cor%C3%A9ia_do_Sul_x_M%C3%A9xico_-_Futebol_masculino_-_Olimp%C3%ADada_Rio_2016_%2828866553346%29_%28cropped%29.jpg",
+    "width": 1060,
+    "height": 1218,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/64586261@N02\">Agência Brasília</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/césar-montes.jpg"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

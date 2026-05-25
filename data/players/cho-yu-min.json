@@ -1,0 +1,84 @@
+{
+  "slug": "cho-yu-min",
+  "display_name": "Cho Yu-min",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-11-17",
+  "age": 29,
+  "caps": 18,
+  "goals": 0,
+  "club_from_squad_table": "Sharjah",
+  "wikipedia_title": "Cho Yu-min",
+  "wikidata_qid": "Q50420882",
+  "qid": "Q50420882",
+  "name": "Cho Yu-min",
+  "description": "South Korean association football player",
+  "date_of_birth": "1996-11-17",
+  "place_of_birth_qid": "Q884",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q336286",
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3455793",
+      "start": "2018-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q484584",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q488454",
+      "start": "2018-01-00",
+      "end": "2018-08-00"
+    },
+    {
+      "team_qid": "Q543842",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q286801",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q484584",
+  "image_filename": "190505 수원FC VS 서울이랜드, 조유민 5.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cho_Yu-min",
+  "transfermarkt_id": "561212",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sharjah",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender",
+    "midfielder"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "South Korea",
+  "wikidata_current_club": "Daejeon Hana Citizen FC",
+  "wikidata_current_club_qid": "Q484584",
+  "photo": {
+    "filename": "190505 수원FC VS 서울이랜드, 조유민 5.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/190505_%EC%88%98%EC%9B%90FC_VS_%EC%84%9C%EC%9A%B8%EC%9D%B4%EB%9E%9C%EB%93%9C%2C_%EC%A1%B0%EC%9C%A0%EB%AF%BC_5.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/190505_%EC%88%98%EC%9B%90FC_VS_%EC%84%9C%EC%9A%B8%EC%9D%B4%EB%9E%9C%EB%93%9C%2C_%EC%A1%B0%EC%9C%A0%EB%AF%BC_5.jpg/960px-190505_%EC%88%98%EC%9B%90FC_VS_%EC%84%9C%EC%9A%B8%EC%9D%B4%EB%9E%9C%EB%93%9C%2C_%EC%A1%B0%EC%9C%A0%EB%AF%BC_5.jpg",
+    "width": 1000,
+    "height": 1400,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Nori Picture",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/cho-yu-min.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

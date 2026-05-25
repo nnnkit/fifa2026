@@ -1,0 +1,62 @@
+{
+  "slug": "hamdy-fathy",
+  "display_name": "Hamdy Fathy",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1994-09-29",
+  "age": 31,
+  "caps": 62,
+  "goals": 3,
+  "club_from_squad_table": "Al-Wakrah",
+  "wikipedia_title": "Hamdy Fathy",
+  "date_of_birth": "1994-09-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Wakrah",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q35841433",
+  "qid": "Q35841433",
+  "name": "Hamdi Fathi",
+  "description": "Egyptian association football player",
+  "place_of_birth_qid": "Q30630",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1877396",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1877396",
+  "image_filename": "Hamdy Fathy.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hamdy_Fathy",
+  "transfermarkt_id": "340303",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "place_of_birth": "Beheira Governorate",
+  "wikidata_current_club": "ENPPI SC",
+  "wikidata_current_club_qid": "Q1877396",
+  "photo": {
+    "filename": "Hamdy Fathy.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Hamdy_Fathy.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Hamdy_Fathy.png",
+    "width": 352,
+    "height": 391,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Al AHLY TV",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/hamdy-fathy.png"
+  },
+  "team_slug": "egypt",
+  "team_country": "Egypt"
+}

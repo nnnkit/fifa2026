@@ -1,0 +1,90 @@
+{
+  "slug": "gon\u00e7alo-in\u00e1cio",
+  "display_name": "Gon\u00e7alo In\u00e1cio",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-08-25",
+  "age": 24,
+  "caps": 20,
+  "goals": 2,
+  "club_from_squad_table": "Sporting CP",
+  "wikipedia_title": "Gon\u00e7alo In\u00e1cio",
+  "date_of_birth": "2001-08-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sporting CP",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q99955331",
+  "qid": "Q99955331",
+  "name": "Gon\u00e7alo In\u00e1cio",
+  "description": "Portuguese footballer",
+  "place_of_birth_qid": "Q328015",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q75729",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590754",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q3873511",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q3873524",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1772776",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1630430",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q267245",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q75729",
+  "image_filename": "Gon\u00e7alo In\u00e1cio 2021.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gon%C3%A7alo_In%C3%A1cio",
+  "transfermarkt_id": "549006",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Almada",
+  "photo": {
+    "filename": "Gon\u00e7alo In\u00e1cio 2021.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gon%C3%A7alo_In%C3%A1cio_2021.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gon%C3%A7alo_In%C3%A1cio_2021.png",
+    "width": 634,
+    "height": 768,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCnJj6L93JX3Jrhzv81ayywA\">Sporting Clube de Portugal</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/gon\u00e7alo-in\u00e1cio.png"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

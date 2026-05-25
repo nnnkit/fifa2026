@@ -1,0 +1,124 @@
+{
+  "slug": "mathew-ryan",
+  "display_name": "Mathew Ryan",
+  "shirt_no": 1,
+  "position_code": "GK",
+  "dob": "1992-04-08",
+  "age": 34,
+  "caps": 103,
+  "goals": 0,
+  "club_from_squad_table": "Levante",
+  "wikipedia_title": "Mathew Ryan",
+  "date_of_birth": "1992-04-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Levante",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q1587689",
+  "qid": "Q1587689",
+  "name": "Mathew Ryan",
+  "description": "Australian association football player",
+  "place_of_birth_qid": "Q7205460",
+  "citizenship_qids": [
+    "Q408"
+  ],
+  "height_cm": 184.0,
+  "weight_kg": 73.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q762294",
+      "start": "2010-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q190916",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q10333",
+      "start": "2015-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q268208",
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q216032",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q19453",
+      "start": "2017-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q10315",
+      "start": "2021-00-00",
+      "end": "2022-08-00"
+    },
+    {
+      "team_qid": "Q188430",
+      "start": "2022-08-00",
+      "end": "2023-01-00"
+    },
+    {
+      "team_qid": "Q191264",
+      "start": "2023-01-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q2739",
+      "start": "2024-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q191843",
+      "start": "2025-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q8823",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8823",
+  "image_filename": "20180601 FIFA Friendly Match Czech Republic vs. Australia Matthew Ryan 850 0230.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mathew_Ryan",
+  "transfermarkt_id": "128969",
+  "fifa_player_id": "339117",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Australia"
+  ],
+  "place_of_birth": "Plumpton",
+  "wikidata_current_club": "Levante UD",
+  "wikidata_current_club_qid": "Q8823",
+  "photo": {
+    "filename": "20180601 FIFA Friendly Match Czech Republic vs. Australia Matthew Ryan 850 0230.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/20180601_FIFA_Friendly_Match_Czech_Republic_vs._Australia_Matthew_Ryan_850_0230.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20180601_FIFA_Friendly_Match_Czech_Republic_vs._Australia_Matthew_Ryan_850_0230.jpg/960px-20180601_FIFA_Friendly_Match_Czech_Republic_vs._Australia_Matthew_Ryan_850_0230.jpg",
+    "width": 1967,
+    "height": 2950,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mathew-ryan.jpg"
+  },
+  "team_slug": "australia",
+  "team_country": "Australia"
+}

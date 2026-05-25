@@ -1,0 +1,99 @@
+{
+  "slug": "marcus-rashford",
+  "display_name": "Marcus Rashford",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1997-10-31",
+  "age": 28,
+  "caps": 70,
+  "goals": 18,
+  "club_from_squad_table": "Barcelona",
+  "wikipedia_title": "Marcus Rashford",
+  "date_of_birth": "1997-10-31",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Barcelona",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q22951255",
+  "qid": "Q22951255",
+  "name": "Marcus Rashford",
+  "description": "English association football player (born 1997)",
+  "place_of_birth_qid": "Q18125",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18711",
+      "start": "2025-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q4201740",
+      "start": "2012-01-01",
+      "end": "2012-00-00"
+    },
+    {
+      "team_qid": "Q1049171",
+      "start": "2014-01-01",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q1049176",
+      "start": "2016-03-27",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2016-09-06",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q47762",
+      "start": "2016-05-27",
+      "end": null
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2015-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2025-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q7156",
+  "image_filename": "Marcus Rashford, FWC 2018 - Round of 16 - COL v ENG - Photo 106 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Rashford",
+  "transfermarkt_id": "258923",
+  "fifa_player_id": "401470",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Manchester",
+  "wikidata_current_club": "Futbol Club Barcelona",
+  "wikidata_current_club_qid": "Q7156",
+  "photo": {
+    "filename": "Marcus Rashford, FWC 2018 - Round of 16 - COL v ENG - Photo 106 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Marcus_Rashford%2C_FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_106_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Marcus_Rashford%2C_FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_106_%28cropped%29.jpg/960px-Marcus_Rashford%2C_FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_106_%28cropped%29.jpg",
+    "width": 1042,
+    "height": 1316,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Voltmetro\" title=\"User:Voltmetro\">Oleg Bkhambri (Voltmetro)</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/marcus-rashford.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "omar-rekik",
+  "display_name": "Omar Rekik",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-12-20",
+  "age": 24,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Maribor",
+  "wikipedia_title": "Omar Rekik",
+  "date_of_birth": "2001-12-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Maribor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q96678415",
+  "qid": "Q96678415",
+  "name": "Omar Rekik",
+  "description": "Dutch-Tunisian association football player",
+  "place_of_birth_qid": "Q9844",
+  "citizenship_qids": [
+    "Q29999",
+    "Q948"
+  ],
+  "height_cm": 186.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q920263",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2021-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q209895",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q27971",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q18750",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q219235",
+      "start": "2024-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q210530",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q210530",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Omar_Rekik",
+  "transfermarkt_id": "578292",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands",
+    "Tunisia"
+  ],
+  "place_of_birth": "Helmond",
+  "wikidata_current_club": "NK Maribor",
+  "wikidata_current_club_qid": "Q210530",
+  "team_slug": "tunisia",
+  "team_country": "Tunisia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

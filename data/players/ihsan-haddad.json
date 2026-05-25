@@ -1,0 +1,127 @@
+{
+  "slug": "ihsan-haddad",
+  "display_name": "Ihsan Haddad",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1994-02-05",
+  "age": 32,
+  "caps": 90,
+  "goals": 2,
+  "club_from_squad_table": "Al-Hussein",
+  "wikipedia_title": "Ihsan Haddad",
+  "date_of_birth": "1994-02-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Hussein",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16236181",
+  "qid": "Q16236181",
+  "name": "Ihsan Haddad",
+  "description": "footballer",
+  "place_of_birth_qid": "Q194165",
+  "citizenship_qids": [
+    "Q810"
+  ],
+  "height_cm": 181.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q4702214",
+      "start": "2011-01-01",
+      "end": "2014-06-00"
+    },
+    {
+      "team_qid": "Q3590251",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q6277196",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q11144859",
+      "start": "2013-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q2829403",
+      "start": "2014-06-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q2829355",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q2829403",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q285649",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q285702",
+      "start": "2018-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q285510",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q285702",
+      "start": "2022-00-00",
+      "end": "2023-01-00"
+    },
+    {
+      "team_qid": "Q117996",
+      "start": "2023-01-00",
+      "end": "2023-06-00"
+    },
+    {
+      "team_qid": "Q285702",
+      "start": "2023-06-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q275940",
+      "start": "2013-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q285702",
+  "image_filename": "Ihsan Haddad.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ihsan_Haddad",
+  "transfermarkt_id": "310943",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Jordan"
+  ],
+  "place_of_birth": "Irbid",
+  "wikidata_current_club": "Al-Faisaly SC",
+  "wikidata_current_club_qid": "Q285702",
+  "photo": {
+    "filename": "Ihsan Haddad.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Ihsan_Haddad.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Ihsan_Haddad.jpg",
+    "width": 553,
+    "height": 891,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "M.Sadegh Nikgostar",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ihsan-haddad.jpg"
+  },
+  "team_slug": "jordan",
+  "team_country": "Jordan"
+}

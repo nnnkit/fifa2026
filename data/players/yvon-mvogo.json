@@ -1,0 +1,96 @@
+{
+  "slug": "yvon-mvogo",
+  "display_name": "Yvon Mvogo",
+  "shirt_no": 12,
+  "position_code": "GK",
+  "dob": "1994-06-06",
+  "age": 32,
+  "caps": 12,
+  "goals": 0,
+  "club_from_squad_table": "Lorient",
+  "wikipedia_title": "Yvon Mvogo",
+  "date_of_birth": "1994-06-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lorient",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16236380",
+  "qid": "Q16236380",
+  "name": "Yvon Mvogo",
+  "description": "Swiss association football player",
+  "place_of_birth_qid": "Q3808",
+  "citizenship_qids": [
+    "Q39",
+    "Q1009"
+  ],
+  "height_cm": 186.0,
+  "weight_kg": 84.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q190526",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q650273",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q4140019",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q678582",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q190526",
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q702455",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q11938",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q190526",
+  "image_filename": "YB vs. FCL - Mvogo 2b.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yvon_Mvogo",
+  "transfermarkt_id": "147051",
+  "fifa_player_id": "402022",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Switzerland",
+    "Cameroon"
+  ],
+  "place_of_birth": "Yaoundé",
+  "wikidata_current_club": "BSC Young Boys",
+  "wikidata_current_club_qid": "Q190526",
+  "photo": {
+    "filename": "YB vs. FCL - Mvogo 2b.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/YB_vs._FCL_-_Mvogo_2b.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/YB_vs._FCL_-_Mvogo_2b.jpg/960px-YB_vs._FCL_-_Mvogo_2b.jpg",
+    "width": 3840,
+    "height": 5120,
+    "license": "CC BY-SA 3.0 ch",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/ch/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:AmBu\" title=\"User:AmBu\">A. Buser</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/yvon-mvogo.jpg"
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

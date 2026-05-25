@@ -1,0 +1,92 @@
+{
+  "slug": "alban-lafont",
+  "display_name": "Alban Lafont",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1999-01-23",
+  "age": 27,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Panathinaikos",
+  "wikipedia_title": "Alban Lafont",
+  "date_of_birth": "1999-01-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Panathinaikos",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21590318",
+  "qid": "Q21590318",
+  "name": "Alban Lafont",
+  "description": "French association football player (born 1999)",
+  "place_of_birth_qid": "Q3777",
+  "citizenship_qids": [
+    "Q965",
+    "Q142",
+    "Q1008"
+  ],
+  "height_cm": 193.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19518",
+      "start": "2015-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q3590033",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": "2015-01-01",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q2052",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1344163",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q192071",
+      "start": "2019-07-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q192071",
+  "image_filename": "Alban Lafont - entrainement - 9 mai 2018 1.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alban_Lafont",
+  "transfermarkt_id": "357117",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Burkina Faso",
+    "France",
+    "Ivory Coast"
+  ],
+  "place_of_birth": "Ouagadougou",
+  "wikidata_current_club": "FC Nantes",
+  "wikidata_current_club_qid": "Q192071",
+  "photo": {
+    "filename": "Alban Lafont - entrainement - 9 mai 2018 1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Alban_Lafont_-_entrainement_-_9_mai_2018_1.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Alban_Lafont_-_entrainement_-_9_mai_2018_1.jpg/960px-Alban_Lafont_-_entrainement_-_9_mai_2018_1.jpg",
+    "width": 2074,
+    "height": 2703,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gaillac&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gaillac (page does not exist)\">Gaillac</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/alban-lafont.jpg"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

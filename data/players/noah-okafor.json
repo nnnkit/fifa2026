@@ -1,0 +1,62 @@
+{
+  "slug": "noah-okafor",
+  "display_name": "Noah Okafor",
+  "shirt_no": 19,
+  "position_code": "FW",
+  "dob": "2000-05-24",
+  "age": 26,
+  "caps": 24,
+  "goals": 2,
+  "club_from_squad_table": "Leeds United",
+  "wikipedia_title": "Noah Okafor",
+  "date_of_birth": "2000-05-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Leeds United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q55286732",
+  "qid": "Q55286732",
+  "name": "Noah Okafor",
+  "description": "Swiss association football player",
+  "place_of_birth_qid": "Q39",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q189671",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q189671",
+  "image_filename": "FC RB Salzburg gegen FK Austria Wien (2022-04-24) 68.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Noah_Okafor",
+  "transfermarkt_id": "346890",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Switzerland",
+  "wikidata_current_club": "FC Basel",
+  "wikidata_current_club_qid": "Q189671",
+  "photo": {
+    "filename": "FC RB Salzburg gegen FK Austria Wien (2022-04-24) 68.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/FC_RB_Salzburg_gegen_FK_Austria_Wien_%282022-04-24%29_68.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/FC_RB_Salzburg_gegen_FK_Austria_Wien_%282022-04-24%29_68.jpg/960px-FC_RB_Salzburg_gegen_FK_Austria_Wien_%282022-04-24%29_68.jpg",
+    "width": 2110,
+    "height": 2418,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/noah-okafor.jpg"
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

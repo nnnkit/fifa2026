@@ -1,0 +1,48 @@
+{
+  "slug": "kento-shiogai",
+  "display_name": "Kento Shiogai",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2005-03-26",
+  "age": 21,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "VfL Wolfsburg",
+  "wikipedia_title": "Kento Shiogai",
+  "date_of_birth": "2005-03-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "VfL Wolfsburg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q127388493",
+  "qid": "Q127388493",
+  "name": "Kento Shiogai",
+  "description": "Japanese footballer (born 2005)",
+  "place_of_birth_qid": "Q1490",
+  "citizenship_qids": [
+    "Q17"
+  ],
+  "height_cm": 180.0,
+  "teams": [
+    {
+      "team_qid": "Q318348",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q318348",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kento_Shiogai",
+  "transfermarkt_id": "1144627",
+  "uefa_player_id": "54840",
+  "citizenship": [
+    "Japan"
+  ],
+  "place_of_birth": "Tokyo",
+  "wikidata_current_club": "N.E.C.",
+  "wikidata_current_club_qid": "Q318348",
+  "team_slug": "japan",
+  "team_country": "Japan",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

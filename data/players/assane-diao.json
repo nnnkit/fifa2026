@@ -1,0 +1,86 @@
+{
+  "slug": "assane-diao",
+  "display_name": "Assane Diao",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2005-09-07",
+  "age": 20,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Como",
+  "wikipedia_title": "Assane Diao",
+  "date_of_birth": "2005-09-07",
+  "date_of_birth_source": "enwiki+caf+wikidata-verified",
+  "current_club": "Como",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q120509822",
+  "qid": "Q120509822",
+  "name": "Assane Diao",
+  "description": "Senegalese association football player (born 2005)",
+  "place_of_birth_qid": "Q3337446",
+  "citizenship_qids": [
+    "Q1041",
+    "Q29"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2698432",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q8723",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1120838",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q3589784",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q2713491",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1129595",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q207441",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2698432",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Assane_Diao",
+  "transfermarkt_id": "1061282",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Senegal",
+    "Spain"
+  ],
+  "place_of_birth": "Ndangane",
+  "wikidata_current_club": "Real Betis B",
+  "wikidata_current_club_qid": "Q2698432",
+  "team_slug": "senegal",
+  "team_country": "Senegal",
+  "squad_table_date_of_birth": "2005-12-07",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

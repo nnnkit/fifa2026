@@ -1,0 +1,51 @@
+{
+  "slug": "fahad-younis",
+  "display_name": "Fahad Younis",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1994-07-30",
+  "age": 31,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Al-Sailiya",
+  "wikipedia_title": null,
+  "date_of_birth": "1994-07-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Sailiya",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q24007738",
+  "qid": "Q24007738",
+  "name": "Fahad Younes",
+  "description": "Qatari association football player",
+  "place_of_birth_qid": "Q846",
+  "citizenship_qids": [
+    "Q846"
+  ],
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q4702847",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q4702847",
+  "transfermarkt_id": "311726",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Qatar"
+  ],
+  "place_of_birth": "Qatar",
+  "wikidata_current_club": "Al-Markhiya Sports Club",
+  "wikidata_current_club_qid": "Q4702847",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

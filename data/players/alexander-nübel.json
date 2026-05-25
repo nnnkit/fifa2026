@@ -1,0 +1,83 @@
+{
+  "slug": "alexander-nübel",
+  "display_name": "Alexander Nübel",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1996-09-30",
+  "age": 29,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "VfB Stuttgart",
+  "wikipedia_title": "Alexander Nübel",
+  "date_of_birth": "1996-09-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "VfB Stuttgart",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20435178",
+  "qid": "Q20435178",
+  "name": "Alexander Nübel",
+  "description": "German association football player",
+  "place_of_birth_qid": "Q2971",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 193.0,
+  "weight_kg": 85.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q160532",
+      "start": "2014-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q32494",
+      "start": "2015-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3736767",
+      "start": "2015-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q314851",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q180305",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q32494",
+  "image_filename": "Alexander nuebel.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_N%C3%BCbel",
+  "transfermarkt_id": "195778",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Paderborn",
+  "wikidata_current_club": "Schalke 04",
+  "wikidata_current_club_qid": "Q32494",
+  "photo": {
+    "filename": "Alexander nuebel.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Alexander_nuebel.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Alexander_nuebel.jpg",
+    "width": 641,
+    "height": 800,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">Jeollo von VfB-exklusiv.de</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/alexander-nübel.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

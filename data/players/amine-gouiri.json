@@ -1,0 +1,100 @@
+{
+  "slug": "amine-gouiri",
+  "display_name": "Amine Gouiri",
+  "shirt_no": 9,
+  "position_code": "FW",
+  "dob": "2000-02-16",
+  "age": 26,
+  "caps": 21,
+  "goals": 8,
+  "club_from_squad_table": "Marseille",
+  "wikipedia_title": "Amine Gouiri",
+  "date_of_birth": "2000-02-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Marseille",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q30045780",
+  "qid": "Q30045780",
+  "name": "Amine Gouiri",
+  "description": "Algerian and French footballer",
+  "place_of_birth_qid": "Q208893",
+  "citizenship_qids": [
+    "Q142",
+    "Q262"
+  ],
+  "height_cm": 1.8,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1450568",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q3590033",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q704",
+      "start": "2017-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q1344163",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q185163",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1450557",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q2701714",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1344163",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    }
+  ],
+  "current_club_qid": "Q185163",
+  "image_filename": "RC Lens - OGC Nice (10-04-2022) 25 Amine Gouiri.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amine_Gouiri",
+  "transfermarkt_id": "418659",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "France",
+    "Algeria"
+  ],
+  "place_of_birth": "Bourgoin-Jallieu",
+  "wikidata_current_club": "OGC Nice",
+  "wikidata_current_club_qid": "Q185163",
+  "photo": {
+    "filename": "RC Lens - OGC Nice (10-04-2022) 25 Amine Gouiri.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/RC_Lens_-_OGC_Nice_%2810-04-2022%29_25_Amine_Gouiri.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RC_Lens_-_OGC_Nice_%2810-04-2022%29_25_Amine_Gouiri.jpg/960px-RC_Lens_-_OGC_Nice_%2810-04-2022%29_25_Amine_Gouiri.jpg",
+    "width": 2340,
+    "height": 3120,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterh\u00e9ninois (page does not exist)\">Supporterh\u00e9ninois</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/amine-gouiri.jpg"
+  },
+  "team_slug": "algeria",
+  "team_country": "Algeria"
+}

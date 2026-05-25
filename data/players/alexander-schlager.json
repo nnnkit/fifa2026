@@ -1,0 +1,108 @@
+{
+  "slug": "alexander-schlager",
+  "display_name": "Alexander Schlager",
+  "shirt_no": 1,
+  "position_code": "GK",
+  "dob": "1996-02-01",
+  "age": 30,
+  "caps": 25,
+  "goals": 0,
+  "club_from_squad_table": "Red Bull Salzburg",
+  "wikipedia_title": "Alexander Schlager",
+  "date_of_birth": "1996-02-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Red Bull Salzburg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20745286",
+  "qid": "Q20745286",
+  "name": "Alexander Schlager",
+  "description": "Austrian association football player",
+  "place_of_birth_qid": "Q34713",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 184.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1387293",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q994811",
+      "start": "2012-01-01",
+      "end": "2005-01-01"
+    },
+    {
+      "team_qid": "Q702455",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q696514",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1387293",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q696514",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q4825450",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q302954",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q302977",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q303033",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q696514",
+  "image_filename": "Floridsdorfer AC 2016\u201317 \u2013 Alexander Schlager (01).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Schlager",
+  "transfermarkt_id": "186374",
+  "fifa_player_id": "201222392",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Salzburg",
+  "wikidata_current_club": "SV Gr\u00f6dig",
+  "wikidata_current_club_qid": "Q696514",
+  "photo": {
+    "filename": "Floridsdorfer AC 2016\u201317 \u2013 Alexander Schlager (01).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Floridsdorfer_AC_2016%E2%80%9317_%E2%80%93_Alexander_Schlager_%2801%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Floridsdorfer_AC_2016%E2%80%9317_%E2%80%93_Alexander_Schlager_%2801%29.jpg/960px-Floridsdorfer_AC_2016%E2%80%9317_%E2%80%93_Alexander_Schlager_%2801%29.jpg",
+    "width": 1200,
+    "height": 1800,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 19:48, 13 July 2016 (UTC)",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/alexander-schlager.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

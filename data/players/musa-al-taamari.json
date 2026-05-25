@@ -1,0 +1,63 @@
+{
+  "slug": "musa-al-taamari",
+  "display_name": "Musa Al-Taamari",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1997-06-10",
+  "age": 29,
+  "caps": 90,
+  "goals": 24,
+  "club_from_squad_table": "Rennes",
+  "wikipedia_title": "Musa Al-Taamari",
+  "date_of_birth": "1997-06-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Rennes",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27909473",
+  "qid": "Q27909473",
+  "name": "Musa Al-Taamari",
+  "description": "Jordanian footballer",
+  "place_of_birth_qid": "Q3805",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q131378",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q131378",
+  "image_filename": "Al taamari asse mhsc 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Musa_Al-Taamari",
+  "transfermarkt_id": "551505",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "Amman",
+  "wikidata_current_club": "APOEL F.C.",
+  "wikidata_current_club_qid": "Q131378",
+  "photo": {
+    "filename": "Al taamari asse mhsc 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Al_taamari_asse_mhsc_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Al_taamari_asse_mhsc_2425.png",
+    "width": 423,
+    "height": 550,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/musa-al-taamari.png"
+  },
+  "team_slug": "jordan",
+  "team_country": "Jordan"
+}

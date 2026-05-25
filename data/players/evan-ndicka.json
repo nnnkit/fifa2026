@@ -1,0 +1,76 @@
+{
+  "slug": "evan-ndicka",
+  "display_name": "Evan Ndicka",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-08-20",
+  "age": 26,
+  "caps": 28,
+  "goals": 0,
+  "club_from_squad_table": "Roma",
+  "wikipedia_title": "Evan Ndicka",
+  "date_of_birth": "1999-08-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Roma",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28971436",
+  "qid": "Q28971436",
+  "name": "Evan Ndicka",
+  "description": "Ivorian-French footballer (born 1999)",
+  "place_of_birth_qid": "Q210720",
+  "citizenship_qids": [
+    "Q142",
+    "Q1008",
+    "Q1009"
+  ],
+  "height_cm": 192.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q182876",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q38245",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1344163",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q182876",
+  "image_filename": "2022128151247 2022-05-08 Fussball Eintracht Frankfurt vs Borussia Mönchengladbach - Sven - 1D X MK II - 0370 - B70I6481 (Evan N’Dicka cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Evan_Ndicka",
+  "transfermarkt_id": "371149",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "France",
+    "Ivory Coast",
+    "Cameroon"
+  ],
+  "place_of_birth": "20th arrondissement of Paris",
+  "wikidata_current_club": "AJ Auxerre",
+  "wikidata_current_club_qid": "Q182876",
+  "photo": {
+    "filename": "2022128151247 2022-05-08 Fussball Eintracht Frankfurt vs Borussia Mönchengladbach - Sven - 1D X MK II - 0370 - B70I6481 (Evan N’Dicka cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/2022128151247_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0370_-_B70I6481_%28Evan_N%E2%80%99Dicka_cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/2022128151247_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_0370_-_B70I6481_%28Evan_N%E2%80%99Dicka_cropped%29.jpg",
+    "width": 634,
+    "height": 846,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Sven Mandel",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/evan-ndicka.jpg"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

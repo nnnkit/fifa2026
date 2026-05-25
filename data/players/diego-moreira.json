@@ -1,0 +1,48 @@
+{
+  "slug": "diego-moreira",
+  "display_name": "Diego Moreira",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2004-08-06",
+  "age": 21,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Strasbourg",
+  "wikipedia_title": "Diego Moreira",
+  "date_of_birth": "2004-08-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Strasbourg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q110616805",
+  "qid": "Q110616805",
+  "name": "Diego Moreira",
+  "description": "Belgian association football player (born 2004)",
+  "place_of_birth_qid": "Q3992",
+  "citizenship_qids": [
+    "Q31",
+    "Q45"
+  ],
+  "height_cm": 1.79,
+  "image_filename": "Diego Moreira.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_Moreira",
+  "transfermarkt_id": "655006",
+  "citizenship": [
+    "Belgium",
+    "Portugal"
+  ],
+  "place_of_birth": "Li\u00e8ge",
+  "photo": {
+    "filename": "Diego Moreira.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Diego_Moreira.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Diego_Moreira.jpg",
+    "width": 639,
+    "height": 728,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Sport Lisboa e Benfica",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/diego-moreira.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

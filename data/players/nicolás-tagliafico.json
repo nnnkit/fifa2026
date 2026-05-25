@@ -1,0 +1,99 @@
+{
+  "slug": "nicolás-tagliafico",
+  "display_name": "Nicolás Tagliafico",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1992-08-31",
+  "age": 33,
+  "caps": 75,
+  "goals": 1,
+  "club_from_squad_table": "Lyon",
+  "wikipedia_title": "Nicolás Tagliafico",
+  "wikidata_qid": "Q3876530",
+  "qid": "Q3876530",
+  "name": "Nicolás Tagliafico",
+  "description": "Argentine association football player",
+  "date_of_birth": "1992-08-31",
+  "place_of_birth_qid": "Q2195778",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 172.0,
+  "weight_kg": 65.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q214978",
+      "start": "2015-01-01",
+      "end": "2017-12-00"
+    },
+    {
+      "team_qid": "Q692646",
+      "start": "2010-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q12230",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2902690",
+      "start": "2009-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q81888",
+      "start": "2018-01-00",
+      "end": "2022-07-00"
+    },
+    {
+      "team_qid": "Q704",
+      "start": "2022-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2017-06-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q704",
+  "image_filename": "Argentina team in St. Petersburg (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Tagliafico",
+  "transfermarkt_id": "131225",
+  "fifa_player_id": "308322",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lyon",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Rafael Calzada",
+  "wikidata_current_club": "Olympique Lyonnais",
+  "wikidata_current_club_qid": "Q704",
+  "photo": {
+    "filename": "Argentina team in St. Petersburg (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Argentina_team_in_St._Petersburg_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Argentina_team_in_St._Petersburg_%28cropped%29.jpg",
+    "width": 187,
+    "height": 300,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Кирилл Венедиктов",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nicolás-tagliafico.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "lucas-mendes",
+  "display_name": "Lucas Mendes",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1990-07-03",
+  "age": 35,
+  "caps": 24,
+  "goals": 1,
+  "club_from_squad_table": "Al-Wakrah",
+  "wikipedia_title": "Lucas Mendes (footballer, born 1990)",
+  "date_of_birth": "1990-07-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Wakrah",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q602311",
+  "qid": "Q602311",
+  "name": "Lucas Mendes",
+  "description": "Brazilian and Qatari association football player",
+  "place_of_birth_qid": "Q4361",
+  "citizenship_qids": [
+    "Q155",
+    "Q846"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 81.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q132885",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q478317",
+      "start": "2008-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q429546",
+      "start": "2014-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q1056948",
+      "start": "2017-07-00",
+      "end": "2019-02-00"
+    },
+    {
+      "team_qid": "Q428211",
+      "start": "2019-02-00",
+      "end": "2019-12-00"
+    },
+    {
+      "team_qid": "Q284281",
+      "start": "2020-01-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q284281",
+  "image_filename": "Valais Cup 2013 - OM-FC Porto 13-07-2013 - Lucas Mendes.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_Mendes_(footballer,_born_1990)",
+  "transfermarkt_id": "83983",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Brazil",
+    "Qatar"
+  ],
+  "place_of_birth": "Curitiba",
+  "wikidata_current_club": "Al-Wakrah Sports Club",
+  "wikidata_current_club_qid": "Q284281",
+  "photo": {
+    "filename": "Valais Cup 2013 - OM-FC Porto 13-07-2013 - Lucas Mendes.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Valais_Cup_2013_-_OM-FC_Porto_13-07-2013_-_Lucas_Mendes.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Valais_Cup_2013_-_OM-FC_Porto_13-07-2013_-_Lucas_Mendes.jpg",
+    "width": 677,
+    "height": 551,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pleclown\" title=\"User:Pleclown\">Clément Bucco-Lechat</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lucas-mendes.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

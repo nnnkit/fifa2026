@@ -1,0 +1,62 @@
+{
+  "slug": "alexander-prass",
+  "display_name": "Alexander Prass",
+  "shirt_no": 22,
+  "position_code": "DF",
+  "dob": "2001-05-26",
+  "age": 25,
+  "caps": 18,
+  "goals": 0,
+  "club_from_squad_table": "TSG Hoffenheim",
+  "wikipedia_title": "Alexander Prass",
+  "date_of_birth": "2001-05-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "TSG Hoffenheim",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q62006510",
+  "qid": "Q62006510",
+  "name": "Alexander Prass",
+  "description": "Austrian association football player",
+  "place_of_birth_qid": "Q693541",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1387293",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1387293",
+  "image_filename": "FC Liefering gegen FC Juniors O\u00d6. (19. April 2019) 34.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Prass",
+  "transfermarkt_id": "434116",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Hellmons\u00f6dt",
+  "wikidata_current_club": "FC Liefering",
+  "wikidata_current_club_qid": "Q1387293",
+  "photo": {
+    "filename": "FC Liefering gegen FC Juniors O\u00d6. (19. April 2019) 34.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/FC_Liefering_gegen_FC_Juniors_O%C3%96._%2819._April_2019%29_34.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/FC_Liefering_gegen_FC_Juniors_O%C3%96._%2819._April_2019%29_34.jpg/960px-FC_Liefering_gegen_FC_Juniors_O%C3%96._%2819._April_2019%29_34.jpg",
+    "width": 1560,
+    "height": 1917,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/alexander-prass.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "bilal-el-khannouss",
+  "display_name": "Bilal El Khannouss",
+  "shirt_no": 23,
+  "position_code": "MF",
+  "dob": "2004-05-10",
+  "age": 22,
+  "caps": 35,
+  "goals": 3,
+  "club_from_squad_table": "VfB Stuttgart",
+  "wikipedia_title": "Bilal El Khannouss",
+  "date_of_birth": "2004-05-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "VfB Stuttgart",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q105955374",
+  "qid": "Q105955374",
+  "name": "Bilal El Khannouss",
+  "description": "association football player (born 2004)",
+  "place_of_birth_qid": "Q1818491",
+  "citizenship_qids": [
+    "Q31",
+    "Q1028"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q90326494"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q30743865",
+      "start": "2019-03-00",
+      "end": "2019-05-00"
+    },
+    {
+      "team_qid": "Q216032",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q23674710",
+      "start": "2019-09-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q3589895",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q15224541",
+      "start": "2021-10-00",
+      "end": "2021-10-00"
+    },
+    {
+      "team_qid": "Q3590714",
+      "start": "2021-06-00",
+      "end": "2022-03-00"
+    },
+    {
+      "team_qid": "Q2686567",
+      "start": "2022-09-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q207337",
+      "start": "2022-12-17",
+      "end": null
+    },
+    {
+      "team_qid": "Q19481",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q4512",
+      "start": "2025-09-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q23887374",
+      "start": "2024-07-24",
+      "end": "2024-08-08"
+    }
+  ],
+  "current_club_qid": "Q4512",
+  "image_filename": "ElKhannouss (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bilal_El_Khannouss",
+  "transfermarkt_id": "654982",
+  "positions": [
+    "attacking midfielder"
+  ],
+  "citizenship": [
+    "Belgium",
+    "Morocco"
+  ],
+  "place_of_birth": "Strombeek-Bever",
+  "photo": {
+    "filename": "ElKhannouss (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/ElKhannouss_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/ElKhannouss_%28cropped%29.jpg",
+    "width": 917,
+    "height": 1437,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Nawfel Ajari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/bilal-el-khannouss.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "tajon-buchanan",
+  "display_name": "Tajon Buchanan",
+  "shirt_no": 17,
+  "position_code": "MF",
+  "dob": "1999-02-08",
+  "age": 27,
+  "caps": 58,
+  "goals": 8,
+  "club_from_squad_table": "Villarreal",
+  "wikipedia_title": "Tajon Buchanan",
+  "wikidata_qid": "Q62016194",
+  "qid": "Q62016194",
+  "name": "Tajon Buchanan",
+  "description": "Canadian soccer player",
+  "date_of_birth": "1999-02-08",
+  "place_of_birth_qid": "Q44198",
+  "citizenship_qids": [
+    "Q16"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 68.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q65090007",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q309095",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q190916",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q208635",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q631",
+      "start": "2024-00-00",
+      "end": "2025-07-29"
+    },
+    {
+      "team_qid": "Q3873967",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q9169796",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q12297",
+      "start": "2025-02-00",
+      "end": "2025-07-29"
+    },
+    {
+      "team_qid": "Q12297",
+      "start": "2025-07-30",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q12297",
+  "image_filename": "Tajon Buchanan WC2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tajon_Buchanan",
+  "transfermarkt_id": "638793",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Villarreal",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Canada"
+  ],
+  "place_of_birth": "Brampton",
+  "wikidata_current_club": "Villarreal CF",
+  "wikidata_current_club_qid": "Q12297",
+  "photo": {
+    "filename": "Tajon Buchanan WC2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Tajon_Buchanan_WC2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Tajon_Buchanan_WC2022.jpg",
+    "width": 448,
+    "height": 530,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/tajon-buchanan.jpg"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

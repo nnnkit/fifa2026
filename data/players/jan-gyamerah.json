@@ -1,0 +1,69 @@
+{
+  "slug": "jan-gyamerah",
+  "display_name": "Jan Gyamerah",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1995-06-18",
+  "age": 30,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "SV Elversberg",
+  "wikipedia_title": "Jan Gyamerah",
+  "date_of_birth": "1995-06-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "SV Elversberg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q15729468",
+  "qid": "Q15729468",
+  "name": "Jan Gyamerah",
+  "description": "German footballer",
+  "place_of_birth_qid": "Q64",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 184.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q105861",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q7924284",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q319699",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q2016992",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    }
+  ],
+  "current_club_qid": "Q105861",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jan_Gyamerah",
+  "transfermarkt_id": "192840",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Berlin",
+  "wikidata_current_club": "VfL Bochum",
+  "wikidata_current_club_qid": "Q105861",
+  "team_slug": "ghana",
+  "team_country": "Ghana",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

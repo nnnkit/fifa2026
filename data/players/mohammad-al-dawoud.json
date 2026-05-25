@@ -1,0 +1,72 @@
+{
+  "slug": "mohammad-al-dawoud",
+  "display_name": "Mohammad Al-Dawoud",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1992-12-04",
+  "age": 33,
+  "caps": 11,
+  "goals": 1,
+  "club_from_squad_table": "Al-Wehdat",
+  "wikipedia_title": "Mohammad Al-Dawoud",
+  "date_of_birth": "1992-12-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Wehdat",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16234825",
+  "qid": "Q16234825",
+  "name": "Mohammad Al-Dawud",
+  "description": "football player",
+  "place_of_birth_qid": "Q31594",
+  "citizenship_qids": [
+    "Q810"
+  ],
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3916564",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2829403",
+      "start": "2011-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q3590251",
+      "start": "2007-01-01",
+      "end": "2007-01-01"
+    },
+    {
+      "team_qid": "Q11144859",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q275940",
+      "start": "2011-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q3916564",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammad_Al-Dawoud",
+  "wikidata_date_of_birth": "1992-04-12",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Jordan"
+  ],
+  "place_of_birth": "Ar Ramtha",
+  "wikidata_current_club": "Hidd SCC",
+  "wikidata_current_club_qid": "Q3916564",
+  "team_slug": "jordan",
+  "team_country": "Jordan",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

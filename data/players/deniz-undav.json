@@ -1,0 +1,102 @@
+{
+  "slug": "deniz-undav",
+  "display_name": "Deniz Undav",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1996-07-19",
+  "age": 29,
+  "caps": 7,
+  "goals": 4,
+  "club_from_squad_table": "VfB Stuttgart",
+  "wikipedia_title": "Deniz Undav",
+  "date_of_birth": "1996-07-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "VfB Stuttgart",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q55955918",
+  "qid": "Q55955918",
+  "name": "Deniz Undav",
+  "description": "Turkish-German association football player (born 1996)",
+  "place_of_birth_qid": "Q496056",
+  "citizenship_qids": [
+    "Q183",
+    "Q43"
+  ],
+  "height_cm": 1.78,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q16559523",
+      "start": "2017-07-01",
+      "end": "2018-06-30"
+    },
+    {
+      "team_qid": "Q819400",
+      "start": "2018-07-01",
+      "end": "2020-06-30"
+    },
+    {
+      "team_qid": "Q196160",
+      "start": "2020-07-01",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q4512",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q19453",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q537301",
+      "start": "2015-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q4512",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q196160",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q43310",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q4512",
+  "image_filename": "Deniz undav.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Deniz_Undav",
+  "transfermarkt_id": "339314",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Germany",
+    "Turkey"
+  ],
+  "place_of_birth": "Varel",
+  "photo": {
+    "filename": "Deniz undav.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Deniz_undav.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Deniz_undav.jpg",
+    "width": 641,
+    "height": 800,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">Jeollo von VfB-exklusiv.de</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/deniz-undav.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

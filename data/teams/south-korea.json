@@ -1,0 +1,2040 @@
+{
+  "slug": "south-korea",
+  "country": "South Korea",
+  "wikidata_qid": "Q543842",
+  "fetched_at": "2026-05-24T13:15:42+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "kim-seung-gyu",
+      "display_name": "Kim Seung-gyu",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1990-09-30",
+      "age": 35,
+      "caps": 85,
+      "goals": 0,
+      "club_from_squad_table": "FC Tokyo",
+      "wikipedia_title": "Kim Seung-gyu",
+      "wikidata_qid": "Q6409355",
+      "qid": "Q6409355",
+      "name": "Kim Seung-gyu",
+      "description": "South Korean association football player",
+      "date_of_birth": "1990-09-30",
+      "place_of_birth_qid": "Q41278",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 65.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q844271",
+          "start": "2016-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q129673",
+          "start": "2006-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q493401",
+          "start": "2006-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q495929",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q488454",
+          "start": "2009-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q543842",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q129673",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q844931",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q2636005",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2636005",
+      "image_filename": "Kim Seung-Gyu.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Seung-gyu",
+      "transfermarkt_id": "92076",
+      "fifa_player_id": "274281",
+      "uefa_player_id": "19267",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "FC Tokyo",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Ulsan",
+      "wikidata_current_club": "Al-Shabab Football Club",
+      "wikidata_current_club_qid": "Q2636005",
+      "photo": {
+        "filename": "Kim Seung-Gyu.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Kim_Seung-Gyu.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Kim_Seung-Gyu.jpg",
+        "width": 491,
+        "height": 583,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a href=\"//www.flickr.com/people/62964096@N02\" class=\"extiw\" title=\"flickruser:62964096@N02\">Manri Cheon</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kim-seung-gyu.jpg"
+      }
+    },
+    {
+      "slug": "jo-hyeon-woo",
+      "display_name": "Jo Hyeon-woo",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1991-09-25",
+      "age": 34,
+      "caps": 47,
+      "goals": 0,
+      "club_from_squad_table": "Ulsan HD",
+      "wikipedia_title": "Jo Hyeon-woo",
+      "wikidata_qid": "Q15622446",
+      "qid": "Q15622446",
+      "name": "Jo Hyeon-woo",
+      "description": "South Korean footballer",
+      "date_of_birth": "1991-09-25",
+      "place_of_birth_qid": "Q8684",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 73.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q483044",
+          "start": "2013-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q495929",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q488454",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q543842",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q129673",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q129673",
+      "image_filename": "Jo Hyeon-woo.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jo_Hyeon-woo",
+      "transfermarkt_id": "260171",
+      "fifa_player_id": "397753",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Ulsan HD",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Seoul",
+      "wikidata_current_club": "Ulsan HD FC",
+      "wikidata_current_club_qid": "Q129673",
+      "photo": {
+        "filename": "Jo Hyeon-woo.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Jo_Hyeon-woo.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Jo_Hyeon-woo.jpg",
+        "width": 269,
+        "height": 356,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Светлана Бекетова",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jo-hyeon-woo.jpg"
+      }
+    },
+    {
+      "slug": "song-bum-keun",
+      "display_name": "Song Bum-keun",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1997-10-15",
+      "age": 28,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Jeonbuk Hyundai Motors",
+      "wikipedia_title": "Song Bum-keun",
+      "wikidata_qid": "Q49562244",
+      "qid": "Q49562244",
+      "name": "Song Bum-keun",
+      "description": "South Korean association football player",
+      "date_of_birth": "1997-10-15",
+      "place_of_birth_qid": "Q42108",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 194.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q483152",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q692856",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q692856",
+      "image_filename": "240611 대한민국 vs 중국 (송범근).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Song_Bum-keun",
+      "transfermarkt_id": "508237",
+      "fifa_player_id": "402820",
+      "uefa_player_id": "49689",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Jeonbuk Hyundai Motors",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Seongnam",
+      "wikidata_current_club": "Shonan Bellmare",
+      "wikidata_current_club_qid": "Q692856",
+      "photo": {
+        "filename": "240611 대한민국 vs 중국 (송범근).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/240611_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_vs_%EC%A4%91%EA%B5%AD_%28%EC%86%A1%EB%B2%94%EA%B7%BC%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/240611_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_vs_%EC%A4%91%EA%B5%AD_%28%EC%86%A1%EB%B2%94%EA%B7%BC%29.jpg/960px-240611_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_vs_%EC%A4%91%EA%B5%AD_%28%EC%86%A1%EB%B2%94%EA%B7%BC%29.jpg",
+        "width": 1600,
+        "height": 2000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/song-bum-keun.jpg"
+      }
+    },
+    {
+      "slug": "kim-min-jae",
+      "display_name": "Kim Min-jae",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-11-15",
+      "age": 29,
+      "caps": 77,
+      "goals": 4,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Kim Min-jae (footballer)",
+      "wikidata_qid": "Q28699707",
+      "qid": "Q28699707",
+      "name": "Kim Min-jae",
+      "description": "South Korean association football player (born 1996)",
+      "date_of_birth": "1996-11-15",
+      "place_of_birth_qid": "Q42152",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 86.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q483152",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q543842",
+          "start": "2017-08-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2641",
+          "start": "2022-07-27",
+          "end": "2023-07-18"
+        },
+        {
+          "team_qid": "Q6601875",
+          "start": "2021-08-16",
+          "end": "2022-07-27"
+        },
+        {
+          "team_qid": "Q814738",
+          "start": "2019-01-00",
+          "end": "2021-08-00"
+        },
+        {
+          "team_qid": "Q624792",
+          "start": "2016-00-00",
+          "end": "2016-12-00"
+        },
+        {
+          "team_qid": "Q488454",
+          "start": "2016-03-00",
+          "end": "2018-09-00"
+        },
+        {
+          "team_qid": "Q139818832",
+          "start": "2014-08-00",
+          "end": "2014-08-00"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2023-07-18",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15789",
+      "image_filename": "FC Red Bull Salzburg gegen Bayern München (2025-01-06 Testspiel) 26.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Min-jae_(footballer)",
+      "transfermarkt_id": "503482",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Tongyeong",
+      "wikidata_current_club": "FC Bayern Munich",
+      "wikidata_current_club_qid": "Q15789",
+      "photo": {
+        "filename": "FC Red Bull Salzburg gegen Bayern München (2025-01-06 Testspiel) 26.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_26.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_26.jpg/960px-FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_26.jpg",
+        "width": 2853,
+        "height": 3715,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kim-min-jae.jpg"
+      }
+    },
+    {
+      "slug": "kim-moon-hwan",
+      "display_name": "Kim Moon-hwan",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1995-08-01",
+      "age": 30,
+      "caps": 34,
+      "goals": 0,
+      "club_from_squad_table": "Daejeon Hana Citizen",
+      "wikipedia_title": "Kim Moon-hwan",
+      "wikidata_qid": "Q31146726",
+      "qid": "Q31146726",
+      "name": "Kim Moon-hwan",
+      "description": "South Korean footballer",
+      "date_of_birth": "1995-08-01",
+      "place_of_birth_qid": "Q42160",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 173.0,
+      "weight_kg": 64.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q495027",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q488454",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q543842",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18380286",
+          "start": "2021-00-00",
+          "end": "2022-03-00"
+        },
+        {
+          "team_qid": "Q483152",
+          "start": "2022-03-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q483152",
+      "image_filename": "191202 K리그 시상식, 김문환 3.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Moon-hwan",
+      "transfermarkt_id": "524592",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Daejeon Hana Citizen",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Hwaseong",
+      "wikidata_current_club": "Jeonbuk Hyundai Motors FC",
+      "wikidata_current_club_qid": "Q483152",
+      "photo": {
+        "filename": "191202 K리그 시상식, 김문환 3.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/191202_K%EB%A6%AC%EA%B7%B8_%EC%8B%9C%EC%83%81%EC%8B%9D%2C_%EA%B9%80%EB%AC%B8%ED%99%98_3.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/191202_K%EB%A6%AC%EA%B7%B8_%EC%8B%9C%EC%83%81%EC%8B%9D%2C_%EA%B9%80%EB%AC%B8%ED%99%98_3.jpg/960px-191202_K%EB%A6%AC%EA%B7%B8_%EC%8B%9C%EC%83%81%EC%8B%9D%2C_%EA%B9%80%EB%AC%B8%ED%99%98_3.jpg",
+        "width": 1000,
+        "height": 1400,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Nori Picture",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kim-moon-hwan.jpg"
+      }
+    },
+    {
+      "slug": "seol-young-woo",
+      "display_name": "Seol Young-woo",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-12-05",
+      "age": 27,
+      "caps": 32,
+      "goals": 0,
+      "club_from_squad_table": "Red Star Belgrade",
+      "wikipedia_title": "Seol Young-woo",
+      "wikidata_qid": "Q97205258",
+      "qid": "Q97205258",
+      "name": "Seol Young-woo",
+      "description": "South Korean footballer",
+      "date_of_birth": "1998-12-05",
+      "place_of_birth_qid": "Q41278",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q129673",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q488454",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q543842",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q129673",
+      "image_filename": "(추꾸미) '울산 합류' 설영우.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Seol_Young-woo",
+      "transfermarkt_id": "639414",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Red Star Belgrade",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Ulsan",
+      "wikidata_current_club": "Ulsan HD FC",
+      "wikidata_current_club_qid": "Q129673",
+      "photo": {
+        "filename": "(추꾸미) '울산 합류' 설영우.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/%28%EC%B6%94%EA%BE%B8%EB%AF%B8%29_%27%EC%9A%B8%EC%82%B0_%ED%95%A9%EB%A5%98%27_%EC%84%A4%EC%98%81%EC%9A%B0.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%28%EC%B6%94%EA%BE%B8%EB%AF%B8%29_%27%EC%9A%B8%EC%82%B0_%ED%95%A9%EB%A5%98%27_%EC%84%A4%EC%98%81%EC%9A%B0.jpg/960px-%28%EC%B6%94%EA%BE%B8%EB%AF%B8%29_%27%EC%9A%B8%EC%82%B0_%ED%95%A9%EB%A5%98%27_%EC%84%A4%EC%98%81%EC%9A%B0.jpg",
+        "width": 1337,
+        "height": 1672,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@osensports7666\">OSEN SPORTS</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/seol-young-woo.jpg"
+      }
+    },
+    {
+      "slug": "cho-yu-min",
+      "display_name": "Cho Yu-min",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-11-17",
+      "age": 29,
+      "caps": 18,
+      "goals": 0,
+      "club_from_squad_table": "Sharjah",
+      "wikipedia_title": "Cho Yu-min",
+      "wikidata_qid": "Q50420882",
+      "qid": "Q50420882",
+      "name": "Cho Yu-min",
+      "description": "South Korean association football player",
+      "date_of_birth": "1996-11-17",
+      "place_of_birth_qid": "Q884",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q336286",
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3455793",
+          "start": "2018-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q484584",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q488454",
+          "start": "2018-01-00",
+          "end": "2018-08-00"
+        },
+        {
+          "team_qid": "Q543842",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q286801",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q484584",
+      "image_filename": "190505 수원FC VS 서울이랜드, 조유민 5.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cho_Yu-min",
+      "transfermarkt_id": "561212",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sharjah",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender",
+        "midfielder"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "South Korea",
+      "wikidata_current_club": "Daejeon Hana Citizen FC",
+      "wikidata_current_club_qid": "Q484584",
+      "photo": {
+        "filename": "190505 수원FC VS 서울이랜드, 조유민 5.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/190505_%EC%88%98%EC%9B%90FC_VS_%EC%84%9C%EC%9A%B8%EC%9D%B4%EB%9E%9C%EB%93%9C%2C_%EC%A1%B0%EC%9C%A0%EB%AF%BC_5.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/190505_%EC%88%98%EC%9B%90FC_VS_%EC%84%9C%EC%9A%B8%EC%9D%B4%EB%9E%9C%EB%93%9C%2C_%EC%A1%B0%EC%9C%A0%EB%AF%BC_5.jpg/960px-190505_%EC%88%98%EC%9B%90FC_VS_%EC%84%9C%EC%9A%B8%EC%9D%B4%EB%9E%9C%EB%93%9C%2C_%EC%A1%B0%EC%9C%A0%EB%AF%BC_5.jpg",
+        "width": 1000,
+        "height": 1400,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Nori Picture",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/cho-yu-min.jpg"
+      }
+    },
+    {
+      "slug": "lee-tae-seok",
+      "display_name": "Lee Tae-seok",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-07-28",
+      "age": 23,
+      "caps": 14,
+      "goals": 1,
+      "club_from_squad_table": "Austria Wien",
+      "wikipedia_title": "Lee Tae-seok",
+      "wikidata_qid": "Q61100362",
+      "qid": "Q61100362",
+      "name": "Lee Tae-seok",
+      "description": "South Korean association football player (2002-)",
+      "date_of_birth": "2002-07-28",
+      "place_of_birth_qid": "Q884",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 174.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "image_filename": "밀워키 이달의 선수 5월 - 이태석 인터뷰 & 제품 언박싱까지! 0s.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Tae-seok",
+      "transfermarkt_id": "639027",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "South Korea",
+      "current_club": "Austria Wien",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "밀워키 이달의 선수 5월 - 이태석 인터뷰 & 제품 언박싱까지! 0s.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/%EB%B0%80%EC%9B%8C%ED%82%A4_%EC%9D%B4%EB%8B%AC%EC%9D%98_%EC%84%A0%EC%88%98_5%EC%9B%94_-_%EC%9D%B4%ED%83%9C%EC%84%9D_%EC%9D%B8%ED%84%B0%EB%B7%B0_%26_%EC%A0%9C%ED%92%88_%EC%96%B8%EB%B0%95%EC%8B%B1%EA%B9%8C%EC%A7%80%21_0s.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%EB%B0%80%EC%9B%8C%ED%82%A4_%EC%9D%B4%EB%8B%AC%EC%9D%98_%EC%84%A0%EC%88%98_5%EC%9B%94_-_%EC%9D%B4%ED%83%9C%EC%84%9D_%EC%9D%B8%ED%84%B0%EB%B7%B0_%26_%EC%A0%9C%ED%92%88_%EC%96%B8%EB%B0%95%EC%8B%B1%EA%B9%8C%EC%A7%80%21_0s.jpg/960px-%EB%B0%80%EC%9B%8C%ED%82%A4_%EC%9D%B4%EB%8B%AC%EC%9D%98_%EC%84%A0%EC%88%98_5%EC%9B%94_-_%EC%9D%B4%ED%83%9C%EC%84%9D_%EC%9D%B8%ED%84%B0%EB%B7%B0_%26_%EC%A0%9C%ED%92%88_%EC%96%B8%EB%B0%95%EC%8B%B1%EA%B9%8C%EC%A7%80%21_0s.jpg",
+        "width": 1398,
+        "height": 1864,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/user/FCSEOUL\">FC SEOUL</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lee-tae-seok.jpg"
+      }
+    },
+    {
+      "slug": "park-jin-seob",
+      "display_name": "Park Jin-seob",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1995-10-23",
+      "age": 30,
+      "caps": 12,
+      "goals": 1,
+      "club_from_squad_table": "Zhejiang FC",
+      "wikipedia_title": "Park Jin-seob (footballer, born 1995)",
+      "wikidata_qid": "Q69696842",
+      "qid": "Q69696842",
+      "name": "Park Jin-seop",
+      "description": "South Korean association football player (1995-)",
+      "date_of_birth": "1995-10-23",
+      "place_of_birth_qid": "Q884",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 184.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q483579",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q27952107",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q484584",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q483152",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q488454",
+          "start": "2023-09-00",
+          "end": "2023-10-00"
+        },
+        {
+          "team_qid": "Q543842",
+          "start": "2023-11-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q483152",
+      "image_filename": "250702 FC 서울 vs 전북 (박진섭).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Park_Jin-seob_(footballer,_born_1995)",
+      "transfermarkt_id": "557469",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Zhejiang FC",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "South Korea",
+      "wikidata_current_club": "Jeonbuk Hyundai Motors FC",
+      "wikidata_current_club_qid": "Q483152",
+      "photo": {
+        "filename": "250702 FC 서울 vs 전북 (박진섭).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/250702_FC_%EC%84%9C%EC%9A%B8_vs_%EC%A0%84%EB%B6%81_%28%EB%B0%95%EC%A7%84%EC%84%AD%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/250702_FC_%EC%84%9C%EC%9A%B8_vs_%EC%A0%84%EB%B6%81_%28%EB%B0%95%EC%A7%84%EC%84%AD%29.jpg/960px-250702_FC_%EC%84%9C%EC%9A%B8_vs_%EC%A0%84%EB%B6%81_%28%EB%B0%95%EC%A7%84%EC%84%AD%29.jpg",
+        "width": 1600,
+        "height": 2000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/park-jin-seob.jpg"
+      }
+    },
+    {
+      "slug": "kim-tae-hyeon",
+      "display_name": "Kim Tae-hyeon",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-09-17",
+      "age": 25,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Kashima Antlers",
+      "wikipedia_title": "Kim Tae-hyeon",
+      "wikidata_qid": "Q79904514",
+      "qid": "Q79904514",
+      "name": "Kim Tae-hyeon",
+      "description": "South Korean association football player",
+      "date_of_birth": "2000-09-17",
+      "place_of_birth_qid": "Q884",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 187.0,
+      "teams": [
+        {
+          "team_qid": "Q129673",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q129673",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Tae-hyeon",
+      "transfermarkt_id": "645847",
+      "uefa_player_id": "45209",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Kashima Antlers",
+      "current_club_source": "wikipedia-squad-table",
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "South Korea",
+      "wikidata_current_club": "Ulsan HD FC",
+      "wikidata_current_club_qid": "Q129673",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "lee-han-beom",
+      "display_name": "Lee Han-beom",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-06-17",
+      "age": 23,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Midtjylland",
+      "wikipedia_title": "Lee Han-beom",
+      "wikidata_qid": "Q106779330",
+      "qid": "Q106779330",
+      "name": "Lee Han-beom",
+      "description": "South Korean footballer",
+      "date_of_birth": "2002-06-17",
+      "place_of_birth_qid": "Q884",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 190.0,
+      "teams": [
+        {
+          "team_qid": "Q618520",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q618520",
+      "image_filename": "230422 FC 서울 vs 수원 삼성 블루윙즈 (이한범).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Han-beom",
+      "transfermarkt_id": "706963",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Midtjylland",
+      "current_club_source": "wikipedia-squad-table",
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "South Korea",
+      "wikidata_current_club": "FC Midtjylland",
+      "wikidata_current_club_qid": "Q618520",
+      "photo": {
+        "filename": "230422 FC 서울 vs 수원 삼성 블루윙즈 (이한범).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/230422_FC_%EC%84%9C%EC%9A%B8_vs_%EC%88%98%EC%9B%90_%EC%82%BC%EC%84%B1_%EB%B8%94%EB%A3%A8%EC%9C%99%EC%A6%88_%28%EC%9D%B4%ED%95%9C%EB%B2%94%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/230422_FC_%EC%84%9C%EC%9A%B8_vs_%EC%88%98%EC%9B%90_%EC%82%BC%EC%84%B1_%EB%B8%94%EB%A3%A8%EC%9C%99%EC%A6%88_%28%EC%9D%B4%ED%95%9C%EB%B2%94%29.jpg/960px-230422_FC_%EC%84%9C%EC%9A%B8_vs_%EC%88%98%EC%9B%90_%EC%82%BC%EC%84%B1_%EB%B8%94%EB%A3%A8%EC%9C%99%EC%A6%88_%28%EC%9D%B4%ED%95%9C%EB%B2%94%29.jpg",
+        "width": 1600,
+        "height": 2000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lee-han-beom.jpg"
+      }
+    },
+    {
+      "slug": "jens-castrop",
+      "display_name": "Jens Castrop",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-07-29",
+      "age": 22,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Borussia Mönchengladbach",
+      "wikipedia_title": "Jens Castrop",
+      "wikidata_qid": "Q98829565",
+      "qid": "Q98829565",
+      "name": "Jens Castrop",
+      "description": "German association football player (born 2003)",
+      "date_of_birth": "2003-07-29",
+      "place_of_birth_qid": "Q1718",
+      "citizenship_qids": [
+        "Q183",
+        "Q884"
+      ],
+      "height_cm": 1.78,
+      "teams": [
+        {
+          "team_qid": "Q15972883",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q15786",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q97905900",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q97905900",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jens_Castrop",
+      "transfermarkt_id": "613192",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Borussia Mönchengladbach",
+      "current_club_source": "wikipedia-squad-table",
+      "citizenship": [
+        "Germany",
+        "South Korea"
+      ],
+      "place_of_birth": "Düsseldorf",
+      "wikidata_current_club": "VfL Borussia Mönchengladbach",
+      "wikidata_current_club_qid": "Q97905900",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "lee-ki-hyuk",
+      "display_name": "Lee Ki-hyuk",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-07-07",
+      "age": 25,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Gangwon FC",
+      "wikipedia_title": "Lee Ki-hyuk (footballer)",
+      "wikidata_qid": "Q113013535",
+      "qid": "Q113013535",
+      "name": "Lee Ki-hyuk",
+      "description": "South Korean association football player",
+      "date_of_birth": "2000-07-07",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3455793",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q482617",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q482617",
+      "image_filename": "250617 FC 서울 vs 강원 (이기혁) 1.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Ki-hyuk_(footballer)",
+      "transfermarkt_id": "763349",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Gangwon FC",
+      "current_club_source": "wikipedia-squad-table",
+      "citizenship": [
+        "South Korea"
+      ],
+      "wikidata_current_club": "Jeju SK FC",
+      "wikidata_current_club_qid": "Q482617",
+      "photo": {
+        "filename": "250617 FC 서울 vs 강원 (이기혁) 1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/250617_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B0%95%EC%9B%90_%28%EC%9D%B4%EA%B8%B0%ED%98%81%29_1.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/250617_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B0%95%EC%9B%90_%28%EC%9D%B4%EA%B8%B0%ED%98%81%29_1.jpg/960px-250617_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B0%95%EC%9B%90_%28%EC%9D%B4%EA%B8%B0%ED%98%81%29_1.jpg",
+        "width": 1600,
+        "height": 2000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lee-ki-hyuk.jpg"
+      }
+    },
+    {
+      "slug": "lee-jae-sung",
+      "display_name": "Lee Jae-sung",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1992-08-10",
+      "age": 33,
+      "caps": 103,
+      "goals": 15,
+      "club_from_squad_table": "Mainz 05",
+      "wikipedia_title": "Lee Jae-sung",
+      "wikidata_qid": "Q16234741",
+      "qid": "Q16234741",
+      "name": "Lee Jae-sung",
+      "description": "South Korean footballer, born 1992",
+      "date_of_birth": "1992-08-10",
+      "place_of_birth_qid": "Q41278",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q483152",
+          "start": "2014-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q488454",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q543842",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q157828",
+          "start": "2018-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q105254",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q105254",
+      "image_filename": "이재성 (축구 선수).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Jae-sung",
+      "transfermarkt_id": "314398",
+      "fifa_player_id": "390525",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mainz 05",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Ulsan",
+      "wikidata_current_club": "1. FSV Mainz 05",
+      "wikidata_current_club_qid": "Q105254",
+      "photo": {
+        "filename": "이재성 (축구 선수).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/%EC%9D%B4%EC%9E%AC%EC%84%B1_%28%EC%B6%95%EA%B5%AC_%EC%84%A0%EC%88%98%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%EC%9D%B4%EC%9E%AC%EC%84%B1_%28%EC%B6%95%EA%B5%AC_%EC%84%A0%EC%88%98%29.jpg/960px-%EC%9D%B4%EC%9E%AC%EC%84%B1_%28%EC%B6%95%EA%B5%AC_%EC%84%A0%EC%88%98%29.jpg",
+        "width": 1046,
+        "height": 976,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://m.youtube.com/@GoalTVkorea\">GOAL TV</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lee-jae-sung.jpg"
+      }
+    },
+    {
+      "slug": "hwang-hee-chan",
+      "display_name": "Hwang Hee-chan",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-01-26",
+      "age": 30,
+      "caps": 77,
+      "goals": 16,
+      "club_from_squad_table": "Wolverhampton Wanderers",
+      "wikipedia_title": "Hwang Hee-chan",
+      "wikidata_qid": "Q18551518",
+      "qid": "Q18551518",
+      "name": "Hwang Hee-chan",
+      "description": "South Korean association football player (born 1996)",
+      "date_of_birth": "1996-01-26",
+      "place_of_birth_qid": "Q42148",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1387293",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q994811",
+          "start": "2015-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q493401",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q495929",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q488454",
+          "start": "2015-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q543842",
+          "start": "2016-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q51974",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        }
+      ],
+      "current_club_qid": "Q19500",
+      "image_filename": "240622 황희찬 풋볼 페스티벌.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hwang_Hee-chan",
+      "transfermarkt_id": "292246",
+      "fifa_player_id": "395083",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Wolverhampton Wanderers",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Chuncheon",
+      "wikidata_current_club": "Wolverhampton Wanderers F.C.",
+      "wikidata_current_club_qid": "Q19500",
+      "photo": {
+        "filename": "240622 황희찬 풋볼 페스티벌.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/240622_%ED%99%A9%ED%9D%AC%EC%B0%AC_%ED%92%8B%EB%B3%BC_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/240622_%ED%99%A9%ED%9D%AC%EC%B0%AC_%ED%92%8B%EB%B3%BC_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C.jpg/960px-240622_%ED%99%A9%ED%9D%AC%EC%B0%AC_%ED%92%8B%EB%B3%BC_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C.jpg",
+        "width": 1600,
+        "height": 2000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/hwang-hee-chan.jpg"
+      }
+    },
+    {
+      "slug": "hwang-in-beom",
+      "display_name": "Hwang In-beom",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-09-20",
+      "age": 29,
+      "caps": 71,
+      "goals": 6,
+      "club_from_squad_table": "Feyenoord",
+      "wikipedia_title": "Hwang In-beom",
+      "wikidata_qid": "Q19603924",
+      "qid": "Q19603924",
+      "name": "Hwang In-beom",
+      "description": "South Korean association football player",
+      "date_of_birth": "1996-09-20",
+      "place_of_birth_qid": "Q20921",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 177.0,
+      "weight_kg": 64.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q484584",
+          "start": "2015-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q493401",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q495929",
+          "start": "2014-01-01",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q6431906",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q488454",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q543842",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q196107",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q170040",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q482406",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q19628",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q173009",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q134241",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q173009",
+      "image_filename": "240611 대한민국 vs 중국 (황인범).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hwang_In-beom",
+      "transfermarkt_id": "365394",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Feyenoord",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Daejeon",
+      "wikidata_current_club": "FK Crvena zvezda",
+      "wikidata_current_club_qid": "Q173009",
+      "photo": {
+        "filename": "240611 대한민국 vs 중국 (황인범).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/240611_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_vs_%EC%A4%91%EA%B5%AD_%28%ED%99%A9%EC%9D%B8%EB%B2%94%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/240611_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_vs_%EC%A4%91%EA%B5%AD_%28%ED%99%A9%EC%9D%B8%EB%B2%94%29.jpg/960px-240611_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_vs_%EC%A4%91%EA%B5%AD_%28%ED%99%A9%EC%9D%B8%EB%B2%94%29.jpg",
+        "width": 1600,
+        "height": 2000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/hwang-in-beom.jpg"
+      }
+    },
+    {
+      "slug": "lee-kang-in",
+      "display_name": "Lee Kang-in",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-02-19",
+      "age": 25,
+      "caps": 46,
+      "goals": 11,
+      "club_from_squad_table": "Paris Saint-Germain",
+      "wikipedia_title": "Lee Kang-in",
+      "wikidata_qid": "Q16174734",
+      "qid": "Q16174734",
+      "name": "Lee Kang-in",
+      "description": "South Korean association football player (born 2001)",
+      "date_of_birth": "2001-02-19",
+      "place_of_birth_qid": "Q20934",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 1.73,
+      "position_qids": [
+        "Q90326494",
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q10333",
+          "start": "2019-01-30",
+          "end": "2021-08-30"
+        },
+        {
+          "team_qid": "Q918044",
+          "start": "2017-12-21",
+          "end": "2019-01-30"
+        },
+        {
+          "team_qid": "Q8835",
+          "start": "2021-08-30",
+          "end": "2023-07-08"
+        },
+        {
+          "team_qid": "Q493401",
+          "start": "2018-05-27",
+          "end": "2018-06-02"
+        },
+        {
+          "team_qid": "Q495929",
+          "start": "2019-05-11",
+          "end": "2019-06-15"
+        },
+        {
+          "team_qid": "Q488454",
+          "start": "2021-06-12",
+          "end": "2022-06-12"
+        },
+        {
+          "team_qid": "Q543842",
+          "start": "2019-03-22",
+          "end": null
+        },
+        {
+          "team_qid": "Q1418509",
+          "start": "2021-07-22",
+          "end": "2021-07-31"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q601613",
+          "start": "2012-00-00",
+          "end": "2018-00-00"
+        }
+      ],
+      "current_club_qid": "Q483020",
+      "image_filename": "Lee Kang-in - 2022 (52551771501) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Kang-in",
+      "transfermarkt_id": "557149",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris Saint-Germain",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "attacking midfielder",
+        "winger"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Incheon",
+      "wikidata_current_club": "Paris Saint-Germain FC",
+      "wikidata_current_club_qid": "Q483020",
+      "photo": {
+        "filename": "Lee Kang-in - 2022 (52551771501) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Lee_Kang-in_-_2022_%2852551771501%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lee_Kang-in_-_2022_%2852551771501%29_%28cropped%29.jpg/960px-Lee_Kang-in_-_2022_%2852551771501%29_%28cropped%29.jpg",
+        "width": 1088,
+        "height": 1632,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/42438955@N05\">Republic of  Korea</a> from Seoul, Republic of Korea",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lee-kang-in.jpg"
+      }
+    },
+    {
+      "slug": "paik-seung-ho",
+      "display_name": "Paik Seung-ho",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-03-17",
+      "age": 29,
+      "caps": 25,
+      "goals": 3,
+      "club_from_squad_table": "Birmingham City",
+      "wikipedia_title": "Paik Seung-ho",
+      "wikidata_qid": "Q12597820",
+      "qid": "Q12597820",
+      "name": "Paik Seung-ho",
+      "description": "South Korean association football player",
+      "date_of_birth": "1997-03-17",
+      "place_of_birth_qid": "Q20714",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 68.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q10467",
+          "start": "2016-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q495929",
+          "start": "2014-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q479351",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q5010944",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q11945",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q483152",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q543842",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19444",
+          "start": "2023-01-30",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19444",
+      "image_filename": "190608 오픈 트레이닝 데이 백승호 1.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Paik_Seung-ho",
+      "transfermarkt_id": "282689",
+      "fifa_player_id": "402817",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Birmingham City",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Suwon",
+      "wikidata_current_club": "Birmingham City F.C.",
+      "wikidata_current_club_qid": "Q19444",
+      "photo": {
+        "filename": "190608 오픈 트레이닝 데이 백승호 1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/190608_%EC%98%A4%ED%94%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D_%EB%8D%B0%EC%9D%B4_%EB%B0%B1%EC%8A%B9%ED%98%B8_1.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/190608_%EC%98%A4%ED%94%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D_%EB%8D%B0%EC%9D%B4_%EB%B0%B1%EC%8A%B9%ED%98%B8_1.jpg/960px-190608_%EC%98%A4%ED%94%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D_%EB%8D%B0%EC%9D%B4_%EB%B0%B1%EC%8A%B9%ED%98%B8_1.jpg",
+        "width": 1000,
+        "height": 1399,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Nori Picture",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/paik-seung-ho.jpg"
+      }
+    },
+    {
+      "slug": "kim-jin-gyu",
+      "display_name": "Kim Jin-gyu",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-02-24",
+      "age": 29,
+      "caps": 20,
+      "goals": 3,
+      "club_from_squad_table": "Jeonbuk Hyundai Motors",
+      "wikipedia_title": "Kim Jin-gyu (footballer, born 1997)",
+      "wikidata_qid": "Q21916759",
+      "qid": "Q21916759",
+      "name": "Kim Jin-gyu",
+      "description": "South Korean footballer (born 1997)",
+      "date_of_birth": "1997-02-24",
+      "place_of_birth_qid": "Q42157",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q495027",
+          "start": "2015-01-01",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q495929",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q483152",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q104099625",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q104099625",
+      "image_filename": "250503 FC 서을 vs 전북 (김진규).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Jin-gyu_(footballer,_born_1997)",
+      "transfermarkt_id": "365377",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Jeonbuk Hyundai Motors",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Pohang",
+      "wikidata_current_club": "Gimcheon Sangmu FC",
+      "wikidata_current_club_qid": "Q104099625",
+      "photo": {
+        "filename": "250503 FC 서을 vs 전북 (김진규).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/250503_FC_%EC%84%9C%EC%9D%84_vs_%EC%A0%84%EB%B6%81_%28%EA%B9%80%EC%A7%84%EA%B7%9C%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/250503_FC_%EC%84%9C%EC%9D%84_vs_%EC%A0%84%EB%B6%81_%28%EA%B9%80%EC%A7%84%EA%B7%9C%29.jpg/960px-250503_FC_%EC%84%9C%EC%9D%84_vs_%EC%A0%84%EB%B6%81_%28%EA%B9%80%EC%A7%84%EA%B7%9C%29.jpg",
+        "width": 1600,
+        "height": 2000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kim-jin-gyu.jpg"
+      }
+    },
+    {
+      "slug": "lee-dong-gyeong",
+      "display_name": "Lee Dong-gyeong",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-09-20",
+      "age": 28,
+      "caps": 16,
+      "goals": 3,
+      "club_from_squad_table": "Ulsan HD",
+      "wikipedia_title": "Lee Dong-gyeong",
+      "wikidata_qid": "Q62961021",
+      "qid": "Q62961021",
+      "name": "Lee Dong-gyeong",
+      "description": "South Korean footballer (1997-)",
+      "date_of_birth": "1997-09-20",
+      "place_of_birth_qid": "Q884",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q129673",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1833814",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q32494",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q142005",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q142005",
+      "image_filename": "250303 FC 서울 vs 김천 (이동경).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Dong-gyeong",
+      "transfermarkt_id": "558086",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Ulsan HD",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "South Korea",
+      "wikidata_current_club": "F.C. Hansa Rostock",
+      "wikidata_current_club_qid": "Q142005",
+      "photo": {
+        "filename": "250303 FC 서울 vs 김천 (이동경).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/250303_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B9%80%EC%B2%9C_%28%EC%9D%B4%EB%8F%99%EA%B2%BD%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/250303_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B9%80%EC%B2%9C_%28%EC%9D%B4%EB%8F%99%EA%B2%BD%29.jpg/960px-250303_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B9%80%EC%B2%9C_%28%EC%9D%B4%EB%8F%99%EA%B2%BD%29.jpg",
+        "width": 1600,
+        "height": 2000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lee-dong-gyeong.jpg"
+      }
+    },
+    {
+      "slug": "bae-jun-ho",
+      "display_name": "Bae Jun-ho",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-08-21",
+      "age": 22,
+      "caps": 12,
+      "goals": 2,
+      "club_from_squad_table": "Stoke City",
+      "wikipedia_title": "Bae Jun-ho",
+      "wikidata_qid": "Q118978780",
+      "qid": "Q118978780",
+      "name": "Bae Jun-ho",
+      "description": "South Korean footballer (born 2003)",
+      "date_of_birth": "2003-08-21",
+      "place_of_birth_qid": "Q20927",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q193592",
+        "Q90326494",
+        "Q114358158"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18736",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q484584",
+          "start": "2022-00-00",
+          "end": "2023-08-00"
+        }
+      ],
+      "current_club_qid": "Q18736",
+      "image_filename": "배준호vs FC 서울.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bae_Jun-ho",
+      "transfermarkt_id": "912081",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Stoke City",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder",
+        "attacking midfielder",
+        "left winger"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Daegu",
+      "wikidata_current_club": "Stoke City F.C.",
+      "wikidata_current_club_qid": "Q18736",
+      "photo": {
+        "filename": "배준호vs FC 서울.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/%EB%B0%B0%EC%A4%80%ED%98%B8vs_FC_%EC%84%9C%EC%9A%B8.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/%EB%B0%B0%EC%A4%80%ED%98%B8vs_FC_%EC%84%9C%EC%9A%B8.jpg",
+        "width": 305,
+        "height": 458,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://m.youtube.com/@FCSEOUL\">FC SEOUL</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/bae-jun-ho.jpg"
+      }
+    },
+    {
+      "slug": "eom-ji-sung",
+      "display_name": "Eom Ji-sung",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-05-09",
+      "age": 24,
+      "caps": 8,
+      "goals": 2,
+      "club_from_squad_table": "Swansea City",
+      "wikipedia_title": "Eom Ji-sung",
+      "wikidata_qid": "Q105896342",
+      "qid": "Q105896342",
+      "name": "Eom Ji-sung",
+      "description": "South Korean association football player",
+      "date_of_birth": "2002-05-09",
+      "place_of_birth_qid": "Q42077",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q168364",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q168364",
+      "image_filename": "230917 FC 서울 vs 광주 FC (엄지성).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eom_Ji-sung",
+      "transfermarkt_id": "706968",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Swansea City",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Gimje",
+      "wikidata_current_club": "Gwangju FC",
+      "wikidata_current_club_qid": "Q168364",
+      "photo": {
+        "filename": "230917 FC 서울 vs 광주 FC (엄지성).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/230917_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B4%91%EC%A3%BC_FC_%28%EC%97%84%EC%A7%80%EC%84%B1%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/230917_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B4%91%EC%A3%BC_FC_%28%EC%97%84%EC%A7%80%EC%84%B1%29.jpg/960px-230917_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B4%91%EC%A3%BC_FC_%28%EC%97%84%EC%A7%80%EC%84%B1%29.jpg",
+        "width": 1600,
+        "height": 2000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Explicit",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/eom-ji-sung.jpg"
+      }
+    },
+    {
+      "slug": "yang-hyun-jun",
+      "display_name": "Yang Hyun-jun",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-05-25",
+      "age": 24,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Celtic",
+      "wikipedia_title": "Yang Hyun-jun",
+      "wikidata_qid": "Q113127167",
+      "qid": "Q113127167",
+      "name": "Yang Hyun-jun",
+      "description": "South Korean association football player",
+      "date_of_birth": "2002-05-25",
+      "place_of_birth_qid": "Q16520",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 179.0,
+      "teams": [
+        {
+          "team_qid": "Q484569",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q488454",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q484569",
+      "image_filename": "Celtic-20240722-062 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yang_Hyun-jun",
+      "transfermarkt_id": "853110",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Celtic",
+      "current_club_source": "wikipedia-squad-table",
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Busan",
+      "wikidata_current_club": "Gangwon FC",
+      "wikidata_current_club_qid": "Q484569",
+      "photo": {
+        "filename": "Celtic-20240722-062 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Celtic-20240722-062_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Celtic-20240722-062_%28cropped%29.jpg/960px-Celtic-20240722-062_%28cropped%29.jpg",
+        "width": 1161,
+        "height": 1746,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Hameltion\" title=\"User:Hameltion\">Hameltion</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/yang-hyun-jun.jpg"
+      }
+    },
+    {
+      "slug": "son-heung-min",
+      "display_name": "Son Heung-min",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1992-07-08",
+      "age": 33,
+      "caps": 142,
+      "goals": 54,
+      "club_from_squad_table": "Los Angeles FC",
+      "wikipedia_title": "Son Heung-min",
+      "wikidata_qid": "Q439722",
+      "qid": "Q439722",
+      "name": "Son Heung-min",
+      "description": "South Korean association football player (born 1992)",
+      "date_of_birth": "1992-07-08",
+      "place_of_birth_qid": "Q42148",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q51974",
+          "start": "2010-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q18741",
+          "start": "2015-01-01",
+          "end": "2025-08-00"
+        },
+        {
+          "team_qid": "Q104761",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q493401",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q543842",
+          "start": "2010-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q18380286",
+          "start": "2025-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18380286",
+      "image_filename": "BFA 2023 -2 Heung-Min Son (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Son_Heung-min",
+      "transfermarkt_id": "91845",
+      "fifa_player_id": "488666",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Los Angeles FC",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Chuncheon",
+      "photo": {
+        "filename": "BFA 2023 -2 Heung-Min Son (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg/960px-BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg",
+        "width": 1753,
+        "height": 2372,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ujishadow&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ujishadow (page does not exist)\">Ujishadow</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/son-heung-min.jpg"
+      }
+    },
+    {
+      "slug": "cho-gue-sung",
+      "display_name": "Cho Gue-sung",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1998-01-25",
+      "age": 28,
+      "caps": 42,
+      "goals": 10,
+      "club_from_squad_table": "Midtjylland",
+      "wikipedia_title": "Cho Gue-sung",
+      "wikidata_qid": "Q69696822",
+      "qid": "Q69696822",
+      "name": "Cho Gue-sung",
+      "description": "South Korean footballer",
+      "date_of_birth": "1998-01-25",
+      "place_of_birth_qid": "Q42117",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1833814",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q483152",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q104099625",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q618520",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q488454",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q543842",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q618520",
+      "image_filename": "191130 부산아이파크 VS FC안양 플레이오프, 조규성 2.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cho_Gue-sung",
+      "transfermarkt_id": "652537",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Midtjylland",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Ansan",
+      "wikidata_current_club": "FC Midtjylland",
+      "wikidata_current_club_qid": "Q618520",
+      "photo": {
+        "filename": "191130 부산아이파크 VS FC안양 플레이오프, 조규성 2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/191130_%EB%B6%80%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC_VS_FC%EC%95%88%EC%96%91_%ED%94%8C%EB%A0%88%EC%9D%B4%EC%98%A4%ED%94%84%2C_%EC%A1%B0%EA%B7%9C%EC%84%B1_2.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/191130_%EB%B6%80%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC_VS_FC%EC%95%88%EC%96%91_%ED%94%8C%EB%A0%88%EC%9D%B4%EC%98%A4%ED%94%84%2C_%EC%A1%B0%EA%B7%9C%EC%84%B1_2.jpg/960px-191130_%EB%B6%80%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC_VS_FC%EC%95%88%EC%96%91_%ED%94%8C%EB%A0%88%EC%9D%B4%EC%98%A4%ED%94%84%2C_%EC%A1%B0%EA%B7%9C%EC%84%B1_2.jpg",
+        "width": 1000,
+        "height": 1400,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Nori Picture",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/cho-gue-sung.jpg"
+      }
+    },
+    {
+      "slug": "oh-hyeon-gyu",
+      "display_name": "Oh Hyeon-gyu",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-04-12",
+      "age": 25,
+      "caps": 26,
+      "goals": 6,
+      "club_from_squad_table": "Beşiktaş",
+      "wikipedia_title": "Oh Hyeon-gyu",
+      "wikidata_qid": "Q63344470",
+      "qid": "Q63344470",
+      "name": "Oh Hyeon-gyu",
+      "description": "South Korean footballer",
+      "date_of_birth": "2001-04-12",
+      "place_of_birth_qid": "Q42084",
+      "citizenship_qids": [
+        "Q884"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q482449",
+          "start": "2019-00-00",
+          "end": "2023-01-00"
+        },
+        {
+          "team_qid": "Q19593",
+          "start": "2023-01-00",
+          "end": "2024-07-13"
+        },
+        {
+          "team_qid": "Q216032",
+          "start": "2024-07-14",
+          "end": "2026-02-04"
+        },
+        {
+          "team_qid": "Q172567",
+          "start": "2026-02-04",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q172567",
+      "image_filename": "오현규 2022년 카타르 월드컵.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oh_Hyeon-gyu",
+      "transfermarkt_id": "639246",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Beşiktaş",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "South Korea"
+      ],
+      "place_of_birth": "Namyangju",
+      "wikidata_current_club": "Beşiktaş J.K.",
+      "wikidata_current_club_qid": "Q172567",
+      "photo": {
+        "filename": "오현규 2022년 카타르 월드컵.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/%EC%98%A4%ED%98%84%EA%B7%9C_2022%EB%85%84_%EC%B9%B4%ED%83%80%EB%A5%B4_%EC%9B%94%EB%93%9C%EC%BB%B5.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/%EC%98%A4%ED%98%84%EA%B7%9C_2022%EB%85%84_%EC%B9%B4%ED%83%80%EB%A5%B4_%EC%9B%94%EB%93%9C%EC%BB%B5.jpg",
+        "width": 235,
+        "height": 308,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://m.youtube.com/@osensports7666\">OSEN SPORTS</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/oh-hyeon-gyu.jpg"
+      }
+    }
+  ]
+}

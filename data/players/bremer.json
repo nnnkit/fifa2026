@@ -1,0 +1,78 @@
+{
+  "slug": "bremer",
+  "display_name": "Bremer",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-03-18",
+  "age": 29,
+  "caps": 6,
+  "goals": 1,
+  "club_from_squad_table": "Juventus",
+  "wikipedia_title": "Gleison Bremer",
+  "date_of_birth": "1997-03-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Juventus",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q38693097",
+  "qid": "Q38693097",
+  "name": "Bremer",
+  "description": "Brazilian association football player",
+  "place_of_birth_qid": "Q583180",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q270995",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q2768",
+      "start": "2018-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1422",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1422",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gleison_Bremer",
+  "transfermarkt_id": "516716",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "Itapitanga",
+  "wikidata_current_club": "Juventus FC",
+  "wikidata_current_club_qid": "Q1422",
+  "image_filename": "Gleison_Bremer_with_Juventus_in_2024.webp",
+  "photo": {
+    "filename": "Gleison_Bremer_with_Juventus_in_2024.webp",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Gleison_Bremer_with_Juventus_in_2024.webp",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gleison_Bremer_with_Juventus_in_2024.webp/960px-Gleison_Bremer_with_Juventus_in_2024.webp.png",
+    "width": 1920,
+    "height": 1080,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Getty Images",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/bremer.webp"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

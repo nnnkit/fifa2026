@@ -1,0 +1,92 @@
+{
+  "slug": "tani-oluwaseyi",
+  "display_name": "Tani Oluwaseyi",
+  "shirt_no": 12,
+  "position_code": "FW",
+  "dob": "2000-05-15",
+  "age": 26,
+  "caps": 22,
+  "goals": 2,
+  "club_from_squad_table": "Villarreal",
+  "wikipedia_title": "Tani Oluwaseyi",
+  "wikidata_qid": "Q113564288",
+  "qid": "Q113564288",
+  "name": "Tani Oluwaseyi",
+  "description": "Nigerian-Canadian soccer player",
+  "date_of_birth": "2000-05-15",
+  "place_of_birth_qid": "Q3787",
+  "citizenship_qids": [
+    "Q1033"
+  ],
+  "height_cm": 188.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q65118858",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q19828435",
+      "start": "2022-00-00",
+      "end": "2025-08-29"
+    },
+    {
+      "team_qid": "Q110996637",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q22025437",
+      "start": "2023-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q208635",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q281705",
+      "start": "2019-05-00",
+      "end": "2019-07-00"
+    },
+    {
+      "team_qid": "Q12297",
+      "start": "2025-08-29",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q12297",
+  "image_filename": "Tani O (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tani_Oluwaseyi",
+  "transfermarkt_id": "972465",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Villarreal",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Nigeria"
+  ],
+  "place_of_birth": "Abuja",
+  "wikidata_current_club": "Villarreal CF",
+  "wikidata_current_club_qid": "Q12297",
+  "photo": {
+    "filename": "Tani O (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tani_O_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tani_O_%28cropped%29.jpg",
+    "width": 307,
+    "height": 389,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Robin Glover",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/tani-oluwaseyi.jpg"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

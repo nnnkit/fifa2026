@@ -1,0 +1,87 @@
+{
+  "slug": "cho-gue-sung",
+  "display_name": "Cho Gue-sung",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1998-01-25",
+  "age": 28,
+  "caps": 42,
+  "goals": 10,
+  "club_from_squad_table": "Midtjylland",
+  "wikipedia_title": "Cho Gue-sung",
+  "wikidata_qid": "Q69696822",
+  "qid": "Q69696822",
+  "name": "Cho Gue-sung",
+  "description": "South Korean footballer",
+  "date_of_birth": "1998-01-25",
+  "place_of_birth_qid": "Q42117",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 188.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1833814",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q483152",
+      "start": "2020-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q104099625",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q618520",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q488454",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q543842",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q618520",
+  "image_filename": "191130 부산아이파크 VS FC안양 플레이오프, 조규성 2.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cho_Gue-sung",
+  "transfermarkt_id": "652537",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Midtjylland",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "Ansan",
+  "wikidata_current_club": "FC Midtjylland",
+  "wikidata_current_club_qid": "Q618520",
+  "photo": {
+    "filename": "191130 부산아이파크 VS FC안양 플레이오프, 조규성 2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/191130_%EB%B6%80%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC_VS_FC%EC%95%88%EC%96%91_%ED%94%8C%EB%A0%88%EC%9D%B4%EC%98%A4%ED%94%84%2C_%EC%A1%B0%EA%B7%9C%EC%84%B1_2.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/191130_%EB%B6%80%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC_VS_FC%EC%95%88%EC%96%91_%ED%94%8C%EB%A0%88%EC%9D%B4%EC%98%A4%ED%94%84%2C_%EC%A1%B0%EA%B7%9C%EC%84%B1_2.jpg/960px-191130_%EB%B6%80%EC%82%B0%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC_VS_FC%EC%95%88%EC%96%91_%ED%94%8C%EB%A0%88%EC%9D%B4%EC%98%A4%ED%94%84%2C_%EC%A1%B0%EA%B7%9C%EC%84%B1_2.jpg",
+    "width": 1000,
+    "height": 1400,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Nori Picture",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/cho-gue-sung.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

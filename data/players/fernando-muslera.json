@@ -1,0 +1,99 @@
+{
+  "slug": "fernando-muslera",
+  "display_name": "Fernando Muslera",
+  "shirt_no": 23,
+  "position_code": "GK",
+  "dob": "1986-06-16",
+  "age": 39,
+  "caps": 134,
+  "goals": 0,
+  "club_from_squad_table": "Estudiantes",
+  "wikipedia_title": "Fernando Muslera",
+  "date_of_birth": "1986-06-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Estudiantes",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q203749",
+  "qid": "Q203749",
+  "name": "Fernando Muslera",
+  "description": "Uruguayan footballer",
+  "place_of_birth_qid": "Q1486",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 191.0,
+  "weight_kg": 74.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q499616",
+      "start": "2006-01-01",
+      "end": "2007-01-01"
+    },
+    {
+      "team_qid": "Q2609",
+      "start": "2007-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q872702",
+      "start": "2004-01-01",
+      "end": "2007-00-00"
+    },
+    {
+      "team_qid": "Q495299",
+      "start": "2011-01-01",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q134916",
+      "start": "2009-01-01",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q3589858",
+      "start": "2002-01-01",
+      "end": "2003-01-01"
+    },
+    {
+      "team_qid": "Q2442864",
+      "start": "2005-01-01",
+      "end": "2005-01-01"
+    },
+    {
+      "team_qid": "Q214940",
+      "start": "2025-06-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q214940",
+  "image_filename": "Fernando Muslera in 2021.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fernando_Muslera",
+  "transfermarkt_id": "58088",
+  "fifa_player_id": "229498",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Buenos Aires",
+  "wikidata_current_club": "Estudiantes de La Plata",
+  "wikidata_current_club_qid": "Q214940",
+  "photo": {
+    "filename": "Fernando Muslera in 2021.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Fernando_Muslera_in_2021.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Fernando_Muslera_in_2021.jpg",
+    "width": 928,
+    "height": 1148,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u043d\u0430 \u041d\u044d\u0441\u0441\u0438",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/fernando-muslera.jpg"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

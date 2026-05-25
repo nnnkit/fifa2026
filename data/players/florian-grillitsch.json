@@ -1,0 +1,114 @@
+{
+  "slug": "florian-grillitsch",
+  "display_name": "Florian Grillitsch",
+  "shirt_no": 10,
+  "position_code": "MF",
+  "dob": "1995-08-07",
+  "age": 30,
+  "caps": 58,
+  "goals": 1,
+  "club_from_squad_table": "Braga",
+  "wikipedia_title": "Florian Grillitsch",
+  "date_of_birth": "1995-08-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Braga",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20752635",
+  "qid": "Q20752635",
+  "name": "Florian Grillitsch",
+  "description": "Austrian association football player",
+  "place_of_birth_qid": "Q265948",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 186.0,
+  "weight_kg": 73.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q51976",
+      "start": "2015-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q4107588",
+      "start": "2013-01-01",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q302977",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q302967",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q303033",
+      "start": "2014-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q163534",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q22707",
+      "start": "2017-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q81888",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q22707",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q10319",
+      "start": "2025-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q75684",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q75684",
+  "image_filename": "20180602 AUTGER 4687 (cropped) Florian Grillitsch.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Florian_Grillitsch",
+  "transfermarkt_id": "195736",
+  "fifa_player_id": "385248",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Neunkirchen",
+  "wikidata_current_club": "S.C. Braga",
+  "wikidata_current_club_qid": "Q75684",
+  "photo": {
+    "filename": "20180602 AUTGER 4687 (cropped) Florian Grillitsch.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/20180602_AUTGER_4687_%28cropped%29_Florian_Grillitsch.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/20180602_AUTGER_4687_%28cropped%29_Florian_Grillitsch.jpg",
+    "width": 425,
+    "height": 425,
+    "license": "CC BY-SA 3.0 at",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ailura\" title=\"User:Ailura\">Ailura</a>, Derivative work by Bayernfan2003",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/florian-grillitsch.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

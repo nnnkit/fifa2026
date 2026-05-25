@@ -1,0 +1,97 @@
+{
+  "slug": "maxim-de-cuyper",
+  "display_name": "Maxim De Cuyper",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-12-22",
+  "age": 25,
+  "caps": 17,
+  "goals": 4,
+  "club_from_squad_table": "Brighton & Hove Albion",
+  "wikipedia_title": "Maxim De Cuyper",
+  "date_of_birth": "2000-12-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Brighton & Hove Albion",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q85928265",
+  "qid": "Q85928265",
+  "name": "Maxim De Cuyper",
+  "description": "Belgian association football player (born 2000)",
+  "place_of_birth_qid": "Q12988",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 1.82,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q190916",
+      "start": "2020-01-01",
+      "end": "2025-07-05"
+    },
+    {
+      "team_qid": "Q849544",
+      "start": "2021-08-02",
+      "end": "2023-06-30"
+    },
+    {
+      "team_qid": "Q23674710",
+      "start": "2016-04-00",
+      "end": "2016-04-00"
+    },
+    {
+      "team_qid": "Q3589896",
+      "start": "2018-10-00",
+      "end": "2018-10-00"
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2022-09-00",
+      "end": "2023-06-27"
+    },
+    {
+      "team_qid": "Q101625593",
+      "start": "2020-07-01",
+      "end": "2021-04-24"
+    },
+    {
+      "team_qid": "Q166776",
+      "start": "2024-06-05",
+      "end": null
+    },
+    {
+      "team_qid": "Q19453",
+      "start": "2025-07-05",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19453",
+  "image_filename": "Maxim De Cuyper USMNT v Belgium Mar 28 2026-79 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Maxim_De_Cuyper",
+  "transfermarkt_id": "429915",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Knokke-Heist",
+  "wikidata_current_club": "Brighton & Hove Albion F.C.",
+  "wikidata_current_club_qid": "Q19453",
+  "photo": {
+    "filename": "Maxim De Cuyper USMNT v Belgium Mar 28 2026-79 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Maxim_De_Cuyper_USMNT_v_Belgium_Mar_28_2026-79_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Maxim_De_Cuyper_USMNT_v_Belgium_Mar_28_2026-79_%28cropped%29.jpg/960px-Maxim_De_Cuyper_USMNT_v_Belgium_Mar_28_2026-79_%28cropped%29.jpg",
+    "width": 3331,
+    "height": 4439,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/maxim-de-cuyper.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

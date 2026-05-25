@@ -1,0 +1,87 @@
+{
+  "slug": "simon-adingra",
+  "display_name": "Simon Adingra",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2002-01-01",
+  "age": 24,
+  "caps": 28,
+  "goals": 5,
+  "club_from_squad_table": "Monaco",
+  "wikipedia_title": "Simon Adingra",
+  "date_of_birth": "2002-01-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Monaco",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q107742783",
+  "qid": "Q107742783",
+  "name": "Simon Adingra",
+  "description": "Ivorian association football player (born 2002)",
+  "place_of_birth_qid": "Q3768",
+  "citizenship_qids": [
+    "Q1008"
+  ],
+  "height_cm": 1.75,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19453",
+      "start": "2022-07-01",
+      "end": "2025-07-00"
+    },
+    {
+      "team_qid": "Q210025",
+      "start": "2020-01-00",
+      "end": "2022-07-00"
+    },
+    {
+      "team_qid": "Q196160",
+      "start": "2022-07-04",
+      "end": "2023-06-00"
+    },
+    {
+      "team_qid": "Q18739",
+      "start": "2025-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q180305",
+      "start": "2026-02-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q175145",
+      "start": "2023-06-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q180305",
+  "image_filename": "Simon Adingra USG 2023.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Simon_Adingra",
+  "transfermarkt_id": "658536",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Ivory Coast"
+  ],
+  "place_of_birth": "Yamoussoukro",
+  "wikidata_current_club": "AS Monaco FC",
+  "wikidata_current_club_qid": "Q180305",
+  "photo": {
+    "filename": "Simon Adingra USG 2023.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Simon_Adingra_USG_2023.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Simon_Adingra_USG_2023.jpg",
+    "width": 745,
+    "height": 1375,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sidney.Cortez&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sidney.Cortez (page does not exist)\">Sidney.Cortez</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/simon-adingra.jpg"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

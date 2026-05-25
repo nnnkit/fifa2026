@@ -1,0 +1,52 @@
+{
+  "slug": "agustín-giay",
+  "display_name": "Agustín Giay",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2004-01-16",
+  "age": 22,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Palmeiras",
+  "wikipedia_title": "Agustín Giay",
+  "wikidata_qid": "Q112854266",
+  "qid": "Q112854266",
+  "name": "Agustín Giay",
+  "description": "Argentine footballer",
+  "date_of_birth": "2004-01-16",
+  "place_of_birth_qid": "Q2261100",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q193592"
+  ],
+  "image_filename": "Entrenamiento Argentina Sub20 previo al mundial - BugWarp (36).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Giay",
+  "transfermarkt_id": "849582",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "San Carlos Centro",
+  "current_club": "Palmeiras",
+  "current_club_source": "wikipedia-squad-table",
+  "photo": {
+    "filename": "Entrenamiento Argentina Sub20 previo al mundial - BugWarp (36).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Entrenamiento_Argentina_Sub20_previo_al_mundial_-_BugWarp_%2836%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Entrenamiento_Argentina_Sub20_previo_al_mundial_-_BugWarp_%2836%29.jpg/960px-Entrenamiento_Argentina_Sub20_previo_al_mundial_-_BugWarp_%2836%29.jpg",
+    "width": 3728,
+    "height": 5600,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:BugWarp\" title=\"User:BugWarp\">BugWarp</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/agustín-giay.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "rodrigo-aguirre",
+  "display_name": "Rodrigo Aguirre",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1994-10-01",
+  "age": 31,
+  "caps": 10,
+  "goals": 3,
+  "club_from_squad_table": "UANL",
+  "wikipedia_title": "Rodrigo Aguirre",
+  "date_of_birth": "1994-10-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "UANL",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q2070073",
+  "qid": "Q2070073",
+  "name": "Rodrigo Aguirre",
+  "description": "Uruguayan footballer",
+  "place_of_birth_qid": "Q1335",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 186.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q6703",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q2798",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q16344",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3589858",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q2442864",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1131189",
+      "start": "2011-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q2798",
+      "start": "2015-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q3589858",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2442864",
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q249648",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q16320",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q849823",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q849823",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rodrigo_Aguirre",
+  "transfermarkt_id": "189410",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Montevideo",
+  "wikidata_current_club": "Tigres UANL",
+  "wikidata_current_club_qid": "Q849823",
+  "team_slug": "uruguay",
+  "team_country": "Uruguay",
+  "image_filename": "Rodrigo Aguirre.png",
+  "photo": {
+    "filename": "Rodrigo Aguirre.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Rodrigo_Aguirre.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Rodrigo_Aguirre.png",
+    "width": 406,
+    "height": 541,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@elpelucheenelestuche\">PelucheEn ElEstuche</a>",
+    "source": "commons-verified",
+    "local_path": "data/photos/rodrigo-aguirre.png"
+  }
+}

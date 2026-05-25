@@ -1,0 +1,91 @@
+{
+  "slug": "junya-it\u014d",
+  "display_name": "Junya It\u014d",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1993-03-09",
+  "age": 33,
+  "caps": 68,
+  "goals": 15,
+  "club_from_squad_table": "Genk",
+  "wikipedia_title": "Junya It\u014d",
+  "date_of_birth": "1993-03-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Genk",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21913126",
+  "qid": "Q21913126",
+  "name": "Junya It\u014d",
+  "description": "Japanese association football player (born 1993)",
+  "place_of_birth_qid": "Q200578",
+  "citizenship_qids": [
+    "Q17"
+  ],
+  "height_cm": 176.0,
+  "weight_kg": 68.0,
+  "position_qids": [
+    "Q280658",
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q844931",
+      "start": "2016-00-00",
+      "end": "2020-06-00"
+    },
+    {
+      "team_qid": "Q170566",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1061696",
+      "start": "2015-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q216032",
+      "start": "2019-01-00",
+      "end": "2020-06-00"
+    },
+    {
+      "team_qid": "Q216032",
+      "start": "2020-07-00",
+      "end": "2022-07-00"
+    },
+    {
+      "team_qid": "Q208228",
+      "start": "2022-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q208228",
+  "image_filename": "FC Salzburg gegen KRC Genk (UEFA Championsleague 17. September 2019) 12.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Junya_It%C5%8D",
+  "transfermarkt_id": "348791",
+  "uefa_player_id": "13980",
+  "positions": [
+    "forward",
+    "winger"
+  ],
+  "citizenship": [
+    "Japan"
+  ],
+  "place_of_birth": "Yokosuka",
+  "wikidata_current_club": "Stade de Reims",
+  "wikidata_current_club_qid": "Q208228",
+  "photo": {
+    "filename": "FC Salzburg gegen KRC Genk (UEFA Championsleague 17. September 2019) 12.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/FC_Salzburg_gegen_KRC_Genk_%28UEFA_Championsleague_17._September_2019%29_12.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/FC_Salzburg_gegen_KRC_Genk_%28UEFA_Championsleague_17._September_2019%29_12.jpg/960px-FC_Salzburg_gegen_KRC_Genk_%28UEFA_Championsleague_17._September_2019%29_12.jpg",
+    "width": 1018,
+    "height": 2250,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/junya-it\u014d.jpg"
+  },
+  "team_slug": "japan",
+  "team_country": "Japan"
+}

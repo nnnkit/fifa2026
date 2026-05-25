@@ -1,0 +1,79 @@
+{
+  "slug": "cucho-hern\u00e1ndez",
+  "display_name": "Cucho Hern\u00e1ndez",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1999-04-20",
+  "age": 27,
+  "caps": 7,
+  "goals": 2,
+  "club_from_squad_table": "Real Betis",
+  "wikipedia_title": "Cucho Hern\u00e1ndez",
+  "date_of_birth": "1999-04-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Betis",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27037962",
+  "qid": "Q27037962",
+  "name": "Cucho Hern\u00e1ndez",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q51111",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 1.75,
+  "weight_kg": 73.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q515178",
+      "start": "2015-07-01",
+      "end": "2017-01-01"
+    },
+    {
+      "team_qid": "Q391987",
+      "start": "2017-01-02",
+      "end": "2017-06-30"
+    },
+    {
+      "team_qid": "Q11971",
+      "start": "2017-07-08",
+      "end": "2019-06-30"
+    },
+    {
+      "team_qid": "Q2714",
+      "start": "2017-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2714",
+  "image_filename": "Hernandez Cucho Columbus Crew Meet the Team 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cucho_Hern%C3%A1ndez",
+  "transfermarkt_id": "459463",
+  "wikidata_date_of_birth": "1999-04-22",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Pereira",
+  "wikidata_current_club": "Watford F.C.",
+  "wikidata_current_club_qid": "Q2714",
+  "photo": {
+    "filename": "Hernandez Cucho Columbus Crew Meet the Team 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Hernandez_Cucho_Columbus_Crew_Meet_the_Team_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hernandez_Cucho_Columbus_Crew_Meet_the_Team_2022.jpg/960px-Hernandez_Cucho_Columbus_Crew_Meet_the_Team_2022.jpg",
+    "width": 2605,
+    "height": 3305,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jay_eyem&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jay eyem (page does not exist)\">Jay eyem</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/cucho-hern\u00e1ndez.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

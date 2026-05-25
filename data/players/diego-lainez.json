@@ -1,0 +1,63 @@
+{
+  "slug": "diego-lainez",
+  "display_name": "Diego Lainez",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2000-06-09",
+  "age": 26,
+  "caps": 33,
+  "goals": 3,
+  "club_from_squad_table": "UANL",
+  "wikipedia_title": "Diego Lainez",
+  "wikidata_qid": "Q28861970",
+  "qid": "Q28861970",
+  "name": "Diego Lainez",
+  "description": "Mexican footballer",
+  "date_of_birth": "2000-06-09",
+  "place_of_birth_qid": "Q210886",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 1.68,
+  "weight_kg": 58.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q75684",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q75684",
+  "image_filename": "Diego lainez 2.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_Lainez",
+  "transfermarkt_id": "371174",
+  "fifa_player_id": "406138",
+  "current_club": "UANL",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Villahermosa",
+  "wikidata_current_club": "S.C. Braga",
+  "wikidata_current_club_qid": "Q75684",
+  "photo": {
+    "filename": "Diego lainez 2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Diego_lainez_2.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Diego_lainez_2.jpg",
+    "width": 810,
+    "height": 790,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UC3D3rXIt1zy-TC_wJ3V8Z_w\">Selección Nacional de México</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/diego-lainez.jpg"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

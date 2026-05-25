@@ -1,0 +1,92 @@
+{
+  "slug": "chris-brady",
+  "display_name": "Chris Brady",
+  "shirt_no": 26,
+  "position_code": "GK",
+  "dob": "2004-03-03",
+  "age": 22,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Chicago Fire",
+  "wikipedia_title": "Chris Brady (soccer)",
+  "date_of_birth": "2004-03-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Chicago Fire",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q98594864",
+  "qid": "Q98594864",
+  "name": "Chris Brady",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q243007",
+  "citizenship_qids": [
+    "Q30"
+  ],
+  "height_cm": 190.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q111195530",
+      "start": "2022-04-00",
+      "end": "2022-09-00"
+    },
+    {
+      "team_qid": "Q308683",
+      "start": "2020-03-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q60745055",
+      "start": "2020-08-00",
+      "end": "2020-10-00"
+    },
+    {
+      "team_qid": "Q60745055",
+      "start": "2021-06-13",
+      "end": "2021-06-13"
+    },
+    {
+      "team_qid": "Q48854677",
+      "start": "2019-08-00",
+      "end": "2019-08-00"
+    },
+    {
+      "team_qid": "Q287804",
+      "start": "2022-03-00",
+      "end": "2022-07-00"
+    },
+    {
+      "team_qid": "Q3590572",
+      "start": "2023-10-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q308683",
+  "image_filename": "Chris Brady Philadelphia Chicago 10.26.25-026 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Brady_(soccer)",
+  "transfermarkt_id": "765504",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "United States"
+  ],
+  "place_of_birth": "Naperville",
+  "wikidata_current_club": "Chicago Fire FC",
+  "wikidata_current_club_qid": "Q308683",
+  "photo": {
+    "filename": "Chris Brady Philadelphia Chicago 10.26.25-026 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Chris_Brady_Philadelphia_Chicago_10.26.25-026_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Chris_Brady_Philadelphia_Chicago_10.26.25-026_%28cropped%29.jpg/960px-Chris_Brady_Philadelphia_Chicago_10.26.25-026_%28cropped%29.jpg",
+    "width": 3085,
+    "height": 4111,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/chris-brady.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "aidan-morris",
+  "display_name": "Aidan Morris",
+  "shirt_no": 23,
+  "position_code": "MF",
+  "dob": "2001-11-16",
+  "age": 24,
+  "caps": 14,
+  "goals": 0,
+  "club_from_squad_table": "Middlesbrough",
+  "wikipedia_title": "Aidan Morris",
+  "date_of_birth": "2001-11-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Middlesbrough",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q80212149",
+  "qid": "Q80212149",
+  "name": "Aidan Morris",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q165972",
+  "citizenship_qids": [
+    "Q30"
+  ],
+  "height_cm": 175.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q457163",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q92066891",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q7892564",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q287804",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q16820514",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q457163",
+  "image_filename": "Morris Aidan Columbus Crew Meet the Team 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aidan_Morris",
+  "transfermarkt_id": "513968",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United States"
+  ],
+  "place_of_birth": "Fort Lauderdale",
+  "wikidata_current_club": "Columbus Crew",
+  "wikidata_current_club_qid": "Q457163",
+  "photo": {
+    "filename": "Morris Aidan Columbus Crew Meet the Team 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Morris_Aidan_Columbus_Crew_Meet_the_Team_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Morris_Aidan_Columbus_Crew_Meet_the_Team_2022.jpg/960px-Morris_Aidan_Columbus_Crew_Meet_the_Team_2022.jpg",
+    "width": 2558,
+    "height": 2746,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jay_eyem&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jay eyem (page does not exist)\">Jay eyem</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/aidan-morris.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

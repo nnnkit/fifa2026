@@ -1,0 +1,81 @@
+{
+  "slug": "mohannad-abu-taha",
+  "display_name": "Mohannad Abu Taha",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2003-02-02",
+  "age": 23,
+  "caps": 27,
+  "goals": 1,
+  "club_from_squad_table": "Al-Quwa Al-Jawiya",
+  "wikipedia_title": "Mohannad Abu Taha",
+  "date_of_birth": "2003-02-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Quwa Al-Jawiya",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q124397380",
+  "qid": "Q124397380",
+  "name": "Mohannad Abu Taha",
+  "description": "Jordanian footballer",
+  "place_of_birth_qid": "Q3805",
+  "citizenship_qids": [
+    "Q810"
+  ],
+  "height_cm": 177.0,
+  "position_qids": [
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q285649",
+      "start": "2021-01-00",
+      "end": "2024-08-00"
+    },
+    {
+      "team_qid": "Q584719",
+      "start": "2024-08-00",
+      "end": "2025-08-00"
+    },
+    {
+      "team_qid": "Q722534",
+      "start": "2025-01-00",
+      "end": "2025-06-00"
+    },
+    {
+      "team_qid": "Q285510",
+      "start": "2025-08-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q6277196",
+      "start": "2022-09-00",
+      "end": "2023-03-00"
+    },
+    {
+      "team_qid": "Q11144859",
+      "start": "2021-10-00",
+      "end": "2024-04-00"
+    },
+    {
+      "team_qid": "Q275940",
+      "start": "2023-10-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q285510",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohannad_Abu_Taha",
+  "transfermarkt_id": "883111",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "Jordan"
+  ],
+  "place_of_birth": "Amman",
+  "team_slug": "jordan",
+  "team_country": "Jordan",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "riyad-mahrez",
+  "display_name": "Riyad Mahrez",
+  "shirt_no": 7,
+  "position_code": "FW",
+  "dob": "1991-02-21",
+  "age": 35,
+  "caps": 113,
+  "goals": 38,
+  "club_from_squad_table": "Al-Ahli",
+  "wikipedia_title": "Riyad Mahrez",
+  "date_of_birth": "1991-02-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Ahli",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q8338725",
+  "qid": "Q8338725",
+  "name": "Riyad Mahrez",
+  "description": "Algerian-French footballer (born 1991)",
+  "place_of_birth_qid": "Q201982",
+  "citizenship_qids": [
+    "Q262",
+    "Q142"
+  ],
+  "height_cm": 181.0,
+  "weight_kg": 66.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q328658",
+      "start": "2011-00-00",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q181903",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q19481",
+      "start": "2014-01-11",
+      "end": "2018-07-10"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2018-07-10",
+      "end": "2023-07-28"
+    },
+    {
+      "team_qid": "Q1431996",
+      "start": "2009-00-00",
+      "end": "2010-00-00"
+    },
+    {
+      "team_qid": "Q44441",
+      "start": "2023-07-28",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q44441",
+  "image_filename": "Mahrez 2021.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Riyad_Mahrez",
+  "transfermarkt_id": "171424",
+  "fifa_player_id": "379942",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Algeria",
+    "France"
+  ],
+  "place_of_birth": "Clichy",
+  "wikidata_current_club": "Al Ahli FC",
+  "wikidata_current_club_qid": "Q44441",
+  "photo": {
+    "filename": "Mahrez 2021.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Mahrez_2021.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Mahrez_2021.jpg",
+    "width": 639,
+    "height": 1162,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeanpierrekepseu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeanpierrekepseu (page does not exist)\">Jeanpierrekepseu</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/riyad-mahrez.jpg"
+  },
+  "team_slug": "algeria",
+  "team_country": "Algeria"
+}

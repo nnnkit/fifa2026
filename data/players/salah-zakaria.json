@@ -1,0 +1,68 @@
+{
+  "slug": "salah-zakaria",
+  "display_name": "Salah Zakaria",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1999-04-24",
+  "age": 27,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "Al-Duhail",
+  "wikipedia_title": "Salah Zakaria",
+  "date_of_birth": "1999-04-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Duhail",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q95680243",
+  "qid": "Q95680243",
+  "name": "Salah Zakaria",
+  "description": "Qatari footballer",
+  "place_of_birth_qid": "Q846",
+  "citizenship_qids": [
+    "Q846"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q284281",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q1056948",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q428211",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1056948",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Salah_Zakaria",
+  "transfermarkt_id": "632912",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Qatar"
+  ],
+  "place_of_birth": "Qatar",
+  "wikidata_current_club": "Al-Duhail SC",
+  "wikidata_current_club_qid": "Q1056948",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

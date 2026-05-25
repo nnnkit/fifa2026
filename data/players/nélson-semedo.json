@@ -1,0 +1,94 @@
+{
+  "slug": "n\u00e9lson-semedo",
+  "display_name": "N\u00e9lson Semedo",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1993-11-16",
+  "age": 32,
+  "caps": 48,
+  "goals": 0,
+  "club_from_squad_table": "Fenerbah\u00e7e",
+  "wikipedia_title": "N\u00e9lson Semedo",
+  "date_of_birth": "1993-11-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Fenerbah\u00e7e",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16235823",
+  "qid": "Q16235823",
+  "name": "N\u00e9lson Semedo",
+  "description": "Portuguese association football player (born 1993)",
+  "place_of_birth_qid": "Q597",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 177.0,
+  "weight_kg": 65.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q7387221",
+      "start": "2012-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q176099",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q131499",
+      "start": "2015-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q267245",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2017-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q19500",
+      "start": "2020-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q6601875",
+      "start": "2025-07-30",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q6601875",
+  "image_filename": "Mex-por-14 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/N%C3%A9lson_Semedo",
+  "transfermarkt_id": "231572",
+  "fifa_player_id": "395212",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Lisbon",
+  "wikidata_current_club": "Fenerbah\u00e7e Istanbul",
+  "wikidata_current_club_qid": "Q6601875",
+  "photo": {
+    "filename": "Mex-por-14 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Mex-por-14_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Mex-por-14_%28cropped%29.jpg",
+    "width": 351,
+    "height": 379,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0421\u0430\u0434\u043e\u0432\u043d\u0438\u043a\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/n\u00e9lson-semedo.jpg"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

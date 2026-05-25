@@ -1,0 +1,66 @@
+{
+  "slug": "jesús-gallardo",
+  "display_name": "Jesús Gallardo",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1994-08-15",
+  "age": 31,
+  "caps": 119,
+  "goals": 3,
+  "club_from_squad_table": "Toluca",
+  "wikipedia_title": "Jesús Gallardo",
+  "wikidata_qid": "Q22092356",
+  "qid": "Q22092356",
+  "name": "Jesús Gallardo",
+  "description": "Mexican association football player",
+  "date_of_birth": "1994-08-15",
+  "place_of_birth_qid": "Q1962471",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 177.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1143000",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q164089",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1143000",
+  "image_filename": "Mex-Kor (45).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Gallardo",
+  "transfermarkt_id": "344854",
+  "current_club": "Toluca",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Heroica Cárdenas",
+  "wikidata_current_club": "Pumas UNAM",
+  "wikidata_current_club_qid": "Q1143000",
+  "photo": {
+    "filename": "Mex-Kor (45).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Mex-Kor_%2845%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Mex-Kor_%2845%29.jpg",
+    "width": 744,
+    "height": 1200,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Светлана Бекетова",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jesús-gallardo.jpg"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

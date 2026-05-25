@@ -1,0 +1,3337 @@
+{
+  "slug": "mexico",
+  "country": "Mexico",
+  "wikidata_qid": "Q164089",
+  "fetched_at": "2026-05-24T13:12:06+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 55,
+  "players": [
+    {
+      "slug": "guillermo-ochoa",
+      "display_name": "Guillermo Ochoa",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1985-07-13",
+      "age": 40,
+      "caps": 151,
+      "goals": 0,
+      "club_from_squad_table": "AEL Limassol",
+      "wikipedia_title": "Guillermo Ochoa",
+      "wikidata_qid": "Q215522",
+      "qid": "Q215522",
+      "name": "Guillermo Ochoa",
+      "description": "Mexican association football player (born 1985)",
+      "date_of_birth": "1985-07-13",
+      "place_of_birth_qid": "Q9022",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q459090",
+          "start": "2003-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q270051",
+          "start": "2011-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q8857",
+          "start": "2014-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q164089",
+          "start": "2005-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1926260",
+          "start": "2004-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q8812",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q190561",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q459090",
+          "start": "2019-08-06",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q120775987",
+          "start": "2024-09-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q847587",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q291471",
+          "start": "2025-09-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q291471",
+      "image_filename": "Mex-Kor (1) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Guillermo_Ochoa",
+      "transfermarkt_id": "29559",
+      "fifa_player_id": "215285",
+      "current_club": "AEL Limassol",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Guadalajara",
+      "wikidata_current_club": "AEL Limassol FC",
+      "wikidata_current_club_qid": "Q291471",
+      "photo": {
+        "filename": "Mex-Kor (1) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Mex-Kor_%281%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Mex-Kor_%281%29_%28cropped%29.jpg",
+        "width": 687,
+        "height": 882,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Светлана Бекетова",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/guillermo-ochoa.jpg"
+      }
+    },
+    {
+      "slug": "raúl-rangel",
+      "display_name": "Raúl Rangel",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2000-02-25",
+      "age": 26,
+      "caps": 12,
+      "goals": 0,
+      "club_from_squad_table": "Guadalajara",
+      "wikipedia_title": "Raúl Rangel (footballer)",
+      "wikidata_qid": "Q120753803",
+      "qid": "Q120753803",
+      "name": "José Raul Rangel",
+      "description": "Mexican footballer (born 2000)",
+      "date_of_birth": "2000-02-25",
+      "place_of_birth_qid": "Q1827286",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 191.0,
+      "position_qids": [
+        "Q172964"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Rangel_(footballer)",
+      "transfermarkt_id": "802855",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Zapotlán el Grande Municipality",
+      "current_club": "Guadalajara",
+      "current_club_source": "wikipedia-squad-table",
+      "image_filename": "Raúl_Rangel.png",
+      "photo": {
+        "filename": "Raúl_Rangel.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ra%C3%BAl_Rangel.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ra%C3%BAl_Rangel.png",
+        "width": 511,
+        "height": 638,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/raúl-rangel.png"
+      }
+    },
+    {
+      "slug": "carlos-acevedo",
+      "display_name": "Carlos Acevedo",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1996-04-19",
+      "age": 30,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Santos Laguna",
+      "wikipedia_title": "Carlos Acevedo",
+      "wikidata_qid": "Q26707107",
+      "qid": "Q26707107",
+      "name": "Carlos Acevedo",
+      "description": "Mexican association football player (b. 1996)",
+      "date_of_birth": "1996-04-19",
+      "place_of_birth_qid": "Q386991",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q745246",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q745246",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Acevedo",
+      "transfermarkt_id": "356042",
+      "current_club": "Santos Laguna",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Torreón",
+      "image_filename": "Carlos_Acevedo.png",
+      "photo": {
+        "filename": "Carlos_Acevedo.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Carlos_Acevedo.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Carlos_Acevedo.png",
+        "width": 498,
+        "height": 622,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/carlos-acevedo.png"
+      }
+    },
+    {
+      "slug": "josé-antonio-rodríguez",
+      "display_name": "José Antonio Rodríguez",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1992-07-04",
+      "age": 33,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Tijuana",
+      "wikipedia_title": "José Antonio Rodríguez (Mexican footballer)",
+      "wikidata_qid": "Q2625826",
+      "qid": "Q2625826",
+      "name": "José Antonio Rodríguez",
+      "description": "Mexican footballer",
+      "date_of_birth": "1992-07-04",
+      "place_of_birth_qid": "Q9022",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q503321",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1023235",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q386324",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q164334",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q1926260",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        }
+      ],
+      "current_club_qid": "Q503321",
+      "image_filename": "Jose de Jesus Corona Rodriguez.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Rodr%C3%ADguez_(Mexican_footballer)",
+      "transfermarkt_id": "131074",
+      "fifa_player_id": "307954",
+      "current_club": "Tijuana",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Guadalajara",
+      "wikidata_current_club": "C.D. Guadalajara",
+      "wikidata_current_club_qid": "Q503321",
+      "photo": {
+        "filename": "Jose de Jesus Corona Rodriguez.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Jose_de_Jesus_Corona_Rodriguez.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Jose_de_Jesus_Corona_Rodriguez.jpg",
+        "width": 856,
+        "height": 1328,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/ruidos_deportes/\">Los ruidos del deporte</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/josé-antonio-rodríguez.jpg"
+      }
+    },
+    {
+      "slug": "carlos-moreno",
+      "display_name": "Carlos Moreno",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1998-01-29",
+      "age": 28,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Pachuca",
+      "wikipedia_title": "Carlos Moreno (footballer, born 1998)",
+      "wikidata_qid": "Q106253726",
+      "qid": "Q106253726",
+      "name": "Carlos Moreno",
+      "description": "Mexican footballer",
+      "date_of_birth": "1998-01-29",
+      "place_of_birth_qid": "Q1619095",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 187.0,
+      "image_filename": "Carlos Agustín Moreno.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Moreno_(footballer,_born_1998)",
+      "transfermarkt_id": "661481",
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Tecomán",
+      "current_club": "Pachuca",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Carlos Agustín Moreno.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Carlos_Agust%C3%ADn_Moreno.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Carlos_Agust%C3%ADn_Moreno.png",
+        "width": 582,
+        "height": 727,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/carlos-moreno.png"
+      }
+    },
+    {
+      "slug": "alex-padilla",
+      "display_name": "Alex Padilla",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2003-09-01",
+      "age": 22,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Athletic Bilbao",
+      "wikipedia_title": "Alex Padilla (footballer)",
+      "wikidata_qid": "Q114271394",
+      "qid": "Q114271394",
+      "name": "Álex Padilla",
+      "description": "Mexican footballer (born 2003)",
+      "date_of_birth": "2003-09-01",
+      "place_of_birth_qid": "Q147774",
+      "citizenship_qids": [
+        "Q96",
+        "Q29"
+      ],
+      "height_cm": 1.9,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q727093",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q794970",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q913112",
+          "start": null,
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q8687",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q1926260",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q8687",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1143000",
+          "start": "2025-00-00",
+          "end": "2025-00-00"
+        }
+      ],
+      "current_club_qid": "Q8687",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Padilla_(footballer)",
+      "transfermarkt_id": "834483",
+      "current_club": "Athletic Bilbao",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Mexico",
+        "Spain"
+      ],
+      "place_of_birth": "Zarautz",
+      "wikidata_current_club": "Athletic Club",
+      "wikidata_current_club_qid": "Q8687",
+      "photo": {
+        "filename": "Álex Padilla Athletic Bilbao.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%C3%81lex_Padilla_Athletic_Bilbao.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%C3%81lex_Padilla_Athletic_Bilbao.jpg",
+        "width": 484,
+        "height": 742,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Harold9595959\" title=\"User:Harold9595959\">Harold9595959</a>",
+        "source": "manual-commons-verifier",
+        "local_path": "data/photos/alex-padilla.jpg"
+      }
+    },
+    {
+      "slug": "jesús-gallardo",
+      "display_name": "Jesús Gallardo",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1994-08-15",
+      "age": 31,
+      "caps": 119,
+      "goals": 3,
+      "club_from_squad_table": "Toluca",
+      "wikipedia_title": "Jesús Gallardo",
+      "wikidata_qid": "Q22092356",
+      "qid": "Q22092356",
+      "name": "Jesús Gallardo",
+      "description": "Mexican association football player",
+      "date_of_birth": "1994-08-15",
+      "place_of_birth_qid": "Q1962471",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1143000",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q164089",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1143000",
+      "image_filename": "Mex-Kor (45).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Gallardo",
+      "transfermarkt_id": "344854",
+      "current_club": "Toluca",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Heroica Cárdenas",
+      "wikidata_current_club": "Pumas UNAM",
+      "wikidata_current_club_qid": "Q1143000",
+      "photo": {
+        "filename": "Mex-Kor (45).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Mex-Kor_%2845%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Mex-Kor_%2845%29.jpg",
+        "width": 744,
+        "height": 1200,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Светлана Бекетова",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jesús-gallardo.jpg"
+      }
+    },
+    {
+      "slug": "césar-montes",
+      "display_name": "César Montes",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-02-24",
+      "age": 29,
+      "caps": 65,
+      "goals": 4,
+      "club_from_squad_table": "Lokomotiv Moscow",
+      "wikipedia_title": "César Montes",
+      "wikidata_qid": "Q20816441",
+      "qid": "Q20816441",
+      "name": "César Montes",
+      "description": "Mexican association football player",
+      "date_of_birth": "1997-02-24",
+      "place_of_birth_qid": "Q189138",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 191.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q768253",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q164089",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q768253",
+      "image_filename": "Coréia do Sul x México - Futebol masculino - Olimpíada Rio 2016 (28866553346) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Montes",
+      "transfermarkt_id": "387687",
+      "current_club": "Lokomotiv Moscow",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Hermosillo",
+      "wikidata_current_club": "Club de Fútbol Monterrey",
+      "wikidata_current_club_qid": "Q768253",
+      "photo": {
+        "filename": "Coréia do Sul x México - Futebol masculino - Olimpíada Rio 2016 (28866553346) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Cor%C3%A9ia_do_Sul_x_M%C3%A9xico_-_Futebol_masculino_-_Olimp%C3%ADada_Rio_2016_%2828866553346%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cor%C3%A9ia_do_Sul_x_M%C3%A9xico_-_Futebol_masculino_-_Olimp%C3%ADada_Rio_2016_%2828866553346%29_%28cropped%29.jpg/960px-Cor%C3%A9ia_do_Sul_x_M%C3%A9xico_-_Futebol_masculino_-_Olimp%C3%ADada_Rio_2016_%2828866553346%29_%28cropped%29.jpg",
+        "width": 1060,
+        "height": 1218,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/64586261@N02\">Agência Brasília</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/césar-montes.jpg"
+      }
+    },
+    {
+      "slug": "jorge-sánchez",
+      "display_name": "Jorge Sánchez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-12-10",
+      "age": 28,
+      "caps": 57,
+      "goals": 3,
+      "club_from_squad_table": "PAOK",
+      "wikipedia_title": "Jorge Sánchez (footballer, born 1997)",
+      "wikidata_qid": "Q24034870",
+      "qid": "Q24034870",
+      "name": "Jorge Sánchez Ramos",
+      "description": "Mexican association football player",
+      "date_of_birth": "1997-12-10",
+      "place_of_birth_qid": "Q386991",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q459090",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q164089",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q745246",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q81888",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q128446",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q845859",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q845859",
+      "image_filename": "Jorge Sánchez.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jorge_S%C3%A1nchez_(footballer,_born_1997)",
+      "transfermarkt_id": "356044",
+      "current_club": "PAOK",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Torreón",
+      "wikidata_current_club": "Cruz Azul",
+      "wikidata_current_club_qid": "Q845859",
+      "photo": {
+        "filename": "Jorge Sánchez.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Jorge_S%C3%A1nchez.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Jorge_S%C3%A1nchez.png",
+        "width": 810,
+        "height": 1060,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UC3D3rXIt1zy-TC_wJ3V8Z_w\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jorge-sánchez.png"
+      }
+    },
+    {
+      "slug": "johan-vásquez",
+      "display_name": "Johan Vásquez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-10-22",
+      "age": 27,
+      "caps": 44,
+      "goals": 1,
+      "club_from_squad_table": "Genoa",
+      "wikipedia_title": "Johan Vásquez (footballer, born 1998)",
+      "wikidata_qid": "Q39161128",
+      "qid": "Q39161128",
+      "name": "Johan Vázquez",
+      "description": "Mexican association football player (born 1998)",
+      "date_of_birth": "1998-10-22",
+      "place_of_birth_qid": "Q1001522",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 1.84,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q768253",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1143000",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q19878740",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2074",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2074",
+      "image_filename": "Johan Vásquez.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johan_V%C3%A1squez_(footballer,_born_1998)",
+      "transfermarkt_id": "532937",
+      "current_club": "Genoa",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Navojoa",
+      "wikidata_current_club": "Genoa CFC",
+      "wikidata_current_club_qid": "Q2074",
+      "photo": {
+        "filename": "Johan Vásquez.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Johan_V%C3%A1squez.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Johan_V%C3%A1squez.jpg",
+        "width": 635,
+        "height": 750,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UC3D3rXIt1zy-TC_wJ3V8Z_w\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/johan-vásquez.jpg"
+      }
+    },
+    {
+      "slug": "israel-reyes",
+      "display_name": "Israel Reyes",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-05-23",
+      "age": 26,
+      "caps": 32,
+      "goals": 2,
+      "club_from_squad_table": "América",
+      "wikipedia_title": "Israel Reyes",
+      "wikidata_qid": "Q107739233",
+      "qid": "Q107739233",
+      "name": "Israel Reyes",
+      "description": "Mexican association football player",
+      "date_of_birth": "2000-05-23",
+      "place_of_birth_qid": "Q2589446",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 1.79,
+      "position_qids": [
+        "Q280658"
+      ],
+      "image_filename": "Israel Reyes 2.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Israel_Reyes",
+      "transfermarkt_id": "687558",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Autlán de Navarro Municipality",
+      "current_club": "América",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Israel Reyes 2.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Israel_Reyes_2.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Israel_Reyes_2.png",
+        "width": 332,
+        "height": 415,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/israel-reyes.png"
+      }
+    },
+    {
+      "slug": "jesús-alberto-angulo",
+      "display_name": "Jesús Alberto Angulo",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-01-30",
+      "age": 28,
+      "caps": 19,
+      "goals": 0,
+      "club_from_squad_table": "UANL",
+      "wikipedia_title": "Jesús Alberto Angulo",
+      "wikidata_qid": "Q42909375",
+      "qid": "Q42909375",
+      "name": "Jesús Alberto Angulo",
+      "description": "Mexican association football player",
+      "date_of_birth": "1998-01-30",
+      "place_of_birth_qid": "Q211760",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 68.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q503321",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q503321",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Alberto_Angulo",
+      "transfermarkt_id": "312568",
+      "current_club": "UANL",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Culiacán",
+      "wikidata_current_club": "C.D. Guadalajara",
+      "wikidata_current_club_qid": "Q503321",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "julián-araujo",
+      "display_name": "Julián Araujo",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-08-13",
+      "age": 24,
+      "caps": 16,
+      "goals": 0,
+      "club_from_squad_table": "Celtic",
+      "wikipedia_title": "Julián Araujo",
+      "wikidata_qid": "Q57242266",
+      "qid": "Q57242266",
+      "name": "Julián Araujo",
+      "description": "Mexican-American association football player",
+      "date_of_birth": "2001-08-13",
+      "place_of_birth_qid": "Q852704",
+      "citizenship_qids": [
+        "Q30",
+        "Q96"
+      ],
+      "height_cm": 1.75,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q16842924",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q287804",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q204357",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590572",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q91906315",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q7892564",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        }
+      ],
+      "current_club_qid": "Q204357",
+      "image_filename": "D'esquerra a dreta, Julián Araujo i Marc Casadó, jugadors del FCBarcelona durant la gira de pretemporada a EUA. (05-08-2024) (cropped2).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Juli%C3%A1n_Araujo",
+      "transfermarkt_id": "513970",
+      "current_club": "Celtic",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "United States",
+        "Mexico"
+      ],
+      "place_of_birth": "Lompoc",
+      "wikidata_current_club": "LA Galaxy",
+      "wikidata_current_club_qid": "Q204357",
+      "photo": {
+        "filename": "D'esquerra a dreta, Julián Araujo i Marc Casadó, jugadors del FCBarcelona durant la gira de pretemporada a EUA. (05-08-2024) (cropped2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/D%27esquerra_a_dreta%2C_Juli%C3%A1n_Araujo_i_Marc_Casad%C3%B3%2C_jugadors_del_FCBarcelona_durant_la_gira_de_pretemporada_a_EUA._%2805-08-2024%29_%28cropped2%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/D%27esquerra_a_dreta%2C_Juli%C3%A1n_Araujo_i_Marc_Casad%C3%B3%2C_jugadors_del_FCBarcelona_durant_la_gira_de_pretemporada_a_EUA._%2805-08-2024%29_%28cropped2%29.jpg/960px-D%27esquerra_a_dreta%2C_Juli%C3%A1n_Araujo_i_Marc_Casad%C3%B3%2C_jugadors_del_FCBarcelona_durant_la_gira_de_pretemporada_a_EUA._%2805-08-2024%29_%28cropped2%29.jpg",
+        "width": 1744,
+        "height": 1991,
+        "license": "Attribution",
+        "license_url": null,
+        "attribution": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Executive_Council_of_Catalonia\" class=\"extiw\" title=\"w:en:Executive Council of Catalonia\"><span title=\"Main institution in Catalonia\">Government of Catalonia</span></a>\n</bdi>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/julián-araujo.jpg"
+      }
+    },
+    {
+      "slug": "mateo-chávez",
+      "display_name": "Mateo Chávez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-05-11",
+      "age": 22,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "AZ",
+      "wikipedia_title": "Mateo Chávez",
+      "wikidata_qid": "Q124420330",
+      "qid": "Q124420330",
+      "name": "Mateo Chávez",
+      "description": "Mexican footballer (born 2004)",
+      "date_of_birth": "2004-05-12",
+      "place_of_birth_qid": "Q81033",
+      "height_cm": 1.77,
+      "image_filename": "Mateo Chávez.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mateo_Ch%C3%A1vez",
+      "transfermarkt_id": "1066953",
+      "place_of_birth": "Monterrey",
+      "current_club": "AZ",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Mateo Chávez.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mateo_Ch%C3%A1vez.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mateo_Ch%C3%A1vez.png",
+        "width": 395,
+        "height": 494,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mateo-chávez.png"
+      },
+      "squad_table_date_of_birth": "2004-05-11",
+      "date_of_birth_source": "verified-wikipedia-player-page"
+    },
+    {
+      "slug": "víctor-guzmán",
+      "display_name": "Víctor Guzmán",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-03-07",
+      "age": 24,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Monterrey",
+      "wikipedia_title": "Víctor Guzmán (footballer, born 2002)",
+      "wikidata_qid": "Q85707677",
+      "qid": "Q85707677",
+      "name": "Víctor Guzmán",
+      "description": "Mexican association football player (born 2002)",
+      "date_of_birth": "2002-03-07",
+      "place_of_birth_qid": "Q124739",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1103168",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1103168",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%ADctor_Guzm%C3%A1n_(footballer,_born_2002)",
+      "transfermarkt_id": "686444",
+      "current_club": "Monterrey",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Tijuana",
+      "wikidata_current_club": "Club Tijuana",
+      "wikidata_current_club_qid": "Q1103168",
+      "image_filename": "2023_Leagues_Cup_-_Seattle_vs._Monterrey_-_Víctor_Guzmán.jpg",
+      "photo": {
+        "filename": "2023_Leagues_Cup_-_Seattle_vs._Monterrey_-_Víctor_Guzmán.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/2023_Leagues_Cup_-_Seattle_vs._Monterrey_-_V%C3%ADctor_Guzm%C3%A1n.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/2023_Leagues_Cup_-_Seattle_vs._Monterrey_-_V%C3%ADctor_Guzm%C3%A1n.jpg",
+        "width": 220,
+        "height": 322,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:SounderBruce\" title=\"User:SounderBruce\">SounderBruce</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/víctor-guzmán.jpg"
+      }
+    },
+    {
+      "slug": "richard-ledezma",
+      "display_name": "Richard Ledezma",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-09-06",
+      "age": 25,
+      "caps": 3,
+      "goals": 1,
+      "club_from_squad_table": "Guadalajara",
+      "wikipedia_title": "Richard Ledezma",
+      "wikidata_qid": "Q51841199",
+      "qid": "Q51841199",
+      "name": "Richard Ledezma",
+      "description": "Mexican association football player (born 2015)",
+      "date_of_birth": "2000-09-06",
+      "place_of_birth_qid": "Q16556",
+      "citizenship_qids": [
+        "Q30",
+        "Q96"
+      ],
+      "height_cm": 168.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18157619",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q13534332",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q287804",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590572",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q13534332",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Ledezma",
+      "transfermarkt_id": "575367",
+      "current_club": "Guadalajara",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United States",
+        "Mexico"
+      ],
+      "place_of_birth": "Phoenix",
+      "wikidata_current_club": "Jong PSV",
+      "wikidata_current_club_qid": "Q13534332",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "everardo-lópez",
+      "display_name": "Everardo López",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2005-03-23",
+      "age": 21,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Toluca",
+      "wikipedia_title": "Everardo López",
+      "wikidata_qid": "Q131348092",
+      "qid": "Q131348092",
+      "name": "Everardo del Villar",
+      "description": "Mexican footballer",
+      "date_of_birth": "2005-03-23",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 180.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Everardo_L%C3%B3pez",
+      "transfermarkt_id": "955303",
+      "citizenship": [
+        "Mexico"
+      ],
+      "current_club": "Toluca",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "eduardo-águila",
+      "display_name": "Eduardo Águila",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-05-17",
+      "age": 24,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Atlético San Luis",
+      "wikipedia_title": "Eduardo Águila",
+      "wikidata_qid": "Q116135400",
+      "qid": "Q116135400",
+      "name": "Eduardo Águila",
+      "description": "Mexican footballer",
+      "date_of_birth": "2002-05-17",
+      "place_of_birth_qid": "Q4410373",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 180.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eduardo_%C3%81guila",
+      "transfermarkt_id": "1035924",
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Ocotlán",
+      "current_club": "Atlético San Luis",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "denzell-garcía",
+      "display_name": "Denzell García",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-08-15",
+      "age": 22,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Juárez",
+      "wikipedia_title": "Denzell García",
+      "wikidata_qid": "Q114108975",
+      "qid": "Q114108975",
+      "name": "Denzell García",
+      "description": "Mexican footballer",
+      "date_of_birth": "2003-08-15",
+      "place_of_birth_qid": "Q752460",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 170.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Denzell_Garc%C3%ADa",
+      "transfermarkt_id": "997057",
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Los Mochis",
+      "current_club": "Juárez",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "alejandro-gómez",
+      "display_name": "Alejandro Gómez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-01-31",
+      "age": 24,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Tijuana",
+      "wikipedia_title": "Alejandro Gómez (Mexican footballer)",
+      "wikidata_qid": "Q75541322",
+      "qid": "Q75541322",
+      "name": "Jesús Gómez",
+      "description": "Mexican footballer (born 2002)",
+      "date_of_birth": "2002-01-31",
+      "place_of_birth_qid": "Q189138",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1023532",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q386324",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q6124180",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1023532",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1023532",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alejandro_G%C3%B3mez_(Mexican_footballer)",
+      "transfermarkt_id": "504104",
+      "current_club": "Tijuana",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Hermosillo",
+      "wikidata_current_club": "Atlas F.C.",
+      "wikidata_current_club_qid": "Q1023532",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "bryan-gonzález",
+      "display_name": "Bryan González",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-04-10",
+      "age": 23,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Guadalajara",
+      "wikipedia_title": "Bryan González (Mexican footballer)",
+      "wikidata_qid": "Q89828766",
+      "qid": "Q89828766",
+      "name": "Bryan González",
+      "description": "Mexican footballer",
+      "date_of_birth": "2003-04-10",
+      "place_of_birth_qid": "Q1643457",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 172.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bryan_Gonz%C3%A1lez_(Mexican_footballer)",
+      "transfermarkt_id": "704556",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Juárez Municipality",
+      "current_club": "Guadalajara",
+      "current_club_source": "wikipedia-squad-table",
+      "conflicting_date_of_birth": "2003-04-00",
+      "date_of_birth_source": "verified-wikipedia-squad-and-player-page",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ramón-juárez",
+      "display_name": "Ramón Juárez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-05-03",
+      "age": 25,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "América",
+      "wikipedia_title": "Ramón Juárez",
+      "wikidata_qid": "Q95696937",
+      "qid": "Q95696937",
+      "name": "Ramón Juárez",
+      "description": "Mexican footballer",
+      "date_of_birth": "2001-05-09",
+      "place_of_birth_qid": "Q1925390",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q459090",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q459090",
+      "image_filename": "Ramón Juárez.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Ju%C3%A1rez",
+      "transfermarkt_id": "699797",
+      "current_club": "América",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Rioverde",
+      "wikidata_current_club": "Club América",
+      "wikidata_current_club_qid": "Q459090",
+      "photo": {
+        "filename": "Ramón Juárez.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ram%C3%B3n_Ju%C3%A1rez.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ram%C3%B3n_Ju%C3%A1rez.png",
+        "width": 454,
+        "height": 605,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@elpelucheenelestuche\">PelucheEn ElEstuche</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ramón-juárez.png"
+      },
+      "squad_table_date_of_birth": "2001-05-03",
+      "date_of_birth_source": "verified-wikipedia-player-page"
+    },
+    {
+      "slug": "luis-rey",
+      "display_name": "Luis Rey",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-09-14",
+      "age": 23,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Puebla",
+      "wikipedia_title": "Luis Rey (footballer)",
+      "wikidata_qid": "Q129250971",
+      "qid": "Q129250971",
+      "name": "Luis Rey Mejía",
+      "description": "Mexican footballer (born 2002)",
+      "date_of_birth": "2002-09-14",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Rey_(footballer)",
+      "transfermarkt_id": "686445",
+      "current_club": "Puebla",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "edson-álvarez",
+      "display_name": "Edson Álvarez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-10-24",
+      "age": 28,
+      "caps": 96,
+      "goals": 7,
+      "club_from_squad_table": "Fenerbahçe",
+      "wikipedia_title": "Edson Álvarez",
+      "wikidata_qid": "Q27859514",
+      "qid": "Q27859514",
+      "name": "Edson Álvarez",
+      "description": "Mexican association football player",
+      "date_of_birth": "1997-10-24",
+      "place_of_birth_qid": "Q845307",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q18691898",
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q459090",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q164089",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q81888",
+          "start": "2019-07-19",
+          "end": "2023-08-10"
+        },
+        {
+          "team_qid": "Q18747",
+          "start": "2023-08-10",
+          "end": null
+        },
+        {
+          "team_qid": "Q6601875",
+          "start": "2025-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q6601875",
+      "image_filename": "Edson Álvarez.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Edson_%C3%81lvarez",
+      "transfermarkt_id": "401356",
+      "fifa_player_id": "400634",
+      "current_club": "Fenerbahçe",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defensive midfielder",
+        "centre-back"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Tlalnepantla de Baz Municipality",
+      "wikidata_current_club": "Fenerbahçe Istanbul",
+      "wikidata_current_club_qid": "Q6601875",
+      "photo": {
+        "filename": "Edson Álvarez.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Edson_%C3%81lvarez.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Edson_%C3%81lvarez.png",
+        "width": 609,
+        "height": 761,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/edson-álvarez.png"
+      }
+    },
+    {
+      "slug": "orbelín-pineda",
+      "display_name": "Orbelín Pineda",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-03-24",
+      "age": 30,
+      "caps": 90,
+      "goals": 12,
+      "club_from_squad_table": "AEK Athens",
+      "wikipedia_title": "Orbelín Pineda",
+      "wikidata_qid": "Q18224489",
+      "qid": "Q18224489",
+      "name": "Orbelín Pineda",
+      "description": "Mexican association football player",
+      "date_of_birth": "1996-03-24",
+      "place_of_birth_qid": "Q2448109",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 168.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q503321",
+          "start": "2016-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q606210",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q164334",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q164089",
+          "start": "2016-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q845859",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q8749",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q201584",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q201584",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q201584",
+      "image_filename": "Orbelín Pineda.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Orbel%C3%ADn_Pineda",
+      "transfermarkt_id": "334042",
+      "current_club": "AEK Athens",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Coyuca de Catalán Municipality",
+      "wikidata_current_club": "AEK Athens F.C.",
+      "wikidata_current_club_qid": "Q201584",
+      "photo": {
+        "filename": "Orbelín Pineda.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Orbel%C3%ADn_Pineda.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Orbel%C3%ADn_Pineda.png",
+        "width": 503,
+        "height": 629,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/orbelín-pineda.png"
+      }
+    },
+    {
+      "slug": "carlos-rodríguez",
+      "display_name": "Carlos Rodríguez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-01-03",
+      "age": 29,
+      "caps": 67,
+      "goals": 0,
+      "club_from_squad_table": "Cruz Azul",
+      "wikipedia_title": "Carlos Rodríguez (footballer, born 1997)",
+      "wikidata_qid": "Q60215828",
+      "qid": "Q60215828",
+      "name": "Carlos Alberto Rodríguez",
+      "description": "Mexican association football player",
+      "date_of_birth": "1997-01-03",
+      "place_of_birth_qid": "Q914055",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 1.71,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q768253",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q164089",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q768253",
+      "image_filename": "Charly Rodriguez.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Rodr%C3%ADguez_(footballer,_born_1997)",
+      "transfermarkt_id": "534620",
+      "current_club": "Cruz Azul",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "San Nicolás de los Garza",
+      "wikidata_current_club": "Club de Fútbol Monterrey",
+      "wikidata_current_club_qid": "Q768253",
+      "photo": {
+        "filename": "Charly Rodriguez.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Charly_Rodriguez.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Charly_Rodriguez.png",
+        "width": 574,
+        "height": 718,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@concacaf\">Concacaf</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/carlos-rodríguez.png"
+      }
+    },
+    {
+      "slug": "roberto-alvarado",
+      "display_name": "Roberto Alvarado",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-09-07",
+      "age": 27,
+      "caps": 66,
+      "goals": 5,
+      "club_from_squad_table": "Guadalajara",
+      "wikipedia_title": "Roberto Alvarado",
+      "wikidata_qid": "Q21004804",
+      "qid": "Q21004804",
+      "name": "Roberto Alvarado",
+      "description": "Mexican association football player",
+      "date_of_birth": "1998-09-07",
+      "place_of_birth_qid": "Q1801321",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 170.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q849823",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q164089",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q849823",
+      "image_filename": "Roberto Alvarado.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Roberto_Alvarado",
+      "transfermarkt_id": "353583",
+      "current_club": "Guadalajara",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Salamanca",
+      "wikidata_current_club": "Tigres UANL",
+      "wikidata_current_club_qid": "Q849823",
+      "photo": {
+        "filename": "Roberto Alvarado.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Roberto_Alvarado.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Roberto_Alvarado.png",
+        "width": 514,
+        "height": 643,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/roberto-alvarado.png"
+      }
+    },
+    {
+      "slug": "luis-romo",
+      "display_name": "Luis Romo",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1995-06-05",
+      "age": 31,
+      "caps": 61,
+      "goals": 4,
+      "club_from_squad_table": "Guadalajara",
+      "wikipedia_title": "Luis Romo",
+      "wikidata_qid": "Q56433831",
+      "qid": "Q56433831",
+      "name": "Luis Romo",
+      "description": "Mexican association football player",
+      "date_of_birth": "1995-06-05",
+      "place_of_birth_qid": "Q2015779",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 1.84,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q606210",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q606210",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Romo",
+      "transfermarkt_id": "532938",
+      "current_club": "Guadalajara",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Ahome Municipality",
+      "wikidata_current_club": "Querétaro F.C.",
+      "wikidata_current_club_qid": "Q606210",
+      "image_filename": "Luis_Romo.png",
+      "photo": {
+        "filename": "Luis_Romo.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Luis_Romo.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Luis_Romo.png",
+        "width": 624,
+        "height": 780,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/luis-romo.png"
+      }
+    },
+    {
+      "slug": "luis-chávez",
+      "display_name": "Luis Chávez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-01-15",
+      "age": 30,
+      "caps": 43,
+      "goals": 4,
+      "club_from_squad_table": "Dynamo Moscow",
+      "wikipedia_title": "Luis Chávez (footballer)",
+      "wikidata_qid": "Q22092264",
+      "qid": "Q22092264",
+      "name": "Luis Chávez",
+      "description": "Mexican association football player",
+      "date_of_birth": "1996-01-15",
+      "place_of_birth_qid": "Q2972384",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 1.77,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1103168",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q736937",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q17497",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1103168",
+      "image_filename": "Luis Chávez WC 2022 - 01.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Ch%C3%A1vez_(footballer)",
+      "transfermarkt_id": "331059",
+      "current_club": "Dynamo Moscow",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Cihuatlán",
+      "wikidata_current_club": "Club Tijuana",
+      "wikidata_current_club_qid": "Q1103168",
+      "photo": {
+        "filename": "Luis Chávez WC 2022 - 01.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Luis_Ch%C3%A1vez_WC_2022_-_01.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Luis_Ch%C3%A1vez_WC_2022_-_01.jpg",
+        "width": 720,
+        "height": 1165,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/luis-chávez.jpg"
+      }
+    },
+    {
+      "slug": "érick-sánchez",
+      "display_name": "Érick Sánchez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1999-09-27",
+      "age": 26,
+      "caps": 38,
+      "goals": 3,
+      "club_from_squad_table": "América",
+      "wikipedia_title": "Érick Sánchez",
+      "wikidata_qid": "Q29033823",
+      "qid": "Q29033823",
+      "name": "Erick Sánchez",
+      "description": "Mexican association football player",
+      "date_of_birth": "1999-09-27",
+      "place_of_birth_qid": "Q2027082",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 1.67,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q736937",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q736937",
+      "image_filename": "Erick Sanchez.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89rick_S%C3%A1nchez",
+      "transfermarkt_id": "370875",
+      "fifa_player_id": "408094",
+      "current_club": "América",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Gustavo A. Madero",
+      "wikidata_current_club": "CF Pachuca",
+      "wikidata_current_club_qid": "Q736937",
+      "photo": {
+        "filename": "Erick Sanchez.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Erick_Sanchez.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Erick_Sanchez.png",
+        "width": 376,
+        "height": 470,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/érick-sánchez.png"
+      }
+    },
+    {
+      "slug": "diego-lainez",
+      "display_name": "Diego Lainez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-06-09",
+      "age": 26,
+      "caps": 33,
+      "goals": 3,
+      "club_from_squad_table": "UANL",
+      "wikipedia_title": "Diego Lainez",
+      "wikidata_qid": "Q28861970",
+      "qid": "Q28861970",
+      "name": "Diego Lainez",
+      "description": "Mexican footballer",
+      "date_of_birth": "2000-06-09",
+      "place_of_birth_qid": "Q210886",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 1.68,
+      "weight_kg": 58.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q75684",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q75684",
+      "image_filename": "Diego lainez 2.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_Lainez",
+      "transfermarkt_id": "371174",
+      "fifa_player_id": "406138",
+      "current_club": "UANL",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Villahermosa",
+      "wikidata_current_club": "S.C. Braga",
+      "wikidata_current_club_qid": "Q75684",
+      "photo": {
+        "filename": "Diego lainez 2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Diego_lainez_2.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Diego_lainez_2.jpg",
+        "width": 810,
+        "height": 790,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UC3D3rXIt1zy-TC_wJ3V8Z_w\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/diego-lainez.jpg"
+      }
+    },
+    {
+      "slug": "érik-lira",
+      "display_name": "Érik Lira",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-05-08",
+      "age": 26,
+      "caps": 23,
+      "goals": 0,
+      "club_from_squad_table": "Cruz Azul",
+      "wikipedia_title": "Érik Lira",
+      "wikidata_qid": "Q98593181",
+      "qid": "Q98593181",
+      "name": "Erik Lira",
+      "description": "Mexican footballer",
+      "date_of_birth": "2000-05-08",
+      "place_of_birth_qid": "Q645293",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 1.72,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Erik Lira.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89rik_Lira",
+      "transfermarkt_id": "602324",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Cuauhtémoc",
+      "current_club": "Cruz Azul",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Erik Lira.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Erik_Lira.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Erik_Lira.png",
+        "width": 355,
+        "height": 444,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/érik-lira.png"
+      }
+    },
+    {
+      "slug": "marcel-ruiz",
+      "display_name": "Marcel Ruiz",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-10-26",
+      "age": 25,
+      "caps": 17,
+      "goals": 0,
+      "club_from_squad_table": "Toluca",
+      "wikipedia_title": "Marcel Ruiz (footballer)",
+      "wikidata_qid": "Q56249783",
+      "qid": "Q56249783",
+      "name": "Marcel Ruiz",
+      "description": "Mexican footballer",
+      "date_of_birth": "2000-10-26",
+      "place_of_birth_qid": "Q165204",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q606210",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q606210",
+      "image_filename": "Marcel Ruiz.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marcel_Ruiz_(footballer)",
+      "transfermarkt_id": "597728",
+      "current_club": "Toluca",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Mérida",
+      "wikidata_current_club": "Querétaro F.C.",
+      "wikidata_current_club_qid": "Q606210",
+      "photo": {
+        "filename": "Marcel Ruiz.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Marcel_Ruiz.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Marcel_Ruiz.png",
+        "width": 540,
+        "height": 675,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marcel-ruiz.png"
+      }
+    },
+    {
+      "slug": "efraín-álvarez",
+      "display_name": "Efraín Álvarez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-06-19",
+      "age": 23,
+      "caps": 7,
+      "goals": 1,
+      "club_from_squad_table": "Guadalajara",
+      "wikipedia_title": "Efraín Álvarez",
+      "wikidata_qid": "Q41740468",
+      "qid": "Q41740468",
+      "name": "Efraín Álvarez",
+      "description": "Mexican association football player",
+      "date_of_birth": "2002-06-19",
+      "place_of_birth_qid": "Q65",
+      "citizenship_qids": [
+        "Q30",
+        "Q96"
+      ],
+      "height_cm": 1.73,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q16842924",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q204357",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q16842924",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q16842924",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q204357",
+      "image_filename": "Efraín Álvarez.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Efra%C3%ADn_%C3%81lvarez",
+      "transfermarkt_id": "504113",
+      "current_club": "Guadalajara",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United States",
+        "Mexico"
+      ],
+      "place_of_birth": "Los Angeles",
+      "wikidata_current_club": "LA Galaxy",
+      "wikidata_current_club_qid": "Q204357",
+      "photo": {
+        "filename": "Efraín Álvarez.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Efra%C3%ADn_%C3%81lvarez.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Efra%C3%ADn_%C3%81lvarez.png",
+        "width": 515,
+        "height": 643,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/efraín-álvarez.png"
+      }
+    },
+    {
+      "slug": "brian-gutiérrez",
+      "display_name": "Brian Gutiérrez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-06-17",
+      "age": 22,
+      "caps": 6,
+      "goals": 2,
+      "club_from_squad_table": "Guadalajara",
+      "wikipedia_title": "Brian Gutiérrez",
+      "wikidata_qid": "Q98536293",
+      "qid": "Q98536293",
+      "name": "Brian Gutiérrez",
+      "description": "Mexican-American soccer player",
+      "date_of_birth": "2003-06-17",
+      "place_of_birth_qid": "Q578072",
+      "citizenship_qids": [
+        "Q30",
+        "Q96"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Brian Gutiérrez Philadelphia Chicago 10.26.25-126 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Guti%C3%A9rrez",
+      "transfermarkt_id": "724443",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United States",
+        "Mexico"
+      ],
+      "place_of_birth": "Berwyn",
+      "current_club": "Guadalajara",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Brian Gutiérrez Philadelphia Chicago 10.26.25-126 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Brian_Guti%C3%A9rrez_Philadelphia_Chicago_10.26.25-126_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Brian_Guti%C3%A9rrez_Philadelphia_Chicago_10.26.25-126_%28cropped%29.jpg/960px-Brian_Guti%C3%A9rrez_Philadelphia_Chicago_10.26.25-126_%28cropped%29.jpg",
+        "width": 2295,
+        "height": 3059,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/brian-gutiérrez.jpg"
+      }
+    },
+    {
+      "slug": "gilberto-mora",
+      "display_name": "Gilberto Mora",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2008-10-14",
+      "age": 17,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Tijuana",
+      "wikipedia_title": "Gilberto Mora (footballer, born 2008)",
+      "wikidata_qid": "Q129652337",
+      "qid": "Q129652337",
+      "name": "Gilberto Mora",
+      "description": "Mexican footballer (born 2008)",
+      "date_of_birth": "2008-10-14",
+      "place_of_birth_qid": "Q207429",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 1.68,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gilberto_Mora_(footballer,_born_2008)",
+      "transfermarkt_id": "1155723",
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Tuxtla Gutiérrez",
+      "current_club": "Tijuana",
+      "current_club_source": "wikipedia-squad-table",
+      "image_filename": "Gilberto_Mora.png",
+      "photo": {
+        "filename": "Gilberto_Mora.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Gilberto_Mora.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Gilberto_Mora.png",
+        "width": 242,
+        "height": 303,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/gilberto-mora.png"
+      }
+    },
+    {
+      "slug": "alexis-gutiérrez",
+      "display_name": "Alexis Gutiérrez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-02-26",
+      "age": 25,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "América",
+      "wikipedia_title": "Alexis Gutiérrez",
+      "wikidata_qid": "Q58932464",
+      "qid": "Q58932464",
+      "name": "Alexis Gutiérrez",
+      "description": "Mexican association football player",
+      "date_of_birth": "2000-02-26",
+      "place_of_birth_qid": "Q189128",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 1.75,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q503321",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q503321",
+      "image_filename": "Alexis Gutiérrez 2.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Guti%C3%A9rrez",
+      "transfermarkt_id": "371171",
+      "current_club": "América",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "León de Los Aldama",
+      "wikidata_current_club": "C.D. Guadalajara",
+      "wikidata_current_club_qid": "Q503321",
+      "photo": {
+        "filename": "Alexis Gutiérrez 2.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Alexis_Guti%C3%A9rrez_2.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Alexis_Guti%C3%A9rrez_2.png",
+        "width": 628,
+        "height": 785,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alexis-gutiérrez.png"
+      },
+      "squad_table_date_of_birth": "2001-02-26",
+      "date_of_birth_source": "verified-wikipedia-player-page"
+    },
+    {
+      "slug": "obed-vargas",
+      "display_name": "Obed Vargas",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2005-08-05",
+      "age": 20,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Atlético Madrid",
+      "wikipedia_title": "Obed Vargas",
+      "wikidata_qid": "Q106778770",
+      "qid": "Q106778770",
+      "name": "Obed Vargas",
+      "description": "Mexican soccer player",
+      "date_of_birth": "2005-08-05",
+      "place_of_birth_qid": "Q39450",
+      "citizenship_qids": [
+        "Q30",
+        "Q96"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18378129",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q632511",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q632511",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q632511",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Obed_Vargas",
+      "transfermarkt_id": "889435",
+      "current_club": "Atlético Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United States",
+        "Mexico"
+      ],
+      "place_of_birth": "Anchorage",
+      "wikidata_current_club": "Seattle Sounders FC",
+      "wikidata_current_club_qid": "Q632511",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jesús-ricardo-angulo",
+      "display_name": "Jesús Ricardo Angulo",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-02-20",
+      "age": 29,
+      "caps": 3,
+      "goals": 1,
+      "club_from_squad_table": "Toluca",
+      "wikipedia_title": "Jesús Ricardo Angulo",
+      "wikidata_qid": "Q28925116",
+      "qid": "Q28925116",
+      "name": "Jesús Angulo",
+      "description": "Mexican association football player",
+      "date_of_birth": "1997-02-20",
+      "place_of_birth_qid": "Q211760",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 165.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1243720",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1243720",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Ricardo_Angulo",
+      "transfermarkt_id": "411709",
+      "current_club": "Toluca",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Culiacán",
+      "wikidata_current_club": "Dorados de Sinaloa",
+      "wikidata_current_club_qid": "Q1243720",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "kevin-castañeda",
+      "display_name": "Kevin Castañeda",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1999-10-28",
+      "age": 26,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Tijuana",
+      "wikipedia_title": "Kevin Castañeda",
+      "wikidata_qid": "Q59727887",
+      "qid": "Q59727887",
+      "name": "Kevin Castañeda",
+      "description": "Mexican footballer",
+      "date_of_birth": "1999-10-28",
+      "place_of_birth_qid": "Q9022",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 171.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q670186",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q670186",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Casta%C3%B1eda",
+      "transfermarkt_id": "599732",
+      "current_club": "Tijuana",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Guadalajara",
+      "wikidata_current_club": "Deportivo Toluca F.C.",
+      "wikidata_current_club_qid": "Q670186",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jordán-carrillo",
+      "display_name": "Jordán Carrillo",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-11-30",
+      "age": 24,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "UNAM",
+      "wikipedia_title": "Jordán Carrillo",
+      "wikidata_qid": "Q98940318",
+      "qid": "Q98940318",
+      "name": "Jordán Carrillo",
+      "description": "Mexican footballer",
+      "date_of_birth": "2001-11-30",
+      "place_of_birth_qid": "Q211760",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 168.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q745246",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q12278",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q12278",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jord%C3%A1n_Carrillo",
+      "transfermarkt_id": "740574",
+      "current_club": "UNAM",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Culiacán",
+      "wikidata_current_club": "Sporting de Gijón",
+      "wikidata_current_club_qid": "Q12278",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "álvaro-fidalgo",
+      "display_name": "Álvaro Fidalgo",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-04-09",
+      "age": 29,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Real Betis",
+      "wikipedia_title": "Álvaro Fidalgo",
+      "wikidata_qid": "Q98092491",
+      "qid": "Q98092491",
+      "name": "Álvaro Fidalgo",
+      "description": "Mexican association football player (born 1997)",
+      "date_of_birth": "1997-04-09",
+      "place_of_birth_qid": "Q744130",
+      "citizenship_qids": [
+        "Q29",
+        "Q96"
+      ],
+      "height_cm": 174.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q12217",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2511257",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q743557",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q459090",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q8723",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q3873503",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2310295",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q12217",
+      "image_filename": "Alvaro Fidalgo.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Fidalgo",
+      "transfermarkt_id": "261503",
+      "current_club": "Real Betis",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Spain",
+        "Mexico"
+      ],
+      "place_of_birth": "Siero",
+      "wikidata_current_club": "Real Madrid Castilla",
+      "wikidata_current_club_qid": "Q12217",
+      "photo": {
+        "filename": "Alvaro Fidalgo.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Alvaro_Fidalgo.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Alvaro_Fidalgo.png",
+        "width": 868,
+        "height": 1024,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCWV3obpZVGgJ3j9FVhEjF2Q\">Real Madrid C.F</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/álvaro-fidalgo.png"
+      }
+    },
+    {
+      "slug": "jorge-ruvalcaba",
+      "display_name": "Jorge Ruvalcaba",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-07-23",
+      "age": 24,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "New York Red Bulls",
+      "wikipedia_title": "Jorge Ruvalcaba",
+      "wikidata_qid": "Q110546828",
+      "qid": "Q110546828",
+      "name": "Jorge Ruvalcaba",
+      "description": "Mexican-American soccer player",
+      "date_of_birth": "2001-07-23",
+      "place_of_birth_qid": "Q289661",
+      "citizenship_qids": [
+        "Q30",
+        "Q96"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q204220",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q204220",
+      "image_filename": "Jorge Ruvalcaba Red Bulls Revolution-38 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jorge_Ruvalcaba",
+      "transfermarkt_id": "950873",
+      "current_club": "New York Red Bulls",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United States",
+        "Mexico"
+      ],
+      "place_of_birth": "Rialto",
+      "wikidata_current_club": "Red Bull New York",
+      "wikidata_current_club_qid": "Q204220",
+      "photo": {
+        "filename": "Jorge Ruvalcaba Red Bulls Revolution-38 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Jorge_Ruvalcaba_Red_Bulls_Revolution-38_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Jorge_Ruvalcaba_Red_Bulls_Revolution-38_%28cropped%29.jpg/960px-Jorge_Ruvalcaba_Red_Bulls_Revolution-38_%28cropped%29.jpg",
+        "width": 1309,
+        "height": 1745,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jorge-ruvalcaba.jpg"
+      }
+    },
+    {
+      "slug": "isaías-violante",
+      "display_name": "Isaías Violante",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-10-20",
+      "age": 22,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "América",
+      "wikipedia_title": "Isaías Violante",
+      "wikidata_qid": "Q104985526",
+      "qid": "Q104985526",
+      "name": "Isaías Violante",
+      "description": "Mexican footballer",
+      "date_of_birth": "2003-10-20",
+      "place_of_birth_qid": "Q173270",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 173.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Isa%C3%ADas_Violante",
+      "transfermarkt_id": "668496",
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Veracruz",
+      "current_club": "América",
+      "current_club_source": "wikipedia-squad-table",
+      "image_filename": "Isaías_Violante.png",
+      "photo": {
+        "filename": "Isaías_Violante.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Isa%C3%ADas_Violante.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Isa%C3%ADas_Violante.png",
+        "width": 180,
+        "height": 225,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/isaías-violante.png"
+      }
+    },
+    {
+      "slug": "alexéi-domínguez",
+      "display_name": "Alexéi Domínguez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2005-01-03",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Pachuca",
+      "wikipedia_title": "Alexéi Domínguez",
+      "wikidata_qid": "Q123038216",
+      "qid": "Q123038216",
+      "name": "Alexéi Domínguez",
+      "description": "Mexican association football player",
+      "date_of_birth": "2005-01-03",
+      "place_of_birth_qid": "Q94758",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 171.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alex%C3%A9i_Dom%C3%ADnguez",
+      "transfermarkt_id": "955338",
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Apatzingán de la Constitución",
+      "current_club": "Pachuca",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jeremy-márquez",
+      "display_name": "Jeremy Márquez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-06-21",
+      "age": 25,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Cruz Azul",
+      "wikipedia_title": "Jeremy Márquez",
+      "wikidata_qid": "Q81890952",
+      "qid": "Q81890952",
+      "name": "Ángel Márquez",
+      "description": "Mexican footballer",
+      "date_of_birth": "2000-06-21",
+      "place_of_birth_qid": "Q9022",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1023532",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1023532",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jeremy_M%C3%A1rquez",
+      "transfermarkt_id": "737125",
+      "current_club": "Cruz Azul",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Guadalajara",
+      "wikidata_current_club": "Atlas F.C.",
+      "wikidata_current_club_qid": "Q1023532",
+      "image_filename": "Jeremy_Márquez.png",
+      "photo": {
+        "filename": "Jeremy_Márquez.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Jeremy_M%C3%A1rquez.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Jeremy_M%C3%A1rquez.png",
+        "width": 579,
+        "height": 724,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/jeremy-márquez.png"
+      }
+    },
+    {
+      "slug": "elías-montiel",
+      "display_name": "Elías Montiel",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2005-10-07",
+      "age": 20,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Pachuca",
+      "wikipedia_title": "Elías Montiel",
+      "wikidata_qid": "Q123494607",
+      "qid": "Q123494607",
+      "name": "Elías Montiel",
+      "description": "Mexican association football player",
+      "date_of_birth": "2005-10-07",
+      "place_of_birth_qid": "Q2002665",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 1.7,
+      "position_qids": [
+        "Q193592"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/El%C3%ADas_Montiel",
+      "transfermarkt_id": "1125592",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Tula de Allende",
+      "current_club": "Pachuca",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "raúl-jiménez",
+      "display_name": "Raúl Jiménez",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1991-05-05",
+      "age": 35,
+      "caps": 123,
+      "goals": 44,
+      "club_from_squad_table": "Fulham",
+      "wikipedia_title": "Raúl Jiménez",
+      "wikidata_qid": "Q1925465",
+      "qid": "Q1925465",
+      "name": "Raúl Jiménez",
+      "description": "Mexican association football player (born 1991)",
+      "date_of_birth": "1991-05-05",
+      "place_of_birth_qid": "Q2450298",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q131499",
+          "start": "2015-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q459090",
+          "start": "2011-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q164089",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q18708",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18708",
+      "image_filename": "Raúl Jiménez.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Jim%C3%A9nez",
+      "transfermarkt_id": "206040",
+      "fifa_player_id": "356731",
+      "current_club": "Fulham",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Tepeji del Río de Ocampo Municipality",
+      "wikidata_current_club": "Fulham F.C.",
+      "wikidata_current_club_qid": "Q18708",
+      "photo": {
+        "filename": "Raúl Jiménez.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ra%C3%BAl_Jim%C3%A9nez.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ra%C3%BAl_Jim%C3%A9nez.jpg",
+        "width": 800,
+        "height": 1200,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tirado.fj&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tirado.fj (page does not exist)\">Tirado.fj</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/raúl-jiménez.jpg"
+      }
+    },
+    {
+      "slug": "alexis-vega",
+      "display_name": "Alexis Vega",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1997-11-25",
+      "age": 28,
+      "caps": 50,
+      "goals": 7,
+      "club_from_squad_table": "Toluca",
+      "wikipedia_title": "Alexis Vega (Mexican footballer)",
+      "wikidata_qid": "Q23799433",
+      "qid": "Q23799433",
+      "name": "Alexis Vega",
+      "description": "Mexican footballer",
+      "date_of_birth": "1997-11-25",
+      "place_of_birth_qid": "Q645293",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 1.73,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q164089",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q164089",
+      "image_filename": "Alexis Vega WC2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Vega_(Mexican_footballer)",
+      "transfermarkt_id": "424689",
+      "current_club": "Toluca",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Cuauhtémoc",
+      "wikidata_current_club": "Mexico men's national football team",
+      "wikidata_current_club_qid": "Q164089",
+      "photo": {
+        "filename": "Alexis Vega WC2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Alexis_Vega_WC2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Alexis_Vega_WC2022.jpg",
+        "width": 262,
+        "height": 394,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alexis-vega.jpg"
+      }
+    },
+    {
+      "slug": "santiago-giménez",
+      "display_name": "Santiago Giménez",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-04-18",
+      "age": 25,
+      "caps": 46,
+      "goals": 6,
+      "club_from_squad_table": "Milan",
+      "wikipedia_title": "Santiago Giménez",
+      "wikidata_qid": "Q33296979",
+      "qid": "Q33296979",
+      "name": "Santiago Giménez",
+      "description": "Mexican footballer (born 2001)",
+      "date_of_birth": "2001-04-18",
+      "place_of_birth_qid": "Q1486",
+      "citizenship_qids": [
+        "Q38",
+        "Q96"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q845859",
+          "start": "2017-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q134241",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q164089",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1543",
+      "image_filename": "Santiago Giménez.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Santiago_Gim%C3%A9nez",
+      "transfermarkt_id": "552955",
+      "current_club": "Milan",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Italy",
+        "Mexico"
+      ],
+      "place_of_birth": "Buenos Aires",
+      "wikidata_current_club": "AC Milan",
+      "wikidata_current_club_qid": "Q1543",
+      "photo": {
+        "filename": "Santiago Giménez.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Santiago_Gim%C3%A9nez.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Santiago_Gim%C3%A9nez.png",
+        "width": 570,
+        "height": 713,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/santiago-giménez.png"
+      }
+    },
+    {
+      "slug": "césar-huerta",
+      "display_name": "César Huerta",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-12-03",
+      "age": 25,
+      "caps": 25,
+      "goals": 3,
+      "club_from_squad_table": "Anderlecht",
+      "wikipedia_title": "César Huerta",
+      "wikidata_qid": "Q50820392",
+      "qid": "Q50820392",
+      "name": "César Huerta",
+      "description": "Mexican association football player",
+      "date_of_birth": "2000-12-03",
+      "place_of_birth_qid": "Q9022",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 171.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q503321",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q187528",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q503321",
+      "image_filename": "Chino Huerta.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Huerta",
+      "transfermarkt_id": "540315",
+      "current_club": "Anderlecht",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Guadalajara",
+      "wikidata_current_club": "C.D. Guadalajara",
+      "wikidata_current_club_qid": "Q503321",
+      "photo": {
+        "filename": "Chino Huerta.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Chino_Huerta.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Chino_Huerta.png",
+        "width": 271,
+        "height": 401,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@chaliGoL\">ChaliGoL🦖</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/césar-huerta.png"
+      }
+    },
+    {
+      "slug": "julián-quiñones",
+      "display_name": "Julián Quiñones",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1997-03-24",
+      "age": 29,
+      "caps": 20,
+      "goals": 2,
+      "club_from_squad_table": "Al-Qadsiah",
+      "wikipedia_title": "Julián Quiñones",
+      "wikidata_qid": "Q22082627",
+      "qid": "Q22082627",
+      "name": "Julián Andrés Quiñones",
+      "description": "Mexican association football player",
+      "date_of_birth": "1997-03-24",
+      "place_of_birth_qid": "Q1525449",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 176.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1570132",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1570132",
+      "image_filename": "Julián Quiñones (1).png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Juli%C3%A1n_Qui%C3%B1ones",
+      "transfermarkt_id": "416090",
+      "current_club": "Al-Qadsiah",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Magüí Payán",
+      "wikidata_current_club": "Lobos de la BUAP",
+      "wikidata_current_club_qid": "Q1570132",
+      "photo": {
+        "filename": "Julián Quiñones (1).png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Juli%C3%A1n_Qui%C3%B1ones_%281%29.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Juli%C3%A1n_Qui%C3%B1ones_%281%29.png",
+        "width": 617,
+        "height": 580,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Selección Nacional de México",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/julián-quiñones.png"
+      }
+    },
+    {
+      "slug": "guillermo-martínez",
+      "display_name": "Guillermo Martínez",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1995-03-15",
+      "age": 31,
+      "caps": 10,
+      "goals": 3,
+      "club_from_squad_table": "UNAM",
+      "wikipedia_title": "Guillermo Martínez (footballer)",
+      "wikidata_qid": "Q19158746",
+      "qid": "Q19158746",
+      "name": "Guillermo Martínez Ayala",
+      "description": "Mexican footballer",
+      "date_of_birth": "1995-03-15",
+      "place_of_birth_qid": "Q580649",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 191.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q736937",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q164334",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        }
+      ],
+      "current_club_qid": "Q736937",
+      "image_filename": "Inter Miami CF 3-1 UNAM (6 August 2025) 30 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Guillermo_Mart%C3%ADnez_(footballer)",
+      "transfermarkt_id": "347932",
+      "fifa_player_id": "386339",
+      "current_club": "UNAM",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Celaya",
+      "wikidata_current_club": "CF Pachuca",
+      "wikidata_current_club_qid": "Q736937",
+      "photo": {
+        "filename": "Inter Miami CF 3-1 UNAM (6 August 2025) 30 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Inter_Miami_CF_3-1_UNAM_%286_August_2025%29_30_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Inter_Miami_CF_3-1_UNAM_%286_August_2025%29_30_%28cropped%29.jpg",
+        "width": 233,
+        "height": 358,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:TheSoccerBoy\" title=\"User:TheSoccerBoy\">TheSoccerBoy</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/guillermo-martínez.jpg"
+      }
+    },
+    {
+      "slug": "germán-berterame",
+      "display_name": "Germán Berterame",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1998-11-13",
+      "age": 27,
+      "caps": 9,
+      "goals": 2,
+      "club_from_squad_table": "Inter Miami CF",
+      "wikipedia_title": "Germán Berterame",
+      "wikidata_qid": "Q19347095",
+      "qid": "Q19347095",
+      "name": "Germán Berterame",
+      "description": "Mexican footballer",
+      "date_of_birth": "1998-11-13",
+      "place_of_birth_qid": "Q2525523",
+      "citizenship_qids": [
+        "Q414",
+        "Q96"
+      ],
+      "height_cm": 1.76,
+      "weight_kg": 65.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q218282",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q218282",
+      "image_filename": "P20260305DT-0102 President Donald J. Trump hosts MLS Champions Inter Miami CF at the White House (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Germ%C3%A1n_Berterame",
+      "transfermarkt_id": "401572",
+      "current_club": "Inter Miami CF",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Argentina",
+        "Mexico"
+      ],
+      "place_of_birth": "Villa María",
+      "wikidata_current_club": "San Lorenzo de Almagro",
+      "wikidata_current_club_qid": "Q218282",
+      "photo": {
+        "filename": "P20260305DT-0102 President Donald J. Trump hosts MLS Champions Inter Miami CF at the White House (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/P20260305DT-0102_President_Donald_J._Trump_hosts_MLS_Champions_Inter_Miami_CF_at_the_White_House_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/P20260305DT-0102_President_Donald_J._Trump_hosts_MLS_Champions_Inter_Miami_CF_at_the_White_House_%28cropped%29.jpg",
+        "width": 323,
+        "height": 416,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "The White House",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/germán-berterame.jpg"
+      }
+    },
+    {
+      "slug": "armando-gonzález",
+      "display_name": "Armando González",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2003-04-20",
+      "age": 23,
+      "caps": 7,
+      "goals": 1,
+      "club_from_squad_table": "Guadalajara",
+      "wikipedia_title": "Armando González (footballer, born 2003)",
+      "wikidata_qid": "Q124283356",
+      "qid": "Q124283356",
+      "name": "Armando González",
+      "description": "Mexican footballer (born 2003)",
+      "date_of_birth": "2003-04-20",
+      "image_filename": "Armando González.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Armando_Gonz%C3%A1lez_(footballer,_born_2003)",
+      "transfermarkt_id": "837619",
+      "current_club": "Guadalajara",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Armando González.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Armando_Gonz%C3%A1lez.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Armando_Gonz%C3%A1lez.png",
+        "width": 437,
+        "height": 546,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/armando-gonzález.png"
+      }
+    }
+  ],
+  "notes": [
+    "Mexico photo audit 2026-05-24: verifier found no clean Wikimedia photo for 14 players; those rows are marked wikimedia-reviewed-none and should render initials avatars, not fake photos."
+  ]
+}

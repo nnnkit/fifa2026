@@ -1,0 +1,102 @@
+{
+  "slug": "lutsharel-geertruida",
+  "display_name": "Lutsharel Geertruida",
+  "shirt_no": 2,
+  "position_code": "DF",
+  "dob": "2000-07-18",
+  "age": 25,
+  "caps": 20,
+  "goals": 0,
+  "club_from_squad_table": "Sunderland",
+  "wikipedia_title": "Lutsharel Geertruida",
+  "date_of_birth": "2000-07-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sunderland",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q42328360",
+  "qid": "Q42328360",
+  "name": "Lutsharel Geertruida",
+  "description": "Dutch association football player (born 2000)",
+  "place_of_birth_qid": "Q34370",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 1.84,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q134241",
+      "start": "2018-07-01",
+      "end": "2024-08-30"
+    },
+    {
+      "team_qid": "Q29526205",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q601723",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q16854907",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q514714",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q702455",
+      "start": "2024-08-30",
+      "end": null
+    },
+    {
+      "team_qid": "Q18739",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18739",
+  "image_filename": "Lutsharel Geertruida (Testspiel 2022-07-09) 14 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lutsharel_Geertruida",
+  "transfermarkt_id": "420210",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Rotterdam",
+  "wikidata_current_club": "Sunderland A.F.C.",
+  "wikidata_current_club_qid": "Q18739",
+  "photo": {
+    "filename": "Lutsharel Geertruida (Testspiel 2022-07-09) 14 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Lutsharel_Geertruida_%28Testspiel_2022-07-09%29_14_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Lutsharel_Geertruida_%28Testspiel_2022-07-09%29_14_%28cropped%29.jpg/960px-Lutsharel_Geertruida_%28Testspiel_2022-07-09%29_14_%28cropped%29.jpg",
+    "width": 988,
+    "height": 1499,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lutsharel-geertruida.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

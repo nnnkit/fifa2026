@@ -1,0 +1,94 @@
+{
+  "slug": "eric-davis",
+  "display_name": "Eric Davis",
+  "shirt_no": 15,
+  "position_code": "DF",
+  "dob": "1991-03-31",
+  "age": 35,
+  "caps": 104,
+  "goals": 9,
+  "club_from_squad_table": "Plaza Amador",
+  "wikipedia_title": "Eric Davis (Panamanian footballer)",
+  "date_of_birth": "1991-03-31",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Plaza Amador",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q3731469",
+  "qid": "Q3731469",
+  "name": "Eric Davis",
+  "description": "Panamanian association football player",
+  "place_of_birth_qid": "Q12825018",
+  "citizenship_qids": [
+    "Q804"
+  ],
+  "height_cm": 179.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q841378",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q729890",
+      "start": "2009-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q978110",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q729890",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2979908",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q7129942",
+      "start": "2011-00-00",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q223748",
+      "start": "2010-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1871928",
+  "image_filename": "Erick Davis (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Davis_(Panamanian_footballer)",
+  "transfermarkt_id": "121791",
+  "fifa_player_id": "337232",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Panama"
+  ],
+  "place_of_birth": "Col\u00f3n City",
+  "wikidata_current_club": "FC DAC 1904 Dunajsk\u00e1 Streda",
+  "wikidata_current_club_qid": "Q841378",
+  "photo": {
+    "filename": "Erick Davis (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Erick_Davis_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Erick_Davis_%28cropped%29.jpg/960px-Erick_Davis_%28cropped%29.jpg",
+    "width": 1296,
+    "height": 2153,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/araizavictor/\">Victor Araiza</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/eric-davis.jpg"
+  },
+  "team_slug": "panama",
+  "team_country": "Panama"
+}

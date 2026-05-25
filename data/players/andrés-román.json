@@ -1,0 +1,67 @@
+{
+  "slug": "andr\u00e9s-rom\u00e1n",
+  "display_name": "Andr\u00e9s Rom\u00e1n",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1995-10-05",
+  "age": 30,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Atl\u00e9tico Nacional",
+  "wikipedia_title": "Andr\u00e9s Felipe Rom\u00e1n",
+  "date_of_birth": "1995-10-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atl\u00e9tico Nacional",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28343305",
+  "qid": "Q28343305",
+  "name": "Andr\u00e9s Rom\u00e1n",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q2841",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q170703",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q391984",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q170703",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Felipe_Rom%C3%A1n",
+  "transfermarkt_id": "552474",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Bogot\u00e1",
+  "wikidata_current_club": "Boca Juniors",
+  "wikidata_current_club_qid": "Q170703",
+  "image_filename": "Andr\u00e9s_roman_futbol.jpg",
+  "photo": {
+    "filename": "Andr\u00e9s_roman_futbol.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Andr%C3%A9s_roman_futbol.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Andr%C3%A9s_roman_futbol.jpg/960px-Andr%C3%A9s_roman_futbol.jpg",
+    "width": 1599,
+    "height": 1999,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andresroman06&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andresroman06 (page does not exist)\">Andresroman06</a>",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/andr\u00e9s-rom\u00e1n.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

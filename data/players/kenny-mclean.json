@@ -1,0 +1,89 @@
+{
+  "slug": "kenny-mclean",
+  "display_name": "Kenny McLean",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1992-01-08",
+  "age": 34,
+  "caps": 56,
+  "goals": 3,
+  "club_from_squad_table": "Norwich City",
+  "wikipedia_title": "Kenny McLean",
+  "date_of_birth": "1992-01-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Norwich City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q6391158",
+  "qid": "Q6391158",
+  "name": "Kenny McLean",
+  "description": "Scottish association football player (born 1992)",
+  "place_of_birth_qid": "Q2287588",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q319136",
+      "start": "2009-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q539374",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q187326",
+      "start": "2015-01-01",
+      "end": "2018-05-14"
+    },
+    {
+      "team_qid": "Q4140015",
+      "start": "2010-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q1812121",
+      "start": "2011-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q34044",
+      "start": "2016-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q187326",
+  "image_filename": "Kenny McLean 2021-08-07 1.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kenny_McLean",
+  "transfermarkt_id": "126600",
+  "fifa_player_id": "200816012",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Rutherglen",
+  "wikidata_current_club": "Aberdeen F.C.",
+  "wikidata_current_club_qid": "Q187326",
+  "photo": {
+    "filename": "Kenny McLean 2021-08-07 1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kenny_McLean_2021-08-07_1.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kenny_McLean_2021-08-07_1.jpg",
+    "width": 927,
+    "height": 1548,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Mattythewhite\" title=\"User:Mattythewhite\">Mattythewhite</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kenny-mclean.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

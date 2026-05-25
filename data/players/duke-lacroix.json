@@ -1,0 +1,69 @@
+{
+  "slug": "duke-lacroix",
+  "display_name": "Duke Lacroix",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1993-10-14",
+  "age": 32,
+  "caps": 14,
+  "goals": 2,
+  "club_from_squad_table": "Colorado Springs Switchbacks",
+  "wikipedia_title": "Duke Lacroix",
+  "date_of_birth": "1993-10-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Colorado Springs Switchbacks",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21621771",
+  "qid": "Q21621771",
+  "name": "Duke Lacroix",
+  "description": "professional footballer",
+  "place_of_birth_qid": "Q1087154",
+  "citizenship_qids": [
+    "Q30"
+  ],
+  "position_qids": [
+    "Q280658",
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q6023905",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q7075961",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q18148271",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q19867571",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q6023905",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Duke_Lacroix",
+  "transfermarkt_id": "375472",
+  "positions": [
+    "forward",
+    "defender"
+  ],
+  "citizenship": [
+    "United States"
+  ],
+  "place_of_birth": "New Egypt",
+  "wikidata_current_club": "Indy Eleven",
+  "wikidata_current_club_qid": "Q6023905",
+  "team_slug": "haiti",
+  "team_country": "Haiti",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

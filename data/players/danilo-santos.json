@@ -1,0 +1,62 @@
+{
+  "slug": "danilo-santos",
+  "display_name": "Danilo Santos",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2001-04-29",
+  "age": 25,
+  "caps": 2,
+  "goals": 1,
+  "club_from_squad_table": "Botafogo",
+  "wikipedia_title": "Danilo (footballer, born 2001)",
+  "date_of_birth": "2001-04-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Botafogo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q99557093",
+  "qid": "Q99557093",
+  "name": "Danilo",
+  "description": "Brazilian footballer",
+  "place_of_birth_qid": "Q36947",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 177.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q80964",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q80964",
+  "image_filename": "Danilo-palmeiras-2022.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Danilo_(footballer,_born_2001)",
+  "transfermarkt_id": "808509",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "Salvador",
+  "wikidata_current_club": "Sociedade Esportiva Palmeiras",
+  "wikidata_current_club_qid": "Q80964",
+  "photo": {
+    "filename": "Danilo-palmeiras-2022.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Danilo-palmeiras-2022.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Danilo-palmeiras-2022.png",
+    "width": 247,
+    "height": 363,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/c/tvalviverde\">TV Alviverde</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/danilo-santos.png"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

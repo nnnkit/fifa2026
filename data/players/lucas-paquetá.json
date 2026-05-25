@@ -1,0 +1,88 @@
+{
+  "slug": "lucas-paquetá",
+  "display_name": "Lucas Paquetá",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-08-27",
+  "age": 28,
+  "caps": 61,
+  "goals": 12,
+  "club_from_squad_table": "Flamengo",
+  "wikipedia_title": "Lucas Paquetá",
+  "date_of_birth": "1997-08-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Flamengo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q30089624",
+  "qid": "Q30089624",
+  "name": "Lucas Paquetá",
+  "description": "Brazilian association football player",
+  "place_of_birth_qid": "Q8678",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1543",
+      "start": "2019-01-04",
+      "end": "2020-09-30"
+    },
+    {
+      "team_qid": "Q17479",
+      "start": "2016-00-00",
+      "end": "2019-01-04"
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q704",
+      "start": "2020-09-30",
+      "end": "2022-08-00"
+    },
+    {
+      "team_qid": "Q18747",
+      "start": "2022-08-00",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q17479",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q17479",
+  "image_filename": "Lucas Paquetá of West Ham (cropped).jpeg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_Paquet%C3%A1",
+  "transfermarkt_id": "444523",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "Rio de Janeiro",
+  "wikidata_current_club": "Clube de Regatas do Flamengo",
+  "wikidata_current_club_qid": "Q17479",
+  "photo": {
+    "filename": "Lucas Paquetá of West Ham (cropped).jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Lucas_Paquet%C3%A1_of_West_Ham_%28cropped%29.jpeg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Lucas_Paquet%C3%A1_of_West_Ham_%28cropped%29.jpeg",
+    "width": 404,
+    "height": 521,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Egghead06\" title=\"User:Egghead06\">Egghead06</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lucas-paquetá.jpeg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

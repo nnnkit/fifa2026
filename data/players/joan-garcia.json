@@ -1,0 +1,102 @@
+{
+  "slug": "joan-garcia",
+  "display_name": "Joan Garcia",
+  "shirt_no": 18,
+  "position_code": "GK",
+  "dob": "2001-05-04",
+  "age": 25,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Barcelona",
+  "wikipedia_title": "Joan Garcia",
+  "date_of_birth": "2001-05-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Barcelona",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q110258306",
+  "qid": "Q110258306",
+  "name": "Joan Garcia",
+  "description": "Spanish footballer (born 2001)",
+  "place_of_birth_qid": "Q16728",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 194.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q32537",
+      "start": "2019-09-00",
+      "end": "2021-05-00"
+    },
+    {
+      "team_qid": "Q8780",
+      "start": "2022-01-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q2310295",
+      "start": "2018-01-00",
+      "end": "2018-02-00"
+    },
+    {
+      "team_qid": "Q3589784",
+      "start": "2018-11-00",
+      "end": "2019-05-00"
+    },
+    {
+      "team_qid": "Q2713491",
+      "start": "2019-06-00",
+      "end": "2019-10-00"
+    },
+    {
+      "team_qid": "Q1129595",
+      "start": "2021-11-00",
+      "end": "2022-03-00"
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q17228",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q42267",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q7156",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joan_Garcia",
+  "transfermarkt_id": "561613",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Sallent de Llobregat",
+  "wikidata_current_club": "Futbol Club Barcelona",
+  "wikidata_current_club_qid": "Q7156",
+  "image_filename": "CE_Manresa_Alev\u00ed_A,_amb_el_porter_Joan_Garcia,_abril_de_2012_(cropped).jpg",
+  "photo": {
+    "filename": "CE_Manresa_Alev\u00ed_A,_amb_el_porter_Joan_Garcia,_abril_de_2012_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/CE_Manresa_Alev%C3%AD_A%2C_amb_el_porter_Joan_Garcia%2C_abril_de_2012_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/CE_Manresa_Alev%C3%AD_A%2C_amb_el_porter_Joan_Garcia%2C_abril_de_2012_%28cropped%29.jpg",
+    "width": 389,
+    "height": 700,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Catiusca12&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Catiusca12 (page does not exist)\">Catiusca12</a>",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/joan-garcia.jpg"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain"
+}

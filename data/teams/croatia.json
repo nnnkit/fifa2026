@@ -1,0 +1,2052 @@
+{
+  "slug": "croatia",
+  "country": "Croatia",
+  "wikidata_qid": "Q134479",
+  "fetched_at": "2026-05-24T17:29:26+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "dominik-livakovi\u0107",
+      "display_name": "Dominik Livakovi\u0107",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1995-01-09",
+      "age": 31,
+      "caps": 73,
+      "goals": 0,
+      "club_from_squad_table": "Dinamo Zagreb",
+      "wikipedia_title": "Dominik Livakovi\u0107",
+      "date_of_birth": "1995-01-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Dinamo Zagreb",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18207229",
+      "qid": "Q18207229",
+      "name": "Dominik Livakovi\u0107",
+      "description": "Croatian association football player (born 1995)",
+      "place_of_birth_qid": "Q3370",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 79.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q462411",
+          "start": "2012-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q172803",
+          "start": "2016-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q3589940",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q3446766",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q5187078",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2331381",
+          "start": "2014-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q6601875",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q134479",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q11945",
+          "start": "2025-00-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q172803",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q172803",
+      "image_filename": "Dominik Livakovi\u0107 2021.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dominik_Livakovi%C4%87",
+      "transfermarkt_id": "205927",
+      "fifa_player_id": "369029",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Zadar",
+      "wikidata_current_club": "GNK Dinamo Zagreb",
+      "wikidata_current_club_qid": "Q172803",
+      "photo": {
+        "filename": "Dominik Livakovi\u0107 2021.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Dominik_Livakovi%C4%87_2021.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Dominik_Livakovi%C4%87_2021.jpg",
+        "width": 849,
+        "height": 1059,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@PIXSELLagency\">PIXSELL</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dominik-livakovi\u0107.jpg"
+      }
+    },
+    {
+      "slug": "dominik-kotarski",
+      "display_name": "Dominik Kotarski",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2000-02-10",
+      "age": 26,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Copenhagen",
+      "wikipedia_title": "Dominik Kotarski",
+      "date_of_birth": "2000-02-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Copenhagen",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q51159914",
+      "qid": "Q51159914",
+      "name": "Dominik Kotarski",
+      "description": "Croatian association football player",
+      "place_of_birth_qid": "Q139018",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 1.89,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q81888",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q918425",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q81888",
+      "image_filename": "S\u00f8nderjyskE - FC K\u00f8benhavn, 27. September 2025 - j (Dominik Kotarski).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dominik_Kotarski",
+      "transfermarkt_id": "370997",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Zabok",
+      "wikidata_current_club": "AFC Ajax",
+      "wikidata_current_club_qid": "Q81888",
+      "photo": {
+        "filename": "S\u00f8nderjyskE - FC K\u00f8benhavn, 27. September 2025 - j (Dominik Kotarski).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/S%C3%B8nderjyskE_-_FC_K%C3%B8benhavn%2C_27._September_2025_-_j_%28Dominik_Kotarski%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/S%C3%B8nderjyskE_-_FC_K%C3%B8benhavn%2C_27._September_2025_-_j_%28Dominik_Kotarski%29.jpg",
+        "width": 668,
+        "height": 1140,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Tdn70\" title=\"User:Tdn70\">Thomas Dahlstr\u00f8m Nielsen</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dominik-kotarski.jpg"
+      }
+    },
+    {
+      "slug": "ivor-pandur",
+      "display_name": "Ivor Pandur",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2000-03-25",
+      "age": 26,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Hull City",
+      "wikipedia_title": "Ivor Pandur",
+      "date_of_birth": "2000-03-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Hull City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q84462730",
+      "qid": "Q84462730",
+      "name": "Ivor Pandur",
+      "description": "Croatian association football player",
+      "place_of_birth_qid": "Q1647",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 187.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q318969",
+          "start": "2019-07-01",
+          "end": "2020-09-01"
+        },
+        {
+          "team_qid": "Q8639",
+          "start": "2020-09-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3589940",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q3446766",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8639",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ivor_Pandur",
+      "transfermarkt_id": "371013",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Rijeka",
+      "wikidata_current_club": "Hellas Verona FC",
+      "wikidata_current_club_qid": "Q8639",
+      "image_filename": "Ivor Pandur.jpg",
+      "photo": {
+        "filename": "Ivor Pandur.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ivor_Pandur.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ivor_Pandur.jpg",
+        "width": 87,
+        "height": 117,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:NONONSENSEDEFENDING&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:NONONSENSEDEFENDING (page does not exist)\">NONONSENSEDEFENDING</a>",
+        "source": "wikimedia-commons-reviewed",
+        "local_path": "data/photos/ivor-pandur.jpg"
+      }
+    },
+    {
+      "slug": "jo\u0161ko-gvardiol",
+      "display_name": "Jo\u0161ko Gvardiol",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-01-23",
+      "age": 24,
+      "caps": 46,
+      "goals": 4,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "Jo\u0161ko Gvardiol",
+      "date_of_birth": "2002-01-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q73400656",
+      "qid": "Q73400656",
+      "name": "Jo\u0161ko Gvardiol",
+      "description": "Croatian association football player (born 2002)",
+      "place_of_birth_qid": "Q12642589",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q172803",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2020-00-00",
+          "end": "2023-08-05"
+        },
+        {
+          "team_qid": "Q172803",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q134479",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2023-08-05",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "2021 Jo\u0161ko Gvardiol 2 (cropped2).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jo%C5%A1ko_Gvardiol",
+      "transfermarkt_id": "475959",
+      "wikidata_date_of_birth": "2002-06-23",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Srednjaci",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "2021 Jo\u0161ko Gvardiol 2 (cropped2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/2021_Jo%C5%A1ko_Gvardiol_2_%28cropped2%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/2021_Jo%C5%A1ko_Gvardiol_2_%28cropped2%29.jpg",
+        "width": 550,
+        "height": 797,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "crop by <a href=\"//commons.wikimedia.org/wiki/User:FMSky\" title=\"User:FMSky\">FMSky</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jo\u0161ko-gvardiol.jpg"
+      }
+    },
+    {
+      "slug": "duje-\u0107aleta-car",
+      "display_name": "Duje \u0106aleta-Car",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-09-17",
+      "age": 29,
+      "caps": 38,
+      "goals": 1,
+      "club_from_squad_table": "Real Sociedad",
+      "wikipedia_title": "Duje \u0106aleta-Car",
+      "date_of_birth": "1996-09-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Sociedad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17612806",
+      "qid": "Q17612806",
+      "name": "Duje \u0106aleta-Car",
+      "description": "Croatian association football player (born 1996)",
+      "place_of_birth_qid": "Q3549",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 193.0,
+      "weight_kg": 89.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q833050",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1387293",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q994811",
+          "start": "2014-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q3589940",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q9306674",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q3446766",
+          "start": "2014-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q2331381",
+          "start": "2014-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q749113",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q132885",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q18732",
+          "start": "2022-00-00",
+          "end": "2024-07-00"
+        },
+        {
+          "team_qid": "Q704",
+          "start": "2023-00-00",
+          "end": "2024-07-00"
+        },
+        {
+          "team_qid": "Q134479",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q704",
+          "start": "2024-07-08",
+          "end": null
+        },
+        {
+          "team_qid": "Q10315",
+          "start": "2025-08-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q10315",
+      "image_filename": "Duje \u0106aleta-Car.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Duje_%C4%86aleta-Car",
+      "transfermarkt_id": "238266",
+      "fifa_player_id": "372424",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "\u0160ibenik",
+      "photo": {
+        "filename": "Duje \u0106aleta-Car.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Duje_%C4%86aleta-Car.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Duje_%C4%86aleta-Car.jpg/960px-Duje_%C4%86aleta-Car.jpg",
+        "width": 2291,
+        "height": 2538,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/duje-\u0107aleta-car.jpg"
+      }
+    },
+    {
+      "slug": "josip-\u0161utalo",
+      "display_name": "Josip \u0160utalo",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-02-28",
+      "age": 26,
+      "caps": 31,
+      "goals": 0,
+      "club_from_squad_table": "Ajax",
+      "wikipedia_title": "Josip \u0160utalo",
+      "date_of_birth": "2000-02-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Ajax",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q98592909",
+      "qid": "Q98592909",
+      "name": "Josip \u0160utalo",
+      "description": "Croation association football player",
+      "place_of_birth_qid": "Q337683",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 1.9,
+      "position_qids": [
+        "Q336286"
+      ],
+      "image_filename": "FC Salzburg gegen GNK Dinamo Zagreb (UEFA Championsleague 2022-10-05) 47.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Josip_%C5%A0utalo",
+      "transfermarkt_id": "371001",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "\u010capljina",
+      "photo": {
+        "filename": "FC Salzburg gegen GNK Dinamo Zagreb (UEFA Championsleague 2022-10-05) 47.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/FC_Salzburg_gegen_GNK_Dinamo_Zagreb_%28UEFA_Championsleague_2022-10-05%29_47.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FC_Salzburg_gegen_GNK_Dinamo_Zagreb_%28UEFA_Championsleague_2022-10-05%29_47.jpg/960px-FC_Salzburg_gegen_GNK_Dinamo_Zagreb_%28UEFA_Championsleague_2022-10-05%29_47.jpg",
+        "width": 1070,
+        "height": 1598,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/josip-\u0161utalo.jpg"
+      }
+    },
+    {
+      "slug": "josip-stani\u0161i\u0107",
+      "display_name": "Josip Stani\u0161i\u0107",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-04-02",
+      "age": 26,
+      "caps": 29,
+      "goals": 0,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Josip Stani\u0161i\u0107",
+      "date_of_birth": "2000-04-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q65950201",
+      "qid": "Q65950201",
+      "name": "Josip Stani\u0161i\u0107",
+      "description": "Croatian association football player",
+      "place_of_birth_qid": "Q1726",
+      "citizenship_qids": [
+        "Q183",
+        "Q224"
+      ],
+      "height_cm": 1.86,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q994701",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q15789",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q994701",
+      "image_filename": "Josip Stani\u0161i\u0107 during an Interview in 2023.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Josip_Stani%C5%A1i%C4%87",
+      "transfermarkt_id": "483046",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Germany",
+        "Croatia"
+      ],
+      "place_of_birth": "Munich",
+      "wikidata_current_club": "FC Bayern Munich II",
+      "wikidata_current_club_qid": "Q994701",
+      "photo": {
+        "filename": "Josip Stani\u0161i\u0107 during an Interview in 2023.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Josip_Stani%C5%A1i%C4%87_during_an_Interview_in_2023.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Josip_Stani%C5%A1i%C4%87_during_an_Interview_in_2023.png",
+        "width": 197,
+        "height": 291,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@PIXSELLagency\">PIXSELL</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/josip-stani\u0161i\u0107.png"
+      }
+    },
+    {
+      "slug": "marin-pongra\u010di\u0107",
+      "display_name": "Marin Pongra\u010di\u0107",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-09-11",
+      "age": 28,
+      "caps": 18,
+      "goals": 0,
+      "club_from_squad_table": "Fiorentina",
+      "wikipedia_title": "Marin Pongra\u010di\u0107",
+      "date_of_birth": "1997-09-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fiorentina",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q29427316",
+      "qid": "Q29427316",
+      "name": "Marin Pongra\u010di\u0107",
+      "description": "Croatian association football player",
+      "place_of_birth_qid": "Q3974",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 193.0,
+      "weight_kg": 85.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15789",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15789",
+      "image_filename": "FC Admira Wacker M\u00f6dling vs. FC Red Bull Salzburg 2018-04-15 (071).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marin_Pongra%C4%8Di%C4%87",
+      "transfermarkt_id": "282144",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Landshut",
+      "wikidata_current_club": "FC Bayern Munich",
+      "wikidata_current_club_qid": "Q15789",
+      "photo": {
+        "filename": "FC Admira Wacker M\u00f6dling vs. FC Red Bull Salzburg 2018-04-15 (071).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/FC_Admira_Wacker_M%C3%B6dling_vs._FC_Red_Bull_Salzburg_2018-04-15_%28071%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/FC_Admira_Wacker_M%C3%B6dling_vs._FC_Red_Bull_Salzburg_2018-04-15_%28071%29.jpg/960px-FC_Admira_Wacker_M%C3%B6dling_vs._FC_Red_Bull_Salzburg_2018-04-15_%28071%29.jpg",
+        "width": 2000,
+        "height": 3000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 21:13, 28 August 2018 (UTC)",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marin-pongra\u010di\u0107.jpg"
+      }
+    },
+    {
+      "slug": "martin-erli\u0107",
+      "display_name": "Martin Erli\u0107",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-01-24",
+      "age": 28,
+      "caps": 12,
+      "goals": 1,
+      "club_from_squad_table": "Midtjylland",
+      "wikipedia_title": "Martin Erli\u0107",
+      "date_of_birth": "1998-01-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Midtjylland",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q42319683",
+      "qid": "Q42319683",
+      "name": "Martin Erli\u0107",
+      "description": "Croatian association football player",
+      "place_of_birth_qid": "Q3370",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 193.0,
+      "weight_kg": 88.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2693",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2693",
+      "image_filename": "Martin-Erlic.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Erli%C4%87",
+      "transfermarkt_id": "357003",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Zadar",
+      "wikidata_current_club": "Parma Calcio 1913",
+      "wikidata_current_club_qid": "Q2693",
+      "photo": {
+        "filename": "Martin-Erlic.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Martin-Erlic.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Martin-Erlic.png",
+        "width": 341,
+        "height": 409,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@PIXSELLagency\">PIXSELL</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/martin-erli\u0107.png"
+      }
+    },
+    {
+      "slug": "luka-vu\u0161kovi\u0107",
+      "display_name": "Luka Vu\u0161kovi\u0107",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2007-02-24",
+      "age": 19,
+      "caps": 4,
+      "goals": 1,
+      "club_from_squad_table": "Hamburger SV",
+      "wikipedia_title": "Luka Vu\u0161kovi\u0107",
+      "date_of_birth": "2007-02-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Hamburger SV",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q115162374",
+      "qid": "Q115162374",
+      "name": "Luka Vu\u0161kovi\u0107",
+      "description": "Croatian footballer",
+      "place_of_birth_qid": "Q1663",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 193.0,
+      "weight_kg": 86.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q181216",
+          "start": "2020-00-00",
+          "end": "2024-12-00"
+        },
+        {
+          "team_qid": "Q18741",
+          "start": "2025-01-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q97905930",
+          "start": "2025-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q97905930",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luka_Vu%C5%A1kovi%C4%87",
+      "transfermarkt_id": "892160",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Split",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "luka-modri\u0107",
+      "display_name": "Luka Modri\u0107",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1985-09-09",
+      "age": 40,
+      "caps": 196,
+      "goals": 28,
+      "club_from_squad_table": "Milan",
+      "wikipedia_title": "Luka Modri\u0107",
+      "date_of_birth": "1985-09-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Milan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q483837",
+      "qid": "Q483837",
+      "name": "Luka Modri\u0107",
+      "description": "Croatian association football player (born 1985)",
+      "place_of_birth_qid": "Q3370",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 174.0,
+      "weight_kg": 65.0,
+      "position_qids": [
+        "Q6008848",
+        "Q90326494"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q399282",
+          "start": "2003-01-01",
+          "end": "2004-01-01"
+        },
+        {
+          "team_qid": "Q723644",
+          "start": "2004-01-01",
+          "end": "2005-01-01"
+        },
+        {
+          "team_qid": "Q172803",
+          "start": "2003-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q18741",
+          "start": "2008-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q3589940",
+          "start": "2001-01-01",
+          "end": "2001-01-01"
+        },
+        {
+          "team_qid": "Q3446766",
+          "start": "2003-01-01",
+          "end": "2004-01-01"
+        },
+        {
+          "team_qid": "Q2331381",
+          "start": "2004-01-01",
+          "end": "2005-01-01"
+        },
+        {
+          "team_qid": "Q134479",
+          "start": "2006-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2012-00-00",
+          "end": "2025-07-00"
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1543",
+      "image_filename": "Luka Modric Interview 2021 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+      "transfermarkt_id": "27992",
+      "fifa_player_id": "241559",
+      "positions": [
+        "central midfielder",
+        "attacking midfielder"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Zadar",
+      "wikidata_current_club": "AC Milan",
+      "wikidata_current_club_qid": "Q1543",
+      "photo": {
+        "filename": "Luka Modric Interview 2021 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Luka_Modric_Interview_2021_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Luka_Modric_Interview_2021_%28cropped%29.jpg",
+        "width": 559,
+        "height": 713,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Real Madrid",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/luka-modri\u0107.jpg"
+      }
+    },
+    {
+      "slug": "mateo-kova\u010di\u0107",
+      "display_name": "Mateo Kova\u010di\u0107",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-05-06",
+      "age": 32,
+      "caps": 111,
+      "goals": 5,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "Mateo Kova\u010di\u0107",
+      "date_of_birth": "1994-05-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q701297",
+      "qid": "Q701297",
+      "name": "Mateo Kova\u010di\u0107",
+      "description": "Croatian association football player (born 1994)",
+      "place_of_birth_qid": "Q41329",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 177.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q172803",
+          "start": "2010-00-00",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2015-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3589940",
+          "start": "2009-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q134479",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3446766",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q2331381",
+          "start": "2010-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "Chelsea vs. Arsenal, 29 May 2019 18 Kovacic.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mateo_Kova%C4%8Di%C4%87",
+      "transfermarkt_id": "51471",
+      "fifa_player_id": "339987",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Linz",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "Chelsea vs. Arsenal, 29 May 2019 18 Kovacic.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Chelsea_vs._Arsenal%2C_29_May_2019_18_Kovacic.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Chelsea_vs._Arsenal%2C_29_May_2019_18_Kovacic.jpg",
+        "width": 356,
+        "height": 484,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Amir Hosseini",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mateo-kova\u010di\u0107.jpg"
+      }
+    },
+    {
+      "slug": "mario-pa\u0161ali\u0107",
+      "display_name": "Mario Pa\u0161ali\u0107",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1995-02-09",
+      "age": 31,
+      "caps": 83,
+      "goals": 11,
+      "club_from_squad_table": "Atalanta",
+      "wikipedia_title": "Mario Pa\u0161ali\u0107",
+      "date_of_birth": "1995-02-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atalanta",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q14625183",
+      "qid": "Q14625183",
+      "name": "Mario Pa\u0161ali\u0107",
+      "description": "Croatian footballer",
+      "place_of_birth_qid": "Q1720",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 82.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q181216",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2014-01-01",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q3589940",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q2331381",
+          "start": "2014-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q134479",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q180305",
+          "start": "2015-07-03",
+          "end": "2016-06-30"
+        },
+        {
+          "team_qid": "Q3446766",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1886",
+          "start": "2018-07-25",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q10512",
+          "start": "2014-07-21",
+          "end": "2015-06-30"
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2016-08-27",
+          "end": "2017-06-30"
+        },
+        {
+          "team_qid": "Q29112",
+          "start": "2017-08-02",
+          "end": "2018-06-30"
+        },
+        {
+          "team_qid": "Q1886",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1886",
+      "image_filename": "Pasalic 6459 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mario_Pa%C5%A1ali%C4%87",
+      "transfermarkt_id": "205938",
+      "fifa_player_id": "380005",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Mainz",
+      "wikidata_current_club": "Atalanta BC",
+      "wikidata_current_club_qid": "Q1886",
+      "photo": {
+        "filename": "Pasalic 6459 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Pasalic_6459_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Pasalic_6459_%28cropped%29.jpg",
+        "width": 318,
+        "height": 488,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0421\u0430\u0434\u043e\u0432\u043d\u0438\u043a\u043e\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mario-pa\u0161ali\u0107.jpg"
+      }
+    },
+    {
+      "slug": "nikola-vla\u0161i\u0107",
+      "display_name": "Nikola Vla\u0161i\u0107",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-10-04",
+      "age": 28,
+      "caps": 61,
+      "goals": 10,
+      "club_from_squad_table": "Torino",
+      "wikipedia_title": "Nikola Vla\u0161i\u0107",
+      "date_of_birth": "1997-10-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Torino",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17501875",
+      "qid": "Q17501875",
+      "name": "Nikola Vla\u0161i\u0107",
+      "description": "Croatian association football player",
+      "place_of_birth_qid": "Q1663",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q5794",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q3589940",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3446766",
+          "start": "2015-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q2331381",
+          "start": "2015-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q176371",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q176371",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q18747",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q181216",
+          "start": "2014-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q134479",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2768",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q2768",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2768",
+      "image_filename": "Nikola Vla\u0161i\u0107 (CSKA Moscow, 19.08.2019).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nikola_Vla%C5%A1i%C4%87",
+      "transfermarkt_id": "293200",
+      "fifa_player_id": "201292238",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Split",
+      "wikidata_current_club": "Torino FC",
+      "wikidata_current_club_qid": "Q2768",
+      "photo": {
+        "filename": "Nikola Vla\u0161i\u0107 (CSKA Moscow, 19.08.2019).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Nikola_Vla%C5%A1i%C4%87_%28CSKA_Moscow%2C_19.08.2019%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Nikola_Vla%C5%A1i%C4%87_%28CSKA_Moscow%2C_19.08.2019%29.jpg",
+        "width": 764,
+        "height": 1156,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u043d\u043d\u0430 \u041d\u044d\u0441\u0441\u0438",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nikola-vla\u0161i\u0107.jpg"
+      }
+    },
+    {
+      "slug": "luka-su\u010di\u0107",
+      "display_name": "Luka Su\u010di\u0107",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-09-08",
+      "age": 23,
+      "caps": 19,
+      "goals": 1,
+      "club_from_squad_table": "Real Sociedad",
+      "wikipedia_title": "Luka Su\u010di\u0107",
+      "date_of_birth": "2002-09-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Sociedad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q67999144",
+      "qid": "Q67999144",
+      "name": "Luka Su\u010di\u0107",
+      "description": "Croatian association football player",
+      "place_of_birth_qid": "Q41329",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1387293",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q10315",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1387293",
+      "image_filename": "FC Red Bull Salzburg gegen Wolfsberger AC (2022-02-20) 32.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luka_Su%C4%8Di%C4%87",
+      "transfermarkt_id": "502722",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Linz",
+      "wikidata_current_club": "FC Liefering",
+      "wikidata_current_club_qid": "Q1387293",
+      "photo": {
+        "filename": "FC Red Bull Salzburg gegen Wolfsberger AC (2022-02-20) 32.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/FC_Red_Bull_Salzburg_gegen_Wolfsberger_AC_%282022-02-20%29_32.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FC_Red_Bull_Salzburg_gegen_Wolfsberger_AC_%282022-02-20%29_32.jpg/960px-FC_Red_Bull_Salzburg_gegen_Wolfsberger_AC_%282022-02-20%29_32.jpg",
+        "width": 2856,
+        "height": 3447,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/luka-su\u010di\u0107.jpg"
+      }
+    },
+    {
+      "slug": "martin-baturina",
+      "display_name": "Martin Baturina",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-02-16",
+      "age": 23,
+      "caps": 17,
+      "goals": 1,
+      "club_from_squad_table": "Como",
+      "wikipedia_title": "Martin Baturina",
+      "date_of_birth": "2003-02-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Como",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107446975",
+      "qid": "Q107446975",
+      "name": "Martin Baturina",
+      "description": "Croatian association football player (born 2003)",
+      "place_of_birth_qid": "Q1663",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 1.72,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "FC Salzburg gegen GNK Dinamo Zagreb (UEFA Championsleague 2022-10-05) 52 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Baturina",
+      "transfermarkt_id": "580451",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Split",
+      "photo": {
+        "filename": "FC Salzburg gegen GNK Dinamo Zagreb (UEFA Championsleague 2022-10-05) 52 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/FC_Salzburg_gegen_GNK_Dinamo_Zagreb_%28UEFA_Championsleague_2022-10-05%29_52_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FC_Salzburg_gegen_GNK_Dinamo_Zagreb_%28UEFA_Championsleague_2022-10-05%29_52_%28cropped%29.jpg/960px-FC_Salzburg_gegen_GNK_Dinamo_Zagreb_%28UEFA_Championsleague_2022-10-05%29_52_%28cropped%29.jpg",
+        "width": 1696,
+        "height": 2652,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/martin-baturina.jpg"
+      }
+    },
+    {
+      "slug": "kristijan-jaki\u0107",
+      "display_name": "Kristijan Jaki\u0107",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-05-14",
+      "age": 29,
+      "caps": 16,
+      "goals": 2,
+      "club_from_squad_table": "FC Augsburg",
+      "wikipedia_title": "Kristijan Jaki\u0107",
+      "date_of_birth": "1997-05-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "FC Augsburg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27106995",
+      "qid": "Q27106995",
+      "name": "Kristijan Jaki\u0107",
+      "description": "association football player",
+      "place_of_birth_qid": "Q1663",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 1.81,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q959086",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q959086",
+      "image_filename": "Kristijan-Jakic.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kristijan_Jaki%C4%87",
+      "transfermarkt_id": "374954",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Split",
+      "wikidata_current_club": "NK Lokomotiva",
+      "wikidata_current_club_qid": "Q959086",
+      "photo": {
+        "filename": "Kristijan-Jakic.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Kristijan-Jakic.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Kristijan-Jakic.png",
+        "width": 510,
+        "height": 469,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@PIXSELLagency\">PIXSELL</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kristijan-jaki\u0107.png"
+      }
+    },
+    {
+      "slug": "petar-su\u010di\u0107",
+      "display_name": "Petar Su\u010di\u0107",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-10-25",
+      "age": 22,
+      "caps": 15,
+      "goals": 1,
+      "club_from_squad_table": "Inter Milan",
+      "wikipedia_title": "Petar Su\u010di\u0107",
+      "date_of_birth": "2003-10-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Inter Milan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q120907522",
+      "qid": "Q120907522",
+      "name": "Petar Su\u010di\u0107",
+      "description": "Croatian footballer (born 2003)",
+      "place_of_birth_qid": "Q746073",
+      "height_cm": 1.83,
+      "image_filename": "Petar Su\u010di\u0107.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Petar_Su%C4%8Di%C4%87",
+      "transfermarkt_id": "668207",
+      "place_of_birth": "Livno",
+      "photo": {
+        "filename": "Petar Su\u010di\u0107.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Petar_Su%C4%8Di%C4%87.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Petar_Su%C4%8Di%C4%87.png",
+        "width": 152,
+        "height": 202,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@PIXSELLagency\">PIXSELL</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/petar-su\u010di\u0107.png"
+      }
+    },
+    {
+      "slug": "nikola-moro",
+      "display_name": "Nikola Moro",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-03-12",
+      "age": 28,
+      "caps": 9,
+      "goals": 0,
+      "club_from_squad_table": "Bologna",
+      "wikipedia_title": "Nikola Moro",
+      "date_of_birth": "1998-03-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bologna",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27914817",
+      "qid": "Q27914817",
+      "name": "Nikola Moro",
+      "description": "Croatian association football player",
+      "place_of_birth_qid": "Q642828",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q172803",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2331381",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q172803",
+      "image_filename": "Nikola Moro 2020.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nikola_Moro",
+      "transfermarkt_id": "316934",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Solin",
+      "wikidata_current_club": "GNK Dinamo Zagreb",
+      "wikidata_current_club_qid": "Q172803",
+      "photo": {
+        "filename": "Nikola Moro 2020.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Nikola_Moro_2020.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Nikola_Moro_2020.jpg",
+        "width": 505,
+        "height": 815,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0424\u041a \"\u0414\u0438\u043d\u0430\u043c\u043e\" \u041c\u043e\u0441\u043a\u0432\u0430",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nikola-moro.jpg"
+      }
+    },
+    {
+      "slug": "toni-fruk",
+      "display_name": "Toni Fruk",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-04-09",
+      "age": 25,
+      "caps": 7,
+      "goals": 1,
+      "club_from_squad_table": "Rijeka",
+      "wikipedia_title": "Toni Fruk",
+      "date_of_birth": "2001-04-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rijeka",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q109587383",
+      "qid": "Q109587383",
+      "name": "Toni Fruk",
+      "description": "Croatian association football player (born 2001)",
+      "place_of_birth_qid": "Q397652",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 174.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Toni_Fruk",
+      "transfermarkt_id": "432758",
+      "wikidata_date_of_birth": "2001-03-09",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Na\u0161ice",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "ivan-peri\u0161i\u0107",
+      "display_name": "Ivan Peri\u0161i\u0107",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1989-02-02",
+      "age": 37,
+      "caps": 152,
+      "goals": 38,
+      "club_from_squad_table": "PSV Eindhoven",
+      "wikipedia_title": "Ivan Peri\u0161i\u0107",
+      "date_of_birth": "1989-02-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "PSV Eindhoven",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q161054",
+      "qid": "Q161054",
+      "name": "Ivan Peri\u0161i\u0107",
+      "description": "Croatian association football player",
+      "place_of_birth_qid": "Q1663",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19512",
+          "start": "2007-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q190916",
+          "start": "2009-08-00",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q101859",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q134479",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1053917",
+          "start": "2009-01-00",
+          "end": "2009-06-00"
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2015-01-01",
+          "end": "2022-06-00"
+        },
+        {
+          "team_qid": "Q3589940",
+          "start": "2005-01-01",
+          "end": "2005-01-01"
+        },
+        {
+          "team_qid": "Q3446766",
+          "start": "2007-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q2331381",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2019-08-00",
+          "end": "2020-08-00"
+        },
+        {
+          "team_qid": "Q18741",
+          "start": "2022-06-00",
+          "end": "2024-07-01"
+        },
+        {
+          "team_qid": "Q181216",
+          "start": "2024-01-19",
+          "end": "2024-06-30"
+        },
+        {
+          "team_qid": "Q181216",
+          "start": "2024-07-00",
+          "end": "2024-09-00"
+        },
+        {
+          "team_qid": "Q11938",
+          "start": "2024-09-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q11938",
+      "image_filename": "Ivan Peri\u0161i\u0107 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ivan_Peri%C5%A1i%C4%87",
+      "transfermarkt_id": "42460",
+      "fifa_player_id": "359381",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Split",
+      "photo": {
+        "filename": "Ivan Peri\u0161i\u0107 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Ivan_Peri%C5%A1i%C4%87_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Ivan_Peri%C5%A1i%C4%87_%28cropped%29.jpg",
+        "width": 227,
+        "height": 343,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ivan-peri\u0161i\u0107.jpg"
+      }
+    },
+    {
+      "slug": "andrej-kramari\u0107",
+      "display_name": "Andrej Kramari\u0107",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1991-06-19",
+      "age": 34,
+      "caps": 114,
+      "goals": 36,
+      "club_from_squad_table": "TSG Hoffenheim",
+      "wikipedia_title": "Andrej Kramari\u0107",
+      "date_of_birth": "1991-06-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "TSG Hoffenheim",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q502898",
+      "qid": "Q502898",
+      "name": "Andrej Kramari\u0107",
+      "description": "Croatian association football player",
+      "place_of_birth_qid": "Q1435",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q22707",
+          "start": "2016-01-20",
+          "end": "2016-06-30"
+        },
+        {
+          "team_qid": "Q172803",
+          "start": "2009-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q959086",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q318969",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q19481",
+          "start": "2015-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q3589940",
+          "start": "2007-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q9306674",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q3446766",
+          "start": "2008-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q5187078",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q2331381",
+          "start": "2009-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q134479",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q22707",
+          "start": "2016-07-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q22707",
+      "image_filename": "Andrej Kramari\u0107 2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Andrej_Kramari%C4%87",
+      "transfermarkt_id": "46580",
+      "fifa_player_id": "336472",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Zagreb",
+      "wikidata_current_club": "TSG 1899 Hoffenheim",
+      "wikidata_current_club_qid": "Q22707",
+      "photo": {
+        "filename": "Andrej Kramari\u0107 2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Andrej_Kramari%C4%87_2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Andrej_Kramari%C4%87_2018.jpg",
+        "width": 666,
+        "height": 992,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u041a\u0438\u0440\u0438\u043b\u043b \u0412\u0435\u043d\u0435\u0434\u0438\u043a\u0442\u043e\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/andrej-kramari\u0107.jpg"
+      }
+    },
+    {
+      "slug": "ante-budimir",
+      "display_name": "Ante Budimir",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1991-07-22",
+      "age": 34,
+      "caps": 36,
+      "goals": 6,
+      "club_from_squad_table": "Osasuna",
+      "wikipedia_title": "Ante Budimir",
+      "date_of_birth": "1991-07-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Osasuna",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17505049",
+      "qid": "Q17505049",
+      "name": "Ante Budimir",
+      "description": "Croatian association football player (born 1991)",
+      "place_of_birth_qid": "Q184046",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q6690",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q723644",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q959086",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q6463",
+          "start": "2014-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q2331381",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q1457",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q6690",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q6690",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q8835",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q8835",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q10286",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q10286",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q134479",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q10286",
+      "image_filename": "Budimir, Ante FCSP 15-16 WP (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ante_Budimir",
+      "transfermarkt_id": "46413",
+      "fifa_player_id": "200735031",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Zenica",
+      "wikidata_current_club": "Club Atl\u00e9tico Osasuna",
+      "wikidata_current_club_qid": "Q10286",
+      "photo": {
+        "filename": "Budimir, Ante FCSP 15-16 WP (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Budimir%2C_Ante_FCSP_15-16_WP_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Budimir%2C_Ante_FCSP_15-16_WP_%28cropped%29.jpg",
+        "width": 575,
+        "height": 899,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Northside\" title=\"User:Northside\">Northside</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ante-budimir.jpg"
+      }
+    },
+    {
+      "slug": "marco-pa\u0161ali\u0107",
+      "display_name": "Marco Pa\u0161ali\u0107",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-09-14",
+      "age": 25,
+      "caps": 13,
+      "goals": 1,
+      "club_from_squad_table": "Orlando City",
+      "wikipedia_title": "Marco Pa\u0161ali\u0107",
+      "date_of_birth": "2000-09-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Orlando City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107641804",
+      "qid": "Q107641804",
+      "name": "Marco Pa\u0161ali\u0107",
+      "description": "Croatian-German associatiion football player",
+      "place_of_birth_qid": "Q1040",
+      "citizenship_qids": [
+        "Q183",
+        "Q224"
+      ],
+      "height_cm": 1.77,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Inter Miami CF 0-3 Orlando City SC (18 May 2025) 83 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marco_Pa%C5%A1ali%C4%87",
+      "transfermarkt_id": "395928",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Germany",
+        "Croatia"
+      ],
+      "place_of_birth": "Karlsruhe",
+      "photo": {
+        "filename": "Inter Miami CF 0-3 Orlando City SC (18 May 2025) 83 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Inter_Miami_CF_0-3_Orlando_City_SC_%2818_May_2025%29_83_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Inter_Miami_CF_0-3_Orlando_City_SC_%2818_May_2025%29_83_%28cropped%29.jpg",
+        "width": 300,
+        "height": 444,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:TheSoccerBoy\" title=\"User:TheSoccerBoy\">TheSoccerBoy</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marco-pa\u0161ali\u0107.jpg"
+      }
+    },
+    {
+      "slug": "petar-musa",
+      "display_name": "Petar Musa",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1998-03-04",
+      "age": 28,
+      "caps": 10,
+      "goals": 1,
+      "club_from_squad_table": "FC Dallas",
+      "wikipedia_title": "Petar Musa",
+      "date_of_birth": "1998-03-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "FC Dallas",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q84810924",
+      "qid": "Q84810924",
+      "name": "Petar Musa",
+      "description": "Croatian association football player",
+      "place_of_birth_qid": "Q1435",
+      "citizenship_qids": [
+        "Q224"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q194393",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q219703",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q194393",
+      "image_filename": "Petar Musa NY Red Bulls v FC Dallas 2 May 2026-53 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Petar_Musa",
+      "transfermarkt_id": "387110",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Croatia"
+      ],
+      "place_of_birth": "Zagreb",
+      "wikidata_current_club": "SK Slavia Prague",
+      "wikidata_current_club_qid": "Q194393",
+      "photo": {
+        "filename": "Petar Musa NY Red Bulls v FC Dallas 2 May 2026-53 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Petar_Musa_NY_Red_Bulls_v_FC_Dallas_2_May_2026-53_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Petar_Musa_NY_Red_Bulls_v_FC_Dallas_2_May_2026-53_%28cropped%29.jpg/960px-Petar_Musa_NY_Red_Bulls_v_FC_Dallas_2_May_2026-53_%28cropped%29.jpg",
+        "width": 2697,
+        "height": 4043,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/petar-musa.jpg"
+      }
+    },
+    {
+      "slug": "igor-matanovi\u0107",
+      "display_name": "Igor Matanovi\u0107",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2003-03-31",
+      "age": 23,
+      "caps": 8,
+      "goals": 2,
+      "club_from_squad_table": "SC Freiburg",
+      "wikipedia_title": "Igor Matanovi\u0107",
+      "date_of_birth": "2003-03-31",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "SC Freiburg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q102399064",
+      "qid": "Q102399064",
+      "name": "Igor Matanovi\u0107",
+      "description": "German association football player",
+      "place_of_birth_qid": "Q183",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 1.94,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Igor_Matanovi%C4%87",
+      "transfermarkt_id": "605268",
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Germany",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    }
+  ]
+}

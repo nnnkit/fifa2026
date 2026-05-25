@@ -1,0 +1,92 @@
+{
+  "slug": "warren-za\u00efre-emery",
+  "display_name": "Warren Za\u00efre-Emery",
+  "shirt_no": 18,
+  "position_code": "MF",
+  "dob": "2006-03-08",
+  "age": 20,
+  "caps": 10,
+  "goals": 1,
+  "club_from_squad_table": "Paris Saint-Germain",
+  "wikipedia_title": "Warren Za\u00efre-Emery",
+  "date_of_birth": "2006-03-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Paris Saint-Germain",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q111280241",
+  "qid": "Q111280241",
+  "name": "Warren Za\u00efre-Emery",
+  "description": "French footballer (born 2006)",
+  "place_of_birth_qid": "Q193370",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 1.78,
+  "position_qids": [
+    "Q18691898"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q483020",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590033",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1450557",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q2701714",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": "2023-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q47774",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q483020",
+  "image_filename": "Zaire asse psg 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Warren_Za%C3%AFre-Emery",
+  "transfermarkt_id": "810092",
+  "positions": [
+    "defensive midfielder"
+  ],
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "Montreuil",
+  "wikidata_current_club": "Paris Saint-Germain FC",
+  "wikidata_current_club_qid": "Q483020",
+  "photo": {
+    "filename": "Zaire asse psg 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Zaire_asse_psg_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Zaire_asse_psg_2425.png",
+    "width": 534,
+    "height": 829,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/warren-za\u00efre-emery.png"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "alexander-bernhardsson",
+  "display_name": "Alexander Bernhardsson",
+  "shirt_no": 21,
+  "position_code": "FW",
+  "dob": "1998-09-08",
+  "age": 27,
+  "caps": 9,
+  "goals": 0,
+  "club_from_squad_table": "Holstein Kiel",
+  "wikipedia_title": "Alexander Bernhardsson",
+  "date_of_birth": "1998-09-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Holstein Kiel",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q76591341",
+  "qid": "Q76591341",
+  "name": "Alexander Bernhardsson",
+  "description": "Swedish association football player",
+  "place_of_birth_qid": "Q25287",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 185.0,
+  "teams": [
+    {
+      "team_qid": "Q297906",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q11903335",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q211753",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q917708",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q9179167",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q157828",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q297906",
+  "image_filename": "2026-03-04 Alexander Bernhardsson.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Bernhardsson",
+  "transfermarkt_id": "633454",
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Gothenburg",
+  "wikidata_current_club": "\u00d6rgryte IS",
+  "wikidata_current_club_qid": "Q297906",
+  "photo": {
+    "filename": "2026-03-04 Alexander Bernhardsson.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/2026-03-04_Alexander_Bernhardsson.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2026-03-04_Alexander_Bernhardsson.jpg/960px-2026-03-04_Alexander_Bernhardsson.jpg",
+    "width": 3199,
+    "height": 3537,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lanthan2003&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lanthan2003 (page does not exist)\">Lanthan2003</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/alexander-bernhardsson.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

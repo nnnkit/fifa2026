@@ -1,0 +1,2533 @@
+{
+  "slug": "england",
+  "country": "England",
+  "wikidata_qid": "Q47762",
+  "fetched_at": "2026-05-24T17:30:47+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "jordan-pickford",
+      "display_name": "Jordan Pickford",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1994-03-07",
+      "age": 32,
+      "caps": 82,
+      "goals": 0,
+      "club_from_squad_table": "Everton",
+      "wikipedia_title": "Jordan Pickford",
+      "date_of_birth": "1994-03-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Everton",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q13014035",
+      "qid": "Q13014035",
+      "name": "Jordan Pickford",
+      "description": "English association football player (born 1994)",
+      "place_of_birth_qid": "Q1018448",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18739",
+          "start": "2011-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q909189",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q18506",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q48929",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q19575",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q48879",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q19612",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q5794",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q4201740",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q2752922",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q1049171",
+          "start": "2010-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q2358861",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2017-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q5794",
+      "image_filename": "Jordan Pickford 2022-07-16 1.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jordan_Pickford",
+      "transfermarkt_id": "130164",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Washington",
+      "wikidata_current_club": "Everton F.C.",
+      "wikidata_current_club_qid": "Q5794",
+      "photo": {
+        "filename": "Jordan Pickford 2022-07-16 1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Jordan_Pickford_2022-07-16_1.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Jordan_Pickford_2022-07-16_1.jpg",
+        "width": 612,
+        "height": 938,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Maryland GovPics",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jordan-pickford.jpg"
+      }
+    },
+    {
+      "slug": "dean-henderson",
+      "display_name": "Dean Henderson",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1997-03-12",
+      "age": 29,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Crystal Palace",
+      "wikipedia_title": "Dean Henderson",
+      "date_of_birth": "1997-03-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Crystal Palace",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28059260",
+      "qid": "Q28059260",
+      "name": "Dean Henderson",
+      "description": "English association football player (born 1997)",
+      "place_of_birth_qid": "Q1012481",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 85.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18656",
+          "start": "2015-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q18526",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q18515",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q19626",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q19607",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q19607",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q19490",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q19467",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q4201740",
+          "start": "2012-00-00",
+          "end": "2012-00-00"
+        },
+        {
+          "team_qid": "Q2752922",
+          "start": "2013-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19467",
+      "image_filename": "DeanHenderson2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dean_Henderson",
+      "transfermarkt_id": "258919",
+      "fifa_player_id": "400078494",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Whitehaven",
+      "wikidata_current_club": "Crystal Palace F.C.",
+      "wikidata_current_club_qid": "Q19467",
+      "photo": {
+        "filename": "DeanHenderson2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/DeanHenderson2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DeanHenderson2018.jpg/960px-DeanHenderson2018.jpg",
+        "width": 1945,
+        "height": 2867,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jrppezza&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jrppezza (page does not exist)\">Jrppezza</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dean-henderson.jpg"
+      }
+    },
+    {
+      "slug": "james-trafford",
+      "display_name": "James Trafford",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2002-10-10",
+      "age": 23,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "James Trafford",
+      "date_of_birth": "2002-10-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107985608",
+      "qid": "Q107985608",
+      "name": "Steppe Trafford",
+      "description": "English footballer (born 2002)",
+      "place_of_birth_qid": "Q241684",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 1.97,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q48843",
+          "start": "2021-07-00",
+          "end": "2022-01-00"
+        },
+        {
+          "team_qid": "Q19451",
+          "start": "2022-01-00",
+          "end": "2022-05-00"
+        },
+        {
+          "team_qid": "Q19451",
+          "start": "2022-07-00",
+          "end": "2023-05-00"
+        },
+        {
+          "team_qid": "Q19458",
+          "start": "2023-07-00",
+          "end": "2025-07-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2020-11-00",
+          "end": "2023-06-00"
+        },
+        {
+          "team_qid": "Q4201740",
+          "start": "2018-02-00",
+          "end": "2018-02-00"
+        },
+        {
+          "team_qid": "Q2752922",
+          "start": "2018-09-00",
+          "end": "2019-05-00"
+        },
+        {
+          "team_qid": "Q1049171",
+          "start": "2019-09-00",
+          "end": "2019-10-00"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2021-09-00",
+          "end": "2022-03-00"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2022-06-00",
+          "end": "2024-03-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "Queen Park Rangers v Burnley 26042025 (25) (James Trafford).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/James_Trafford",
+      "transfermarkt_id": "566799",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Cockermouth",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "Queen Park Rangers v Burnley 26042025 (25) (James Trafford).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Queen_Park_Rangers_v_Burnley_26042025_%2825%29_%28James_Trafford%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Queen_Park_Rangers_v_Burnley_26042025_%2825%29_%28James_Trafford%29.jpg",
+        "width": 514,
+        "height": 782,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/james-trafford.jpg"
+      }
+    },
+    {
+      "slug": "john-stones",
+      "display_name": "John Stones",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1994-05-28",
+      "age": 32,
+      "caps": 87,
+      "goals": 3,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "John Stones",
+      "date_of_birth": "1994-05-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q2025900",
+      "qid": "Q2025900",
+      "name": "John Stones",
+      "description": "English association football player (born 1994)",
+      "place_of_birth_qid": "Q54212",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q268258",
+        "Q18691898"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19442",
+          "start": "2011-00-00",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q5794",
+          "start": "2013-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2016-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2358861",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2013-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2014-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "John Stones 2018-06-24 1.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Stones",
+      "transfermarkt_id": "186590",
+      "fifa_player_id": "369434",
+      "positions": [
+        "centre-back",
+        "defensive midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Barnsley",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "John Stones 2018-06-24 1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/John_Stones_2018-06-24_1.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/John_Stones_2018-06-24_1.jpg",
+        "width": 514,
+        "height": 731,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/john-stones.jpg"
+      }
+    },
+    {
+      "slug": "marc-gu\u00e9hi",
+      "display_name": "Marc Gu\u00e9hi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-07-13",
+      "age": 25,
+      "caps": 27,
+      "goals": 1,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "Marc Gu\u00e9hi",
+      "date_of_birth": "2000-07-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q44737396",
+      "qid": "Q44737396",
+      "name": "Marc Gu\u00e9hi",
+      "description": "English association football player (born 2000)",
+      "place_of_birth_qid": "Q1515",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q9616",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q18659",
+          "start": "2020-01-10",
+          "end": "2020-07-31"
+        },
+        {
+          "team_qid": "Q18659",
+          "start": "2020-08-26",
+          "end": "2021-05-31"
+        },
+        {
+          "team_qid": "Q19467",
+          "start": "2021-00-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q4201740",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q2752922",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1049171",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2358861",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "Marc Guehi December 2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marc_Gu%C3%A9hi",
+      "transfermarkt_id": "392757",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Abidjan",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "Marc Guehi December 2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Marc_Guehi_December_2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Marc_Guehi_December_2018.jpg/960px-Marc_Guehi_December_2018.jpg",
+        "width": 1399,
+        "height": 1867,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/121676765@N07\">@cfcunofficial (Chelsea Debs) London</a> from London, UK",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marc-gu\u00e9hi.jpg"
+      }
+    },
+    {
+      "slug": "reece-james",
+      "display_name": "Reece James",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-12-08",
+      "age": 26,
+      "caps": 22,
+      "goals": 1,
+      "club_from_squad_table": "Chelsea",
+      "wikipedia_title": "Reece James",
+      "date_of_birth": "1999-12-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Chelsea",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q39076401",
+      "qid": "Q39076401",
+      "name": "Reece James",
+      "description": "English association football player (born 1999)",
+      "place_of_birth_qid": "Q3422834",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q9616",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18750",
+          "start": "2018-07-01",
+          "end": "2019-05-31"
+        },
+        {
+          "team_qid": "Q1049171",
+          "start": "2017-03-22",
+          "end": "2017-03-27"
+        },
+        {
+          "team_qid": "Q2358861",
+          "start": "2017-07-09",
+          "end": "2018-03-24"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2017-05-29",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9616",
+      "image_filename": "Reece James FIFA Club World Cup final extraction.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Reece_James",
+      "transfermarkt_id": "472423",
+      "fifa_player_id": "400087493",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Redbridge",
+      "wikidata_current_club": "Chelsea F.C.",
+      "wikidata_current_club_qid": "Q9616",
+      "photo": {
+        "filename": "Reece James FIFA Club World Cup final extraction.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Reece_James_FIFA_Club_World_Cup_final_extraction.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Reece_James_FIFA_Club_World_Cup_final_extraction.jpg",
+        "width": 350,
+        "height": 463,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "The White House",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/reece-james.jpg"
+      }
+    },
+    {
+      "slug": "ezri-konsa",
+      "display_name": "Ezri Konsa",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-10-23",
+      "age": 28,
+      "caps": 18,
+      "goals": 1,
+      "club_from_squad_table": "Aston Villa",
+      "wikipedia_title": "Ezri Konsa",
+      "date_of_birth": "1997-10-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Aston Villa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27063854",
+      "qid": "Q27063854",
+      "name": "Ezri Konsa",
+      "description": "English association football player (born 1997)",
+      "place_of_birth_qid": "Q208139",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q268258",
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19462",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q19571",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q18711",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18711",
+      "image_filename": "Ezri Konsa April 2026 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ezri_Konsa",
+      "transfermarkt_id": "413403",
+      "fifa_player_id": "403049",
+      "positions": [
+        "centre-back",
+        "full-back"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "London Borough of Newham",
+      "wikidata_current_club": "Aston Villa F.C.",
+      "wikidata_current_club_qid": "Q18711",
+      "photo": {
+        "filename": "Ezri Konsa April 2026 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ezri_Konsa_April_2026_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ezri_Konsa_April_2026_%28cropped%29.jpg",
+        "width": 700,
+        "height": 998,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MintyGel&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MintyGel (page does not exist)\">MintyGel</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ezri-konsa.jpg"
+      }
+    },
+    {
+      "slug": "dan-burn",
+      "display_name": "Dan Burn",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1992-05-09",
+      "age": 34,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Newcastle United",
+      "wikipedia_title": "Dan Burn",
+      "date_of_birth": "1992-05-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Newcastle United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q5213217",
+      "qid": "Q5213217",
+      "name": "Dan Burn",
+      "description": "English association football player (born 1992)",
+      "place_of_birth_qid": "Q886899",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 198.0,
+      "weight_kg": 87.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19444",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q19651",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q909189",
+          "start": "2009-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q18708",
+          "start": "2011-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q18750",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q18716",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18716",
+      "image_filename": "Dan Burn BCFC 2013.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Burn",
+      "transfermarkt_id": "134270",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Blyth",
+      "wikidata_current_club": "Newcastle United F.C.",
+      "wikidata_current_club_qid": "Q18716",
+      "photo": {
+        "filename": "Dan Burn BCFC 2013.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dan_Burn_BCFC_2013.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dan_Burn_BCFC_2013.jpg",
+        "width": 400,
+        "height": 579,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"https://en.wikipedia.org/wiki/User:Will_bcfc\" class=\"extiw\" title=\"en:User:Will bcfc\">Will bcfc</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dan-burn.jpg"
+      }
+    },
+    {
+      "slug": "tino-livramento",
+      "display_name": "Tino Livramento",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-11-12",
+      "age": 23,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Newcastle United",
+      "wikipedia_title": "Tino Livramento",
+      "date_of_birth": "2002-11-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Newcastle United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107930811",
+      "qid": "Q107930811",
+      "name": "Tino Livramento",
+      "description": "English association football player",
+      "place_of_birth_qid": "Q2213391",
+      "citizenship_qids": [
+        "Q145",
+        "Q45"
+      ],
+      "height_cm": 1.73,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18732",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q18716",
+          "start": "2023-08-08",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18716",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tino_Livramento",
+      "transfermarkt_id": "503981",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "United Kingdom",
+        "Portugal"
+      ],
+      "place_of_birth": "Croydon",
+      "wikidata_current_club": "Newcastle United F.C.",
+      "wikidata_current_club_qid": "Q18716",
+      "image_filename": "Manchester United v Southampton, 12 February 2022 (23).jpg",
+      "photo": {
+        "filename": "Manchester United v Southampton, 12 February 2022 (23).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Manchester_United_v_Southampton%2C_12_February_2022_%2823%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Manchester_United_v_Southampton%2C_12_February_2022_%2823%29.jpg/960px-Manchester_United_v_Southampton%2C_12_February_2022_%2823%29.jpg",
+        "width": 1971,
+        "height": 1833,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+        "source": "commons-category-search",
+        "local_path": "data/photos/tino-livramento.jpg"
+      }
+    },
+    {
+      "slug": "djed-spence",
+      "display_name": "Djed Spence",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-08-09",
+      "age": 25,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Tottenham Hotspur",
+      "wikipedia_title": "Djed Spence",
+      "date_of_birth": "2000-08-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Tottenham Hotspur",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q56222532",
+      "qid": "Q56222532",
+      "name": "Djed Spence",
+      "description": "English association football player",
+      "place_of_birth_qid": "Q84",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18661",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q18741",
+          "start": "2022-07-19",
+          "end": null
+        },
+        {
+          "team_qid": "Q19509",
+          "start": "2023-01-31",
+          "end": "2023-06-30"
+        },
+        {
+          "team_qid": "Q1128631",
+          "start": "2023-08-30",
+          "end": "2024-01-04"
+        },
+        {
+          "team_qid": "Q2074",
+          "start": "2024-01-11",
+          "end": "2024-06-00"
+        }
+      ],
+      "current_club_qid": "Q18741",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Djed_Spence",
+      "transfermarkt_id": "483348",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "London",
+      "wikidata_current_club": "Tottenham Hotspur F.C.",
+      "wikidata_current_club_qid": "Q18741",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "nico-oreilly",
+      "display_name": "Nico O'Reilly",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2005-03-21",
+      "age": 21,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "Nico O'Reilly",
+      "date_of_birth": "2005-03-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q118645253",
+      "qid": "Q118645253",
+      "name": "Nico O'Reilly",
+      "description": "English association football player (born 2005)",
+      "place_of_birth_qid": "Q18125",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 1.93,
+      "teams": [
+        {
+          "team_qid": "Q50602",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q4201740",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q2752922",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1049171",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "ManCity20240722-020.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nico_O%27Reilly",
+      "transfermarkt_id": "743413",
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Manchester",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "ManCity20240722-020.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/ManCity20240722-020.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/ManCity20240722-020.jpg",
+        "width": 932,
+        "height": 1600,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Hameltion\" title=\"User:Hameltion\">Hameltion</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nico-oreilly.jpg"
+      }
+    },
+    {
+      "slug": "jarell-quansah",
+      "display_name": "Jarell Quansah",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-01-29",
+      "age": 23,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Bayer Leverkusen",
+      "wikipedia_title": "Jarell Quansah",
+      "date_of_birth": "2003-01-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayer Leverkusen",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q112813857",
+      "qid": "Q112813857",
+      "name": "Jarell Quansah",
+      "description": "English association football player",
+      "place_of_birth_qid": "Q215733",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1130849",
+          "start": "2021-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q48925",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q4201740",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q2752922",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1049171",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q2358861",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q104761",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q104761",
+      "image_filename": "Jarell Quansah 06042025 (1).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jarell_Quansah",
+      "transfermarkt_id": "632349",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Warrington",
+      "wikidata_current_club": "Bayer 04 Leverkusen",
+      "wikidata_current_club_qid": "Q104761",
+      "photo": {
+        "filename": "Jarell Quansah 06042025 (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Jarell_Quansah_06042025_%281%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Jarell_Quansah_06042025_%281%29.jpg",
+        "width": 943,
+        "height": 1543,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jarell-quansah.jpg"
+      }
+    },
+    {
+      "slug": "jordan-henderson",
+      "display_name": "Jordan Henderson",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1990-06-17",
+      "age": 35,
+      "caps": 89,
+      "goals": 3,
+      "club_from_squad_table": "Brentford",
+      "wikipedia_title": "Jordan Henderson",
+      "date_of_birth": "1990-06-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Brentford",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q273715",
+      "qid": "Q273715",
+      "name": "Jordan Henderson",
+      "description": "English association football player (born 1990)",
+      "place_of_birth_qid": "Q188304",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 182.0,
+      "weight_kg": 67.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18739",
+          "start": "2008-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q19580",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2011-01-01",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q2358861",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2010-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2010-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q72844",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q81888",
+          "start": "2024-00-00",
+          "end": "2025-06-00"
+        },
+        {
+          "team_qid": "Q19571",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19571",
+      "image_filename": "2022-07-21 Fu\u00dfball, M\u00e4nner,Freundschaftsspiel, RB Leipzig - FC Liverpool 1DX 2238 by Stepro.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jordan_Henderson",
+      "transfermarkt_id": "61651",
+      "fifa_player_id": "356189",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Sunderland",
+      "wikidata_current_club": "Brentford F.C.",
+      "wikidata_current_club_qid": "Q19571",
+      "photo": {
+        "filename": "2022-07-21 Fu\u00dfball, M\u00e4nner,Freundschaftsspiel, RB Leipzig - FC Liverpool 1DX 2238 by Stepro.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2238_by_Stepro.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2238_by_Stepro.jpg/960px-2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2238_by_Stepro.jpg",
+        "width": 3162,
+        "height": 3162,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Pr\u00f6\u00dfdorf</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jordan-henderson.jpg"
+      }
+    },
+    {
+      "slug": "declan-rice",
+      "display_name": "Declan Rice",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1999-01-14",
+      "age": 27,
+      "caps": 72,
+      "goals": 6,
+      "club_from_squad_table": "Arsenal",
+      "wikipedia_title": "Declan Rice",
+      "date_of_birth": "1999-01-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Arsenal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30007142",
+      "qid": "Q30007142",
+      "name": "Declan Rice",
+      "description": "English footballer (born 1999)",
+      "place_of_birth_qid": "Q2321706",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q18691898"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18747",
+          "start": "2015-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q3590338",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q9306853",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1672798",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q163547",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9617",
+      "image_filename": "1 declan rice arsenal 2025 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Declan_Rice",
+      "transfermarkt_id": "357662",
+      "fifa_player_id": "201580814",
+      "positions": [
+        "defensive midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Kingston upon Thames",
+      "wikidata_current_club": "Arsenal F.C.",
+      "wikidata_current_club_qid": "Q9617",
+      "photo": {
+        "filename": "1 declan rice arsenal 2025 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/1_declan_rice_arsenal_2025_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/1_declan_rice_arsenal_2025_%28cropped%29.jpg/960px-1_declan_rice_arsenal_2025_%28cropped%29.jpg",
+        "width": 1960,
+        "height": 2411,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\">Chensiyuan</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/declan-rice.jpg"
+      }
+    },
+    {
+      "slug": "jude-bellingham",
+      "display_name": "Jude Bellingham",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-06-29",
+      "age": 22,
+      "caps": 46,
+      "goals": 6,
+      "club_from_squad_table": "Real Madrid",
+      "wikipedia_title": "Jude Bellingham",
+      "date_of_birth": "2003-06-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q66241169",
+      "qid": "Q66241169",
+      "name": "Jude Bellingham",
+      "description": "English association football player (born 2003)",
+      "place_of_birth_qid": "Q661707",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 186.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19444",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q4201740",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q2752922",
+          "start": "2019-09-06",
+          "end": "2019-09-10"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2020-09-04",
+          "end": "2020-10-13"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2020-11-12",
+          "end": null
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8682",
+      "image_filename": "25th Laureus World Sports Awards - Red Carpet - Jude Bellingham - 240422 190551-2 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jude_Bellingham",
+      "transfermarkt_id": "581678",
+      "fifa_player_id": "400136607",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Stourbridge",
+      "wikidata_current_club": "Real Madrid Club de F\u00fatbol",
+      "wikidata_current_club_qid": "Q8682",
+      "photo": {
+        "filename": "25th Laureus World Sports Awards - Red Carpet - Jude Bellingham - 240422 190551-2 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Jude_Bellingham_-_240422_190551-2_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Jude_Bellingham_-_240422_190551-2_%28cropped%29.jpg/960px-25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Jude_Bellingham_-_240422_190551-2_%28cropped%29.jpg",
+        "width": 1007,
+        "height": 1497,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Barcex\" title=\"User:Barcex\">Barcex</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jude-bellingham.jpg"
+      }
+    },
+    {
+      "slug": "morgan-rogers",
+      "display_name": "Morgan Rogers",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-07-26",
+      "age": 23,
+      "caps": 13,
+      "goals": 1,
+      "club_from_squad_table": "Aston Villa",
+      "wikipedia_title": "Morgan Rogers",
+      "date_of_birth": "2002-07-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Aston Villa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q61598452",
+      "qid": "Q61598452",
+      "name": "Morgan Rogers",
+      "description": "English association football player",
+      "place_of_birth_qid": "Q612260",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 1.89,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18744",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q18519",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q19568",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q19449",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q18661",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q18711",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q105089962",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q4201740",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2752922",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1049171",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18711",
+      "image_filename": "St. Louis City vs Aston Villa (Jul 2025) 18.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Morgan_Rogers",
+      "transfermarkt_id": "503743",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Halesowen",
+      "wikidata_current_club": "Aston Villa F.C.",
+      "wikidata_current_club_qid": "Q18711",
+      "photo": {
+        "filename": "St. Louis City vs Aston Villa (Jul 2025) 18.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Louis_City_vs_Aston_Villa_%28Jul_2025%29_18.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/St._Louis_City_vs_Aston_Villa_%28Jul_2025%29_18.jpg/960px-St._Louis_City_vs_Aston_Villa_%28Jul_2025%29_18.jpg",
+        "width": 1366,
+        "height": 2048,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://old.reddit.com/user/reepers_hellcat\">u/reepers_hellcat</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/morgan-rogers.jpg"
+      }
+    },
+    {
+      "slug": "kobbie-mainoo",
+      "display_name": "Kobbie Mainoo",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2005-04-19",
+      "age": 21,
+      "caps": 12,
+      "goals": 0,
+      "club_from_squad_table": "Manchester United",
+      "wikipedia_title": "Kobbie Mainoo",
+      "date_of_birth": "2005-04-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q114703020",
+      "qid": "Q114703020",
+      "name": "Kobbie Mainoo",
+      "description": "English footballer (born 2005)",
+      "place_of_birth_qid": "Q18655",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2752922",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1049171",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2358861",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18656",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kobbie_Mainoo",
+      "transfermarkt_id": "820374",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Stockport",
+      "wikidata_current_club": "Manchester United F.C.",
+      "wikidata_current_club_qid": "Q18656",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "elliot-anderson",
+      "display_name": "Elliot Anderson",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-11-06",
+      "age": 23,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Nottingham Forest",
+      "wikipedia_title": "Elliot Anderson (footballer)",
+      "date_of_birth": "2002-11-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nottingham Forest",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q104762954",
+      "qid": "Q104762954",
+      "name": "Elliot Anderson",
+      "description": "English association football player",
+      "place_of_birth_qid": "Q2575441",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18716",
+          "start": "2021-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q48925",
+          "start": "2022-02-00",
+          "end": "2022-05-00"
+        },
+        {
+          "team_qid": "Q3589864",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1812121",
+          "start": "2022-06-00",
+          "end": "2022-06-00"
+        },
+        {
+          "team_qid": "Q19490",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19490",
+      "image_filename": "Elliot Anderson Bristol Rovers.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Elliot_Anderson_(footballer)",
+      "transfermarkt_id": "567576",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Whitley Bay",
+      "wikidata_current_club": "Nottingham Forest F.C.",
+      "wikidata_current_club_qid": "Q19490",
+      "photo": {
+        "filename": "Elliot Anderson Bristol Rovers.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elliot_Anderson_Bristol_Rovers.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elliot_Anderson_Bristol_Rovers.jpg",
+        "width": 767,
+        "height": 1967,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:CLEMENATOR&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:CLEMENATOR (page does not exist)\">CLEMENATOR</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/elliot-anderson.jpg"
+      }
+    },
+    {
+      "slug": "harry-kane",
+      "display_name": "Harry Kane",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1993-07-28",
+      "age": 32,
+      "caps": 112,
+      "goals": 78,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Harry Kane",
+      "date_of_birth": "1993-07-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q969725",
+      "qid": "Q969725",
+      "name": "Harry Kane",
+      "description": "English association football player (born 1993)",
+      "place_of_birth_qid": "Q2321784",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 86.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18741",
+          "start": "2009-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q19595",
+          "start": "2011-00-00",
+          "end": "2011-00-00"
+        },
+        {
+          "team_qid": "Q19487",
+          "start": "2012-01-00",
+          "end": "2012-05-00"
+        },
+        {
+          "team_qid": "Q18721",
+          "start": "2012-08-00",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q19481",
+          "start": "2013-00-00",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2752922",
+          "start": "2010-00-00",
+          "end": "2010-00-00"
+        },
+        {
+          "team_qid": "Q2358861",
+          "start": "2010-00-00",
+          "end": "2012-00-00"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2013-00-00",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2013-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15789",
+      "image_filename": "Harry Kane 2023.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Harry_Kane",
+      "transfermarkt_id": "132098",
+      "fifa_player_id": "369419",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Walthamstow",
+      "wikidata_current_club": "FC Bayern Munich",
+      "wikidata_current_club_qid": "Q15789",
+      "photo": {
+        "filename": "Harry Kane 2023.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Harry_Kane_2023.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Harry_Kane_2023.jpg",
+        "width": 880,
+        "height": 1416,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/number10gov/\">Number 10</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/harry-kane.jpg"
+      }
+    },
+    {
+      "slug": "marcus-rashford",
+      "display_name": "Marcus Rashford",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1997-10-31",
+      "age": 28,
+      "caps": 70,
+      "goals": 18,
+      "club_from_squad_table": "Barcelona",
+      "wikipedia_title": "Marcus Rashford",
+      "date_of_birth": "1997-10-31",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barcelona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q22951255",
+      "qid": "Q22951255",
+      "name": "Marcus Rashford",
+      "description": "English association football player (born 1997)",
+      "place_of_birth_qid": "Q18125",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18711",
+          "start": "2025-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q4201740",
+          "start": "2012-01-01",
+          "end": "2012-00-00"
+        },
+        {
+          "team_qid": "Q1049171",
+          "start": "2014-01-01",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2016-03-27",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2016-09-06",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2016-05-27",
+          "end": null
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2015-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q7156",
+      "image_filename": "Marcus Rashford, FWC 2018 - Round of 16 - COL v ENG - Photo 106 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Rashford",
+      "transfermarkt_id": "258923",
+      "fifa_player_id": "401470",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Manchester",
+      "wikidata_current_club": "Futbol Club Barcelona",
+      "wikidata_current_club_qid": "Q7156",
+      "photo": {
+        "filename": "Marcus Rashford, FWC 2018 - Round of 16 - COL v ENG - Photo 106 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Marcus_Rashford%2C_FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_106_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Marcus_Rashford%2C_FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_106_%28cropped%29.jpg/960px-Marcus_Rashford%2C_FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_106_%28cropped%29.jpg",
+        "width": 1042,
+        "height": 1316,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Voltmetro\" title=\"User:Voltmetro\">Oleg Bkhambri (Voltmetro)</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marcus-rashford.jpg"
+      }
+    },
+    {
+      "slug": "bukayo-saka",
+      "display_name": "Bukayo Saka",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-09-05",
+      "age": 24,
+      "caps": 48,
+      "goals": 14,
+      "club_from_squad_table": "Arsenal",
+      "wikipedia_title": "Bukayo Saka",
+      "date_of_birth": "2001-09-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Arsenal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q59306386",
+      "qid": "Q59306386",
+      "name": "Bukayo Saka",
+      "description": "English footballer (born 2001)",
+      "place_of_birth_qid": "Q83726",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q9617",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q4201740",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q2752922",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1049171",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2358861",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9617",
+      "image_filename": "1 bukayo saka arsenal 2025 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bukayo_Saka",
+      "transfermarkt_id": "433177",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Ealing",
+      "wikidata_current_club": "Arsenal F.C.",
+      "wikidata_current_club_qid": "Q9617",
+      "photo": {
+        "filename": "1 bukayo saka arsenal 2025 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/1_bukayo_saka_arsenal_2025_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/1_bukayo_saka_arsenal_2025_%28cropped%29.jpg/960px-1_bukayo_saka_arsenal_2025_%28cropped%29.jpg",
+        "width": 2715,
+        "height": 3207,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\">Chensiyuan</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/bukayo-saka.jpg"
+      }
+    },
+    {
+      "slug": "ollie-watkins",
+      "display_name": "Ollie Watkins",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1995-12-30",
+      "age": 30,
+      "caps": 20,
+      "goals": 6,
+      "club_from_squad_table": "Aston Villa",
+      "wikipedia_title": "Ollie Watkins",
+      "date_of_birth": "1995-12-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Aston Villa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16911979",
+      "qid": "Q16911979",
+      "name": "Ollie Watkins",
+      "description": "English footballer (born 1995)",
+      "place_of_birth_qid": "Q209055",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q48939",
+          "start": "2014-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q2343389",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q19571",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q18711",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18711",
+      "image_filename": "Manchester United v Aston Villa, 25 September 2021 (17) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ollie_Watkins",
+      "transfermarkt_id": "324358",
+      "fifa_player_id": "400142245",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Torquay",
+      "wikidata_current_club": "Aston Villa F.C.",
+      "wikidata_current_club_qid": "Q18711",
+      "photo": {
+        "filename": "Manchester United v Aston Villa, 25 September 2021 (17) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Manchester_United_v_Aston_Villa%2C_25_September_2021_%2817%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Manchester_United_v_Aston_Villa%2C_25_September_2021_%2817%29_%28cropped%29.jpg",
+        "width": 399,
+        "height": 518,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ollie-watkins.jpg"
+      }
+    },
+    {
+      "slug": "anthony-gordon",
+      "display_name": "Anthony Gordon",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-02-24",
+      "age": 25,
+      "caps": 17,
+      "goals": 2,
+      "club_from_squad_table": "Newcastle United",
+      "wikipedia_title": "Anthony Gordon (footballer)",
+      "date_of_birth": "2001-02-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Newcastle United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q45179405",
+      "qid": "Q45179405",
+      "name": "Anthony Gordon",
+      "description": "English association football player (born 2001)",
+      "place_of_birth_qid": "Q24826",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q5794",
+          "start": "2017-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q19612",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q18716",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1049171",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q2358861",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18716",
+      "image_filename": "Gordon in 2024.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anthony_Gordon_(footballer)",
+      "transfermarkt_id": "503733",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Liverpool",
+      "wikidata_current_club": "Newcastle United F.C.",
+      "wikidata_current_club_qid": "Q18716",
+      "photo": {
+        "filename": "Gordon in 2024.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Gordon_in_2024.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gordon_in_2024.jpg/960px-Gordon_in_2024.jpg",
+        "width": 1440,
+        "height": 1169,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.youtube.com/@fuboTVOfficial\">https://www.youtube.com/@fuboTVOfficial</a> fuboTV",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/anthony-gordon.jpg"
+      }
+    },
+    {
+      "slug": "eberechi-eze",
+      "display_name": "Eberechi Eze",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1998-06-29",
+      "age": 27,
+      "caps": 16,
+      "goals": 3,
+      "club_from_squad_table": "Arsenal",
+      "wikipedia_title": "Eberechi Eze",
+      "date_of_birth": "1998-06-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Arsenal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28445512",
+      "qid": "Q28445512",
+      "name": "Eberechi Eze",
+      "description": "English association football player (born 1998)",
+      "place_of_birth_qid": "Q179385",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q90326494",
+        "Q114358158"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18723",
+          "start": "2016-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q48953",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q19467",
+          "start": "2020-00-00",
+          "end": "2025-08-00"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2025-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9617",
+      "image_filename": "Qpr2018eberechieeze001.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eberechi_Eze",
+      "transfermarkt_id": "479999",
+      "positions": [
+        "attacking midfielder",
+        "left winger"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Greenwich",
+      "wikidata_current_club": "Arsenal F.C.",
+      "wikidata_current_club_qid": "Q9617",
+      "photo": {
+        "filename": "Qpr2018eberechieeze001.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Qpr2018eberechieeze001.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Qpr2018eberechieeze001.jpg/960px-Qpr2018eberechieeze001.jpg",
+        "width": 2951,
+        "height": 3760,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"https://en.wikipedia.org/wiki/User:Jrppezza\" class=\"extiw\" title=\"en:User:Jrppezza\">Jrppezza</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/eberechi-eze.jpg"
+      }
+    },
+    {
+      "slug": "noni-madueke",
+      "display_name": "Noni Madueke",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2002-03-10",
+      "age": 24,
+      "caps": 10,
+      "goals": 1,
+      "club_from_squad_table": "Arsenal",
+      "wikipedia_title": "Noni Madueke",
+      "date_of_birth": "2002-03-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Arsenal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q66801705",
+      "qid": "Q66801705",
+      "name": "Noni Madueke",
+      "description": "English footballer (born 2002)",
+      "place_of_birth_qid": "Q2884709",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q13534332",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q11938",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q4201740",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2752922",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1049171",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9617",
+      "image_filename": "Fulham v Chelsea 20042025 (7) (Noni Madueke).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Noni_Madueke",
+      "transfermarkt_id": "503987",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Barnet",
+      "wikidata_current_club": "Arsenal F.C.",
+      "wikidata_current_club_qid": "Q9617",
+      "photo": {
+        "filename": "Fulham v Chelsea 20042025 (7) (Noni Madueke).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Fulham_v_Chelsea_20042025_%287%29_%28Noni_Madueke%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Fulham_v_Chelsea_20042025_%287%29_%28Noni_Madueke%29.jpg",
+        "width": 309,
+        "height": 395,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/noni-madueke.jpg"
+      }
+    },
+    {
+      "slug": "ivan-toney",
+      "display_name": "Ivan Toney",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-03-16",
+      "age": 30,
+      "caps": 7,
+      "goals": 1,
+      "club_from_squad_table": "Al-Ahli",
+      "wikipedia_title": "Ivan Toney",
+      "date_of_birth": "1996-03-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Ahli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16239819",
+      "qid": "Q16239819",
+      "name": "Ivan Toney",
+      "description": "English association football player",
+      "place_of_birth_qid": "Q192240",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q48945",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q18716",
+          "start": "2015-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q19442",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q19442",
+          "start": "2016-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q19626",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q19615",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q18750",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q19615",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q19495",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q19571",
+          "start": "2020-09-01",
+          "end": "2024-08-31"
+        },
+        {
+          "team_qid": "Q47762",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q44441",
+          "start": "2024-08-31",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q44441",
+      "image_filename": "Ivan Toney 2021 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ivan_Toney",
+      "transfermarkt_id": "251664",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Northampton",
+      "wikidata_current_club": "Al Ahli FC",
+      "wikidata_current_club_qid": "Q44441",
+      "photo": {
+        "filename": "Ivan Toney 2021 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ivan_Toney_2021_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ivan_Toney_2021_%28cropped%29.jpg",
+        "width": 897,
+        "height": 1728,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ivan-toney.jpg"
+      }
+    }
+  ]
+}

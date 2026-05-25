@@ -1,0 +1,64 @@
+{
+  "slug": "jehad-thakri",
+  "display_name": "Jehad Thakri",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-07-21",
+  "age": 24,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "Al-Qadsiah",
+  "wikipedia_title": "Jehad Thakri",
+  "date_of_birth": "2001-07-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Qadsiah",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q105658245",
+  "qid": "Q105658245",
+  "name": "Jehad Zekri",
+  "description": "Saudi Arabian footballer",
+  "place_of_birth_qid": "Q311266",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 1.83,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q286191",
+      "start": "2021-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2756148",
+      "start": "2024-04-00",
+      "end": "2024-04-00"
+    },
+    {
+      "team_qid": "Q189723",
+      "start": "2025-03-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q286191",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jehad_Thakri",
+  "transfermarkt_id": "901334",
+  "wikidata_date_of_birth": "2002-01-01",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Khobar",
+  "wikidata_current_club": "Al Qadsiah FC",
+  "wikidata_current_club_qid": "Q286191",
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

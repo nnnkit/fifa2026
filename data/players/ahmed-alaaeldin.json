@@ -1,0 +1,82 @@
+{
+  "slug": "ahmed-alaaeldin",
+  "display_name": "Ahmed Alaaeldin",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1993-01-31",
+  "age": 33,
+  "caps": 66,
+  "goals": 9,
+  "club_from_squad_table": "Al-Rayyan",
+  "wikipedia_title": "Ahmed Alaaeldin",
+  "date_of_birth": "1993-01-31",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Rayyan",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q4695740",
+  "qid": "Q4695740",
+  "name": "Ahmed Alaaeldin",
+  "description": "Qatari footballer",
+  "place_of_birth_qid": "Q217156",
+  "citizenship_qids": [
+    "Q846"
+  ],
+  "height_cm": 177.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q311268",
+      "start": "2012-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q428211",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2013-11-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873543",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q963238",
+      "start": "2014-00-00",
+      "end": "2016-00-00"
+    }
+  ],
+  "current_club_qid": "Q428211",
+  "image_filename": "Qatar v Japan – AFC Asian Cup 2019 final 04 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_Alaaeldin",
+  "transfermarkt_id": "187987",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Qatar"
+  ],
+  "place_of_birth": "Ismailia",
+  "wikidata_current_club": "Al-Gharafa SC",
+  "wikidata_current_club_qid": "Q428211",
+  "photo": {
+    "filename": "Qatar v Japan – AFC Asian Cup 2019 final 04 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Qatar_v_Japan_%E2%80%93_AFC_Asian_Cup_2019_final_04_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Qatar_v_Japan_%E2%80%93_AFC_Asian_Cup_2019_final_04_%28cropped%29.jpg",
+    "width": 364,
+    "height": 536,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Parto Joghataee",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ahmed-alaaeldin.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

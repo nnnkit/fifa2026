@@ -1,0 +1,76 @@
+{
+  "slug": "el-mehdi-al-harrar",
+  "display_name": "El Mehdi Al Harrar",
+  "shirt_no": 12,
+  "position_code": "GK",
+  "dob": "2000-11-30",
+  "age": 25,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Raja Casablanca",
+  "wikipedia_title": "El Mehdi Al Harrar",
+  "date_of_birth": "2000-11-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Raja Casablanca",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q130508822",
+  "qid": "Q130508822",
+  "name": "El Mehdi Al Harrar",
+  "description": "Moroccan professional footballer",
+  "place_of_birth_qid": "Q7903",
+  "citizenship_qids": [
+    "Q1028"
+  ],
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1058221",
+      "start": "2019-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q1051514",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19060379",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q207337",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1051514",
+  "image_filename": "Al Mehdi Al Harrar (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/El_Mehdi_Al_Harrar",
+  "transfermarkt_id": "822538",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Morocco"
+  ],
+  "place_of_birth": "Casablanca",
+  "wikidata_current_club": "Raja Club Athletic",
+  "wikidata_current_club_qid": "Q1051514",
+  "photo": {
+    "filename": "Al Mehdi Al Harrar (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Al_Mehdi_Al_Harrar_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Al_Mehdi_Al_Harrar_%28cropped%29.jpg",
+    "width": 826,
+    "height": 943,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Reda_benkhadra\" title=\"User:Reda benkhadra\">Reda benkhadra</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/el-mehdi-al-harrar.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

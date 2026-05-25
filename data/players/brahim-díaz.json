@@ -1,0 +1,100 @@
+{
+  "slug": "brahim-d\u00edaz",
+  "display_name": "Brahim D\u00edaz",
+  "shirt_no": 10,
+  "position_code": "FW",
+  "dob": "1999-08-03",
+  "age": 26,
+  "caps": 24,
+  "goals": 13,
+  "club_from_squad_table": "Real Madrid",
+  "wikipedia_title": "Brahim D\u00edaz",
+  "date_of_birth": "1999-08-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26973015",
+  "qid": "Q26973015",
+  "name": "Brahim D\u00edaz",
+  "description": "Moroccan association football player",
+  "place_of_birth_qid": "Q8851",
+  "citizenship_qids": [
+    "Q1028",
+    "Q29"
+  ],
+  "height_cm": 170.0,
+  "weight_kg": 59.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q50602",
+      "start": "2016-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1543",
+      "start": "2020-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q2310295",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q2713491",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1129595",
+      "start": "2017-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q42267",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q207337",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8682",
+  "image_filename": "Brahim Diaz 3 vs Niger (cropped) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brahim_D%C3%ADaz",
+  "transfermarkt_id": "314678",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Morocco",
+    "Spain"
+  ],
+  "place_of_birth": "M\u00e1laga",
+  "wikidata_current_club": "Real Madrid Club de F\u00fatbol",
+  "wikidata_current_club_qid": "Q8682",
+  "photo": {
+    "filename": "Brahim Diaz 3 vs Niger (cropped) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brahim_Diaz_3_vs_Niger_%28cropped%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brahim_Diaz_3_vs_Niger_%28cropped%29_%28cropped%29.jpg",
+    "width": 799,
+    "height": 1030,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Laloumance",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/brahim-d\u00edaz.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "boualem-khoukhi",
+  "display_name": "Boualem Khoukhi",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1990-07-09",
+  "age": 35,
+  "caps": 114,
+  "goals": 20,
+  "club_from_squad_table": "Al-Sadd",
+  "wikipedia_title": "Boualem Khoukhi",
+  "date_of_birth": "1990-07-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Sadd",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q3643114",
+  "qid": "Q3643114",
+  "name": "Boualem Khoukhi",
+  "description": "Qatari association football player",
+  "place_of_birth_qid": "Q1438489",
+  "citizenship_qids": [
+    "Q262",
+    "Q846"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 76.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q283760",
+      "start": "2009-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q3178121",
+      "start": "2007-00-00",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q3589664",
+      "start": "2010-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q283545",
+      "start": "2017-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q283545",
+  "image_filename": "Boualem Khoukhi.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Boualem_Khoukhi",
+  "transfermarkt_id": "222669",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Algeria",
+    "Qatar"
+  ],
+  "place_of_birth": "Bou Ismaïl",
+  "wikidata_current_club": "Al Sadd Sports Club",
+  "wikidata_current_club_qid": "Q283545",
+  "photo": {
+    "filename": "Boualem Khoukhi.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Boualem_Khoukhi.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Boualem_Khoukhi.png",
+    "width": 439,
+    "height": 600,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/dohastadiumplusqatar/\">Doha Stadium Plus</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/boualem-khoukhi.png"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

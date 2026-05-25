@@ -1,0 +1,87 @@
+{
+  "slug": "ismail-yüksek",
+  "display_name": "İsmail Yüksek",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1999-01-26",
+  "age": 27,
+  "caps": 31,
+  "goals": 1,
+  "club_from_squad_table": "Fenerbahçe",
+  "wikipedia_title": "İsmail Yüksek",
+  "date_of_birth": "1999-01-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Fenerbahçe",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q97320541",
+  "qid": "Q97320541",
+  "name": "İsmail Yüksek",
+  "description": "Turkish association football player (born 1999)",
+  "place_of_birth_qid": "Q217125",
+  "citizenship_qids": [
+    "Q43"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1559309",
+      "start": "2018-08-00",
+      "end": "2020-08-00"
+    },
+    {
+      "team_qid": "Q6601875",
+      "start": "2020-08-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q805909",
+      "start": "2020-10-00",
+      "end": "2021-01-00"
+    },
+    {
+      "team_qid": "Q352251",
+      "start": "2021-02-00",
+      "end": "2021-05-00"
+    },
+    {
+      "team_qid": "Q203573",
+      "start": "2021-08-00",
+      "end": "2022-05-00"
+    },
+    {
+      "team_qid": "Q483856",
+      "start": "2022-09-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q6601875",
+  "image_filename": "977561 sPICT (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%B0smail_Y%C3%BCksek",
+  "transfermarkt_id": "613725",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Turkey"
+  ],
+  "place_of_birth": "İznik",
+  "wikidata_current_club": "Fenerbahçe Istanbul",
+  "wikidata_current_club_qid": "Q6601875",
+  "photo": {
+    "filename": "977561 sPICT (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/977561_sPICT_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/977561_sPICT_%28cropped%29.jpg",
+    "width": 661,
+    "height": 894,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Вячеслав Евдокимов",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ismail-yüksek.jpg"
+  },
+  "team_slug": "turkey",
+  "team_country": "Turkey"
+}

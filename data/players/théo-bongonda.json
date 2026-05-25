@@ -1,0 +1,110 @@
+{
+  "slug": "th\u00e9o-bongonda",
+  "display_name": "Th\u00e9o Bongonda",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1995-11-20",
+  "age": 30,
+  "caps": 37,
+  "goals": 7,
+  "club_from_squad_table": "Spartak Moscow",
+  "wikipedia_title": "Th\u00e9o Bongonda",
+  "date_of_birth": "1995-11-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Spartak Moscow",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q14948183",
+  "qid": "Q14948183",
+  "name": "Theo Bongonda",
+  "description": "Congolese international footballer, of Belgian origin2, who plays the post of attacker at Spartak Moscow",
+  "place_of_birth_qid": "Q81046",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 177.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q376635",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3589896",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2014-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q8749",
+      "start": "2015-01-09",
+      "end": "2018-07-04"
+    },
+    {
+      "team_qid": "Q192641",
+      "start": "2017-07-01",
+      "end": "2018-01-24"
+    },
+    {
+      "team_qid": "Q376635",
+      "start": "2018-01-26",
+      "end": "2018-06-30"
+    },
+    {
+      "team_qid": "Q376635",
+      "start": "2018-07-04",
+      "end": "2019-06-13"
+    },
+    {
+      "team_qid": "Q216032",
+      "start": "2019-06-13",
+      "end": "2022-08-26"
+    },
+    {
+      "team_qid": "Q270080",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q460448",
+      "start": "2022-08-26",
+      "end": "2023-07-12"
+    },
+    {
+      "team_qid": "Q29112",
+      "start": "2023-07-12",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q29112",
+  "image_filename": "Theo Bongonda in 2025.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Th%C3%A9o_Bongonda",
+  "transfermarkt_id": "280701",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": null,
+  "photo": {
+    "filename": "Theo Bongonda in 2025.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Theo_Bongonda_in_2025.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Theo_Bongonda_in_2025.jpg",
+    "width": 460,
+    "height": 851,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u043d\u0430 \u041c\u0435\u0439\u0435\u0440",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/th\u00e9o-bongonda.jpg"
+  },
+  "team_slug": "dr-congo",
+  "team_country": "DR Congo"
+}

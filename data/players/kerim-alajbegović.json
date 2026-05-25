@@ -1,0 +1,82 @@
+{
+  "slug": "kerim-alajbegović",
+  "display_name": "Kerim Alajbegović",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2007-09-21",
+  "age": 18,
+  "caps": 8,
+  "goals": 1,
+  "club_from_squad_table": "Red Bull Salzburg",
+  "wikipedia_title": "Kerim Alajbegović",
+  "wikidata_qid": "Q130741313",
+  "qid": "Q130741313",
+  "name": "Kerim Alajbegović",
+  "description": "Bosnia and Herzegovina footballer (born 2007)",
+  "date_of_birth": "2007-09-21",
+  "place_of_birth_qid": "Q365",
+  "citizenship_qids": [
+    "Q225"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q994811",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q430190",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q844509",
+      "start": "2024-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q769512",
+      "start": "2024-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q994811",
+  "image_filename": "Jahresbeginnfeier FC RB Salzburg (2026-01-25 RB Arena) 10.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kerim_Alajbegovi%C4%87",
+  "transfermarkt_id": "929994",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Red Bull Salzburg",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Cologne",
+  "wikidata_current_club": "FC Red Bull Salzburg",
+  "wikidata_current_club_qid": "Q994811",
+  "photo": {
+    "filename": "Jahresbeginnfeier FC RB Salzburg (2026-01-25 RB Arena) 10.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg/960px-Jahresbeginnfeier_FC_RB_Salzburg_%282026-01-25_RB_Arena%29_10.jpg",
+    "width": 3370,
+    "height": 3872,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kerim-alajbegović.jpg"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

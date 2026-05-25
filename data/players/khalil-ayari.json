@@ -1,0 +1,43 @@
+{
+  "slug": "khalil-ayari",
+  "display_name": "Khalil Ayari",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2005-02-02",
+  "age": 21,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Paris Saint-Germain",
+  "wikipedia_title": "Khalil Ayari",
+  "date_of_birth": "2005-02-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Paris Saint-Germain",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q134711363",
+  "qid": "Q134711363",
+  "name": "Khalil Ayari",
+  "description": "Tunisian association football player",
+  "place_of_birth_qid": "Q3572",
+  "citizenship_qids": [
+    "Q948"
+  ],
+  "height_cm": 174.0,
+  "position_qids": [
+    "Q114358150"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Khalil_Ayari",
+  "transfermarkt_id": "1198342",
+  "positions": [
+    "right winger"
+  ],
+  "citizenship": [
+    "Tunisia"
+  ],
+  "place_of_birth": "Tunis",
+  "team_slug": "tunisia",
+  "team_country": "Tunisia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

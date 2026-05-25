@@ -1,0 +1,79 @@
+{
+  "slug": "vinícius-júnior",
+  "display_name": "Vinícius Júnior",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-07-12",
+  "age": 25,
+  "caps": 47,
+  "goals": 8,
+  "club_from_squad_table": "Real Madrid",
+  "wikipedia_title": "Vinícius Júnior",
+  "date_of_birth": "2000-07-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28973866",
+  "qid": "Q28973866",
+  "name": "Vinícius Júnior",
+  "description": "Brazilian association football player (born 2000)",
+  "place_of_birth_qid": "Q83114",
+  "citizenship_qids": [
+    "Q155",
+    "Q29"
+  ],
+  "height_cm": 176.0,
+  "weight_kg": 73.0,
+  "position_qids": [
+    "Q8025128",
+    "Q193592",
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q8682",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q17479",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8682",
+  "image_filename": "Vinicius Jr 2021.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior",
+  "transfermarkt_id": "371998",
+  "positions": [
+    "wing half",
+    "midfielder",
+    "forward"
+  ],
+  "citizenship": [
+    "Brazil",
+    "Spain"
+  ],
+  "place_of_birth": "São Gonçalo",
+  "wikidata_current_club": "Real Madrid Club de Fútbol",
+  "wikidata_current_club_qid": "Q8682",
+  "photo": {
+    "filename": "Vinicius Jr 2021.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Vinicius_Jr_2021.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Vinicius_Jr_2021.jpg",
+    "width": 680,
+    "height": 808,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Real Madrid",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/vinícius-júnior.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

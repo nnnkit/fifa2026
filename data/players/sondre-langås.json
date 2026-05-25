@@ -1,0 +1,67 @@
+{
+  "slug": "sondre-lang\u00e5s",
+  "display_name": "Sondre Lang\u00e5s",
+  "shirt_no": 24,
+  "position_code": "DF",
+  "dob": "2001-02-02",
+  "age": 25,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Derby County",
+  "wikipedia_title": "Sondre Lang\u00e5s",
+  "date_of_birth": "2001-02-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Derby County",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q102330606",
+  "qid": "Q102330606",
+  "name": "Sondre Lang\u00e5s",
+  "description": "Norwegian association football player",
+  "place_of_birth_qid": "Q6962086",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q5971873",
+      "start": "2020-11-03",
+      "end": null
+    },
+    {
+      "team_qid": "Q1112784",
+      "start": "2020-01-17",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q5971873",
+  "image_filename": "Sondre Lang\u00e5s 25042026 (1).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sondre_Lang%C3%A5s",
+  "transfermarkt_id": "737837",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "Namsos",
+  "wikidata_current_club": "IL Stj\u00f8rdals-Blink",
+  "wikidata_current_club_qid": "Q5971873",
+  "photo": {
+    "filename": "Sondre Lang\u00e5s 25042026 (1).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sondre_Lang%C3%A5s_25042026_%281%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sondre_Lang%C3%A5s_25042026_%281%29.jpg/960px-Sondre_Lang%C3%A5s_25042026_%281%29.jpg",
+    "width": 1878,
+    "height": 2126,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/sondre-lang\u00e5s.jpg"
+  },
+  "team_slug": "norway",
+  "team_country": "Norway"
+}

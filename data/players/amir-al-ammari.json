@@ -1,0 +1,84 @@
+{
+  "slug": "amir-al-ammari",
+  "display_name": "Amir Al-Ammari",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-07-27",
+  "age": 28,
+  "caps": 49,
+  "goals": 3,
+  "club_from_squad_table": "Cracovia",
+  "wikipedia_title": "Amir Al-Ammari",
+  "date_of_birth": "1997-07-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Cracovia",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q51756997",
+  "qid": "Q51756997",
+  "name": "Amir Al-Ammari",
+  "description": "football player",
+  "place_of_birth_qid": "Q25415",
+  "citizenship_qids": [
+    "Q34",
+    "Q796"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q935299",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q201567",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q584858",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q749138",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q931714",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q935299",
+  "image_filename": "Amir Al-Ammari (Halmstad vs Degerfors, 7 October 2023).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amir_Al-Ammari",
+  "transfermarkt_id": "303766",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Sweden",
+    "Iraq"
+  ],
+  "place_of_birth": "J\u00f6nk\u00f6ping",
+  "wikidata_current_club": "Husqvarna FF",
+  "wikidata_current_club_qid": "Q935299",
+  "photo": {
+    "filename": "Amir Al-Ammari (Halmstad vs Degerfors, 7 October 2023).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Amir_Al-Ammari_%28Halmstad_vs_Degerfors%2C_7_October_2023%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Amir_Al-Ammari_%28Halmstad_vs_Degerfors%2C_7_October_2023%29.jpg/960px-Amir_Al-Ammari_%28Halmstad_vs_Degerfors%2C_7_October_2023%29.jpg",
+    "width": 1836,
+    "height": 2604,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/198658015@N03\">Amanda Aikioniemi</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/amir-al-ammari.jpg"
+  },
+  "team_slug": "iraq",
+  "team_country": "Iraq"
+}

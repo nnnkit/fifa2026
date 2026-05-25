@@ -1,0 +1,62 @@
+{
+  "slug": "otabek-shukurov",
+  "display_name": "Otabek Shukurov",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-06-22",
+  "age": 29,
+  "caps": 82,
+  "goals": 9,
+  "club_from_squad_table": "Baniyas",
+  "wikipedia_title": "Otabek Shukurov",
+  "date_of_birth": "1996-06-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Baniyas",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26209536",
+  "qid": "Q26209536",
+  "name": "Otabek Shukurov",
+  "description": "association football player",
+  "place_of_birth_qid": "Q2631684",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q628763",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q628763",
+  "image_filename": "Otabek Shukurov.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Otabek_Shukurov",
+  "transfermarkt_id": "294525",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Chirakchi",
+  "wikidata_current_club": "F.C. Bunyodkor",
+  "wikidata_current_club_qid": "Q628763",
+  "photo": {
+    "filename": "Otabek Shukurov.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Otabek_Shukurov.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Otabek_Shukurov.jpg/960px-Otabek_Shukurov.jpg",
+    "width": 3072,
+    "height": 4080,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Laziz_Baxtiyorov\" title=\"User:Laziz Baxtiyorov\">Laziz Baxtiyorov</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/otabek-shukurov.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

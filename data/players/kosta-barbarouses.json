@@ -1,0 +1,116 @@
+{
+  "slug": "kosta-barbarouses",
+  "display_name": "Kosta Barbarouses",
+  "shirt_no": 17,
+  "position_code": "FW",
+  "dob": "1990-02-19",
+  "age": 36,
+  "caps": 74,
+  "goals": 10,
+  "club_from_squad_table": "Western Sydney Wanderers",
+  "wikipedia_title": "Kosta Barbarouses",
+  "date_of_birth": "1990-02-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Western Sydney Wanderers",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q771396",
+  "qid": "Q771396",
+  "name": "Kosta Barbarouses",
+  "description": "New Zealand footballer",
+  "place_of_birth_qid": "Q23661",
+  "citizenship_qids": [
+    "Q41",
+    "Q664"
+  ],
+  "height_cm": 171.0,
+  "weight_kg": 71.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q4122219",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q240438",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q542455",
+      "start": "2005-01-01",
+      "end": "2007-01-01"
+    },
+    {
+      "team_qid": "Q815890",
+      "start": "2007-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q839997",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q6722667",
+      "start": "2008-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q3590285",
+      "start": "2006-01-01",
+      "end": "2007-01-01"
+    },
+    {
+      "team_qid": "Q510953",
+      "start": "2008-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q175315",
+      "start": "2008-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q316789",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3720046",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q316789",
+  "image_filename": "New Zealand-Portugal (24) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kosta_Barbarouses",
+  "transfermarkt_id": "50200",
+  "fifa_player_id": "269592",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Greece",
+    "New Zealand"
+  ],
+  "place_of_birth": "Wellington",
+  "wikidata_current_club": "Melbourne Victory FC",
+  "wikidata_current_club_qid": "Q316789",
+  "photo": {
+    "filename": "New Zealand-Portugal (24) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/New_Zealand-Portugal_%2824%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/New_Zealand-Portugal_%2824%29_%28cropped%29.jpg",
+    "width": 600,
+    "height": 882,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u041a\u0438\u0440\u0438\u043b\u043b \u0412\u0435\u043d\u0435\u0434\u0438\u043a\u0442\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kosta-barbarouses.jpg"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand"
+}

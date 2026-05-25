@@ -1,0 +1,84 @@
+{
+  "slug": "marcelo-flores",
+  "display_name": "Marcelo Flores",
+  "shirt_no": 26,
+  "position_code": "MF",
+  "dob": "2003-10-01",
+  "age": 22,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "UANL",
+  "wikipedia_title": "Marcelo Flores",
+  "wikidata_qid": "Q100243106",
+  "qid": "Q100243106",
+  "name": "Marcelo Flores",
+  "description": "Canadian association football player (born 2003)",
+  "date_of_birth": "2003-10-01",
+  "place_of_birth_qid": "Q3103735",
+  "citizenship_qids": [
+    "Q16",
+    "Q96"
+  ],
+  "height_cm": 1.64,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q9653",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q4384231",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q271574",
+      "start": "2022-07-20",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q849823",
+      "start": "2023-09-08",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q849823",
+  "image_filename": "Inter Miami CF 2-1 UANL (20 August 2025) 26 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marcelo_Flores",
+  "transfermarkt_id": "668495",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "UANL",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Canada",
+    "Mexico"
+  ],
+  "place_of_birth": "Georgetown",
+  "wikidata_current_club": "Tigres UANL",
+  "wikidata_current_club_qid": "Q849823",
+  "photo": {
+    "filename": "Inter Miami CF 2-1 UANL (20 August 2025) 26 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Inter_Miami_CF_2-1_UANL_%2820_August_2025%29_26_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Inter_Miami_CF_2-1_UANL_%2820_August_2025%29_26_%28cropped%29.jpg",
+    "width": 833,
+    "height": 1201,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:TheSoccerBoy\" title=\"User:TheSoccerBoy\">TheSoccerBoy</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/marcelo-flores.jpg"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

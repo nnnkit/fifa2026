@@ -1,0 +1,64 @@
+{
+  "slug": "michael-woud",
+  "display_name": "Michael Woud",
+  "shirt_no": 22,
+  "position_code": "GK",
+  "dob": "1999-01-16",
+  "age": 27,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "Auckland FC",
+  "wikipedia_title": "Michael Woud",
+  "date_of_birth": "1999-01-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Auckland FC",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q54862548",
+  "qid": "Q54862548",
+  "name": "Michael Woud",
+  "description": "New Zealand association football player",
+  "place_of_birth_qid": "Q37100",
+  "citizenship_qids": [
+    "Q664"
+  ],
+  "height_cm": 194.0,
+  "position_qids": [
+    "Q172964"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q332664",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q332664",
+  "image_filename": "Michael Woud.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Woud",
+  "transfermarkt_id": "350347",
+  "fifa_player_id": "390218",
+  "uefa_player_id": "45028",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "New Zealand"
+  ],
+  "place_of_birth": "Auckland",
+  "wikidata_current_club": "Willem II",
+  "wikidata_current_club_qid": "Q332664",
+  "photo": {
+    "filename": "Michael Woud.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Michael_Woud.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Michael_Woud.jpg/960px-Michael_Woud.jpg",
+    "width": 1178,
+    "height": 1928,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/michael-woud.jpg"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand"
+}

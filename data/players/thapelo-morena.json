@@ -1,0 +1,74 @@
+{
+  "slug": "thapelo-morena",
+  "display_name": "Thapelo Morena",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1993-08-06",
+  "age": 32,
+  "caps": 33,
+  "goals": 3,
+  "club_from_squad_table": "Mamelodi Sundowns",
+  "wikipedia_title": "Thapelo Morena",
+  "wikidata_qid": "Q58582542",
+  "qid": "Q58582542",
+  "name": "Thapelo Morena",
+  "description": "football player",
+  "date_of_birth": "1993-08-06",
+  "place_of_birth_qid": "Q744437",
+  "citizenship_qids": [
+    "Q258"
+  ],
+  "height_cm": 170.0,
+  "weight_kg": 64.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q170327",
+      "start": "2015-03-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q884858",
+      "start": "2013-11-00",
+      "end": "2016-08-00"
+    },
+    {
+      "team_qid": "Q784965",
+      "start": "2016-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q784965",
+  "image_filename": "Go Ahead Eagles - Mamelodi Sundowns FC - 53066146134.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thapelo_Morena",
+  "transfermarkt_id": "297509",
+  "fifa_player_id": "395047",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Mamelodi Sundowns",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "South Africa"
+  ],
+  "place_of_birth": "Randfontein",
+  "wikidata_current_club": "Mamelodi Sundowns F.C.",
+  "wikidata_current_club_qid": "Q784965",
+  "photo": {
+    "filename": "Go Ahead Eagles - Mamelodi Sundowns FC - 53066146134.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Go_Ahead_Eagles_-_Mamelodi_Sundowns_FC_-_53066146134.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Go_Ahead_Eagles_-_Mamelodi_Sundowns_FC_-_53066146134.jpg/960px-Go_Ahead_Eagles_-_Mamelodi_Sundowns_FC_-_53066146134.jpg",
+    "width": 2666,
+    "height": 4000,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Carlo Bruil Fotografie",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/thapelo-morena.jpg"
+  },
+  "team_slug": "south-africa",
+  "team_country": "South Africa"
+}

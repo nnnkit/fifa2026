@@ -1,0 +1,104 @@
+{
+  "slug": "neymar",
+  "display_name": "Neymar",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1992-02-05",
+  "age": 34,
+  "caps": 128,
+  "goals": 79,
+  "club_from_squad_table": "Santos",
+  "wikipedia_title": "Neymar",
+  "date_of_birth": "1992-02-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Santos",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q142794",
+  "qid": "Q142794",
+  "name": "Neymar",
+  "description": "Brazilian association football player",
+  "place_of_birth_qid": "Q194332",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 175.0,
+  "weight_kg": 69.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q7156",
+      "start": "2013-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q80955",
+      "start": "2009-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2402747",
+      "start": "2009-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q2308235",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q899189",
+      "start": "2012-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2010-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2017-00-00",
+      "end": "2023-08-15"
+    },
+    {
+      "team_qid": "Q73965",
+      "start": "2023-08-15",
+      "end": "2025-01-00"
+    },
+    {
+      "team_qid": "Q80955",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q80955",
+  "image_filename": "20180610 FIFA Friendly Match Austria vs. Brazil Neymar 850 1705.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Neymar",
+  "transfermarkt_id": "68290",
+  "fifa_player_id": "314197",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "Mogi das Cruzes",
+  "wikidata_current_club": "Santos F.C.",
+  "wikidata_current_club_qid": "Q80955",
+  "photo": {
+    "filename": "20180610 FIFA Friendly Match Austria vs. Brazil Neymar 850 1705.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg/960px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg",
+    "width": 2739,
+    "height": 4108,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/neymar.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

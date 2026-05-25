@@ -1,0 +1,81 @@
+{
+  "slug": "nico-oreilly",
+  "display_name": "Nico O'Reilly",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2005-03-21",
+  "age": 21,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Manchester City",
+  "wikipedia_title": "Nico O'Reilly",
+  "date_of_birth": "2005-03-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q118645253",
+  "qid": "Q118645253",
+  "name": "Nico O'Reilly",
+  "description": "English association football player (born 2005)",
+  "place_of_birth_qid": "Q18125",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 1.93,
+  "teams": [
+    {
+      "team_qid": "Q50602",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q4201740",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q2752922",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1049171",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q1049176",
+      "start": "2024-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q47762",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q50602",
+  "image_filename": "ManCity20240722-020.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nico_O%27Reilly",
+  "transfermarkt_id": "743413",
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Manchester",
+  "wikidata_current_club": "Manchester City F.C.",
+  "wikidata_current_club_qid": "Q50602",
+  "photo": {
+    "filename": "ManCity20240722-020.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/ManCity20240722-020.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/ManCity20240722-020.jpg",
+    "width": 932,
+    "height": 1600,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Hameltion\" title=\"User:Hameltion\">Hameltion</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nico-oreilly.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

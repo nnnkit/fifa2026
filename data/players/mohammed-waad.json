@@ -1,0 +1,89 @@
+{
+  "slug": "mohammed-waad",
+  "display_name": "Mohammed Waad",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1999-09-18",
+  "age": 26,
+  "caps": 49,
+  "goals": 0,
+  "club_from_squad_table": "Al-Shamal",
+  "wikipedia_title": "Mohammed Waad",
+  "date_of_birth": "1999-09-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Shamal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28674143",
+  "qid": "Q28674143",
+  "name": "Mohammed Waad",
+  "description": "Iraqi-born Qatari footballer",
+  "place_of_birth_qid": "Q1530",
+  "citizenship_qids": [
+    "Q846",
+    "Q796"
+  ],
+  "height_cm": 1.83,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q283545",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q284452",
+      "start": "2019-01-00",
+      "end": "2019-06-00"
+    },
+    {
+      "team_qid": "Q283545",
+      "start": "2016-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q5193427",
+      "start": "2018-07-00",
+      "end": "2018-12-00"
+    },
+    {
+      "team_qid": "Q284281",
+      "start": "2019-07-00",
+      "end": "2020-02-00"
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q283545",
+  "image_filename": "Asian Nations Cup Iran - Qatar (22) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammed_Waad",
+  "transfermarkt_id": "481935",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Qatar",
+    "Iraq"
+  ],
+  "place_of_birth": "Baghdad",
+  "wikidata_current_club": "Al Sadd Sports Club",
+  "wikidata_current_club_qid": "Q283545",
+  "photo": {
+    "filename": "Asian Nations Cup Iran - Qatar (22) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Asian_Nations_Cup_Iran_-_Qatar_%2822%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Asian_Nations_Cup_Iran_-_Qatar_%2822%29_%28cropped%29.jpg",
+    "width": 270,
+    "height": 434,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "M.Sadegh Nikgostar",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mohammed-waad.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

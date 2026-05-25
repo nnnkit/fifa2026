@@ -1,0 +1,77 @@
+{
+  "slug": "abduvohid-nematov",
+  "display_name": "Abduvohid Nematov",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2001-03-20",
+  "age": 25,
+  "caps": 7,
+  "goals": 0,
+  "club_from_squad_table": "Nasaf",
+  "wikipedia_title": "Abduvohid Nematov",
+  "date_of_birth": "2001-03-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Nasaf",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q98887333",
+  "qid": "Q98887333",
+  "name": "Abduvohid Nematov",
+  "description": "Uzbekistani footballer",
+  "place_of_birth_qid": "Q572380",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "height_cm": 1.82,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1150723",
+      "start": "2018-01-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3328961",
+      "start": "2019-10-00",
+      "end": "2019-11-00"
+    },
+    {
+      "team_qid": "Q3247955",
+      "start": "2019-09-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q487321",
+      "start": "2020-09-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1150723",
+  "image_filename": "Abduvohid Nematov (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abduvohid_Nematov",
+  "transfermarkt_id": "527866",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Jizzakh",
+  "wikidata_current_club": "Nasaf Qarshi",
+  "wikidata_current_club_qid": "Q1150723",
+  "photo": {
+    "filename": "Abduvohid Nematov (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Abduvohid_Nematov_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Abduvohid_Nematov_%28cropped%29.jpg",
+    "width": 537,
+    "height": 582,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "NOC of Uzbekistan",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/abduvohid-nematov.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

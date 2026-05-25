@@ -1,0 +1,99 @@
+{
+  "slug": "stefan-de-vrij",
+  "display_name": "Stefan de Vrij",
+  "shirt_no": 6,
+  "position_code": "DF",
+  "dob": "1992-02-05",
+  "age": 34,
+  "caps": 79,
+  "goals": 4,
+  "club_from_squad_table": "Internazionale",
+  "wikipedia_title": "Stefan de Vrij",
+  "date_of_birth": "1992-02-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Internazionale",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q195953",
+  "qid": "Q195953",
+  "name": "Stefan de Vrij",
+  "description": "Dutch association football player (born 1992)",
+  "place_of_birth_qid": "Q2319907",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 189.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q134241",
+      "start": "2009-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q631",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q601723",
+      "start": "2008-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q514714",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q514714",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2609",
+      "start": "2014-00-00",
+      "end": "2018-00-00"
+    }
+  ],
+  "current_club_qid": "Q631",
+  "image_filename": "FC Salzburg gegen Inter Mailand (Testspiel 2023-08-09) 67 - Stefan de Vrij (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Stefan_de_Vrij",
+  "transfermarkt_id": "111196",
+  "fifa_player_id": "313021",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Ouderkerk aan den IJssel",
+  "wikidata_current_club": "Inter Milan",
+  "wikidata_current_club_qid": "Q631",
+  "photo": {
+    "filename": "FC Salzburg gegen Inter Mailand (Testspiel 2023-08-09) 67 - Stefan de Vrij (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/FC_Salzburg_gegen_Inter_Mailand_%28Testspiel_2023-08-09%29_67_-_Stefan_de_Vrij_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/FC_Salzburg_gegen_Inter_Mailand_%28Testspiel_2023-08-09%29_67_-_Stefan_de_Vrij_%28cropped%29.jpg",
+    "width": 900,
+    "height": 1400,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<b>Original: </b> <a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a> / <b>Derivative work: </b> <a href=\"//commons.wikimedia.org/w/index.php?title=User:Danyele&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Danyele (page does not exist)\">Danyele</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/stefan-de-vrij.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

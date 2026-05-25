@@ -1,0 +1,67 @@
+{
+  "slug": "rustam-ashurmatov",
+  "display_name": "Rustam Ashurmatov",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-07-07",
+  "age": 29,
+  "caps": 47,
+  "goals": 1,
+  "club_from_squad_table": "Esteghlal",
+  "wikipedia_title": "Rustam Ashurmatov",
+  "date_of_birth": "1996-07-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Esteghlal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q55138415",
+  "qid": "Q55138415",
+  "name": "Rustam Ashurmatov",
+  "description": "Uzbekistani association football player",
+  "place_of_birth_qid": "Q489890",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q628763",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q170040",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q628763",
+  "image_filename": "Rustamjon Ashurmatov (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rustam_Ashurmatov",
+  "transfermarkt_id": "288883",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Kokand",
+  "wikidata_current_club": "F.C. Bunyodkor",
+  "wikidata_current_club_qid": "Q628763",
+  "photo": {
+    "filename": "Rustamjon Ashurmatov (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Rustamjon_Ashurmatov_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rustamjon_Ashurmatov_%28cropped%29.jpg/960px-Rustamjon_Ashurmatov_%28cropped%29.jpg",
+    "width": 1559,
+    "height": 1634,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:UmirovaDilshoda&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:UmirovaDilshoda (page does not exist)\">UmirovaDilshoda</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/rustam-ashurmatov.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

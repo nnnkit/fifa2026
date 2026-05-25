@@ -1,0 +1,64 @@
+{
+  "slug": "sebasti\u00e1n-villa",
+  "display_name": "Sebasti\u00e1n Villa",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1996-05-19",
+  "age": 30,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Independiente Rivadavia",
+  "wikipedia_title": "Sebasti\u00e1n Villa (footballer)",
+  "date_of_birth": "1996-05-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Independiente Rivadavia",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q47494583",
+  "qid": "Q47494583",
+  "name": "Sebasti\u00e1n Villa",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q816024",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 179.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q3446915"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q170703",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q332532",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q374254",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q170703",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Villa_(footballer)",
+  "transfermarkt_id": "493000",
+  "positions": [
+    "attacker"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Belllo",
+  "wikidata_current_club": "Boca Juniors",
+  "wikidata_current_club_qid": "Q170703",
+  "team_slug": "colombia",
+  "team_country": "Colombia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

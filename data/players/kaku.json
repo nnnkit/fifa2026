@@ -1,0 +1,80 @@
+{
+  "slug": "kaku",
+  "display_name": "Kaku",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1995-01-11",
+  "age": 31,
+  "caps": 32,
+  "goals": 5,
+  "club_from_squad_table": "Al Ain",
+  "wikipedia_title": "Kaku (footballer)",
+  "date_of_birth": "1995-01-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al Ain",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19319791",
+  "qid": "Q19319791",
+  "name": "Alejandro Romero Gamarra",
+  "description": "Argentine-Paraguayan footballer",
+  "place_of_birth_qid": "Q1328458",
+  "citizenship_qids": [
+    "Q414",
+    "Q733"
+  ],
+  "height_cm": 165.0,
+  "weight_kg": 60.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q327172",
+      "start": "2013-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": "2015-01-01",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q204220",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q172020",
+      "start": "2018-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q204220",
+  "image_filename": "Alejandro Romero 20180612 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kaku_(footballer)",
+  "transfermarkt_id": "355817",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Argentina",
+    "Paraguay"
+  ],
+  "place_of_birth": "Ciudadela",
+  "wikidata_current_club": "Red Bull New York",
+  "wikidata_current_club_qid": "Q204220",
+  "photo": {
+    "filename": "Alejandro Romero 20180612 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Alejandro_Romero_20180612_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Alejandro_Romero_20180612_%28cropped%29.jpg",
+    "width": 463,
+    "height": 640,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Lokomotive74\" title=\"User:Lokomotive74\">El Loko</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kaku.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "manuel-ugarte",
+  "display_name": "Manuel Ugarte",
+  "shirt_no": 5,
+  "position_code": "MF",
+  "dob": "2001-04-11",
+  "age": 25,
+  "caps": 36,
+  "goals": 1,
+  "club_from_squad_table": "Manchester United",
+  "wikipedia_title": "Manuel Ugarte (footballer)",
+  "date_of_birth": "2001-04-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27960175",
+  "qid": "Q27960175",
+  "name": "Manuel Ugarte",
+  "description": "Uruguayan association football player",
+  "place_of_birth_qid": "Q1335",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 1.82,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q978110",
+      "start": "2016-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q1387105",
+      "start": "2020-12-29",
+      "end": "2021-08-09"
+    },
+    {
+      "team_qid": "Q75729",
+      "start": "2021-08-09",
+      "end": "2023-07-07"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2023-07-07",
+      "end": "2024-08-30"
+    },
+    {
+      "team_qid": "Q2442864",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q134916",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2024-08-30",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18656",
+  "image_filename": "M.UGARTE.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Manuel_Ugarte_(footballer)",
+  "transfermarkt_id": "476701",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Montevideo",
+  "wikidata_current_club": "Manchester United F.C.",
+  "wikidata_current_club_qid": "Q18656",
+  "photo": {
+    "filename": "M.UGARTE.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/M.UGARTE.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/M.UGARTE.jpg",
+    "width": 584,
+    "height": 930,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Atmedia25&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Atmedia25 (page does not exist)\">Atmedia25</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/manuel-ugarte.jpg"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

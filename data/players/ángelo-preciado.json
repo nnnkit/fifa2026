@@ -1,0 +1,77 @@
+{
+  "slug": "\u00e1ngelo-preciado",
+  "display_name": "\u00c1ngelo Preciado",
+  "shirt_no": 17,
+  "position_code": "DF",
+  "dob": "1998-02-18",
+  "age": 28,
+  "caps": 53,
+  "goals": 0,
+  "club_from_squad_table": "Atl\u00e9tico Mineiro",
+  "wikipedia_title": "\u00c1ngelo Preciado",
+  "date_of_birth": "1998-02-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atl\u00e9tico Mineiro",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q56599873",
+  "qid": "Q56599873",
+  "name": "Angelo Preciado",
+  "description": "Ecuadorian association football player",
+  "place_of_birth_qid": "Q1992924",
+  "citizenship_qids": [
+    "Q736"
+  ],
+  "height_cm": 1.73,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q249648",
+      "start": null,
+      "end": "2021-01-00"
+    },
+    {
+      "team_qid": "Q216032",
+      "start": "2021-01-00",
+      "end": "2023-09-00"
+    },
+    {
+      "team_qid": "Q193481",
+      "start": "2023-09-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q987584",
+      "start": "2018-10-12",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q193481",
+  "image_filename": "Angelo Preciado.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81ngelo_Preciado",
+  "transfermarkt_id": "450241",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Ecuador"
+  ],
+  "place_of_birth": "Shushufindi Canton",
+  "wikidata_current_club": "AC Sparta Prague",
+  "wikidata_current_club_qid": "Q193481",
+  "photo": {
+    "filename": "Angelo Preciado.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Angelo_Preciado.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Angelo_Preciado.jpg",
+    "width": 275,
+    "height": 384,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "\u062d\u0633\u06cc\u0646 \u0638\u0647\u0631\u0648\u0646\u062f",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/\u00e1ngelo-preciado.jpg"
+  },
+  "team_slug": "ecuador",
+  "team_country": "Ecuador"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "richard-r\u00edos",
+  "display_name": "Richard R\u00edos",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2000-06-02",
+  "age": 26,
+  "caps": 30,
+  "goals": 2,
+  "club_from_squad_table": "Benfica",
+  "wikipedia_title": "Richard R\u00edos",
+  "date_of_birth": "2000-06-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Benfica",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q117322318",
+  "qid": "Q117322318",
+  "name": "Richard R\u00edos",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q1576012",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 187.0,
+  "position_qids": [
+    "Q6008848"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q131499",
+      "start": "2025-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q17479",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q96045907",
+      "start": "2021-07-00",
+      "end": "2022-06-00"
+    },
+    {
+      "team_qid": "Q1133475",
+      "start": "2022-08-00",
+      "end": "2023-03-00"
+    },
+    {
+      "team_qid": "Q212564",
+      "start": "2023-10-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q80964",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    }
+  ],
+  "current_club_qid": "Q131499",
+  "image_filename": "Richard-Rios-Palmeiras-Liverpool-abr24.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_R%C3%ADos",
+  "transfermarkt_id": "735573",
+  "positions": [
+    "central midfielder"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Vegachi",
+  "wikidata_current_club": "S.L. Benfica",
+  "wikidata_current_club_qid": "Q131499",
+  "photo": {
+    "filename": "Richard-Rios-Palmeiras-Liverpool-abr24.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Richard-Rios-Palmeiras-Liverpool-abr24.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Richard-Rios-Palmeiras-Liverpool-abr24.jpg/960px-Richard-Rios-Palmeiras-Liverpool-abr24.jpg",
+    "width": 2391,
+    "height": 3190,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:NullReason\" title=\"User:NullReason\">NullReason</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/richard-r\u00edos.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "carl-sainté",
+  "display_name": "Carl Sainté",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2002-08-09",
+  "age": 23,
+  "caps": 25,
+  "goals": 0,
+  "club_from_squad_table": "El Paso Locomotive FC",
+  "wikipedia_title": "Carl Sainté",
+  "date_of_birth": "2002-08-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "El Paso Locomotive FC",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q111345092",
+  "qid": "Q111345092",
+  "name": "Carl Sainté",
+  "description": "Haitian footballer",
+  "place_of_birth_qid": "Q2536972",
+  "citizenship_qids": [
+    "Q790"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Saint%C3%A9",
+  "transfermarkt_id": "718244",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Haiti"
+  ],
+  "place_of_birth": "Grand-Goâve",
+  "team_slug": "haiti",
+  "team_country": "Haiti",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

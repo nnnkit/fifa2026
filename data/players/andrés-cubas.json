@@ -1,0 +1,81 @@
+{
+  "slug": "andrés-cubas",
+  "display_name": "Andrés Cubas",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-05-22",
+  "age": 30,
+  "caps": 32,
+  "goals": 0,
+  "club_from_squad_table": "Vancouver Whitecaps FC",
+  "wikipedia_title": "Andrés Cubas",
+  "date_of_birth": "1996-05-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Vancouver Whitecaps FC",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16298600",
+  "qid": "Q16298600",
+  "name": "Andrés Cubas",
+  "description": "Argentine-Paraguayan footballer",
+  "place_of_birth_qid": "Q2861426",
+  "citizenship_qids": [
+    "Q414",
+    "Q733"
+  ],
+  "height_cm": 163.0,
+  "weight_kg": 60.0,
+  "position_qids": [
+    "Q904289"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1024338",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2710",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q170703",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1024338",
+  "image_filename": "InddelVal-Boca (3).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Cubas",
+  "transfermarkt_id": "323872",
+  "wikidata_date_of_birth": "1996-06-22",
+  "positions": [
+    "stopper"
+  ],
+  "citizenship": [
+    "Argentina",
+    "Paraguay"
+  ],
+  "place_of_birth": "Aristóbulo del Valle",
+  "wikidata_current_club": "Defensa y Justicia",
+  "wikidata_current_club_qid": "Q1024338",
+  "photo": {
+    "filename": "InddelVal-Boca (3).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/InddelVal-Boca_%283%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/InddelVal-Boca_%283%29.jpg",
+    "width": 744,
+    "height": 1170,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/agenciaandes_ec/\">Agencia de Noticias ANDES</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/andrés-cubas.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

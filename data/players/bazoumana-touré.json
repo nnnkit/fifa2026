@@ -1,0 +1,47 @@
+{
+  "slug": "bazoumana-touré",
+  "display_name": "Bazoumana Touré",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2006-03-02",
+  "age": 20,
+  "caps": 5,
+  "goals": 2,
+  "club_from_squad_table": "TSG Hoffenheim",
+  "wikipedia_title": "Bazoumana Touré",
+  "date_of_birth": "2006-03-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "TSG Hoffenheim",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q125805788",
+  "qid": "Q125805788",
+  "name": "Bazoumana Touré",
+  "description": "Ivorian footballer",
+  "place_of_birth_qid": "Q271000",
+  "citizenship_qids": [
+    "Q1008"
+  ],
+  "height_cm": 1.75,
+  "teams": [
+    {
+      "team_qid": "Q460724",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q460724",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bazoumana_Tour%C3%A9",
+  "transfermarkt_id": "1067904",
+  "citizenship": [
+    "Ivory Coast"
+  ],
+  "place_of_birth": "Bouaké",
+  "wikidata_current_club": "Hammarby Fotboll",
+  "wikidata_current_club_qid": "Q460724",
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

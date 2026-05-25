@@ -1,0 +1,74 @@
+{
+  "slug": "mohamed-amoura",
+  "display_name": "Mohamed Amoura",
+  "shirt_no": 18,
+  "position_code": "FW",
+  "dob": "2000-05-09",
+  "age": 26,
+  "caps": 44,
+  "goals": 19,
+  "club_from_squad_table": "VfL Wolfsburg",
+  "wikipedia_title": "Mohamed Amoura",
+  "date_of_birth": "2000-05-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "VfL Wolfsburg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q107285723",
+  "qid": "Q107285723",
+  "name": "Mohamed Amoura",
+  "description": "Algerian footballer",
+  "place_of_birth_qid": "Q312095",
+  "citizenship_qids": [
+    "Q39",
+    "Q31",
+    "Q262"
+  ],
+  "height_cm": 1.68,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q633521",
+      "start": "2021-08-29",
+      "end": "2023-08-17"
+    },
+    {
+      "team_qid": "Q196160",
+      "start": "2023-08-18",
+      "end": null
+    },
+    {
+      "team_qid": "Q101859",
+      "start": "2024-07-08",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q101859",
+  "image_filename": "Mohammed Amoura training against Mozambique.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Amoura",
+  "transfermarkt_id": "746910",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Switzerland",
+    "Belgium",
+    "Algeria"
+  ],
+  "place_of_birth": "Taher",
+  "photo": {
+    "filename": "Mohammed Amoura training against Mozambique.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mohammed_Amoura_training_against_Mozambique.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mohammed_Amoura_training_against_Mozambique.png",
+    "width": 294,
+    "height": 289,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "SAMFOOTX",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mohamed-amoura.png"
+  },
+  "team_slug": "algeria",
+  "team_country": "Algeria"
+}

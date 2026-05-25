@@ -1,0 +1,2850 @@
+{
+  "slug": "turkey",
+  "country": "Turkey",
+  "wikidata_qid": "Q483856",
+  "fetched_at": "2026-05-24T15:13:09+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 35,
+  "players": [
+    {
+      "slug": "uğurcan-çakır",
+      "display_name": "Uğurcan Çakır",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1996-04-05",
+      "age": 30,
+      "caps": 38,
+      "goals": 0,
+      "club_from_squad_table": "Galatasaray",
+      "wikipedia_title": "Uğurcan Çakır",
+      "date_of_birth": "1996-04-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Galatasaray",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19610875",
+      "qid": "Q19610875",
+      "name": "Uğurcan Çakır",
+      "description": "Turkish association football player (born 1996)",
+      "place_of_birth_qid": "Q6487",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 1.91,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q189847",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q192641",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q7855167",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q7855168",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q192641",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q7855168",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q189847",
+      "image_filename": "Uğurcan Çakır at Antalyaspor vs Trabzonspor 20211211 (2) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/U%C4%9Furcan_%C3%87ak%C4%B1r",
+      "transfermarkt_id": "292199",
+      "fifa_player_id": "201343273",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Antalya",
+      "wikidata_current_club": "1461 Trabzon",
+      "wikidata_current_club_qid": "Q189847",
+      "photo": {
+        "filename": "Uğurcan Çakır at Antalyaspor vs Trabzonspor 20211211 (2) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/U%C4%9Furcan_%C3%87ak%C4%B1r_at_Antalyaspor_vs_Trabzonspor_20211211_%282%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/U%C4%9Furcan_%C3%87ak%C4%B1r_at_Antalyaspor_vs_Trabzonspor_20211211_%282%29_%28cropped%29.jpg/960px-U%C4%9Furcan_%C3%87ak%C4%B1r_at_Antalyaspor_vs_Trabzonspor_20211211_%282%29_%28cropped%29.jpg",
+        "width": 1093,
+        "height": 2330,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/194383345@N04\">Antalyaspor A.Ş.</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/uğurcan-çakır.jpg"
+      }
+    },
+    {
+      "slug": "mert-günok",
+      "display_name": "Mert Günok",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1989-03-01",
+      "age": 37,
+      "caps": 37,
+      "goals": 0,
+      "club_from_squad_table": "Fenerbahçe",
+      "wikipedia_title": "Mert Günok",
+      "date_of_birth": "1989-03-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fenerbahçe",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q1401328",
+      "qid": "Q1401328",
+      "name": "Mert Günok",
+      "description": "Turkish association football player (born 1989)",
+      "place_of_birth_qid": "Q189697",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 196.0,
+      "weight_kg": 92.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q6601875",
+          "start": "2008-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q203573",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590479",
+          "start": "2005-01-01",
+          "end": "2006-01-01"
+        },
+        {
+          "team_qid": "Q7855167",
+          "start": "2007-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q7855168",
+          "start": "2008-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q1624749",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q7855039",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q483856",
+          "start": "2012-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q203573",
+      "image_filename": "Mert Günok (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mert_G%C3%BCnok",
+      "transfermarkt_id": "51894",
+      "fifa_player_id": "360498",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Karabük",
+      "wikidata_current_club": "Bursaspor",
+      "wikidata_current_club_qid": "Q203573",
+      "photo": {
+        "filename": "Mert Günok (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Mert_G%C3%BCnok_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Mert_G%C3%BCnok_%28cropped%29.jpg/960px-Mert_G%C3%BCnok_%28cropped%29.jpg",
+        "width": 2233,
+        "height": 3113,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Beşiktaş JK",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mert-günok.jpg"
+      }
+    },
+    {
+      "slug": "altay-bayındır",
+      "display_name": "Altay Bayındır",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1998-04-14",
+      "age": 28,
+      "caps": 11,
+      "goals": 0,
+      "club_from_squad_table": "Manchester United",
+      "wikipedia_title": "Altay Bayındır",
+      "date_of_birth": "1998-04-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q57415806",
+      "qid": "Q57415806",
+      "name": "Altay Bayındır",
+      "description": "Turkish association football player (born 1998)",
+      "place_of_birth_qid": "Q1023140",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 1.98,
+      "position_qids": [
+        "Q172964"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q6601875",
+          "start": "2019-07-00",
+          "end": "2023-09-01"
+        },
+        {
+          "team_qid": "Q492826",
+          "start": "2015-02-00",
+          "end": "2019-07-00"
+        },
+        {
+          "team_qid": "Q3590479",
+          "start": "2014-08-00",
+          "end": "2014-08-00"
+        },
+        {
+          "team_qid": "Q7855167",
+          "start": "2017-02-00",
+          "end": "2017-02-00"
+        },
+        {
+          "team_qid": "Q7855168",
+          "start": "2018-06-00",
+          "end": "2018-06-00"
+        },
+        {
+          "team_qid": "Q1624749",
+          "start": "2018-03-00",
+          "end": "2020-10-00"
+        },
+        {
+          "team_qid": "Q483856",
+          "start": "2021-05-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2023-09-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18656",
+      "image_filename": "Altay Bayındır (2021-22 Süper Lig) - Resim1.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Altay_Bay%C4%B1nd%C4%B1r",
+      "transfermarkt_id": "336077",
+      "fifa_player_id": "201692826",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Osmangazi",
+      "wikidata_current_club": "Manchester United F.C.",
+      "wikidata_current_club_qid": "Q18656",
+      "photo": {
+        "filename": "Altay Bayındır (2021-22 Süper Lig) - Resim1.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Altay_Bay%C4%B1nd%C4%B1r_%282021-22_S%C3%BCper_Lig%29_-_Resim1.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Altay_Bay%C4%B1nd%C4%B1r_%282021-22_S%C3%BCper_Lig%29_-_Resim1.png/960px-Altay_Bay%C4%B1nd%C4%B1r_%282021-22_S%C3%BCper_Lig%29_-_Resim1.png",
+        "width": 1280,
+        "height": 720,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "beIN SPORTS Türkiye",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/altay-bayındır.png"
+      }
+    },
+    {
+      "slug": "ersin-destanoğlu",
+      "display_name": "Ersin Destanoğlu",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2001-01-01",
+      "age": 25,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Beşiktaş",
+      "wikipedia_title": "Ersin Destanoğlu",
+      "date_of_birth": "2001-01-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Beşiktaş",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60050402",
+      "qid": "Q60050402",
+      "name": "Ersin Destanoğlu",
+      "description": "Turkish association football player (born 2001)",
+      "place_of_birth_qid": "Q570826",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 1.95,
+      "position_qids": [
+        "Q201330"
+      ],
+      "image_filename": "Ersin Destanoğlu 20231008 1 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ersin_Destano%C4%9Flu",
+      "transfermarkt_id": "500091",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Gaziosmanpaşa",
+      "photo": {
+        "filename": "Ersin Destanoğlu 20231008 1 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Ersin_Destano%C4%9Flu_20231008_1_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ersin_Destano%C4%9Flu_20231008_1_%28cropped%29.jpg/960px-Ersin_Destano%C4%9Flu_20231008_1_%28cropped%29.jpg",
+        "width": 1935,
+        "height": 2099,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/199283147@N05\">Beşiktaş JK</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ersin-destanoğlu.jpg"
+      }
+    },
+    {
+      "slug": "muhammed-şengezer",
+      "display_name": "Muhammed Şengezer",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1997-01-05",
+      "age": 29,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "İstanbul Başakşehir",
+      "wikipedia_title": "Muhammed Şengezer",
+      "date_of_birth": "1997-01-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "İstanbul Başakşehir",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q43816715",
+      "qid": "Q43816715",
+      "name": "Muhammed Şengezer",
+      "description": "Turkish association football player (born 1997)",
+      "place_of_birth_qid": "Q1023140",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 192.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q203573",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q203573",
+      "image_filename": "Muhammed Şengezer 16 İstanbul Başakşehir FK UECL 20250813 (2).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammed_%C5%9Eengezer",
+      "transfermarkt_id": "330871",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Osmangazi",
+      "wikidata_current_club": "Bursaspor",
+      "wikidata_current_club_qid": "Q203573",
+      "photo": {
+        "filename": "Muhammed Şengezer 16 İstanbul Başakşehir FK UECL 20250813 (2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Muhammed_%C5%9Eengezer_16_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK_UECL_20250813_%282%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Muhammed_%C5%9Eengezer_16_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK_UECL_20250813_%282%29.jpg/960px-Muhammed_%C5%9Eengezer_16_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK_UECL_20250813_%282%29.jpg",
+        "width": 5152,
+        "height": 7728,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/User:Zafer\" title=\"User:Zafer\">Zafer</a></div>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/muhammed-şengezer.jpg"
+      }
+    },
+    {
+      "slug": "merih-demiral",
+      "display_name": "Merih Demiral",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-03-05",
+      "age": 28,
+      "caps": 61,
+      "goals": 6,
+      "club_from_squad_table": "Al-Ahli",
+      "wikipedia_title": "Merih Demiral",
+      "date_of_birth": "1998-03-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Ahli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q29047921",
+      "qid": "Q29047921",
+      "name": "Merih Demiral",
+      "description": "Turkish association football player (born 1998)",
+      "place_of_birth_qid": "Q2248693",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 192.0,
+      "weight_kg": 86.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q5443324",
+          "start": "2016-02-00",
+          "end": "2016-03-00"
+        },
+        {
+          "team_qid": "Q3590479",
+          "start": "2014-09-00",
+          "end": "2015-04-00"
+        },
+        {
+          "team_qid": "Q4140371",
+          "start": "2015-09-00",
+          "end": "2015-10-00"
+        },
+        {
+          "team_qid": "Q7855167",
+          "start": "2015-10-00",
+          "end": "2017-03-00"
+        },
+        {
+          "team_qid": "Q7855168",
+          "start": "2018-05-00",
+          "end": "2018-06-00"
+        },
+        {
+          "team_qid": "Q1624749",
+          "start": "2016-11-00",
+          "end": "2018-10-00"
+        },
+        {
+          "team_qid": "Q483856",
+          "start": "2018-11-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q9636730",
+          "start": "2016-07-00",
+          "end": "2017-06-00"
+        },
+        {
+          "team_qid": "Q3494112",
+          "start": "2017-01-00",
+          "end": "2017-06-00"
+        },
+        {
+          "team_qid": "Q3494112",
+          "start": "2017-07-00",
+          "end": "2018-07-00"
+        },
+        {
+          "team_qid": "Q1636019",
+          "start": "2018-08-00",
+          "end": "2019-01-00"
+        },
+        {
+          "team_qid": "Q8603",
+          "start": "2019-01-30",
+          "end": "2019-06-00"
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2019-07-05",
+          "end": "2022-06-17"
+        },
+        {
+          "team_qid": "Q1886",
+          "start": "2021-08-07",
+          "end": "2022-06-00"
+        },
+        {
+          "team_qid": "Q1886",
+          "start": "2022-06-17",
+          "end": "2023-08-19"
+        },
+        {
+          "team_qid": "Q44441",
+          "start": "2023-08-19",
+          "end": null
+        },
+        {
+          "team_qid": "Q75729",
+          "start": "2017-12-00",
+          "end": "2019-01-00"
+        },
+        {
+          "team_qid": "Q1636019",
+          "start": "2019-01-29",
+          "end": "2019-06-00"
+        },
+        {
+          "team_qid": "Q8603",
+          "start": "2019-07-01",
+          "end": "2019-07-04"
+        }
+      ],
+      "current_club_qid": "Q44441",
+      "image_filename": "Demiral in the international match in September 2020 (Cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Merih_Demiral",
+      "transfermarkt_id": "340879",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Karamürsel district",
+      "wikidata_current_club": "Al Ahli FC",
+      "wikidata_current_club_qid": "Q44441",
+      "photo": {
+        "filename": "Demiral in the international match in September 2020 (Cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Demiral_in_the_international_match_in_September_2020_%28Cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Demiral_in_the_international_match_in_September_2020_%28Cropped%29.jpg",
+        "width": 252,
+        "height": 442,
+        "license": "Attribution",
+        "license_url": null,
+        "attribution": "<ul><li><b>Original: </b> <a rel=\"nofollow\" class=\"external text\" href=\"https://en.valogatott.mlsz.hu/file/gallery/709/gallery/big/dsc_1625.jpg\">mlsz.hu – the official website of the Hungarian Football Federation</a></li>\n<li><b>Derivative work: </b> <a href=\"//commons.wikimedia.org/w/index.php?title=User:FootyBystander&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:FootyBystander (page does not exist)\">FootyBystander</a></li></ul>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/merih-demiral.jpg"
+      }
+    },
+    {
+      "slug": "zeki-çelik",
+      "display_name": "Zeki Çelik",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-02-17",
+      "age": 29,
+      "caps": 59,
+      "goals": 3,
+      "club_from_squad_table": "Roma",
+      "wikipedia_title": "Zeki Çelik",
+      "date_of_birth": "1997-02-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Roma",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q50628268",
+      "qid": "Q50628268",
+      "name": "Zeki Çelik",
+      "description": "Turkish association football player (born 1997)",
+      "place_of_birth_qid": "Q2598734",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19516",
+          "start": "2018-07-07",
+          "end": null
+        },
+        {
+          "team_qid": "Q203573",
+          "start": "2015-07-01",
+          "end": "2016-08-25"
+        },
+        {
+          "team_qid": "Q5000554",
+          "start": "2015-08-14",
+          "end": "2016-06-30"
+        },
+        {
+          "team_qid": "Q344328",
+          "start": "2016-08-25",
+          "end": "2018-07-07"
+        },
+        {
+          "team_qid": "Q23925716",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q3590479",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q23925713",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1624749",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q483856",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2022-07-05",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2739",
+      "image_filename": "Zeki çelik 2020.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zeki_%C3%87elik",
+      "transfermarkt_id": "251075",
+      "fifa_player_id": "201307248",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Yıldırım district",
+      "wikidata_current_club": "AS Roma",
+      "wikidata_current_club_qid": "Q2739",
+      "photo": {
+        "filename": "Zeki çelik 2020.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Zeki_%C3%A7elik_2020.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Zeki_%C3%A7elik_2020.jpg",
+        "width": 535,
+        "height": 989,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "soccer.ru",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/zeki-çelik.jpg"
+      }
+    },
+    {
+      "slug": "çağlar-söyüncü",
+      "display_name": "Çağlar Söyüncü",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-05-23",
+      "age": 30,
+      "caps": 59,
+      "goals": 2,
+      "club_from_squad_table": "Fenerbahçe",
+      "wikipedia_title": "Çağlar Söyüncü",
+      "date_of_birth": "1996-05-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fenerbahçe",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19612578",
+      "qid": "Q19612578",
+      "name": "Çağlar Söyüncü",
+      "description": "Turkish association football player (born 1996)",
+      "place_of_birth_qid": "Q35997",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q447191",
+          "start": "2014-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q7855168",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1624749",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q483856",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q23925713",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q7855167",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q106394",
+          "start": "2016-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q19481",
+          "start": "2018-00-00",
+          "end": "2023-06-30"
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2023-07-05",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q6601875",
+          "start": "2024-01-26",
+          "end": "2024-06-00"
+        },
+        {
+          "team_qid": "Q6601875",
+          "start": "2024-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q6601875",
+      "image_filename": "AUT vs. TUR 2016-03-29 (381).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%87a%C4%9Flar_S%C3%B6y%C3%BCnc%C3%BC",
+      "transfermarkt_id": "320141",
+      "fifa_player_id": "401167",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "İzmir",
+      "wikidata_current_club": "Fenerbahçe Istanbul",
+      "wikidata_current_club_qid": "Q6601875",
+      "photo": {
+        "filename": "AUT vs. TUR 2016-03-29 (381).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/AUT_vs._TUR_2016-03-29_%28381%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/AUT_vs._TUR_2016-03-29_%28381%29.jpg/960px-AUT_vs._TUR_2016-03-29_%28381%29.jpg",
+        "width": 2400,
+        "height": 3600,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 10:21, 11 April 2016 (UTC)",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/çağlar-söyüncü.jpg"
+      }
+    },
+    {
+      "slug": "mert-müldür",
+      "display_name": "Mert Müldür",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-04-03",
+      "age": 27,
+      "caps": 43,
+      "goals": 3,
+      "club_from_squad_table": "Fenerbahçe",
+      "wikipedia_title": "Mert Müldür",
+      "date_of_birth": "1999-04-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fenerbahçe",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q53394040",
+      "qid": "Q53394040",
+      "name": "Mert Müldür",
+      "description": "Turkish association football player (born 1999)",
+      "place_of_birth_qid": "Q1741",
+      "citizenship_qids": [
+        "Q43",
+        "Q40"
+      ],
+      "height_cm": 1.88,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q131215",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q8603",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8603",
+      "image_filename": "SM-RV (1).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mert_M%C3%BCld%C3%BCr",
+      "transfermarkt_id": "353922",
+      "fifa_player_id": "201733897",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Turkey",
+        "Austria"
+      ],
+      "place_of_birth": "Vienna",
+      "wikidata_current_club": "US Sassuolo Calcio",
+      "wikidata_current_club_qid": "Q8603",
+      "photo": {
+        "filename": "SM-RV (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/SM-RV_%281%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/SM-RV_%281%29.jpg",
+        "width": 778,
+        "height": 707,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Антон Зайцев",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mert-müldür.jpg"
+      }
+    },
+    {
+      "slug": "ferdi-kadıoğlu",
+      "display_name": "Ferdi Kadıoğlu",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-10-07",
+      "age": 26,
+      "caps": 30,
+      "goals": 2,
+      "club_from_squad_table": "Brighton & Hove Albion",
+      "wikipedia_title": "Ferdi Kadıoğlu",
+      "date_of_birth": "1999-10-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Brighton & Hove Albion",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26719541",
+      "qid": "Q26719541",
+      "name": "Ferdi Kadıoğlu",
+      "description": "Turkish association football player (born 1999)",
+      "place_of_birth_qid": "Q1310",
+      "citizenship_qids": [
+        "Q29999",
+        "Q16",
+        "Q43"
+      ],
+      "height_cm": 1.74,
+      "weight_kg": 64.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q29526205",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q601723",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q16854907",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q318348",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q514714",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1811026",
+          "start": "2018-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q6601875",
+          "start": "2018-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q483856",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2024-08-27",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19453",
+      "image_filename": "Ferdi Kadıoğlu 2024.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdi_Kad%C4%B1o%C4%9Flu",
+      "transfermarkt_id": "369316",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands",
+        "Canada",
+        "Turkey"
+      ],
+      "place_of_birth": "Arnhem",
+      "wikidata_current_club": "Brighton & Hove Albion F.C.",
+      "wikidata_current_club_qid": "Q19453",
+      "photo": {
+        "filename": "Ferdi Kadıoğlu 2024.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Ferdi_Kad%C4%B1o%C4%9Flu_2024.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ferdi_Kad%C4%B1o%C4%9Flu_2024.jpg/960px-Ferdi_Kad%C4%B1o%C4%9Flu_2024.jpg",
+        "width": 1298,
+        "height": 1324,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<table class=\"layouttemplate sourcetemplate\" style=\"background-color: #f6f7f5; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555); border-spacing: 8px; padding:0; box-sizing: border-box; clear: both; margin: .5em auto; text-align: center; width: 100%;\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td>\n</td>\n<td style=\"text-align: center;\">This photo is available from Serkan Yakın and <a rel=\"nofollow\" class=\"external text\" href=\"https://www.sekoloji.com/detay/\">https://www.sekoloji.com/detay/</a>.<br>\n</td></tr></tbody></table><div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Serkan Yakın and <a rel=\"nofollow\" class=\"external text\" href=\"https://www.sekoloji.com/detay/\">https://www.sekoloji.com/detay/</a></div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2021022410007146 2%3D2021022410007146\"> </span>\n<style data-mw-deduplicate=\"TemplateStyles:r1120359340\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding:2px 0.9em 2px 0;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png\" decoding=\"async\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;font-weight:400;\" title=\"transparent\">reviewed</span></b> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2021022410007146\" class=\"extiw\" title=\"ticket:2021022410007146\">ticket #2021022410007146</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2021022410007146\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2021022410007146</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222021022410007146%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png\" decoding=\"async\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2021022410007146\"></span></td></tr></tbody></table>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ferdi-kadıoğlu.jpg"
+      }
+    },
+    {
+      "slug": "ozan-kabak",
+      "display_name": "Ozan Kabak",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-03-25",
+      "age": 26,
+      "caps": 28,
+      "goals": 2,
+      "club_from_squad_table": "TSG Hoffenheim",
+      "wikipedia_title": "Ozan Kabak",
+      "date_of_birth": "2000-03-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "TSG Hoffenheim",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q53280628",
+      "qid": "Q53280628",
+      "name": "Ozan Kabak",
+      "description": "Turkish association football player (born 2000)",
+      "place_of_birth_qid": "Q1020646",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q4512",
+          "start": "2019-01-00",
+          "end": "2019-06-00"
+        },
+        {
+          "team_qid": "Q32494",
+          "start": "2019-06-00",
+          "end": "2022-07-00"
+        },
+        {
+          "team_qid": "Q495299",
+          "start": "2017-07-00",
+          "end": "2019-01-00"
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2021-02-00",
+          "end": "2021-06-00"
+        },
+        {
+          "team_qid": "Q23925720",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q23925716",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q3590479",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q23925713",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q483856",
+          "start": "2019-11-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q48862992",
+          "start": "2017-04-00",
+          "end": "2018-04-00"
+        },
+        {
+          "team_qid": "Q18721",
+          "start": "2021-08-00",
+          "end": "2022-06-00"
+        },
+        {
+          "team_qid": "Q23425677",
+          "start": "2022-02-00",
+          "end": "2022-02-00"
+        },
+        {
+          "team_qid": "Q22707",
+          "start": "2022-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q22707",
+      "image_filename": "Ozan kabak.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ozan_Kabak",
+      "transfermarkt_id": "361260",
+      "fifa_player_id": "201715488",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Çankaya",
+      "wikidata_current_club": "TSG 1899 Hoffenheim",
+      "wikidata_current_club_qid": "Q22707",
+      "photo": {
+        "filename": "Ozan kabak.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ozan_kabak.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ozan_kabak.jpg",
+        "width": 642,
+        "height": 800,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo_von_VfB-exklusiv.de&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo von VfB-exklusiv.de (page does not exist)\">Jeollo von VfB-exklusiv.de</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ozan-kabak.jpg"
+      }
+    },
+    {
+      "slug": "abdülkerim-bardakcı",
+      "display_name": "Abdülkerim Bardakcı",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1994-09-07",
+      "age": 31,
+      "caps": 26,
+      "goals": 2,
+      "club_from_squad_table": "Galatasaray",
+      "wikipedia_title": "Abdülkerim Bardakcı",
+      "date_of_birth": "1994-09-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Galatasaray",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q318069",
+      "qid": "Q318069",
+      "name": "Abdülkerim Bardakçı",
+      "description": "Turkish association football player (born 1994)",
+      "place_of_birth_qid": "Q3055997",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 81.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q513840",
+          "start": "2011-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q483741",
+          "start": "2014-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q352251",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q7855167",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q7855168",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1624749",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q23925713",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        }
+      ],
+      "current_club_qid": "Q513840",
+      "image_filename": "Abdülkerim Bardakçı (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abd%C3%BClkerim_Bardakc%C4%B1",
+      "transfermarkt_id": "199316",
+      "fifa_player_id": "400142084",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Meram district",
+      "wikidata_current_club": "Konyaspor",
+      "wikidata_current_club_qid": "Q513840",
+      "photo": {
+        "filename": "Abdülkerim Bardakçı (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Abd%C3%BClkerim_Bardak%C3%A7%C4%B1_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Abd%C3%BClkerim_Bardak%C3%A7%C4%B1_%28cropped%29.jpg",
+        "width": 131,
+        "height": 128,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "БОГДАН ЗАЯЦ",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/abdülkerim-bardakcı.jpg"
+      }
+    },
+    {
+      "slug": "eren-elmalı",
+      "display_name": "Eren Elmalı",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-07-07",
+      "age": 25,
+      "caps": 21,
+      "goals": 0,
+      "club_from_squad_table": "Galatasaray",
+      "wikipedia_title": "Eren Elmalı",
+      "date_of_birth": "2000-07-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Galatasaray",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q98262284",
+      "qid": "Q98262284",
+      "name": "Eren Elmalı",
+      "description": "Turkish association football player (born 2000)",
+      "place_of_birth_qid": "Q639014",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q138230",
+          "start": "2019-07-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q138230",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eren_Elmal%C4%B1",
+      "transfermarkt_id": "616894",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Kartal",
+      "wikidata_current_club": "Kasımpaşa S.K.",
+      "wikidata_current_club_qid": "Q138230",
+      "image_filename": "Eren_Elmalı_20251019.jpg",
+      "photo": {
+        "filename": "Eren_Elmalı_20251019.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Eren_Elmal%C4%B1_20251019.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eren_Elmal%C4%B1_20251019.jpg/960px-Eren_Elmal%C4%B1_20251019.jpg",
+        "width": 1069,
+        "height": 1717,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Zafer\" title=\"User:Zafer\">Zafer</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/eren-elmalı.jpg"
+      }
+    },
+    {
+      "slug": "samet-akaydin",
+      "display_name": "Samet Akaydin",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1994-05-13",
+      "age": 32,
+      "caps": 18,
+      "goals": 1,
+      "club_from_squad_table": "Çaykur Rizespor",
+      "wikipedia_title": "Samet Akaydin",
+      "date_of_birth": "1994-05-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Çaykur Rizespor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q69512938",
+      "qid": "Q69512938",
+      "name": "Samet Akaydın",
+      "description": "Turkish association football player (born 1994)",
+      "place_of_birth_qid": "Q45301",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q891679",
+          "start": "2012-09-00",
+          "end": "2013-09-00"
+        },
+        {
+          "team_qid": "Q1914748",
+          "start": "2013-09-00",
+          "end": "2014-08-00"
+        },
+        {
+          "team_qid": "Q6075910",
+          "start": "2014-08-00",
+          "end": "2018-07-00"
+        },
+        {
+          "team_qid": "Q388487",
+          "start": "2018-08-00",
+          "end": "2019-06-00"
+        },
+        {
+          "team_qid": "Q1536956",
+          "start": "2019-07-00",
+          "end": "2021-01-00"
+        },
+        {
+          "team_qid": "Q352251",
+          "start": "2021-01-00",
+          "end": "2023-01-00"
+        },
+        {
+          "team_qid": "Q483856",
+          "start": "2022-11-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q116169045",
+          "start": "2011-10-00",
+          "end": "2013-05-00"
+        },
+        {
+          "team_qid": "Q6601875",
+          "start": "2023-01-00",
+          "end": "2025-01-00"
+        },
+        {
+          "team_qid": "Q4122219",
+          "start": "2024-01-14",
+          "end": "2024-06-30"
+        },
+        {
+          "team_qid": "Q272712",
+          "start": "2025-01-24",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q272712",
+      "image_filename": "Samet Akaydin20220225 14 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Samet_Akaydin",
+      "transfermarkt_id": "295024",
+      "wikidata_date_of_birth": "1994-03-13",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Trabzon",
+      "photo": {
+        "filename": "Samet Akaydin20220225 14 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Samet_Akaydin20220225_14_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Samet_Akaydin20220225_14_%28cropped%29.jpg/960px-Samet_Akaydin20220225_14_%28cropped%29.jpg",
+        "width": 1173,
+        "height": 1805,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/194383345@N04\">Antalyaspor A.Ş.</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/samet-akaydin.jpg"
+      }
+    },
+    {
+      "slug": "yusuf-akçiçek",
+      "display_name": "Yusuf Akçiçek",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2006-01-25",
+      "age": 20,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Al-Hilal",
+      "wikipedia_title": "Yusuf Akçiçek",
+      "date_of_birth": "2006-01-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Hilal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q123182228",
+      "qid": "Q123182228",
+      "name": "Yusuf Akçiçek",
+      "description": "Turkish association football player (born 2006)",
+      "place_of_birth_qid": "Q752528",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 193.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q6601875",
+          "start": "2023-07-00",
+          "end": "2025-08-31"
+        },
+        {
+          "team_qid": "Q3590479",
+          "start": "2023-01-00",
+          "end": "2023-03-00"
+        },
+        {
+          "team_qid": "Q23925713",
+          "start": "2023-09-00",
+          "end": "2024-06-00"
+        },
+        {
+          "team_qid": "Q7855167",
+          "start": "2024-09-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q483856",
+          "start": "2025-03-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q73965",
+          "start": "2025-09-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q73965",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yusuf_Ak%C3%A7i%C3%A7ek",
+      "transfermarkt_id": "1100642",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Bakırköy",
+      "wikidata_current_club": "Al Hilal SFC",
+      "wikidata_current_club_qid": "Q73965",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "mustafa-eskihellaç",
+      "display_name": "Mustafa Eskihellaç",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-05-05",
+      "age": 29,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Trabzonspor",
+      "wikipedia_title": "Mustafa Eskihellaç",
+      "date_of_birth": "1997-05-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Trabzonspor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q48569991",
+      "qid": "Q48569991",
+      "name": "Mustafa Eskihellaç",
+      "description": "Turkish association football player (born 1997)",
+      "place_of_birth_qid": "Q45301",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1127498",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1127498",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mustafa_Eskihella%C3%A7",
+      "transfermarkt_id": "390379",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Trabzon",
+      "wikidata_current_club": "Elazığspor",
+      "wikidata_current_club_qid": "Q1127498",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ahmetcan-kaplan",
+      "display_name": "Ahmetcan Kaplan",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-01-16",
+      "age": 23,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "NEC",
+      "wikipedia_title": "Ahmetcan Kaplan",
+      "date_of_birth": "2003-01-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "NEC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q99524444",
+      "qid": "Q99524444",
+      "name": "Ahmetcan Kaplan",
+      "description": "Turkish association football player (born 2003)",
+      "place_of_birth_qid": "Q45301",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 1.89,
+      "image_filename": "Ahmetcan Kaplan 2025.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmetcan_Kaplan",
+      "transfermarkt_id": "662131",
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Trabzon",
+      "photo": {
+        "filename": "Ahmetcan Kaplan 2025.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ahmetcan_Kaplan_2025.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ahmetcan_Kaplan_2025.jpg",
+        "width": 194,
+        "height": 329,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@fcufan\">FCUFAN</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ahmetcan-kaplan.jpg"
+      }
+    },
+    {
+      "slug": "hakan-çalhanoğlu",
+      "display_name": "Hakan Çalhanoğlu",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-02-08",
+      "age": 32,
+      "caps": 104,
+      "goals": 22,
+      "club_from_squad_table": "Inter Milan",
+      "wikipedia_title": "Hakan Çalhanoğlu",
+      "date_of_birth": "1994-02-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Inter Milan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q763465",
+      "qid": "Q763465",
+      "name": "Hakan Çalhanoğlu",
+      "description": "Turkish association football player (born 1994)",
+      "place_of_birth_qid": "Q2119",
+      "citizenship_qids": [
+        "Q183",
+        "Q43"
+      ],
+      "height_cm": 176.0,
+      "weight_kg": 73.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q51974",
+          "start": "2013-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q105853",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q104761",
+          "start": "2014-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3590479",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q7855167",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q23925716",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q1624749",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q483856",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2017-00-00",
+          "end": "2021-00-00"
+        }
+      ],
+      "current_club_qid": "Q631",
+      "image_filename": "AUT vs. TUR 2016-03-29 (342).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hakan_%C3%87alhano%C4%9Flu",
+      "transfermarkt_id": "126414",
+      "fifa_player_id": "369304",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Germany",
+        "Turkey"
+      ],
+      "place_of_birth": "Mannheim",
+      "photo": {
+        "filename": "AUT vs. TUR 2016-03-29 (342).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/AUT_vs._TUR_2016-03-29_%28342%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AUT_vs._TUR_2016-03-29_%28342%29.jpg/960px-AUT_vs._TUR_2016-03-29_%28342%29.jpg",
+        "width": 1600,
+        "height": 2200,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 10:15, 11 April 2016 (UTC)",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/hakan-çalhanoğlu.jpg"
+      }
+    },
+    {
+      "slug": "kaan-ayhan",
+      "display_name": "Kaan Ayhan",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-11-10",
+      "age": 31,
+      "caps": 72,
+      "goals": 5,
+      "club_from_squad_table": "Galatasaray",
+      "wikipedia_title": "Kaan Ayhan",
+      "date_of_birth": "1994-11-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Galatasaray",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q3191617",
+      "qid": "Q3191617",
+      "name": "Kaan Ayhan",
+      "description": "Turkish association football player (born 1994)",
+      "place_of_birth_qid": "Q2765",
+      "citizenship_qids": [
+        "Q43",
+        "Q183"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 84.0,
+      "position_qids": [
+        "Q336286",
+        "Q268258",
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q32494",
+          "start": "2013-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q3736767",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q38245",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590479",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q1624749",
+          "start": "2013-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q1202759",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q319699",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q2016992",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        }
+      ],
+      "current_club_qid": "Q38245",
+      "image_filename": "Kaan-Ayhan-08-2019.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kaan_Ayhan",
+      "transfermarkt_id": "119031",
+      "fifa_player_id": "336170",
+      "positions": [
+        "defender",
+        "centre-back",
+        "full-back"
+      ],
+      "citizenship": [
+        "Turkey",
+        "Germany"
+      ],
+      "place_of_birth": "Gelsenkirchen",
+      "wikidata_current_club": "Eintracht Frankfurt",
+      "wikidata_current_club_qid": "Q38245",
+      "photo": {
+        "filename": "Kaan-Ayhan-08-2019.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Kaan-Ayhan-08-2019.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kaan-Ayhan-08-2019.jpg/960px-Kaan-Ayhan-08-2019.jpg",
+        "width": 1200,
+        "height": 1600,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Fuguito\" title=\"User:Fuguito\">Fuguito</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kaan-ayhan.jpg"
+      }
+    },
+    {
+      "slug": "orkun-kökçü",
+      "display_name": "Orkun Kökçü",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-12-29",
+      "age": 25,
+      "caps": 48,
+      "goals": 3,
+      "club_from_squad_table": "Beşiktaş",
+      "wikipedia_title": "Orkun Kökçü",
+      "date_of_birth": "2000-12-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Beşiktaş",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q56788302",
+      "qid": "Q56788302",
+      "name": "Orkun Kökçü",
+      "description": "Turkish-Dutch association football player (born 2000)",
+      "place_of_birth_qid": "Q9920",
+      "citizenship_qids": [
+        "Q29999",
+        "Q43"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q134241",
+          "start": "2018-00-00",
+          "end": "2023-06-10"
+        },
+        {
+          "team_qid": "Q601723",
+          "start": "2017-02-00",
+          "end": "2017-02-00"
+        },
+        {
+          "team_qid": "Q16854907",
+          "start": "2017-09-00",
+          "end": "2017-11-00"
+        },
+        {
+          "team_qid": "Q514714",
+          "start": "2018-03-00",
+          "end": "2019-03-00"
+        },
+        {
+          "team_qid": "Q1624749",
+          "start": "2019-09-00",
+          "end": "2019-10-00"
+        },
+        {
+          "team_qid": "Q483856",
+          "start": "2020-09-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2023-06-10",
+          "end": null
+        },
+        {
+          "team_qid": "Q172567",
+          "start": "2025-07-13",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q172567",
+      "image_filename": "Kökçü in the international match in March 2024 (Cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Orkun_K%C3%B6k%C3%A7%C3%BC",
+      "transfermarkt_id": "454567",
+      "fifa_player_id": "201788831",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands",
+        "Turkey"
+      ],
+      "place_of_birth": "Haarlem",
+      "wikidata_current_club": "Beşiktaş J.K.",
+      "wikidata_current_club_qid": "Q172567",
+      "photo": {
+        "filename": "Kökçü in the international match in March 2024 (Cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/K%C3%B6k%C3%A7%C3%BC_in_the_international_match_in_March_2024_%28Cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/K%C3%B6k%C3%A7%C3%BC_in_the_international_match_in_March_2024_%28Cropped%29.jpg",
+        "width": 494,
+        "height": 465,
+        "license": "Attribution",
+        "license_url": null,
+        "attribution": "<ul><li><b>Original: </b> <a rel=\"nofollow\" class=\"external text\" href=\"https://en.mlsz.hu/adat/newse/34379/gyorskep/nagykep/huntur.jpg\">mlsz.hu – the official website of the Hungarian Football Federation</a></li>\n<li><b>Derivative work: </b> <a href=\"//commons.wikimedia.org/w/index.php?title=User:FootyBystander&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:FootyBystander (page does not exist)\">FootyBystander</a></li></ul>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/orkun-kökçü.jpg"
+      }
+    },
+    {
+      "slug": "ismail-yüksek",
+      "display_name": "İsmail Yüksek",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1999-01-26",
+      "age": 27,
+      "caps": 31,
+      "goals": 1,
+      "club_from_squad_table": "Fenerbahçe",
+      "wikipedia_title": "İsmail Yüksek",
+      "date_of_birth": "1999-01-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fenerbahçe",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q97320541",
+      "qid": "Q97320541",
+      "name": "İsmail Yüksek",
+      "description": "Turkish association football player (born 1999)",
+      "place_of_birth_qid": "Q217125",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1559309",
+          "start": "2018-08-00",
+          "end": "2020-08-00"
+        },
+        {
+          "team_qid": "Q6601875",
+          "start": "2020-08-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q805909",
+          "start": "2020-10-00",
+          "end": "2021-01-00"
+        },
+        {
+          "team_qid": "Q352251",
+          "start": "2021-02-00",
+          "end": "2021-05-00"
+        },
+        {
+          "team_qid": "Q203573",
+          "start": "2021-08-00",
+          "end": "2022-05-00"
+        },
+        {
+          "team_qid": "Q483856",
+          "start": "2022-09-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q6601875",
+      "image_filename": "977561 sPICT (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%B0smail_Y%C3%BCksek",
+      "transfermarkt_id": "613725",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "İznik",
+      "wikidata_current_club": "Fenerbahçe Istanbul",
+      "wikidata_current_club_qid": "Q6601875",
+      "photo": {
+        "filename": "977561 sPICT (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/977561_sPICT_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/977561_sPICT_%28cropped%29.jpg",
+        "width": 661,
+        "height": 894,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Вячеслав Евдокимов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ismail-yüksek.jpg"
+      }
+    },
+    {
+      "slug": "salih-özcan",
+      "display_name": "Salih Özcan",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-01-11",
+      "age": 28,
+      "caps": 28,
+      "goals": 1,
+      "club_from_squad_table": "Borussia Dortmund",
+      "wikipedia_title": "Salih Özcan",
+      "date_of_birth": "1998-01-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Borussia Dortmund",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26965570",
+      "qid": "Q26965570",
+      "name": "Salih Özcan",
+      "description": "Turkish-German association football player (born 1998)",
+      "place_of_birth_qid": "Q365",
+      "citizenship_qids": [
+        "Q183",
+        "Q43"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q104770",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q104770",
+      "image_filename": "2018-08-19 BFC Dynamo vs. 1. FC Köln (DFB-Pokal) by Sandro Halank–013.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Salih_%C3%96zcan",
+      "transfermarkt_id": "244940",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Germany",
+        "Turkey"
+      ],
+      "place_of_birth": "Cologne",
+      "wikidata_current_club": "1. FC Köln",
+      "wikidata_current_club_qid": "Q104770",
+      "photo": {
+        "filename": "2018-08-19 BFC Dynamo vs. 1. FC Köln (DFB-Pokal) by Sandro Halank–013.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/2018-08-19_BFC_Dynamo_vs._1._FC_K%C3%B6ln_%28DFB-Pokal%29_by_Sandro_Halank%E2%80%93013.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2018-08-19_BFC_Dynamo_vs._1._FC_K%C3%B6ln_%28DFB-Pokal%29_by_Sandro_Halank%E2%80%93013.jpg/960px-2018-08-19_BFC_Dynamo_vs._1._FC_K%C3%B6ln_%28DFB-Pokal%29_by_Sandro_Halank%E2%80%93013.jpg",
+        "width": 1375,
+        "height": 1681,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sandro_Halank\" title=\"User:Sandro Halank\">Sandro Halank</a>, Wikimedia Commons",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/salih-özcan.jpg"
+      }
+    },
+    {
+      "slug": "atakan-karazor",
+      "display_name": "Atakan Karazor",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-10-13",
+      "age": 29,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "VfB Stuttgart",
+      "wikipedia_title": "Atakan Karazor",
+      "date_of_birth": "1996-10-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "VfB Stuttgart",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q47487632",
+      "qid": "Q47487632",
+      "name": "Atakan Karazor",
+      "description": "Turkish-German association football player (born 1996)",
+      "place_of_birth_qid": "Q2066",
+      "citizenship_qids": [
+        "Q183",
+        "Q43"
+      ],
+      "height_cm": 1.91,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q41420",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q4512",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q41420",
+      "image_filename": "Atakan karazor.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Atakan_Karazor",
+      "transfermarkt_id": "232320",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Germany",
+        "Turkey"
+      ],
+      "place_of_birth": "Essen",
+      "wikidata_current_club": "Borussia Dortmund",
+      "wikidata_current_club_qid": "Q41420",
+      "photo": {
+        "filename": "Atakan karazor.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Atakan_karazor.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Atakan_karazor.jpg",
+        "width": 640,
+        "height": 800,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo_von_VfB-exklusiv.de&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo von VfB-exklusiv.de (page does not exist)\">Jeollo von VfB-exklusiv.de</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/atakan-karazor.jpg"
+      }
+    },
+    {
+      "slug": "demir-ege-tıknaz",
+      "display_name": "Demir Ege Tıknaz",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-08-17",
+      "age": 21,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Braga",
+      "wikipedia_title": "Demir Ege Tıknaz",
+      "date_of_birth": "2004-08-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Braga",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q115961466",
+      "qid": "Q115961466",
+      "name": "Demir Ege Koçer",
+      "description": "Turkish association football player (born 2004)",
+      "place_of_birth_qid": "Q932886",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 193.0,
+      "image_filename": "Demir Ege Tıknaz 20240126.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Demir_Ege_T%C4%B1knaz",
+      "transfermarkt_id": "875337",
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Kadıköy",
+      "photo": {
+        "filename": "Demir Ege Tıknaz 20240126.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Demir_Ege_T%C4%B1knaz_20240126.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Demir_Ege_T%C4%B1knaz_20240126.jpg/960px-Demir_Ege_T%C4%B1knaz_20240126.jpg",
+        "width": 2418,
+        "height": 3374,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/199283147@N05\">Beşiktaş JK</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/demir-ege-tıknaz.jpg"
+      }
+    },
+    {
+      "slug": "kerem-aktürkoğlu",
+      "display_name": "Kerem Aktürkoğlu",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1998-10-21",
+      "age": 27,
+      "caps": 51,
+      "goals": 15,
+      "club_from_squad_table": "Fenerbahçe",
+      "wikipedia_title": "Kerem Aktürkoğlu",
+      "date_of_birth": "1998-10-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fenerbahçe",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q97725322",
+      "qid": "Q97725322",
+      "name": "Kerem Aktürkoğlu",
+      "description": "Turkish association football player (born 1998)",
+      "place_of_birth_qid": "Q129649",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 1.73,
+      "position_qids": [
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q857938",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q20472948",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q5000554",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q15729607",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q495299",
+          "start": "2020-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q23925713",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q7855167",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q483856",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q131499",
+      "image_filename": "Muhammed Kerem Aktürkoğlu.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kerem_Akt%C3%BCrko%C4%9Flu",
+      "transfermarkt_id": "382528",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "İzmit",
+      "wikidata_current_club": "S.L. Benfica",
+      "wikidata_current_club_qid": "Q131499",
+      "photo": {
+        "filename": "Muhammed Kerem Aktürkoğlu.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Muhammed_Kerem_Akt%C3%BCrko%C4%9Flu.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Muhammed_Kerem_Akt%C3%BCrko%C4%9Flu.png",
+        "width": 541,
+        "height": 799,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Анна Нэсси",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kerem-aktürkoğlu.png"
+      }
+    },
+    {
+      "slug": "irfan-can-kahveci",
+      "display_name": "İrfan Can Kahveci",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1995-07-15",
+      "age": 30,
+      "caps": 45,
+      "goals": 6,
+      "club_from_squad_table": "Kasımpaşa",
+      "wikipedia_title": "İrfan Can Kahveci",
+      "date_of_birth": "1995-07-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Kasımpaşa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17708749",
+      "qid": "Q17708749",
+      "name": "İrfan Kahveci",
+      "description": "Turkish association football player (born 1995)",
+      "place_of_birth_qid": "Q4832059",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 175.0,
+      "weight_kg": 71.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q641373",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q340133",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q3590479",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q641373",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q23925713",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q7855168",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1624749",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1624749",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q857938",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q6601875",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q6601875",
+      "image_filename": "İrfan Can Kahveci (2021-22 Süper Lig) - Resim2.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%B0rfan_Can_Kahveci",
+      "transfermarkt_id": "216603",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Bayat",
+      "wikidata_current_club": "Fenerbahçe Istanbul",
+      "wikidata_current_club_qid": "Q6601875",
+      "photo": {
+        "filename": "İrfan Can Kahveci (2021-22 Süper Lig) - Resim2.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/%C4%B0rfan_Can_Kahveci_%282021-22_S%C3%BCper_Lig%29_-_Resim2.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/%C4%B0rfan_Can_Kahveci_%282021-22_S%C3%BCper_Lig%29_-_Resim2.png/960px-%C4%B0rfan_Can_Kahveci_%282021-22_S%C3%BCper_Lig%29_-_Resim2.png",
+        "width": 1920,
+        "height": 1080,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "beIN SPORTS Türkiye",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/irfan-can-kahveci.png"
+      }
+    },
+    {
+      "slug": "barış-alper-yılmaz",
+      "display_name": "Barış Alper Yılmaz",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-05-23",
+      "age": 26,
+      "caps": 33,
+      "goals": 2,
+      "club_from_squad_table": "Galatasaray",
+      "wikipedia_title": "Barış Alper Yılmaz",
+      "date_of_birth": "2000-05-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Galatasaray",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107352615",
+      "qid": "Q107352615",
+      "name": "Barış Alper Yılmaz",
+      "description": "Turkish association football player (born 2000)",
+      "place_of_birth_qid": "Q2670748",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 1.86,
+      "position_qids": [
+        "Q280658"
+      ],
+      "image_filename": "Barış Alper Yılmaz.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bar%C4%B1%C5%9F_Alper_Y%C4%B1lmaz",
+      "transfermarkt_id": "541537",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "İkizdere",
+      "photo": {
+        "filename": "Barış Alper Yılmaz.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bar%C4%B1%C5%9F_Alper_Y%C4%B1lmaz.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bar%C4%B1%C5%9F_Alper_Y%C4%B1lmaz.jpg",
+        "width": 556,
+        "height": 1092,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Анна Нэсси",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/barış-alper-yılmaz.jpg"
+      }
+    },
+    {
+      "slug": "arda-güler",
+      "display_name": "Arda Güler",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2005-02-25",
+      "age": 21,
+      "caps": 28,
+      "goals": 6,
+      "club_from_squad_table": "Real Madrid",
+      "wikipedia_title": "Arda Güler",
+      "date_of_birth": "2005-02-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q108159340",
+      "qid": "Q108159340",
+      "name": "Αrda Güler",
+      "description": "Turkish association football player (born 2005)",
+      "place_of_birth_qid": "Q682981",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 176.0,
+      "position_qids": [
+        "Q90326494"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q6601875",
+          "start": "2021-00-00",
+          "end": "2023-07-00"
+        },
+        {
+          "team_qid": "Q3590479",
+          "start": "2021-09-00",
+          "end": "2022-03-00"
+        },
+        {
+          "team_qid": "Q483856",
+          "start": "2022-11-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2023-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8682",
+      "image_filename": "Derbide Fenerbahçe Yedek Oyuncu Arda Güler (2021-22 Süper Lig - Cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Arda_G%C3%BCler",
+      "transfermarkt_id": "861410",
+      "positions": [
+        "attacking midfielder"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Altındağ",
+      "wikidata_current_club": "Real Madrid Club de Fútbol",
+      "wikidata_current_club_qid": "Q8682",
+      "photo": {
+        "filename": "Derbide Fenerbahçe Yedek Oyuncu Arda Güler (2021-22 Süper Lig - Cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Derbide_Fenerbah%C3%A7e_Yedek_Oyuncu_Arda_G%C3%BCler_%282021-22_S%C3%BCper_Lig_-_Cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Derbide_Fenerbah%C3%A7e_Yedek_Oyuncu_Arda_G%C3%BCler_%282021-22_S%C3%BCper_Lig_-_Cropped%29.jpg",
+        "width": 302,
+        "height": 525,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "beIN SPORTS Türkiye",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/arda-güler.jpg"
+      }
+    },
+    {
+      "slug": "kenan-yıldız",
+      "display_name": "Kenan Yıldız",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2005-05-04",
+      "age": 21,
+      "caps": 28,
+      "goals": 5,
+      "club_from_squad_table": "Juventus",
+      "wikipedia_title": "Kenan Yıldız",
+      "date_of_birth": "2005-05-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Juventus",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q113184832",
+      "qid": "Q113184832",
+      "name": "Kenan Yıldız",
+      "description": "Turkish association football player (born 2005)",
+      "place_of_birth_qid": "Q2978",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q11681748",
+        "Q280658",
+        "Q90326494"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1422",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1422",
+      "image_filename": "Kenan Yıldız in the international match (March 2025) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kenan_Y%C4%B1ld%C4%B1z",
+      "transfermarkt_id": "845654",
+      "positions": [
+        "winger",
+        "forward",
+        "attacking midfielder"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Regensburg",
+      "wikidata_current_club": "Juventus FC",
+      "wikidata_current_club_qid": "Q1422",
+      "photo": {
+        "filename": "Kenan Yıldız in the international match (March 2025) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kenan_Y%C4%B1ld%C4%B1z_in_the_international_match_%28March_2025%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kenan_Y%C4%B1ld%C4%B1z_in_the_international_match_%28March_2025%29_%28cropped%29.jpg",
+        "width": 340,
+        "height": 540,
+        "license": "Attribution",
+        "license_url": null,
+        "attribution": "<b>Original: </b> mlsz.hu – the official website of the Hungarian Football Federation / <b>Derivative work: </b> <a href=\"//commons.wikimedia.org/w/index.php?title=User:Danyele&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Danyele (page does not exist)\">Danyele</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kenan-yıldız.jpg"
+      }
+    },
+    {
+      "slug": "yunus-akgün",
+      "display_name": "Yunus Akgün",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-07-07",
+      "age": 25,
+      "caps": 17,
+      "goals": 3,
+      "club_from_squad_table": "Galatasaray",
+      "wikipedia_title": "Yunus Akgün",
+      "date_of_birth": "2000-07-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Galatasaray",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q56043430",
+      "qid": "Q56043430",
+      "name": "Yunus Akgün",
+      "description": "Turkish association football player (born 2000)",
+      "place_of_birth_qid": "Q639240",
+      "citizenship_qids": [
+        "Q43"
+      ],
+      "height_cm": 1.73,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q495299",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q495299",
+      "image_filename": "Yunus Akgün 20220225 7 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yunus_Akg%C3%BCn",
+      "transfermarkt_id": "396908",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Turkey"
+      ],
+      "place_of_birth": "Küçükçekmece",
+      "wikidata_current_club": "Galatasaray S.K.",
+      "wikidata_current_club_qid": "Q495299",
+      "photo": {
+        "filename": "Yunus Akgün 20220225 7 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Yunus_Akg%C3%BCn_20220225_7_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Yunus_Akg%C3%BCn_20220225_7_%28cropped%29.jpg/960px-Yunus_Akg%C3%BCn_20220225_7_%28cropped%29.jpg",
+        "width": 962,
+        "height": 1435,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/194383345@N04\">Antalyaspor A.Ş.</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/yunus-akgün.jpg"
+      }
+    },
+    {
+      "slug": "oğuz-aydın",
+      "display_name": "Oğuz Aydın",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-10-27",
+      "age": 25,
+      "caps": 9,
+      "goals": 0,
+      "club_from_squad_table": "Fenerbahçe",
+      "wikipedia_title": "Oğuz Aydın",
+      "date_of_birth": "2000-10-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fenerbahçe",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q109282705",
+      "qid": "Q109282705",
+      "name": "Oğuz Aydın",
+      "description": "Turkish-Dutch association football player (born 2000)",
+      "place_of_birth_qid": "Q36600",
+      "citizenship_qids": [
+        "Q43",
+        "Q29999"
+      ],
+      "height_cm": 183.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/O%C4%9Fuz_Ayd%C4%B1n",
+      "transfermarkt_id": "563749",
+      "citizenship": [
+        "Turkey",
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "The Hague",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "deniz-gül",
+      "display_name": "Deniz Gül",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2004-07-02",
+      "age": 21,
+      "caps": 6,
+      "goals": 1,
+      "club_from_squad_table": "Porto",
+      "wikipedia_title": "Deniz Gül",
+      "date_of_birth": "2004-07-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Porto",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q123174990",
+      "qid": "Q123174990",
+      "name": "Deniz Gül",
+      "description": "Turkish association football player (born 2004)",
+      "place_of_birth_qid": "Q1754",
+      "citizenship_qids": [
+        "Q34",
+        "Q43"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q460724",
+          "start": "2022-09-00",
+          "end": "2024-08-00"
+        },
+        {
+          "team_qid": "Q1136967",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q128446",
+          "start": "2024-08-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2255212",
+          "start": "2023-03-00",
+          "end": "2023-03-00"
+        },
+        {
+          "team_qid": "Q17413189",
+          "start": "2023-06-00",
+          "end": "2023-11-00"
+        },
+        {
+          "team_qid": "Q2255267",
+          "start": "2024-06-00",
+          "end": "2024-10-00"
+        },
+        {
+          "team_qid": "Q483856",
+          "start": "2025-03-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q5423714",
+          "start": "2024-12-00",
+          "end": "2024-12-00"
+        }
+      ],
+      "current_club_qid": "Q128446",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Deniz_G%C3%BCl",
+      "transfermarkt_id": "1063292",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Sweden",
+        "Turkey"
+      ],
+      "place_of_birth": "Stockholm",
+      "wikidata_current_club": "FC Porto",
+      "wikidata_current_club_qid": "Q128446",
+      "photo": {
+        "filename": "FC Salzburg gegen FC Porto (2025-09-25 UEFA Euro League ) 36.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/FC_Salzburg_gegen_FC_Porto_%282025-09-25_UEFA_Euro_League_%29_36.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/FC_Salzburg_gegen_FC_Porto_%282025-09-25_UEFA_Euro_League_%29_36.jpg/960px-FC_Salzburg_gegen_FC_Porto_%282025-09-25_UEFA_Euro_League_%29_36.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "commons-manual-crop",
+        "local_path": "data/photos/deniz-gul.jpg",
+        "crop_note": "Manual crop from Commons file verified for Deniz Gül on 2026-05-24."
+      }
+    },
+    {
+      "slug": "yusuf-sarı",
+      "display_name": "Yusuf Sarı",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1998-11-20",
+      "age": 27,
+      "caps": 6,
+      "goals": 1,
+      "club_from_squad_table": "İstanbul Başakşehir",
+      "wikipedia_title": "Yusuf Sarı",
+      "date_of_birth": "1998-11-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "İstanbul Başakşehir",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q40952365",
+      "qid": "Q40952365",
+      "name": "Yusuf Sarı",
+      "description": "Turkish-French association football player (born 1998)",
+      "place_of_birth_qid": "Q237516",
+      "citizenship_qids": [
+        "Q142",
+        "Q43"
+      ],
+      "height_cm": 168.0,
+      "position_qids": [
+        "Q3446915"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q132885",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q132885",
+      "image_filename": "Yusuf Sarı 7 İstanbul Başakşehir FK UECL 20250813 (1).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yusuf_Sar%C4%B1",
+      "transfermarkt_id": "517376",
+      "positions": [
+        "attacker"
+      ],
+      "citizenship": [
+        "France",
+        "Turkey"
+      ],
+      "place_of_birth": "Martigues",
+      "wikidata_current_club": "Olympique de Marseille",
+      "wikidata_current_club_qid": "Q132885",
+      "photo": {
+        "filename": "Yusuf Sarı 7 İstanbul Başakşehir FK UECL 20250813 (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Yusuf_Sar%C4%B1_7_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK_UECL_20250813_%281%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Yusuf_Sar%C4%B1_7_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK_UECL_20250813_%281%29.jpg/960px-Yusuf_Sar%C4%B1_7_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK_UECL_20250813_%281%29.jpg",
+        "width": 5152,
+        "height": 7728,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/User:Zafer\" title=\"User:Zafer\">Zafer</a></div>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/yusuf-sarı.jpg"
+      }
+    },
+    {
+      "slug": "can-uzun",
+      "display_name": "Can Uzun",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2005-11-11",
+      "age": 20,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Eintracht Frankfurt",
+      "wikipedia_title": "Can Uzun",
+      "date_of_birth": "2005-11-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Eintracht Frankfurt",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q118799181",
+      "qid": "Q118799181",
+      "name": "Can Uzun",
+      "description": "Turkish association football player (born 2005)",
+      "place_of_birth_qid": "Q2978",
+      "citizenship_qids": [
+        "Q43",
+        "Q183"
+      ],
+      "height_cm": 186.0,
+      "position_qids": [
+        "Q90326494",
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3590479",
+          "start": "2021-09-00",
+          "end": "2022-05-00"
+        },
+        {
+          "team_qid": "Q23925713",
+          "start": "2022-11-00",
+          "end": "2022-11-00"
+        },
+        {
+          "team_qid": "Q483856",
+          "start": "2024-03-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q4545849",
+          "start": "2023-04-00",
+          "end": "2023-06-00"
+        },
+        {
+          "team_qid": "Q15786",
+          "start": "2023-05-00",
+          "end": "2024-07-00"
+        },
+        {
+          "team_qid": "Q38245",
+          "start": "2024-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q38245",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Can_Uzun",
+      "transfermarkt_id": "816585",
+      "positions": [
+        "attacking midfielder",
+        "forward"
+      ],
+      "citizenship": [
+        "Turkey",
+        "Germany"
+      ],
+      "place_of_birth": "Regensburg",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "aral-şimşir",
+      "display_name": "Aral Şimşir",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2002-06-19",
+      "age": 23,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Midtjylland",
+      "wikipedia_title": "Aral Şimşir",
+      "date_of_birth": "2002-06-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Midtjylland",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q95984209",
+      "qid": "Q95984209",
+      "name": "Aral Şimşir",
+      "description": "Turkish-Danish association football player (born 2002)",
+      "place_of_birth_qid": "Q21184",
+      "citizenship_qids": [
+        "Q756617",
+        "Q43"
+      ],
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q541289",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q541289",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aral_%C5%9Eim%C5%9Fir",
+      "transfermarkt_id": "514887",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Kingdom of Denmark",
+        "Turkey"
+      ],
+      "place_of_birth": "Køge",
+      "wikidata_current_club": "HB Køge",
+      "wikidata_current_club_qid": "Q541289",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    }
+  ],
+  "notes": [
+    "Turkey photo/field audit 2026-05-24: verifier confirmed all 35 squad-table rows. Deniz Gül received a verified manual crop from a Commons Porto match file; Yusuf Akçiçek, Mustafa Eskihellaç, Oğuz Aydın, Can Uzun, and Aral Şimşir had no clean Wikimedia portrait and are marked reviewed-none."
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "gregor-kobel",
+  "display_name": "Gregor Kobel",
+  "shirt_no": 1,
+  "position_code": "GK",
+  "dob": "1997-12-06",
+  "age": 28,
+  "caps": 20,
+  "goals": 0,
+  "club_from_squad_table": "Borussia Dortmund",
+  "wikipedia_title": "Gregor Kobel",
+  "date_of_birth": "1997-12-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Borussia Dortmund",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q36184031",
+  "qid": "Q36184031",
+  "name": "Gregor Kobel",
+  "description": "Swiss footballer (born 1997)",
+  "place_of_birth_qid": "Q72",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 1.94,
+  "weight_kg": 90.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q22707",
+      "start": "2016-07-01",
+      "end": "2020-06-30"
+    },
+    {
+      "team_qid": "Q4512",
+      "start": "2019-07-01",
+      "end": "2020-06-30"
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2021-07-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q678582",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q165141",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q15755",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q4512",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    }
+  ],
+  "current_club_qid": "Q41420",
+  "image_filename": "2023-08-12 TSV Schott Mainz gegen Borussia Dortmund (DFB-Pokal 2023-24) by Sandro Halank–090.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gregor_Kobel",
+  "transfermarkt_id": "257814",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Zurich",
+  "photo": {
+    "filename": "2023-08-12 TSV Schott Mainz gegen Borussia Dortmund (DFB-Pokal 2023-24) by Sandro Halank–090.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93090.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93090.jpg/960px-2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93090.jpg",
+    "width": 1596,
+    "height": 1786,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sandro_Halank\" title=\"User:Sandro Halank\">Sandro Halank, Wikimedia Commons</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/gregor-kobel.jpg"
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

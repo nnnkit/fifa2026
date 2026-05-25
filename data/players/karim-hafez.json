@@ -1,0 +1,79 @@
+{
+  "slug": "karim-hafez",
+  "display_name": "Karim Hafez",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-03-12",
+  "age": 30,
+  "caps": 7,
+  "goals": 0,
+  "club_from_squad_table": "Pyramids",
+  "wikipedia_title": "Karim Hafez",
+  "date_of_birth": "1996-03-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Pyramids",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18225149",
+  "qid": "Q18225149",
+  "name": "Karim Hafez",
+  "description": "Egyptian association football player",
+  "place_of_birth_qid": "Q85",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "height_cm": 175.0,
+  "weight_kg": 73.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q240783",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q725018",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q28089",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q191843",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q240783",
+  "image_filename": "Karim Hafez (RC Lens).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Karim_Hafez",
+  "transfermarkt_id": "333004",
+  "wikidata_date_of_birth": "1995-03-12",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "place_of_birth": "Cairo",
+  "wikidata_current_club": "AC Omonia",
+  "wikidata_current_club_qid": "Q240783",
+  "photo": {
+    "filename": "Karim Hafez (RC Lens).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Karim_Hafez_%28RC_Lens%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Karim_Hafez_%28RC_Lens%29.jpg",
+    "width": 599,
+    "height": 1106,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Liondartois\" title=\"User:Liondartois\">Liondartois</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/karim-hafez.jpg"
+  },
+  "team_slug": "egypt",
+  "team_country": "Egypt"
+}

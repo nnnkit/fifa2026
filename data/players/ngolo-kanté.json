@@ -1,0 +1,96 @@
+{
+  "slug": "ngolo-kant\u00e9",
+  "display_name": "N'Golo Kant\u00e9",
+  "shirt_no": 13,
+  "position_code": "MF",
+  "dob": "1991-03-29",
+  "age": 35,
+  "caps": 67,
+  "goals": 2,
+  "club_from_squad_table": "Fenerbah\u00e7e",
+  "wikipedia_title": "N'Golo Kant\u00e9",
+  "date_of_birth": "1991-03-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Fenerbah\u00e7e",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16665941",
+  "qid": "Q16665941",
+  "name": "N'Golo Kant\u00e9",
+  "description": "French footballer (born 1991)",
+  "place_of_birth_qid": "Q90",
+  "citizenship_qids": [
+    "Q142",
+    "Q912"
+  ],
+  "height_cm": 171.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q193377",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q19481",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q309400",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q47774",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2016-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q309480",
+      "start": "2023-00-00",
+      "end": "2026-02-03"
+    },
+    {
+      "team_qid": "Q6601875",
+      "start": "2026-02-03",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q6601875",
+  "image_filename": "N'Golo Kant\u00e9 at Baku before 2019 UEFA Europe League Final.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/N%27Golo_Kant%C3%A9",
+  "transfermarkt_id": "225083",
+  "fifa_player_id": "398681",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "France",
+    "Mali"
+  ],
+  "place_of_birth": "Paris",
+  "wikidata_current_club": "Fenerbah\u00e7e Istanbul",
+  "wikidata_current_club_qid": "Q6601875",
+  "photo": {
+    "filename": "N'Golo Kant\u00e9 at Baku before 2019 UEFA Europe League Final.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/N%27Golo_Kant%C3%A9_at_Baku_before_2019_UEFA_Europe_League_Final.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/N%27Golo_Kant%C3%A9_at_Baku_before_2019_UEFA_Europe_League_Final.jpg",
+    "width": 675,
+    "height": 698,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Amir Hosseini",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ngolo-kant\u00e9.jpg"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

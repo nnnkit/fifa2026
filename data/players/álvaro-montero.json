@@ -1,0 +1,62 @@
+{
+  "slug": "\u00e1lvaro-montero",
+  "display_name": "\u00c1lvaro Montero",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1995-03-29",
+  "age": 31,
+  "caps": 11,
+  "goals": 0,
+  "club_from_squad_table": "V\u00e9lez Sarsfield",
+  "wikipedia_title": "\u00c1lvaro Montero (Colombian footballer)",
+  "date_of_birth": "1995-03-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "V\u00e9lez Sarsfield",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20645743",
+  "qid": "Q20645743",
+  "name": "\u00c1lvaro Montero",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q1574943",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 1.96,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q391984",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q391984",
+  "image_filename": "Alvaro Montero.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Montero_(Colombian_footballer)",
+  "transfermarkt_id": "292985",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "El Molino",
+  "wikidata_current_club": "Millonarios",
+  "wikidata_current_club_qid": "Q391984",
+  "photo": {
+    "filename": "Alvaro Montero.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Alvaro_Montero.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Alvaro_Montero.jpg/960px-Alvaro_Montero.jpg",
+    "width": 3864,
+    "height": 5152,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:F.edeeee1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:F.edeeee1 (page does not exist)\">F.edeeee1</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/\u00e1lvaro-montero.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

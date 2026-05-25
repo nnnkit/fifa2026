@@ -1,0 +1,82 @@
+{
+  "slug": "payam-niazmand",
+  "display_name": "Payam Niazmand",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1995-04-06",
+  "age": 31,
+  "caps": 15,
+  "goals": 0,
+  "club_from_squad_table": "Persepolis",
+  "wikipedia_title": "Payam Niazmand",
+  "date_of_birth": "1995-04-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Persepolis",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q43374160",
+  "qid": "Q43374160",
+  "name": "Payam Niazmand",
+  "description": "Iranian association football player",
+  "place_of_birth_qid": "Q3616",
+  "citizenship_qids": [
+    "Q794"
+  ],
+  "height_cm": 194.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q31660",
+      "start": "2018-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q1473386",
+      "start": "2015-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q621120",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q31660",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q184602",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q31660",
+  "image_filename": "Payam Niazmand, Esteghlal vs. Sepahan.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Payam_Niazmand",
+  "transfermarkt_id": "343044",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Iran"
+  ],
+  "place_of_birth": "Tehran",
+  "wikidata_current_club": "Sepahan F.C.",
+  "wikidata_current_club_qid": "Q31660",
+  "photo": {
+    "filename": "Payam Niazmand, Esteghlal vs. Sepahan.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Payam_Niazmand%2C_Esteghlal_vs._Sepahan.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Payam_Niazmand%2C_Esteghlal_vs._Sepahan.jpg",
+    "width": 425,
+    "height": 560,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mehdi Mahabadi",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/payam-niazmand.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

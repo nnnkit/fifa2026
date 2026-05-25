@@ -1,0 +1,94 @@
+{
+  "slug": "nico-elvedi",
+  "display_name": "Nico Elvedi",
+  "shirt_no": 4,
+  "position_code": "DF",
+  "dob": "1996-09-30",
+  "age": 29,
+  "caps": 65,
+  "goals": 3,
+  "club_from_squad_table": "Borussia Mönchengladbach",
+  "wikipedia_title": "Nico Elvedi",
+  "date_of_birth": "1996-09-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Borussia Mönchengladbach",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18637339",
+  "qid": "Q18637339",
+  "name": "Nico Elvedi",
+  "description": "Swiss association football player",
+  "place_of_birth_qid": "Q72",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 74.0,
+  "position_qids": [
+    "Q268258",
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q101959",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q93636183",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q650273",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q19019176",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q4140019",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q206692",
+      "start": "2014-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q165141",
+      "start": "2016-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q101959",
+  "image_filename": "Wales-Switzerland match at Euro 2020 in Baku (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nico_Elvedi",
+  "transfermarkt_id": "192635",
+  "fifa_player_id": "398509",
+  "positions": [
+    "centre-back",
+    "defender"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Zurich",
+  "photo": {
+    "filename": "Wales-Switzerland match at Euro 2020 in Baku (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Wales-Switzerland_match_at_Euro_2020_in_Baku_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Wales-Switzerland_match_at_Euro_2020_in_Baku_%28cropped%29.jpg",
+    "width": 218,
+    "height": 251,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<table class=\"layouttemplate sourcetemplate\" style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; box-sizing: border-box; padding: 0; border-spacing: 8px; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555);\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td style=\"text-align:center;\"><figure class=\"mw-halign-left mw-image-border\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:The_Presidential_Press_and_Information_Office_of_Azerbaijan_(official_logo).png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Presidential_Press_and_Information_Office_of_Azerbaijan_%28official_logo%29.png/120px-The_Presidential_Press_and_Information_Office_of_Azerbaijan_%28official_logo%29.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" width=\"70\" height=\"52\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Presidential_Press_and_Information_Office_of_Azerbaijan_%28official_logo%29.png/250px-The_Presidential_Press_and_Information_Office_of_Azerbaijan_%28official_logo%29.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"395\" data-file-height=\"295\"></a><figcaption></figcaption></figure>\n</td>\n<td><b>Press Service of the President of the Republic of Azerbaijan</b>\n</td></tr></tbody></table>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nico-elvedi.jpg"
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

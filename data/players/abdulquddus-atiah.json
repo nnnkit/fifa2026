@@ -1,0 +1,50 @@
+{
+  "slug": "abdulquddus-atiah",
+  "display_name": "Abdulquddus Atiah",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1997-03-01",
+  "age": 29,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Al-Taawoun",
+  "wikipedia_title": "Abdulquddus Atiah",
+  "date_of_birth": "1997-03-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Taawoun",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q54861492",
+  "qid": "Q54861492",
+  "name": "Abdulquddus Atiah",
+  "description": "Saudi Arabian footballer",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q20081435",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q20081435",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abdulquddus_Atiah",
+  "transfermarkt_id": "564006",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "wikidata_current_club": "Al-Feiha FC",
+  "wikidata_current_club_qid": "Q20081435",
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "diney",
+  "display_name": "Diney",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1995-01-17",
+  "age": 31,
+  "caps": 29,
+  "goals": 2,
+  "club_from_squad_table": "Al Bataeh",
+  "wikipedia_title": "Diney (footballer, born 1995)",
+  "date_of_birth": "1995-01-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al Bataeh",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18637312",
+  "qid": "Q18637312",
+  "name": "Diney",
+  "description": "Cape Verdea footballer (born 1995)",
+  "place_of_birth_qid": "Q2311253",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q216503",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q216503",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Diney_(footballer,_born_1995)",
+  "transfermarkt_id": "349570",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Tarrafal",
+  "wikidata_current_club": "C.S. Marítimo",
+  "wikidata_current_club_qid": "Q216503",
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "nawaf-al-aqidi",
+  "display_name": "Nawaf Al-Aqidi",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2000-05-10",
+  "age": 26,
+  "caps": 22,
+  "goals": 0,
+  "club_from_squad_table": "Al-Nassr",
+  "wikipedia_title": "Nawaf Al-Aqidi",
+  "date_of_birth": "2000-05-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Nassr",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q82251502",
+  "qid": "Q82251502",
+  "name": "Nawaf Al-Aqidi",
+  "description": "Saudi association football player",
+  "place_of_birth_qid": "Q3692",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 188.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q482764",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2470164",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q2756148",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q482764",
+  "image_filename": "Nawaf Al-Aqidi 2023 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nawaf_Al-Aqidi",
+  "transfermarkt_id": "886183",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Riyadh",
+  "photo": {
+    "filename": "Nawaf Al-Aqidi 2023 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Nawaf_Al-Aqidi_2023_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Nawaf_Al-Aqidi_2023_%28cropped%29.jpg",
+    "width": 370,
+    "height": 524,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mohammad Hossein Movahedi Nejad",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nawaf-al-aqidi.jpg"
+  },
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia"
+}

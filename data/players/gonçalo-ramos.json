@@ -1,0 +1,107 @@
+{
+  "slug": "gon\u00e7alo-ramos",
+  "display_name": "Gon\u00e7alo Ramos",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-06-20",
+  "age": 24,
+  "caps": 24,
+  "goals": 10,
+  "club_from_squad_table": "Paris Saint-Germain",
+  "wikipedia_title": "Gon\u00e7alo Ramos",
+  "date_of_birth": "2001-06-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Paris Saint-Germain",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q60621615",
+  "qid": "Q60621615",
+  "name": "Gon\u00e7alo Ramos",
+  "description": "Portuguese association football player",
+  "place_of_birth_qid": "Q740845",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q7387221",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q131499",
+      "start": "2020-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q3590754",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q3873511",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q3873524",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1772776",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q1630430",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q267245",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2023-08-07",
+      "end": "2023-12-31"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2024-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q483020",
+  "image_filename": "Gon\u00e7alo Ramos USMNT v Portugal Mar 31 2026-32.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gon%C3%A7alo_Ramos",
+  "transfermarkt_id": "550550",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Olh\u00e3o",
+  "wikidata_current_club": "Paris Saint-Germain FC",
+  "wikidata_current_club_qid": "Q483020",
+  "photo": {
+    "filename": "Gon\u00e7alo Ramos USMNT v Portugal Mar 31 2026-32.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Gon%C3%A7alo_Ramos_USMNT_v_Portugal_Mar_31_2026-32.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gon%C3%A7alo_Ramos_USMNT_v_Portugal_Mar_31_2026-32.jpg/960px-Gon%C3%A7alo_Ramos_USMNT_v_Portugal_Mar_31_2026-32.jpg",
+    "width": 3333,
+    "height": 5000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/gon\u00e7alo-ramos.jpg"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

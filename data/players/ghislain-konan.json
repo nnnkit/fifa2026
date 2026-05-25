@@ -1,0 +1,70 @@
+{
+  "slug": "ghislain-konan",
+  "display_name": "Ghislain Konan",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1995-12-27",
+  "age": 30,
+  "caps": 53,
+  "goals": 0,
+  "club_from_squad_table": "Gil Vicente",
+  "wikipedia_title": "Ghislain Konan",
+  "date_of_birth": "1995-12-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Gil Vicente",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q29158696",
+  "qid": "Q29158696",
+  "name": "Ghislain Konan",
+  "description": "Ivorian footballer",
+  "place_of_birth_qid": "Q1515",
+  "citizenship_qids": [
+    "Q1008"
+  ],
+  "height_cm": 176.0,
+  "weight_kg": 71.0,
+  "position_qids": [
+    "Q336286",
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q852266",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q170903",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q852266",
+  "image_filename": "FC Salzburg gegen Vitória Guimarães (UEFA Euroleague 23. November 2017) 42.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ghislain_Konan",
+  "transfermarkt_id": "422850",
+  "positions": [
+    "defender",
+    "full-back"
+  ],
+  "citizenship": [
+    "Ivory Coast"
+  ],
+  "place_of_birth": "Abidjan",
+  "wikidata_current_club": "ASEC Mimosas",
+  "wikidata_current_club_qid": "Q852266",
+  "photo": {
+    "filename": "FC Salzburg gegen Vitória Guimarães (UEFA Euroleague 23. November 2017) 42.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/FC_Salzburg_gegen_Vit%C3%B3ria_Guimar%C3%A3es_%28UEFA_Euroleague_23._November_2017%29_42.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FC_Salzburg_gegen_Vit%C3%B3ria_Guimar%C3%A3es_%28UEFA_Euroleague_23._November_2017%29_42.jpg/960px-FC_Salzburg_gegen_Vit%C3%B3ria_Guimar%C3%A3es_%28UEFA_Euroleague_23._November_2017%29_42.jpg",
+    "width": 1046,
+    "height": 1787,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ghislain-konan.jpg"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

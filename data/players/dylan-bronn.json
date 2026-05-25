@@ -1,0 +1,71 @@
+{
+  "slug": "dylan-bronn",
+  "display_name": "Dylan Bronn",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1995-06-19",
+  "age": 30,
+  "caps": 52,
+  "goals": 2,
+  "club_from_squad_table": "Servette",
+  "wikipedia_title": "Dylan Bronn",
+  "date_of_birth": "1995-06-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Servette",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26405549",
+  "qid": "Q26405549",
+  "name": "Dylan Bronn",
+  "description": "Tunisian and French association football player",
+  "place_of_birth_qid": "Q39984",
+  "citizenship_qids": [
+    "Q948",
+    "Q142"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 76.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q27971",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q18232",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18232",
+  "image_filename": "Dylan Bronn.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dylan_Bronn",
+  "transfermarkt_id": "450417",
+  "fifa_player_id": "411653",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Tunisia",
+    "France"
+  ],
+  "place_of_birth": "Cannes",
+  "wikidata_current_club": "KAA Gent",
+  "wikidata_current_club_qid": "Q18232",
+  "photo": {
+    "filename": "Dylan Bronn.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Dylan_Bronn.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Dylan_Bronn.jpg",
+    "width": 221,
+    "height": 246,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0421\u0430\u0434\u043e\u0432\u043d\u0438\u043a\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/dylan-bronn.jpg"
+  },
+  "team_slug": "tunisia",
+  "team_country": "Tunisia"
+}

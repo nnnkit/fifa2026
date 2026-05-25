@@ -1,0 +1,97 @@
+{
+  "slug": "chadi-riad",
+  "display_name": "Chadi Riad",
+  "shirt_no": 18,
+  "position_code": "DF",
+  "dob": "2003-06-17",
+  "age": 22,
+  "caps": 4,
+  "goals": 1,
+  "club_from_squad_table": "Crystal Palace",
+  "wikipedia_title": "Chadi Riad",
+  "date_of_birth": "2003-06-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Crystal Palace",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q104784108",
+  "qid": "Q104784108",
+  "name": "Chadi Riad",
+  "description": "Moroccan association football player",
+  "place_of_birth_qid": "Q8826",
+  "citizenship_qids": [
+    "Q1028"
+  ],
+  "height_cm": 1.86,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q10467",
+      "start": "2022-07-01",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q12260",
+      "start": "2020-07-02",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q13562063",
+      "start": "2020-07-01",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q3590714",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2022-11-08",
+      "end": null
+    },
+    {
+      "team_qid": "Q207337",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q8723",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2686567",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8723",
+  "image_filename": "Chadi Riad against Paraguay (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chadi_Riad",
+  "transfermarkt_id": "689637",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Morocco"
+  ],
+  "place_of_birth": "Palma",
+  "wikidata_current_club": "Real Betis Balompi\u00e9",
+  "wikidata_current_club_qid": "Q8723",
+  "photo": {
+    "filename": "Chadi Riad against Paraguay (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Chadi_Riad_against_Paraguay_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chadi_Riad_against_Paraguay_%28cropped%29.jpg/960px-Chadi_Riad_against_Paraguay_%28cropped%29.jpg",
+    "width": 2455,
+    "height": 3851,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Abdelali Bentarki",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/chadi-riad.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

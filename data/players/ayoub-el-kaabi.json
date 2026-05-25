@@ -1,0 +1,88 @@
+{
+  "slug": "ayoub-el-kaabi",
+  "display_name": "Ayoub El Kaabi",
+  "shirt_no": 20,
+  "position_code": "FW",
+  "dob": "1993-06-25",
+  "age": 32,
+  "caps": 55,
+  "goals": 20,
+  "club_from_squad_table": "Olympiacos",
+  "wikipedia_title": "Ayoub El Kaabi",
+  "date_of_birth": "1993-06-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Olympiacos",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q42948040",
+  "qid": "Q42948040",
+  "name": "Ayoub El Kaabi",
+  "description": "Moroccan footballer",
+  "place_of_birth_qid": "Q7903",
+  "citizenship_qids": [
+    "Q1028"
+  ],
+  "height_cm": 1.82,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1906329",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q3424751",
+      "start": "2017-07-01",
+      "end": "2018-07-11"
+    },
+    {
+      "team_qid": "Q402038",
+      "start": "2018-07-11",
+      "end": "2020-08-20"
+    },
+    {
+      "team_qid": "Q1139095",
+      "start": "2019-07-28",
+      "end": "2019-12-31"
+    },
+    {
+      "team_qid": "Q207337",
+      "start": "2018-03-23",
+      "end": null
+    },
+    {
+      "team_qid": "Q19060379",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1906329",
+  "image_filename": "Ayoub El Kaabi vs Niger (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ayoub_El_Kaabi",
+  "transfermarkt_id": "521127",
+  "fifa_player_id": "411678",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Morocco"
+  ],
+  "place_of_birth": "Casablanca",
+  "wikidata_current_club": "Racing de Casablanca",
+  "wikidata_current_club_qid": "Q1906329",
+  "photo": {
+    "filename": "Ayoub El Kaabi vs Niger (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ayoub_El_Kaabi_vs_Niger_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ayoub_El_Kaabi_vs_Niger_%28cropped%29.jpg/960px-Ayoub_El_Kaabi_vs_Niger_%28cropped%29.jpg",
+    "width": 1195,
+    "height": 2310,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Laloumance",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ayoub-el-kaabi.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "zaid-tahseen",
+  "display_name": "Zaid Tahseen",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-01-29",
+  "age": 25,
+  "caps": 25,
+  "goals": 1,
+  "club_from_squad_table": "Pakhtakor",
+  "wikipedia_title": "Zaid Tahseen",
+  "date_of_birth": "2001-01-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Pakhtakor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q114355105",
+  "qid": "Q114355105",
+  "name": "Zaid Tahseen",
+  "description": "Iraqi footballer",
+  "place_of_birth_qid": "Q168193",
+  "citizenship_qids": [
+    "Q796"
+  ],
+  "height_cm": 193.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q16845459",
+      "start": "2019-07-00",
+      "end": "2021-02-00"
+    },
+    {
+      "team_qid": "Q285510",
+      "start": "2021-02-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q195932",
+      "start": "2021-09-00",
+      "end": "2024-05-00"
+    },
+    {
+      "team_qid": "Q186243",
+      "start": "2022-11-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q285510",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Zaid_Tahseen",
+  "transfermarkt_id": "931147",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Iraq"
+  ],
+  "place_of_birth": "Najaf",
+  "wikidata_current_club": "Al-Quwa Al-Jawiya",
+  "wikidata_current_club_qid": "Q285510",
+  "team_slug": "iraq",
+  "team_country": "Iraq",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "abdulelah-al-amri",
+  "display_name": "Abdulelah Al-Amri",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-01-15",
+  "age": 29,
+  "caps": 40,
+  "goals": 1,
+  "club_from_squad_table": "Al-Nassr",
+  "wikipedia_title": "Abdulelah Al-Amri",
+  "date_of_birth": "1997-01-15",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Nassr",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q30308980",
+  "qid": "Q30308980",
+  "name": "Abdulelah Al-Amri",
+  "description": "Saudi footballer",
+  "place_of_birth_qid": "Q182640",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q812713",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q482764",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873541",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q2756148",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q189723",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q23848735",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q309480",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q482764",
+  "image_filename": "Abdulelah Al-Amri 2023 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abdulelah_Al-Amri",
+  "transfermarkt_id": "509894",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Ta'if",
+  "photo": {
+    "filename": "Abdulelah Al-Amri 2023 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Abdulelah_Al-Amri_2023_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Abdulelah_Al-Amri_2023_%28cropped%29.jpg",
+    "width": 152,
+    "height": 197,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "M.Reza Abbasi/Foad Ashtari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/abdulelah-al-amri.jpg"
+  },
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "jhohan-roma\u00f1a",
+  "display_name": "Jhohan Roma\u00f1a",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-09-13",
+  "age": 27,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "San Lorenzo",
+  "wikipedia_title": "Jhohan Roma\u00f1a",
+  "date_of_birth": "1998-09-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "San Lorenzo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q25408440",
+  "qid": "Q25408440",
+  "name": "Jhohan Roma\u00f1a",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q1093516",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q332527",
+      "start": "2016-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q605044",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q60643348",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q15799",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q60643348",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jhohan_Roma%C3%B1a",
+  "transfermarkt_id": "741963",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Apartad\u00f3",
+  "wikidata_current_club": "Austin FC",
+  "wikidata_current_club_qid": "Q60643348",
+  "team_slug": "colombia",
+  "team_country": "Colombia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

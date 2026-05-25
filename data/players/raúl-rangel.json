@@ -1,0 +1,51 @@
+{
+  "slug": "raúl-rangel",
+  "display_name": "Raúl Rangel",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2000-02-25",
+  "age": 26,
+  "caps": 12,
+  "goals": 0,
+  "club_from_squad_table": "Guadalajara",
+  "wikipedia_title": "Raúl Rangel (footballer)",
+  "wikidata_qid": "Q120753803",
+  "qid": "Q120753803",
+  "name": "José Raul Rangel",
+  "description": "Mexican footballer (born 2000)",
+  "date_of_birth": "2000-02-25",
+  "place_of_birth_qid": "Q1827286",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 191.0,
+  "position_qids": [
+    "Q172964"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Rangel_(footballer)",
+  "transfermarkt_id": "802855",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Zapotlán el Grande Municipality",
+  "current_club": "Guadalajara",
+  "current_club_source": "wikipedia-squad-table",
+  "image_filename": "Raúl_Rangel.png",
+  "photo": {
+    "filename": "Raúl_Rangel.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ra%C3%BAl_Rangel.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ra%C3%BAl_Rangel.png",
+    "width": 511,
+    "height": 638,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/raúl-rangel.png"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

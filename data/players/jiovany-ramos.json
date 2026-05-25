@@ -1,0 +1,53 @@
+{
+  "slug": "jiovany-ramos",
+  "display_name": "Jiovany Ramos",
+  "shirt_no": 13,
+  "position_code": "DF",
+  "dob": "1997-01-26",
+  "age": 29,
+  "caps": 20,
+  "goals": 1,
+  "club_from_squad_table": "Puerto Cabello",
+  "wikipedia_title": "Jiovany Ramos",
+  "date_of_birth": "1997-01-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Puerto Cabello",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q62006245",
+  "qid": "Q62006245",
+  "name": "Jiovany Ramos",
+  "description": "Panamanian footballer",
+  "place_of_birth_qid": "Q3306",
+  "citizenship_qids": [
+    "Q804"
+  ],
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2060037",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q17619991",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jiovany_Ramos",
+  "transfermarkt_id": "403809",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Panama"
+  ],
+  "place_of_birth": "Panama City",
+  "wikidata_current_club": "San Francisco F.C.",
+  "wikidata_current_club_qid": "Q2060037",
+  "team_slug": "panama",
+  "team_country": "Panama",
+  "height_cm": 180.0,
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

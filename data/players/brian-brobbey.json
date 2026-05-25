@@ -1,0 +1,67 @@
+{
+  "slug": "brian-brobbey",
+  "display_name": "Brian Brobbey",
+  "shirt_no": 19,
+  "position_code": "FW",
+  "dob": "2002-02-01",
+  "age": 24,
+  "caps": 10,
+  "goals": 1,
+  "club_from_squad_table": "Sunderland",
+  "wikipedia_title": "Brian Brobbey",
+  "date_of_birth": "2002-02-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sunderland",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q57456997",
+  "qid": "Q57456997",
+  "name": "Brian Brobbey",
+  "description": "Dutch association football player (born 2002)",
+  "place_of_birth_qid": "Q727",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q10467",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q104761",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q10467",
+  "image_filename": "GAE - Ajax - 52788469380 (Brobbey).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Brobbey",
+  "transfermarkt_id": "473169",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Amsterdam",
+  "wikidata_current_club": "FC Barcelona Atl\u00e8tic",
+  "wikidata_current_club_qid": "Q10467",
+  "photo": {
+    "filename": "GAE - Ajax - 52788469380 (Brobbey).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/GAE_-_Ajax_-_52788469380_%28Brobbey%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/GAE_-_Ajax_-_52788469380_%28Brobbey%29.jpg/960px-GAE_-_Ajax_-_52788469380_%28Brobbey%29.jpg",
+    "width": 1691,
+    "height": 2259,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Carlo Bruil Fotografie",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/brian-brobbey.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

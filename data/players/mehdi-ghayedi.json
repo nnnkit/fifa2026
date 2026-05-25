@@ -1,0 +1,88 @@
+{
+  "slug": "mehdi-ghayedi",
+  "display_name": "Mehdi Ghayedi",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1998-12-05",
+  "age": 27,
+  "caps": 29,
+  "goals": 10,
+  "club_from_squad_table": "Al-Nasr",
+  "wikipedia_title": "Mehdi Ghayedi",
+  "date_of_birth": "1998-12-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Nasr",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q30160479",
+  "qid": "Q30160479",
+  "name": "Mehdi Ghayedi",
+  "description": "Iranian footballer",
+  "place_of_birth_qid": "Q158928",
+  "citizenship_qids": [
+    "Q794"
+  ],
+  "height_cm": 166.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q455971",
+      "start": "2017-07-00",
+      "end": "2021-08-00"
+    },
+    {
+      "team_qid": "Q424943",
+      "start": "2021-08-00",
+      "end": "2023-07-00"
+    },
+    {
+      "team_qid": "Q455971",
+      "start": "2022-08-00",
+      "end": "2023-06-00"
+    },
+    {
+      "team_qid": "Q3804552",
+      "start": "2023-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q9189031",
+      "start": "2016-07-00",
+      "end": "2017-07-00"
+    },
+    {
+      "team_qid": "Q184602",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q3804552",
+  "image_filename": "Mehdi Ghayedi Esteghlal FC, 14 December 2019.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mehdi_Ghayedi",
+  "transfermarkt_id": "478192",
+  "fifa_player_id": "403236",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Iran"
+  ],
+  "place_of_birth": "Bushehr",
+  "wikidata_current_club": "Kalba FC",
+  "wikidata_current_club_qid": "Q3804552",
+  "photo": {
+    "filename": "Mehdi Ghayedi Esteghlal FC, 14 December 2019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Mehdi_Ghayedi_Esteghlal_FC%2C_14_December_2019.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Mehdi_Ghayedi_Esteghlal_FC%2C_14_December_2019.jpg",
+    "width": 468,
+    "height": 701,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "\u0627\u06a9\u0628\u0631 \u062f\u0627\u062f\u0627\u0634\u200c\u0632\u0627\u062f\u0647",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mehdi-ghayedi.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

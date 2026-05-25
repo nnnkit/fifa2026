@@ -1,0 +1,97 @@
+{
+  "slug": "sadio-man\u00e9",
+  "display_name": "Sadio Man\u00e9",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1992-04-10",
+  "age": 34,
+  "caps": 126,
+  "goals": 53,
+  "club_from_squad_table": "Al-Nassr",
+  "wikipedia_title": "Sadio Man\u00e9",
+  "date_of_birth": "1992-04-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Nassr",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q209942",
+  "qid": "Q209942",
+  "name": "Sadio Man\u00e9",
+  "description": "Senegalese association football player (born 1992)",
+  "place_of_birth_qid": "Q2881751",
+  "citizenship_qids": [
+    "Q1041"
+  ],
+  "height_cm": 174.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q994811",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q221525",
+      "start": "2010-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q18732",
+      "start": "2014-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q3132749",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q207441",
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1130849",
+      "start": "2016-07-00",
+      "end": "2022-06-00"
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2022-07-00",
+      "end": "2023-08-00"
+    },
+    {
+      "team_qid": "Q482764",
+      "start": "2023-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q482764",
+  "image_filename": "Esteghlal F.C. v Al Nassr FC, 3 March 2025, Sadio Man\u00e9 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sadio_Man%C3%A9",
+  "transfermarkt_id": "200512",
+  "fifa_player_id": "353790",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "Senegal"
+  ],
+  "place_of_birth": "Bambali",
+  "photo": {
+    "filename": "Esteghlal F.C. v Al Nassr FC, 3 March 2025, Sadio Man\u00e9 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Esteghlal_F.C._v_Al_Nassr_FC%2C_3_March_2025%2C_Sadio_Man%C3%A9_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Esteghlal_F.C._v_Al_Nassr_FC%2C_3_March_2025%2C_Sadio_Man%C3%A9_%28cropped%29.jpg",
+    "width": 499,
+    "height": 634,
+    "license": "Attribution",
+    "license_url": null,
+    "attribution": "Ali Rafati/\u0639\u0644\u06cc \u0631\u0641\u0639\u062a\u06cc/ipna.ir",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/sadio-man\u00e9.jpg"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

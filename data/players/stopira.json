@@ -1,0 +1,96 @@
+{
+  "slug": "stopira",
+  "display_name": "Stopira",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1988-05-20",
+  "age": 38,
+  "caps": 60,
+  "goals": 4,
+  "club_from_squad_table": "Torreense",
+  "wikipedia_title": "Stopira",
+  "date_of_birth": "1988-05-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Torreense",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q918049",
+  "qid": "Q918049",
+  "name": "Stopira",
+  "description": "Cape Verdean association football player",
+  "place_of_birth_qid": "Q3751",
+  "citizenship_qids": [
+    "Q1011",
+    "Q45"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q326811",
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q671042",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q3175004",
+      "start": "2006-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q740637",
+      "start": "2008-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q1705764",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q330039",
+      "start": "2008-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q8760",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q326811",
+  "image_filename": "Cap-vert vs Ethiopi (25).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Stopira",
+  "transfermarkt_id": "80486",
+  "fifa_player_id": "297266",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Cape Verde",
+    "Portugal"
+  ],
+  "place_of_birth": "Praia",
+  "wikidata_current_club": "Feh\u00e9rv\u00e1r FC",
+  "wikidata_current_club_qid": "Q326811",
+  "photo": {
+    "filename": "Cap-vert vs Ethiopi (25).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Cap-vert_vs_Ethiopi_%2825%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cap-vert_vs_Ethiopi_%2825%29.jpg/960px-Cap-vert_vs_Ethiopi_%2825%29.jpg",
+    "width": 2056,
+    "height": 3088,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Effath%C3%A9ophile105&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Effath\u00e9ophile105 (page does not exist)\">Effath\u00e9ophile105</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/stopira.jpg"
+  },
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde"
+}

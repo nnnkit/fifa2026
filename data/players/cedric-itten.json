@@ -1,0 +1,79 @@
+{
+  "slug": "cedric-itten",
+  "display_name": "Cedric Itten",
+  "shirt_no": 26,
+  "position_code": "FW",
+  "dob": "1996-12-27",
+  "age": 29,
+  "caps": 13,
+  "goals": 5,
+  "club_from_squad_table": "Fortuna Düsseldorf",
+  "wikipedia_title": "Cedric Itten",
+  "date_of_birth": "1996-12-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Fortuna Düsseldorf",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q22965497",
+  "qid": "Q22965497",
+  "name": "Cedric Itten",
+  "description": "Swiss association football player",
+  "place_of_birth_qid": "Q78",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 189.0,
+  "weight_kg": 81.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q189671",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q189671",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q189671",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q4140019",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3873550",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q678582",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q189671",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cedric_Itten",
+  "transfermarkt_id": "243856",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Basel",
+  "wikidata_current_club": "FC Basel",
+  "wikidata_current_club_qid": "Q189671",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

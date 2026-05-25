@@ -1,0 +1,70 @@
+{
+  "slug": "lucas-martínez-quarta",
+  "display_name": "Lucas Martínez Quarta",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-05-10",
+  "age": 30,
+  "caps": 16,
+  "goals": 0,
+  "club_from_squad_table": "River Plate",
+  "wikipedia_title": "Lucas Martínez Quarta",
+  "wikidata_qid": "Q20669464",
+  "qid": "Q20669464",
+  "name": "Lucas Martínez Quarta",
+  "description": "Argentina association football player",
+  "date_of_birth": "1996-05-10",
+  "place_of_birth_qid": "Q52607",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 181.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q336286",
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q15799",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q2052",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q15799",
+  "image_filename": "Lucas Martínez Quarta 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_Mart%C3%ADnez_Quarta",
+  "transfermarkt_id": "373373",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "River Plate",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender",
+    "midfielder"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Mar del Plata",
+  "wikidata_current_club": "Club Atlético River Plate",
+  "wikidata_current_club_qid": "Q15799",
+  "photo": {
+    "filename": "Lucas Martínez Quarta 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Lucas_Mart%C3%ADnez_Quarta_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lucas_Mart%C3%ADnez_Quarta_2022.jpg/960px-Lucas_Mart%C3%ADnez_Quarta_2022.jpg",
+    "width": 1337,
+    "height": 2046,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Jmmuguerza\" title=\"User:Jmmuguerza\">jmmuguerza</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lucas-martínez-quarta.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

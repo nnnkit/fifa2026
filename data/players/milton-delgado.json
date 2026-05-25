@@ -1,0 +1,43 @@
+{
+  "slug": "milton-delgado",
+  "display_name": "Milton Delgado",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2005-06-16",
+  "age": 20,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Boca Juniors",
+  "wikipedia_title": "Milton Delgado",
+  "wikidata_qid": "Q126672677",
+  "qid": "Q126672677",
+  "name": "Milton Delgado",
+  "description": "Argentine footballer",
+  "date_of_birth": "2005-06-16",
+  "place_of_birth_qid": "Q2471226",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q18691898"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Milton_Delgado",
+  "transfermarkt_id": "1236677",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "positions": [
+    "defensive midfielder"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Rafael Castillo",
+  "current_club": "Boca Juniors",
+  "current_club_source": "wikipedia-squad-table",
+  "team_slug": "argentina",
+  "team_country": "Argentina",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+  }
+}

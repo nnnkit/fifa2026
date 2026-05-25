@@ -1,0 +1,52 @@
+{
+  "slug": "martin-baturina",
+  "display_name": "Martin Baturina",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2003-02-16",
+  "age": 23,
+  "caps": 17,
+  "goals": 1,
+  "club_from_squad_table": "Como",
+  "wikipedia_title": "Martin Baturina",
+  "date_of_birth": "2003-02-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Como",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q107446975",
+  "qid": "Q107446975",
+  "name": "Martin Baturina",
+  "description": "Croatian association football player (born 2003)",
+  "place_of_birth_qid": "Q1663",
+  "citizenship_qids": [
+    "Q224"
+  ],
+  "height_cm": 1.72,
+  "position_qids": [
+    "Q193592"
+  ],
+  "image_filename": "FC Salzburg gegen GNK Dinamo Zagreb (UEFA Championsleague 2022-10-05) 52 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Baturina",
+  "transfermarkt_id": "580451",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Croatia"
+  ],
+  "place_of_birth": "Split",
+  "photo": {
+    "filename": "FC Salzburg gegen GNK Dinamo Zagreb (UEFA Championsleague 2022-10-05) 52 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/FC_Salzburg_gegen_GNK_Dinamo_Zagreb_%28UEFA_Championsleague_2022-10-05%29_52_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FC_Salzburg_gegen_GNK_Dinamo_Zagreb_%28UEFA_Championsleague_2022-10-05%29_52_%28cropped%29.jpg/960px-FC_Salzburg_gegen_GNK_Dinamo_Zagreb_%28UEFA_Championsleague_2022-10-05%29_52_%28cropped%29.jpg",
+    "width": 1696,
+    "height": 2652,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/martin-baturina.jpg"
+  },
+  "team_slug": "croatia",
+  "team_country": "Croatia"
+}

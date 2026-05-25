@@ -1,0 +1,83 @@
+{
+  "slug": "hans-vanaken",
+  "display_name": "Hans Vanaken",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1992-08-24",
+  "age": 33,
+  "caps": 32,
+  "goals": 7,
+  "club_from_squad_table": "Club Brugge",
+  "wikipedia_title": "Hans Vanaken",
+  "date_of_birth": "1992-08-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Club Brugge",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q2359678",
+  "qid": "Q2359678",
+  "name": "Hans Vanaken",
+  "description": "Belgian footballer (born 1992)",
+  "place_of_birth_qid": "Q16481661",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 194.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1668203",
+      "start": "2010-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q221940",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q190916",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q166776",
+      "start": "2018-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q190916",
+  "image_filename": "Hans Vanaken Lommel United.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hans_Vanaken",
+  "transfermarkt_id": "137576",
+  "fifa_player_id": "201194322",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Neerpelt",
+  "wikidata_current_club": "Club Brugge K.V.",
+  "wikidata_current_club_qid": "Q190916",
+  "photo": {
+    "filename": "Hans Vanaken Lommel United.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Hans_Vanaken_Lommel_United.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hans_Vanaken_Lommel_United.jpg/960px-Hans_Vanaken_Lommel_United.jpg",
+    "width": 1369,
+    "height": 2048,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sjepolleke02&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sjepolleke02 (page does not exist)\">Sjepolleke02</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/hans-vanaken.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

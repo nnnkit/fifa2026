@@ -1,0 +1,67 @@
+{
+  "slug": "ronwen-williams",
+  "display_name": "Ronwen Williams",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1992-01-21",
+  "age": 34,
+  "caps": 62,
+  "goals": 0,
+  "club_from_squad_table": "Mamelodi Sundowns",
+  "wikipedia_title": "Ronwen Williams",
+  "wikidata_qid": "Q7366080",
+  "qid": "Q7366080",
+  "name": "Ronwen Williams",
+  "description": "South African footballer",
+  "date_of_birth": "1992-01-21",
+  "place_of_birth_qid": "Q125434",
+  "citizenship_qids": [
+    "Q258"
+  ],
+  "height_cm": 184.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1281608",
+      "start": "2010-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q170327",
+      "start": "2014-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1281608",
+  "image_filename": "Ronwen Williams AFCON2025Q 35.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ronwen_Williams",
+  "transfermarkt_id": "175577",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Mamelodi Sundowns",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "South Africa"
+  ],
+  "place_of_birth": "Gqeberha",
+  "wikidata_current_club": "SuperSport United F.C.",
+  "wikidata_current_club_qid": "Q1281608",
+  "photo": {
+    "filename": "Ronwen Williams AFCON2025Q 35.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Ronwen_Williams_AFCON2025Q_35.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ronwen_Williams_AFCON2025Q_35.jpg/960px-Ronwen_Williams_AFCON2025Q_35.jpg",
+    "width": 5184,
+    "height": 3456,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Gadlee\" title=\"User:Gadlee\">Gadlee</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ronwen-williams.jpg"
+  },
+  "team_slug": "south-africa",
+  "team_country": "South Africa"
+}

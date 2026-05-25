@@ -1,0 +1,80 @@
+{
+  "slug": "ali-majrashi",
+  "display_name": "Ali Majrashi",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-10-02",
+  "age": 26,
+  "caps": 20,
+  "goals": 0,
+  "club_from_squad_table": "Al-Ahli",
+  "wikipedia_title": "Ali Majrashi",
+  "date_of_birth": "1999-10-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Ahli",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q47499724",
+  "qid": "Q47499724",
+  "name": "Ali Majrashi",
+  "description": "association football player",
+  "place_of_birth_qid": "Q851",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 177.0,
+  "position_qids": [
+    "Q193592",
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2636005",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q2829334",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q189723",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q44441",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q44441",
+  "image_filename": "Ali Majrashi, 2025 CONCACAF Gold Cup (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Majrashi",
+  "transfermarkt_id": "672391",
+  "wikidata_date_of_birth": "1999-10-01",
+  "positions": [
+    "midfielder",
+    "full-back"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Saudi Arabia",
+  "wikidata_current_club": "Al Ahli FC",
+  "wikidata_current_club_qid": "Q44441",
+  "photo": {
+    "filename": "Ali Majrashi, 2025 CONCACAF Gold Cup (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Ali_Majrashi%2C_2025_CONCACAF_Gold_Cup_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Ali_Majrashi%2C_2025_CONCACAF_Gold_Cup_%28cropped%29.jpg",
+    "width": 518,
+    "height": 705,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://old.reddit.com/user/reepers_hellcat\">u/reepers_hellcat</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ali-majrashi.jpg"
+  },
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia"
+}

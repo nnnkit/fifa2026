@@ -1,0 +1,104 @@
+{
+  "slug": "david-ospina",
+  "display_name": "David Ospina",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1988-08-31",
+  "age": 37,
+  "caps": 129,
+  "goals": 0,
+  "club_from_squad_table": "Atl\u00e9tico Nacional",
+  "wikipedia_title": "David Ospina",
+  "date_of_birth": "1988-08-31",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atl\u00e9tico Nacional",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q436987",
+  "qid": "Q436987",
+  "name": "David Ospina",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q48278",
+  "citizenship_qids": [
+    "Q739",
+    "Q142"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 76.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q218282",
+      "start": "2008-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q332605",
+      "start": "2004-00-00",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2014-07-27",
+      "end": "2019-07-04"
+    },
+    {
+      "team_qid": "Q1641573",
+      "start": "2005-01-01",
+      "end": "2007-01-01"
+    },
+    {
+      "team_qid": "Q212564",
+      "start": "2007-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2641",
+      "start": "2018-08-17",
+      "end": "2019-05-30"
+    },
+    {
+      "team_qid": "Q2641",
+      "start": "2019-07-04",
+      "end": "2022-06-30"
+    },
+    {
+      "team_qid": "Q482764",
+      "start": "2022-07-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q332605",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q332605",
+  "image_filename": "Polic\u00eda de Infancia y Adolescencia - David Ospina (cropped).jpeg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_Ospina",
+  "transfermarkt_id": "73396",
+  "fifa_player_id": "228686",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Colombia",
+    "France"
+  ],
+  "place_of_birth": "Medell\u00edn",
+  "photo": {
+    "filename": "Polic\u00eda de Infancia y Adolescencia - David Ospina (cropped).jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Polic%C3%ADa_de_Infancia_y_Adolescencia_-_David_Ospina_%28cropped%29.jpeg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Polic%C3%ADa_de_Infancia_y_Adolescencia_-_David_Ospina_%28cropped%29.jpeg",
+    "width": 421,
+    "height": 635,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/60393599@N03\">Polic\u00eda Nacional de los colombianos</a> from Colombia",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/david-ospina.jpeg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "jos\u00e9-fajardo",
+  "display_name": "Jos\u00e9 Fajardo",
+  "shirt_no": 17,
+  "position_code": "FW",
+  "dob": "1993-08-18",
+  "age": 32,
+  "caps": 65,
+  "goals": 17,
+  "club_from_squad_table": "Universidad Cat\u00f3lica",
+  "wikipedia_title": "Jos\u00e9 Fajardo (footballer)",
+  "date_of_birth": "1993-08-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Universidad Cat\u00f3lica",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q48877857",
+  "qid": "Q48877857",
+  "name": "Jos\u00e9 Fajardo",
+  "description": "Panamanian footballer",
+  "place_of_birth_qid": "Q12825018",
+  "citizenship_qids": [
+    "Q804"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2979808",
+      "start": "2016-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q223748",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q12247521",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q332668",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q2760357",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2308911",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Fajardo_(footballer)",
+  "transfermarkt_id": "546803",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Panama"
+  ],
+  "place_of_birth": "Col\u00f3n City",
+  "wikidata_current_club": "Club 9 de Octubre",
+  "wikidata_current_club_qid": "Q2760357",
+  "team_slug": "panama",
+  "team_country": "Panama",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

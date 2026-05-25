@@ -1,0 +1,102 @@
+{
+  "slug": "almoez-ali",
+  "display_name": "Almoez Ali",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1996-08-19",
+  "age": 29,
+  "caps": 114,
+  "goals": 55,
+  "club_from_squad_table": "Al-Duhail",
+  "wikipedia_title": "Almoez Ali",
+  "date_of_birth": "1996-08-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Duhail",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21011188",
+  "qid": "Q21011188",
+  "name": "Almoez Ali",
+  "description": "Qatari footballer",
+  "place_of_birth_qid": "Q1963",
+  "citizenship_qids": [
+    "Q846"
+  ],
+  "height_cm": 1.84,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q392310",
+      "start": "2015-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q1387445",
+      "start": "2015-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q582342",
+      "start": "2016-01-00",
+      "end": "2016-07-00"
+    },
+    {
+      "team_qid": "Q963238",
+      "start": "2016-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1056948",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1423718",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3873543",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q1056948",
+      "start": "2016-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2016-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1056948",
+  "image_filename": "Almoez Ali.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Almoez_Ali",
+  "transfermarkt_id": "345095",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Qatar"
+  ],
+  "place_of_birth": "Khartoum",
+  "wikidata_current_club": "Al-Duhail SC",
+  "wikidata_current_club_qid": "Q1056948",
+  "photo": {
+    "filename": "Almoez Ali.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Almoez_Ali.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Almoez_Ali.jpg",
+    "width": 261,
+    "height": 389,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mehdi Zare",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/almoez-ali.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

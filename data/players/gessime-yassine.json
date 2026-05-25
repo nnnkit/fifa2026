@@ -1,0 +1,66 @@
+{
+  "slug": "gessime-yassine",
+  "display_name": "Gessime Yassine",
+  "shirt_no": 16,
+  "position_code": "FW",
+  "dob": "2005-11-22",
+  "age": 20,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Strasbourg",
+  "wikipedia_title": "Gessime Yassine",
+  "date_of_birth": "2005-11-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Strasbourg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q126436400",
+  "qid": "Q126436400",
+  "name": "Gessime Yassine",
+  "description": "Moroccan footballer",
+  "place_of_birth_qid": "Q232567",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 172.0,
+  "teams": [
+    {
+      "team_qid": "Q797530",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1815297",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590714",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1815297",
+  "image_filename": "Gessime Yassine against Paraguay 2 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gessime_Yassine",
+  "transfermarkt_id": "1151929",
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "Salon-de-Provence",
+  "wikidata_current_club": "USL Dunkerque",
+  "wikidata_current_club_qid": "Q1815297",
+  "photo": {
+    "filename": "Gessime Yassine against Paraguay 2 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Gessime_Yassine_against_Paraguay_2_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Gessime_Yassine_against_Paraguay_2_%28cropped%29.jpg/960px-Gessime_Yassine_against_Paraguay_2_%28cropped%29.jpg",
+    "width": 2089,
+    "height": 3165,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Abdelali Bentarki",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/gessime-yassine.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

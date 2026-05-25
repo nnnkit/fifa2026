@@ -1,0 +1,68 @@
+{
+  "slug": "deiver-machado",
+  "display_name": "Deiver Machado",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1993-09-02",
+  "age": 32,
+  "caps": 14,
+  "goals": 0,
+  "club_from_squad_table": "Nantes",
+  "wikipedia_title": "Deiver Machado",
+  "date_of_birth": "1993-09-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Nantes",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19266811",
+  "qid": "Q19266811",
+  "name": "D\u00e9iver Machado",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q1524808",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 172.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q391984",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q18232",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q391984",
+  "image_filename": "Lens - Reims (12-05-2023) 33.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Deiver_Machado",
+  "transfermarkt_id": "332560",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Tad\u00f3",
+  "wikidata_current_club": "Millonarios",
+  "wikidata_current_club_qid": "Q391984",
+  "photo": {
+    "filename": "Lens - Reims (12-05-2023) 33.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lens_-_Reims_%2812-05-2023%29_33.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lens_-_Reims_%2812-05-2023%29_33.jpg/960px-Lens_-_Reims_%2812-05-2023%29_33.jpg",
+    "width": 2286,
+    "height": 2857,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterh\u00e9ninois (page does not exist)\">Supporterh\u00e9ninois</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/deiver-machado.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

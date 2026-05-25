@@ -1,0 +1,58 @@
+{
+  "slug": "andreas-schjelderup",
+  "display_name": "Andreas Schjelderup",
+  "shirt_no": 21,
+  "position_code": "MF",
+  "dob": "2004-06-01",
+  "age": 22,
+  "caps": 10,
+  "goals": 1,
+  "club_from_squad_table": "Benfica",
+  "wikipedia_title": "Andreas Schjelderup",
+  "date_of_birth": "2004-06-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Benfica",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q106099213",
+  "qid": "Q106099213",
+  "name": "Andreas Schjelderup",
+  "description": "Norwegian professional footballer",
+  "place_of_birth_qid": "Q221119",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 1.76,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q478167",
+      "start": null,
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q210025",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q210025",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Andreas_Schjelderup",
+  "transfermarkt_id": "670103",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "Bodø Municipality",
+  "wikidata_current_club": "FC Nordsjælland",
+  "wikidata_current_club_qid": "Q210025",
+  "team_slug": "norway",
+  "team_country": "Norway",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

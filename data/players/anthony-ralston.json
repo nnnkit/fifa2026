@@ -1,0 +1,73 @@
+{
+  "slug": "anthony-ralston",
+  "display_name": "Anthony Ralston",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-11-16",
+  "age": 27,
+  "caps": 25,
+  "goals": 1,
+  "club_from_squad_table": "Celtic",
+  "wikipedia_title": "Anthony Ralston",
+  "date_of_birth": "1998-11-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Celtic",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q24073962",
+  "qid": "Q24073962",
+  "name": "Anthony Ralston",
+  "description": "Scottish association football player (born 1998)",
+  "place_of_birth_qid": "Q4093",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19593",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q852753",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q1812121",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19593",
+  "image_filename": "Celtic-20240722-034.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anthony_Ralston",
+  "transfermarkt_id": "388171",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Glasgow",
+  "wikidata_current_club": "Celtic F.C.",
+  "wikidata_current_club_qid": "Q19593",
+  "photo": {
+    "filename": "Celtic-20240722-034.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Celtic-20240722-034.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Celtic-20240722-034.jpg/960px-Celtic-20240722-034.jpg",
+    "width": 1130,
+    "height": 1850,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Hameltion\" title=\"User:Hameltion\">Hameltion</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/anthony-ralston.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

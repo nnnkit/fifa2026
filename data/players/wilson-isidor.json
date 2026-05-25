@@ -1,0 +1,70 @@
+{
+  "slug": "wilson-isidor",
+  "display_name": "Wilson Isidor",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-08-27",
+  "age": 25,
+  "caps": 2,
+  "goals": 1,
+  "club_from_squad_table": "Sunderland",
+  "wikipedia_title": "Wilson Isidor",
+  "date_of_birth": "2000-08-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sunderland",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q58484930",
+  "qid": "Q58484930",
+  "name": "Wilson Isidor",
+  "description": "French association football player",
+  "place_of_birth_qid": "Q647",
+  "citizenship_qids": [
+    "Q142",
+    "Q790"
+  ],
+  "height_cm": 186.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q180305",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q760736",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    }
+  ],
+  "current_club_qid": "Q180305",
+  "image_filename": "Wilson Isidor in 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Wilson_Isidor",
+  "transfermarkt_id": "494237",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "France",
+    "Haiti"
+  ],
+  "place_of_birth": "Rennes",
+  "wikidata_current_club": "AS Monaco FC",
+  "wikidata_current_club_qid": "Q180305",
+  "photo": {
+    "filename": "Wilson Isidor in 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Wilson_Isidor_in_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Wilson_Isidor_in_2022.jpg",
+    "width": 431,
+    "height": 788,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Антон Зайцев",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/wilson-isidor.jpg"
+  },
+  "team_slug": "haiti",
+  "team_country": "Haiti"
+}

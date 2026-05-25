@@ -1,0 +1,67 @@
+{
+  "slug": "guillermo-martínez",
+  "display_name": "Guillermo Martínez",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1995-03-15",
+  "age": 31,
+  "caps": 10,
+  "goals": 3,
+  "club_from_squad_table": "UNAM",
+  "wikipedia_title": "Guillermo Martínez (footballer)",
+  "wikidata_qid": "Q19158746",
+  "qid": "Q19158746",
+  "name": "Guillermo Martínez Ayala",
+  "description": "Mexican footballer",
+  "date_of_birth": "1995-03-15",
+  "place_of_birth_qid": "Q580649",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 191.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q736937",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q164334",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    }
+  ],
+  "current_club_qid": "Q736937",
+  "image_filename": "Inter Miami CF 3-1 UNAM (6 August 2025) 30 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Guillermo_Mart%C3%ADnez_(footballer)",
+  "transfermarkt_id": "347932",
+  "fifa_player_id": "386339",
+  "current_club": "UNAM",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Celaya",
+  "wikidata_current_club": "CF Pachuca",
+  "wikidata_current_club_qid": "Q736937",
+  "photo": {
+    "filename": "Inter Miami CF 3-1 UNAM (6 August 2025) 30 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Inter_Miami_CF_3-1_UNAM_%286_August_2025%29_30_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Inter_Miami_CF_3-1_UNAM_%286_August_2025%29_30_%28cropped%29.jpg",
+    "width": 233,
+    "height": 358,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:TheSoccerBoy\" title=\"User:TheSoccerBoy\">TheSoccerBoy</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/guillermo-martínez.jpg"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

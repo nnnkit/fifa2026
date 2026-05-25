@@ -1,0 +1,64 @@
+{
+  "slug": "christian-fassnacht",
+  "display_name": "Christian Fassnacht",
+  "shirt_no": 16,
+  "position_code": "MF",
+  "dob": "1993-11-11",
+  "age": 32,
+  "caps": 21,
+  "goals": 4,
+  "club_from_squad_table": "Young Boys",
+  "wikipedia_title": "Christian Fassnacht",
+  "date_of_birth": "1993-11-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Young Boys",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27306208",
+  "qid": "Q27306208",
+  "name": "Christian Fassnacht",
+  "description": "Swiss footballer (born 1993)",
+  "place_of_birth_qid": "Q72",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 74.0,
+  "position_qids": [
+    "Q3446915"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q190526",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q190526",
+  "image_filename": "Christian Fassnacht (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Fassnacht",
+  "transfermarkt_id": "250490",
+  "fifa_player_id": "201358758",
+  "positions": [
+    "attacker"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Zurich",
+  "wikidata_current_club": "BSC Young Boys",
+  "wikidata_current_club_qid": "Q190526",
+  "photo": {
+    "filename": "Christian Fassnacht (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Christian_Fassnacht_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Christian_Fassnacht_%28cropped%29.jpg",
+    "width": 349,
+    "height": 553,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Олег Батрак",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/christian-fassnacht.jpg"
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

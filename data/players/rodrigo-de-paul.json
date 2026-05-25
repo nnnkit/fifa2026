@@ -1,0 +1,93 @@
+{
+  "slug": "rodrigo-de-paul",
+  "display_name": "Rodrigo De Paul",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1994-05-24",
+  "age": 32,
+  "caps": 85,
+  "goals": 2,
+  "club_from_squad_table": "Inter Miami CF",
+  "wikipedia_title": "Rodrigo De Paul",
+  "wikidata_qid": "Q6110670",
+  "qid": "Q6110670",
+  "name": "Rodrigo De Paul",
+  "description": "Argentine association football player",
+  "date_of_birth": "1994-05-24",
+  "place_of_birth_qid": "Q2488555",
+  "citizenship_qids": [
+    "Q414",
+    "Q38"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 74.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q276533",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q10333",
+      "start": "2014-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q276533",
+      "start": "2016-02-00",
+      "end": "2016-06-00"
+    },
+    {
+      "team_qid": "Q2798",
+      "start": "2016-07-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q8701",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q16844931",
+      "start": "2025-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q16844931",
+  "image_filename": "Rodrigo De Paul NYCFC Miami 24 Sep 2025-018 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rodrigo_De_Paul",
+  "transfermarkt_id": "255901",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Inter Miami CF",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Argentina",
+    "Italy"
+  ],
+  "place_of_birth": "Sarandí",
+  "photo": {
+    "filename": "Rodrigo De Paul NYCFC Miami 24 Sep 2025-018 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Rodrigo_De_Paul_NYCFC_Miami_24_Sep_2025-018_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rodrigo_De_Paul_NYCFC_Miami_24_Sep_2025-018_%28cropped%29.jpg/960px-Rodrigo_De_Paul_NYCFC_Miami_24_Sep_2025-018_%28cropped%29.jpg",
+    "width": 2697,
+    "height": 3594,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/rodrigo-de-paul.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

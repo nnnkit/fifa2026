@@ -1,0 +1,52 @@
+{
+  "slug": "josué-duverger",
+  "display_name": "Josué Duverger",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2000-04-27",
+  "age": 26,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "Cosmos Koblenz",
+  "wikipedia_title": "Josué Duverger",
+  "date_of_birth": "2000-04-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Cosmos Koblenz",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q42926090",
+  "qid": "Q42926090",
+  "name": "Josué Duverger",
+  "description": "association football player",
+  "place_of_birth_qid": "Q340",
+  "citizenship_qids": [
+    "Q16"
+  ],
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q208585",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q208585",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Josu%C3%A9_Duverger",
+  "transfermarkt_id": "490369",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Canada"
+  ],
+  "place_of_birth": "Montreal",
+  "wikidata_current_club": "Vitória F.C.",
+  "wikidata_current_club_qid": "Q208585",
+  "team_slug": "haiti",
+  "team_country": "Haiti",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

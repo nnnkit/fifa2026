@@ -1,0 +1,58 @@
+{
+  "slug": "sultan-mandash",
+  "display_name": "Sultan Mandash",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1994-10-17",
+  "age": 31,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Al-Hilal",
+  "wikipedia_title": "Sultan Mandash",
+  "date_of_birth": "1994-10-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Hilal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q22340706",
+  "qid": "Q22340706",
+  "name": "Sultan Mendash",
+  "description": "Saudi Arabian association football player",
+  "place_of_birth_qid": "Q374365",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 172.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1963926",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q44441",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q44441",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sultan_Mandash",
+  "transfermarkt_id": "210349",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Jeddah",
+  "wikidata_current_club": "Al Ahli FC",
+  "wikidata_current_club_qid": "Q44441",
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

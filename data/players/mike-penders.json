@@ -1,0 +1,83 @@
+{
+  "slug": "mike-penders",
+  "display_name": "Mike Penders",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2005-07-31",
+  "age": 20,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Strasbourg",
+  "wikipedia_title": "Mike Penders",
+  "date_of_birth": "2005-07-31",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Strasbourg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q113515002",
+  "qid": "Q113515002",
+  "name": "Mike Penders",
+  "description": "Belgian footballer (born 2005)",
+  "place_of_birth_qid": "Q329633",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 200.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3589895",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q15224541",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q3589896",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q113884742",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q216032",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2024-08-27",
+      "end": null
+    },
+    {
+      "team_qid": "Q216032",
+      "start": "2024-08-28",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q216032",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Penders",
+  "transfermarkt_id": "834397",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Maasmechelen",
+  "wikidata_current_club": "K.R.C. Genk",
+  "wikidata_current_club_qid": "Q216032",
+  "team_slug": "belgium",
+  "team_country": "Belgium",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

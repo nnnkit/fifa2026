@@ -1,0 +1,63 @@
+{
+  "slug": "nicolás-capaldo",
+  "display_name": "Nicolás Capaldo",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-09-14",
+  "age": 27,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Hamburger SV",
+  "wikipedia_title": "Nicolás Capaldo",
+  "wikidata_qid": "Q60842498",
+  "qid": "Q60842498",
+  "name": "Nicolás Capaldo",
+  "description": "Argentine association football player",
+  "date_of_birth": "1998-09-14",
+  "place_of_birth_qid": "Q44215",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 1.77,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q170703",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q170703",
+  "image_filename": "RB Salzburg gegen DAC Dunajská Streda (Testspiel 25. Juni 2021) 10.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Capaldo",
+  "transfermarkt_id": "649672",
+  "wikidata_date_of_birth": "1997-09-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Hamburger SV",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Santa Rosa",
+  "wikidata_current_club": "Boca Juniors",
+  "wikidata_current_club_qid": "Q170703",
+  "photo": {
+    "filename": "RB Salzburg gegen DAC Dunajská Streda (Testspiel 25. Juni 2021) 10.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/RB_Salzburg_gegen_DAC_Dunajsk%C3%A1_Streda_%28Testspiel_25._Juni_2021%29_10.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RB_Salzburg_gegen_DAC_Dunajsk%C3%A1_Streda_%28Testspiel_25._Juni_2021%29_10.jpg/960px-RB_Salzburg_gegen_DAC_Dunajsk%C3%A1_Streda_%28Testspiel_25._Juni_2021%29_10.jpg",
+    "width": 3251,
+    "height": 3874,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nicolás-capaldo.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

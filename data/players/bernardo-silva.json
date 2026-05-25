@@ -1,0 +1,101 @@
+{
+  "slug": "bernardo-silva",
+  "display_name": "Bernardo Silva",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1994-08-10",
+  "age": 31,
+  "caps": 107,
+  "goals": 14,
+  "club_from_squad_table": "Manchester City",
+  "wikipedia_title": "Bernardo Silva",
+  "date_of_birth": "1994-08-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q15521306",
+  "qid": "Q15521306",
+  "name": "Bernardo Silva",
+  "description": "Portuguese association football player (born 1994)",
+  "place_of_birth_qid": "Q597",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 173.0,
+  "weight_kg": 65.0,
+  "position_qids": [
+    "Q8025128",
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q7387221",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q180305",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q131499",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q180305",
+      "start": "2015-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q3873524",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1630430",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q267245",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2017-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q50602",
+  "image_filename": "Por-Mar (9) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bernardo_Silva",
+  "transfermarkt_id": "241641",
+  "fifa_player_id": "395205",
+  "positions": [
+    "wing half",
+    "midfielder"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Lisbon",
+  "wikidata_current_club": "Manchester City F.C.",
+  "wikidata_current_club_qid": "Q50602",
+  "photo": {
+    "filename": "Por-Mar (9) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Por-Mar_%289%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Por-Mar_%289%29_%28cropped%29.jpg",
+    "width": 350,
+    "height": 516,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/bernardo-silva.jpg"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

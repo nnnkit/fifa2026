@@ -1,0 +1,64 @@
+{
+  "slug": "meschak-elia",
+  "display_name": "Meschak Elia",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1997-08-06",
+  "age": 28,
+  "caps": 68,
+  "goals": 12,
+  "club_from_squad_table": "Alanyaspor",
+  "wikipedia_title": "Meschak Elia",
+  "date_of_birth": "1997-08-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Alanyaspor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q22162731",
+  "qid": "Q22162731",
+  "name": "Elia Meschak",
+  "description": "Congolese association football player",
+  "place_of_birth_qid": "Q3838",
+  "citizenship_qids": [
+    "Q974"
+  ],
+  "height_cm": 1.73,
+  "position_qids": [
+    "Q280658",
+    "Q3446915"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q270080",
+      "start": "2016-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q270080",
+  "image_filename": "Meschack Elia (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Meschak_Elia",
+  "transfermarkt_id": "423678",
+  "positions": [
+    "forward",
+    "attacker"
+  ],
+  "citizenship": [
+    "Democratic Republic of the Congo"
+  ],
+  "place_of_birth": "Kinshasa",
+  "wikidata_current_club": "DR Congo men's national football team",
+  "wikidata_current_club_qid": "Q270080",
+  "photo": {
+    "filename": "Meschack Elia (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Meschack_Elia_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Meschack_Elia_%28cropped%29.jpg/960px-Meschack_Elia_%28cropped%29.jpg",
+    "width": 1987,
+    "height": 2334,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/67163702@N07\">MONUSCO Photos</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/meschak-elia.jpg"
+  },
+  "team_slug": "dr-congo",
+  "team_country": "DR Congo"
+}

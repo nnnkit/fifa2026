@@ -1,0 +1,104 @@
+{
+  "slug": "abde-ezzalzouli",
+  "display_name": "Abde Ezzalzouli",
+  "shirt_no": 17,
+  "position_code": "FW",
+  "dob": "2001-12-17",
+  "age": 24,
+  "caps": 35,
+  "goals": 2,
+  "club_from_squad_table": "Betis",
+  "wikipedia_title": "Abde Ezzalzouli",
+  "date_of_birth": "2001-12-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Betis",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q109327842",
+  "qid": "Q109327842",
+  "name": "Abde Ezzalzouli",
+  "description": "Moroccan association football player",
+  "place_of_birth_qid": "Q817279",
+  "citizenship_qids": [
+    "Q1028",
+    "Q29"
+  ],
+  "height_cm": 1.78,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q9006245",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q11963",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2021-10-30",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q3590714",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q10467",
+      "start": "2021-08-30",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q207337",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q10286",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q2686567",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q8723",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8723",
+  "image_filename": "AbdeEz.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abde_Ezzalzouli",
+  "transfermarkt_id": "724520",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Morocco",
+    "Spain"
+  ],
+  "place_of_birth": "Beni Mellal",
+  "wikidata_current_club": "Real Betis Balompi\u00e9",
+  "wikidata_current_club_qid": "Q8723",
+  "photo": {
+    "filename": "AbdeEz.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/AbdeEz.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/AbdeEz.jpg/960px-AbdeEz.jpg",
+    "width": 2737,
+    "height": 4710,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Mohammed Ayman Nechchad",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/abde-ezzalzouli.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

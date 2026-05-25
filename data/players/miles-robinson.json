@@ -1,0 +1,81 @@
+{
+  "slug": "miles-robinson",
+  "display_name": "Miles Robinson",
+  "shirt_no": 12,
+  "position_code": "DF",
+  "dob": "1997-03-14",
+  "age": 29,
+  "caps": 38,
+  "goals": 3,
+  "club_from_squad_table": "FC Cincinnati",
+  "wikipedia_title": "Miles Robinson (soccer)",
+  "date_of_birth": "1997-03-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "FC Cincinnati",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q30122953",
+  "qid": "Q30122953",
+  "name": "Miles Robinson",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q2090461",
+  "citizenship_qids": [
+    "Q30"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 185.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1066683",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q16836317",
+      "start": "2017-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q47175799",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q20855983",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q9169796",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    }
+  ],
+  "current_club_qid": "Q20855983",
+  "image_filename": "Miles Robinson, 2025 CONCACAF Gold Cup.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Miles_Robinson_(soccer)",
+  "transfermarkt_id": "468022",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "United States"
+  ],
+  "place_of_birth": "Arlington",
+  "photo": {
+    "filename": "Miles Robinson, 2025 CONCACAF Gold Cup.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Miles_Robinson%2C_2025_CONCACAF_Gold_Cup.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Miles_Robinson%2C_2025_CONCACAF_Gold_Cup.jpg",
+    "width": 535,
+    "height": 776,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://old.reddit.com/user/reepers_hellcat\">u/reepers_hellcat</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/miles-robinson.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

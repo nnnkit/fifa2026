@@ -1,0 +1,77 @@
+{
+  "slug": "majeed-ashimeru",
+  "display_name": "Majeed Ashimeru",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-10-10",
+  "age": 28,
+  "caps": 13,
+  "goals": 0,
+  "club_from_squad_table": "RAAL La Louvi\u00e8re",
+  "wikipedia_title": "Majeed Ashimeru",
+  "date_of_birth": "1997-10-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "RAAL La Louvi\u00e8re",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q37810302",
+  "qid": "Q37810302",
+  "name": "Majeed Ashimeru",
+  "description": "Ghanaian footballer",
+  "place_of_birth_qid": "Q3761",
+  "citizenship_qids": [
+    "Q117"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q659212",
+      "start": "2018-07-01",
+      "end": "2019-06-30"
+    },
+    {
+      "team_qid": "Q994811",
+      "start": "2017-08-31",
+      "end": null
+    },
+    {
+      "team_qid": "Q694484",
+      "start": "2018-01-07",
+      "end": "2018-06-30"
+    },
+    {
+      "team_qid": "Q187528",
+      "start": "2021-01-13",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q187528",
+  "image_filename": "FC RB Salzburg versus CSKA Sofia (Testspiel 3. Juli 2019) 17.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Majeed_Ashimeru",
+  "transfermarkt_id": "360140",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Ghana"
+  ],
+  "place_of_birth": "Accra",
+  "wikidata_current_club": "R.S.C. Anderlecht",
+  "wikidata_current_club_qid": "Q187528",
+  "photo": {
+    "filename": "FC RB Salzburg versus CSKA Sofia (Testspiel 3. Juli 2019) 17.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/FC_RB_Salzburg_versus_CSKA_Sofia_%28Testspiel_3._Juli_2019%29_17.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/FC_RB_Salzburg_versus_CSKA_Sofia_%28Testspiel_3._Juli_2019%29_17.jpg/960px-FC_RB_Salzburg_versus_CSKA_Sofia_%28Testspiel_3._Juli_2019%29_17.jpg",
+    "width": 2238,
+    "height": 2656,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/majeed-ashimeru.jpg"
+  },
+  "team_slug": "ghana",
+  "team_country": "Ghana"
+}

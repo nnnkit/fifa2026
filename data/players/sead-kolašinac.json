@@ -1,0 +1,111 @@
+{
+  "slug": "sead-kolašinac",
+  "display_name": "Sead Kolašinac",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1993-06-20",
+  "age": 32,
+  "caps": 64,
+  "goals": 0,
+  "club_from_squad_table": "Atalanta",
+  "wikipedia_title": "Sead Kolašinac",
+  "wikidata_qid": "Q127914",
+  "qid": "Q127914",
+  "name": "Sead Kolašinac",
+  "description": "Bosnian-German association football player (born 1993)",
+  "date_of_birth": "1993-06-20",
+  "place_of_birth_qid": "Q1040",
+  "citizenship_qids": [
+    "Q183",
+    "Q225"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 82.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q32494",
+      "start": "2012-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q3736767",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2016992",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q324854",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q316497",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2017-00-00",
+      "end": "2022-01-18"
+    },
+    {
+      "team_qid": "Q132885",
+      "start": "2022-01-19",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q32494",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    }
+  ],
+  "current_club_qid": "Q1886",
+  "image_filename": "1 Sead Kolašinac 2018 (cropped2).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sead_Kola%C5%A1inac",
+  "transfermarkt_id": "94005",
+  "fifa_player_id": "376230",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atalanta",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Germany",
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Karlsruhe",
+  "wikidata_current_club": "Atalanta BC",
+  "wikidata_current_club_qid": "Q1886",
+  "photo": {
+    "filename": "1 Sead Kolašinac 2018 (cropped2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/1_Sead_Kola%C5%A1inac_2018_%28cropped2%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/1_Sead_Kola%C5%A1inac_2018_%28cropped2%29.jpg/960px-1_Sead_Kola%C5%A1inac_2018_%28cropped2%29.jpg",
+    "width": 1174,
+    "height": 1654,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\">Chensiyuan</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/sead-kolašinac.jpg"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

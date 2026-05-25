@@ -1,0 +1,78 @@
+{
+  "slug": "paul-izzo",
+  "display_name": "Paul Izzo",
+  "shirt_no": 12,
+  "position_code": "GK",
+  "dob": "1995-01-06",
+  "age": 31,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Randers",
+  "wikipedia_title": "Paul Izzo",
+  "date_of_birth": "1995-01-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Randers",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q7151477",
+  "qid": "Q7151477",
+  "name": "Paul Izzo",
+  "description": "Australian association football player",
+  "place_of_birth_qid": "Q5112",
+  "citizenship_qids": [
+    "Q408"
+  ],
+  "height_cm": 184.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q762294",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q354059",
+      "start": "2011-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3589754",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q3873546",
+      "start": "2011-01-01",
+      "end": "2014-01-01"
+    }
+  ],
+  "current_club_qid": "Q762294",
+  "image_filename": "Paul Izzo 2013.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Izzo",
+  "transfermarkt_id": "181921",
+  "fifa_player_id": "331135",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Australia"
+  ],
+  "place_of_birth": "Adelaide",
+  "wikidata_current_club": "Central Coast Mariners FC",
+  "wikidata_current_club_qid": "Q762294",
+  "photo": {
+    "filename": "Paul Izzo 2013.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Paul_Izzo_2013.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Paul_Izzo_2013.jpg/960px-Paul_Izzo_2013.jpg",
+    "width": 1036,
+    "height": 1357,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/56397580@N07\">Pete Nowakowski</a> from Sydney, Australia",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/paul-izzo.jpg"
+  },
+  "team_slug": "australia",
+  "team_country": "Australia"
+}

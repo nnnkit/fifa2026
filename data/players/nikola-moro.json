@@ -1,0 +1,68 @@
+{
+  "slug": "nikola-moro",
+  "display_name": "Nikola Moro",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1998-03-12",
+  "age": 28,
+  "caps": 9,
+  "goals": 0,
+  "club_from_squad_table": "Bologna",
+  "wikipedia_title": "Nikola Moro",
+  "date_of_birth": "1998-03-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bologna",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27914817",
+  "qid": "Q27914817",
+  "name": "Nikola Moro",
+  "description": "Croatian association football player",
+  "place_of_birth_qid": "Q642828",
+  "citizenship_qids": [
+    "Q224"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q172803",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q2331381",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q172803",
+  "image_filename": "Nikola Moro 2020.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nikola_Moro",
+  "transfermarkt_id": "316934",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Croatia"
+  ],
+  "place_of_birth": "Solin",
+  "wikidata_current_club": "GNK Dinamo Zagreb",
+  "wikidata_current_club_qid": "Q172803",
+  "photo": {
+    "filename": "Nikola Moro 2020.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Nikola_Moro_2020.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Nikola_Moro_2020.jpg",
+    "width": 505,
+    "height": 815,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0424\u041a \"\u0414\u0438\u043d\u0430\u043c\u043e\" \u041c\u043e\u0441\u043a\u0432\u0430",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nikola-moro.jpg"
+  },
+  "team_slug": "croatia",
+  "team_country": "Croatia"
+}

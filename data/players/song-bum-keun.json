@@ -1,0 +1,69 @@
+{
+  "slug": "song-bum-keun",
+  "display_name": "Song Bum-keun",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1997-10-15",
+  "age": 28,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Jeonbuk Hyundai Motors",
+  "wikipedia_title": "Song Bum-keun",
+  "wikidata_qid": "Q49562244",
+  "qid": "Q49562244",
+  "name": "Song Bum-keun",
+  "description": "South Korean association football player",
+  "date_of_birth": "1997-10-15",
+  "place_of_birth_qid": "Q42108",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 194.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q483152",
+      "start": "2018-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q692856",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q692856",
+  "image_filename": "240611 대한민국 vs 중국 (송범근).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Song_Bum-keun",
+  "transfermarkt_id": "508237",
+  "fifa_player_id": "402820",
+  "uefa_player_id": "49689",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Jeonbuk Hyundai Motors",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "Seongnam",
+  "wikidata_current_club": "Shonan Bellmare",
+  "wikidata_current_club_qid": "Q692856",
+  "photo": {
+    "filename": "240611 대한민국 vs 중국 (송범근).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/240611_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_vs_%EC%A4%91%EA%B5%AD_%28%EC%86%A1%EB%B2%94%EA%B7%BC%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/240611_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_vs_%EC%A4%91%EA%B5%AD_%28%EC%86%A1%EB%B2%94%EA%B7%BC%29.jpg/960px-240611_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_vs_%EC%A4%91%EA%B5%AD_%28%EC%86%A1%EB%B2%94%EA%B7%BC%29.jpg",
+    "width": 1600,
+    "height": 2000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/song-bum-keun.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

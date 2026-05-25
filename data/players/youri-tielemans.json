@@ -1,0 +1,99 @@
+{
+  "slug": "youri-tielemans",
+  "display_name": "Youri Tielemans",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-05-07",
+  "age": 29,
+  "caps": 83,
+  "goals": 12,
+  "club_from_squad_table": "Aston Villa",
+  "wikipedia_title": "Youri Tielemans",
+  "date_of_birth": "1997-05-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Aston Villa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q14327453",
+  "qid": "Q14327453",
+  "name": "Youri Tielemans",
+  "description": "Belgian footballer (born 1997)",
+  "place_of_birth_qid": "Q688790",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 176.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q187528",
+      "start": "2013-07-01",
+      "end": "2017-07-01"
+    },
+    {
+      "team_qid": "Q4965058",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2013-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q166776",
+      "start": "2016-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q180305",
+      "start": "2017-07-01",
+      "end": "2019-07-01"
+    },
+    {
+      "team_qid": "Q19481",
+      "start": "2019-01-31",
+      "end": "2019-06-30"
+    },
+    {
+      "team_qid": "Q19481",
+      "start": "2019-07-01",
+      "end": "2023-06-10"
+    },
+    {
+      "team_qid": "Q18711",
+      "start": "2023-06-10",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18711",
+  "image_filename": "Youri Tielemans 2019.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Youri_Tielemans",
+  "transfermarkt_id": "249565",
+  "fifa_player_id": "401444",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Sint-Pieters-Leeuw",
+  "wikidata_current_club": "Aston Villa F.C.",
+  "wikidata_current_club_qid": "Q18711",
+  "photo": {
+    "filename": "Youri Tielemans 2019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Youri_Tielemans_2019.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Youri_Tielemans_2019.jpg",
+    "width": 666,
+    "height": 1000,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u041a\u0438\u0440\u0438\u043b\u043b \u0412\u0435\u043d\u0435\u0434\u0438\u043a\u0442\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/youri-tielemans.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

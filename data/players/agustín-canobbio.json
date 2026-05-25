@@ -1,0 +1,64 @@
+{
+  "slug": "agust\u00edn-canobbio",
+  "display_name": "Agust\u00edn Canobbio",
+  "shirt_no": 14,
+  "position_code": "FW",
+  "dob": "1998-10-01",
+  "age": 27,
+  "caps": 15,
+  "goals": 1,
+  "club_from_squad_table": "Fluminense",
+  "wikipedia_title": "Agust\u00edn Canobbio",
+  "date_of_birth": "1998-10-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Fluminense",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26838705",
+  "qid": "Q26838705",
+  "name": "Agust\u00edn Canobbio",
+  "description": "association football player",
+  "place_of_birth_qid": "Q1335",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 1.75,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q506832",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q506832",
+  "image_filename": "Agust\u00edn Canobbio.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Canobbio",
+  "transfermarkt_id": "457533",
+  "fifa_player_id": "402876",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Montevideo",
+  "wikidata_current_club": "Club Athletico Paranaense",
+  "wikidata_current_club_qid": "Q506832",
+  "photo": {
+    "filename": "Agust\u00edn Canobbio.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Agust%C3%ADn_Canobbio.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Agust%C3%ADn_Canobbio.jpg/960px-Agust%C3%ADn_Canobbio.jpg",
+    "width": 1204,
+    "height": 1821,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/agenciaandes_ec/\">Agencia de Noticias ANDES</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/agust\u00edn-canobbio.jpg"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

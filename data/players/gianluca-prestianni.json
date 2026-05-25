@@ -1,0 +1,43 @@
+{
+  "slug": "gianluca-prestianni",
+  "display_name": "Gianluca Prestianni",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2006-01-31",
+  "age": 20,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Benfica",
+  "wikipedia_title": "Gianluca Prestianni",
+  "wikidata_qid": "Q112128716",
+  "qid": "Q112128716",
+  "name": "Gianluca Prestianni",
+  "description": "Argentinian footballer",
+  "date_of_birth": "2006-01-31",
+  "place_of_birth_qid": "Q1328458",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 165.0,
+  "position_qids": [
+    "Q11681748"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gianluca_Prestianni",
+  "transfermarkt_id": "1000674",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Ciudadela",
+  "current_club": "Benfica",
+  "current_club_source": "wikipedia-squad-table",
+  "team_slug": "argentina",
+  "team_country": "Argentina",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+  }
+}

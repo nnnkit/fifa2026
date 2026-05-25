@@ -1,0 +1,101 @@
+{
+  "slug": "kalidou-koulibaly",
+  "display_name": "Kalidou Koulibaly",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1991-06-20",
+  "age": 34,
+  "caps": 103,
+  "goals": 2,
+  "club_from_squad_table": "Al-Hilal",
+  "wikipedia_title": "Kalidou Koulibaly",
+  "date_of_birth": "1991-06-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Hilal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q3192187",
+  "qid": "Q3192187",
+  "name": "Kalidou Koulibaly",
+  "description": "Senegalese-French footballer (born 1991)",
+  "place_of_birth_qid": "Q34427",
+  "citizenship_qids": [
+    "Q1041",
+    "Q142"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 89.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q221525",
+      "start": "2010-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q216032",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q2641",
+      "start": "2014-07-02",
+      "end": "2022-07-16"
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2022-07-16",
+      "end": "2023-06-25"
+    },
+    {
+      "team_qid": "Q73965",
+      "start": "2023-06-25",
+      "end": null
+    },
+    {
+      "team_qid": "Q1344163",
+      "start": "2011-00-00",
+      "end": "2012-00-00"
+    },
+    {
+      "team_qid": "Q207441",
+      "start": "2015-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q109502401",
+      "start": "2009-00-00",
+      "end": "2011-00-00"
+    }
+  ],
+  "current_club_qid": "Q73965",
+  "image_filename": "Joueur de foot.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kalidou_Koulibaly",
+  "transfermarkt_id": "93128",
+  "fifa_player_id": "339820",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Senegal",
+    "France"
+  ],
+  "place_of_birth": "Saint-Di\u00e9-des-Vosges",
+  "wikidata_current_club": "Al Hilal SFC",
+  "wikidata_current_club_qid": "Q73965",
+  "photo": {
+    "filename": "Joueur de foot.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Joueur_de_foot.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Joueur_de_foot.jpg/960px-Joueur_de_foot.jpg",
+    "width": 3000,
+    "height": 4500,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Happiraphael\" title=\"User:Happiraphael\">Happiraphael</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kalidou-koulibaly.jpg"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

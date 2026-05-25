@@ -1,0 +1,108 @@
+{
+  "slug": "saeid-ezatolahi",
+  "display_name": "Saeid Ezatolahi",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-10-01",
+  "age": 29,
+  "caps": 81,
+  "goals": 1,
+  "club_from_squad_table": "Shabab Al-Ahli",
+  "wikipedia_title": "Saeid Ezatolahi",
+  "date_of_birth": "1996-10-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Shabab Al-Ahli",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q7398276",
+  "qid": "Q7398276",
+  "name": "Saeid Ezzatollahi",
+  "description": "Iranian footballer",
+  "place_of_birth_qid": "Q210885",
+  "citizenship_qids": [
+    "Q794"
+  ],
+  "height_cm": 190.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q182930",
+      "start": "2015-01-01",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q537201",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q2975407",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3589804",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q6587944",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q184602",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q19353",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q8701",
+      "start": "2014-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q737936",
+      "start": "2020-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q424943",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q424943",
+  "image_filename": "Saeid Ezatolahi at Iran training 2018.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Saeid_Ezatolahi",
+  "transfermarkt_id": "249271",
+  "fifa_player_id": "371736",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Iran"
+  ],
+  "place_of_birth": "Bandar-e Anzali",
+  "wikidata_current_club": "Shabab AlAhli Dubai Club",
+  "wikidata_current_club_qid": "Q424943",
+  "photo": {
+    "filename": "Saeid Ezatolahi at Iran training 2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Saeid_Ezatolahi_at_Iran_training_2018.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Saeid_Ezatolahi_at_Iran_training_2018.jpg",
+    "width": 396,
+    "height": 622,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Shahabodin Vajedi",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/saeid-ezatolahi.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

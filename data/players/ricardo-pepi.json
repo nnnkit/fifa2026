@@ -1,0 +1,92 @@
+{
+  "slug": "ricardo-pepi",
+  "display_name": "Ricardo Pepi",
+  "shirt_no": 9,
+  "position_code": "FW",
+  "dob": "2003-01-09",
+  "age": 23,
+  "caps": 35,
+  "goals": 13,
+  "club_from_squad_table": "PSV Eindhoven",
+  "wikipedia_title": "Ricardo Pepi",
+  "date_of_birth": "2003-01-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "PSV Eindhoven",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q62597239",
+  "qid": "Q62597239",
+  "name": "Ricardo Pepi",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q16562",
+  "citizenship_qids": [
+    "Q30"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q642291",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q60761240",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q15755",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q24711",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q11938",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q3590570",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q164134",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q642291",
+  "image_filename": "Ricardo Pepi Football Americana 2021 01.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ricardo_Pepi",
+  "transfermarkt_id": "627207",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "United States"
+  ],
+  "place_of_birth": "El Paso",
+  "wikidata_current_club": "FC Dallas",
+  "wikidata_current_club_qid": "Q642291",
+  "photo": {
+    "filename": "Ricardo Pepi Football Americana 2021 01.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ricardo_Pepi_Football_Americana_2021_01.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ricardo_Pepi_Football_Americana_2021_01.png",
+    "width": 493,
+    "height": 469,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@YaelAverbuchYFutbol\">Yael Averbuch West</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ricardo-pepi.png"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

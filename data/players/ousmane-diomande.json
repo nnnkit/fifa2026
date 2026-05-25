@@ -1,0 +1,75 @@
+{
+  "slug": "ousmane-diomande",
+  "display_name": "Ousmane Diomande",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2003-12-04",
+  "age": 22,
+  "caps": 14,
+  "goals": 1,
+  "club_from_squad_table": "Sporting CP",
+  "wikipedia_title": "Ousmane Diomande",
+  "date_of_birth": "2003-12-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sporting CP",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q116753805",
+  "qid": "Q116753805",
+  "name": "Ousmane Diomande",
+  "description": "Ivorian footballer",
+  "place_of_birth_qid": "Q1515",
+  "citizenship_qids": [
+    "Q1008"
+  ],
+  "height_cm": 190.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q175145",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q618520",
+      "start": "2022-07-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q618990",
+      "start": "2022-08-00",
+      "end": "2023-01-00"
+    },
+    {
+      "team_qid": "Q75729",
+      "start": "2023-02-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q75729",
+  "image_filename": "Équipe football ivoirien 03 (Ousmane Diomande).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ousmane_Diomande",
+  "transfermarkt_id": "974982",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Ivory Coast"
+  ],
+  "place_of_birth": "Abidjan",
+  "photo": {
+    "filename": "Équipe football ivoirien 03 (Ousmane Diomande).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/%C3%89quipe_football_ivoirien_03_%28Ousmane_Diomande%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/%C3%89quipe_football_ivoirien_03_%28Ousmane_Diomande%29.jpg",
+    "width": 411,
+    "height": 632,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Anneprudence\" title=\"User:Anneprudence\">Anneprudence</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ousmane-diomande.jpg"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

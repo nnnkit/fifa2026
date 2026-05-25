@@ -1,0 +1,82 @@
+{
+  "slug": "micky-van-de-ven",
+  "display_name": "Micky van de Ven",
+  "shirt_no": 15,
+  "position_code": "DF",
+  "dob": "2001-04-19",
+  "age": 25,
+  "caps": 19,
+  "goals": 1,
+  "club_from_squad_table": "Tottenham Hotspur",
+  "wikipedia_title": "Micky van de Ven",
+  "date_of_birth": "2001-04-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Tottenham Hotspur",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q69812902",
+  "qid": "Q69812902",
+  "name": "Micky van de Ven",
+  "description": "Dutch footballer (born 2001)",
+  "place_of_birth_qid": "Q2341553",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 193.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q738060",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q101859",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q18741",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18741",
+  "image_filename": "Micky Van De Ven pre-match training (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Micky_van_de_Ven",
+  "transfermarkt_id": "557459",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Wormer",
+  "wikidata_current_club": "Tottenham Hotspur F.C.",
+  "wikidata_current_club_qid": "Q18741",
+  "photo": {
+    "filename": "Micky Van De Ven pre-match training (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Micky_Van_De_Ven_pre-match_training_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Micky_Van_De_Ven_pre-match_training_%28cropped%29.jpg",
+    "width": 866,
+    "height": 1271,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:KrispyKrumpets&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:KrispyKrumpets (page does not exist)\">KrispyKrumpets</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/micky-van-de-ven.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

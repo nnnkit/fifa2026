@@ -1,0 +1,67 @@
+{
+  "slug": "wilfried-singo",
+  "display_name": "Wilfried Singo",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-12-25",
+  "age": 25,
+  "caps": 33,
+  "goals": 1,
+  "club_from_squad_table": "Galatasaray",
+  "wikipedia_title": "Wilfried Singo",
+  "date_of_birth": "2000-12-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Galatasaray",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q78255759",
+  "qid": "Q78255759",
+  "name": "Wilfried Singo",
+  "description": "Ivorian footballer",
+  "place_of_birth_qid": "Q957555",
+  "citizenship_qids": [
+    "Q1008"
+  ],
+  "height_cm": 1.9,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2768",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q180305",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2768",
+  "image_filename": "Singo asse asm 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Wilfried_Singo",
+  "transfermarkt_id": "648779",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Ivory Coast"
+  ],
+  "place_of_birth": "Ouragahio",
+  "wikidata_current_club": "Torino FC",
+  "wikidata_current_club_qid": "Q2768",
+  "photo": {
+    "filename": "Singo asse asm 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Singo_asse_asm_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Singo_asse_asm_2425.png",
+    "width": 702,
+    "height": 913,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/wilfried-singo.png"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

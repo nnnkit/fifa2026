@@ -1,0 +1,1094 @@
+{
+  "slug": "ghana",
+  "country": "Ghana",
+  "wikidata_qid": "Q172014",
+  "fetched_at": "2026-05-24T17:31:31+00:00",
+  "source": {
+    "kind": "national-team",
+    "title": "Ghana national football team",
+    "url": "https://en.wikipedia.org/wiki/Ghana_national_football_team"
+  },
+  "squad_size": 27,
+  "players": [
+    {
+      "slug": "benjamin-asare",
+      "display_name": "Benjamin Asare",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1992-07-13",
+      "age": 33,
+      "caps": 10,
+      "goals": 0,
+      "club_from_squad_table": "Hearts of Oak",
+      "wikipedia_title": "Benjamin Asare",
+      "date_of_birth": "1992-07-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Hearts of Oak",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q106212969",
+      "qid": "Q106212969",
+      "name": "Benjamin Asare",
+      "description": "Ghanaian association football player",
+      "citizenship_qids": [
+        "Q117"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Asare",
+      "wikidata_date_of_birth": "1992-01-01",
+      "citizenship": [
+        "Ghana"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "solomon-agbasi",
+      "display_name": "Solomon Agbasi",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2000-10-13",
+      "age": 25,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Hearts of Oak",
+      "wikipedia_title": "Solomon Agbasi",
+      "date_of_birth": "2000-10-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Hearts of Oak",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q106600820",
+      "qid": "Q106600820",
+      "name": "Solomon Agbasi",
+      "description": "Ghanaian professional footballer",
+      "citizenship_qids": [
+        "Q117"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Solomon_Agbasi",
+      "transfermarkt_id": "734794",
+      "citizenship": [
+        "Ghana"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "paul-reverson",
+      "display_name": "Paul Reverson",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2005-06-20",
+      "age": 20,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Jong Ajax",
+      "wikipedia_title": "Paul Reverson",
+      "date_of_birth": "2005-06-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Jong Ajax",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q132303559",
+      "qid": "Q132303559",
+      "name": "Paul Reverson",
+      "description": "Ghanaian association football player (born 2005)",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Reverson",
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "razak-simpson",
+      "display_name": "Razak Simpson",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-07-15",
+      "age": 27,
+      "caps": 8,
+      "goals": 1,
+      "club_from_squad_table": "Nations",
+      "wikipedia_title": "Razak Simpson",
+      "date_of_birth": "1998-07-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nations",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q106034951",
+      "qid": "Q106034951",
+      "name": "Razak Simpson",
+      "description": "Ghanaian professional footballer",
+      "place_of_birth_qid": "Q117",
+      "height_cm": 190.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Razak_Simpson",
+      "transfermarkt_id": "739935",
+      "wikidata_date_of_birth": "1998-01-01",
+      "place_of_birth": "Ghana",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ebenezer-annan",
+      "display_name": "Ebenezer Annan",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-08-21",
+      "age": 23,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Saint-Étienne",
+      "wikipedia_title": "Ebenezer Annan",
+      "date_of_birth": "2002-08-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Saint-Étienne",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110653400",
+      "qid": "Q110653400",
+      "name": "Ebenezer Annan",
+      "description": "Ghanaian footballer",
+      "citizenship_qids": [
+        "Q117"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "image_filename": "Ebenezer Annan.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ebenezer_Annan",
+      "transfermarkt_id": "861221",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Ghana"
+      ],
+      "photo": {
+        "filename": "Ebenezer Annan.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ebenezer_Annan.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ebenezer_Annan.jpg",
+        "width": 641,
+        "height": 883,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Вячеслав Евдокимов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ebenezer-annan.jpg"
+      }
+    },
+    {
+      "slug": "ebenezer-abban",
+      "display_name": "Ebenezer Abban",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-01-12",
+      "age": 28,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Heart of Lions",
+      "wikipedia_title": null,
+      "date_of_birth": "1998-01-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Heart of Lions",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      },
+      "identity_review": {
+        "status": "no-unambiguous-wikidata-qid",
+        "reviewed_at": "2026-05-25",
+        "reason": "No Wikidata exact-label or Transfermarkt-ID item found for the Heart of Lions defender."
+      }
+    },
+    {
+      "slug": "nathaniel-adjei",
+      "display_name": "Nathaniel Adjei",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-08-21",
+      "age": 23,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Lorient",
+      "wikipedia_title": "Nathaniel Adjei",
+      "date_of_birth": "2002-08-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lorient",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q114032443",
+      "qid": "Q114032443",
+      "name": "Nathaniel Adjei",
+      "description": "Ghanaian footballer",
+      "place_of_birth_qid": "Q1062602",
+      "citizenship_qids": [
+        "Q117"
+      ],
+      "height_cm": 1.91,
+      "teams": [
+        {
+          "team_qid": "Q1136967",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q460724",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1136967",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nathaniel_Adjei",
+      "transfermarkt_id": "646829",
+      "citizenship": [
+        "Ghana"
+      ],
+      "place_of_birth": "Teshie",
+      "wikidata_current_club": "Hammarby Talang FF",
+      "wikidata_current_club_qid": "Q1136967",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "terry-yegbe",
+      "display_name": "Terry Yegbe",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-01-25",
+      "age": 25,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Metz",
+      "wikipedia_title": "Terry Yegbe",
+      "date_of_birth": "2001-01-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Metz",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q122924919",
+      "qid": "Q122924919",
+      "name": "Terry Yegbe",
+      "description": "Ghanaian footballer",
+      "citizenship_qids": [
+        "Q117"
+      ],
+      "height_cm": 195.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Terry_Yegbe",
+      "transfermarkt_id": "991054",
+      "citizenship": [
+        "Ghana"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ebenezer-adade",
+      "display_name": "Ebenezer Adade",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-05-26",
+      "age": 23,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Dreams",
+      "wikipedia_title": null,
+      "date_of_birth": "2002-05-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Dreams",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      },
+      "identity_review": {
+        "status": "no-unambiguous-wikidata-qid",
+        "reviewed_at": "2026-05-25",
+        "reason": "No Wikidata exact-label or Transfermarkt-ID item found for the Dreams defender."
+      }
+    },
+    {
+      "slug": "antwi-dacosta",
+      "display_name": "Antwi Dacosta",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2007-03-06",
+      "age": 19,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "RSCA Futures",
+      "wikipedia_title": null,
+      "date_of_birth": "2007-03-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "RSCA Futures",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q137356448",
+      "qid": "Q137356448",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jan-gyamerah",
+      "display_name": "Jan Gyamerah",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1995-06-18",
+      "age": 30,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "SV Elversberg",
+      "wikipedia_title": "Jan Gyamerah",
+      "date_of_birth": "1995-06-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "SV Elversberg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q15729468",
+      "qid": "Q15729468",
+      "name": "Jan Gyamerah",
+      "description": "German footballer",
+      "place_of_birth_qid": "Q64",
+      "citizenship_qids": [
+        "Q183"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q105861",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q7924284",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q319699",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q2016992",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        }
+      ],
+      "current_club_qid": "Q105861",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jan_Gyamerah",
+      "transfermarkt_id": "192840",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Germany"
+      ],
+      "place_of_birth": "Berlin",
+      "wikidata_current_club": "VfL Bochum",
+      "wikidata_current_club_qid": "Q105861",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "oscar-naasei",
+      "display_name": "Oscar Naasei",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2005-02-24",
+      "age": 21,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Granada",
+      "wikipedia_title": "Oscar Naasei Oppong",
+      "date_of_birth": "2005-02-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Granada",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q130244366",
+      "qid": "Q130244366",
+      "name": "Oscar Naasei Opong",
+      "description": "Ghanaian footballer",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oscar_Naasei_Oppong",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "david-oduro",
+      "display_name": "David Oduro",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2006-06-12",
+      "age": 19,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Barcelona Atlètic",
+      "wikipedia_title": "David Oduro",
+      "date_of_birth": "2006-06-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barcelona Atlètic",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q130282587",
+      "qid": "Q130282587",
+      "name": "David Oduro",
+      "description": "Ghanaian professional footballer",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Oduro",
+      "wikidata_date_of_birth": "2006-01-01",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "manu-duah",
+      "display_name": "Manu Duah",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2005-05-06",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "San Diego",
+      "wikipedia_title": "Manu Duah",
+      "date_of_birth": "2005-05-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "San Diego",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q133500625",
+      "qid": "Q133500625",
+      "name": "Manu Duah",
+      "description": "Ghanaian footballer",
+      "citizenship_qids": [
+        "Q117"
+      ],
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Manu Duah on the ball SDFC v Pachuca (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Manu_Duah",
+      "transfermarkt_id": "1355954",
+      "wikidata_date_of_birth": "2005-06-05",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Ghana"
+      ],
+      "photo": {
+        "filename": "Manu Duah on the ball SDFC v Pachuca (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Manu_Duah_on_the_ball_SDFC_v_Pachuca_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Manu_Duah_on_the_ball_SDFC_v_Pachuca_%28cropped%29.jpg/500px-Manu_Duah_on_the_ball_SDFC_v_Pachuca_%28cropped%29.jpg",
+        "width": 515,
+        "height": 643,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Paul_Vaurie\" title=\"User:Paul Vaurie\">Paul Vaurie</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/manu-duah.jpg"
+      }
+    },
+    {
+      "slug": "majeed-ashimeru",
+      "display_name": "Majeed Ashimeru",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-10-10",
+      "age": 28,
+      "caps": 13,
+      "goals": 0,
+      "club_from_squad_table": "RAAL La Louvière",
+      "wikipedia_title": "Majeed Ashimeru",
+      "date_of_birth": "1997-10-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "RAAL La Louvière",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q37810302",
+      "qid": "Q37810302",
+      "name": "Majeed Ashimeru",
+      "description": "Ghanaian footballer",
+      "place_of_birth_qid": "Q3761",
+      "citizenship_qids": [
+        "Q117"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q659212",
+          "start": "2018-07-01",
+          "end": "2019-06-30"
+        },
+        {
+          "team_qid": "Q994811",
+          "start": "2017-08-31",
+          "end": null
+        },
+        {
+          "team_qid": "Q694484",
+          "start": "2018-01-07",
+          "end": "2018-06-30"
+        },
+        {
+          "team_qid": "Q187528",
+          "start": "2021-01-13",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q187528",
+      "image_filename": "FC RB Salzburg versus CSKA Sofia (Testspiel 3. Juli 2019) 17.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Majeed_Ashimeru",
+      "transfermarkt_id": "360140",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Ghana"
+      ],
+      "place_of_birth": "Accra",
+      "wikidata_current_club": "R.S.C. Anderlecht",
+      "wikidata_current_club_qid": "Q187528",
+      "photo": {
+        "filename": "FC RB Salzburg versus CSKA Sofia (Testspiel 3. Juli 2019) 17.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/FC_RB_Salzburg_versus_CSKA_Sofia_%28Testspiel_3._Juli_2019%29_17.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/FC_RB_Salzburg_versus_CSKA_Sofia_%28Testspiel_3._Juli_2019%29_17.jpg/960px-FC_RB_Salzburg_versus_CSKA_Sofia_%28Testspiel_3._Juli_2019%29_17.jpg",
+        "width": 2238,
+        "height": 2656,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/majeed-ashimeru.jpg"
+      }
+    },
+    {
+      "slug": "ibrahim-osman",
+      "display_name": "Ibrahim Osman",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-11-29",
+      "age": 21,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Birmingham City",
+      "wikipedia_title": "Ibrahim Osman (footballer, born 2004)",
+      "date_of_birth": "2004-11-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Birmingham City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117350353",
+      "qid": "Q117350353",
+      "name": "Ibrahim Osman",
+      "description": "Ghanaian footballer (born 2004)",
+      "place_of_birth_qid": "Q3761",
+      "citizenship_qids": [
+        "Q117"
+      ],
+      "height_cm": 1.79,
+      "image_filename": "Ibrahim Osman (footballer, born 2004).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ibrahim_Osman_(footballer,_born_2004)",
+      "transfermarkt_id": "1110406",
+      "wikidata_date_of_birth": "2004-01-29",
+      "citizenship": [
+        "Ghana"
+      ],
+      "place_of_birth": "Accra",
+      "photo": {
+        "filename": "Ibrahim Osman (footballer, born 2004).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ibrahim_Osman_%28footballer%2C_born_2004%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ibrahim_Osman_%28footballer%2C_born_2004%29.jpg",
+        "width": 382,
+        "height": 1037,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ibrahim-osman.jpg"
+      }
+    },
+    {
+      "slug": "salim-adams",
+      "display_name": "Salim Adams",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-10-11",
+      "age": 23,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Medeama",
+      "wikipedia_title": null,
+      "date_of_birth": "2002-10-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Medeama",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      },
+      "identity_review": {
+        "status": "no-unambiguous-wikidata-qid",
+        "reviewed_at": "2026-05-25",
+        "reason": "No Wikidata exact-label or Transfermarkt-ID item found for the Medeama midfielder."
+      }
+    },
+    {
+      "slug": "emmanuel-agyei",
+      "display_name": "Emmanuel Agyei",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-11-03",
+      "age": 21,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Dundee United",
+      "wikipedia_title": "Emmanuel Agyei",
+      "date_of_birth": "2004-11-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Dundee United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q129859586",
+      "qid": "Q129859586",
+      "name": "Emmanuel Agyei",
+      "description": "Ghanaian footballer",
+      "place_of_birth_qid": "Q117",
+      "citizenship_qids": [
+        "Q117"
+      ],
+      "height_cm": 1.8,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Emmanuel_Agyei",
+      "transfermarkt_id": "960062",
+      "citizenship": [
+        "Ghana"
+      ],
+      "place_of_birth": "Ghana",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "prince-amoako",
+      "display_name": "Prince Amoako",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2007-02-19",
+      "age": 19,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Nordsjælland",
+      "wikipedia_title": "Prince Amoako Jr.",
+      "date_of_birth": "2007-02-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nordsjælland",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q135646300",
+      "qid": "Q135646300",
+      "name": "Prince Amoako Junior",
+      "description": "Ghanaian footballer (born 2007)",
+      "place_of_birth_qid": "Q117",
+      "citizenship_qids": [
+        "Q117"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q210025",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q210025",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Prince_Amoako_Jr.",
+      "transfermarkt_id": "1380311",
+      "citizenship": [
+        "Ghana"
+      ],
+      "place_of_birth": "Ghana",
+      "wikidata_current_club": "FC Nordsjælland",
+      "wikidata_current_club_qid": "Q210025",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jesurun-rak-sakyi",
+      "display_name": "Jesurun Rak-Sakyi",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-10-05",
+      "age": 23,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Stoke City",
+      "wikipedia_title": "Jesurun Rak-Sakyi",
+      "date_of_birth": "2002-10-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Stoke City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q108094357",
+      "qid": "Q108094357",
+      "name": "Jesurun Rak-Sakyi",
+      "description": "English asssociation football player",
+      "place_of_birth_qid": "Q5273898",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 178.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jesurun_Rak-Sakyi",
+      "transfermarkt_id": "586834",
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Southwark",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "augustine-boakye",
+      "display_name": "Augustine Boakye",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-11-03",
+      "age": 25,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Saint-Étienne",
+      "wikipedia_title": "Augustine Boakye",
+      "date_of_birth": "2000-11-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Saint-Étienne",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q90307470",
+      "qid": "Q90307470",
+      "name": "Augustine Boakye",
+      "description": "Ghanaian footballer",
+      "place_of_birth_qid": "Q4940903",
+      "citizenship_qids": [
+        "Q117"
+      ],
+      "height_cm": 178.0,
+      "teams": [
+        {
+          "team_qid": "Q2649957",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2649957",
+      "image_filename": "Boakye ASSE MHSC 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Augustine_Boakye",
+      "transfermarkt_id": "579263",
+      "citizenship": [
+        "Ghana"
+      ],
+      "place_of_birth": "Bompata",
+      "wikidata_current_club": "Feyenoord Academy Ghana",
+      "wikidata_current_club_qid": "Q2649957",
+      "photo": {
+        "filename": "Boakye ASSE MHSC 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Boakye_ASSE_MHSC_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Boakye_ASSE_MHSC_2425.png",
+        "width": 548,
+        "height": 716,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/augustine-boakye.png"
+      }
+    },
+    {
+      "slug": "felix-afena-gyan",
+      "display_name": "Felix Afena-Gyan",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2003-01-19",
+      "age": 23,
+      "caps": 9,
+      "goals": 1,
+      "club_from_squad_table": "Amedspor",
+      "wikipedia_title": "Felix Afena-Gyan",
+      "date_of_birth": "2003-01-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Amedspor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q109289830",
+      "qid": "Q109289830",
+      "name": "Felix Afena-Gyan",
+      "description": "Ghanaian association football player (2003)",
+      "place_of_birth_qid": "Q406037",
+      "citizenship_qids": [
+        "Q117"
+      ],
+      "height_cm": 1.75,
+      "position_qids": [
+        "Q280658"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Felix_Afena-Gyan",
+      "transfermarkt_id": "872380",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Ghana"
+      ],
+      "place_of_birth": "Sunyani",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jerry-afriyie",
+      "display_name": "Jerry Afriyie",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2006-12-10",
+      "age": 19,
+      "caps": 6,
+      "goals": 1,
+      "club_from_squad_table": "La Louvière",
+      "wikipedia_title": "Jerry Afriyie",
+      "date_of_birth": "2006-12-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "La Louvière",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q126279173",
+      "qid": "Q126279173",
+      "name": "Jerry Afriyie",
+      "description": "Ghanaian footballer",
+      "place_of_birth_qid": "Q3726",
+      "citizenship_qids": [
+        "Q117"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jerry_Afriyie",
+      "transfermarkt_id": "1332184",
+      "wikidata_date_of_birth": "2005-00-00",
+      "citizenship": [
+        "Ghana"
+      ],
+      "place_of_birth": "Banjul",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "aziz-issah",
+      "display_name": "Aziz Issah",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2005-11-20",
+      "age": 20,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Barcelona Atlètic",
+      "wikipedia_title": "Aziz Issah",
+      "date_of_birth": "2005-11-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barcelona Atlètic",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q123939583",
+      "qid": "Q123939583",
+      "name": "Abdul Aziz Issah",
+      "description": "Ghanaian professional footballer",
+      "place_of_birth_qid": "Q3761",
+      "citizenship_qids": [
+        "Q117"
+      ],
+      "height_cm": 163.0,
+      "image_filename": "Abdul Aziz Issah AG23.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aziz_Issah",
+      "transfermarkt_id": "1071086",
+      "citizenship": [
+        "Ghana"
+      ],
+      "place_of_birth": "Accra",
+      "photo": {
+        "filename": "Abdul Aziz Issah AG23.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Abdul_Aziz_Issah_AG23.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Abdul_Aziz_Issah_AG23.jpg",
+        "width": 957,
+        "height": 1536,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Owula_kpakpo\" title=\"User:Owula kpakpo\">Owula kpakpo</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/aziz-issah.jpg"
+      }
+    },
+    {
+      "slug": "dan-agyei",
+      "display_name": "Dan Agyei",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1997-06-01",
+      "age": 28,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Kocaelispor",
+      "wikipedia_title": "Dan Agyei",
+      "date_of_birth": "1997-06-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Kocaelispor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26704485",
+      "qid": "Q26704485",
+      "name": "Dan Agyei",
+      "description": "association football player",
+      "place_of_birth_qid": "Q32508",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19449",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19449",
+      "image_filename": "Dan Agyei.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Agyei",
+      "transfermarkt_id": "367195",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Royal Borough of Kingston upon Thames",
+      "wikidata_current_club": "Blackpool F.C.",
+      "wikidata_current_club_qid": "Q19449",
+      "photo": {
+        "filename": "Dan Agyei.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dan_Agyei.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dan_Agyei.jpg/960px-Dan_Agyei.jpg",
+        "width": 3028,
+        "height": 3812,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Paul_W\" title=\"User:Paul W\">Paul W</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dan-agyei.jpg"
+      }
+    },
+    {
+      "slug": "joseph-opoku",
+      "display_name": "Joseph Opoku",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2005-08-08",
+      "age": 20,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Zulte Waregem",
+      "wikipedia_title": "Joseph Opoku",
+      "date_of_birth": "2005-08-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Zulte Waregem",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q131601593",
+      "qid": "Q131601593",
+      "name": "Joseph Opoku",
+      "description": "Ghanaian association football player",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Opoku",
+      "transfermarkt_id": "1310437",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "francis-amuzu",
+      "display_name": "Francis Amuzu",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-08-23",
+      "age": 26,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Grêmio",
+      "wikipedia_title": "Francis Amuzu",
+      "date_of_birth": "1999-08-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Grêmio",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q46696898",
+      "qid": "Q46696898",
+      "name": "Francis Amuzu",
+      "description": "Belgian association football player",
+      "place_of_birth_qid": "Q3761",
+      "citizenship_qids": [
+        "Q31",
+        "Q117"
+      ],
+      "height_cm": 1.69,
+      "weight_kg": 65.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q187528",
+          "start": "2018-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q815515",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q187528",
+      "image_filename": "FRAncis AmuZU 1 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Amuzu",
+      "transfermarkt_id": "423604",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Belgium",
+        "Ghana"
+      ],
+      "place_of_birth": "Accra",
+      "wikidata_current_club": "R.S.C. Anderlecht",
+      "wikidata_current_club_qid": "Q187528",
+      "photo": {
+        "filename": "FRAncis AmuZU 1 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/FRAncis_AmuZU_1_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/FRAncis_AmuZU_1_%28cropped%29.jpg",
+        "width": 202,
+        "height": 312,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:KALMPSPAZ&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:KALMPSPAZ (page does not exist)\">KALMPSPAZ</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/francis-amuzu.jpg"
+      }
+    }
+  ]
+}

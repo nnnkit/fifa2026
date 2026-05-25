@@ -1,0 +1,89 @@
+{
+  "slug": "lamine-yamal",
+  "display_name": "Lamine Yamal",
+  "shirt_no": 19,
+  "position_code": "FW",
+  "dob": "2007-07-13",
+  "age": 18,
+  "caps": 25,
+  "goals": 6,
+  "club_from_squad_table": "Barcelona",
+  "wikipedia_title": "Lamine Yamal",
+  "date_of_birth": "2007-07-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Barcelona",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q113704154",
+  "qid": "Q113704154",
+  "name": "Lamine Yamal",
+  "description": "Spanish footballer",
+  "place_of_birth_qid": "Q15621",
+  "citizenship_qids": [
+    "Q29",
+    "Q983"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q6124177",
+      "start": "2022-02-01",
+      "end": "2022-05-05"
+    },
+    {
+      "team_qid": "Q3873503",
+      "start": "2021-09-21",
+      "end": "2021-11-26"
+    },
+    {
+      "team_qid": "Q2310295",
+      "start": "2022-10-16",
+      "end": "2023-05-30"
+    },
+    {
+      "team_qid": "Q2713491",
+      "start": "2022-10-25",
+      "end": "2022-10-25"
+    },
+    {
+      "team_qid": "Q42267",
+      "start": "2023-09-08",
+      "end": null
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2023-07-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q7156",
+  "image_filename": "Lamine Yamal in 2025 (cropped2).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lamine_Yamal",
+  "transfermarkt_id": "937958",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "Spain",
+    "Equatorial Guinea"
+  ],
+  "place_of_birth": "Esplugues de Llobregat",
+  "wikidata_current_club": "Futbol Club Barcelona",
+  "wikidata_current_club_qid": "Q7156",
+  "photo": {
+    "filename": "Lamine Yamal in 2025 (cropped2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lamine_Yamal_in_2025_%28cropped2%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lamine_Yamal_in_2025_%28cropped2%29.jpg/960px-Lamine_Yamal_in_2025_%28cropped2%29.jpg",
+    "width": 1988,
+    "height": 2653,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Biso\" title=\"User:Biso\">Biso</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lamine-yamal.jpg"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain"
+}

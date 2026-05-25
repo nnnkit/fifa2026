@@ -1,0 +1,79 @@
+{
+  "slug": "ao-tanaka",
+  "display_name": "Ao Tanaka",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1998-09-10",
+  "age": 27,
+  "caps": 37,
+  "goals": 8,
+  "club_from_squad_table": "Leeds United",
+  "wikipedia_title": "Ao Tanaka",
+  "date_of_birth": "1998-09-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Leeds United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27920148",
+  "qid": "Q27920148",
+  "name": "Ao Tanaka",
+  "description": "Japanese association football player",
+  "place_of_birth_qid": "Q1076753",
+  "citizenship_qids": [
+    "Q17"
+  ],
+  "height_cm": 177.0,
+  "weight_kg": 69.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q874016",
+      "start": "2017-00-00",
+      "end": "2022-06-00"
+    },
+    {
+      "team_qid": "Q151747",
+      "start": "2021-06-00",
+      "end": "2022-06-00"
+    },
+    {
+      "team_qid": "Q170566",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q151747",
+      "start": "2022-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q151747",
+  "image_filename": "Fumio Kishida with Japan National Football Team after Qatar World Cup (5) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ao_Tanaka",
+  "transfermarkt_id": "489359",
+  "uefa_player_id": "19314",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Japan"
+  ],
+  "place_of_birth": "Miyamae-ku",
+  "wikidata_current_club": "Fortuna D\u00fcsseldorf",
+  "wikidata_current_club_qid": "Q151747",
+  "photo": {
+    "filename": "Fumio Kishida with Japan National Football Team after Qatar World Cup (5) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Fumio_Kishida_with_Japan_National_Football_Team_after_Qatar_World_Cup_%285%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Fumio_Kishida_with_Japan_National_Football_Team_after_Qatar_World_Cup_%285%29_%28cropped%29.jpg",
+    "width": 370,
+    "height": 470,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "\u5185\u95a3\u5b98\u623f\u5185\u95a3\u5e83\u5831\u5ba4",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ao-tanaka.jpg"
+  },
+  "team_slug": "japan",
+  "team_country": "Japan"
+}

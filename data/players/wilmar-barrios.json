@@ -1,0 +1,74 @@
+{
+  "slug": "wilmar-barrios",
+  "display_name": "Wilmar Barrios",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1993-10-16",
+  "age": 32,
+  "caps": 55,
+  "goals": 1,
+  "club_from_squad_table": "Zenit Saint Petersburg",
+  "wikipedia_title": "Wilmar Barrios",
+  "date_of_birth": "1993-10-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Zenit Saint Petersburg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19661792",
+  "qid": "Q19661792",
+  "name": "Wilmar Barrios",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q657461",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 74.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q332532",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q16581702",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q212564",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q332532",
+  "image_filename": "W\u00edlmar Barrios.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Wilmar_Barrios",
+  "transfermarkt_id": "257668",
+  "fifa_player_id": "394377",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Cartagena",
+  "wikidata_current_club": "Deportes Tolima",
+  "wikidata_current_club_qid": "Q332532",
+  "photo": {
+    "filename": "W\u00edlmar Barrios.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/W%C3%ADlmar_Barrios.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/W%C3%ADlmar_Barrios.jpg",
+    "width": 396,
+    "height": 431,
+    "license": "CC BY 3.0 br",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+    "attribution": "Rovena Rosa/Ag\u00eancia Brasil",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/wilmar-barrios.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

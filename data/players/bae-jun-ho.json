@@ -1,0 +1,72 @@
+{
+  "slug": "bae-jun-ho",
+  "display_name": "Bae Jun-ho",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2003-08-21",
+  "age": 22,
+  "caps": 12,
+  "goals": 2,
+  "club_from_squad_table": "Stoke City",
+  "wikipedia_title": "Bae Jun-ho",
+  "wikidata_qid": "Q118978780",
+  "qid": "Q118978780",
+  "name": "Bae Jun-ho",
+  "description": "South Korean footballer (born 2003)",
+  "date_of_birth": "2003-08-21",
+  "place_of_birth_qid": "Q20927",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q193592",
+    "Q90326494",
+    "Q114358158"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18736",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q484584",
+      "start": "2022-00-00",
+      "end": "2023-08-00"
+    }
+  ],
+  "current_club_qid": "Q18736",
+  "image_filename": "배준호vs FC 서울.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bae_Jun-ho",
+  "transfermarkt_id": "912081",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Stoke City",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder",
+    "attacking midfielder",
+    "left winger"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "Daegu",
+  "wikidata_current_club": "Stoke City F.C.",
+  "wikidata_current_club_qid": "Q18736",
+  "photo": {
+    "filename": "배준호vs FC 서울.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/%EB%B0%B0%EC%A4%80%ED%98%B8vs_FC_%EC%84%9C%EC%9A%B8.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/%EB%B0%B0%EC%A4%80%ED%98%B8vs_FC_%EC%84%9C%EC%9A%B8.jpg",
+    "width": 305,
+    "height": 458,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://m.youtube.com/@FCSEOUL\">FC SEOUL</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/bae-jun-ho.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

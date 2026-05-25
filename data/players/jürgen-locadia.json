@@ -1,0 +1,114 @@
+{
+  "slug": "jürgen-locadia",
+  "display_name": "Jürgen Locadia",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1993-11-07",
+  "age": 32,
+  "caps": 12,
+  "goals": 1,
+  "club_from_squad_table": "Miami FC",
+  "wikipedia_title": "Jürgen Locadia",
+  "date_of_birth": "1993-11-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Miami FC",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q1885",
+  "qid": "Q1885",
+  "name": "Jürgen Locadia",
+  "description": "Curaçaoan footballer",
+  "place_of_birth_qid": "Q14641",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 191.0,
+  "weight_kg": 87.0,
+  "position_qids": [
+    "Q280658",
+    "Q9731197",
+    "Q114358158",
+    "Q114358150"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q13534332",
+      "start": "2011-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q601723",
+      "start": "2009-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q514714",
+      "start": "2010-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q11938",
+      "start": "2012-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q13882315",
+      "start": "2012-00-00",
+      "end": "2012-00-00"
+    },
+    {
+      "team_qid": "Q19453",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q22707",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q20855983",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q242260",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19453",
+  "image_filename": "PSV Eindhoven, Teamcamp Bad Erlach, July 2014 (082).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Locadia",
+  "transfermarkt_id": "166240",
+  "positions": [
+    "forward",
+    "centre-forward",
+    "left winger",
+    "right winger"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Emmen",
+  "wikidata_current_club": "Brighton & Hove Albion F.C.",
+  "wikidata_current_club_qid": "Q19453",
+  "photo": {
+    "filename": "PSV Eindhoven, Teamcamp Bad Erlach, July 2014 (082).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/PSV_Eindhoven%2C_Teamcamp_Bad_Erlach%2C_July_2014_%28082%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/PSV_Eindhoven%2C_Teamcamp_Bad_Erlach%2C_July_2014_%28082%29.jpg/960px-PSV_Eindhoven%2C_Teamcamp_Bad_Erlach%2C_July_2014_%28082%29.jpg",
+    "width": 2000,
+    "height": 3000,
+    "license": "GFDL 1.2",
+    "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 10:25, 25 July 2014 (UTC)",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jürgen-locadia.jpg"
+  },
+  "team_slug": "curaçao",
+  "team_country": "Curaçao"
+}

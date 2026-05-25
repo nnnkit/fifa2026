@@ -1,0 +1,85 @@
+{
+  "slug": "jules-kound\u00e9",
+  "display_name": "Jules Kound\u00e9",
+  "shirt_no": 5,
+  "position_code": "DF",
+  "dob": "1998-11-12",
+  "age": 27,
+  "caps": 46,
+  "goals": 0,
+  "club_from_squad_table": "Barcelona",
+  "wikipedia_title": "Jules Kound\u00e9",
+  "date_of_birth": "1998-11-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Barcelona",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q47170176",
+  "qid": "Q47170176",
+  "name": "Jules Kound\u00e9",
+  "description": "French footballer (born 1998)",
+  "place_of_birth_qid": "Q187153",
+  "citizenship_qids": [
+    "Q142",
+    "Q962"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q172476",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q10329",
+      "start": "2019-07-03",
+      "end": "2022-08-27"
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2022-08-27",
+      "end": null
+    },
+    {
+      "team_qid": "Q47774",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2945334",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    }
+  ],
+  "current_club_qid": "Q7156",
+  "image_filename": "Jules Kound\u00e9 2020.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jules_Kound%C3%A9",
+  "transfermarkt_id": "411975",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "France",
+    "Benin"
+  ],
+  "place_of_birth": "14th arrondissement of Paris",
+  "wikidata_current_club": "Futbol Club Barcelona",
+  "wikidata_current_club_qid": "Q7156",
+  "photo": {
+    "filename": "Jules Kound\u00e9 2020.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jules_Kound%C3%A9_2020.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jules_Kound%C3%A9_2020.jpg",
+    "width": 410,
+    "height": 700,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041f\u0443\u043a\u0430\u043b\u0438\u043a",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jules-kound\u00e9.jpg"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

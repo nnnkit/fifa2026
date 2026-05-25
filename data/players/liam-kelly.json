@@ -1,0 +1,53 @@
+{
+  "slug": "liam-kelly",
+  "display_name": "Liam Kelly",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1996-01-23",
+  "age": 30,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Rangers",
+  "wikipedia_title": "Liam Kelly (footballer, born 1996)",
+  "date_of_birth": "1996-01-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Rangers",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27448075",
+  "qid": "Q27448075",
+  "name": "Liam Kelly",
+  "description": "Scottish association football player (born 1996)",
+  "place_of_birth_qid": "Q4093",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 189.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19597",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19597",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Liam_Kelly_(footballer,_born_1996)",
+  "transfermarkt_id": "208772",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Glasgow",
+  "wikidata_current_club": "Rangers F.C.",
+  "wikidata_current_club_qid": "Q19597",
+  "team_slug": "scotland",
+  "team_country": "Scotland",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

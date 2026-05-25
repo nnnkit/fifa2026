@@ -1,0 +1,45 @@
+{
+  "slug": "carlos-moreno",
+  "display_name": "Carlos Moreno",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1998-01-29",
+  "age": 28,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Pachuca",
+  "wikipedia_title": "Carlos Moreno (footballer, born 1998)",
+  "wikidata_qid": "Q106253726",
+  "qid": "Q106253726",
+  "name": "Carlos Moreno",
+  "description": "Mexican footballer",
+  "date_of_birth": "1998-01-29",
+  "place_of_birth_qid": "Q1619095",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 187.0,
+  "image_filename": "Carlos Agustín Moreno.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Moreno_(footballer,_born_1998)",
+  "transfermarkt_id": "661481",
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Tecomán",
+  "current_club": "Pachuca",
+  "current_club_source": "wikipedia-squad-table",
+  "photo": {
+    "filename": "Carlos Agustín Moreno.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Carlos_Agust%C3%ADn_Moreno.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Carlos_Agust%C3%ADn_Moreno.png",
+    "width": 582,
+    "height": 727,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/carlos-moreno.png"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

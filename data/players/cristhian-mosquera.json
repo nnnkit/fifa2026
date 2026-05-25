@@ -1,0 +1,93 @@
+{
+  "slug": "cristhian-mosquera",
+  "display_name": "Cristhian Mosquera",
+  "shirt_no": 2,
+  "position_code": "DF",
+  "dob": "2004-06-27",
+  "age": 21,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Arsenal",
+  "wikipedia_title": "Cristhian Mosquera",
+  "date_of_birth": "2004-06-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Arsenal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q110458872",
+  "qid": "Q110458872",
+  "name": "Cristhian Mosquera",
+  "description": "Spanish footballer (born 2004)",
+  "place_of_birth_qid": "Q11959",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 191.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q10333",
+      "start": "2021-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q1481307",
+      "start": "2024-07-00",
+      "end": "2024-07-00"
+    },
+    {
+      "team_qid": "Q6124177",
+      "start": "2018-12-00",
+      "end": "2019-02-00"
+    },
+    {
+      "team_qid": "Q3873503",
+      "start": "2019-04-00",
+      "end": "2019-12-00"
+    },
+    {
+      "team_qid": "Q3589784",
+      "start": "2021-10-00",
+      "end": "2022-06-00"
+    },
+    {
+      "team_qid": "Q2713491",
+      "start": "2022-02-00",
+      "end": "2023-05-00"
+    },
+    {
+      "team_qid": "Q1129595",
+      "start": "2024-03-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q918044",
+      "start": "2022-09-00",
+      "end": "2023-05-00"
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q9617",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cristhian_Mosquera",
+  "transfermarkt_id": "646750",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Alicante",
+  "wikidata_current_club": "Arsenal F.C.",
+  "wikidata_current_club_qid": "Q9617",
+  "team_slug": "spain",
+  "team_country": "Spain",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "lawrence-shankland",
+  "display_name": "Lawrence Shankland",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1995-08-10",
+  "age": 30,
+  "caps": 18,
+  "goals": 4,
+  "club_from_squad_table": "Heart of Midlothian",
+  "wikipedia_title": "Lawrence Shankland",
+  "date_of_birth": "1995-08-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Heart of Midlothian",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18331623",
+  "qid": "Q18331623",
+  "name": "Lawrence Shankland",
+  "description": "Scottish association football player (born 1995)",
+  "place_of_birth_qid": "Q4093",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q319136",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q852753",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q187326",
+      "start": "2013-01-01",
+      "end": "2017-07-01"
+    },
+    {
+      "team_qid": "Q390256",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1812121",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q319136",
+  "image_filename": "Lawrence Shankland 2019.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lawrence_Shankland",
+  "transfermarkt_id": "225744",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Glasgow",
+  "wikidata_current_club": "St. Mirren F.C.",
+  "wikidata_current_club_qid": "Q319136",
+  "photo": {
+    "filename": "Lawrence Shankland 2019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Lawrence_Shankland_2019.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Lawrence_Shankland_2019.jpg",
+    "width": 529,
+    "height": 878,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Анна Джалалян",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lawrence-shankland.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

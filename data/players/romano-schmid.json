@@ -1,0 +1,102 @@
+{
+  "slug": "romano-schmid",
+  "display_name": "Romano Schmid",
+  "shirt_no": 18,
+  "position_code": "MF",
+  "dob": "2000-01-27",
+  "age": 26,
+  "caps": 33,
+  "goals": 3,
+  "club_from_squad_table": "Werder Bremen",
+  "wikipedia_title": "Romano Schmid",
+  "date_of_birth": "2000-01-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Werder Bremen",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q30080273",
+  "qid": "Q30080273",
+  "name": "Romano Schmid",
+  "description": "Austrian association football player",
+  "place_of_birth_qid": "Q13298",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 1.68,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q994811",
+      "start": "2017-08-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q124007617",
+      "start": "2017-01-00",
+      "end": "2017-08-00"
+    },
+    {
+      "team_qid": "Q1387293",
+      "start": "2017-08-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q51976",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q694484",
+      "start": "2019-02-00",
+      "end": "2019-06-00"
+    },
+    {
+      "team_qid": "Q694484",
+      "start": "2019-07-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q302977",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q303033",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q163534",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q51976",
+  "image_filename": "FC Liefering versus Blau Wei\u00df Linz (22. September 2017) 41.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Romano_Schmid",
+  "transfermarkt_id": "346853",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Graz",
+  "wikidata_current_club": "SV Werder Bremen",
+  "wikidata_current_club_qid": "Q51976",
+  "photo": {
+    "filename": "FC Liefering versus Blau Wei\u00df Linz (22. September 2017) 41.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/FC_Liefering_versus_Blau_Wei%C3%9F_Linz_%2822._September_2017%29_41.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FC_Liefering_versus_Blau_Wei%C3%9F_Linz_%2822._September_2017%29_41.jpg/960px-FC_Liefering_versus_Blau_Wei%C3%9F_Linz_%2822._September_2017%29_41.jpg",
+    "width": 1784,
+    "height": 2534,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/romano-schmid.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

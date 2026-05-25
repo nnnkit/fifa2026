@@ -1,0 +1,27 @@
+{
+  "slug": "ebenezer-abban",
+  "display_name": "Ebenezer Abban",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-01-12",
+  "age": 28,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Heart of Lions",
+  "wikipedia_title": null,
+  "date_of_birth": "1998-01-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Heart of Lions",
+  "current_club_source": "wikipedia-squad-table",
+  "team_slug": "ghana",
+  "team_country": "Ghana",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "identity_review": {
+    "status": "no-unambiguous-wikidata-qid",
+    "reviewed_at": "2026-05-25",
+    "reason": "No Wikidata exact-label or Transfermarkt-ID item found for the Heart of Lions defender."
+  }
+}

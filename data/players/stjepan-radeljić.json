@@ -1,0 +1,77 @@
+{
+  "slug": "stjepan-radeljić",
+  "display_name": "Stjepan Radeljić",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-09-05",
+  "age": 28,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Rijeka",
+  "wikipedia_title": "Stjepan Radeljić",
+  "wikidata_qid": "Q56227031",
+  "qid": "Q56227031",
+  "name": "Stjepan Radeljić",
+  "description": "Bosnian association football player (born 1997)",
+  "date_of_birth": "1997-09-05",
+  "place_of_birth_qid": "Q159818",
+  "citizenship_qids": [
+    "Q225"
+  ],
+  "height_cm": 189.0,
+  "teams": [
+    {
+      "team_qid": "Q107421",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q263258",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q210768",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q318969",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q844509",
+      "start": "2015-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q769512",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q318969",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Stjepan_Radelji%C4%87",
+  "transfermarkt_id": "384568",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Rijeka",
+  "current_club_source": "wikipedia-squad-table",
+  "citizenship": [
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Travnik",
+  "wikidata_current_club": "HNK Rijeka",
+  "wikidata_current_club_qid": "Q318969",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

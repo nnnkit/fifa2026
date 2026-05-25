@@ -1,0 +1,62 @@
+{
+  "slug": "khojiakbar-alijonov",
+  "display_name": "Khojiakbar Alijonov",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-04-19",
+  "age": 29,
+  "caps": 40,
+  "goals": 2,
+  "club_from_squad_table": "Pakhtakor",
+  "wikipedia_title": "Khojiakbar Alijonov",
+  "date_of_birth": "1997-04-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Pakhtakor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64853255",
+  "qid": "Q64853255",
+  "name": "Khojiakbar Alijonov",
+  "description": "Uzbekistani association football player",
+  "place_of_birth_qid": "Q269",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q732106",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q732106",
+  "image_filename": "FC Pakhtakor in March 2019 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Khojiakbar_Alijonov",
+  "transfermarkt_id": "492558",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Tashkent",
+  "wikidata_current_club": "Pakhtakor Tashkent FK",
+  "wikidata_current_club_qid": "Q732106",
+  "photo": {
+    "filename": "FC Pakhtakor in March 2019 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/FC_Pakhtakor_in_March_2019_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/FC_Pakhtakor_in_March_2019_%28cropped%29.jpg",
+    "width": 237,
+    "height": 444,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Meysam Mah'abadi",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/khojiakbar-alijonov.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

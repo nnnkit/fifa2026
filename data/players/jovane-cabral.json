@@ -1,0 +1,62 @@
+{
+  "slug": "jovane-cabral",
+  "display_name": "Jovane Cabral",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1998-06-14",
+  "age": 27,
+  "caps": 25,
+  "goals": 2,
+  "club_from_squad_table": "Estrela Amadora",
+  "wikipedia_title": "Jovane Cabral",
+  "date_of_birth": "1998-06-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Estrela Amadora",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26704562",
+  "qid": "Q26704562",
+  "name": "Jovane Cabral",
+  "description": "Cape Verdean association football player",
+  "place_of_birth_qid": "Q490573",
+  "citizenship_qids": [
+    "Q1011"
+  ],
+  "height_cm": 1.76,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q75729",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q75729",
+  "image_filename": "JovaneCabral 2021.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jovane_Cabral",
+  "transfermarkt_id": "448466",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Cape Verde"
+  ],
+  "place_of_birth": "Assomada",
+  "wikidata_current_club": "Sporting CP",
+  "wikidata_current_club_qid": "Q75729",
+  "photo": {
+    "filename": "JovaneCabral 2021.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/JovaneCabral_2021.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/JovaneCabral_2021.jpg",
+    "width": 668,
+    "height": 720,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://m.youtube.com/channel/UCnJj6L93JX3Jrhzv81ayywA\">Sporting Clube de Portugal</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jovane-cabral.jpg"
+  },
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde"
+}

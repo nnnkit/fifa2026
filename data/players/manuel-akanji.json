@@ -1,0 +1,99 @@
+{
+  "slug": "manuel-akanji",
+  "display_name": "Manuel Akanji",
+  "shirt_no": 5,
+  "position_code": "DF",
+  "dob": "1995-07-19",
+  "age": 30,
+  "caps": 79,
+  "goals": 4,
+  "club_from_squad_table": "Inter Milan",
+  "wikipedia_title": "Manuel Akanji",
+  "date_of_birth": "1995-07-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Inter Milan",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19938984",
+  "qid": "Q19938984",
+  "name": "Manuel Akanji",
+  "description": "Swiss association football player",
+  "place_of_birth_qid": "Q65040",
+  "citizenship_qids": [
+    "Q39",
+    "Q1033"
+  ],
+  "height_cm": 187.0,
+  "weight_kg": 85.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q189671",
+      "start": "2015-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q201969",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3873550",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q678582",
+      "start": "2014-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2018-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q165141",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q631",
+      "start": "2025-09-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q631",
+  "image_filename": "2023-10-04 Fußball, Männer, UEFA Champions League, RB Leipzig - Manchester City FC 1DX 2792 (Manuel Akanji).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Manuel_Akanji",
+  "transfermarkt_id": "284730",
+  "fifa_player_id": "405178",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Switzerland",
+    "Nigeria"
+  ],
+  "place_of_birth": "Neftenbach",
+  "photo": {
+    "filename": "2023-10-04 Fußball, Männer, UEFA Champions League, RB Leipzig - Manchester City FC 1DX 2792 (Manuel Akanji).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2792_%28Manuel_Akanji%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2792_%28Manuel_Akanji%29.jpg/960px-2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2792_%28Manuel_Akanji%29.jpg",
+    "width": 1319,
+    "height": 1620,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/manuel-akanji.jpg"
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

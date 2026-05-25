@@ -1,0 +1,84 @@
+{
+  "slug": "john-souttar",
+  "display_name": "John Souttar",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-09-25",
+  "age": 29,
+  "caps": 22,
+  "goals": 2,
+  "club_from_squad_table": "Rangers",
+  "wikipedia_title": "John Souttar",
+  "date_of_birth": "1996-09-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Rangers",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q3238952",
+  "qid": "Q3238952",
+  "name": "John Souttar",
+  "description": "Scottish association football player (born 1996)",
+  "place_of_birth_qid": "Q36405",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 186.0,
+  "position_qids": [
+    "Q336286",
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q192873",
+      "start": "2013-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q202093",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3589864",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q4140015",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q1812121",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q202093",
+  "image_filename": "John Souttar 2023.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Souttar",
+  "transfermarkt_id": "235767",
+  "positions": [
+    "defender",
+    "centre-back"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Aberdeen",
+  "wikidata_current_club": "Heart of Midlothian F.C.",
+  "wikidata_current_club_qid": "Q202093",
+  "photo": {
+    "filename": "John Souttar 2023.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/John_Souttar_2023.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/John_Souttar_2023.jpg",
+    "width": 859,
+    "height": 1127,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Jim Easton",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/john-souttar.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

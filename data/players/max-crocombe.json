@@ -1,0 +1,92 @@
+{
+  "slug": "max-crocombe",
+  "display_name": "Max Crocombe",
+  "shirt_no": 1,
+  "position_code": "GK",
+  "dob": "1993-08-12",
+  "age": 32,
+  "caps": 22,
+  "goals": 0,
+  "club_from_squad_table": "Millwall",
+  "wikipedia_title": "Max Crocombe",
+  "date_of_birth": "1993-08-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Millwall",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q6794678",
+  "qid": "Q6794678",
+  "name": "Max Crocombe",
+  "description": "New Zealand footballer",
+  "place_of_birth_qid": "Q37100",
+  "citizenship_qids": [
+    "Q664"
+  ],
+  "height_cm": 194.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18525",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q4983239",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q48946",
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q18524",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q9408",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3720046",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q510953",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18525",
+  "image_filename": "Max Crocombe.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Max_Crocombe",
+  "transfermarkt_id": "207843",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "New Zealand"
+  ],
+  "place_of_birth": "Auckland",
+  "wikidata_current_club": "Southport F.C.",
+  "wikidata_current_club_qid": "Q18525",
+  "photo": {
+    "filename": "Max Crocombe.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Max_Crocombe.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Max_Crocombe.png",
+    "width": 500,
+    "height": 600,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sixtrap&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sixtrap (page does not exist)\">Kane Brooker</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/max-crocombe.png"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand"
+}

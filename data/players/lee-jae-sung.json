@@ -1,0 +1,84 @@
+{
+  "slug": "lee-jae-sung",
+  "display_name": "Lee Jae-sung",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1992-08-10",
+  "age": 33,
+  "caps": 103,
+  "goals": 15,
+  "club_from_squad_table": "Mainz 05",
+  "wikipedia_title": "Lee Jae-sung",
+  "wikidata_qid": "Q16234741",
+  "qid": "Q16234741",
+  "name": "Lee Jae-sung",
+  "description": "South Korean footballer, born 1992",
+  "date_of_birth": "1992-08-10",
+  "place_of_birth_qid": "Q41278",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q483152",
+      "start": "2014-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q488454",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q543842",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q157828",
+      "start": "2018-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q105254",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q105254",
+  "image_filename": "이재성 (축구 선수).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Jae-sung",
+  "transfermarkt_id": "314398",
+  "fifa_player_id": "390525",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Mainz 05",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "Ulsan",
+  "wikidata_current_club": "1. FSV Mainz 05",
+  "wikidata_current_club_qid": "Q105254",
+  "photo": {
+    "filename": "이재성 (축구 선수).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/%EC%9D%B4%EC%9E%AC%EC%84%B1_%28%EC%B6%95%EA%B5%AC_%EC%84%A0%EC%88%98%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%EC%9D%B4%EC%9E%AC%EC%84%B1_%28%EC%B6%95%EA%B5%AC_%EC%84%A0%EC%88%98%29.jpg/960px-%EC%9D%B4%EC%9E%AC%EC%84%B1_%28%EC%B6%95%EA%B5%AC_%EC%84%A0%EC%88%98%29.jpg",
+    "width": 1046,
+    "height": 976,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://m.youtube.com/@GoalTVkorea\">GOAL TV</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lee-jae-sung.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

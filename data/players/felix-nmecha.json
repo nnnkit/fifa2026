@@ -1,0 +1,62 @@
+{
+  "slug": "felix-nmecha",
+  "display_name": "Felix Nmecha",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2000-10-10",
+  "age": 25,
+  "caps": 6,
+  "goals": 1,
+  "club_from_squad_table": "Borussia Dortmund",
+  "wikipedia_title": "Felix Nmecha",
+  "date_of_birth": "2000-10-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Borussia Dortmund",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q60889488",
+  "qid": "Q60889488",
+  "name": "Felix Nmecha",
+  "description": "German association football player",
+  "place_of_birth_qid": "Q1055",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 1.9,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q50602",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q50602",
+  "image_filename": "Felix Nmecha 2021.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Felix_Nmecha",
+  "transfermarkt_id": "406640",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Hamburg",
+  "wikidata_current_club": "Manchester City F.C.",
+  "wikidata_current_club_qid": "Q50602",
+  "photo": {
+    "filename": "Felix Nmecha 2021.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Felix_Nmecha_2021.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Felix_Nmecha_2021.jpg",
+    "width": 819,
+    "height": 1529,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/felix-nmecha.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

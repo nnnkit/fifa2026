@@ -1,0 +1,89 @@
+{
+  "slug": "jefferson-lerma",
+  "display_name": "Jefferson Lerma",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1994-10-25",
+  "age": 31,
+  "caps": 64,
+  "goals": 5,
+  "club_from_squad_table": "Crystal Palace",
+  "wikipedia_title": "Jefferson Lerma",
+  "date_of_birth": "1994-10-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Crystal Palace",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16300824",
+  "qid": "Q16300824",
+  "name": "Jefferson Lerma",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q1093505",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 179.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q8823",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q332661",
+      "start": "2013-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q19568",
+      "start": "2018-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q212564",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q8823",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q19467",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19467",
+  "image_filename": "Jefferson Lerma 2018.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jefferson_Lerma",
+  "transfermarkt_id": "262980",
+  "fifa_player_id": "395550",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "El Cerrito",
+  "wikidata_current_club": "Crystal Palace F.C.",
+  "wikidata_current_club_qid": "Q19467",
+  "photo": {
+    "filename": "Jefferson Lerma 2018.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jefferson_Lerma_2018.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jefferson_Lerma_2018.png",
+    "width": 519,
+    "height": 717,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "AFC Bournemouth",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jefferson-lerma.png"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

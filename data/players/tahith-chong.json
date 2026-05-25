@@ -1,0 +1,62 @@
+{
+  "slug": "tahith-chong",
+  "display_name": "Tahith Chong",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1999-12-04",
+  "age": 26,
+  "caps": 4,
+  "goals": 2,
+  "club_from_squad_table": "Sheffield United",
+  "wikipedia_title": "Tahith Chong",
+  "date_of_birth": "1999-12-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sheffield United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q24961840",
+  "qid": "Q24961840",
+  "name": "Tahith Chong",
+  "description": "Curaçaoan association football player (born 1999)",
+  "place_of_birth_qid": "Q132679",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18656",
+      "start": "2018-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18656",
+  "image_filename": "Tahith Chong (38487929362).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tahith_Chong",
+  "transfermarkt_id": "344830",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Willemstad",
+  "wikidata_current_club": "Manchester United F.C.",
+  "wikidata_current_club_qid": "Q18656",
+  "photo": {
+    "filename": "Tahith Chong (38487929362).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Tahith_Chong_%2838487929362%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tahith_Chong_%2838487929362%29.jpg/960px-Tahith_Chong_%2838487929362%29.jpg",
+    "width": 1443,
+    "height": 1843,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/143707741@N04\">Kane Brooker</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/tahith-chong.jpg"
+  },
+  "team_slug": "curaçao",
+  "team_country": "Curaçao"
+}

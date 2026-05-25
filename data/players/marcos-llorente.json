@@ -1,0 +1,82 @@
+{
+  "slug": "marcos-llorente",
+  "display_name": "Marcos Llorente",
+  "shirt_no": 5,
+  "position_code": "DF",
+  "dob": "1995-01-30",
+  "age": 31,
+  "caps": 23,
+  "goals": 0,
+  "club_from_squad_table": "Atl\u00e9tico Madrid",
+  "wikipedia_title": "Marcos Llorente",
+  "date_of_birth": "1995-01-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atl\u00e9tico Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21130285",
+  "qid": "Q21130285",
+  "name": "Marcos Llorente",
+  "description": "Spanish association football player",
+  "place_of_birth_qid": "Q1492",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 184.0,
+  "weight_kg": 71.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q12217",
+      "start": "2014-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2015-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q223620",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q8701",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q42267",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8701",
+  "image_filename": "Marcos Llorente 2019.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marcos_Llorente",
+  "transfermarkt_id": "282411",
+  "fifa_player_id": "382739",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Barcelona",
+  "photo": {
+    "filename": "Marcos Llorente 2019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Marcos_Llorente_2019.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Marcos_Llorente_2019.jpg",
+    "width": 932,
+    "height": 1176,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u043d\u0430 \u041d\u044d\u0441\u0441\u0438",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/marcos-llorente.jpg"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain"
+}

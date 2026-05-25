@@ -1,0 +1,97 @@
+{
+  "slug": "tanner-tessmann",
+  "display_name": "Tanner Tessmann",
+  "shirt_no": 6,
+  "position_code": "MF",
+  "dob": "2001-09-24",
+  "age": 24,
+  "caps": 14,
+  "goals": 1,
+  "club_from_squad_table": "Lyon",
+  "wikipedia_title": "Tanner Tessmann",
+  "date_of_birth": "2001-09-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lyon",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64009852",
+  "qid": "Q64009852",
+  "name": "Tanner Tessmann",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q79867",
+  "citizenship_qids": [
+    "Q30"
+  ],
+  "height_cm": 1.88,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q60761240",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q642291",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q501245",
+      "start": "2021-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q3590572",
+      "start": "2021-03-00",
+      "end": "2024-03-00"
+    },
+    {
+      "team_qid": "Q164134",
+      "start": "2021-02-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q287804",
+      "start": "2019-09-00",
+      "end": "2019-09-00"
+    },
+    {
+      "team_qid": "Q704",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873965",
+      "start": "2024-00-00",
+      "end": "2024-00-00"
+    }
+  ],
+  "current_club_qid": "Q704",
+  "image_filename": "Tessmann asse ol 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tanner_Tessmann",
+  "transfermarkt_id": "670096",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United States"
+  ],
+  "place_of_birth": "Birmingham",
+  "wikidata_current_club": "Olympique Lyonnais",
+  "wikidata_current_club_qid": "Q704",
+  "photo": {
+    "filename": "Tessmann asse ol 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tessmann_asse_ol_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tessmann_asse_ol_2425.png",
+    "width": 512,
+    "height": 779,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/tanner-tessmann.png"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

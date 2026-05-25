@@ -1,0 +1,70 @@
+{
+  "slug": "vladimir-nazarov",
+  "display_name": "Vladimir Nazarov",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2002-06-03",
+  "age": 24,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Pakhtakor",
+  "wikipedia_title": "Vladimir Nazarov (footballer)",
+  "date_of_birth": "2002-06-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Pakhtakor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q117356097",
+  "qid": "Q117356097",
+  "name": "Vladimir Nazarov",
+  "description": "Uzbekistani footballer",
+  "place_of_birth_qid": "Q269",
+  "citizenship_qids": [
+    "Q265",
+    "Q159"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q948182",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q4503858",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    }
+  ],
+  "current_club_qid": "Q4503858",
+  "image_filename": "Vladimir Nazarov in training.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vladimir_Nazarov_(footballer)",
+  "transfermarkt_id": "888630",
+  "wikidata_date_of_birth": "2002-06-08",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Uzbekistan",
+    "Russia"
+  ],
+  "place_of_birth": "Tashkent",
+  "wikidata_current_club": "FC Tsement Mikhaylovka",
+  "wikidata_current_club_qid": "Q4503858",
+  "photo": {
+    "filename": "Vladimir Nazarov in training.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Vladimir_Nazarov_in_training.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Vladimir_Nazarov_in_training.jpg/960px-Vladimir_Nazarov_in_training.jpg",
+    "width": 1136,
+    "height": 1280,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "NOC of Uzbekistan",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/vladimir-nazarov.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

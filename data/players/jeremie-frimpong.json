@@ -1,0 +1,92 @@
+{
+  "slug": "jeremie-frimpong",
+  "display_name": "Jeremie Frimpong",
+  "shirt_no": 12,
+  "position_code": "DF",
+  "dob": "2000-12-10",
+  "age": 25,
+  "caps": 15,
+  "goals": 1,
+  "club_from_squad_table": "Liverpool",
+  "wikipedia_title": "Jeremie Frimpong",
+  "date_of_birth": "2000-12-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Liverpool",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q67198835",
+  "qid": "Q67198835",
+  "name": "Jeremie Frimpong",
+  "description": "Dutch association football player (born 2000)",
+  "place_of_birth_qid": "Q727",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 171.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19593",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q104761",
+      "start": "2021-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q514714",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q13882315",
+      "start": "2018-11-15",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1130849",
+      "start": "2025-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1130849",
+  "image_filename": "Jeremie Frimpong 04012026 (3) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jeremie_Frimpong",
+  "transfermarkt_id": "484547",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Amsterdam",
+  "wikidata_current_club": "Liverpool F.C.",
+  "wikidata_current_club_qid": "Q1130849",
+  "photo": {
+    "filename": "Jeremie Frimpong 04012026 (3) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Jeremie_Frimpong_04012026_%283%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jeremie_Frimpong_04012026_%283%29_%28cropped%29.jpg/960px-Jeremie_Frimpong_04012026_%283%29_%28cropped%29.jpg",
+    "width": 3375,
+    "height": 3431,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jeremie-frimpong.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

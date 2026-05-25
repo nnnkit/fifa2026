@@ -1,0 +1,43 @@
+{
+  "slug": "luca-jaquez",
+  "display_name": "Luca Jaquez",
+  "shirt_no": 25,
+  "position_code": "DF",
+  "dob": "2003-06-02",
+  "age": 23,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "VfB Stuttgart",
+  "wikipedia_title": "Luca Jaquez",
+  "date_of_birth": "2003-06-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "VfB Stuttgart",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q122160785",
+  "qid": "Q122160785",
+  "name": "Luca Jaquez",
+  "description": "Swiss footballer",
+  "place_of_birth_qid": "Q4191",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 187.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luca_Jaquez",
+  "transfermarkt_id": "539798",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Lucerne",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

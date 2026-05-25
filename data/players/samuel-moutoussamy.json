@@ -1,0 +1,85 @@
+{
+  "slug": "samuel-moutoussamy",
+  "display_name": "Samuel Moutoussamy",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-08-12",
+  "age": 29,
+  "caps": 56,
+  "goals": 0,
+  "club_from_squad_table": "Atromitos",
+  "wikipedia_title": "Samuel Moutoussamy",
+  "date_of_birth": "1996-08-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atromitos",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q37453754",
+  "qid": "Q37453754",
+  "name": "Samuel Moutoussamy",
+  "description": "Congolese association football player (born 1996)",
+  "place_of_birth_qid": "Q171689",
+  "citizenship_qids": [
+    "Q142",
+    "Q974"
+  ],
+  "height_cm": 174.0,
+  "weight_kg": 61.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q192071",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q854167",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q270080",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q704",
+      "start": "2011-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q192071",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    }
+  ],
+  "current_club_qid": "Q192071",
+  "image_filename": "Samuel Moutoussamy 2018.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Moutoussamy",
+  "transfermarkt_id": "353403",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "France",
+    "Democratic Republic of the Congo"
+  ],
+  "place_of_birth": "12th arrondissement of Paris",
+  "wikidata_current_club": "FC Nantes",
+  "wikidata_current_club_qid": "Q192071",
+  "photo": {
+    "filename": "Samuel Moutoussamy 2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Samuel_Moutoussamy_2018.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Samuel_Moutoussamy_2018.jpg",
+    "width": 689,
+    "height": 919,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37972999@N07\">James Boyes</a> from UK",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/samuel-moutoussamy.jpg"
+  },
+  "team_slug": "dr-congo",
+  "team_country": "DR Congo"
+}

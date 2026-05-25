@@ -1,0 +1,96 @@
+{
+  "slug": "sebastián-soria",
+  "display_name": "Sebastián Soria",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1983-11-08",
+  "age": 42,
+  "caps": 124,
+  "goals": 39,
+  "club_from_squad_table": "Qatar SC",
+  "wikipedia_title": "Sebastián Soria",
+  "date_of_birth": "1983-11-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Qatar SC",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q1191105",
+  "qid": "Q1191105",
+  "name": "Sebastián Soria",
+  "description": "Qatari footballer",
+  "place_of_birth_qid": "Q309442",
+  "citizenship_qids": [
+    "Q77",
+    "Q846"
+  ],
+  "height_cm": 186.0,
+  "weight_kg": 86.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1131189",
+      "start": "2002-01-01",
+      "end": "2004-01-01"
+    },
+    {
+      "team_qid": "Q1056948",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q428211",
+      "start": "2004-01-01",
+      "end": "2005-01-01"
+    },
+    {
+      "team_qid": "Q1051203",
+      "start": "2005-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q311268",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2006-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q963238",
+      "start": "2006-01-01",
+      "end": "2006-01-01"
+    }
+  ],
+  "current_club_qid": "Q311268",
+  "image_filename": "Sebastian Soria.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Soria",
+  "transfermarkt_id": "64868",
+  "fifa_player_id": "278161",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Uruguay",
+    "Qatar"
+  ],
+  "place_of_birth": null,
+  "wikidata_current_club": "Al-Rayyan",
+  "wikidata_current_club_qid": "Q311268",
+  "photo": {
+    "filename": "Sebastian Soria.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sebastian_Soria.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sebastian_Soria.jpg/960px-Sebastian_Soria.jpg",
+    "width": 1800,
+    "height": 2798,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "By Doha Stadium Plus",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/sebastián-soria.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "william-saliba",
+  "display_name": "William Saliba",
+  "shirt_no": 17,
+  "position_code": "DF",
+  "dob": "2001-03-24",
+  "age": 25,
+  "caps": 31,
+  "goals": 0,
+  "club_from_squad_table": "Arsenal",
+  "wikipedia_title": "William Saliba",
+  "date_of_birth": "2001-03-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Arsenal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q56868118",
+  "qid": "Q56868118",
+  "name": "William Saliba",
+  "description": "French footballer (born 2001)",
+  "place_of_birth_qid": "Q237394",
+  "citizenship_qids": [
+    "Q142",
+    "Q822",
+    "Q1009"
+  ],
+  "height_cm": 192.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19521",
+      "start": "2018-07-01",
+      "end": "2019-07-25"
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2019-07-25",
+      "end": null
+    },
+    {
+      "team_qid": "Q19521",
+      "start": "2019-07-25",
+      "end": "2020-06-30"
+    },
+    {
+      "team_qid": "Q132885",
+      "start": "2021-07-15",
+      "end": "2022-06-30"
+    },
+    {
+      "team_qid": "Q185163",
+      "start": "2021-01-04",
+      "end": "2021-06-30"
+    },
+    {
+      "team_qid": "Q47774",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q9617",
+  "image_filename": "1 william saliba arsenal 2025 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/William_Saliba",
+  "transfermarkt_id": "495666",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "France",
+    "Lebanon",
+    "Cameroon"
+  ],
+  "place_of_birth": "Bondy",
+  "wikidata_current_club": "Arsenal F.C.",
+  "wikidata_current_club_qid": "Q9617",
+  "photo": {
+    "filename": "1 william saliba arsenal 2025 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/1_william_saliba_arsenal_2025_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/1_william_saliba_arsenal_2025_%28cropped%29.jpg/960px-1_william_saliba_arsenal_2025_%28cropped%29.jpg",
+    "width": 1892,
+    "height": 2842,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\">Chensiyuan</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/william-saliba.jpg"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

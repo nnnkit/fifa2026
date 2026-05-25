@@ -1,0 +1,89 @@
+{
+  "slug": "matheus-nunes",
+  "display_name": "Matheus Nunes",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-08-27",
+  "age": 27,
+  "caps": 19,
+  "goals": 2,
+  "club_from_squad_table": "Manchester City",
+  "wikipedia_title": "Matheus Nunes",
+  "date_of_birth": "1998-08-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q96211488",
+  "qid": "Q96211488",
+  "name": "Matheus Nunes",
+  "description": "Portuguese association football player (born 1998)",
+  "place_of_birth_qid": "Q8678",
+  "citizenship_qids": [
+    "Q155",
+    "Q45"
+  ],
+  "height_cm": 1.83,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q10291755",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q634829",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q75729",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q19500",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2023-09-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q267245",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q50602",
+  "image_filename": "Matheus Nunes USMNT v Portugal Mar 31 2026-21.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Matheus_Nunes",
+  "transfermarkt_id": "601883",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Brazil",
+    "Portugal"
+  ],
+  "place_of_birth": "Rio de Janeiro",
+  "wikidata_current_club": "Manchester City F.C.",
+  "wikidata_current_club_qid": "Q50602",
+  "photo": {
+    "filename": "Matheus Nunes USMNT v Portugal Mar 31 2026-21.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Matheus_Nunes_USMNT_v_Portugal_Mar_31_2026-21.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Matheus_Nunes_USMNT_v_Portugal_Mar_31_2026-21.jpg/960px-Matheus_Nunes_USMNT_v_Portugal_Mar_31_2026-21.jpg",
+    "width": 3333,
+    "height": 5000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/matheus-nunes.jpg"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

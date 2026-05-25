@@ -1,0 +1,108 @@
+{
+  "slug": "jhon-c\u00f3rdoba",
+  "display_name": "Jhon C\u00f3rdoba",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1993-05-11",
+  "age": 33,
+  "caps": 21,
+  "goals": 6,
+  "club_from_squad_table": "Krasnodar",
+  "wikipedia_title": "Jhon C\u00f3rdoba",
+  "date_of_birth": "1993-05-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Krasnodar",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q209847",
+  "qid": "Q209847",
+  "name": "Jhon C\u00f3rdoba",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q1441410",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 84.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q8812",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q332636",
+      "start": "2010-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q1426348",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q606210",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1243720",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q8780",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q105254",
+      "start": "2015-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q1641573",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q105254",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q220854",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q105254",
+  "image_filename": "Jhon C\u00f3rdoba, FC K\u00f6ln; 29 Jul 2018.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jhon_C%C3%B3rdoba",
+  "transfermarkt_id": "185245",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Istmina",
+  "wikidata_current_club": "1. FSV Mainz 05",
+  "wikidata_current_club_qid": "Q105254",
+  "photo": {
+    "filename": "Jhon C\u00f3rdoba, FC K\u00f6ln; 29 Jul 2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Jhon_C%C3%B3rdoba%2C_FC_K%C3%B6ln%3B_29_Jul_2018.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jhon_C%C3%B3rdoba%2C_FC_K%C3%B6ln%3B_29_Jul_2018.jpg/960px-Jhon_C%C3%B3rdoba%2C_FC_K%C3%B6ln%3B_29_Jul_2018.jpg",
+    "width": 2103,
+    "height": 3000,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/132646954@N02\">dronepicr</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jhon-c\u00f3rdoba.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

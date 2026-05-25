@@ -1,0 +1,111 @@
+{
+  "slug": "luka-modri\u0107",
+  "display_name": "Luka Modri\u0107",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1985-09-09",
+  "age": 40,
+  "caps": 196,
+  "goals": 28,
+  "club_from_squad_table": "Milan",
+  "wikipedia_title": "Luka Modri\u0107",
+  "date_of_birth": "1985-09-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Milan",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q483837",
+  "qid": "Q483837",
+  "name": "Luka Modri\u0107",
+  "description": "Croatian association football player (born 1985)",
+  "place_of_birth_qid": "Q3370",
+  "citizenship_qids": [
+    "Q224"
+  ],
+  "height_cm": 174.0,
+  "weight_kg": 65.0,
+  "position_qids": [
+    "Q6008848",
+    "Q90326494"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q399282",
+      "start": "2003-01-01",
+      "end": "2004-01-01"
+    },
+    {
+      "team_qid": "Q723644",
+      "start": "2004-01-01",
+      "end": "2005-01-01"
+    },
+    {
+      "team_qid": "Q172803",
+      "start": "2003-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q18741",
+      "start": "2008-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q3589940",
+      "start": "2001-01-01",
+      "end": "2001-01-01"
+    },
+    {
+      "team_qid": "Q3446766",
+      "start": "2003-01-01",
+      "end": "2004-01-01"
+    },
+    {
+      "team_qid": "Q2331381",
+      "start": "2004-01-01",
+      "end": "2005-01-01"
+    },
+    {
+      "team_qid": "Q134479",
+      "start": "2006-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2012-00-00",
+      "end": "2025-07-00"
+    },
+    {
+      "team_qid": "Q1543",
+      "start": "2025-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1543",
+  "image_filename": "Luka Modric Interview 2021 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+  "transfermarkt_id": "27992",
+  "fifa_player_id": "241559",
+  "positions": [
+    "central midfielder",
+    "attacking midfielder"
+  ],
+  "citizenship": [
+    "Croatia"
+  ],
+  "place_of_birth": "Zadar",
+  "wikidata_current_club": "AC Milan",
+  "wikidata_current_club_qid": "Q1543",
+  "photo": {
+    "filename": "Luka Modric Interview 2021 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Luka_Modric_Interview_2021_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Luka_Modric_Interview_2021_%28cropped%29.jpg",
+    "width": 559,
+    "height": 713,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Real Madrid",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/luka-modri\u0107.jpg"
+  },
+  "team_slug": "croatia",
+  "team_country": "Croatia"
+}

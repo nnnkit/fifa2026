@@ -1,0 +1,62 @@
+{
+  "slug": "ahmed-abou-el-fotouh",
+  "display_name": "Ahmed Abou El Fotouh",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-03-22",
+  "age": 28,
+  "caps": 38,
+  "goals": 1,
+  "club_from_squad_table": "Zamalek",
+  "wikipedia_title": "Ahmed Abou El Fotouh",
+  "date_of_birth": "1998-03-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Zamalek",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27585643",
+  "qid": "Q27585643",
+  "name": "Ahmed Aboul Fotouh",
+  "description": "Egyptian association football player",
+  "place_of_birth_qid": "Q85",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "height_cm": 175.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q286504",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q286504",
+  "image_filename": "Elfotouh.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_Abou_El_Fotouh",
+  "transfermarkt_id": "465966",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "place_of_birth": "Cairo",
+  "wikidata_current_club": "Zamalek SC",
+  "wikidata_current_club_qid": "Q286504",
+  "photo": {
+    "filename": "Elfotouh.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Elfotouh.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Elfotouh.jpg",
+    "width": 153,
+    "height": 383,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Franco237",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ahmed-abou-el-fotouh.jpg"
+  },
+  "team_slug": "egypt",
+  "team_country": "Egypt"
+}

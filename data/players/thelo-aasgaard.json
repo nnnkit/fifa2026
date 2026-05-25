@@ -1,0 +1,49 @@
+{
+  "slug": "thelo-aasgaard",
+  "display_name": "Thelo Aasgaard",
+  "shirt_no": 19,
+  "position_code": "MF",
+  "dob": "2002-05-02",
+  "age": 24,
+  "caps": 6,
+  "goals": 5,
+  "club_from_squad_table": "Rangers",
+  "wikipedia_title": "Thelo Aasgaard",
+  "date_of_birth": "2002-05-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Rangers",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q100711783",
+  "qid": "Q100711783",
+  "name": "Thelo Aasgaard",
+  "description": "Norwegian association football player",
+  "place_of_birth_qid": "Q24826",
+  "citizenship_qids": [
+    "Q20",
+    "Q145"
+  ],
+  "height_cm": 188.0,
+  "teams": [
+    {
+      "team_qid": "Q19597",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19597",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thelo_Aasgaard",
+  "transfermarkt_id": "647384",
+  "citizenship": [
+    "Norway",
+    "United Kingdom"
+  ],
+  "place_of_birth": "Liverpool",
+  "wikidata_current_club": "Rangers F.C.",
+  "wikidata_current_club_qid": "Q19597",
+  "team_slug": "norway",
+  "team_country": "Norway",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

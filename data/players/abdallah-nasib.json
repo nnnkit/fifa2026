@@ -1,0 +1,87 @@
+{
+  "slug": "abdallah-nasib",
+  "display_name": "Abdallah Nasib",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1994-02-25",
+  "age": 32,
+  "caps": 64,
+  "goals": 3,
+  "club_from_squad_table": "Al-Zawraa",
+  "wikipedia_title": "Abdallah Nasib",
+  "date_of_birth": "1994-02-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Zawraa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q124242129",
+  "qid": "Q124242129",
+  "name": "Abdallah Nasib",
+  "description": "Jordanian professional footballer",
+  "place_of_birth_qid": "Q180522",
+  "citizenship_qids": [
+    "Q810"
+  ],
+  "height_cm": 184.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q7711263",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q2829403",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q2084802",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q285649",
+      "start": "2018-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q2829355",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q275940",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2829355",
+  "image_filename": "Abdallah Nasib.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abdallah_Nasib",
+  "transfermarkt_id": "882197",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Jordan"
+  ],
+  "place_of_birth": "Aqaba",
+  "wikidata_current_club": "Al-Hussein SC",
+  "wikidata_current_club_qid": "Q2829355",
+  "photo": {
+    "filename": "Abdallah Nasib.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Abdallah_Nasib.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Abdallah_Nasib.png",
+    "width": 720,
+    "height": 1106,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "M.Sadegh Nikgostar",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/abdallah-nasib.png"
+  },
+  "team_slug": "jordan",
+  "team_country": "Jordan"
+}

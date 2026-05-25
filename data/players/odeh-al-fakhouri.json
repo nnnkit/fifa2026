@@ -1,0 +1,77 @@
+{
+  "slug": "odeh-al-fakhouri",
+  "display_name": "Odeh Al-Fakhouri",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2005-11-22",
+  "age": 20,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "Pyramids",
+  "wikipedia_title": "Odeh Al-Fakhouri",
+  "date_of_birth": "2005-11-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Pyramids",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q130508829",
+  "qid": "Q130508829",
+  "name": "Odeh Al-Fakhouri",
+  "description": "Jordanian footballer",
+  "place_of_birth_qid": "Q3805",
+  "citizenship_qids": [
+    "Q810"
+  ],
+  "height_cm": 185.0,
+  "teams": [
+    {
+      "team_qid": "Q130342431",
+      "start": "2019-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q285702",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q137177445",
+      "start": "2012-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q2829355",
+      "start": "2024-00-00",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q18207291",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18207291",
+  "image_filename": "Sepahan and Al-Hussein Jordan football teams meet 10 (2025) esfahanzibaonline.ir (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Odeh_Al-Fakhouri",
+  "transfermarkt_id": "1252820",
+  "wikidata_date_of_birth": "2005-11-20",
+  "citizenship": [
+    "Jordan"
+  ],
+  "place_of_birth": "Amman",
+  "wikidata_current_club": "Pyramids FC",
+  "wikidata_current_club_qid": "Q18207291",
+  "photo": {
+    "filename": "Sepahan and Al-Hussein Jordan football teams meet 10 (2025) esfahanzibaonline.ir (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Sepahan_and_Al-Hussein_Jordan_football_teams_meet_10_%282025%29_esfahanzibaonline.ir_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Sepahan_and_Al-Hussein_Jordan_football_teams_meet_10_%282025%29_esfahanzibaonline.ir_%28cropped%29.jpg",
+    "width": 685,
+    "height": 975,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "\u0645\u062d\u0645\u062f \u06a9\u0627\u0638\u0645 \u06a9\u0645\u0627\u0644\u06cc",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/odeh-al-fakhouri.jpg"
+  },
+  "team_slug": "jordan",
+  "team_country": "Jordan"
+}

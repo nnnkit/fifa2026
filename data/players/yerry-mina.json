@@ -1,0 +1,104 @@
+{
+  "slug": "yerry-mina",
+  "display_name": "Yerry Mina",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1994-09-23",
+  "age": 31,
+  "caps": 52,
+  "goals": 8,
+  "club_from_squad_table": "Cagliari",
+  "wikipedia_title": "Yerry Mina",
+  "date_of_birth": "1994-09-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Cagliari",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16648816",
+  "qid": "Q16648816",
+  "name": "Yerry Mina",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q3091297",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 195.0,
+  "weight_kg": 94.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1424072",
+      "start": "2014-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q332858",
+      "start": "2013-01-01",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q80964",
+      "start": "2016-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q16581702",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2018-01-11",
+      "end": "2018-08-09"
+    },
+    {
+      "team_qid": "Q212564",
+      "start": "2016-06-04",
+      "end": null
+    },
+    {
+      "team_qid": "Q5794",
+      "start": "2018-08-09",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q2052",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q1900",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1900",
+  "image_filename": "FWC 2018 - Round of 16 - COL v ENG - Photo 103 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yerry_Mina",
+  "transfermarkt_id": "289446",
+  "fifa_player_id": "395552",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Guachen\u00e9",
+  "wikidata_current_club": "Cagliari Calcio",
+  "wikidata_current_club_qid": "Q1900",
+  "photo": {
+    "filename": "FWC 2018 - Round of 16 - COL v ENG - Photo 103 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_103_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_103_%28cropped%29.jpg",
+    "width": 663,
+    "height": 1068,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Voltmetro\" title=\"User:Voltmetro\">Oleg Bkhambri (Voltmetro)</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/yerry-mina.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "érik-lira",
+  "display_name": "Érik Lira",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2000-05-08",
+  "age": 26,
+  "caps": 23,
+  "goals": 0,
+  "club_from_squad_table": "Cruz Azul",
+  "wikipedia_title": "Érik Lira",
+  "wikidata_qid": "Q98593181",
+  "qid": "Q98593181",
+  "name": "Erik Lira",
+  "description": "Mexican footballer",
+  "date_of_birth": "2000-05-08",
+  "place_of_birth_qid": "Q645293",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 1.72,
+  "position_qids": [
+    "Q193592"
+  ],
+  "image_filename": "Erik Lira.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89rik_Lira",
+  "transfermarkt_id": "602324",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Cuauhtémoc",
+  "current_club": "Cruz Azul",
+  "current_club_source": "wikipedia-squad-table",
+  "photo": {
+    "filename": "Erik Lira.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Erik_Lira.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Erik_Lira.png",
+    "width": 355,
+    "height": 444,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/érik-lira.png"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

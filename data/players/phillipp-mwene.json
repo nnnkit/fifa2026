@@ -1,0 +1,88 @@
+{
+  "slug": "phillipp-mwene",
+  "display_name": "Phillipp Mwene",
+  "shirt_no": 16,
+  "position_code": "DF",
+  "dob": "1994-01-29",
+  "age": 32,
+  "caps": 29,
+  "goals": 0,
+  "club_from_squad_table": "Mainz 05",
+  "wikipedia_title": "Phillipp Mwene",
+  "date_of_birth": "1994-01-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Mainz 05",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q11634138",
+  "qid": "Q11634138",
+  "name": "Philipp Mwene",
+  "description": "Austrian association football player",
+  "place_of_birth_qid": "Q1741",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 170.0,
+  "weight_kg": 66.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q131209",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q4512",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q107421",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q302977",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q303033",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q8466",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q107421",
+  "image_filename": "Phillipp-mwene.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Phillipp_Mwene",
+  "transfermarkt_id": "127573",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Vienna",
+  "wikidata_current_club": "VfB Stuttgart II",
+  "wikidata_current_club_qid": "Q107421",
+  "photo": {
+    "filename": "Phillipp-mwene.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Phillipp-mwene.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Phillipp-mwene.jpg",
+    "width": 555,
+    "height": 833,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Thomas Hilmes / <a rel=\"nofollow\" class=\"external free\" href=\"https://www.der-betze-brennt.de\">https://www.der-betze-brennt.de</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/phillipp-mwene.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

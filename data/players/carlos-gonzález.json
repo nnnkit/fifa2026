@@ -1,0 +1,83 @@
+{
+  "slug": "carlos-gonzález",
+  "display_name": "Carlos González",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1993-02-04",
+  "age": 33,
+  "caps": 15,
+  "goals": 0,
+  "club_from_squad_table": "Independiente del Valle",
+  "wikipedia_title": "Carlos González (footballer, born 1993)",
+  "date_of_birth": "1993-02-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Independiente del Valle",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16543245",
+  "qid": "Q16543245",
+  "name": "Carlos González",
+  "description": "Paraguayan Footballer",
+  "place_of_birth_qid": "Q288685",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 76.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3296621",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q515425",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q719338",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q1143000",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q30115947",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q3296621",
+  "image_filename": "Carlos Gonzalez xolos.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Gonz%C3%A1lez_(footballer,_born_1993)",
+  "transfermarkt_id": "366620",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Villarrica",
+  "wikidata_current_club": "San Marcos de Arica",
+  "wikidata_current_club_qid": "Q3296621",
+  "photo": {
+    "filename": "Carlos Gonzalez xolos.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Carlos_Gonzalez_xolos.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Carlos_Gonzalez_xolos.jpg",
+    "width": 557,
+    "height": 683,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Philip.theiss&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Philip.theiss (page does not exist)\">Philip.theiss</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/carlos-gonzález.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

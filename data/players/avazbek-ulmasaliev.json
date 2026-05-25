@@ -1,0 +1,54 @@
+{
+  "slug": "avazbek-ulmasaliev",
+  "display_name": "Avazbek Ulmasaliev",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-03-27",
+  "age": 26,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "AGMK",
+  "wikipedia_title": "Avazbek Ulmasaliev",
+  "date_of_birth": "2000-03-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "AGMK",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q123995807",
+  "qid": "Q123995807",
+  "name": "Avazbek Ulmasaliev",
+  "description": "Uzbekistani footballer",
+  "place_of_birth_qid": "Q487585",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q770528",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q770528",
+  "image_filename": "Avazbek O\u02bblmasaliyev.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Avazbek_Ulmasaliev",
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Tashkent Region",
+  "wikidata_current_club": "FC AGMK",
+  "wikidata_current_club_qid": "Q770528",
+  "photo": {
+    "filename": "Avazbek O\u02bblmasaliyev.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Avazbek_O%CA%BBlmasaliyev.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Avazbek_O%CA%BBlmasaliyev.jpg",
+    "width": 838,
+    "height": 757,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Umarxon_III\" title=\"User:Umarxon III\">Umarxon III</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/avazbek-ulmasaliev.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

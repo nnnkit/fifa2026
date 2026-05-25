@@ -1,0 +1,103 @@
+{
+  "slug": "matheus-cunha",
+  "display_name": "Matheus Cunha",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1999-05-27",
+  "age": 27,
+  "caps": 21,
+  "goals": 1,
+  "club_from_squad_table": "Manchester United",
+  "wikipedia_title": "Matheus Cunha",
+  "date_of_birth": "1999-05-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q35831063",
+  "qid": "Q35831063",
+  "name": "Matheus Cunha",
+  "description": "Brazilian association football player (born 1999)",
+  "place_of_birth_qid": "Q167436",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 1.84,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q3446915"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q321061",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q702455",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q102720",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q8701",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q19500",
+      "start": "2023-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q19500",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q899189",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2025-06-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18656",
+  "image_filename": "Matheus Cunha (cropped) 20180920 Fussball, UEFA Europa League, RB Leipzig - FC Salzburg by Stepro StP 7968 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Matheus_Cunha",
+  "transfermarkt_id": "517894",
+  "positions": [
+    "attacker"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "João Pessoa",
+  "wikidata_current_club": "Manchester United F.C.",
+  "wikidata_current_club_qid": "Q18656",
+  "photo": {
+    "filename": "Matheus Cunha (cropped) 20180920 Fussball, UEFA Europa League, RB Leipzig - FC Salzburg by Stepro StP 7968 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Matheus_Cunha_%28cropped%29_20180920_Fussball%2C_UEFA_Europa_League%2C_RB_Leipzig_-_FC_Salzburg_by_Stepro_StP_7968_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Matheus_Cunha_%28cropped%29_20180920_Fussball%2C_UEFA_Europa_League%2C_RB_Leipzig_-_FC_Salzburg_by_Stepro_StP_7968_%28cropped%29.jpg",
+    "width": 467,
+    "height": 623,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "crop by <a href=\"//commons.wikimedia.org/wiki/User:Ugogames\" class=\"mw-redirect\" title=\"User:Ugogames\">Ugogames</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/matheus-cunha.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

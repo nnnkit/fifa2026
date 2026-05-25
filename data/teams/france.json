@@ -1,0 +1,2494 @@
+{
+  "slug": "france",
+  "country": "France",
+  "wikidata_qid": "Q47774",
+  "fetched_at": "2026-05-24T17:01:28+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "brice-samba",
+      "display_name": "Brice Samba",
+      "shirt_no": 1,
+      "position_code": "GK",
+      "dob": "1994-04-25",
+      "age": 32,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Rennes",
+      "wikipedia_title": "Brice Samba",
+      "date_of_birth": "1994-04-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rennes",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q15627817",
+      "qid": "Q15627817",
+      "name": "Brice Samba",
+      "description": "French-Congolese footballer (born 1994)",
+      "place_of_birth_qid": "Q3241726",
+      "citizenship_qids": [
+        "Q142",
+        "Q971"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 79.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q132885",
+          "start": "2013-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q328658",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q19523",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q193377",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q19490",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19490",
+      "image_filename": "Brice Samba asse rcl 23 24.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brice_Samba",
+      "transfermarkt_id": "191056",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "France",
+        "Republic of the Congo"
+      ],
+      "place_of_birth": "Linzolo",
+      "wikidata_current_club": "Nottingham Forest F.C.",
+      "wikidata_current_club_qid": "Q19490",
+      "photo": {
+        "filename": "Brice Samba asse rcl 23 24.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Brice_Samba_asse_rcl_23_24.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Brice_Samba_asse_rcl_23_24.jpg",
+        "width": 673,
+        "height": 839,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/brice-samba.jpg"
+      }
+    },
+    {
+      "slug": "malo-gusto",
+      "display_name": "Malo Gusto",
+      "shirt_no": 2,
+      "position_code": "DF",
+      "dob": "2003-05-19",
+      "age": 23,
+      "caps": 9,
+      "goals": 0,
+      "club_from_squad_table": "Chelsea",
+      "wikipedia_title": "Malo Gusto",
+      "date_of_birth": "2003-05-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Chelsea",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q78752401",
+      "qid": "Q78752401",
+      "name": "Malo Gusto",
+      "description": "French footballer (born 2003)",
+      "place_of_birth_qid": "Q1056120",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 1.79,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q704",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9616",
+      "image_filename": "Olympique lyonnais - ES Troyes AC L1 19-08-2022 - Malo Gusto.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Malo_Gusto",
+      "transfermarkt_id": "620322",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "D\u00e9cines-Charpieu",
+      "wikidata_current_club": "Chelsea F.C.",
+      "wikidata_current_club_qid": "Q9616",
+      "photo": {
+        "filename": "Olympique lyonnais - ES Troyes AC L1 19-08-2022 - Malo Gusto.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Olympique_lyonnais_-_ES_Troyes_AC_L1_19-08-2022_-_Malo_Gusto.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Olympique_lyonnais_-_ES_Troyes_AC_L1_19-08-2022_-_Malo_Gusto.jpg/960px-Olympique_lyonnais_-_ES_Troyes_AC_L1_19-08-2022_-_Malo_Gusto.jpg",
+        "width": 1853,
+        "height": 3073,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sebleouf\" title=\"User:Sebleouf\">Sebleouf</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/malo-gusto.jpg"
+      }
+    },
+    {
+      "slug": "lucas-digne",
+      "display_name": "Lucas Digne",
+      "shirt_no": 3,
+      "position_code": "DF",
+      "dob": "1993-07-20",
+      "age": 32,
+      "caps": 56,
+      "goals": 0,
+      "club_from_squad_table": "Aston Villa",
+      "wikipedia_title": "Lucas Digne",
+      "date_of_birth": "1993-07-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Aston Villa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q72648",
+      "qid": "Q72648",
+      "name": "Lucas Digne",
+      "description": "French footballer (born 1993)",
+      "place_of_birth_qid": "Q207620",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19516",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2016-00-00",
+          "end": "2018-08-00"
+        },
+        {
+          "team_qid": "Q5794",
+          "start": "2018-08-00",
+          "end": "2022-01-00"
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q18711",
+          "start": "2022-01-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18711",
+      "image_filename": "Lucas Digne Everton (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_Digne",
+      "transfermarkt_id": "126664",
+      "fifa_player_id": "368860",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Meaux",
+      "wikidata_current_club": "Aston Villa F.C.",
+      "wikidata_current_club_qid": "Q18711",
+      "photo": {
+        "filename": "Lucas Digne Everton (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Lucas_Digne_Everton_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Lucas_Digne_Everton_%28cropped%29.jpg",
+        "width": 308,
+        "height": 435,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Espandero\" title=\"User:Espandero\">Espandero</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lucas-digne.jpg"
+      }
+    },
+    {
+      "slug": "dayot-upamecano",
+      "display_name": "Dayot Upamecano",
+      "shirt_no": 4,
+      "position_code": "DF",
+      "dob": "1998-10-27",
+      "age": 27,
+      "caps": 36,
+      "goals": 2,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Dayot Upamecano",
+      "date_of_birth": "1998-10-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20723878",
+      "qid": "Q20723878",
+      "name": "Dayot Upamecano",
+      "description": "French footballer (born 1998)",
+      "place_of_birth_qid": "Q171800",
+      "citizenship_qids": [
+        "Q142",
+        "Q1041"
+      ],
+      "height_cm": 186.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1387293",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q994811",
+          "start": "2015-07-11",
+          "end": "2017-01-13"
+        },
+        {
+          "team_qid": "Q1387293",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2017-01-13",
+          "end": "2021-07-05"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2021-07-05",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2020-09-05",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15789",
+      "image_filename": "2022-07-30 Fu\u00dfball, M\u00e4nner, DFL-Supercup, RB Leipzig - FC Bayern M\u00fcnchen 1DX 3244 by Stepro (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dayot_Upamecano",
+      "transfermarkt_id": "344695",
+      "fifa_player_id": "389876",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "France",
+        "Senegal"
+      ],
+      "place_of_birth": "\u00c9vreux",
+      "wikidata_current_club": "FC Bayern Munich",
+      "wikidata_current_club_qid": "Q15789",
+      "photo": {
+        "filename": "2022-07-30 Fu\u00dfball, M\u00e4nner, DFL-Supercup, RB Leipzig - FC Bayern M\u00fcnchen 1DX 3244 by Stepro (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3244_by_Stepro_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3244_by_Stepro_%28cropped%29.jpg",
+        "width": 786,
+        "height": 1048,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "crop by <a href=\"//commons.wikimedia.org/wiki/User:Sepguilherme\" class=\"mw-redirect\" title=\"User:Sepguilherme\">Sepguilherme</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dayot-upamecano.jpg"
+      }
+    },
+    {
+      "slug": "jules-kound\u00e9",
+      "display_name": "Jules Kound\u00e9",
+      "shirt_no": 5,
+      "position_code": "DF",
+      "dob": "1998-11-12",
+      "age": 27,
+      "caps": 46,
+      "goals": 0,
+      "club_from_squad_table": "Barcelona",
+      "wikipedia_title": "Jules Kound\u00e9",
+      "date_of_birth": "1998-11-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barcelona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q47170176",
+      "qid": "Q47170176",
+      "name": "Jules Kound\u00e9",
+      "description": "French footballer (born 1998)",
+      "place_of_birth_qid": "Q187153",
+      "citizenship_qids": [
+        "Q142",
+        "Q962"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q172476",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q10329",
+          "start": "2019-07-03",
+          "end": "2022-08-27"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2022-08-27",
+          "end": null
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2945334",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        }
+      ],
+      "current_club_qid": "Q7156",
+      "image_filename": "Jules Kound\u00e9 2020.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jules_Kound%C3%A9",
+      "transfermarkt_id": "411975",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "France",
+        "Benin"
+      ],
+      "place_of_birth": "14th arrondissement of Paris",
+      "wikidata_current_club": "Futbol Club Barcelona",
+      "wikidata_current_club_qid": "Q7156",
+      "photo": {
+        "filename": "Jules Kound\u00e9 2020.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jules_Kound%C3%A9_2020.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jules_Kound%C3%A9_2020.jpg",
+        "width": 410,
+        "height": 700,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041f\u0443\u043a\u0430\u043b\u0438\u043a",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jules-kound\u00e9.jpg"
+      }
+    },
+    {
+      "slug": "manu-kon\u00e9",
+      "display_name": "Manu Kon\u00e9",
+      "shirt_no": 6,
+      "position_code": "MF",
+      "dob": "2001-05-17",
+      "age": 25,
+      "caps": 12,
+      "goals": 0,
+      "club_from_squad_table": "Roma",
+      "wikipedia_title": "Manu Kon\u00e9",
+      "date_of_birth": "2001-05-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Roma",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64029237",
+      "qid": "Q64029237",
+      "name": "Manu Kon\u00e9",
+      "description": "French footballer (born 2001)",
+      "place_of_birth_qid": "Q174002",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19518",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q101959",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19518",
+      "image_filename": "Kouadio Manu Kon\u00e9 (2019-08-31) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Manu_Kon%C3%A9",
+      "transfermarkt_id": "624690",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Colombes",
+      "wikidata_current_club": "Toulouse FC",
+      "wikidata_current_club_qid": "Q19518",
+      "photo": {
+        "filename": "Kouadio Manu Kon\u00e9 (2019-08-31) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kouadio_Manu_Kon%C3%A9_%282019-08-31%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kouadio_Manu_Kon%C3%A9_%282019-08-31%29_%28cropped%29.jpg",
+        "width": 745,
+        "height": 997,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gaillac&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gaillac (page does not exist)\">Gaillac</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/manu-kon\u00e9.jpg"
+      }
+    },
+    {
+      "slug": "ousmane-demb\u00e9l\u00e9",
+      "display_name": "Ousmane Demb\u00e9l\u00e9",
+      "shirt_no": 7,
+      "position_code": "FW",
+      "dob": "1997-05-15",
+      "age": 29,
+      "caps": 58,
+      "goals": 7,
+      "club_from_squad_table": "Paris Saint-Germain",
+      "wikipedia_title": "Ousmane Demb\u00e9l\u00e9",
+      "date_of_birth": "1997-05-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris Saint-Germain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20851003",
+      "qid": "Q20851003",
+      "name": "Ousmane Demb\u00e9l\u00e9",
+      "description": "French footballer (born 1997)",
+      "place_of_birth_qid": "Q236736",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 179.0,
+      "weight_kg": 67.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19509",
+          "start": "2015-00-00",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2013-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2015-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2017-00-00",
+          "end": "2023-08-11"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2016-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2023-08-11",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q483020",
+      "image_filename": "Ousmane Demb\u00e9l\u00e9 2018 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9",
+      "transfermarkt_id": "288230",
+      "fifa_player_id": "398680",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Vernon",
+      "wikidata_current_club": "Paris Saint-Germain FC",
+      "wikidata_current_club_qid": "Q483020",
+      "photo": {
+        "filename": "Ousmane Demb\u00e9l\u00e9 2018 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ousmane_Demb%C3%A9l%C3%A9_2018_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ousmane_Demb%C3%A9l%C3%A9_2018_%28cropped%29.jpg",
+        "width": 354,
+        "height": 463,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ousmane-demb\u00e9l\u00e9.jpg"
+      }
+    },
+    {
+      "slug": "aur\u00e9lien-tchouam\u00e9ni",
+      "display_name": "Aur\u00e9lien Tchouam\u00e9ni",
+      "shirt_no": 8,
+      "position_code": "MF",
+      "dob": "2000-01-27",
+      "age": 26,
+      "caps": 44,
+      "goals": 3,
+      "club_from_squad_table": "Real Madrid",
+      "wikipedia_title": "Aur\u00e9lien Tchouam\u00e9ni",
+      "date_of_birth": "2000-01-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q46951844",
+      "qid": "Q46951844",
+      "name": "Aur\u00e9lien Tchouam\u00e9ni",
+      "description": "French footballer (born 2000)",
+      "place_of_birth_qid": "Q30974",
+      "citizenship_qids": [
+        "Q142",
+        "Q1009"
+      ],
+      "height_cm": 187.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q172476",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q180305",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8682",
+      "image_filename": "Aur\u00e9lien Tchouam\u00e9ni.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aur%C3%A9lien_Tchouam%C3%A9ni",
+      "transfermarkt_id": "413112",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France",
+        "Cameroon"
+      ],
+      "place_of_birth": "Rouen",
+      "wikidata_current_club": "Real Madrid Club de F\u00fatbol",
+      "wikidata_current_club_qid": "Q8682",
+      "photo": {
+        "filename": "Aur\u00e9lien Tchouam\u00e9ni.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Aur%C3%A9lien_Tchouam%C3%A9ni.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Aur%C3%A9lien_Tchouam%C3%A9ni.jpg",
+        "width": 600,
+        "height": 904,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u041a\u0438\u0440\u0438\u043b\u043b \u0412\u0435\u043d\u0435\u0434\u0438\u043a\u0442\u043e\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/aur\u00e9lien-tchouam\u00e9ni.jpg"
+      }
+    },
+    {
+      "slug": "marcus-thuram",
+      "display_name": "Marcus Thuram",
+      "shirt_no": 9,
+      "position_code": "FW",
+      "dob": "1997-08-06",
+      "age": 28,
+      "caps": 33,
+      "goals": 3,
+      "club_from_squad_table": "Inter Milan",
+      "wikipedia_title": "Marcus Thuram",
+      "date_of_birth": "1997-08-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Inter Milan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19903718",
+      "qid": "Q19903718",
+      "name": "Marcus Thuram",
+      "description": "French footballer (born 1997)",
+      "place_of_birth_qid": "Q2683",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 192.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19512",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q459148",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q101959",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q631",
+      "image_filename": "MARCUS THURAM - INTER MILAN vs SALZBURG.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Thuram",
+      "transfermarkt_id": "318528",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Parma",
+      "photo": {
+        "filename": "MARCUS THURAM - INTER MILAN vs SALZBURG.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/MARCUS_THURAM_-_INTER_MILAN_vs_SALZBURG.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/MARCUS_THURAM_-_INTER_MILAN_vs_SALZBURG.jpg",
+        "width": 567,
+        "height": 814,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marcus-thuram.jpg"
+      }
+    },
+    {
+      "slug": "kylian-mbapp\u00e9",
+      "display_name": "Kylian Mbapp\u00e9",
+      "shirt_no": 10,
+      "position_code": "FW",
+      "dob": "1998-12-20",
+      "age": 27,
+      "caps": 96,
+      "goals": 56,
+      "club_from_squad_table": "Real Madrid",
+      "wikipedia_title": "Kylian Mbapp\u00e9",
+      "date_of_birth": "1998-12-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21621995",
+      "qid": "Q21621995",
+      "name": "Kylian Mbapp\u00e9",
+      "description": "French association football player",
+      "place_of_birth_qid": "Q90",
+      "citizenship_qids": [
+        "Q142",
+        "Q1009"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q109500422",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q180305",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2018-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2014-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2017-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8682",
+      "image_filename": "2019-07-17 SG Dynamo Dresden vs. Paris Saint-Germain by Sandro Halank\u2013129 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+      "transfermarkt_id": "342229",
+      "fifa_player_id": "389867",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "France",
+        "Cameroon"
+      ],
+      "place_of_birth": "Paris",
+      "wikidata_current_club": "Real Madrid Club de F\u00fatbol",
+      "wikidata_current_club_qid": "Q8682",
+      "photo": {
+        "filename": "2019-07-17 SG Dynamo Dresden vs. Paris Saint-Germain by Sandro Halank\u2013129 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_%28cropped%29.jpg/960px-2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_%28cropped%29.jpg",
+        "width": 1750,
+        "height": 2206,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Carlo Bruil Fotografie",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kylian-mbapp\u00e9.jpg"
+      }
+    },
+    {
+      "slug": "michael-olise",
+      "display_name": "Michael Olise",
+      "shirt_no": 11,
+      "position_code": "FW",
+      "dob": "2001-12-12",
+      "age": 24,
+      "caps": 15,
+      "goals": 4,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Michael Olise",
+      "date_of_birth": "2001-12-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q62050484",
+      "qid": "Q62050484",
+      "name": "Michael Olise",
+      "description": "French footballer (born 2001)",
+      "place_of_birth_qid": "Q1774507",
+      "citizenship_qids": [
+        "Q142",
+        "Q145"
+      ],
+      "height_cm": 1.84,
+      "position_qids": [
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15789",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18729",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q19467",
+          "start": "2021-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q3590215",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15789",
+      "image_filename": "FC RB Salzburg gegen FC Bayern M\u00fcnchen (2026-01-06 Testspiel) 10.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Olise",
+      "transfermarkt_id": "566723",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "France",
+        "United Kingdom"
+      ],
+      "place_of_birth": "White City",
+      "wikidata_current_club": "FC Bayern Munich",
+      "wikidata_current_club_qid": "Q15789",
+      "photo": {
+        "filename": "FC RB Salzburg gegen FC Bayern M\u00fcnchen (2026-01-06 Testspiel) 10.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_10.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_10.jpg/960px-FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_10.jpg",
+        "width": 2673,
+        "height": 3370,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/michael-olise.jpg"
+      }
+    },
+    {
+      "slug": "bradley-barcola",
+      "display_name": "Bradley Barcola",
+      "shirt_no": 12,
+      "position_code": "FW",
+      "dob": "2002-09-02",
+      "age": 23,
+      "caps": 18,
+      "goals": 3,
+      "club_from_squad_table": "Paris Saint-Germain",
+      "wikipedia_title": "Bradley Barcola",
+      "date_of_birth": "2002-09-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris Saint-Germain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q99670930",
+      "qid": "Q99670930",
+      "name": "Bradley Barcola",
+      "description": "French footballer (born 2002)",
+      "place_of_birth_qid": "Q582",
+      "citizenship_qids": [
+        "Q142",
+        "Q945"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3924852",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q704",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q23886907",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q483020",
+      "image_filename": "Bradley Barcola vs MHSC 7 May 2023.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bradley_Barcola",
+      "transfermarkt_id": "708265",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "France",
+        "Togo"
+      ],
+      "place_of_birth": "Villeurbanne",
+      "wikidata_current_club": "Paris Saint-Germain FC",
+      "wikidata_current_club_qid": "Q483020",
+      "photo": {
+        "filename": "Bradley Barcola vs MHSC 7 May 2023.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bradley_Barcola_vs_MHSC_7_May_2023.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bradley_Barcola_vs_MHSC_7_May_2023.png",
+        "width": 660,
+        "height": 742,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "MHSC TV - Montpellier H\u00e9rault Sport Club",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/bradley-barcola.png"
+      }
+    },
+    {
+      "slug": "ngolo-kant\u00e9",
+      "display_name": "N'Golo Kant\u00e9",
+      "shirt_no": 13,
+      "position_code": "MF",
+      "dob": "1991-03-29",
+      "age": 35,
+      "caps": 67,
+      "goals": 2,
+      "club_from_squad_table": "Fenerbah\u00e7e",
+      "wikipedia_title": "N'Golo Kant\u00e9",
+      "date_of_birth": "1991-03-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fenerbah\u00e7e",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16665941",
+      "qid": "Q16665941",
+      "name": "N'Golo Kant\u00e9",
+      "description": "French footballer (born 1991)",
+      "place_of_birth_qid": "Q90",
+      "citizenship_qids": [
+        "Q142",
+        "Q912"
+      ],
+      "height_cm": 171.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q193377",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q19481",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q309400",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2016-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q309480",
+          "start": "2023-00-00",
+          "end": "2026-02-03"
+        },
+        {
+          "team_qid": "Q6601875",
+          "start": "2026-02-03",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q6601875",
+      "image_filename": "N'Golo Kant\u00e9 at Baku before 2019 UEFA Europe League Final.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/N%27Golo_Kant%C3%A9",
+      "transfermarkt_id": "225083",
+      "fifa_player_id": "398681",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France",
+        "Mali"
+      ],
+      "place_of_birth": "Paris",
+      "wikidata_current_club": "Fenerbah\u00e7e Istanbul",
+      "wikidata_current_club_qid": "Q6601875",
+      "photo": {
+        "filename": "N'Golo Kant\u00e9 at Baku before 2019 UEFA Europe League Final.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/N%27Golo_Kant%C3%A9_at_Baku_before_2019_UEFA_Europe_League_Final.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/N%27Golo_Kant%C3%A9_at_Baku_before_2019_UEFA_Europe_League_Final.jpg",
+        "width": 675,
+        "height": 698,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Amir Hosseini",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ngolo-kant\u00e9.jpg"
+      }
+    },
+    {
+      "slug": "adrien-rabiot",
+      "display_name": "Adrien Rabiot",
+      "shirt_no": 14,
+      "position_code": "MF",
+      "dob": "1995-04-03",
+      "age": 31,
+      "caps": 57,
+      "goals": 7,
+      "club_from_squad_table": "Milan",
+      "wikipedia_title": "Adrien Rabiot",
+      "date_of_birth": "1995-04-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Milan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18962",
+      "qid": "Q18962",
+      "name": "Adrien Rabiot",
+      "description": "French footballer (born 1995)",
+      "place_of_birth_qid": "Q274327",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 191.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q483020",
+          "start": "2012-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q19518",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2013-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q2945336",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2016-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2019-07-00",
+          "end": "2024-07-00"
+        },
+        {
+          "team_qid": "Q132885",
+          "start": "2024-09-00",
+          "end": "2025-08-00"
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2025-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1543",
+      "image_filename": "Rabiot asse om 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Adrien_Rabiot",
+      "transfermarkt_id": "182913",
+      "fifa_player_id": "402047",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Saint-Maurice",
+      "wikidata_current_club": "AC Milan",
+      "wikidata_current_club_qid": "Q1543",
+      "photo": {
+        "filename": "Rabiot asse om 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Rabiot_asse_om_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Rabiot_asse_om_2425.png",
+        "width": 578,
+        "height": 760,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/adrien-rabiot.png"
+      }
+    },
+    {
+      "slug": "ibrahima-konat\u00e9",
+      "display_name": "Ibrahima Konat\u00e9",
+      "shirt_no": 15,
+      "position_code": "DF",
+      "dob": "1999-05-25",
+      "age": 27,
+      "caps": 27,
+      "goals": 0,
+      "club_from_squad_table": "Liverpool",
+      "wikipedia_title": "Ibrahima Konat\u00e9",
+      "date_of_birth": "1999-05-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Liverpool",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30301454",
+      "qid": "Q30301454",
+      "name": "Ibrahima Konat\u00e9",
+      "description": "French footballer (born 1999)",
+      "place_of_birth_qid": "Q175129",
+      "citizenship_qids": [
+        "Q142",
+        "Q912"
+      ],
+      "height_cm": 194.0,
+      "weight_kg": 95.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q16565840",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q19512",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2017-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1130849",
+      "image_filename": "Liverpool FC gegen 1. FSV Mainz 05 (Testspiel 23. Juli 2021) 15 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ibrahima_Konat%C3%A9",
+      "transfermarkt_id": "357119",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "France",
+        "Mali"
+      ],
+      "place_of_birth": "13th arrondissement of Paris",
+      "wikidata_current_club": "Liverpool F.C.",
+      "wikidata_current_club_qid": "Q1130849",
+      "photo": {
+        "filename": "Liverpool FC gegen 1. FSV Mainz 05 (Testspiel 23. Juli 2021) 15 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Liverpool_FC_gegen_1._FSV_Mainz_05_%28Testspiel_23._Juli_2021%29_15_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Liverpool_FC_gegen_1._FSV_Mainz_05_%28Testspiel_23._Juli_2021%29_15_%28cropped%29.jpg/960px-Liverpool_FC_gegen_1._FSV_Mainz_05_%28Testspiel_23._Juli_2021%29_15_%28cropped%29.jpg",
+        "width": 1504,
+        "height": 2005,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "crop by <a href=\"//commons.wikimedia.org/w/index.php?title=User:Wenflou&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wenflou (page does not exist)\">Wenflou</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ibrahima-konat\u00e9.jpg"
+      }
+    },
+    {
+      "slug": "mike-maignan",
+      "display_name": "Mike Maignan",
+      "shirt_no": 16,
+      "position_code": "GK",
+      "dob": "1995-07-03",
+      "age": 30,
+      "caps": 38,
+      "goals": 0,
+      "club_from_squad_table": "Milan",
+      "wikipedia_title": "Mike Maignan",
+      "date_of_birth": "1995-07-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Milan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17274709",
+      "qid": "Q17274709",
+      "name": "Mike Maignan",
+      "description": "French footballer (born 1995)",
+      "place_of_birth_qid": "Q44401",
+      "citizenship_qids": [
+        "Q142",
+        "Q790"
+      ],
+      "height_cm": 191.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2945336",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q19516",
+          "start": "2015-01-01",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1543",
+      "image_filename": "Mike Maignan 2022 Salzburg vs AC Milan 2022-09-06.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Maignan",
+      "transfermarkt_id": "182906",
+      "fifa_player_id": "201196394",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "France",
+        "Haiti"
+      ],
+      "place_of_birth": "Cayenne",
+      "wikidata_current_club": "AC Milan",
+      "wikidata_current_club_qid": "Q1543",
+      "photo": {
+        "filename": "Mike Maignan 2022 Salzburg vs AC Milan 2022-09-06.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Mike_Maignan_2022_Salzburg_vs_AC_Milan_2022-09-06.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Mike_Maignan_2022_Salzburg_vs_AC_Milan_2022-09-06.jpg",
+        "width": 438,
+        "height": 534,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Werner100359",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mike-maignan.jpg"
+      }
+    },
+    {
+      "slug": "william-saliba",
+      "display_name": "William Saliba",
+      "shirt_no": 17,
+      "position_code": "DF",
+      "dob": "2001-03-24",
+      "age": 25,
+      "caps": 31,
+      "goals": 0,
+      "club_from_squad_table": "Arsenal",
+      "wikipedia_title": "William Saliba",
+      "date_of_birth": "2001-03-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Arsenal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q56868118",
+      "qid": "Q56868118",
+      "name": "William Saliba",
+      "description": "French footballer (born 2001)",
+      "place_of_birth_qid": "Q237394",
+      "citizenship_qids": [
+        "Q142",
+        "Q822",
+        "Q1009"
+      ],
+      "height_cm": 192.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19521",
+          "start": "2018-07-01",
+          "end": "2019-07-25"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2019-07-25",
+          "end": null
+        },
+        {
+          "team_qid": "Q19521",
+          "start": "2019-07-25",
+          "end": "2020-06-30"
+        },
+        {
+          "team_qid": "Q132885",
+          "start": "2021-07-15",
+          "end": "2022-06-30"
+        },
+        {
+          "team_qid": "Q185163",
+          "start": "2021-01-04",
+          "end": "2021-06-30"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9617",
+      "image_filename": "1 william saliba arsenal 2025 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/William_Saliba",
+      "transfermarkt_id": "495666",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "France",
+        "Lebanon",
+        "Cameroon"
+      ],
+      "place_of_birth": "Bondy",
+      "wikidata_current_club": "Arsenal F.C.",
+      "wikidata_current_club_qid": "Q9617",
+      "photo": {
+        "filename": "1 william saliba arsenal 2025 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/1_william_saliba_arsenal_2025_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/1_william_saliba_arsenal_2025_%28cropped%29.jpg/960px-1_william_saliba_arsenal_2025_%28cropped%29.jpg",
+        "width": 1892,
+        "height": 2842,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\">Chensiyuan</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/william-saliba.jpg"
+      }
+    },
+    {
+      "slug": "warren-za\u00efre-emery",
+      "display_name": "Warren Za\u00efre-Emery",
+      "shirt_no": 18,
+      "position_code": "MF",
+      "dob": "2006-03-08",
+      "age": 20,
+      "caps": 10,
+      "goals": 1,
+      "club_from_squad_table": "Paris Saint-Germain",
+      "wikipedia_title": "Warren Za\u00efre-Emery",
+      "date_of_birth": "2006-03-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris Saint-Germain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q111280241",
+      "qid": "Q111280241",
+      "name": "Warren Za\u00efre-Emery",
+      "description": "French footballer (born 2006)",
+      "place_of_birth_qid": "Q193370",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q18691898"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q483020",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q483020",
+      "image_filename": "Zaire asse psg 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Warren_Za%C3%AFre-Emery",
+      "transfermarkt_id": "810092",
+      "positions": [
+        "defensive midfielder"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Montreuil",
+      "wikidata_current_club": "Paris Saint-Germain FC",
+      "wikidata_current_club_qid": "Q483020",
+      "photo": {
+        "filename": "Zaire asse psg 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Zaire_asse_psg_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Zaire_asse_psg_2425.png",
+        "width": 534,
+        "height": 829,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/warren-za\u00efre-emery.png"
+      }
+    },
+    {
+      "slug": "th\u00e9o-hernandez",
+      "display_name": "Th\u00e9o Hernandez",
+      "shirt_no": 19,
+      "position_code": "DF",
+      "dob": "1997-10-06",
+      "age": 28,
+      "caps": 42,
+      "goals": 2,
+      "club_from_squad_table": "Al-Hilal",
+      "wikipedia_title": "Th\u00e9o Hernandez",
+      "date_of_birth": "1997-10-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Hilal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q23703372",
+      "qid": "Q23703372",
+      "name": "Th\u00e9o Hernandez",
+      "description": "French footballer (born 1997)",
+      "place_of_birth_qid": "Q23482",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 81.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q223620",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q780539",
+          "start": "2015-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q10315",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2019-00-00",
+          "end": "2025-07-00"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q73965",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q73965",
+      "image_filename": "FC Salzburg vs. AC Mailand (UEFA Championsleague 2022-09-06) Th\u00e9o Hernandez.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Th%C3%A9o_Hernandez",
+      "transfermarkt_id": "339808",
+      "fifa_player_id": "408042",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Marseille",
+      "wikidata_current_club": "Al Hilal SFC",
+      "wikidata_current_club_qid": "Q73965",
+      "photo": {
+        "filename": "FC Salzburg vs. AC Mailand (UEFA Championsleague 2022-09-06) Th\u00e9o Hernandez.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/FC_Salzburg_vs._AC_Mailand_%28UEFA_Championsleague_2022-09-06%29_Th%C3%A9o_Hernandez.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/FC_Salzburg_vs._AC_Mailand_%28UEFA_Championsleague_2022-09-06%29_Th%C3%A9o_Hernandez.jpg/960px-FC_Salzburg_vs._AC_Mailand_%28UEFA_Championsleague_2022-09-06%29_Th%C3%A9o_Hernandez.jpg",
+        "width": 1741,
+        "height": 2342,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/th\u00e9o-hernandez.jpg"
+      }
+    },
+    {
+      "slug": "d\u00e9sir\u00e9-dou\u00e9",
+      "display_name": "D\u00e9sir\u00e9 Dou\u00e9",
+      "shirt_no": 20,
+      "position_code": "FW",
+      "dob": "2005-06-03",
+      "age": 21,
+      "caps": 6,
+      "goals": 2,
+      "club_from_squad_table": "Paris Saint-Germain",
+      "wikipedia_title": "D\u00e9sir\u00e9 Dou\u00e9",
+      "date_of_birth": "2005-06-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris Saint-Germain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q112170256",
+      "qid": "Q112170256",
+      "name": "D\u00e9sir\u00e9 Dou\u00e9",
+      "description": "French footballer (born 2005)",
+      "place_of_birth_qid": "Q38380",
+      "citizenship_qids": [
+        "Q1008",
+        "Q142"
+      ],
+      "height_cm": 1.81,
+      "weight_kg": 79.0,
+      "position_qids": [
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q109507186",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q19509",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2024-08-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q3590215",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q483020",
+      "image_filename": "Doue asse psg 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9_Dou%C3%A9",
+      "transfermarkt_id": "914562",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "Ivory Coast",
+        "France"
+      ],
+      "place_of_birth": "Angers",
+      "wikidata_current_club": "Paris Saint-Germain FC",
+      "wikidata_current_club_qid": "Q483020",
+      "photo": {
+        "filename": "Doue asse psg 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Doue_asse_psg_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Doue_asse_psg_2425.png",
+        "width": 580,
+        "height": 855,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/d\u00e9sir\u00e9-dou\u00e9.png"
+      }
+    },
+    {
+      "slug": "lucas-hernandez",
+      "display_name": "Lucas Hernandez",
+      "shirt_no": 21,
+      "position_code": "DF",
+      "dob": "1996-02-14",
+      "age": 30,
+      "caps": 41,
+      "goals": 0,
+      "club_from_squad_table": "Paris Saint-Germain",
+      "wikipedia_title": "Lucas Hernandez",
+      "date_of_birth": "1996-02-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris Saint-Germain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18924954",
+      "qid": "Q18924954",
+      "name": "Lucas Hernandez",
+      "description": "French footballer (born 1996)",
+      "place_of_birth_qid": "Q23482",
+      "citizenship_qids": [
+        "Q142",
+        "Q29"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 79.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8701",
+          "start": "2014-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q170703",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2015-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q483020",
+      "image_filename": "Hernandez asse psg 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_Hernandez",
+      "transfermarkt_id": "67676767",
+      "fifa_player_id": "201228243",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "France",
+        "Spain"
+      ],
+      "place_of_birth": "Marseille",
+      "wikidata_current_club": "Paris Saint-Germain FC",
+      "wikidata_current_club_qid": "Q483020",
+      "photo": {
+        "filename": "Hernandez asse psg 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Hernandez_asse_psg_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Hernandez_asse_psg_2425.png",
+        "width": 439,
+        "height": 653,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lucas-hernandez.png"
+      }
+    },
+    {
+      "slug": "jean-philippe-mateta",
+      "display_name": "Jean-Philippe Mateta",
+      "shirt_no": 22,
+      "position_code": "FW",
+      "dob": "1997-06-28",
+      "age": 28,
+      "caps": 3,
+      "goals": 2,
+      "club_from_squad_table": "Crystal Palace",
+      "wikipedia_title": "Jean-Philippe Mateta",
+      "date_of_birth": "1997-06-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Crystal Palace",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26964668",
+      "qid": "Q26964668",
+      "name": "Jean-Philippe Mateta",
+      "description": "French footballer (born 1997)",
+      "place_of_birth_qid": "Q387630",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 192.0,
+      "weight_kg": 84.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q704",
+          "start": "2016-09-16",
+          "end": "2018-07-01"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q328658",
+          "start": "2017-07-01",
+          "end": "2018-06-30"
+        },
+        {
+          "team_qid": "Q105254",
+          "start": "2018-07-01",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q19467",
+          "start": "2021-01-21",
+          "end": null
+        },
+        {
+          "team_qid": "Q845067",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q3924852",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3590215",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19467",
+      "image_filename": "Jean-Philippe Mateta (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Philippe_Mateta",
+      "transfermarkt_id": "420002",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Sevran",
+      "wikidata_current_club": "Crystal Palace F.C.",
+      "wikidata_current_club_qid": "Q19467",
+      "photo": {
+        "filename": "Jean-Philippe Mateta (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jean-Philippe_Mateta_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jean-Philippe_Mateta_%28cropped%29.jpg/960px-Jean-Philippe_Mateta_%28cropped%29.jpg",
+        "width": 1681,
+        "height": 2241,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Bex Walton",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jean-philippe-mateta.jpg"
+      }
+    },
+    {
+      "slug": "robin-risser",
+      "display_name": "Robin Risser",
+      "shirt_no": 23,
+      "position_code": "GK",
+      "dob": "2004-12-02",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Lens",
+      "wikipedia_title": "Robin Risser",
+      "date_of_birth": "2004-12-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lens",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q124745247",
+      "qid": "Q124745247",
+      "name": "Robin Risser",
+      "description": "French footballer",
+      "place_of_birth_qid": "Q130994",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 193.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q126334",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q503317",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q522283",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q191843",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q126334",
+      "image_filename": "Montpellier-Strasbourg 18-08-24, Robin Risser (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Robin_Risser",
+      "transfermarkt_id": "743515",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Colmar",
+      "wikidata_current_club": "RC Strasbourg Alsace",
+      "wikidata_current_club_qid": "Q126334",
+      "photo": {
+        "filename": "Montpellier-Strasbourg 18-08-24, Robin Risser (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Montpellier-Strasbourg_18-08-24%2C_Robin_Risser_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Montpellier-Strasbourg_18-08-24%2C_Robin_Risser_%28cropped%29.jpg",
+        "width": 475,
+        "height": 546,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Paul_Vaurie\" title=\"User:Paul Vaurie\">Paul Vaurie</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/robin-risser.jpg"
+      }
+    },
+    {
+      "slug": "rayan-cherki",
+      "display_name": "Rayan Cherki",
+      "shirt_no": 24,
+      "position_code": "FW",
+      "dob": "2003-08-17",
+      "age": 22,
+      "caps": 5,
+      "goals": 1,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "Rayan Cherki",
+      "date_of_birth": "2003-08-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64736321",
+      "qid": "Q64736321",
+      "name": "Rayan Cherki",
+      "description": "French footballer (born 2003)",
+      "place_of_birth_qid": "Q456",
+      "citizenship_qids": [
+        "Q262",
+        "Q142",
+        "Q38"
+      ],
+      "height_cm": 176.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3924852",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q704",
+          "start": "2019-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590215",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q47774",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2021-00-00",
+          "end": "2025-00-00"
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "Cherki asse ol 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rayan_Cherki",
+      "transfermarkt_id": "607223",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Algeria",
+        "France",
+        "Italy"
+      ],
+      "place_of_birth": "Lyon",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "Cherki asse ol 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Cherki_asse_ol_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Cherki_asse_ol_2425.png",
+        "width": 566,
+        "height": 785,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/rayan-cherki.png"
+      }
+    },
+    {
+      "slug": "maghnes-akliouche",
+      "display_name": "Maghnes Akliouche",
+      "shirt_no": 25,
+      "position_code": "FW",
+      "dob": "2002-02-25",
+      "age": 24,
+      "caps": 7,
+      "goals": 1,
+      "club_from_squad_table": "Monaco",
+      "wikipedia_title": "Maghnes Akliouche",
+      "date_of_birth": "2002-02-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Monaco",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q108910786",
+      "qid": "Q108910786",
+      "name": "Maghnes Akliouche",
+      "description": "French footballer (born 2002)",
+      "place_of_birth_qid": "Q242497",
+      "citizenship_qids": [
+        "Q142",
+        "Q262"
+      ],
+      "height_cm": 1.83,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Akliouche2 asse asm 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maghnes_Akliouche",
+      "transfermarkt_id": "745200",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France",
+        "Algeria"
+      ],
+      "place_of_birth": "Tremblay-en-France",
+      "photo": {
+        "filename": "Akliouche2 asse asm 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Akliouche2_asse_asm_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Akliouche2_asse_asm_2425.png",
+        "width": 591,
+        "height": 888,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/maghnes-akliouche.png"
+      }
+    },
+    {
+      "slug": "maxence-lacroix",
+      "display_name": "Maxence Lacroix",
+      "shirt_no": 26,
+      "position_code": "DF",
+      "dob": "2000-04-06",
+      "age": 26,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Crystal Palace",
+      "wikipedia_title": "Maxence Lacroix",
+      "date_of_birth": "2000-04-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Crystal Palace",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60286976",
+      "qid": "Q60286976",
+      "name": "Maxence Lacroix",
+      "description": "French footballer (born 2000)",
+      "place_of_birth_qid": "Q244241",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 1.9,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q16565840",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q19512",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q101859",
+          "start": "2020-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q19467",
+          "start": "2024-08-30",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19467",
+      "image_filename": "Lens - Sochaux (23-11-2019) 73.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maxence_Lacroix",
+      "transfermarkt_id": "434224",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Villeneuve-Saint-Georges",
+      "wikidata_current_club": "Crystal Palace F.C.",
+      "wikidata_current_club_qid": "Q19467",
+      "photo": {
+        "filename": "Lens - Sochaux (23-11-2019) 73.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Lens_-_Sochaux_%2823-11-2019%29_73.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lens_-_Sochaux_%2823-11-2019%29_73.jpg/960px-Lens_-_Sochaux_%2823-11-2019%29_73.jpg",
+        "width": 2409,
+        "height": 3212,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterh\u00e9ninois (page does not exist)\">Supporterh\u00e9ninois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/maxence-lacroix.jpg"
+      }
+    }
+  ]
+}

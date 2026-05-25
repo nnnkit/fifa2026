@@ -1,0 +1,88 @@
+{
+  "slug": "guido-rodríguez",
+  "display_name": "Guido Rodríguez",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1994-04-12",
+  "age": 32,
+  "caps": 30,
+  "goals": 1,
+  "club_from_squad_table": "Valencia",
+  "wikipedia_title": "Guido Rodríguez",
+  "wikidata_qid": "Q18224850",
+  "qid": "Q18224850",
+  "name": "Guido Rodríguez",
+  "description": "Argentine association footballer",
+  "date_of_birth": "1994-04-12",
+  "place_of_birth_qid": "Q7665215",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q15799",
+      "start": "2014-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q1024338",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1103168",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q79800",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q459090",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q8723",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1024338",
+  "image_filename": "Guido Rodríguez.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Guido_Rodr%C3%ADguez",
+  "transfermarkt_id": "342385",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Valencia",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Sáenz Peña",
+  "wikidata_current_club": "Defensa y Justicia",
+  "wikidata_current_club_qid": "Q1024338",
+  "photo": {
+    "filename": "Guido Rodríguez.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Guido_Rodr%C3%ADguez.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Guido_Rodr%C3%ADguez.png",
+    "width": 636,
+    "height": 830,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCeRqf2vsTNvrQdqaoqjU9rA\">Los Doble 7</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/guido-rodríguez.png"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

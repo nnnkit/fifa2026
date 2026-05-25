@@ -1,0 +1,94 @@
+{
+  "slug": "adil-aouchiche",
+  "display_name": "Adil Aouchiche",
+  "shirt_no": 20,
+  "position_code": "MF",
+  "dob": "2002-07-15",
+  "age": 23,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Schalke 04",
+  "wikipedia_title": "Adil Aouchiche",
+  "date_of_birth": "2002-07-15",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Schalke 04",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q63636233",
+  "qid": "Q63636233",
+  "name": "Adil Aouchiche",
+  "description": "French footballer",
+  "place_of_birth_qid": "Q208313",
+  "citizenship_qids": [
+    "Q142",
+    "Q262"
+  ],
+  "height_cm": 1.81,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q483020",
+      "start": "2019-08-30",
+      "end": "2020-07-20"
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q19521",
+      "start": "2020-07-20",
+      "end": "2022-09-01"
+    },
+    {
+      "team_qid": "Q48911",
+      "start": "2022-09-01",
+      "end": "2023-09-01"
+    },
+    {
+      "team_qid": "Q18739",
+      "start": "2023-09-01",
+      "end": "2025-01-31"
+    },
+    {
+      "team_qid": "Q19604",
+      "start": "2025-01-31",
+      "end": "2025-07-06"
+    },
+    {
+      "team_qid": "Q187326",
+      "start": "2025-07-06",
+      "end": "2026-02-02"
+    }
+  ],
+  "current_club_qid": "Q187326",
+  "image_filename": "2019-07-17 SG Dynamo Dresden vs. Paris Saint-Germain by Sandro Halank\u2013157 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Adil_Aouchiche",
+  "transfermarkt_id": "569385",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "France",
+    "Algeria"
+  ],
+  "place_of_birth": "Le Blanc-Mesnil",
+  "wikidata_current_club": "Aberdeen F.C.",
+  "wikidata_current_club_qid": "Q187326",
+  "photo": {
+    "filename": "2019-07-17 SG Dynamo Dresden vs. Paris Saint-Germain by Sandro Halank\u2013157 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93157_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93157_%28cropped%29.jpg/960px-2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93157_%28cropped%29.jpg",
+    "width": 2107,
+    "height": 2888,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sandro_Halank\" title=\"User:Sandro Halank\">Sandro Halank</a>, Wikimedia Commons",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/adil-aouchiche.jpg"
+  },
+  "team_slug": "algeria",
+  "team_country": "Algeria"
+}

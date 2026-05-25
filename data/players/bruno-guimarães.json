@@ -1,0 +1,90 @@
+{
+  "slug": "bruno-guimarães",
+  "display_name": "Bruno Guimarães",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-11-16",
+  "age": 28,
+  "caps": 41,
+  "goals": 2,
+  "club_from_squad_table": "Newcastle United",
+  "wikipedia_title": "Bruno Guimarães",
+  "date_of_birth": "1997-11-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Newcastle United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q58323172",
+  "qid": "Q58323172",
+  "name": "Bruno Guimarães",
+  "description": "Brazilian association football player",
+  "place_of_birth_qid": "Q8678",
+  "citizenship_qids": [
+    "Q155",
+    "Q29"
+  ],
+  "height_cm": 182.0,
+  "weight_kg": 74.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q506832",
+      "start": "2017-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q704",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q43899915",
+      "start": "2015-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q18716",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q899189",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18716",
+  "image_filename": "Bruno Guimarães.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bruno_Guimar%C3%A3es",
+  "transfermarkt_id": "520624",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Brazil",
+    "Spain"
+  ],
+  "place_of_birth": "Rio de Janeiro",
+  "wikidata_current_club": "Newcastle United F.C.",
+  "wikidata_current_club_qid": "Q18716",
+  "photo": {
+    "filename": "Bruno Guimarães.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bruno_Guimar%C3%A3es.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bruno_Guimar%C3%A3es.png",
+    "width": 804,
+    "height": 758,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Clubhouse TV",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/bruno-guimarães.png"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

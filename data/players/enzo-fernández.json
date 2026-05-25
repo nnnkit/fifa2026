@@ -1,0 +1,83 @@
+{
+  "slug": "enzo-fernández",
+  "display_name": "Enzo Fernández",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2001-01-17",
+  "age": 25,
+  "caps": 40,
+  "goals": 6,
+  "club_from_squad_table": "Chelsea",
+  "wikipedia_title": "Enzo Fernández",
+  "wikidata_qid": "Q96105248",
+  "qid": "Q96105248",
+  "name": "Enzo Fernández",
+  "description": "Argentine footballer (born 2001)",
+  "date_of_birth": "2001-01-17",
+  "place_of_birth_qid": "Q781245",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q15799",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1024338",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q131499",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q9616",
+  "image_filename": "Enzo Fernández 2025 FIFA Club World Cup Final.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Enzo_Fern%C3%A1ndez",
+  "transfermarkt_id": "648195",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Chelsea",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "General San Martín",
+  "wikidata_current_club": "Chelsea F.C.",
+  "wikidata_current_club_qid": "Q9616",
+  "photo": {
+    "filename": "Enzo Fernández 2025 FIFA Club World Cup Final.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Enzo_Fern%C3%A1ndez_2025_FIFA_Club_World_Cup_Final.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Enzo_Fern%C3%A1ndez_2025_FIFA_Club_World_Cup_Final.jpg",
+    "width": 459,
+    "height": 670,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "The White House",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/enzo-fernández.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

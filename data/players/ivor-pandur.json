@@ -1,0 +1,77 @@
+{
+  "slug": "ivor-pandur",
+  "display_name": "Ivor Pandur",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2000-03-25",
+  "age": 26,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Hull City",
+  "wikipedia_title": "Ivor Pandur",
+  "date_of_birth": "2000-03-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Hull City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q84462730",
+  "qid": "Q84462730",
+  "name": "Ivor Pandur",
+  "description": "Croatian association football player",
+  "place_of_birth_qid": "Q1647",
+  "citizenship_qids": [
+    "Q224"
+  ],
+  "height_cm": 187.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q318969",
+      "start": "2019-07-01",
+      "end": "2020-09-01"
+    },
+    {
+      "team_qid": "Q8639",
+      "start": "2020-09-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3589940",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q3446766",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8639",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ivor_Pandur",
+  "transfermarkt_id": "371013",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Croatia"
+  ],
+  "place_of_birth": "Rijeka",
+  "wikidata_current_club": "Hellas Verona FC",
+  "wikidata_current_club_qid": "Q8639",
+  "image_filename": "Ivor Pandur.jpg",
+  "photo": {
+    "filename": "Ivor Pandur.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ivor_Pandur.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ivor_Pandur.jpg",
+    "width": 87,
+    "height": 117,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:NONONSENSEDEFENDING&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:NONONSENSEDEFENDING (page does not exist)\">NONONSENSEDEFENDING</a>",
+    "source": "wikimedia-commons-reviewed",
+    "local_path": "data/photos/ivor-pandur.jpg"
+  },
+  "team_slug": "croatia",
+  "team_country": "Croatia"
+}

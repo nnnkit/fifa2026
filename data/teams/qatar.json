@@ -1,0 +1,2238 @@
+{
+  "slug": "qatar",
+  "country": "Qatar",
+  "wikidata_qid": "Q232731",
+  "fetched_at": "2026-05-24T14:43:19+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 35,
+  "players": [
+    {
+      "slug": "meshaal-barsham",
+      "display_name": "Meshaal Barsham",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1998-02-14",
+      "age": 28,
+      "caps": 52,
+      "goals": 0,
+      "club_from_squad_table": "Al-Sadd",
+      "wikipedia_title": "Meshaal Barsham",
+      "date_of_birth": "1998-02-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Sadd",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q52771823",
+      "qid": "Q52771823",
+      "name": "Meshal Barsham",
+      "description": "association football player",
+      "place_of_birth_qid": "Q3861",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q283545",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q283545",
+      "image_filename": "Qatar v Lebanon (32) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Meshaal_Barsham",
+      "transfermarkt_id": "560423",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Doha",
+      "wikidata_current_club": "Al Sadd Sports Club",
+      "wikidata_current_club_qid": "Q283545",
+      "photo": {
+        "filename": "Qatar v Lebanon (32) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Qatar_v_Lebanon_%2832%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Qatar_v_Lebanon_%2832%29_%28cropped%29.jpg",
+        "width": 349,
+        "height": 567,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Foad Ashtari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/meshaal-barsham.jpg"
+      }
+    },
+    {
+      "slug": "salah-zakaria",
+      "display_name": "Salah Zakaria",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1999-04-24",
+      "age": 27,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Al-Duhail",
+      "wikipedia_title": "Salah Zakaria",
+      "date_of_birth": "1999-04-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Duhail",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q95680243",
+      "qid": "Q95680243",
+      "name": "Salah Zakaria",
+      "description": "Qatari footballer",
+      "place_of_birth_qid": "Q846",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q284281",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q1056948",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q428211",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1056948",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Salah_Zakaria",
+      "transfermarkt_id": "632912",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Qatar",
+      "wikidata_current_club": "Al-Duhail SC",
+      "wikidata_current_club_qid": "Q1056948",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "mahmud-abunada",
+      "display_name": "Mahmud Abunada",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2000-02-05",
+      "age": 26,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Al-Rayyan",
+      "wikipedia_title": "Mahmud Abunada",
+      "date_of_birth": "2000-02-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Rayyan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q61911369",
+      "qid": "Q61911369",
+      "name": "Mahmud Abunada",
+      "description": "Qatari association football player",
+      "place_of_birth_qid": "Q846",
+      "height_cm": 1.91,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q283760",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q283760",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mahmud_Abunada",
+      "transfermarkt_id": "669629",
+      "positions": [
+        "goalkeeper"
+      ],
+      "place_of_birth": "Qatar",
+      "wikidata_current_club": "Al-Arabi SC",
+      "wikidata_current_club_qid": "Q283760",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "shehab-ellethy",
+      "display_name": "Shehab Ellethy",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2000-04-18",
+      "age": 26,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Al-Shahaniya",
+      "wikipedia_title": "Shehab Ellethy",
+      "date_of_birth": "2000-04-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Shahaniya",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q54232975",
+      "qid": "Q54232975",
+      "name": "Shehab Ellethy",
+      "description": "association football player",
+      "place_of_birth_qid": "Q846",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 1.83,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1056948",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1056948",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Shehab_Ellethy",
+      "transfermarkt_id": "589101",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Qatar",
+      "wikidata_current_club": "Al-Duhail SC",
+      "wikidata_current_club_qid": "Q1056948",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "fahad-younis",
+      "display_name": "Fahad Younis",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1994-07-30",
+      "age": 31,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Al-Sailiya",
+      "wikipedia_title": null,
+      "date_of_birth": "1994-07-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Sailiya",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q24007738",
+      "qid": "Q24007738",
+      "name": "Fahad Younes",
+      "description": "Qatari association football player",
+      "place_of_birth_qid": "Q846",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q4702847",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q4702847",
+      "transfermarkt_id": "311726",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Qatar",
+      "wikidata_current_club": "Al-Markhiya Sports Club",
+      "wikidata_current_club_qid": "Q4702847",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "boualem-khoukhi",
+      "display_name": "Boualem Khoukhi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1990-07-09",
+      "age": 35,
+      "caps": 114,
+      "goals": 20,
+      "club_from_squad_table": "Al-Sadd",
+      "wikipedia_title": "Boualem Khoukhi",
+      "date_of_birth": "1990-07-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Sadd",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q3643114",
+      "qid": "Q3643114",
+      "name": "Boualem Khoukhi",
+      "description": "Qatari association football player",
+      "place_of_birth_qid": "Q1438489",
+      "citizenship_qids": [
+        "Q262",
+        "Q846"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 76.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q283760",
+          "start": "2009-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3178121",
+          "start": "2007-00-00",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q3589664",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q283545",
+          "start": "2017-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q283545",
+      "image_filename": "Boualem Khoukhi.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Boualem_Khoukhi",
+      "transfermarkt_id": "222669",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Algeria",
+        "Qatar"
+      ],
+      "place_of_birth": "Bou Ismaïl",
+      "wikidata_current_club": "Al Sadd Sports Club",
+      "wikidata_current_club_qid": "Q283545",
+      "photo": {
+        "filename": "Boualem Khoukhi.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Boualem_Khoukhi.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Boualem_Khoukhi.png",
+        "width": 439,
+        "height": 600,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/dohastadiumplusqatar/\">Doha Stadium Plus</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/boualem-khoukhi.png"
+      }
+    },
+    {
+      "slug": "pedro-miguel",
+      "display_name": "Pedro Miguel",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1990-08-06",
+      "age": 35,
+      "caps": 97,
+      "goals": 3,
+      "club_from_squad_table": "Al-Sadd",
+      "wikipedia_title": "Pedro Miguel (footballer)",
+      "date_of_birth": "1990-08-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Sadd",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q7159779",
+      "qid": "Q7159779",
+      "name": "Pedro Miguel Carvalho Deus Correia",
+      "description": "Qatari association football player",
+      "place_of_birth_qid": "Q180972",
+      "citizenship_qids": [
+        "Q45",
+        "Q1011",
+        "Q846"
+      ],
+      "height_cm": 1.88,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q284452",
+          "start": "2011-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q744353",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q7387164",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q283545",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q115314792",
+          "start": "2009-03-24",
+          "end": "2009-07-11"
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2016-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q283545",
+      "image_filename": "Qatar v Japan – AFC Asian Cup 2019 final 29.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Miguel_(footballer)",
+      "transfermarkt_id": "228727",
+      "fifa_player_id": "416051",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Portugal",
+        "Cape Verde",
+        "Qatar"
+      ],
+      "place_of_birth": "Algueirão - Mem Martins",
+      "wikidata_current_club": "Al Sadd Sports Club",
+      "wikidata_current_club_qid": "Q283545",
+      "photo": {
+        "filename": "Qatar v Japan – AFC Asian Cup 2019 final 29.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Qatar_v_Japan_%E2%80%93_AFC_Asian_Cup_2019_final_29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Qatar_v_Japan_%E2%80%93_AFC_Asian_Cup_2019_final_29.jpg/960px-Qatar_v_Japan_%E2%80%93_AFC_Asian_Cup_2019_final_29.jpg",
+        "width": 1000,
+        "height": 667,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Parto Joghataee",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/pedro-miguel.jpg"
+      }
+    },
+    {
+      "slug": "tarek-salman",
+      "display_name": "Tarek Salman",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-12-05",
+      "age": 28,
+      "caps": 90,
+      "goals": 0,
+      "club_from_squad_table": "Al-Sadd",
+      "wikipedia_title": "Tarek Salman",
+      "date_of_birth": "1997-12-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Sadd",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q39525477",
+      "qid": "Q39525477",
+      "name": "Tarek Salman",
+      "description": "association football player",
+      "place_of_birth_qid": "Q310893",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 1.79,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2082633",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2082633",
+      "image_filename": "Tarek Salman.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tarek_Salman",
+      "transfermarkt_id": "311730",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Al Wakrah",
+      "wikidata_current_club": "Atlético Astorga FC",
+      "wikidata_current_club_qid": "Q2082633",
+      "photo": {
+        "filename": "Tarek Salman.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Tarek_Salman.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Tarek_Salman.jpg",
+        "width": 231,
+        "height": 333,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Mehr_News_Agency\" class=\"extiw\" title=\"w:en:Mehr News Agency\"><span title=\"Iranian News Agency\">Mehr News Agency</span></a>\n</bdi>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/tarek-salman.jpg"
+      }
+    },
+    {
+      "slug": "bassam-al-rawi",
+      "display_name": "Bassam Al-Rawi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-12-16",
+      "age": 28,
+      "caps": 70,
+      "goals": 2,
+      "club_from_squad_table": "Al-Duhail",
+      "wikipedia_title": "Bassam Al-Rawi",
+      "date_of_birth": "1997-12-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Duhail",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q39525455",
+      "qid": "Q39525455",
+      "name": "Bassam Al-Rawi",
+      "description": "Qatteri football player",
+      "place_of_birth_qid": "Q1530",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q311268",
+          "start": "2015-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1056948",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2017-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1056948",
+      "image_filename": "Qatar v Japan – AFC Asian Cup 2019 final 25.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bassam_Al-Rawi",
+      "transfermarkt_id": "376232",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Baghdad",
+      "wikidata_current_club": "Al-Duhail SC",
+      "wikidata_current_club_qid": "Q1056948",
+      "photo": {
+        "filename": "Qatar v Japan – AFC Asian Cup 2019 final 25.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Qatar_v_Japan_%E2%80%93_AFC_Asian_Cup_2019_final_25.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Qatar_v_Japan_%E2%80%93_AFC_Asian_Cup_2019_final_25.jpg",
+        "width": 417,
+        "height": 533,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Parto Joghataee",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/bassam-al-rawi.jpg"
+      }
+    },
+    {
+      "slug": "homam-ahmed",
+      "display_name": "Homam Ahmed",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-08-25",
+      "age": 26,
+      "caps": 66,
+      "goals": 3,
+      "club_from_squad_table": "Cultural Leonesa",
+      "wikipedia_title": "Homam Ahmed",
+      "date_of_birth": "1999-08-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cultural Leonesa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64364375",
+      "qid": "Q64364375",
+      "name": "Homam Ahmed",
+      "description": "Qatari association football player",
+      "place_of_birth_qid": "Q3861",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 1.86,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q428211",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873543",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q963238",
+          "start": "2019-12-00",
+          "end": "2020-01-00"
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2019-11-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q428211",
+      "image_filename": "Asian Nations Cup Iran - Qatar (8) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Homam_Ahmed",
+      "transfermarkt_id": "556713",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Doha",
+      "wikidata_current_club": "Al-Gharafa SC",
+      "wikidata_current_club_qid": "Q428211",
+      "photo": {
+        "filename": "Asian Nations Cup Iran - Qatar (8) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Asian_Nations_Cup_Iran_-_Qatar_%288%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Asian_Nations_Cup_Iran_-_Qatar_%288%29_%28cropped%29.jpg",
+        "width": 214,
+        "height": 273,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "M.Sadegh Nikgostar",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/homam-ahmed.jpg"
+      }
+    },
+    {
+      "slug": "lucas-mendes",
+      "display_name": "Lucas Mendes",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1990-07-03",
+      "age": 35,
+      "caps": 24,
+      "goals": 1,
+      "club_from_squad_table": "Al-Wakrah",
+      "wikipedia_title": "Lucas Mendes (footballer, born 1990)",
+      "date_of_birth": "1990-07-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Wakrah",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q602311",
+      "qid": "Q602311",
+      "name": "Lucas Mendes",
+      "description": "Brazilian and Qatari association football player",
+      "place_of_birth_qid": "Q4361",
+      "citizenship_qids": [
+        "Q155",
+        "Q846"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 81.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q132885",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q478317",
+          "start": "2008-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q429546",
+          "start": "2014-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1056948",
+          "start": "2017-07-00",
+          "end": "2019-02-00"
+        },
+        {
+          "team_qid": "Q428211",
+          "start": "2019-02-00",
+          "end": "2019-12-00"
+        },
+        {
+          "team_qid": "Q284281",
+          "start": "2020-01-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q284281",
+      "image_filename": "Valais Cup 2013 - OM-FC Porto 13-07-2013 - Lucas Mendes.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_Mendes_(footballer,_born_1990)",
+      "transfermarkt_id": "83983",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Brazil",
+        "Qatar"
+      ],
+      "place_of_birth": "Curitiba",
+      "wikidata_current_club": "Al-Wakrah Sports Club",
+      "wikidata_current_club_qid": "Q284281",
+      "photo": {
+        "filename": "Valais Cup 2013 - OM-FC Porto 13-07-2013 - Lucas Mendes.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Valais_Cup_2013_-_OM-FC_Porto_13-07-2013_-_Lucas_Mendes.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Valais_Cup_2013_-_OM-FC_Porto_13-07-2013_-_Lucas_Mendes.jpg",
+        "width": 677,
+        "height": 551,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pleclown\" title=\"User:Pleclown\">Clément Bucco-Lechat</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lucas-mendes.jpg"
+      }
+    },
+    {
+      "slug": "sultan-al-brake",
+      "display_name": "Sultan Al-Brake",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-04-07",
+      "age": 30,
+      "caps": 16,
+      "goals": 0,
+      "club_from_squad_table": "Al-Duhail",
+      "wikipedia_title": "Sultan Al-Brake",
+      "date_of_birth": "1996-04-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Duhail",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27671280",
+      "qid": "Q27671280",
+      "name": "Sultan Al-Brake",
+      "description": "association football player",
+      "place_of_birth_qid": "Q846",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1056948",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1056948",
+      "image_filename": "Sultan Al Brake in 2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sultan_Al-Brake",
+      "transfermarkt_id": "336665",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Qatar",
+      "wikidata_current_club": "Al-Duhail SC",
+      "wikidata_current_club_qid": "Q1056948",
+      "photo": {
+        "filename": "Sultan Al Brake in 2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sultan_Al_Brake_in_2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sultan_Al_Brake_in_2018.jpg",
+        "width": 186,
+        "height": 283,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Mahdi Zare/Fars News Agency",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/sultan-al-brake.jpg"
+      }
+    },
+    {
+      "slug": "al-hashmi-al-hussain",
+      "display_name": "Al-Hashmi Al-Hussain",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-08-15",
+      "age": 22,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Al-Arabi",
+      "wikipedia_title": null,
+      "date_of_birth": "2003-08-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Arabi",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q133505943",
+      "qid": "Q133505943",
+      "wikidata_qid_source": "verified-wikidata",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ayoub-al-oui",
+      "display_name": "Ayoub Al-Oui",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2005-03-11",
+      "age": 21,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Al-Gharafa",
+      "wikipedia_title": "Ayoub Al-Oui",
+      "date_of_birth": "2005-03-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Gharafa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q139770039",
+      "qid": "Q139770039",
+      "name": "Ayoub Al-Oui",
+      "description": "Qatari footballer (born 2005)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ayoub_Al-Oui",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "issa-laye",
+      "display_name": "Issa Laye",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-12-22",
+      "age": 28,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Al-Arabi",
+      "wikipedia_title": "Issa Laye",
+      "date_of_birth": "1997-12-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Arabi",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q137392794",
+      "qid": "Q137392794",
+      "name": "Issa Laye",
+      "description": "Qatari footballer (born 1997)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Issa_Laye",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "rayyan-al-ali",
+      "display_name": "Rayyan Al-Ali",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2006-03-26",
+      "age": 20,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Al-Gharafa",
+      "wikipedia_title": null,
+      "date_of_birth": "2006-03-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Gharafa",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      },
+      "identity_review": {
+        "status": "no-unambiguous-wikidata-qid",
+        "reviewed_at": "2026-05-25",
+        "reason": "Exact-label Wikidata hit Q124099252 is a physician, not the 2006 Al-Gharafa defender."
+      }
+    },
+    {
+      "slug": "niall-mason",
+      "display_name": "Niall Mason",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-01-10",
+      "age": 29,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Qatar SC",
+      "wikipedia_title": "Niall Mason",
+      "date_of_birth": "1997-01-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Qatar SC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26251658",
+      "qid": "Q26251658",
+      "name": "Niall Mason",
+      "description": "English association football player (born 1997)",
+      "place_of_birth_qid": "Q122892",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19589",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q18711",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19589",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Niall_Mason",
+      "transfermarkt_id": "319817",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Bromley",
+      "wikidata_current_club": "Doncaster Rovers F.C.",
+      "wikidata_current_club_qid": "Q19589",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "abdulaziz-hatem",
+      "display_name": "Abdulaziz Hatem",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1990-10-28",
+      "age": 35,
+      "caps": 116,
+      "goals": 11,
+      "club_from_squad_table": "Al-Rayyan",
+      "wikipedia_title": "Abdulaziz Hatem",
+      "date_of_birth": "1990-10-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Rayyan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q4665805",
+      "qid": "Q4665805",
+      "name": "Abdulaziz Hatem",
+      "description": "Qatari association football player",
+      "place_of_birth_qid": "Q3861",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 179.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q283760",
+          "start": "2007-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q428211",
+          "start": "2015-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2009-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q311268",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q311268",
+      "image_filename": "Abdulaziz Hatem 2012 2.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abdulaziz_Hatem",
+      "transfermarkt_id": "113915",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Doha",
+      "photo": {
+        "filename": "Abdulaziz Hatem 2012 2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Abdulaziz_Hatem_2012_2.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Abdulaziz_Hatem_2012_2.jpg/960px-Abdulaziz_Hatem_2012_2.jpg",
+        "width": 1800,
+        "height": 2250,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a href=\"//www.flickr.com/people/66463488@N06\" class=\"extiw\" title=\"flickruser:66463488@N06\">Doha Stadium Plus Qatar</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/abdulaziz-hatem.jpg"
+      }
+    },
+    {
+      "slug": "karim-boudiaf",
+      "display_name": "Karim Boudiaf",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1990-09-16",
+      "age": 35,
+      "caps": 116,
+      "goals": 5,
+      "club_from_squad_table": "Al-Duhail",
+      "wikipedia_title": "Karim Boudiaf",
+      "date_of_birth": "1990-09-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Duhail",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q3812986",
+      "qid": "Q3812986",
+      "name": "Karim Boudiaf",
+      "description": "Algerian-Moroccan footballer",
+      "place_of_birth_qid": "Q193920",
+      "citizenship_qids": [
+        "Q142",
+        "Q846"
+      ],
+      "height_cm": 187.0,
+      "weight_kg": 64.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1056948",
+          "start": "2010-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2013-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1056948",
+      "image_filename": "Karim Boudiaf WC2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Karim_Boudiaf",
+      "transfermarkt_id": "222385",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "France",
+        "Qatar"
+      ],
+      "place_of_birth": "Rueil-Malmaison",
+      "wikidata_current_club": "Al-Duhail SC",
+      "wikidata_current_club_qid": "Q1056948",
+      "photo": {
+        "filename": "Karim Boudiaf WC2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karim_Boudiaf_WC2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karim_Boudiaf_WC2022.jpg",
+        "width": 400,
+        "height": 588,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "حسین ظهروند",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/karim-boudiaf.jpg"
+      }
+    },
+    {
+      "slug": "assim-madibo",
+      "display_name": "Assim Madibo",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-10-22",
+      "age": 29,
+      "caps": 49,
+      "goals": 0,
+      "club_from_squad_table": "Al-Wakrah",
+      "wikipedia_title": "Assim Madibo",
+      "date_of_birth": "1996-10-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Wakrah",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21000530",
+      "qid": "Q21000530",
+      "name": "Assim Madibo",
+      "description": "Qatari association football player",
+      "place_of_birth_qid": "Q846",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 1.68,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q392310",
+          "start": "2015-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q1387445",
+          "start": "2015-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q582342",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873543",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        }
+      ],
+      "current_club_qid": "Q582342",
+      "image_filename": "Qatar - Japan, AFC Asian Cup 2019 58 - Assim Madibo.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Assim_Madibo",
+      "transfermarkt_id": "336667",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Qatar",
+      "photo": {
+        "filename": "Qatar - Japan, AFC Asian Cup 2019 58 - Assim Madibo.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Qatar_-_Japan%2C_AFC_Asian_Cup_2019_58_-_Assim_Madibo.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Qatar_-_Japan%2C_AFC_Asian_Cup_2019_58_-_Assim_Madibo.jpg",
+        "width": 171,
+        "height": 199,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Mehdi Bolourian",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/assim-madibo.jpg"
+      }
+    },
+    {
+      "slug": "mohammed-waad",
+      "display_name": "Mohammed Waad",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1999-09-18",
+      "age": 26,
+      "caps": 49,
+      "goals": 0,
+      "club_from_squad_table": "Al-Shamal",
+      "wikipedia_title": "Mohammed Waad",
+      "date_of_birth": "1999-09-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Shamal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28674143",
+      "qid": "Q28674143",
+      "name": "Mohammed Waad",
+      "description": "Iraqi-born Qatari footballer",
+      "place_of_birth_qid": "Q1530",
+      "citizenship_qids": [
+        "Q846",
+        "Q796"
+      ],
+      "height_cm": 1.83,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q283545",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q284452",
+          "start": "2019-01-00",
+          "end": "2019-06-00"
+        },
+        {
+          "team_qid": "Q283545",
+          "start": "2016-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q5193427",
+          "start": "2018-07-00",
+          "end": "2018-12-00"
+        },
+        {
+          "team_qid": "Q284281",
+          "start": "2019-07-00",
+          "end": "2020-02-00"
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q283545",
+      "image_filename": "Asian Nations Cup Iran - Qatar (22) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammed_Waad",
+      "transfermarkt_id": "481935",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Qatar",
+        "Iraq"
+      ],
+      "place_of_birth": "Baghdad",
+      "wikidata_current_club": "Al Sadd Sports Club",
+      "wikidata_current_club_qid": "Q283545",
+      "photo": {
+        "filename": "Asian Nations Cup Iran - Qatar (22) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Asian_Nations_Cup_Iran_-_Qatar_%2822%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Asian_Nations_Cup_Iran_-_Qatar_%2822%29_%28cropped%29.jpg",
+        "width": 270,
+        "height": 434,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "M.Sadegh Nikgostar",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mohammed-waad.jpg"
+      }
+    },
+    {
+      "slug": "ahmed-fathy",
+      "display_name": "Ahmed Fathy",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1993-01-25",
+      "age": 33,
+      "caps": 46,
+      "goals": 0,
+      "club_from_squad_table": "Al-Arabi",
+      "wikipedia_title": "Ahmed Fathy (Qatari footballer)",
+      "date_of_birth": "1993-01-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Arabi",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q24005986",
+      "qid": "Q24005986",
+      "name": "Ahmed Fathi",
+      "description": "association football player",
+      "place_of_birth_qid": "Q3861",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 166.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3873543",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q963238",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q283760",
+          "start": "2011-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q283760",
+      "image_filename": "Asian Nations Cup Iran - Qatar (21) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_Fathy_(Qatari_footballer)",
+      "transfermarkt_id": "251183",
+      "wikidata_date_of_birth": "1993-06-25",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Doha",
+      "wikidata_current_club": "Al-Arabi SC",
+      "wikidata_current_club_qid": "Q283760",
+      "photo": {
+        "filename": "Asian Nations Cup Iran - Qatar (21) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Asian_Nations_Cup_Iran_-_Qatar_%2821%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Asian_Nations_Cup_Iran_-_Qatar_%2821%29_%28cropped%29.jpg",
+        "width": 313,
+        "height": 348,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "M.Sadegh Nikgostar",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ahmed-fathy.jpg"
+      }
+    },
+    {
+      "slug": "jassem-gaber",
+      "display_name": "Jassem Gaber",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-02-20",
+      "age": 24,
+      "caps": 31,
+      "goals": 1,
+      "club_from_squad_table": "Al-Rayyan",
+      "wikipedia_title": "Jassem Gaber",
+      "date_of_birth": "2002-02-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Rayyan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q80809664",
+      "qid": "Q80809664",
+      "name": "Jassem Gaber",
+      "description": "Qatari footballer",
+      "place_of_birth_qid": "Q3861",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q283760",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q963238",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q283760",
+      "image_filename": "Asian Nations Cup Iran - Qatar (5) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jassem_Gaber",
+      "transfermarkt_id": "735813",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Doha",
+      "wikidata_current_club": "Al-Arabi SC",
+      "wikidata_current_club_qid": "Q283760",
+      "photo": {
+        "filename": "Asian Nations Cup Iran - Qatar (5) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Asian_Nations_Cup_Iran_-_Qatar_%285%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Asian_Nations_Cup_Iran_-_Qatar_%285%29_%28cropped%29.jpg",
+        "width": 264,
+        "height": 364,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "M.Sadegh Nikgostar",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jassem-gaber.jpg"
+      }
+    },
+    {
+      "slug": "mohamed-al-mannai",
+      "display_name": "Mohamed Al-Mannai",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-10-30",
+      "age": 22,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Al-Shamal",
+      "wikipedia_title": "Mohamed Al-Mannai",
+      "date_of_birth": "2003-10-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Shamal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q137394484",
+      "qid": "Q137394484",
+      "name": "Mohamed Al-Mannai",
+      "description": "Qatari footballer (born 2003)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Al-Mannai",
+      "wikidata_date_of_birth": "2003-10-23",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "tahsin-jamshid",
+      "display_name": "Tahsin Jamshid",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2006-06-16",
+      "age": 19,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Al-Duhail",
+      "wikipedia_title": "Tahsin Jamshid",
+      "date_of_birth": "2006-06-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Duhail",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q126258395",
+      "qid": "Q126258395",
+      "name": "Tahsin Mohammed Jamshid",
+      "description": "Qatari footballer (born 2006)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tahsin_Jamshid",
+      "wikidata_date_of_birth": "2006-01-01",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "hassan-al-haydos",
+      "display_name": "Hassan Al-Haydos",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1990-12-11",
+      "age": 35,
+      "caps": 184,
+      "goals": 41,
+      "club_from_squad_table": "Al-Sadd",
+      "wikipedia_title": "Hassan Al-Haydos",
+      "date_of_birth": "1990-12-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Sadd",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q5679556",
+      "qid": "Q5679556",
+      "name": "Hassan Al Haidos",
+      "description": "Qatari footballer",
+      "place_of_birth_qid": "Q3861",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 174.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q283545",
+          "start": "2007-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873543",
+          "start": "2007-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q963238",
+          "start": "2007-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2008-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q283545",
+      "image_filename": "Qatar - Japan, AFC Asian Cup 2019 58 - Hassan Al Haydos.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hassan_Al-Haydos",
+      "transfermarkt_id": "86286",
+      "fifa_player_id": "284190",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Doha",
+      "wikidata_current_club": "Al Sadd Sports Club",
+      "wikidata_current_club_qid": "Q283545",
+      "photo": {
+        "filename": "Qatar - Japan, AFC Asian Cup 2019 58 - Hassan Al Haydos.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Qatar_-_Japan%2C_AFC_Asian_Cup_2019_58_-_Hassan_Al_Haydos.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Qatar_-_Japan%2C_AFC_Asian_Cup_2019_58_-_Hassan_Al_Haydos.jpg",
+        "width": 246,
+        "height": 356,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Mehdi Bolourian",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/hassan-al-haydos.jpg"
+      }
+    },
+    {
+      "slug": "sebastián-soria",
+      "display_name": "Sebastián Soria",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1983-11-08",
+      "age": 42,
+      "caps": 124,
+      "goals": 39,
+      "club_from_squad_table": "Qatar SC",
+      "wikipedia_title": "Sebastián Soria",
+      "date_of_birth": "1983-11-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Qatar SC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q1191105",
+      "qid": "Q1191105",
+      "name": "Sebastián Soria",
+      "description": "Qatari footballer",
+      "place_of_birth_qid": "Q309442",
+      "citizenship_qids": [
+        "Q77",
+        "Q846"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 86.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1131189",
+          "start": "2002-01-01",
+          "end": "2004-01-01"
+        },
+        {
+          "team_qid": "Q1056948",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q428211",
+          "start": "2004-01-01",
+          "end": "2005-01-01"
+        },
+        {
+          "team_qid": "Q1051203",
+          "start": "2005-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q311268",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2006-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q963238",
+          "start": "2006-01-01",
+          "end": "2006-01-01"
+        }
+      ],
+      "current_club_qid": "Q311268",
+      "image_filename": "Sebastian Soria.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Soria",
+      "transfermarkt_id": "64868",
+      "fifa_player_id": "278161",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Uruguay",
+        "Qatar"
+      ],
+      "place_of_birth": null,
+      "wikidata_current_club": "Al-Rayyan",
+      "wikidata_current_club_qid": "Q311268",
+      "photo": {
+        "filename": "Sebastian Soria.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sebastian_Soria.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sebastian_Soria.jpg/960px-Sebastian_Soria.jpg",
+        "width": 1800,
+        "height": 2798,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "By Doha Stadium Plus",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/sebastián-soria.jpg"
+      }
+    },
+    {
+      "slug": "akram-afif",
+      "display_name": "Akram Afif",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-11-18",
+      "age": 29,
+      "caps": 123,
+      "goals": 39,
+      "club_from_squad_table": "Al-Sadd",
+      "wikipedia_title": "Akram Afif",
+      "date_of_birth": "1996-11-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Sadd",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19882804",
+      "qid": "Q19882804",
+      "name": "Akram Afif",
+      "description": "Qatari association football player",
+      "place_of_birth_qid": "Q3861",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 177.0,
+      "weight_kg": 65.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q12297",
+          "start": "2016-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q3873543",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1423718",
+          "start": "2015-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q963238",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q12278",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1423718",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q283545",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q283545",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q283545",
+      "image_filename": "Akram Afif 2018 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Akram_Afif",
+      "transfermarkt_id": "336646",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Doha",
+      "wikidata_current_club": "Al Sadd Sports Club",
+      "wikidata_current_club_qid": "Q283545",
+      "photo": {
+        "filename": "Akram Afif 2018 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Akram_Afif_2018_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Akram_Afif_2018_%28cropped%29.jpg",
+        "width": 455,
+        "height": 799,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Fadi El Assad/DohaStadiumPlus",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/akram-afif.jpg"
+      }
+    },
+    {
+      "slug": "almoez-ali",
+      "display_name": "Almoez Ali",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-08-19",
+      "age": 29,
+      "caps": 114,
+      "goals": 55,
+      "club_from_squad_table": "Al-Duhail",
+      "wikipedia_title": "Almoez Ali",
+      "date_of_birth": "1996-08-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Duhail",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21011188",
+      "qid": "Q21011188",
+      "name": "Almoez Ali",
+      "description": "Qatari footballer",
+      "place_of_birth_qid": "Q1963",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 1.84,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q392310",
+          "start": "2015-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q1387445",
+          "start": "2015-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q582342",
+          "start": "2016-01-00",
+          "end": "2016-07-00"
+        },
+        {
+          "team_qid": "Q963238",
+          "start": "2016-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1056948",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1423718",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3873543",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1056948",
+          "start": "2016-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2016-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1056948",
+      "image_filename": "Almoez Ali.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Almoez_Ali",
+      "transfermarkt_id": "345095",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Khartoum",
+      "wikidata_current_club": "Al-Duhail SC",
+      "wikidata_current_club_qid": "Q1056948",
+      "photo": {
+        "filename": "Almoez Ali.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Almoez_Ali.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Almoez_Ali.jpg",
+        "width": 261,
+        "height": 389,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Mehdi Zare",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/almoez-ali.jpg"
+      }
+    },
+    {
+      "slug": "mohammed-muntari",
+      "display_name": "Mohammed Muntari",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1993-12-20",
+      "age": 32,
+      "caps": 67,
+      "goals": 16,
+      "club_from_squad_table": "Al-Gharafa",
+      "wikipedia_title": "Mohammed Muntari",
+      "date_of_birth": "1993-12-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Gharafa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18705783",
+      "qid": "Q18705783",
+      "name": "Mohammed Muntari",
+      "description": "Qatari footballer",
+      "place_of_birth_qid": "Q182059",
+      "citizenship_qids": [
+        "Q117",
+        "Q846"
+      ],
+      "height_cm": 194.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q429546",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1056948",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q284452",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q284452",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        }
+      ],
+      "current_club_qid": "Q1056948",
+      "image_filename": "2022 FIFA World Cup Qatar 0–2 Ecuador - (6).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammed_Muntari",
+      "transfermarkt_id": "266935",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Ghana",
+        "Qatar"
+      ],
+      "place_of_birth": "Kumasi",
+      "wikidata_current_club": "Al-Duhail SC",
+      "wikidata_current_club_qid": "Q1056948",
+      "photo": {
+        "filename": "2022 FIFA World Cup Qatar 0–2 Ecuador - (6).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/2022_FIFA_World_Cup_Qatar_0%E2%80%932_Ecuador_-_%286%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/2022_FIFA_World_Cup_Qatar_0%E2%80%932_Ecuador_-_%286%29.jpg",
+        "width": 800,
+        "height": 533,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "حسین ظهروند",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mohammed-muntari.jpg"
+      }
+    },
+    {
+      "slug": "ahmed-alaaeldin",
+      "display_name": "Ahmed Alaaeldin",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1993-01-31",
+      "age": 33,
+      "caps": 66,
+      "goals": 9,
+      "club_from_squad_table": "Al-Rayyan",
+      "wikipedia_title": "Ahmed Alaaeldin",
+      "date_of_birth": "1993-01-31",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Rayyan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q4695740",
+      "qid": "Q4695740",
+      "name": "Ahmed Alaaeldin",
+      "description": "Qatari footballer",
+      "place_of_birth_qid": "Q217156",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q311268",
+          "start": "2012-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q428211",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2013-11-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873543",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q963238",
+          "start": "2014-00-00",
+          "end": "2016-00-00"
+        }
+      ],
+      "current_club_qid": "Q428211",
+      "image_filename": "Qatar v Japan – AFC Asian Cup 2019 final 04 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_Alaaeldin",
+      "transfermarkt_id": "187987",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Ismailia",
+      "wikidata_current_club": "Al-Gharafa SC",
+      "wikidata_current_club_qid": "Q428211",
+      "photo": {
+        "filename": "Qatar v Japan – AFC Asian Cup 2019 final 04 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Qatar_v_Japan_%E2%80%93_AFC_Asian_Cup_2019_final_04_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Qatar_v_Japan_%E2%80%93_AFC_Asian_Cup_2019_final_04_%28cropped%29.jpg",
+        "width": 364,
+        "height": 536,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Parto Joghataee",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ahmed-alaaeldin.jpg"
+      }
+    },
+    {
+      "slug": "yusuf-abdurisag",
+      "display_name": "Yusuf Abdurisag",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-08-06",
+      "age": 26,
+      "caps": 37,
+      "goals": 3,
+      "club_from_squad_table": "Al-Wakrah",
+      "wikipedia_title": "Yusuf Abdurisag",
+      "date_of_birth": "1999-08-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Wakrah",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64211871",
+      "qid": "Q64211871",
+      "name": "Yusuf Abdurisag",
+      "description": "Qatari footballer",
+      "place_of_birth_qid": "Q846",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 1.77,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q283545",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q283760",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873543",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q963238",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q283545",
+      "image_filename": "Asian Nations Cup Iran - Qatar (22) (cropped1).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yusuf_Abdurisag",
+      "transfermarkt_id": "589099",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Qatar",
+      "wikidata_current_club": "Al Sadd Sports Club",
+      "wikidata_current_club_qid": "Q283545",
+      "photo": {
+        "filename": "Asian Nations Cup Iran - Qatar (22) (cropped1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Asian_Nations_Cup_Iran_-_Qatar_%2822%29_%28cropped1%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Asian_Nations_Cup_Iran_-_Qatar_%2822%29_%28cropped1%29.jpg",
+        "width": 187,
+        "height": 370,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "M.Sadegh Nikgostar",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/yusuf-abdurisag.jpg"
+      }
+    },
+    {
+      "slug": "edmilson-junior",
+      "display_name": "Edmilson Junior",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1994-08-19",
+      "age": 31,
+      "caps": 14,
+      "goals": 0,
+      "club_from_squad_table": "Al-Duhail",
+      "wikipedia_title": "Edmilson Junior",
+      "date_of_birth": "1994-08-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Duhail",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q1957458",
+      "qid": "Q1957458",
+      "name": "Edmilson Junior",
+      "description": "Brazilian association football player",
+      "place_of_birth_qid": "Q3992",
+      "citizenship_qids": [
+        "Q155",
+        "Q31"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 71.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q190561",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q138248",
+          "start": "2012-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q138248",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q190561",
+      "image_filename": "Edmilson Junior 2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Edmilson_Junior",
+      "transfermarkt_id": "237846",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Brazil",
+        "Belgium"
+      ],
+      "place_of_birth": "Liège",
+      "wikidata_current_club": "Standard Liège",
+      "wikidata_current_club_qid": "Q190561",
+      "photo": {
+        "filename": "Edmilson Junior 2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Edmilson_Junior_2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Edmilson_Junior_2018.jpg",
+        "width": 219,
+        "height": 302,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Mahdi Zare/Fars News Agency",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/edmilson-junior.jpg"
+      }
+    },
+    {
+      "slug": "ahmed-al-ganehi",
+      "display_name": "Ahmed Al-Ganehi",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-09-22",
+      "age": 25,
+      "caps": 13,
+      "goals": 1,
+      "club_from_squad_table": "Al-Gharafa",
+      "wikipedia_title": "Ahmed Al-Ganehi",
+      "date_of_birth": "2000-09-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Gharafa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q61983513",
+      "qid": "Q61983513",
+      "name": "Ahmed Al-Ganehi",
+      "description": "Qatari footballer",
+      "place_of_birth_qid": "Q3861",
+      "citizenship_qids": [
+        "Q846"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q428211",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q232731",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q428211",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_Al-Ganehi",
+      "transfermarkt_id": "670659",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Qatar"
+      ],
+      "place_of_birth": "Doha",
+      "wikidata_current_club": "Al-Gharafa SC",
+      "wikidata_current_club_qid": "Q428211",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "mubarak-shanan",
+      "display_name": "Mubarak Shanan",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2004-02-20",
+      "age": 22,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Al-Duhail",
+      "wikipedia_title": null,
+      "date_of_birth": "2004-02-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Duhail",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q137399077",
+      "qid": "Q137399077",
+      "wikidata_qid_source": "verified-wikidata",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    }
+  ],
+  "notes": [
+    "Qatar photo/QID audit 2026-05-24: verifier found no clean Wikimedia photo for 13 players; added verified Wikidata QIDs for Al-Hashmi Al-Hussain and Mubarak Shanan; Fahad Younis and Rayyan Al-Ali still have no confirmed Wikidata identity.",
+    "Qatar QID follow-up 2026-05-25: confirmed Fahad Younis/Fahad Younes as Wikidata Q24007738 via matching DOB, goalkeeper position, Qatar citizenship, and Transfermarkt ID 311726; Rayyan Al-Ali remains without an unambiguous Wikidata QID and has an identity_review note."
+  ]
+}

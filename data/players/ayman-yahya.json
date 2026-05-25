@@ -1,0 +1,80 @@
+{
+  "slug": "ayman-yahya",
+  "display_name": "Ayman Yahya",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2001-05-14",
+  "age": 25,
+  "caps": 25,
+  "goals": 0,
+  "club_from_squad_table": "Al-Nassr",
+  "wikipedia_title": "Ayman Yahya",
+  "date_of_birth": "2001-05-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Nassr",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q68168547",
+  "qid": "Q68168547",
+  "name": "Ayman Yahya",
+  "description": "Saudi Arabian association football player",
+  "place_of_birth_qid": "Q3692",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 1.68,
+  "position_qids": [
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q482764",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q189723",
+      "start": "2020-11-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2756148",
+      "start": "2020-01-00",
+      "end": "2020-01-00"
+    },
+    {
+      "team_qid": "Q23848735",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q44441",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    }
+  ],
+  "current_club_qid": "Q482764",
+  "image_filename": "Ayman Yahya, 2025 CONCACAF Gold Cup (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ayman_Yahya",
+  "transfermarkt_id": "735815",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Riyadh",
+  "photo": {
+    "filename": "Ayman Yahya, 2025 CONCACAF Gold Cup (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ayman_Yahya%2C_2025_CONCACAF_Gold_Cup_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ayman_Yahya%2C_2025_CONCACAF_Gold_Cup_%28cropped%29.jpg",
+    "width": 640,
+    "height": 836,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Peadara\" title=\"User:Peadara\">Peadara</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ayman-yahya.jpg"
+  },
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia"
+}

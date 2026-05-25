@@ -1,0 +1,105 @@
+{
+  "slug": "osman-hadžikić",
+  "display_name": "Osman Hadžikić",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1996-03-12",
+  "age": 30,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Slaven Belupo",
+  "wikipedia_title": "Osman Hadžikić",
+  "wikidata_qid": "Q20656130",
+  "qid": "Q20656130",
+  "name": "Osman Hadzikic",
+  "description": "Bosnian-Austrian association football player",
+  "date_of_birth": "1996-03-12",
+  "place_of_birth_qid": "Q487522",
+  "citizenship_qids": [
+    "Q40",
+    "Q225"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q131209",
+      "start": "2011-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q131209",
+      "start": "2014-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q302977",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q303033",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q206692",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q723644",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q698702",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q818698",
+      "start": "2022-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q368909",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q368909",
+  "image_filename": "Austria national under-21 football team - Teamcamp June 2017 (Osman).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Osman_Had%C5%BEiki%C4%87",
+  "transfermarkt_id": "188881",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Slaven Belupo",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Austria",
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Klosterneuburg",
+  "wikidata_current_club": "NK Slaven Belupo",
+  "wikidata_current_club_qid": "Q368909",
+  "photo": {
+    "filename": "Austria national under-21 football team - Teamcamp June 2017 (Osman).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28Osman%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28Osman%29.jpg",
+    "width": 485,
+    "height": 585,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 10:33, 30 June 2017 (UTC)",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/osman-hadžikić.jpg"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

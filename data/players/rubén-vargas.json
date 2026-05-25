@@ -1,0 +1,80 @@
+{
+  "slug": "rubén-vargas",
+  "display_name": "Rubén Vargas",
+  "shirt_no": 17,
+  "position_code": "FW",
+  "dob": "1998-08-05",
+  "age": 27,
+  "caps": 60,
+  "goals": 11,
+  "club_from_squad_table": "Sevilla",
+  "wikipedia_title": "Rubén Vargas",
+  "date_of_birth": "1998-08-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sevilla",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q38053896",
+  "qid": "Q38053896",
+  "name": "Ruben Vargas",
+  "description": "Swiss association football player",
+  "place_of_birth_qid": "Q14563",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 1.74,
+  "weight_kg": 68.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q223262",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q15755",
+      "start": "2019-07-01",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q3873550",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q678582",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q165141",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q10329",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q10329",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rub%C3%A9n_Vargas",
+  "transfermarkt_id": "345886",
+  "fifa_player_id": "201642267",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Adligenswil",
+  "wikidata_current_club": "Sevilla FC",
+  "wikidata_current_club_qid": "Q10329",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

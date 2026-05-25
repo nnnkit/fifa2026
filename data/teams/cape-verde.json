@@ -1,0 +1,1616 @@
+{
+  "slug": "cape-verde",
+  "country": "Cape Verde",
+  "wikidata_qid": "Q330039",
+  "fetched_at": "2026-05-24T16:45:22+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "vozinha",
+      "display_name": "Vozinha",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1986-06-03",
+      "age": 40,
+      "caps": 85,
+      "goals": 0,
+      "club_from_squad_table": "Chaves",
+      "wikipedia_title": "Vozinha",
+      "date_of_birth": "1986-06-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Chaves",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q3018091",
+      "qid": "Q3018091",
+      "name": "Vozinha",
+      "description": "Cape Verdean international association football goalkeeper",
+      "place_of_birth_qid": "Q495547",
+      "citizenship_qids": [
+        "Q1011"
+      ],
+      "height_cm": 189.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q203513",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3063074",
+          "start": "2009-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q2417530",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q3298176",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q2417530",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q330039",
+          "start": "2012-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q203513",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vozinha",
+      "transfermarkt_id": "242277",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Cape Verde"
+      ],
+      "place_of_birth": "Mindelo",
+      "wikidata_current_club": "FC Zimbru Chișinău",
+      "wikidata_current_club_qid": "Q203513",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "márcio-rosa",
+      "display_name": "Márcio Rosa",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1997-02-23",
+      "age": 29,
+      "caps": 10,
+      "goals": 0,
+      "club_from_squad_table": "Montana",
+      "wikipedia_title": "Márcio Rosa",
+      "date_of_birth": "1997-02-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Montana",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q55433904",
+      "qid": "Q55433904",
+      "name": "Márcio Rosa",
+      "description": "Cape Verdean association football player",
+      "place_of_birth_qid": "Q3751",
+      "height_cm": 186.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q543467",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q543467",
+      "image_filename": "Phase de match Ethiopie - Cape verde (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%A1rcio_Rosa",
+      "transfermarkt_id": "398048",
+      "positions": [
+        "goalkeeper"
+      ],
+      "place_of_birth": "Praia",
+      "wikidata_current_club": "G.D. Chaves",
+      "wikidata_current_club_qid": "Q543467",
+      "photo": {
+        "filename": "Phase de match Ethiopie - Cape verde (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Phase_de_match_Ethiopie_-_Cape_verde_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Phase_de_match_Ethiopie_-_Cape_verde_%28cropped%29.jpg/960px-Phase_de_match_Ethiopie_-_Cape_verde_%28cropped%29.jpg",
+        "width": 2366,
+        "height": 954,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Happiraphael\" title=\"User:Happiraphael\">Happiraphael</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/márcio-rosa.jpg"
+      }
+    },
+    {
+      "slug": "cj-dos-santos",
+      "display_name": "CJ dos Santos",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2000-08-24",
+      "age": 25,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "San Diego",
+      "wikipedia_title": "CJ dos Santos",
+      "date_of_birth": "2000-08-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "San Diego",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q62445814",
+      "qid": "Q62445814",
+      "name": "CJ dos Santos",
+      "description": "Cape Verdean association football player (born 2000)",
+      "place_of_birth_qid": "Q1345",
+      "citizenship_qids": [
+        "Q30",
+        "Q1011"
+      ],
+      "height_cm": 194.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7387221",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q287804",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q7387221",
+      "image_filename": "C.J. dos Santos.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/CJ_dos_Santos",
+      "transfermarkt_id": "532096",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "United States",
+        "Cape Verde"
+      ],
+      "place_of_birth": "Philadelphia",
+      "wikidata_current_club": "S.L. Benfica B",
+      "wikidata_current_club_qid": "Q7387221",
+      "photo": {
+        "filename": "C.J. dos Santos.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/C.J._dos_Santos.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/C.J._dos_Santos.jpg",
+        "width": 596,
+        "height": 903,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Pedro  Semitiel",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/cj-dos-santos.jpg"
+      }
+    },
+    {
+      "slug": "stopira",
+      "display_name": "Stopira",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1988-05-20",
+      "age": 38,
+      "caps": 60,
+      "goals": 4,
+      "club_from_squad_table": "Torreense",
+      "wikipedia_title": "Stopira",
+      "date_of_birth": "1988-05-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Torreense",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q918049",
+      "qid": "Q918049",
+      "name": "Stopira",
+      "description": "Cape Verdean association football player",
+      "place_of_birth_qid": "Q3751",
+      "citizenship_qids": [
+        "Q1011",
+        "Q45"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q326811",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q671042",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q3175004",
+          "start": "2006-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q740637",
+          "start": "2008-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q1705764",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q330039",
+          "start": "2008-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q8760",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q326811",
+      "image_filename": "Cap-vert vs Ethiopi (25).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stopira",
+      "transfermarkt_id": "80486",
+      "fifa_player_id": "297266",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Cape Verde",
+        "Portugal"
+      ],
+      "place_of_birth": "Praia",
+      "wikidata_current_club": "Fehérvár FC",
+      "wikidata_current_club_qid": "Q326811",
+      "photo": {
+        "filename": "Cap-vert vs Ethiopi (25).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Cap-vert_vs_Ethiopi_%2825%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cap-vert_vs_Ethiopi_%2825%29.jpg/960px-Cap-vert_vs_Ethiopi_%2825%29.jpg",
+        "width": 2056,
+        "height": 3088,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Effath%C3%A9ophile105&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Effathéophile105 (page does not exist)\">Effathéophile105</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/stopira.jpg"
+      }
+    },
+    {
+      "slug": "roberto-lopes",
+      "display_name": "Roberto Lopes",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1992-06-17",
+      "age": 33,
+      "caps": 44,
+      "goals": 0,
+      "club_from_squad_table": "Shamrock Rovers",
+      "wikipedia_title": "Roberto Lopes (footballer, born 1992)",
+      "date_of_birth": "1992-06-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Shamrock Rovers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q85797565",
+      "qid": "Q85797565",
+      "name": "Roberto Lopes",
+      "description": "Irish-Cape Verdean footballer",
+      "place_of_birth_qid": "Q4237564",
+      "citizenship_qids": [
+        "Q27",
+        "Q1011"
+      ],
+      "height_cm": 186.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q203976",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q203976",
+      "image_filename": "Phase de match (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Roberto_Lopes_(footballer,_born_1992)",
+      "transfermarkt_id": "166158",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Ireland",
+        "Cape Verde"
+      ],
+      "place_of_birth": "Crumlin",
+      "wikidata_current_club": "Shamrock Rovers F.C.",
+      "wikidata_current_club_qid": "Q203976",
+      "photo": {
+        "filename": "Phase de match (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Phase_de_match_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Phase_de_match_%28cropped%29.jpg/960px-Phase_de_match_%28cropped%29.jpg",
+        "width": 1240,
+        "height": 1909,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Happiraphael\" title=\"User:Happiraphael\">Happiraphael</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/roberto-lopes.jpg"
+      }
+    },
+    {
+      "slug": "joão-paulo",
+      "display_name": "João Paulo",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-05-26",
+      "age": 28,
+      "caps": 40,
+      "goals": 1,
+      "club_from_squad_table": "FCSB",
+      "wikipedia_title": "João Paulo Fernandes (footballer)",
+      "date_of_birth": "1998-05-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "FCSB",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107334828",
+      "qid": "Q107334828",
+      "name": "João Paulo Fernandes",
+      "description": "Cape Verdean footballer",
+      "place_of_birth_qid": "Q3122689",
+      "citizenship_qids": [
+        "Q1011"
+      ],
+      "height_cm": 176.0,
+      "position_qids": [
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3493842",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1822470",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q671042",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q210768",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q220863",
+          "start": "2025-06-30",
+          "end": "2026-02-02"
+        },
+        {
+          "team_qid": "Q179658",
+          "start": "2026-02-02",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q179658",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Paulo_Fernandes_(footballer)",
+      "transfermarkt_id": "623965",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "Cape Verde"
+      ],
+      "place_of_birth": "Ribeira Grande",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "diney",
+      "display_name": "Diney",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1995-01-17",
+      "age": 31,
+      "caps": 29,
+      "goals": 2,
+      "club_from_squad_table": "Al Bataeh",
+      "wikipedia_title": "Diney (footballer, born 1995)",
+      "date_of_birth": "1995-01-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al Bataeh",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18637312",
+      "qid": "Q18637312",
+      "name": "Diney",
+      "description": "Cape Verdea footballer (born 1995)",
+      "place_of_birth_qid": "Q2311253",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q216503",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q216503",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diney_(footballer,_born_1995)",
+      "transfermarkt_id": "349570",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Tarrafal",
+      "wikidata_current_club": "C.S. Marítimo",
+      "wikidata_current_club_qid": "Q216503",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "logan-costa",
+      "display_name": "Logan Costa",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-04-01",
+      "age": 25,
+      "caps": 26,
+      "goals": 0,
+      "club_from_squad_table": "Villarreal",
+      "wikipedia_title": "Logan Costa",
+      "date_of_birth": "2001-04-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Villarreal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110184199",
+      "qid": "Q110184199",
+      "name": "Logan Costa",
+      "description": "Cape Verdean association football player (born 2001)",
+      "place_of_birth_qid": "Q160506",
+      "citizenship_qids": [
+        "Q142",
+        "Q1011"
+      ],
+      "height_cm": 1.9,
+      "position_qids": [
+        "Q268258"
+      ],
+      "image_filename": "Logan Costa.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Logan_Costa",
+      "transfermarkt_id": "484988",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "France",
+        "Cape Verde"
+      ],
+      "place_of_birth": "Saint-Denis",
+      "photo": {
+        "filename": "Logan Costa.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Logan_Costa.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Logan_Costa.jpg",
+        "width": 491,
+        "height": 803,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:ArretsSurImage&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ArretsSurImage (page does not exist)\">ArretsSurImage</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/logan-costa.jpg"
+      }
+    },
+    {
+      "slug": "steven-moreira",
+      "display_name": "Steven Moreira",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1994-08-13",
+      "age": 31,
+      "caps": 18,
+      "goals": 0,
+      "club_from_squad_table": "Columbus Crew",
+      "wikipedia_title": "Steven Moreira",
+      "date_of_birth": "1994-08-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Columbus Crew",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q14371131",
+      "qid": "Q14371131",
+      "name": "Steven Moreira",
+      "description": "Cape Verdean and French footballer",
+      "place_of_birth_qid": "Q207605",
+      "citizenship_qids": [
+        "Q1011",
+        "Q142"
+      ],
+      "height_cm": 176.0,
+      "weight_kg": 67.0,
+      "position_qids": [
+        "Q336286",
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19509",
+          "start": "2013-07-01",
+          "end": "2016-08-30"
+        },
+        {
+          "team_qid": "Q48911",
+          "start": "2016-08-30",
+          "end": "2018-08-10"
+        },
+        {
+          "team_qid": "Q19518",
+          "start": "2018-08-10",
+          "end": "2021-07-01"
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q457163",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q457163",
+      "image_filename": "Steven Moreira NYCFC v Columbus 10 May 2026-67 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Steven_Moreira",
+      "transfermarkt_id": "203517",
+      "positions": [
+        "defender",
+        "full-back"
+      ],
+      "citizenship": [
+        "Cape Verde",
+        "France"
+      ],
+      "place_of_birth": "Noisy-le-Grand",
+      "photo": {
+        "filename": "Steven Moreira NYCFC v Columbus 10 May 2026-67 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Steven_Moreira_NYCFC_v_Columbus_10_May_2026-67_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Steven_Moreira_NYCFC_v_Columbus_10_May_2026-67_%28cropped%29.jpg/960px-Steven_Moreira_NYCFC_v_Columbus_10_May_2026-67_%28cropped%29.jpg",
+        "width": 3001,
+        "height": 4499,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/steven-moreira.jpg"
+      }
+    },
+    {
+      "slug": "wagner-pina",
+      "display_name": "Wagner Pina",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-11-03",
+      "age": 23,
+      "caps": 12,
+      "goals": 0,
+      "club_from_squad_table": "Trabzonspor",
+      "wikipedia_title": "Wagner Pina",
+      "date_of_birth": "2002-11-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Trabzonspor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q126369438",
+      "qid": "Q126369438",
+      "name": "Wagner Pina",
+      "description": "Cape Verdean footballer (born 2002)",
+      "place_of_birth_qid": "Q597",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 180.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wagner_Pina",
+      "transfermarkt_id": "1072017",
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Lisbon",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "sidny-lopes-cabral",
+      "display_name": "Sidny Lopes Cabral",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-09-18",
+      "age": 22,
+      "caps": 8,
+      "goals": 3,
+      "club_from_squad_table": "Benfica",
+      "wikipedia_title": "Sidny Lopes Cabral",
+      "date_of_birth": "2003-09-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Benfica",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q124382289",
+      "qid": "Q124382289",
+      "name": "Sidny Lopes Cabral",
+      "description": "Cape Verdean footballer (born 2002)",
+      "place_of_birth_qid": "Q34370",
+      "height_cm": 1.76,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sidny_Lopes_Cabral",
+      "transfermarkt_id": "611855",
+      "wikidata_date_of_birth": "2002-09-18",
+      "place_of_birth": "Rotterdam",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "kelvin-pires",
+      "display_name": "Kelvin Pires",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-06-05",
+      "age": 26,
+      "caps": 4,
+      "goals": 1,
+      "club_from_squad_table": "SJK",
+      "wikipedia_title": "Kelvin Pires",
+      "date_of_birth": "2000-06-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "SJK",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107806484",
+      "qid": "Q107806484",
+      "name": "Kelvin Pires",
+      "description": "Cape Verdean footballer",
+      "place_of_birth_qid": "Q1011",
+      "height_cm": 193.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kelvin_Pires",
+      "transfermarkt_id": "662119",
+      "place_of_birth": "Cape Verde",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jamiro-monteiro",
+      "display_name": "Jamiro Monteiro",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1993-11-23",
+      "age": 32,
+      "caps": 53,
+      "goals": 5,
+      "club_from_squad_table": "PEC Zwolle",
+      "wikipedia_title": "Jamiro Monteiro",
+      "date_of_birth": "1993-11-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "PEC Zwolle",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q23541080",
+      "qid": "Q23541080",
+      "name": "Jamiro Monteiro",
+      "description": "Cape Verdean footballer",
+      "place_of_birth_qid": "Q34370",
+      "citizenship_qids": [
+        "Q29999",
+        "Q1011"
+      ],
+      "height_cm": 175.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q875120",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q330039",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q11961",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q875120",
+      "image_filename": "Jamiro Monteiro Philadelphia Union 2019.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jamiro_Monteiro",
+      "transfermarkt_id": "272930",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands",
+        "Cape Verde"
+      ],
+      "place_of_birth": "Rotterdam",
+      "wikidata_current_club": "SC Cambuur",
+      "wikidata_current_club_qid": "Q875120",
+      "photo": {
+        "filename": "Jamiro Monteiro Philadelphia Union 2019.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Jamiro_Monteiro_Philadelphia_Union_2019.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Jamiro_Monteiro_Philadelphia_Union_2019.jpg/960px-Jamiro_Monteiro_Philadelphia_Union_2019.jpg",
+        "width": 2268,
+        "height": 3143,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Morgan Tencza",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jamiro-monteiro.jpg"
+      }
+    },
+    {
+      "slug": "kevin-pina",
+      "display_name": "Kevin Pina",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-01-27",
+      "age": 29,
+      "caps": 30,
+      "goals": 2,
+      "club_from_squad_table": "Krasnodar",
+      "wikipedia_title": "Kevin Pina (footballer)",
+      "date_of_birth": "1997-01-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Krasnodar",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q108395046",
+      "qid": "Q108395046",
+      "name": "Kevin Pina",
+      "description": "footballer",
+      "place_of_birth_qid": "Q3751",
+      "citizenship_qids": [
+        "Q1011"
+      ],
+      "height_cm": 181.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q220854",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q220854",
+      "image_filename": "Kevin Pina (footballer) 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Pina_(footballer)",
+      "transfermarkt_id": "544586",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Cape Verde"
+      ],
+      "place_of_birth": "Praia",
+      "wikidata_current_club": "FC Krasnodar",
+      "wikidata_current_club_qid": "Q220854",
+      "photo": {
+        "filename": "Kevin Pina (footballer) 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Kevin_Pina_%28footballer%29_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Kevin_Pina_%28footballer%29_2022.jpg",
+        "width": 743,
+        "height": 933,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Дмитрий Пукалик",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kevin-pina.jpg"
+      }
+    },
+    {
+      "slug": "deroy-duarte",
+      "display_name": "Deroy Duarte",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1999-07-04",
+      "age": 26,
+      "caps": 30,
+      "goals": 0,
+      "club_from_squad_table": "Ludogorets Razgrad",
+      "wikipedia_title": "Deroy Duarte",
+      "date_of_birth": "1999-07-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Ludogorets Razgrad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q39082970",
+      "qid": "Q39082970",
+      "name": "Deroy Duarte",
+      "description": "association football player",
+      "place_of_birth_qid": "Q34370",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 177.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q209895",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q209895",
+      "image_filename": "Deroy Duarte.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Deroy_Duarte",
+      "transfermarkt_id": "432852",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Rotterdam",
+      "wikidata_current_club": "Sparta Rotterdam",
+      "wikidata_current_club_qid": "Q209895",
+      "photo": {
+        "filename": "Deroy Duarte.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deroy_Duarte.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deroy_Duarte.jpg",
+        "width": 581,
+        "height": 1024,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Carlo Bruil Fotografie",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/deroy-duarte.jpg"
+      }
+    },
+    {
+      "slug": "telmo-arcanjo",
+      "display_name": "Telmo Arcanjo",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-06-21",
+      "age": 24,
+      "caps": 14,
+      "goals": 1,
+      "club_from_squad_table": "Vitória de Guimarães",
+      "wikipedia_title": "Telmo Arcanjo",
+      "date_of_birth": "2001-06-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Vitória de Guimarães",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q97580948",
+      "qid": "Q97580948",
+      "name": "Telmo Arcanjo",
+      "description": "Portuguese footballer",
+      "place_of_birth_qid": "Q597",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 180.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Telmo_Arcanjo",
+      "transfermarkt_id": "791528",
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Lisbon",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "laros-duarte",
+      "display_name": "Laros Duarte",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-02-28",
+      "age": 29,
+      "caps": 12,
+      "goals": 0,
+      "club_from_squad_table": "Puskás Akadémia",
+      "wikipedia_title": "Laros Duarte",
+      "date_of_birth": "1997-02-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Puskás Akadémia",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20676495",
+      "qid": "Q20676495",
+      "name": "Laros Duarte",
+      "description": "Dutch association football player",
+      "place_of_birth_qid": "Q34370",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q11938",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q13534332",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q601723",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q514714",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q11938",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Laros_Duarte",
+      "transfermarkt_id": "258513",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Rotterdam",
+      "wikidata_current_club": "PSV Eindhoven",
+      "wikidata_current_club_qid": "Q11938",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "yannick-semedo",
+      "display_name": "Yannick Semedo",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1995-12-29",
+      "age": 30,
+      "caps": 10,
+      "goals": 1,
+      "club_from_squad_table": "Farense",
+      "wikipedia_title": "Yannick Semedo",
+      "date_of_birth": "1995-12-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Farense",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q130465245",
+      "qid": "Q130465245",
+      "name": "Yannick Semedo",
+      "description": "Cape Verdean association football player",
+      "place_of_birth_qid": "Q3751",
+      "citizenship_qids": [
+        "Q1011"
+      ],
+      "height_cm": 171.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yannick_Semedo",
+      "transfermarkt_id": "620307",
+      "citizenship": [
+        "Cape Verde"
+      ],
+      "place_of_birth": "Praia",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ryan-mendes",
+      "display_name": "Ryan Mendes",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1990-01-08",
+      "age": 36,
+      "caps": 94,
+      "goals": 22,
+      "club_from_squad_table": "Iğdır",
+      "wikipedia_title": "Ryan Mendes",
+      "date_of_birth": "1990-01-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Iğdır",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q1392925",
+      "qid": "Q1392925",
+      "name": "Ryan Mendes da Graça",
+      "description": "Cape Verdean footballer",
+      "place_of_birth_qid": "Q495547",
+      "citizenship_qids": [
+        "Q142",
+        "Q1011"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19516",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q328658",
+          "start": "2008-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q19490",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q330039",
+          "start": "2010-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19490",
+      "image_filename": "Ryan Mendes (LOSC Lille).JPG",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Mendes",
+      "transfermarkt_id": "111627",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "France",
+        "Cape Verde"
+      ],
+      "place_of_birth": "Mindelo",
+      "wikidata_current_club": "Nottingham Forest F.C.",
+      "wikidata_current_club_qid": "Q19490",
+      "photo": {
+        "filename": "Ryan Mendes (LOSC Lille).JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ryan_Mendes_%28LOSC_Lille%29.JPG",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ryan_Mendes_%28LOSC_Lille%29.JPG/960px-Ryan_Mendes_%28LOSC_Lille%29.JPG",
+        "width": 1320,
+        "height": 1694,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Liondartois\" title=\"User:Liondartois\">Liondartois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ryan-mendes.JPG"
+      }
+    },
+    {
+      "slug": "garry-rodrigues",
+      "display_name": "Garry Rodrigues",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1990-11-27",
+      "age": 35,
+      "caps": 59,
+      "goals": 9,
+      "club_from_squad_table": "Apollon Limassol",
+      "wikipedia_title": "Garry Rodrigues",
+      "date_of_birth": "1990-11-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Apollon Limassol",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q4621784",
+      "qid": "Q4621784",
+      "name": "Garry Mendes Rodrigues",
+      "description": "Dutch-born Cape Verdean footballer",
+      "place_of_birth_qid": "Q34370",
+      "citizenship_qids": [
+        "Q1011"
+      ],
+      "height_cm": 173.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2219963",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q2311621",
+          "start": "2010-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q24904",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1045811",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q144190",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q10512",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q144190",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q10512",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q204888",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q330039",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q144190",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q10512",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q204888",
+          "start": "2015-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q495299",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q309480",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        }
+      ],
+      "current_club_qid": "Q204888",
+      "image_filename": "Garry Rodrigues 2013 Catalonia.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Garry_Rodrigues",
+      "transfermarkt_id": "170895",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Cape Verde"
+      ],
+      "place_of_birth": "Rotterdam",
+      "wikidata_current_club": "PAOK FC",
+      "wikidata_current_club_qid": "Q204888",
+      "photo": {
+        "filename": "Garry Rodrigues 2013 Catalonia.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Garry_Rodrigues_2013_Catalonia.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Garry_Rodrigues_2013_Catalonia.jpg/960px-Garry_Rodrigues_2013_Catalonia.jpg",
+        "width": 982,
+        "height": 1421,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a href=\"//www.flickr.com/people/64346837@N06\" class=\"extiw\" title=\"flickruser:64346837@N06\">Xavier Rondón Medina</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/garry-rodrigues.jpg"
+      }
+    },
+    {
+      "slug": "willy-semedo",
+      "display_name": "Willy Semedo",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1994-04-27",
+      "age": 32,
+      "caps": 36,
+      "goals": 2,
+      "club_from_squad_table": "Omonia",
+      "wikipedia_title": "Willy Semedo",
+      "date_of_birth": "1994-04-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Omonia",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q44821118",
+      "qid": "Q44821118",
+      "name": "Willy Semedo",
+      "description": "French and Cape Verdean association football player",
+      "place_of_birth_qid": "Q237367",
+      "citizenship_qids": [
+        "Q142",
+        "Q1011"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19585",
+          "start": "2018-01-31",
+          "end": "2019-02-04"
+        },
+        {
+          "team_qid": "Q1053917",
+          "start": "2018-08-30",
+          "end": "2019-01-30"
+        },
+        {
+          "team_qid": "Q1024390",
+          "start": "2019-02-04",
+          "end": "2019-07-00"
+        },
+        {
+          "team_qid": "Q209509",
+          "start": "2019-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q209509",
+      "image_filename": "RC Lens - Grenoble Foot 38 (10-02-2020) 70.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Willy_Semedo",
+      "transfermarkt_id": "531450",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France",
+        "Cape Verde"
+      ],
+      "place_of_birth": "Montfermeil",
+      "wikidata_current_club": "Grenoble Foot 38",
+      "wikidata_current_club_qid": "Q209509",
+      "photo": {
+        "filename": "RC Lens - Grenoble Foot 38 (10-02-2020) 70.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/RC_Lens_-_Grenoble_Foot_38_%2810-02-2020%29_70.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/RC_Lens_-_Grenoble_Foot_38_%2810-02-2020%29_70.jpg/960px-RC_Lens_-_Grenoble_Foot_38_%2810-02-2020%29_70.jpg",
+        "width": 2190,
+        "height": 2921,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterhéninois (page does not exist)\">Supporterhéninois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/willy-semedo.jpg"
+      }
+    },
+    {
+      "slug": "jovane-cabral",
+      "display_name": "Jovane Cabral",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1998-06-14",
+      "age": 27,
+      "caps": 25,
+      "goals": 2,
+      "club_from_squad_table": "Estrela Amadora",
+      "wikipedia_title": "Jovane Cabral",
+      "date_of_birth": "1998-06-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Estrela Amadora",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26704562",
+      "qid": "Q26704562",
+      "name": "Jovane Cabral",
+      "description": "Cape Verdean association football player",
+      "place_of_birth_qid": "Q490573",
+      "citizenship_qids": [
+        "Q1011"
+      ],
+      "height_cm": 1.76,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q75729",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q75729",
+      "image_filename": "JovaneCabral 2021.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jovane_Cabral",
+      "transfermarkt_id": "448466",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Cape Verde"
+      ],
+      "place_of_birth": "Assomada",
+      "wikidata_current_club": "Sporting CP",
+      "wikidata_current_club_qid": "Q75729",
+      "photo": {
+        "filename": "JovaneCabral 2021.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/JovaneCabral_2021.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/JovaneCabral_2021.jpg",
+        "width": 668,
+        "height": 720,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://m.youtube.com/channel/UCnJj6L93JX3Jrhzv81ayywA\">Sporting Clube de Portugal</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jovane-cabral.jpg"
+      }
+    },
+    {
+      "slug": "gilson-benchimol",
+      "display_name": "Gilson Benchimol",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-12-29",
+      "age": 24,
+      "caps": 21,
+      "goals": 5,
+      "club_from_squad_table": "Akron Tolyatti",
+      "wikipedia_title": "Gilson Benchimol",
+      "date_of_birth": "2001-12-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Akron Tolyatti",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q105939150",
+      "qid": "Q105939150",
+      "name": "Gilson Tavares",
+      "description": "Cape Verdean association football player",
+      "place_of_birth_qid": "Q3751",
+      "citizenship_qids": [
+        "Q1011"
+      ],
+      "height_cm": 1.87,
+      "position_qids": [
+        "Q543457"
+      ],
+      "image_filename": "Benchimol 2024.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gilson_Benchimol",
+      "transfermarkt_id": "820252",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Cape Verde"
+      ],
+      "place_of_birth": "Praia",
+      "photo": {
+        "filename": "Benchimol 2024.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Benchimol_2024.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Benchimol_2024.jpg",
+        "width": 705,
+        "height": 1050,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Вячеслав Евдокимов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/gilson-benchimol.jpg"
+      }
+    },
+    {
+      "slug": "dailon-livramento",
+      "display_name": "Dailon Livramento",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-05-04",
+      "age": 25,
+      "caps": 20,
+      "goals": 7,
+      "club_from_squad_table": "Casa Pia",
+      "wikipedia_title": "Dailon Livramento",
+      "date_of_birth": "2001-05-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Casa Pia",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110943455",
+      "qid": "Q110943455",
+      "name": "Dailon Livramento",
+      "description": "Dutch association football player",
+      "place_of_birth_qid": "Q34370",
+      "citizenship_qids": [
+        "Q29999",
+        "Q1011"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q24719",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q24719",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dailon_Livramento",
+      "transfermarkt_id": "676411",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands",
+        "Cape Verde"
+      ],
+      "place_of_birth": "Rotterdam",
+      "wikidata_current_club": "Roda JC Kerkrade",
+      "wikidata_current_club_qid": "Q24719",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "hélio-varela",
+      "display_name": "Hélio Varela",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2002-05-03",
+      "age": 24,
+      "caps": 19,
+      "goals": 0,
+      "club_from_squad_table": "Maccabi Tel Aviv",
+      "wikipedia_title": "Hélio Varela",
+      "date_of_birth": "2002-05-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Maccabi Tel Aviv",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q121907216",
+      "qid": "Q121907216",
+      "name": "Hélio Varela",
+      "description": "Portuguese footballer",
+      "place_of_birth_qid": "Q328015",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 1.76,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/H%C3%A9lio_Varela",
+      "transfermarkt_id": "840836",
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Almada",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "nuno-da-costa",
+      "display_name": "Nuno da Costa",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1991-02-10",
+      "age": 35,
+      "caps": 7,
+      "goals": 1,
+      "club_from_squad_table": "İstanbul Başakşehir",
+      "wikipedia_title": "Nuno da Costa",
+      "date_of_birth": "1991-02-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "İstanbul Başakşehir",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q23007684",
+      "qid": "Q23007684",
+      "name": "Nuno da Costa",
+      "description": "Cape Verdean association football player",
+      "place_of_birth_qid": "Q3751",
+      "citizenship_qids": [
+        "Q1011"
+      ],
+      "height_cm": 1.82,
+      "weight_kg": 85.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q212269",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q212269",
+      "image_filename": "Valenciennes - UNFP FC (02-07-2016) 40 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nuno_da_Costa",
+      "transfermarkt_id": "306166",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Cape Verde"
+      ],
+      "place_of_birth": "Praia",
+      "wikidata_current_club": "Valenciennes F.C.",
+      "wikidata_current_club_qid": "Q212269",
+      "photo": {
+        "filename": "Valenciennes - UNFP FC (02-07-2016) 40 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Valenciennes_-_UNFP_FC_%2802-07-2016%29_40_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Valenciennes_-_UNFP_FC_%2802-07-2016%29_40_%28cropped%29.jpg/960px-Valenciennes_-_UNFP_FC_%2802-07-2016%29_40_%28cropped%29.jpg",
+        "width": 1206,
+        "height": 1864,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterhéninois (page does not exist)\">Supporterhéninois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nuno-da-costa.jpg"
+      }
+    }
+  ],
+  "notes": [
+    "Cape Verde row/QID/photo audit 2026-05-24: verifier confirmed all 26 rows match the live Wikipedia squad table and FCF official 26-player announcement. No clean Wikimedia portrait/P18/pageimage was found for Vozinha, João Paulo, Diney, Wagner Pina, Sidny Lopes Cabral, Kelvin Pires, Telmo Arcanjo, Laros Duarte, Yannick Semedo, Dailon Livramento, or Hélio Varela; these rows are marked reviewed-none. Sidny Lopes Cabral DOB remains the squad-table 2003-09-18 while wikidata_date_of_birth preserves the 2002-09-18 conflict; current-club conflicts are stale Wikidata data and do not override squad-table clubs."
+  ]
+}

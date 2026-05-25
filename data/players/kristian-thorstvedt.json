@@ -1,0 +1,54 @@
+{
+  "slug": "kristian-thorstvedt",
+  "display_name": "Kristian Thorstvedt",
+  "shirt_no": 18,
+  "position_code": "MF",
+  "dob": "1999-03-13",
+  "age": 27,
+  "caps": 35,
+  "goals": 4,
+  "club_from_squad_table": "Sassuolo",
+  "wikipedia_title": "Kristian Thorstvedt",
+  "date_of_birth": "1999-03-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sassuolo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q61721648",
+  "qid": "Q61721648",
+  "name": "Kristian Thorstvedt",
+  "description": "Norwegian footballer",
+  "place_of_birth_qid": "Q25416",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 190.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q211177",
+      "start": "2018-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q211177",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kristian_Thorstvedt",
+  "transfermarkt_id": "564785",
+  "fifa_player_id": "400015289",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "Stavanger",
+  "wikidata_current_club": "Viking FK",
+  "wikidata_current_club_qid": "Q211177",
+  "team_slug": "norway",
+  "team_country": "Norway",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

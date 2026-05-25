@@ -1,0 +1,90 @@
+{
+  "slug": "matt-turner",
+  "display_name": "Matt Turner",
+  "shirt_no": 1,
+  "position_code": "GK",
+  "dob": "1994-06-24",
+  "age": 31,
+  "caps": 53,
+  "goals": 0,
+  "club_from_squad_table": "New England Revolution",
+  "wikipedia_title": "Matt Turner (soccer)",
+  "date_of_birth": "1994-06-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "New England Revolution",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q24663885",
+  "qid": "Q24663885",
+  "name": "Matt Turner",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q253067",
+  "citizenship_qids": [
+    "Q30",
+    "Q37"
+  ],
+  "height_cm": 191.0,
+  "weight_kg": 84.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q309095",
+      "start": "2016-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1784644",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q6184846",
+      "start": "2014-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q164134",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q19490",
+      "start": "2023-08-09",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19490",
+  "image_filename": "Matt Turner Red Bulls Revolution-34 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Matt_Turner_(soccer)",
+  "transfermarkt_id": "425306",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "United States",
+    "Lithuania"
+  ],
+  "place_of_birth": "Park Ridge",
+  "wikidata_current_club": "Nottingham Forest F.C.",
+  "wikidata_current_club_qid": "Q19490",
+  "photo": {
+    "filename": "Matt Turner Red Bulls Revolution-34 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Matt_Turner_Red_Bulls_Revolution-34_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Matt_Turner_Red_Bulls_Revolution-34_%28cropped%29.jpg/960px-Matt_Turner_Red_Bulls_Revolution-34_%28cropped%29.jpg",
+    "width": 1847,
+    "height": 2462,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/matt-turner.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

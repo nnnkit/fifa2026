@@ -1,0 +1,108 @@
+{
+  "slug": "teun-koopmeiners",
+  "display_name": "Teun Koopmeiners",
+  "shirt_no": 20,
+  "position_code": "MF",
+  "dob": "1998-02-28",
+  "age": 28,
+  "caps": 27,
+  "goals": 3,
+  "club_from_squad_table": "Juventus",
+  "wikipedia_title": "Teun Koopmeiners",
+  "date_of_birth": "1998-02-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Juventus",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q39498277",
+  "qid": "Q39498277",
+  "name": "Teun Koopmeiners",
+  "description": "Dutch association football player (born 1998)",
+  "place_of_birth_qid": "Q9910",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 184.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q50573061",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": "2018-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q191264",
+      "start": "2017-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2021-00-00",
+      "end": "2024-08-28"
+    },
+    {
+      "team_qid": "Q601723",
+      "start": "2015-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q16854907",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q514714",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q13882315",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1422",
+      "start": "2024-08-28",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1422",
+  "image_filename": "Teun Koopmeiners Manchester United v Atalanta BC, 20 October 2021 (12) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Teun_Koopmeiners",
+  "transfermarkt_id": "360518",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Castricum",
+  "wikidata_current_club": "Juventus FC",
+  "wikidata_current_club_qid": "Q1422",
+  "photo": {
+    "filename": "Teun Koopmeiners Manchester United v Atalanta BC, 20 October 2021 (12) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Teun_Koopmeiners_Manchester_United_v_Atalanta_BC%2C_20_October_2021_%2812%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Teun_Koopmeiners_Manchester_United_v_Atalanta_BC%2C_20_October_2021_%2812%29_%28cropped%29.jpg",
+    "width": 528,
+    "height": 894,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/teun-koopmeiners.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

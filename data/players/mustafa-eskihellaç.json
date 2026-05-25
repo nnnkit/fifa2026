@@ -1,0 +1,53 @@
+{
+  "slug": "mustafa-eskihellaç",
+  "display_name": "Mustafa Eskihellaç",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-05-05",
+  "age": 29,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Trabzonspor",
+  "wikipedia_title": "Mustafa Eskihellaç",
+  "date_of_birth": "1997-05-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Trabzonspor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q48569991",
+  "qid": "Q48569991",
+  "name": "Mustafa Eskihellaç",
+  "description": "Turkish association football player (born 1997)",
+  "place_of_birth_qid": "Q45301",
+  "citizenship_qids": [
+    "Q43"
+  ],
+  "height_cm": 175.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1127498",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1127498",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mustafa_Eskihella%C3%A7",
+  "transfermarkt_id": "390379",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Turkey"
+  ],
+  "place_of_birth": "Trabzon",
+  "wikidata_current_club": "Elazığspor",
+  "wikidata_current_club_qid": "Q1127498",
+  "team_slug": "turkey",
+  "team_country": "Turkey",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

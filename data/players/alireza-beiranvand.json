@@ -1,0 +1,98 @@
+{
+  "slug": "alireza-beiranvand",
+  "display_name": "Alireza Beiranvand",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1992-09-21",
+  "age": 33,
+  "caps": 84,
+  "goals": 0,
+  "club_from_squad_table": "Tractor",
+  "wikipedia_title": "Alireza Beiranvand",
+  "date_of_birth": "1992-09-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Tractor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q4726869",
+  "qid": "Q4726869",
+  "name": "Alireza Beiranvand",
+  "description": "Iranian footballer",
+  "place_of_birth_qid": "Q5853913",
+  "citizenship_qids": [
+    "Q794"
+  ],
+  "height_cm": 196.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2687794",
+      "start": "2010-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q6587944",
+      "start": "2010-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q3277524",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q184602",
+      "start": "2014-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q242260",
+      "start": "2016-00-00",
+      "end": "2020-07-27"
+    },
+    {
+      "team_qid": "Q732002",
+      "start": "2020-07-28",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q219703",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q242260",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q242260",
+  "image_filename": "Alireza Beiranvand - 2018 FIFA World Cup.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alireza_Beiranvand",
+  "transfermarkt_id": "229081",
+  "fifa_player_id": "380007",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Iran"
+  ],
+  "place_of_birth": "Sarab-e Yas",
+  "wikidata_current_club": "Persepolis F.C.",
+  "wikidata_current_club_qid": "Q242260",
+  "photo": {
+    "filename": "Alireza Beiranvand - 2018 FIFA World Cup.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Alireza_Beiranvand_-_2018_FIFA_World_Cup.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Alireza_Beiranvand_-_2018_FIFA_World_Cup.jpg",
+    "width": 346,
+    "height": 522,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Meghdad Madadi",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/alireza-beiranvand.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

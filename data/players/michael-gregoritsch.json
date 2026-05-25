@@ -1,0 +1,158 @@
+{
+  "slug": "michael-gregoritsch",
+  "display_name": "Michael Gregoritsch",
+  "shirt_no": 11,
+  "position_code": "FW",
+  "dob": "1994-04-18",
+  "age": 32,
+  "caps": 74,
+  "goals": 24,
+  "club_from_squad_table": "FC Augsburg",
+  "wikipedia_title": "Michael Gregoritsch",
+  "date_of_birth": "1994-04-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "FC Augsburg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q699094",
+  "qid": "Q699094",
+  "name": "Michael Gregoritsch",
+  "description": "Austrian association football player (born 1994)",
+  "place_of_birth_qid": "Q13298",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 194.0,
+  "position_qids": [
+    "Q8025128",
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q741382",
+      "start": "2009-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q105861",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q22707",
+      "start": "2011-07-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q741382",
+      "start": "2011-07-03",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q16637410",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q6463",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q105861",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q51974",
+      "start": "2015-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q163534",
+      "start": "2016-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q4825450",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q303033",
+      "start": "2011-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q15755",
+      "start": "2017-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q32494",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q106394",
+      "start": "2022-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q5424829",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q26944827",
+      "start": "2013-00-00",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q98399583",
+      "start": "2009-00-00",
+      "end": "2011-00-00"
+    },
+    {
+      "team_qid": "Q98399583",
+      "start": "2011-07-03",
+      "end": "2012-00-00"
+    },
+    {
+      "team_qid": "Q211906",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q15755",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q15755",
+  "image_filename": "Michael Gregoritsch U21 Austria vs. Albania 2014-03-05 01.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Gregoritsch",
+  "transfermarkt_id": "120205",
+  "fifa_player_id": "401131",
+  "positions": [
+    "wing half",
+    "forward"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Graz",
+  "photo": {
+    "filename": "Michael Gregoritsch U21 Austria vs. Albania 2014-03-05 01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Michael_Gregoritsch_U21_Austria_vs._Albania_2014-03-05_01.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Michael_Gregoritsch_U21_Austria_vs._Albania_2014-03-05_01.jpg/960px-Michael_Gregoritsch_U21_Austria_vs._Albania_2014-03-05_01.jpg",
+    "width": 1690,
+    "height": 2098,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Please report references to <span class=\"nowrap\">kulac<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"@\"><img alt=\"@\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/40px-At_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"145\" data-file-height=\"145\"></span></span>gmx.at</span>.",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/michael-gregoritsch.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

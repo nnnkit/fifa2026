@@ -1,0 +1,97 @@
+{
+  "slug": "adalberto-carrasquilla",
+  "display_name": "Adalberto Carrasquilla",
+  "shirt_no": 8,
+  "position_code": "MF",
+  "dob": "1998-11-28",
+  "age": 27,
+  "caps": 73,
+  "goals": 3,
+  "club_from_squad_table": "UNAM",
+  "wikipedia_title": "Adalberto Carrasquilla",
+  "date_of_birth": "1998-11-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "UNAM",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q59193510",
+  "qid": "Q59193510",
+  "name": "Adalberto Carrasquilla",
+  "description": "Panamanian footballer",
+  "place_of_birth_qid": "Q3306",
+  "citizenship_qids": [
+    "Q804"
+  ],
+  "height_cm": 170.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q611653",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q921299",
+      "start": "2014-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q611653",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q223748",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q65706216",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q7129942",
+      "start": "2015-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q3590746",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q328313",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1143000",
+  "image_filename": "Coco Carrasquilla.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Adalberto_Carrasquilla",
+  "transfermarkt_id": "375300",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Panama"
+  ],
+  "place_of_birth": "Panama City",
+  "wikidata_current_club": "Houston Dynamo FC",
+  "wikidata_current_club_qid": "Q328313",
+  "photo": {
+    "filename": "Coco Carrasquilla.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Coco_Carrasquilla.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Coco_Carrasquilla.jpg/960px-Coco_Carrasquilla.jpg",
+    "width": 1500,
+    "height": 2000,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Keiteay\" title=\"User:Keiteay\">Keiteay</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/adalberto-carrasquilla.jpg"
+  },
+  "team_slug": "panama",
+  "team_country": "Panama"
+}

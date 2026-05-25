@@ -1,0 +1,94 @@
+{
+  "slug": "rodri",
+  "display_name": "Rodri",
+  "shirt_no": 16,
+  "position_code": "MF",
+  "dob": "1996-06-22",
+  "age": 29,
+  "caps": 61,
+  "goals": 4,
+  "club_from_squad_table": "Manchester City",
+  "wikipedia_title": "Rodri (footballer, born 1996)",
+  "date_of_birth": "1996-06-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20994118",
+  "qid": "Q20994118",
+  "name": "Rodri",
+  "description": "Spanish association football player",
+  "place_of_birth_qid": "Q2807",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q18691898"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1094113",
+      "start": "2015-01-01",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q12297",
+      "start": "2015-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q3873503",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q2713491",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q42267",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q8701",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    }
+  ],
+  "current_club_qid": "Q50602",
+  "image_filename": "RODRI - SWE vs ESP - UEFA EURO 2020 QUALIFIERS - 2019.10.15 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rodri_(footballer,_born_1996)",
+  "transfermarkt_id": "357565",
+  "fifa_player_id": "201403002",
+  "positions": [
+    "defensive midfielder"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Madrid",
+  "wikidata_current_club": "Manchester City F.C.",
+  "wikidata_current_club_qid": "Q50602",
+  "photo": {
+    "filename": "RODRI - SWE vs ESP - UEFA EURO 2020 QUALIFIERS - 2019.10.15 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/RODRI_-_SWE_vs_ESP_-_UEFA_EURO_2020_QUALIFIERS_-_2019.10.15_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/RODRI_-_SWE_vs_ESP_-_UEFA_EURO_2020_QUALIFIERS_-_2019.10.15_%28cropped%29.jpg",
+    "width": 675,
+    "height": 864,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Rolandhino1\" title=\"User:Rolandhino1\">Rolandhino1</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/rodri.jpg"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain"
+}

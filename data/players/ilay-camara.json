@@ -1,0 +1,39 @@
+{
+  "slug": "ilay-camara",
+  "display_name": "Ilay Camara",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2003-01-18",
+  "age": 23,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Anderlecht",
+  "wikipedia_title": "Ilay Camara",
+  "date_of_birth": "2003-01-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Anderlecht",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q113577268",
+  "qid": "Q113577268",
+  "name": "Ilay Camara",
+  "description": "Senegalese association football player (born 2003)",
+  "place_of_birth_qid": "Q528222",
+  "citizenship_qids": [
+    "Q31",
+    "Q1041"
+  ],
+  "height_cm": 174.0,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ilay_Camara",
+  "transfermarkt_id": "570781",
+  "citizenship": [
+    "Belgium",
+    "Senegal"
+  ],
+  "place_of_birth": "Bonheiden",
+  "team_slug": "senegal",
+  "team_country": "Senegal",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

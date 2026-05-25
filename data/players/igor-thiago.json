@@ -1,0 +1,82 @@
+{
+  "slug": "igor-thiago",
+  "display_name": "Igor Thiago",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-06-26",
+  "age": 24,
+  "caps": 2,
+  "goals": 1,
+  "club_from_squad_table": "Brentford",
+  "wikipedia_title": "Igor Thiago",
+  "date_of_birth": "2001-06-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Brentford",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q83639138",
+  "qid": "Q83639138",
+  "name": "Igor Thiago",
+  "description": "Brazilian association football player",
+  "place_of_birth_qid": "Q93572",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 1.93,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q188277",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1339086",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q190916",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q19571",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19571",
+  "image_filename": "Brentford Players 27122025 (4) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Igor_Thiago",
+  "transfermarkt_id": "739443",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "Gama",
+  "wikidata_current_club": "Brentford F.C.",
+  "wikidata_current_club_qid": "Q19571",
+  "photo": {
+    "filename": "Brentford Players 27122025 (4) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Brentford_Players_27122025_%284%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brentford_Players_27122025_%284%29_%28cropped%29.jpg/960px-Brentford_Players_27122025_%284%29_%28cropped%29.jpg",
+    "width": 1222,
+    "height": 1779,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/igor-thiago.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

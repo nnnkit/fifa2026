@@ -1,0 +1,71 @@
+{
+  "slug": "jorge-guti\u00e9rrez",
+  "display_name": "Jorge Guti\u00e9rrez",
+  "shirt_no": 19,
+  "position_code": "DF",
+  "dob": "1998-09-01",
+  "age": 27,
+  "caps": 17,
+  "goals": 0,
+  "club_from_squad_table": "Deportivo La Guaira",
+  "wikipedia_title": "Jorge Guti\u00e9rrez (footballer)",
+  "date_of_birth": "1998-09-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Deportivo La Guaira",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q117818408",
+  "qid": "Q117818408",
+  "name": "Jorge Abdiel Guti\u00e9rrez",
+  "description": "footballer",
+  "place_of_birth_qid": "Q3306",
+  "citizenship_qids": [
+    "Q804"
+  ],
+  "height_cm": 171.0,
+  "teams": [
+    {
+      "team_qid": "Q921299",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q680336",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q628860",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q628860",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jorge_Guti%C3%A9rrez_(footballer)",
+  "transfermarkt_id": "443379",
+  "citizenship": [
+    "Panama"
+  ],
+  "place_of_birth": "Panama City",
+  "wikidata_current_club": "Tauro F.C.",
+  "wikidata_current_club_qid": "Q921299",
+  "team_slug": "panama",
+  "team_country": "Panama",
+  "positions": [
+    "defender"
+  ],
+  "position_qids": [
+    "Q336286"
+  ],
+  "photo": {
+    "filename": "Jorge Abdiel Guti\u00e9rrez.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Jorge_Abdiel_Guti%C3%A9rrez.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Jorge_Abdiel_Guti%C3%A9rrez.jpg",
+    "width": 359,
+    "height": 543,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "jikatu",
+    "source": "wikimedia-commons-reviewed",
+    "local_path": "data/photos/jorge-guti\u00e9rrez.jpg"
+  }
+}

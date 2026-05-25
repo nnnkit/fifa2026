@@ -1,0 +1,96 @@
+{
+  "slug": "leroy-sané",
+  "display_name": "Leroy Sané",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-01-11",
+  "age": 30,
+  "caps": 74,
+  "goals": 16,
+  "club_from_squad_table": "Galatasaray",
+  "wikipedia_title": "Leroy Sané",
+  "date_of_birth": "1996-01-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Galatasaray",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16499882",
+  "qid": "Q16499882",
+  "name": "Leroy Sané",
+  "description": "German association football player",
+  "place_of_birth_qid": "Q2066",
+  "citizenship_qids": [
+    "Q183",
+    "Q1041"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q1369558"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q43310",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q314851",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q324854",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q32494",
+      "start": "2014-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2016-00-00",
+      "end": "2020-07-00"
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2020-07-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q495299",
+      "start": "2025-07-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q495299",
+  "image_filename": "20180602 FIFA Friendly Match Austria vs. Germany Leroy Sané 850 0668.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Leroy_San%C3%A9",
+  "transfermarkt_id": "192565",
+  "fifa_player_id": "404353",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "Germany",
+    "Senegal"
+  ],
+  "place_of_birth": "Essen",
+  "wikidata_current_club": "Galatasaray S.K.",
+  "wikidata_current_club_qid": "Q495299",
+  "photo": {
+    "filename": "20180602 FIFA Friendly Match Austria vs. Germany Leroy Sané 850 0668.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Leroy_San%C3%A9_850_0668.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Leroy_San%C3%A9_850_0668.jpg/960px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Leroy_San%C3%A9_850_0668.jpg",
+    "width": 1791,
+    "height": 2686,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/leroy-sané.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "alex-sandro",
+  "display_name": "Alex Sandro",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1991-01-26",
+  "age": 35,
+  "caps": 43,
+  "goals": 2,
+  "club_from_squad_table": "Flamengo",
+  "wikipedia_title": "Alex Sandro",
+  "date_of_birth": "1991-01-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Flamengo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q551192",
+  "qid": "Q551192",
+  "name": "Alex Sandro",
+  "description": "Brazilian footballer (born 1991)",
+  "place_of_birth_qid": "Q983683",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1422",
+      "start": "2015-01-01",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q80955",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q506832",
+      "start": "2008-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q128446",
+      "start": "2011-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q2308235",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q899189",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1023199",
+      "start": "2010-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q17479",
+      "start": "2024-08-26",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q17479",
+  "image_filename": "FC Zenit Saint Petersburg vs. Juventus, 20 October 2021 28 - Alex Sandro (cropped2).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Sandro",
+  "transfermarkt_id": "79960",
+  "fifa_player_id": "335658",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "Catanduva",
+  "wikidata_current_club": "Clube de Regatas do Flamengo",
+  "wikidata_current_club_qid": "Q17479",
+  "photo": {
+    "filename": "FC Zenit Saint Petersburg vs. Juventus, 20 October 2021 28 - Alex Sandro (cropped2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/FC_Zenit_Saint_Petersburg_vs._Juventus%2C_20_October_2021_28_-_Alex_Sandro_%28cropped2%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/FC_Zenit_Saint_Petersburg_vs._Juventus%2C_20_October_2021_28_-_Alex_Sandro_%28cropped2%29.jpg",
+    "width": 409,
+    "height": 550,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Kirill Venediktov",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/alex-sandro.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

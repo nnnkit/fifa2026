@@ -1,0 +1,77 @@
+{
+  "slug": "kai-trewin",
+  "display_name": "Kai Trewin",
+  "shirt_no": 15,
+  "position_code": "DF",
+  "dob": "2001-05-18",
+  "age": 25,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "New York City",
+  "wikipedia_title": "Kai Trewin",
+  "date_of_birth": "2001-05-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "New York City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q87400019",
+  "qid": "Q87400019",
+  "name": "Kai Trewin",
+  "description": "Australian soccer player",
+  "place_of_birth_qid": "Q3114",
+  "citizenship_qids": [
+    "Q408"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q839997",
+      "start": "2020-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q748725",
+      "start": "2024-00-00",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q268208",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q13361030",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q13361030",
+  "image_filename": "Kai Trewin NYCFC v Colorado Mar 14 2026-25 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kai_Trewin",
+  "transfermarkt_id": "691326",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Australia"
+  ],
+  "place_of_birth": "Canberra",
+  "wikidata_current_club": "New York City FC",
+  "wikidata_current_club_qid": "Q13361030",
+  "photo": {
+    "filename": "Kai Trewin NYCFC v Colorado Mar 14 2026-25 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Kai_Trewin_NYCFC_v_Colorado_Mar_14_2026-25_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kai_Trewin_NYCFC_v_Colorado_Mar_14_2026-25_%28cropped%29.jpg/960px-Kai_Trewin_NYCFC_v_Colorado_Mar_14_2026-25_%28cropped%29.jpg",
+    "width": 2772,
+    "height": 3694,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kai-trewin.jpg"
+  },
+  "team_slug": "australia",
+  "team_country": "Australia"
+}

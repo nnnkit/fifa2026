@@ -1,0 +1,66 @@
+{
+  "slug": "ali-nemati",
+  "display_name": "Ali Nemati",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-02-07",
+  "age": 30,
+  "caps": 15,
+  "goals": 0,
+  "club_from_squad_table": "Foolad",
+  "wikipedia_title": "Ali Nemati",
+  "date_of_birth": "1996-02-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Foolad",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q65195011",
+  "qid": "Q65195011",
+  "name": "Ali Nemati",
+  "description": "Football player",
+  "place_of_birth_qid": "Q131350",
+  "citizenship_qids": [
+    "Q794"
+  ],
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3660911",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q242260",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q3660911",
+  "image_filename": "Mes Rafsanjan F.C. vs Persepolis F.C., 19 November 2021 2.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Nemati",
+  "transfermarkt_id": "527092",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Iran"
+  ],
+  "place_of_birth": "Nishapur",
+  "wikidata_current_club": "Shahr Khodro F.C.",
+  "wikidata_current_club_qid": "Q3660911",
+  "photo": {
+    "filename": "Mes Rafsanjan F.C. vs Persepolis F.C., 19 November 2021 2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Mes_Rafsanjan_F.C._vs_Persepolis_F.C.%2C_19_November_2021_2.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Mes_Rafsanjan_F.C._vs_Persepolis_F.C.%2C_19_November_2021_2.jpg",
+    "width": 825,
+    "height": 853,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mahdi Zare",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ali-nemati.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "enner-valencia",
+  "display_name": "Enner Valencia",
+  "shirt_no": 13,
+  "position_code": "FW",
+  "dob": "1989-11-04",
+  "age": 36,
+  "caps": 105,
+  "goals": 49,
+  "club_from_squad_table": "Pachuca",
+  "wikipedia_title": "Enner Valencia",
+  "date_of_birth": "1989-11-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Pachuca",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q2843080",
+  "qid": "Q2843080",
+  "name": "Enner Valencia",
+  "description": "Ecuadorian association football player",
+  "place_of_birth_qid": "Q7414682",
+  "citizenship_qids": [
+    "Q736"
+  ],
+  "height_cm": 174.0,
+  "weight_kg": 74.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q249612",
+      "start": "2010-01-01",
+      "end": "2013-12-00"
+    },
+    {
+      "team_qid": "Q849823",
+      "start": "2017-07-00",
+      "end": "2020-08-00"
+    },
+    {
+      "team_qid": "Q987584",
+      "start": "2012-02-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q736937",
+      "start": "2014-01-00",
+      "end": "2014-07-00"
+    },
+    {
+      "team_qid": "Q5794",
+      "start": "2016-08-00",
+      "end": "2017-05-00"
+    },
+    {
+      "team_qid": "Q18747",
+      "start": "2014-07-00",
+      "end": "2017-07-00"
+    },
+    {
+      "team_qid": "Q6601875",
+      "start": "2020-08-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q80845",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q736937",
+      "start": "2025-09-11",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q736937",
+  "image_filename": "Enner Valencia, January 2016.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Enner_Valencia",
+  "transfermarkt_id": "139503",
+  "fifa_player_id": "373400",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Ecuador"
+  ],
+  "place_of_birth": "San Lorenzo",
+  "wikidata_current_club": "CF Pachuca",
+  "wikidata_current_club_qid": "Q736937",
+  "photo": {
+    "filename": "Enner Valencia, January 2016.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Enner_Valencia%2C_January_2016.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Enner_Valencia%2C_January_2016.jpg/960px-Enner_Valencia%2C_January_2016.jpg",
+    "width": 1215,
+    "height": 1977,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<ul><li><b>Original: </b> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/109430286@N06\">joshjdss</a></li>\n<li><b>Derivative work: </b> <a href=\"//commons.wikimedia.org/w/index.php?title=User:FootyBystander&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:FootyBystander (page does not exist)\">FootyBystander</a></li></ul>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/enner-valencia.jpg"
+  },
+  "team_slug": "ecuador",
+  "team_country": "Ecuador"
+}

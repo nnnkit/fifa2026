@@ -1,0 +1,79 @@
+{
+  "slug": "duckens-nazon",
+  "display_name": "Duckens Nazon",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1994-04-07",
+  "age": 32,
+  "caps": 76,
+  "goals": 44,
+  "club_from_squad_table": "Esteghlal",
+  "wikipedia_title": "Duckens Nazon",
+  "date_of_birth": "1994-04-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Esteghlal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16916422",
+  "qid": "Q16916422",
+  "name": "Duckens Nazon",
+  "description": "Haitian and French footballer",
+  "place_of_birth_qid": "Q200945",
+  "citizenship_qids": [
+    "Q790",
+    "Q142"
+  ],
+  "height_cm": 181.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q236006",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q760736",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3291331",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q3351700",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    }
+  ],
+  "current_club_qid": "Q760736",
+  "image_filename": "2025 Iran Football Premier League Esteghlal and Zob Ahan football match 3 Mehr (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Duckens_Nazon",
+  "transfermarkt_id": "345763",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Haiti",
+    "France"
+  ],
+  "place_of_birth": "Châtenay-Malabry",
+  "wikidata_current_club": "Stade Lavallois",
+  "wikidata_current_club_qid": "Q760736",
+  "photo": {
+    "filename": "2025 Iran Football Premier League Esteghlal and Zob Ahan football match 3 Mehr (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/2025_Iran_Football_Premier_League_Esteghlal_and_Zob_Ahan_football_match_3_Mehr_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/2025_Iran_Football_Premier_League_Esteghlal_and_Zob_Ahan_football_match_3_Mehr_%28cropped%29.jpg",
+    "width": 656,
+    "height": 843,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Fouad Ashtari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/duckens-nazon.jpg"
+  },
+  "team_slug": "haiti",
+  "team_country": "Haiti"
+}

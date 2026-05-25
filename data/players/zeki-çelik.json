@@ -1,0 +1,108 @@
+{
+  "slug": "zeki-çelik",
+  "display_name": "Zeki Çelik",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-02-17",
+  "age": 29,
+  "caps": 59,
+  "goals": 3,
+  "club_from_squad_table": "Roma",
+  "wikipedia_title": "Zeki Çelik",
+  "date_of_birth": "1997-02-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Roma",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q50628268",
+  "qid": "Q50628268",
+  "name": "Zeki Çelik",
+  "description": "Turkish association football player (born 1997)",
+  "place_of_birth_qid": "Q2598734",
+  "citizenship_qids": [
+    "Q43"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19516",
+      "start": "2018-07-07",
+      "end": null
+    },
+    {
+      "team_qid": "Q203573",
+      "start": "2015-07-01",
+      "end": "2016-08-25"
+    },
+    {
+      "team_qid": "Q5000554",
+      "start": "2015-08-14",
+      "end": "2016-06-30"
+    },
+    {
+      "team_qid": "Q344328",
+      "start": "2016-08-25",
+      "end": "2018-07-07"
+    },
+    {
+      "team_qid": "Q23925716",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q3590479",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q23925713",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1624749",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q483856",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q2739",
+      "start": "2022-07-05",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2739",
+  "image_filename": "Zeki çelik 2020.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Zeki_%C3%87elik",
+  "transfermarkt_id": "251075",
+  "fifa_player_id": "201307248",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Turkey"
+  ],
+  "place_of_birth": "Yıldırım district",
+  "wikidata_current_club": "AS Roma",
+  "wikidata_current_club_qid": "Q2739",
+  "photo": {
+    "filename": "Zeki çelik 2020.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Zeki_%C3%A7elik_2020.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Zeki_%C3%A7elik_2020.jpg",
+    "width": 535,
+    "height": 989,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "soccer.ru",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/zeki-çelik.jpg"
+  },
+  "team_slug": "turkey",
+  "team_country": "Turkey"
+}

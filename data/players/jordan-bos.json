@@ -1,0 +1,79 @@
+{
+  "slug": "jordan-bos",
+  "display_name": "Jordan Bos",
+  "shirt_no": 5,
+  "position_code": "DF",
+  "dob": "2002-10-29",
+  "age": 23,
+  "caps": 25,
+  "goals": 4,
+  "club_from_squad_table": "Feyenoord",
+  "wikipedia_title": "Jordan Bos",
+  "date_of_birth": "2002-10-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Feyenoord",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q109768459",
+  "qid": "Q109768459",
+  "name": "Jordan Bos",
+  "description": "Australian soccer player",
+  "place_of_birth_qid": "Q7207994",
+  "citizenship_qids": [
+    "Q408",
+    "Q29999"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q849544",
+      "start": "2023-07-01",
+      "end": "2025-07-00"
+    },
+    {
+      "team_qid": "Q748725",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q268208",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q134241",
+      "start": "2025-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q134241",
+  "image_filename": "4822286 AE7I6649 - Jordan Bos.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jordan_Bos",
+  "transfermarkt_id": "855731",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Australia",
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Point Cook",
+  "wikidata_current_club": "Feyenoord Rotterdam",
+  "wikidata_current_club_qid": "Q134241",
+  "photo": {
+    "filename": "4822286 AE7I6649 - Jordan Bos.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/4822286_AE7I6649_-_Jordan_Bos.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/4822286_AE7I6649_-_Jordan_Bos.jpg",
+    "width": 235,
+    "height": 376,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Foad Ashtari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jordan-bos.jpg"
+  },
+  "team_slug": "australia",
+  "team_country": "Australia"
+}

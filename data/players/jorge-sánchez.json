@@ -1,0 +1,86 @@
+{
+  "slug": "jorge-sánchez",
+  "display_name": "Jorge Sánchez",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-12-10",
+  "age": 28,
+  "caps": 57,
+  "goals": 3,
+  "club_from_squad_table": "PAOK",
+  "wikipedia_title": "Jorge Sánchez (footballer, born 1997)",
+  "wikidata_qid": "Q24034870",
+  "qid": "Q24034870",
+  "name": "Jorge Sánchez Ramos",
+  "description": "Mexican association football player",
+  "date_of_birth": "1997-12-10",
+  "place_of_birth_qid": "Q386991",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 175.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q459090",
+      "start": "2018-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q164089",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q745246",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q81888",
+      "start": "2022-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q128446",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q845859",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q845859",
+  "image_filename": "Jorge Sánchez.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jorge_S%C3%A1nchez_(footballer,_born_1997)",
+  "transfermarkt_id": "356044",
+  "current_club": "PAOK",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Torreón",
+  "wikidata_current_club": "Cruz Azul",
+  "wikidata_current_club_qid": "Q845859",
+  "photo": {
+    "filename": "Jorge Sánchez.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Jorge_S%C3%A1nchez.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Jorge_S%C3%A1nchez.png",
+    "width": 810,
+    "height": 1060,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UC3D3rXIt1zy-TC_wJ3V8Z_w\">Selección Nacional de México</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jorge-sánchez.png"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "saud-abdulhamid",
+  "display_name": "Saud Abdulhamid",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-07-18",
+  "age": 26,
+  "caps": 53,
+  "goals": 1,
+  "club_from_squad_table": "Lens",
+  "wikipedia_title": "Saud Abdulhamid",
+  "date_of_birth": "1999-07-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lens",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q60407856",
+  "qid": "Q60407856",
+  "name": "Saud Abdulhamid",
+  "description": "Saudi association football player",
+  "place_of_birth_qid": "Q374365",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q309480",
+      "start": "2018-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q189723",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873541",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q2756148",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q23848735",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q73965",
+      "start": "2022-00-00",
+      "end": "2024-08-27"
+    },
+    {
+      "team_qid": "Q2739",
+      "start": "2024-08-27",
+      "end": null
+    },
+    {
+      "team_qid": "Q191843",
+      "start": "2025-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q191843",
+  "image_filename": "Saudi Arabia v Oman (2) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Saud_Abdulhamid",
+  "transfermarkt_id": "631927",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Jeddah",
+  "wikidata_current_club": "R.C. Lens",
+  "wikidata_current_club_qid": "Q191843",
+  "photo": {
+    "filename": "Saudi Arabia v Oman (2) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Saudi_Arabia_v_Oman_%282%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Saudi_Arabia_v_Oman_%282%29_%28cropped%29.jpg",
+    "width": 547,
+    "height": 799,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Foad Ashtari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/saud-abdulhamid.jpg"
+  },
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia"
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "dani-olmo",
+  "display_name": "Dani Olmo",
+  "shirt_no": 10,
+  "position_code": "MF",
+  "dob": "1998-05-07",
+  "age": 28,
+  "caps": 48,
+  "goals": 12,
+  "club_from_squad_table": "Barcelona",
+  "wikipedia_title": "Dani Olmo",
+  "date_of_birth": "1998-05-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Barcelona",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19560313",
+  "qid": "Q19560313",
+  "name": "Dani Olmo",
+  "description": "Spanish association football player",
+  "place_of_birth_qid": "Q13939",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 176.0,
+  "weight_kg": 68.0,
+  "position_qids": [
+    "Q90326494",
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q172803",
+      "start": "2015-01-01",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q3873503",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q2310295",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3589784",
+      "start": "2016-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2007-00-00",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q8780",
+      "start": "2006-00-00",
+      "end": "2007-00-00"
+    },
+    {
+      "team_qid": "Q1129595",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q5513963",
+      "start": "2015-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q702455",
+      "start": "2020-00-00",
+      "end": "2024-08-00"
+    },
+    {
+      "team_qid": "Q42267",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2024-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q7156",
+  "image_filename": "Dani Olmo 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dani_Olmo",
+  "transfermarkt_id": "293385",
+  "fifa_player_id": "201385503",
+  "positions": [
+    "attacking midfielder",
+    "midfielder"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Terrassa",
+  "wikidata_current_club": "Futbol Club Barcelona",
+  "wikidata_current_club_qid": "Q7156",
+  "photo": {
+    "filename": "Dani Olmo 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Dani_Olmo_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Dani_Olmo_2022.jpg",
+    "width": 777,
+    "height": 1036,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "crop by <a href=\"//commons.wikimedia.org/w/index.php?title=User:M-B&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:M-B (page does not exist)\">M-B</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/dani-olmo.jpg"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain"
+}

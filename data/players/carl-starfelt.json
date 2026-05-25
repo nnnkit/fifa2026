@@ -1,0 +1,69 @@
+{
+  "slug": "carl-starfelt",
+  "display_name": "Carl Starfelt",
+  "shirt_no": 15,
+  "position_code": "DF",
+  "dob": "1995-06-01",
+  "age": 31,
+  "caps": 17,
+  "goals": 0,
+  "club_from_squad_table": "Celta Vigo",
+  "wikipedia_title": "Carl Starfelt",
+  "date_of_birth": "1995-06-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Celta Vigo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16633442",
+  "qid": "Q16633442",
+  "name": "Carl Starfelt",
+  "description": "Swedish association football player (born 1995)",
+  "place_of_birth_qid": "Q1754",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 1.85,
+  "weight_kg": 83.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q754339",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q201567",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q754339",
+  "image_filename": "Carl Starfelt 2020.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Starfelt",
+  "transfermarkt_id": "258987",
+  "fifa_player_id": "201225248",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Stockholm",
+  "wikidata_current_club": "IF Brommapojkarna",
+  "wikidata_current_club_qid": "Q754339",
+  "photo": {
+    "filename": "Carl Starfelt 2020.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Carl_Starfelt_2020.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Carl_Starfelt_2020.jpg",
+    "width": 887,
+    "height": 1123,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u043d\u0430 \u0414\u0436\u0430\u043b\u0430\u043b\u044f\u043d",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/carl-starfelt.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

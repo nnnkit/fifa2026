@@ -1,0 +1,72 @@
+{
+  "slug": "chancel-mbemba",
+  "display_name": "Chancel Mbemba",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1994-08-08",
+  "age": 31,
+  "caps": 107,
+  "goals": 7,
+  "club_from_squad_table": "Lille",
+  "wikipedia_title": "Chancel Mbemba",
+  "date_of_birth": "1994-08-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lille",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q3196721",
+  "qid": "Q3196721",
+  "name": "Chancel Mbemba",
+  "description": "Congolese association football player",
+  "place_of_birth_qid": "Q146723",
+  "citizenship_qids": [
+    "Q974"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q187528",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q18716",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q270080",
+      "start": "2013-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18716",
+  "image_filename": "Chancel Mbemba Mangulu.JPG",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chancel_Mbemba",
+  "transfermarkt_id": "203348",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Democratic Republic of the Congo"
+  ],
+  "place_of_birth": "Kisangani",
+  "wikidata_current_club": "Newcastle United F.C.",
+  "wikidata_current_club_qid": "Q18716",
+  "photo": {
+    "filename": "Chancel Mbemba Mangulu.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Chancel_Mbemba_Mangulu.JPG",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chancel_Mbemba_Mangulu.JPG/960px-Chancel_Mbemba_Mangulu.JPG",
+    "width": 1020,
+    "height": 1677,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ultraslansi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ultraslansi (page does not exist)\">Ultraslansi</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/chancel-mbemba.JPG"
+  },
+  "team_slug": "dr-congo",
+  "team_country": "DR Congo"
+}

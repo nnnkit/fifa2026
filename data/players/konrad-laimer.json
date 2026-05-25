@@ -1,0 +1,100 @@
+{
+  "slug": "konrad-laimer",
+  "display_name": "Konrad Laimer",
+  "shirt_no": 20,
+  "position_code": "MF",
+  "dob": "1997-05-27",
+  "age": 29,
+  "caps": 56,
+  "goals": 7,
+  "club_from_squad_table": "Bayern Munich",
+  "wikipedia_title": "Konrad Laimer",
+  "date_of_birth": "1997-05-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayern Munich",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18670270",
+  "qid": "Q18670270",
+  "name": "Konrad Laimer",
+  "description": "Austrian footballer (born 1997)",
+  "place_of_birth_qid": "Q34713",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 179.0,
+  "weight_kg": 68.0,
+  "position_qids": [
+    "Q193592",
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q994811",
+      "start": "2014-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q1387293",
+      "start": "2014-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q302977",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q302967",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q303033",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q702455",
+      "start": "2017-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q163534",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q15789",
+  "image_filename": "2022-07-21 Fu\u00dfball, M\u00e4nner,Freundschaftsspiel, RB Leipzig - FC Liverpool 1DX 2137 by Stepro (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Konrad_Laimer",
+  "transfermarkt_id": "223967",
+  "positions": [
+    "midfielder",
+    "full-back"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Salzburg",
+  "wikidata_current_club": "FC Bayern Munich",
+  "wikidata_current_club_qid": "Q15789",
+  "photo": {
+    "filename": "2022-07-21 Fu\u00dfball, M\u00e4nner,Freundschaftsspiel, RB Leipzig - FC Liverpool 1DX 2137 by Stepro (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2137_by_Stepro_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2137_by_Stepro_%28cropped%29.jpg/960px-2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2137_by_Stepro_%28cropped%29.jpg",
+    "width": 1980,
+    "height": 2581,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Pr\u00f6\u00dfdorf</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/konrad-laimer.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

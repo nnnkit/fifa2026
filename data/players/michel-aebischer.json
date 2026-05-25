@@ -1,0 +1,59 @@
+{
+  "slug": "michel-aebischer",
+  "display_name": "Michel Aebischer",
+  "shirt_no": 20,
+  "position_code": "MF",
+  "dob": "1997-01-06",
+  "age": 29,
+  "caps": 38,
+  "goals": 2,
+  "club_from_squad_table": "Pisa",
+  "wikipedia_title": "Michel Aebischer",
+  "date_of_birth": "1997-01-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Pisa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27469951",
+  "qid": "Q27469951",
+  "name": "Michel Aebischer",
+  "description": "Swiss association football player",
+  "place_of_birth_qid": "Q39",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 76.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q190526",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q678582",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q190526",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Michel_Aebischer",
+  "transfermarkt_id": "237658",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Switzerland",
+  "wikidata_current_club": "BSC Young Boys",
+  "wikidata_current_club_qid": "Q190526",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

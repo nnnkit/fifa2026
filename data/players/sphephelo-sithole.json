@@ -1,0 +1,52 @@
+{
+  "slug": "sphephelo-sithole",
+  "display_name": "Sphephelo Sithole",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1999-03-03",
+  "age": 27,
+  "caps": 27,
+  "goals": 1,
+  "club_from_squad_table": "Tondela",
+  "wikipedia_title": "Sphephelo Sithole",
+  "wikidata_qid": "Q104530871",
+  "qid": "Q104530871",
+  "name": "Sphephelo Sithole",
+  "description": "South African association football player",
+  "date_of_birth": "1999-03-03",
+  "place_of_birth_qid": "Q5468",
+  "citizenship_qids": [
+    "Q258"
+  ],
+  "height_cm": 1.86,
+  "teams": [
+    {
+      "team_qid": "Q59212899",
+      "start": "2020-10-26",
+      "end": null
+    },
+    {
+      "team_qid": "Q1023227",
+      "start": "2023-07-11",
+      "end": "2025-07-11"
+    }
+  ],
+  "current_club_qid": "Q59212899",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sphephelo_Sithole",
+  "transfermarkt_id": "401736",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Tondela",
+  "current_club_source": "wikipedia-squad-table",
+  "citizenship": [
+    "South Africa"
+  ],
+  "place_of_birth": "Durban",
+  "wikidata_current_club": "B-SAD",
+  "wikidata_current_club_qid": "Q59212899",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "south-africa",
+  "team_country": "South Africa"
+}

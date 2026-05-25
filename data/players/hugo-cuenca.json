@@ -1,0 +1,52 @@
+{
+  "slug": "hugo-cuenca",
+  "display_name": "Hugo Cuenca",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2005-01-08",
+  "age": 21,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Burgos",
+  "wikipedia_title": "Hugo Cuenca (footballer)",
+  "date_of_birth": "2005-01-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Burgos",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q121820432",
+  "qid": "Q121820432",
+  "name": "Hugo Cuenca",
+  "description": "Paraguayan footballer",
+  "place_of_birth_qid": "Q935504",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 183.0,
+  "teams": [
+    {
+      "team_qid": "Q126923253",
+      "start": "2024-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q2074",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2074",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hugo_Cuenca_(footballer)",
+  "transfermarkt_id": "906315",
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Coronel Oviedo",
+  "wikidata_current_club": "Genoa CFC",
+  "wikidata_current_club_qid": "Q2074",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

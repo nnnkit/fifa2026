@@ -1,0 +1,60 @@
+{
+  "slug": "saúl-salcedo",
+  "display_name": "Saúl Salcedo",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-08-28",
+  "age": 28,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Newell's Old Boys",
+  "wikipedia_title": "Saúl Salcedo",
+  "date_of_birth": "1997-08-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Newell's Old Boys",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19681762",
+  "qid": "Q19681762",
+  "name": "Saúl Salcedo",
+  "description": "Paraguayan footballer, born 1997",
+  "place_of_birth_qid": "Q723811",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q604589",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3328932",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q604589",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sa%C3%BAl_Salcedo",
+  "transfermarkt_id": "353035",
+  "wikidata_date_of_birth": "1997-08-29",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Capiatá",
+  "wikidata_current_club": "Club Olimpia",
+  "wikidata_current_club_qid": "Q604589",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "omar-marmoush",
+  "display_name": "Omar Marmoush",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1999-02-07",
+  "age": 27,
+  "caps": 47,
+  "goals": 11,
+  "club_from_squad_table": "Manchester City",
+  "wikipedia_title": "Omar Marmoush",
+  "date_of_birth": "1999-02-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28065104",
+  "qid": "Q28065104",
+  "name": "Omar Marmoush",
+  "description": "Egyptian association football player (born 1999)",
+  "place_of_birth_qid": "Q85",
+  "citizenship_qids": [
+    "Q79",
+    "Q16"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 81.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q101859",
+      "start": "2020-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q16645947",
+      "start": "2017-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q6463",
+      "start": "2021-01-00",
+      "end": "2021-06-00"
+    },
+    {
+      "team_qid": "Q3589884",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q2608474",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1966238",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q4512",
+      "start": "2021-08-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q38245",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q28089",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2025-01-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q50602",
+  "image_filename": "OmarMarmoush.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Omar_Marmoush",
+  "transfermarkt_id": "445939",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Egypt",
+    "Canada"
+  ],
+  "place_of_birth": "Cairo",
+  "wikidata_current_club": "Manchester City F.C.",
+  "wikidata_current_club_qid": "Q50602",
+  "photo": {
+    "filename": "OmarMarmoush.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/OmarMarmoush.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/OmarMarmoush.png",
+    "width": 910,
+    "height": 1076,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Yallakora",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/omar-marmoush.png"
+  },
+  "team_slug": "egypt",
+  "team_country": "Egypt"
+}

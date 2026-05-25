@@ -1,0 +1,75 @@
+{
+  "slug": "thiago-almada",
+  "display_name": "Thiago Almada",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2001-04-26",
+  "age": 25,
+  "caps": 14,
+  "goals": 4,
+  "club_from_squad_table": "Atlético Madrid",
+  "wikipedia_title": "Thiago Almada",
+  "wikidata_qid": "Q57293140",
+  "qid": "Q57293140",
+  "name": "Thiago Almada",
+  "description": "Argentine footballer",
+  "date_of_birth": "2001-04-26",
+  "place_of_birth_qid": "Q388695",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 1.71,
+  "weight_kg": 63.0,
+  "position_qids": [
+    "Q193592",
+    "Q6037916"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q215163",
+      "start": "2018-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q80958",
+      "start": "2024-00-00",
+      "end": "2025-00-00"
+    }
+  ],
+  "current_club_qid": "Q80958",
+  "image_filename": "Almada asse ol 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thiago_Almada",
+  "transfermarkt_id": "576028",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atlético Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder",
+    "inside forward"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Fuerte Apache",
+  "wikidata_current_club": "Botafogo F.R.",
+  "wikidata_current_club_qid": "Q80958",
+  "photo": {
+    "filename": "Almada asse ol 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Almada_asse_ol_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Almada_asse_ol_2425.png",
+    "width": 473,
+    "height": 777,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/thiago-almada.png"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

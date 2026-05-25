@@ -1,0 +1,56 @@
+{
+  "slug": "ibrahim-sabra",
+  "display_name": "Ibrahim Sabra",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2006-02-01",
+  "age": 20,
+  "caps": 9,
+  "goals": 1,
+  "club_from_squad_table": "Lokomotiva Zagreb",
+  "wikipedia_title": "Ibrahim Sabra",
+  "date_of_birth": "2006-02-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lokomotiva Zagreb",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q123203666",
+  "qid": "Q123203666",
+  "name": "Ibrahim Sabrah",
+  "description": "Jordanian association football player",
+  "place_of_birth_qid": "Q27126237",
+  "citizenship_qids": [
+    "Q810"
+  ],
+  "height_cm": 1.84,
+  "teams": [
+    {
+      "team_qid": "Q1423118",
+      "start": "2025-06-30",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1423118",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ibrahim_Sabra",
+  "transfermarkt_id": "1142382",
+  "citizenship": [
+    "Jordan"
+  ],
+  "place_of_birth": "Sahab",
+  "wikidata_current_club": "G\u00f6ztepe S.K.",
+  "wikidata_current_club_qid": "Q1423118",
+  "image_filename": "Player_Ibraheem_Sabra.jpg",
+  "photo": {
+    "filename": "Player_Ibraheem_Sabra.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Player_Ibraheem_Sabra.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Player_Ibraheem_Sabra.jpg/960px-Player_Ibraheem_Sabra.jpg",
+    "width": 1080,
+    "height": 1080,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Mahmoud_Dmeiry\" title=\"User:Mahmoud Dmeiry\">Mahmoud Dmeiry</a>",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/ibrahim-sabra.jpg"
+  },
+  "team_slug": "jordan",
+  "team_country": "Jordan"
+}

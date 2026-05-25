@@ -1,0 +1,114 @@
+{
+  "slug": "morten-thorsby",
+  "display_name": "Morten Thorsby",
+  "shirt_no": 2,
+  "position_code": "MF",
+  "dob": "1996-05-05",
+  "age": 30,
+  "caps": 30,
+  "goals": 0,
+  "club_from_squad_table": "Cremonese",
+  "wikipedia_title": "Morten Thorsby",
+  "date_of_birth": "1996-05-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Cremonese",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16852194",
+  "qid": "Q16852194",
+  "name": "Morten Thorsby",
+  "description": "Norwegian association football player",
+  "place_of_birth_qid": "Q585",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 186.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q200321",
+      "start": "2014-01-01",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q217233",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q3590274",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q3873528",
+      "start": "2014-01-01",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q2446294",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873500",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q3873512",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1457",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q141971",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q2074",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q184387",
+      "start": "2017-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2074",
+  "image_filename": "Norway Italy - June 2025 E 24 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Morten_Thorsby",
+  "transfermarkt_id": "226524",
+  "fifa_player_id": "201162560",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "Oslo",
+  "wikidata_current_club": "Genoa CFC",
+  "wikidata_current_club_qid": "Q2074",
+  "photo": {
+    "filename": "Norway Italy - June 2025 E 24 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Norway_Italy_-_June_2025_E_24_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Norway_Italy_-_June_2025_E_24_%28cropped%29.jpg/960px-Norway_Italy_-_June_2025_E_24_%28cropped%29.jpg",
+    "width": 2959,
+    "height": 3553,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/morten-thorsby.jpg"
+  },
+  "team_slug": "norway",
+  "team_country": "Norway"
+}

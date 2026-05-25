@@ -1,0 +1,63 @@
+{
+  "slug": "facundo-cambeses",
+  "display_name": "Facundo Cambeses",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1997-04-09",
+  "age": 29,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Racing",
+  "wikipedia_title": "Facundo Cambeses",
+  "wikidata_qid": "Q30881099",
+  "qid": "Q30881099",
+  "name": "Facundo Cambeses",
+  "description": "association football player",
+  "date_of_birth": "1997-04-09",
+  "place_of_birth_qid": "Q649510",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q692646",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q692646",
+  "image_filename": "Facundo Cambeses (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Facundo_Cambeses",
+  "transfermarkt_id": "435001",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Racing",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Longchamps",
+  "wikidata_current_club": "Club Atlético Banfield",
+  "wikidata_current_club_qid": "Q692646",
+  "photo": {
+    "filename": "Facundo Cambeses (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Facundo_Cambeses_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Facundo_Cambeses_%28cropped%29.jpg",
+    "width": 923,
+    "height": 1086,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/75116651@N03\">Agencia de Noticias ANDES</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/facundo-cambeses.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

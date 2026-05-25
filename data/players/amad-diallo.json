@@ -1,0 +1,77 @@
+{
+  "slug": "amad-diallo",
+  "display_name": "Amad Diallo",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2002-07-11",
+  "age": 23,
+  "caps": 18,
+  "goals": 5,
+  "club_from_squad_table": "Manchester United",
+  "wikipedia_title": "Amad Diallo",
+  "date_of_birth": "2002-07-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q72603655",
+  "qid": "Q72603655",
+  "name": "Amad Diallo",
+  "description": "Ivorian association football player (born 2002)",
+  "place_of_birth_qid": "Q1515",
+  "citizenship_qids": [
+    "Q1008"
+  ],
+  "height_cm": 173.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1886",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19597",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q18739",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18739",
+  "image_filename": "Manchester United v BSC Young Boys, 8 December 2021 (17) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amad_Diallo",
+  "transfermarkt_id": "536835",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Ivory Coast"
+  ],
+  "place_of_birth": "Abidjan",
+  "wikidata_current_club": "Sunderland A.F.C.",
+  "wikidata_current_club_qid": "Q18739",
+  "photo": {
+    "filename": "Manchester United v BSC Young Boys, 8 December 2021 (17) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Manchester_United_v_BSC_Young_Boys%2C_8_December_2021_%2817%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Manchester_United_v_BSC_Young_Boys%2C_8_December_2021_%2817%29_%28cropped%29.jpg",
+    "width": 753,
+    "height": 1128,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/amad-diallo.jpg"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

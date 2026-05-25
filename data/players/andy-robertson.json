@@ -1,0 +1,89 @@
+{
+  "slug": "andy-robertson",
+  "display_name": "Andy Robertson",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1994-03-11",
+  "age": 32,
+  "caps": 92,
+  "goals": 4,
+  "club_from_squad_table": "Liverpool",
+  "wikipedia_title": "Andy Robertson",
+  "date_of_birth": "1994-03-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Liverpool",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q15915040",
+  "qid": "Q15915040",
+  "name": "Andy Robertson",
+  "description": "Scottish association football player",
+  "place_of_birth_qid": "Q4093",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 64.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19477",
+      "start": "2014-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q852753",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q192873",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1812121",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q34044",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1130849",
+      "start": "2017-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1130849",
+  "image_filename": "First Minister meets with Scottish National Football Team (cropped 2).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Andy_Robertson",
+  "transfermarkt_id": "234803",
+  "fifa_player_id": "401339",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Glasgow",
+  "wikidata_current_club": "Liverpool F.C.",
+  "wikidata_current_club_qid": "Q1130849",
+  "photo": {
+    "filename": "First Minister meets with Scottish National Football Team (cropped 2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/First_Minister_meets_with_Scottish_National_Football_Team_%28cropped_2%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/First_Minister_meets_with_Scottish_National_Football_Team_%28cropped_2%29.jpg",
+    "width": 436,
+    "height": 535,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Scottish Government",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/andy-robertson.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

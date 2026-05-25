@@ -1,0 +1,102 @@
+{
+  "slug": "amadou-onana",
+  "display_name": "Amadou Onana",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2001-08-16",
+  "age": 24,
+  "caps": 27,
+  "goals": 1,
+  "club_from_squad_table": "Aston Villa",
+  "wikipedia_title": "Amadou Onana",
+  "date_of_birth": "2001-08-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Aston Villa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q99328435",
+  "qid": "Q99328435",
+  "name": "Amadou Onana",
+  "description": "Belgian association football player (born 2001)",
+  "place_of_birth_qid": "Q3718",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 192.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q51974",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q3589895",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q15224541",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q3589896",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q166776",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19516",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q5794",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q18711",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18711",
+  "image_filename": "RC Lens - Lille OSC (17-09-2021) 9 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amadou_Onana",
+  "transfermarkt_id": "485706",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Dakar",
+  "wikidata_current_club": "Aston Villa F.C.",
+  "wikidata_current_club_qid": "Q18711",
+  "photo": {
+    "filename": "RC Lens - Lille OSC (17-09-2021) 9 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/RC_Lens_-_Lille_OSC_%2817-09-2021%29_9_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/RC_Lens_-_Lille_OSC_%2817-09-2021%29_9_%28cropped%29.jpg/960px-RC_Lens_-_Lille_OSC_%2817-09-2021%29_9_%28cropped%29.jpg",
+    "width": 1500,
+    "height": 3136,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterh\u00e9ninois (page does not exist)\">Supporterh\u00e9ninois</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/amadou-onana.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

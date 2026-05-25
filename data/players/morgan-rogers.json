@@ -1,0 +1,127 @@
+{
+  "slug": "morgan-rogers",
+  "display_name": "Morgan Rogers",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2002-07-26",
+  "age": 23,
+  "caps": 13,
+  "goals": 1,
+  "club_from_squad_table": "Aston Villa",
+  "wikipedia_title": "Morgan Rogers",
+  "date_of_birth": "2002-07-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Aston Villa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q61598452",
+  "qid": "Q61598452",
+  "name": "Morgan Rogers",
+  "description": "English association football player",
+  "place_of_birth_qid": "Q612260",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 1.89,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18744",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q18519",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q19568",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q19449",
+      "start": "2023-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q18661",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q18711",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q105089962",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q4201740",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q2752922",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1049171",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q1049176",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2024-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q47762",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18711",
+  "image_filename": "St. Louis City vs Aston Villa (Jul 2025) 18.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Morgan_Rogers",
+  "transfermarkt_id": "503743",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Halesowen",
+  "wikidata_current_club": "Aston Villa F.C.",
+  "wikidata_current_club_qid": "Q18711",
+  "photo": {
+    "filename": "St. Louis City vs Aston Villa (Jul 2025) 18.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/St._Louis_City_vs_Aston_Villa_%28Jul_2025%29_18.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/St._Louis_City_vs_Aston_Villa_%28Jul_2025%29_18.jpg/960px-St._Louis_City_vs_Aston_Villa_%28Jul_2025%29_18.jpg",
+    "width": 1366,
+    "height": 2048,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://old.reddit.com/user/reepers_hellcat\">u/reepers_hellcat</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/morgan-rogers.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

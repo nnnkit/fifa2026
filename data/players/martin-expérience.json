@@ -1,0 +1,46 @@
+{
+  "slug": "martin-expérience",
+  "display_name": "Martin Expérience",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-03-09",
+  "age": 27,
+  "caps": 19,
+  "goals": 0,
+  "club_from_squad_table": "Nancy",
+  "wikipedia_title": "Martin Expérience",
+  "date_of_birth": "1999-03-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Nancy",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q107426681",
+  "qid": "Q107426681",
+  "name": "Martin Experiénce",
+  "description": "Haitian footballer",
+  "place_of_birth_qid": "Q211187",
+  "citizenship_qids": [
+    "Q142",
+    "Q790"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Exp%C3%A9rience",
+  "transfermarkt_id": "804885",
+  "wikidata_date_of_birth": "1998-03-09",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "France",
+    "Haiti"
+  ],
+  "place_of_birth": "Châteaubriant",
+  "team_slug": "haiti",
+  "team_country": "Haiti",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

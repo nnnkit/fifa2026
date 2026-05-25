@@ -1,0 +1,63 @@
+{
+  "slug": "rodney-redes",
+  "display_name": "Rodney Redes",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-02-22",
+  "age": 26,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "LDU Quito",
+  "wikipedia_title": "Rodney Redes",
+  "date_of_birth": "2000-02-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "LDU Quito",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q86878740",
+  "qid": "Q86878740",
+  "name": "Rodney Redes",
+  "description": "Paraguayan footballer",
+  "place_of_birth_qid": "Q376227",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 173.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q605044",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q60643348",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q605044",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    }
+  ],
+  "current_club_qid": "Q60643348",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rodney_Redes",
+  "transfermarkt_id": "664546",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "La Colmena",
+  "wikidata_current_club": "Austin FC",
+  "wikidata_current_club_qid": "Q60643348",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

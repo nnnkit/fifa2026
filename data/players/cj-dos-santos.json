@@ -1,0 +1,69 @@
+{
+  "slug": "cj-dos-santos",
+  "display_name": "CJ dos Santos",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2000-08-24",
+  "age": 25,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "San Diego",
+  "wikipedia_title": "CJ dos Santos",
+  "date_of_birth": "2000-08-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "San Diego",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q62445814",
+  "qid": "Q62445814",
+  "name": "CJ dos Santos",
+  "description": "Cape Verdean association football player (born 2000)",
+  "place_of_birth_qid": "Q1345",
+  "citizenship_qids": [
+    "Q30",
+    "Q1011"
+  ],
+  "height_cm": 194.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q7387221",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q287804",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q7387221",
+  "image_filename": "C.J. dos Santos.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/CJ_dos_Santos",
+  "transfermarkt_id": "532096",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "United States",
+    "Cape Verde"
+  ],
+  "place_of_birth": "Philadelphia",
+  "wikidata_current_club": "S.L. Benfica B",
+  "wikidata_current_club_qid": "Q7387221",
+  "photo": {
+    "filename": "C.J. dos Santos.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/C.J._dos_Santos.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/C.J._dos_Santos.jpg",
+    "width": 596,
+    "height": 903,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Pedro  Semitiel",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/cj-dos-santos.jpg"
+  },
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde"
+}

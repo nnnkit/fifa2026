@@ -1,0 +1,53 @@
+{
+  "slug": "ibrahim-bayesh",
+  "display_name": "Ibrahim Bayesh",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2000-05-01",
+  "age": 26,
+  "caps": 74,
+  "goals": 8,
+  "club_from_squad_table": "Al-Dhafra",
+  "wikipedia_title": "Ibrahim Bayesh",
+  "date_of_birth": "2000-05-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Dhafra",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q45936149",
+  "qid": "Q45936149",
+  "name": "Ibrahim Bayesh",
+  "description": "Iraqi association football player",
+  "place_of_birth_qid": "Q796",
+  "citizenship_qids": [
+    "Q796"
+  ],
+  "height_cm": 177.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q285510",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q285510",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ibrahim_Bayesh",
+  "transfermarkt_id": "560957",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Iraq"
+  ],
+  "place_of_birth": "Iraq",
+  "wikidata_current_club": "Al-Quwa Al-Jawiya",
+  "wikidata_current_club_qid": "Q285510",
+  "team_slug": "iraq",
+  "team_country": "Iraq",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

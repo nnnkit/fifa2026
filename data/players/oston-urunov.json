@@ -1,0 +1,78 @@
+{
+  "slug": "oston-urunov",
+  "display_name": "Oston Urunov",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-12-19",
+  "age": 25,
+  "caps": 40,
+  "goals": 10,
+  "club_from_squad_table": "Persepolis",
+  "wikipedia_title": "Oston Urunov",
+  "date_of_birth": "2000-12-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Persepolis",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q65030956",
+  "qid": "Q65030956",
+  "name": "Oston Urunov",
+  "description": "Uzbekistani association football player",
+  "place_of_birth_qid": "Q763015",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "height_cm": 181.0,
+  "weight_kg": 82.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1101346",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q609912",
+      "start": "2019-07-00",
+      "end": "2020-02-00"
+    },
+    {
+      "team_qid": "Q2137561",
+      "start": "2020-02-10",
+      "end": "2020-08-05"
+    },
+    {
+      "team_qid": "Q29112",
+      "start": "2020-08-05",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q29112",
+  "image_filename": "Oston Urunov 2020.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Oston_Urunov",
+  "transfermarkt_id": "492556",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Navoiy",
+  "wikidata_current_club": "Spartak Moscow",
+  "wikidata_current_club_qid": "Q29112",
+  "photo": {
+    "filename": "Oston Urunov 2020.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Oston_Urunov_2020.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Oston_Urunov_2020.jpg",
+    "width": 945,
+    "height": 1267,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041f\u0443\u043a\u0430\u043b\u0438\u043a",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/oston-urunov.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

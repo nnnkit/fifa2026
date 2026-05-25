@@ -1,0 +1,114 @@
+{
+  "slug": "mehdi-taremi",
+  "display_name": "Mehdi Taremi",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1992-07-18",
+  "age": 33,
+  "caps": 103,
+  "goals": 59,
+  "club_from_squad_table": "Olympiacos",
+  "wikipedia_title": "Mehdi Taremi",
+  "date_of_birth": "1992-07-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Olympiacos",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q17070837",
+  "qid": "Q17070837",
+  "name": "Mehdi Taremi",
+  "description": "Iranian footballer (born 1992)",
+  "place_of_birth_qid": "Q158928",
+  "citizenship_qids": [
+    "Q794"
+  ],
+  "height_cm": 186.0,
+  "weight_kg": 82.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3119201",
+      "start": "2010-01-01",
+      "end": "2012-00-00"
+    },
+    {
+      "team_qid": "Q9189031",
+      "start": "2012-00-00",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q242260",
+      "start": "2014-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q6587944",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q3277524",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q184602",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q428211",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q622432",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q128446",
+      "start": "2020-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q631",
+      "start": "2024-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q19628",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19628",
+  "image_filename": "Iran - Japan, AFC Asian Cup 2019 42 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mehdi_Taremi",
+  "transfermarkt_id": "307058",
+  "fifa_player_id": "388475",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Iran"
+  ],
+  "place_of_birth": "Bushehr",
+  "wikidata_current_club": "Olympiacos F.C.",
+  "wikidata_current_club_qid": "Q19628",
+  "photo": {
+    "filename": "Iran - Japan, AFC Asian Cup 2019 42 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Iran_-_Japan%2C_AFC_Asian_Cup_2019_42_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Iran_-_Japan%2C_AFC_Asian_Cup_2019_42_%28cropped%29.jpg",
+    "width": 299,
+    "height": 449,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Parto Joghataee",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mehdi-taremi.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

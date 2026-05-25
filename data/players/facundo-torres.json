@@ -1,0 +1,62 @@
+{
+  "slug": "facundo-torres",
+  "display_name": "Facundo Torres",
+  "shirt_no": 21,
+  "position_code": "FW",
+  "dob": "2000-04-13",
+  "age": 26,
+  "caps": 23,
+  "goals": 2,
+  "club_from_squad_table": "Austin FC",
+  "wikipedia_title": "Facundo Torres",
+  "date_of_birth": "2000-04-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Austin FC",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27982962",
+  "qid": "Q27982962",
+  "name": "Facundo Torres",
+  "description": "Uruguayan association football player",
+  "place_of_birth_qid": "Q1335",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 1.77,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q16320",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q16320",
+  "image_filename": "Facundo Torres 02-24-2024.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Facundo_Torres",
+  "transfermarkt_id": "465822",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Montevideo",
+  "wikidata_current_club": "Club Atl\u00e9tico Pe\u00f1arol",
+  "wikidata_current_club_qid": "Q16320",
+  "photo": {
+    "filename": "Facundo Torres 02-24-2024.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Facundo_Torres_02-24-2024.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Facundo_Torres_02-24-2024.png",
+    "width": 655,
+    "height": 1289,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Raskuly\" title=\"User:Raskuly\">Raskuly</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/facundo-torres.png"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

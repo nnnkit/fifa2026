@@ -1,0 +1,70 @@
+{
+  "slug": "tsuyoshi-watanabe",
+  "display_name": "Tsuyoshi Watanabe",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-02-05",
+  "age": 29,
+  "caps": 10,
+  "goals": 0,
+  "club_from_squad_table": "Feyenoord",
+  "wikipedia_title": "Tsuyoshi Watanabe",
+  "date_of_birth": "1997-02-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Feyenoord",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q56253139",
+  "qid": "Q56253139",
+  "name": "Tsuyoshi Watanabe",
+  "description": "Japanese association football player",
+  "place_of_birth_qid": "Q128186",
+  "citizenship_qids": [
+    "Q17"
+  ],
+  "height_cm": 184.0,
+  "weight_kg": 76.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q856619",
+      "start": "2018-00-00",
+      "end": "2021-12-00"
+    },
+    {
+      "team_qid": "Q28129709",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q618620",
+      "start": "2022-01-00",
+      "end": "2023-06-00"
+    },
+    {
+      "team_qid": "Q18232",
+      "start": "2023-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18232",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tsuyoshi_Watanabe",
+  "transfermarkt_id": "598791",
+  "uefa_player_id": "29547",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Japan"
+  ],
+  "place_of_birth": "Saitama Prefecture",
+  "wikidata_current_club": "KAA Gent",
+  "wikidata_current_club_qid": "Q18232",
+  "team_slug": "japan",
+  "team_country": "Japan",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

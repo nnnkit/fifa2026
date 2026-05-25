@@ -1,0 +1,52 @@
+{
+  "slug": "josé-manuel-lópez",
+  "display_name": "José Manuel López",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-12-06",
+  "age": 25,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Palmeiras",
+  "wikipedia_title": "José Manuel López (footballer)",
+  "wikidata_qid": "Q104903216",
+  "qid": "Q104903216",
+  "name": "José Manuel López",
+  "description": "Argentine association football player (born 2000)",
+  "date_of_birth": "2000-12-06",
+  "place_of_birth_qid": "Q52546",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 190.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "image_filename": "Flaco-Lopez-Palmeiras-Cuiaba-abr2023-03.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_L%C3%B3pez_(footballer)",
+  "transfermarkt_id": "844797",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "San Lorenzo",
+  "current_club": "Palmeiras",
+  "current_club_source": "wikipedia-squad-table",
+  "photo": {
+    "filename": "Flaco-Lopez-Palmeiras-Cuiaba-abr2023-03.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flaco-Lopez-Palmeiras-Cuiaba-abr2023-03.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flaco-Lopez-Palmeiras-Cuiaba-abr2023-03.jpg",
+    "width": 196,
+    "height": 261,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sepguilherme\" class=\"mw-redirect\" title=\"User:Sepguilherme\">Sepguilherme</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/josé-manuel-lópez.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

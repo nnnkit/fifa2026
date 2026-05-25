@@ -1,0 +1,111 @@
+{
+  "slug": "samet-akaydin",
+  "display_name": "Samet Akaydin",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1994-05-13",
+  "age": 32,
+  "caps": 18,
+  "goals": 1,
+  "club_from_squad_table": "Çaykur Rizespor",
+  "wikipedia_title": "Samet Akaydin",
+  "date_of_birth": "1994-05-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Çaykur Rizespor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q69512938",
+  "qid": "Q69512938",
+  "name": "Samet Akaydın",
+  "description": "Turkish association football player (born 1994)",
+  "place_of_birth_qid": "Q45301",
+  "citizenship_qids": [
+    "Q43"
+  ],
+  "height_cm": 190.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q891679",
+      "start": "2012-09-00",
+      "end": "2013-09-00"
+    },
+    {
+      "team_qid": "Q1914748",
+      "start": "2013-09-00",
+      "end": "2014-08-00"
+    },
+    {
+      "team_qid": "Q6075910",
+      "start": "2014-08-00",
+      "end": "2018-07-00"
+    },
+    {
+      "team_qid": "Q388487",
+      "start": "2018-08-00",
+      "end": "2019-06-00"
+    },
+    {
+      "team_qid": "Q1536956",
+      "start": "2019-07-00",
+      "end": "2021-01-00"
+    },
+    {
+      "team_qid": "Q352251",
+      "start": "2021-01-00",
+      "end": "2023-01-00"
+    },
+    {
+      "team_qid": "Q483856",
+      "start": "2022-11-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q116169045",
+      "start": "2011-10-00",
+      "end": "2013-05-00"
+    },
+    {
+      "team_qid": "Q6601875",
+      "start": "2023-01-00",
+      "end": "2025-01-00"
+    },
+    {
+      "team_qid": "Q4122219",
+      "start": "2024-01-14",
+      "end": "2024-06-30"
+    },
+    {
+      "team_qid": "Q272712",
+      "start": "2025-01-24",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q272712",
+  "image_filename": "Samet Akaydin20220225 14 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Samet_Akaydin",
+  "transfermarkt_id": "295024",
+  "wikidata_date_of_birth": "1994-03-13",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Turkey"
+  ],
+  "place_of_birth": "Trabzon",
+  "photo": {
+    "filename": "Samet Akaydin20220225 14 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Samet_Akaydin20220225_14_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Samet_Akaydin20220225_14_%28cropped%29.jpg/960px-Samet_Akaydin20220225_14_%28cropped%29.jpg",
+    "width": 1173,
+    "height": 1805,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/194383345@N04\">Antalyaspor A.Ş.</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/samet-akaydin.jpg"
+  },
+  "team_slug": "turkey",
+  "team_country": "Turkey"
+}

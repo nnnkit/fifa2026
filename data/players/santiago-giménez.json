@@ -1,0 +1,78 @@
+{
+  "slug": "santiago-giménez",
+  "display_name": "Santiago Giménez",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-04-18",
+  "age": 25,
+  "caps": 46,
+  "goals": 6,
+  "club_from_squad_table": "Milan",
+  "wikipedia_title": "Santiago Giménez",
+  "wikidata_qid": "Q33296979",
+  "qid": "Q33296979",
+  "name": "Santiago Giménez",
+  "description": "Mexican footballer (born 2001)",
+  "date_of_birth": "2001-04-18",
+  "place_of_birth_qid": "Q1486",
+  "citizenship_qids": [
+    "Q38",
+    "Q96"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q845859",
+      "start": "2017-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q134241",
+      "start": "2022-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q164089",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1543",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1543",
+  "image_filename": "Santiago Giménez.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Santiago_Gim%C3%A9nez",
+  "transfermarkt_id": "552955",
+  "current_club": "Milan",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Italy",
+    "Mexico"
+  ],
+  "place_of_birth": "Buenos Aires",
+  "wikidata_current_club": "AC Milan",
+  "wikidata_current_club_qid": "Q1543",
+  "photo": {
+    "filename": "Santiago Giménez.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Santiago_Gim%C3%A9nez.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Santiago_Gim%C3%A9nez.png",
+    "width": 570,
+    "height": 713,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/santiago-giménez.png"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

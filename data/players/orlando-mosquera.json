@@ -1,0 +1,62 @@
+{
+  "slug": "orlando-mosquera",
+  "display_name": "Orlando Mosquera",
+  "shirt_no": 22,
+  "position_code": "GK",
+  "dob": "1994-12-25",
+  "age": 31,
+  "caps": 46,
+  "goals": 0,
+  "club_from_squad_table": "Al-Fayha",
+  "wikipedia_title": "Orlando Mosquera",
+  "date_of_birth": "1994-12-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Fayha",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q48839143",
+  "qid": "Q48839143",
+  "name": "Orlando Mosquera",
+  "description": "Panamanian association football player",
+  "place_of_birth_qid": "Q3306",
+  "citizenship_qids": [
+    "Q804"
+  ],
+  "height_cm": 191.0,
+  "position_qids": [
+    "Q172964"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q223748",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q20081435",
+  "image_filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 160 (Orlando Mosquera).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Orlando_Mosquera",
+  "transfermarkt_id": "402979",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Panama"
+  ],
+  "place_of_birth": "Panama City",
+  "wikidata_current_club": "Panama men's national football team",
+  "wikidata_current_club_qid": "Q223748",
+  "photo": {
+    "filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 160 (Orlando Mosquera).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_160_%28Orlando_Mosquera%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_160_%28Orlando_Mosquera%29.jpg/960px-Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_160_%28Orlando_Mosquera%29.jpg",
+    "width": 2633,
+    "height": 4000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/orlando-mosquera.jpg"
+  },
+  "team_slug": "panama",
+  "team_country": "Panama"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "lucas-herrington",
+  "display_name": "Lucas Herrington",
+  "shirt_no": 26,
+  "position_code": "DF",
+  "dob": "2007-09-05",
+  "age": 18,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Colorado Rapids",
+  "wikipedia_title": "Lucas Herrington",
+  "date_of_birth": "2007-09-05",
+  "date_of_birth_source": "wikidata+club-official-verified",
+  "current_club": "Colorado Rapids",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q133105064",
+  "qid": "Q133105064",
+  "name": "Lucas Herrington",
+  "description": "Australian soccer player",
+  "place_of_birth_qid": "Q34932",
+  "citizenship_qids": [
+    "Q408"
+  ],
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q16828255",
+      "start": "2023-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q839997",
+      "start": "2024-00-00",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q642408",
+      "start": "2026-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873546",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q268208",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q642408",
+  "image_filename": "Lucas Herrington NYCFC v Colorado Mar 14 2026-29 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_Herrington",
+  "transfermarkt_id": "1279984",
+  "wikidata_date_of_birth": "2007-09-05",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Australia"
+  ],
+  "place_of_birth": "Brisbane",
+  "photo": {
+    "filename": "Lucas Herrington NYCFC v Colorado Mar 14 2026-29 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Lucas_Herrington_NYCFC_v_Colorado_Mar_14_2026-29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Lucas_Herrington_NYCFC_v_Colorado_Mar_14_2026-29_%28cropped%29.jpg/960px-Lucas_Herrington_NYCFC_v_Colorado_Mar_14_2026-29_%28cropped%29.jpg",
+    "width": 3041,
+    "height": 4052,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lucas-herrington.jpg"
+  },
+  "team_slug": "australia",
+  "team_country": "Australia",
+  "squad_table_date_of_birth": "2007-07-05"
+}

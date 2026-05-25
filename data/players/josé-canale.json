@@ -1,0 +1,53 @@
+{
+  "slug": "josé-canale",
+  "display_name": "José Canale",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-07-20",
+  "age": 29,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Lanús",
+  "wikipedia_title": "José Canale",
+  "date_of_birth": "1996-07-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lanús",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q50105161",
+  "qid": "Q50105161",
+  "name": "José María Canale",
+  "description": "Paraguayan association football player",
+  "place_of_birth_qid": "Q1093634",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q848642",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q848642",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Canale",
+  "transfermarkt_id": "402627",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Villa monica alritmo",
+  "wikidata_current_club": "Club Libertad",
+  "wikidata_current_club_qid": "Q848642",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

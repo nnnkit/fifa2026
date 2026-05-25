@@ -1,0 +1,54 @@
+{
+  "slug": "redouane-halhal",
+  "display_name": "Redouane Halhal",
+  "shirt_no": 25,
+  "position_code": "DF",
+  "dob": "2003-03-05",
+  "age": 23,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Mechelen",
+  "wikipedia_title": "Redouane Halhal",
+  "date_of_birth": "2003-03-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Mechelen",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q120389429",
+  "qid": "Q120389429",
+  "name": "Redouane Halhal",
+  "description": "Moroccan and French footballer",
+  "place_of_birth_qid": "Q6441",
+  "citizenship_qids": [
+    "Q1028",
+    "Q142"
+  ],
+  "height_cm": 1.87,
+  "position_qids": [
+    "Q336286"
+  ],
+  "image_filename": "Redouane Halhal vs Paraguay (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Redouane_Halhal",
+  "transfermarkt_id": "913660",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Morocco",
+    "France"
+  ],
+  "place_of_birth": "Montpellier",
+  "photo": {
+    "filename": "Redouane Halhal vs Paraguay (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Redouane_Halhal_vs_Paraguay_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Redouane_Halhal_vs_Paraguay_%28cropped%29.jpg/960px-Redouane_Halhal_vs_Paraguay_%28cropped%29.jpg",
+    "width": 2230,
+    "height": 2620,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Abdelali Bentarki",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/redouane-halhal.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

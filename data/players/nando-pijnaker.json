@@ -1,0 +1,53 @@
+{
+  "slug": "nando-pijnaker",
+  "display_name": "Nando Pijnaker",
+  "shirt_no": 15,
+  "position_code": "DF",
+  "dob": "1999-02-25",
+  "age": 27,
+  "caps": 23,
+  "goals": 0,
+  "club_from_squad_table": "Auckland FC",
+  "wikipedia_title": "Nando Pijnaker",
+  "date_of_birth": "1999-02-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Auckland FC",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64031855",
+  "qid": "Q64031855",
+  "name": "Nando Pijnaker",
+  "description": "New Zealand association football player",
+  "place_of_birth_qid": "Q109535",
+  "citizenship_qids": [
+    "Q664"
+  ],
+  "height_cm": 192.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3046573",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q3046573",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nando_Pijnaker",
+  "transfermarkt_id": "455425",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "New Zealand"
+  ],
+  "place_of_birth": "Zutphen",
+  "wikidata_current_club": "Eastern Suburbs AFC",
+  "wikidata_current_club_qid": "Q3046573",
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

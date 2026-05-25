@@ -1,0 +1,47 @@
+{
+  "slug": "juan-espínola",
+  "display_name": "Juan Espínola",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1994-11-02",
+  "age": 31,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Barracas Central",
+  "wikipedia_title": "Juan Espínola (footballer, born 1994)",
+  "date_of_birth": "1994-11-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Barracas Central",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q63011249",
+  "qid": "Q63011249",
+  "name": "Juan Espínola",
+  "description": "association football player born 1994",
+  "place_of_birth_qid": "Q192235",
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q603101",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q603101",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Esp%C3%ADnola_(footballer,_born_1994)",
+  "transfermarkt_id": "532557",
+  "positions": [
+    "goalkeeper"
+  ],
+  "place_of_birth": "Ciudad del Este",
+  "wikidata_current_club": "Club Nacional",
+  "wikidata_current_club_qid": "Q603101",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

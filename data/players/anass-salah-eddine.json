@@ -1,0 +1,64 @@
+{
+  "slug": "anass-salah-eddine",
+  "display_name": "Anass Salah-Eddine",
+  "shirt_no": 26,
+  "position_code": "DF",
+  "dob": "2002-01-18",
+  "age": 24,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "PSV",
+  "wikipedia_title": "Anass Salah-Eddine",
+  "date_of_birth": "2002-01-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "PSV",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q65131685",
+  "qid": "Q65131685",
+  "name": "Anass Salah-Eddine",
+  "description": "Dutch association football player (born 2002)",
+  "place_of_birth_qid": "Q727",
+  "citizenship_qids": [
+    "Q29999",
+    "Q1028"
+  ],
+  "height_cm": 1.81,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q81888",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q81888",
+  "image_filename": "Anass salaheddine-1695383603.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anass_Salah-Eddine",
+  "transfermarkt_id": "485584",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands",
+    "Morocco"
+  ],
+  "place_of_birth": "Amsterdam",
+  "wikidata_current_club": "AFC Ajax",
+  "wikidata_current_club_qid": "Q81888",
+  "photo": {
+    "filename": "Anass salaheddine-1695383603.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Anass_salaheddine-1695383603.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Anass_salaheddine-1695383603.jpg/960px-Anass_salaheddine-1695383603.jpg",
+    "width": 1875,
+    "height": 3036,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Hans Reefman",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/anass-salah-eddine.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

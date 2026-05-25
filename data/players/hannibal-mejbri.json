@@ -1,0 +1,84 @@
+{
+  "slug": "hannibal-mejbri",
+  "display_name": "Hannibal Mejbri",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2003-01-21",
+  "age": 23,
+  "caps": 44,
+  "goals": 1,
+  "club_from_squad_table": "Burnley",
+  "wikipedia_title": "Hannibal Mejbri",
+  "date_of_birth": "2003-01-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Burnley",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q96755704",
+  "qid": "Q96755704",
+  "name": "Hannibal Mejbri",
+  "description": "Tunisian-French footballer (born 2003)",
+  "place_of_birth_qid": "Q193877",
+  "citizenship_qids": [
+    "Q142",
+    "Q948"
+  ],
+  "height_cm": 177.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18656",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19444",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q3590033",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q27971",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18656",
+  "image_filename": "Hannibal Mejbri 26042025 (1).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hannibal_Mejbri",
+  "transfermarkt_id": "607224",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "France",
+    "Tunisia"
+  ],
+  "place_of_birth": "Ivry-sur-Seine",
+  "wikidata_current_club": "Manchester United F.C.",
+  "wikidata_current_club_qid": "Q18656",
+  "photo": {
+    "filename": "Hannibal Mejbri 26042025 (1).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hannibal_Mejbri_26042025_%281%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hannibal_Mejbri_26042025_%281%29.jpg/960px-Hannibal_Mejbri_26042025_%281%29.jpg",
+    "width": 1009,
+    "height": 1559,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/hannibal-mejbri.jpg"
+  },
+  "team_slug": "tunisia",
+  "team_country": "Tunisia"
+}

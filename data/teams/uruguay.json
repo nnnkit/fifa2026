@@ -1,0 +1,2130 @@
+{
+  "slug": "uruguay",
+  "country": "Uruguay",
+  "wikidata_qid": "Q134916",
+  "fetched_at": "2026-05-24T16:59:10+00:00",
+  "source": {
+    "kind": "national-team",
+    "title": "Uruguay national football team",
+    "url": "https://en.wikipedia.org/wiki/Uruguay_national_football_team"
+  },
+  "squad_size": 28,
+  "players": [
+    {
+      "slug": "sergio-rochet",
+      "display_name": "Sergio Rochet",
+      "shirt_no": 1,
+      "position_code": "GK",
+      "dob": "1993-03-23",
+      "age": 33,
+      "caps": 35,
+      "goals": 0,
+      "club_from_squad_table": "Internacional",
+      "wikipedia_title": "Sergio Rochet",
+      "date_of_birth": "1993-03-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Internacional",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17086753",
+      "qid": "Q17086753",
+      "name": "Sergio Rochet",
+      "description": "Uruguayan footballer",
+      "place_of_birth_qid": "Q1023521",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 82.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q191264",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q584316",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        }
+      ],
+      "current_club_qid": "Q191264",
+      "image_filename": "Zenit-AZ (8).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sergio_Rochet",
+      "transfermarkt_id": "264014",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Nueva Palmira",
+      "wikidata_current_club": "AZ Alkmaar",
+      "wikidata_current_club_qid": "Q191264",
+      "photo": {
+        "filename": "Zenit-AZ (8).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Zenit-AZ_%288%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Zenit-AZ_%288%29.jpg",
+        "width": 841,
+        "height": 637,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Владислав Евдокимов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/sergio-rochet.jpg"
+      }
+    },
+    {
+      "slug": "santiago-mele",
+      "display_name": "Santiago Mele",
+      "shirt_no": 12,
+      "position_code": "GK",
+      "dob": "1997-09-06",
+      "age": 28,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Monterrey",
+      "wikipedia_title": "Santiago Mele",
+      "date_of_birth": "1997-09-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Monterrey",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27921765",
+      "qid": "Q27921765",
+      "name": "Santiago Mele",
+      "description": "association football player",
+      "place_of_birth_qid": "Q1335",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 1.85,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q16320",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q978110",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q556570",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1103101",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q80899",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q332524",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q768253",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q16320",
+      "image_filename": "Santiago Mele.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Santiago_Mele",
+      "transfermarkt_id": "320739",
+      "fifa_player_id": "402897",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Club Atlético Peñarol",
+      "wikidata_current_club_qid": "Q16320",
+      "photo": {
+        "filename": "Santiago Mele.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Santiago_Mele.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Santiago_Mele.jpg",
+        "width": 762,
+        "height": 1451,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/agenciaandes_ec/\">Agencia de Noticias ANDES</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/santiago-mele.jpg"
+      }
+    },
+    {
+      "slug": "fernando-muslera",
+      "display_name": "Fernando Muslera",
+      "shirt_no": 23,
+      "position_code": "GK",
+      "dob": "1986-06-16",
+      "age": 39,
+      "caps": 134,
+      "goals": 0,
+      "club_from_squad_table": "Estudiantes",
+      "wikipedia_title": "Fernando Muslera",
+      "date_of_birth": "1986-06-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Estudiantes",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q203749",
+      "qid": "Q203749",
+      "name": "Fernando Muslera",
+      "description": "Uruguayan footballer",
+      "place_of_birth_qid": "Q1486",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 191.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q499616",
+          "start": "2006-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q2609",
+          "start": "2007-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q872702",
+          "start": "2004-01-01",
+          "end": "2007-00-00"
+        },
+        {
+          "team_qid": "Q495299",
+          "start": "2011-01-01",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q134916",
+          "start": "2009-01-01",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q3589858",
+          "start": "2002-01-01",
+          "end": "2003-01-01"
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": "2005-01-01",
+          "end": "2005-01-01"
+        },
+        {
+          "team_qid": "Q214940",
+          "start": "2025-06-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q214940",
+      "image_filename": "Fernando Muslera in 2021.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fernando_Muslera",
+      "transfermarkt_id": "58088",
+      "fifa_player_id": "229498",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Buenos Aires",
+      "wikidata_current_club": "Estudiantes de La Plata",
+      "wikidata_current_club_qid": "Q214940",
+      "photo": {
+        "filename": "Fernando Muslera in 2021.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Fernando_Muslera_in_2021.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Fernando_Muslera_in_2021.jpg",
+        "width": 928,
+        "height": 1148,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Анна Нэсси",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/fernando-muslera.jpg"
+      }
+    },
+    {
+      "slug": "josé-maría-giménez",
+      "display_name": "José María Giménez",
+      "shirt_no": 2,
+      "position_code": "DF",
+      "dob": "1995-01-20",
+      "age": 31,
+      "caps": 99,
+      "goals": 8,
+      "club_from_squad_table": "Atlético Madrid",
+      "wikipedia_title": "José María Giménez",
+      "date_of_birth": "1995-01-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlético Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q13634114",
+      "qid": "Q13634114",
+      "name": "José María Giménez",
+      "description": "Uruguayan association football player",
+      "place_of_birth_qid": "Q841342",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 76.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8701",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q584316",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q134916",
+          "start": "2013-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8701",
+      "image_filename": "José María Giménez (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Gim%C3%A9nez",
+      "transfermarkt_id": "250845",
+      "fifa_player_id": "368655",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Canelones",
+      "photo": {
+        "filename": "José María Giménez (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jos%C3%A9_Mar%C3%ADa_Gim%C3%A9nez_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jos%C3%A9_Mar%C3%ADa_Gim%C3%A9nez_%28cropped%29.jpg",
+        "width": 467,
+        "height": 522,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Анна Нэсси",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/josé-maría-giménez.jpg"
+      }
+    },
+    {
+      "slug": "sebastián-cáceres",
+      "display_name": "Sebastián Cáceres",
+      "shirt_no": 3,
+      "position_code": "DF",
+      "dob": "1999-08-18",
+      "age": 26,
+      "caps": 24,
+      "goals": 0,
+      "club_from_squad_table": "América",
+      "wikipedia_title": "Sebastián Cáceres",
+      "date_of_birth": "1999-08-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "América",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q58011140",
+      "qid": "Q58011140",
+      "name": "Sebastián Cáceres",
+      "description": "Uruguayan association football player",
+      "place_of_birth_qid": "Q1335",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1131189",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1131189",
+      "image_filename": "Sebastián Cáceres.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_C%C3%A1ceres",
+      "transfermarkt_id": "532389",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Liverpool F.C. (Montevideo)",
+      "wikidata_current_club_qid": "Q1131189",
+      "photo": {
+        "filename": "Sebastián Cáceres.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Sebasti%C3%A1n_C%C3%A1ceres.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Sebasti%C3%A1n_C%C3%A1ceres.jpg",
+        "width": 644,
+        "height": 932,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UC51-rRe-cnJn5V670538Lrw\">Club Santos Laguna</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/sebastián-cáceres.jpg"
+      }
+    },
+    {
+      "slug": "ronald-araújo",
+      "display_name": "Ronald Araújo",
+      "shirt_no": 4,
+      "position_code": "DF",
+      "dob": "1999-03-07",
+      "age": 27,
+      "caps": 27,
+      "goals": 1,
+      "club_from_squad_table": "Barcelona",
+      "wikipedia_title": "Ronald Araújo",
+      "date_of_birth": "1999-03-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barcelona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q56332606",
+      "qid": "Q56332606",
+      "name": "Ronald Araújo",
+      "description": "Uruguayan footballer",
+      "place_of_birth_qid": "Q646498",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 192.0,
+      "weight_kg": 82.0,
+      "position_qids": [
+        "Q336286",
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1022933",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1022910",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q28452980",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q20831422",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q134916",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q7156",
+      "image_filename": "FC Red Bull Salzburg gegen CF Barcelona (Testspiel 4. August 2021) 45 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ronald_Ara%C3%BAjo",
+      "transfermarkt_id": "480267",
+      "positions": [
+        "defender",
+        "centre-back"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Rivera",
+      "wikidata_current_club": "Futbol Club Barcelona",
+      "wikidata_current_club_qid": "Q7156",
+      "photo": {
+        "filename": "FC Red Bull Salzburg gegen CF Barcelona (Testspiel 4. August 2021) 45 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/FC_Red_Bull_Salzburg_gegen_CF_Barcelona_%28Testspiel_4._August_2021%29_45_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/FC_Red_Bull_Salzburg_gegen_CF_Barcelona_%28Testspiel_4._August_2021%29_45_%28cropped%29.jpg/960px-FC_Red_Bull_Salzburg_gegen_CF_Barcelona_%28Testspiel_4._August_2021%29_45_%28cropped%29.jpg",
+        "width": 1255,
+        "height": 1893,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ronald-araújo.jpg"
+      }
+    },
+    {
+      "slug": "guillermo-varela",
+      "display_name": "Guillermo Varela",
+      "shirt_no": 13,
+      "position_code": "DF",
+      "dob": "1993-03-24",
+      "age": 33,
+      "caps": 28,
+      "goals": 0,
+      "club_from_squad_table": "Flamengo",
+      "wikipedia_title": "Guillermo Varela",
+      "date_of_birth": "1993-03-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Flamengo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q13422031",
+      "qid": "Q13422031",
+      "name": "Guillermo Varela",
+      "description": "Uruguayan association football player",
+      "place_of_birth_qid": "Q1335",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 171.0,
+      "weight_kg": 69.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q16320",
+          "start": "2010-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q12217",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3589858",
+          "start": "2008-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q134916",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q8682",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q188430",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q17497",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8682",
+      "image_filename": "Guillermo Varela 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Guillermo_Varela",
+      "transfermarkt_id": "188862",
+      "fifa_player_id": "368660",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Real Madrid Club de Fútbol",
+      "wikidata_current_club_qid": "Q8682",
+      "photo": {
+        "filename": "Guillermo Varela 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Guillermo_Varela_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Guillermo_Varela_2022.jpg",
+        "width": 347,
+        "height": 514,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Антон Зайцев",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/guillermo-varela.jpg"
+      }
+    },
+    {
+      "slug": "mathías-olivera",
+      "display_name": "Mathías Olivera",
+      "shirt_no": 16,
+      "position_code": "DF",
+      "dob": "1997-10-31",
+      "age": 28,
+      "caps": 35,
+      "goals": 2,
+      "club_from_squad_table": "Napoli",
+      "wikipedia_title": "Mathías Olivera",
+      "date_of_birth": "1997-10-31",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Napoli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q23679804",
+      "qid": "Q23679804",
+      "name": "Mathías Olivera",
+      "description": "Uruguayan association football player",
+      "place_of_birth_qid": "Q1335",
+      "citizenship_qids": [
+        "Q77",
+        "Q29"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q499616",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q386543",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q8806",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q576285",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        }
+      ],
+      "current_club_qid": "Q8806",
+      "image_filename": "Mathías Olivera 2017.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Math%C3%ADas_Olivera",
+      "transfermarkt_id": "376514",
+      "fifa_player_id": "402893",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Uruguay",
+        "Spain"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Getafe CF",
+      "wikidata_current_club_qid": "Q8806",
+      "photo": {
+        "filename": "Mathías Olivera 2017.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Math%C3%ADas_Olivera_2017.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Math%C3%ADas_Olivera_2017.jpg/960px-Math%C3%ADas_Olivera_2017.jpg",
+        "width": 2077,
+        "height": 2689,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/75116651@N03\">Agencia de Noticias ANDES</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mathías-olivera.jpg"
+      }
+    },
+    {
+      "slug": "matías-viña",
+      "display_name": "Matías Viña",
+      "shirt_no": 17,
+      "position_code": "DF",
+      "dob": "1997-11-09",
+      "age": 28,
+      "caps": 43,
+      "goals": 1,
+      "club_from_squad_table": "River Plate",
+      "wikipedia_title": "Matías Viña",
+      "date_of_birth": "1997-11-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "River Plate",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28663925",
+      "qid": "Q28663925",
+      "name": "Matías Viña",
+      "description": "Uruguayan football player",
+      "place_of_birth_qid": "Q630016",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 1.83,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q499616",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2020-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q8603",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q17479",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q17479",
+      "image_filename": "Matías Viña.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mat%C3%ADas_Vi%C3%B1a",
+      "transfermarkt_id": "439072",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Empalme Olmos",
+      "wikidata_current_club": "Clube de Regatas do Flamengo",
+      "wikidata_current_club_qid": "Q17479",
+      "photo": {
+        "filename": "Matías Viña.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Mat%C3%ADas_Vi%C3%B1a.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mat%C3%ADas_Vi%C3%B1a.jpg/960px-Mat%C3%ADas_Vi%C3%B1a.jpg",
+        "width": 1309,
+        "height": 1921,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/agenciaandes_ec/\">Agencia de Noticias ANDES</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/matías-viña.jpg"
+      }
+    },
+    {
+      "slug": "santiago-bueno",
+      "display_name": "Santiago Bueno",
+      "shirt_no": 22,
+      "position_code": "DF",
+      "dob": "1998-11-09",
+      "age": 27,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Wolverhampton Wanderers",
+      "wikipedia_title": "Santiago Bueno",
+      "date_of_birth": "1998-11-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Wolverhampton Wanderers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q25367692",
+      "qid": "Q25367692",
+      "name": "Santiago Bueno",
+      "description": "Uruguayan association football player",
+      "place_of_birth_qid": "Q1335",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 79.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7156",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q7156",
+      "image_filename": "Santiago Bueno.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Santiago_Bueno",
+      "transfermarkt_id": "438001",
+      "fifa_player_id": "402904",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Futbol Club Barcelona",
+      "wikidata_current_club_qid": "Q7156",
+      "photo": {
+        "filename": "Santiago Bueno.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Santiago_Bueno.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Santiago_Bueno.png",
+        "width": 478,
+        "height": 838,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%C3%86thelred&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Æthelred (page does not exist)\">Æthelred</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/santiago-bueno.png"
+      }
+    },
+    {
+      "slug": "josé-luis-rodríguez",
+      "display_name": "José Luis Rodríguez",
+      "shirt_no": 24,
+      "position_code": "DF",
+      "dob": "1997-03-14",
+      "age": 29,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Vasco da Gama",
+      "wikipedia_title": "José Luis Rodríguez (footballer, born 1997)",
+      "date_of_birth": "1997-03-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Vasco da Gama",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q23907269",
+      "qid": "Q23907269",
+      "name": "José Luis Rodríguez",
+      "description": "Uruguayan association football player",
+      "place_of_birth_qid": "Q841342",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q584316",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q584316",
+      "image_filename": "José Luis Rodríguez Bebanz.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_(footballer,_born_1997)",
+      "transfermarkt_id": "430339",
+      "fifa_player_id": "402890",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Canelones",
+      "wikidata_current_club": "Danubio F.C.",
+      "wikidata_current_club_qid": "Q584316",
+      "photo": {
+        "filename": "José Luis Rodríguez Bebanz.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Jos%C3%A9_Luis_Rodr%C3%ADguez_Bebanz.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Jos%C3%A9_Luis_Rodr%C3%ADguez_Bebanz.jpg/960px-Jos%C3%A9_Luis_Rodr%C3%ADguez_Bebanz.jpg",
+        "width": 1067,
+        "height": 2154,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/agenciaandes_ec/\">Agencia de Noticias ANDES</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/josé-luis-rodríguez.jpg"
+      }
+    },
+    {
+      "slug": "joaquín-piquerez",
+      "display_name": "Joaquín Piquerez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-08-24",
+      "age": 27,
+      "caps": 19,
+      "goals": 0,
+      "club_from_squad_table": "Palmeiras",
+      "wikipedia_title": "Joaquín Piquerez",
+      "date_of_birth": "1998-08-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Palmeiras",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q35066458",
+      "qid": "Q35066458",
+      "name": "Joaquín Piquerez",
+      "description": "Italian-Uruguay association football player",
+      "place_of_birth_qid": "Q1335",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q844238",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q980573",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q16320",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q80964",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q134916",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q80964",
+      "image_filename": "Joaquin-Piquerez-Palmeiras-Athletico-jul-2022-2.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Piquerez",
+      "transfermarkt_id": "496268",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Sociedade Esportiva Palmeiras",
+      "wikidata_current_club_qid": "Q80964",
+      "photo": {
+        "filename": "Joaquin-Piquerez-Palmeiras-Athletico-jul-2022-2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Joaquin-Piquerez-Palmeiras-Athletico-jul-2022-2.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Joaquin-Piquerez-Palmeiras-Athletico-jul-2022-2.jpg/960px-Joaquin-Piquerez-Palmeiras-Athletico-jul-2022-2.jpg",
+        "width": 1014,
+        "height": 1740,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "SOCCER DIGITAL",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/joaquín-piquerez.jpg"
+      }
+    },
+    {
+      "slug": "manuel-ugarte",
+      "display_name": "Manuel Ugarte",
+      "shirt_no": 5,
+      "position_code": "MF",
+      "dob": "2001-04-11",
+      "age": 25,
+      "caps": 36,
+      "goals": 1,
+      "club_from_squad_table": "Manchester United",
+      "wikipedia_title": "Manuel Ugarte (footballer)",
+      "date_of_birth": "2001-04-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27960175",
+      "qid": "Q27960175",
+      "name": "Manuel Ugarte",
+      "description": "Uruguayan association football player",
+      "place_of_birth_qid": "Q1335",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 1.82,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q978110",
+          "start": "2016-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1387105",
+          "start": "2020-12-29",
+          "end": "2021-08-09"
+        },
+        {
+          "team_qid": "Q75729",
+          "start": "2021-08-09",
+          "end": "2023-07-07"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2023-07-07",
+          "end": "2024-08-30"
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q134916",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2024-08-30",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18656",
+      "image_filename": "M.UGARTE.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Manuel_Ugarte_(footballer)",
+      "transfermarkt_id": "476701",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Manchester United F.C.",
+      "wikidata_current_club_qid": "Q18656",
+      "photo": {
+        "filename": "M.UGARTE.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/M.UGARTE.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/M.UGARTE.jpg",
+        "width": 584,
+        "height": 930,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Atmedia25&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Atmedia25 (page does not exist)\">Atmedia25</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/manuel-ugarte.jpg"
+      }
+    },
+    {
+      "slug": "juan-manuel-sanabria",
+      "display_name": "Juan Manuel Sanabria",
+      "shirt_no": 6,
+      "position_code": "MF",
+      "dob": "2000-03-29",
+      "age": 26,
+      "caps": 5,
+      "goals": 1,
+      "club_from_squad_table": "Real Salt Lake",
+      "wikipedia_title": "Juan Manuel Sanabria",
+      "date_of_birth": "2000-03-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Salt Lake",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60841788",
+      "qid": "Q60841788",
+      "name": "Juan Manuel Sanabria",
+      "description": "Uruguayan association football player",
+      "place_of_birth_qid": "Q812",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 173.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q499616",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q499616",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Manuel_Sanabria",
+      "transfermarkt_id": "446106",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Florida",
+      "wikidata_current_club": "Club Nacional de Football",
+      "wikidata_current_club_qid": "Q499616",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "nicolás-de-la-cruz",
+      "display_name": "Nicolás de la Cruz",
+      "shirt_no": 7,
+      "position_code": "MF",
+      "dob": "1997-06-01",
+      "age": 28,
+      "caps": 34,
+      "goals": 5,
+      "club_from_squad_table": "Flamengo",
+      "wikipedia_title": "Nicolás de la Cruz",
+      "date_of_birth": "1997-06-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Flamengo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20994037",
+      "qid": "Q20994037",
+      "name": "Nicolás De La Cruz",
+      "description": "Uruguayan association football player",
+      "place_of_birth_qid": "Q1335",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 167.0,
+      "weight_kg": 65.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15799",
+          "start": "2017-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q3589858",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q17479",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q17479",
+      "image_filename": "Nicolás de la Cruz.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_de_la_Cruz",
+      "transfermarkt_id": "397458",
+      "fifa_player_id": "402898",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Clube de Regatas do Flamengo",
+      "wikidata_current_club_qid": "Q17479",
+      "photo": {
+        "filename": "Nicolás de la Cruz.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Nicol%C3%A1s_de_la_Cruz.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Nicol%C3%A1s_de_la_Cruz.jpg",
+        "width": 798,
+        "height": 1866,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/agenciaandes_ec/\">Agencia de Noticias ANDES</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nicolás-de-la-cruz.jpg"
+      }
+    },
+    {
+      "slug": "emiliano-martínez",
+      "display_name": "Emiliano Martínez",
+      "shirt_no": 8,
+      "position_code": "MF",
+      "dob": "1999-08-17",
+      "age": 26,
+      "caps": 10,
+      "goals": 0,
+      "club_from_squad_table": "Palmeiras",
+      "wikipedia_title": "Emiliano Martínez (footballer, born 1999)",
+      "date_of_birth": "1999-08-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Palmeiras",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q97608024",
+      "qid": "Q97608024",
+      "name": "Emiliano Martínez Toranza",
+      "description": "Uruguayan footballer",
+      "place_of_birth_qid": "Q56069",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Emiliano Martinez (dinamarca).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Emiliano_Mart%C3%ADnez_(footballer,_born_1999)",
+      "transfermarkt_id": "707447",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Punta del Este",
+      "photo": {
+        "filename": "Emiliano Martinez (dinamarca).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Emiliano_Martinez_%28dinamarca%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Emiliano_Martinez_%28dinamarca%29.jpg",
+        "width": 206,
+        "height": 244,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Dpansarini&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Dpansarini (page does not exist)\">Dpansarini</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/emiliano-martínez.jpg"
+      }
+    },
+    {
+      "slug": "giorgian-de-arrascaeta",
+      "display_name": "Giorgian de Arrascaeta",
+      "shirt_no": 10,
+      "position_code": "MF",
+      "dob": "1994-06-01",
+      "age": 31,
+      "caps": 60,
+      "goals": 13,
+      "club_from_squad_table": "Flamengo",
+      "wikipedia_title": "Giorgian de Arrascaeta",
+      "date_of_birth": "1994-06-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Flamengo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q13578003",
+      "qid": "Q13578003",
+      "name": "Giorgian de Arrascaeta",
+      "description": "Uruguayan footballer",
+      "place_of_birth_qid": "Q1714088",
+      "citizenship_qids": [
+        "Q77",
+        "Q38"
+      ],
+      "height_cm": 172.0,
+      "weight_kg": 67.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q844238",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q17479",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q134916",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q188277",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        }
+      ],
+      "current_club_qid": "Q17479",
+      "image_filename": "Giorgian De Arrascaeta 20171114 AUT URU 4546 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giorgian_de_Arrascaeta",
+      "transfermarkt_id": "248410",
+      "fifa_player_id": "368652",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Uruguay",
+        "Italy"
+      ],
+      "place_of_birth": "Nuevo Berlín",
+      "wikidata_current_club": "Clube de Regatas do Flamengo",
+      "wikidata_current_club_qid": "Q17479",
+      "photo": {
+        "filename": "Giorgian De Arrascaeta 20171114 AUT URU 4546 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Giorgian_De_Arrascaeta_20171114_AUT_URU_4546_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Giorgian_De_Arrascaeta_20171114_AUT_URU_4546_%28cropped%29.jpg",
+        "width": 707,
+        "height": 975,
+        "license": "CC BY-SA 3.0 at",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ailura\" title=\"User:Ailura\">Ailura</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/giorgian-de-arrascaeta.jpg"
+      }
+    },
+    {
+      "slug": "federico-valverde",
+      "display_name": "Federico Valverde",
+      "shirt_no": 15,
+      "position_code": "MF",
+      "dob": "1998-07-22",
+      "age": 27,
+      "caps": 73,
+      "goals": 9,
+      "club_from_squad_table": "Real Madrid",
+      "wikipedia_title": "Federico Valverde",
+      "date_of_birth": "1998-07-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19509544",
+      "qid": "Q19509544",
+      "name": "Federico Valverde",
+      "description": "Uruguayan professional footballer (born 1998)",
+      "place_of_birth_qid": "Q1335",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8682",
+          "start": "2018-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3589858",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q12217",
+          "start": "2016-07-00",
+          "end": "2017-07-00"
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": "2016-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q134916",
+          "start": "2017-08-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q16320",
+          "start": "2015-07-23",
+          "end": "2016-07-00"
+        },
+        {
+          "team_qid": "Q8760",
+          "start": "2017-07-00",
+          "end": "2018-06-00"
+        },
+        {
+          "team_qid": "Q20831422",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        }
+      ],
+      "current_club_qid": "Q8682",
+      "image_filename": "Federico Valverde 2021 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Federico_Valverde",
+      "transfermarkt_id": "369081",
+      "fifa_player_id": "402884",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Real Madrid Club de Fútbol",
+      "wikidata_current_club_qid": "Q8682",
+      "photo": {
+        "filename": "Federico Valverde 2021 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Federico_Valverde_2021_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Federico_Valverde_2021_%28cropped%29.jpg",
+        "width": 895,
+        "height": 680,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Real Madrid",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/federico-valverde.jpg"
+      }
+    },
+    {
+      "slug": "maximiliano-araújo",
+      "display_name": "Maximiliano Araújo",
+      "shirt_no": 20,
+      "position_code": "MF",
+      "dob": "2000-02-15",
+      "age": 26,
+      "caps": 28,
+      "goals": 3,
+      "club_from_squad_table": "Sporting CP",
+      "wikipedia_title": "Maximiliano Araújo",
+      "date_of_birth": "2000-02-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sporting CP",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q58011167",
+      "qid": "Q58011167",
+      "name": "Maximiliano Araújo",
+      "description": "Uruguayan association football player",
+      "place_of_birth_qid": "Q1335",
+      "height_cm": 1.76,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q872702",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q872702",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maximiliano_Ara%C3%BAjo",
+      "transfermarkt_id": "572675",
+      "positions": [
+        "midfielder"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Montevideo Wanderers Fútbol Club",
+      "wikidata_current_club_qid": "Q872702",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "nicolás-fonseca",
+      "display_name": "Nicolás Fonseca",
+      "shirt_no": 25,
+      "position_code": "MF",
+      "dob": "1998-10-19",
+      "age": 27,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Oviedo",
+      "wikipedia_title": "Nicolás Fonseca",
+      "date_of_birth": "1998-10-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Oviedo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q111536451",
+      "qid": "Q111536451",
+      "name": "Nicolás Fonseca",
+      "description": "Italian footballer",
+      "place_of_birth_qid": "Q2634",
+      "citizenship_qids": [
+        "Q77",
+        "Q38"
+      ],
+      "height_cm": 181.0,
+      "image_filename": "Nicolás Fonseca (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Fonseca",
+      "transfermarkt_id": "462070",
+      "citizenship": [
+        "Uruguay",
+        "Italy"
+      ],
+      "place_of_birth": "Naples",
+      "photo": {
+        "filename": "Nicolás Fonseca (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Nicol%C3%A1s_Fonseca_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nicol%C3%A1s_Fonseca_%28cropped%29.jpg/960px-Nicol%C3%A1s_Fonseca_%28cropped%29.jpg",
+        "width": 1742,
+        "height": 1551,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Nahuel9m\" title=\"User:Nahuel9m\">Nahuel9m</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nicolás-fonseca.jpg"
+      }
+    },
+    {
+      "slug": "darwin-núñez",
+      "display_name": "Darwin Núñez",
+      "shirt_no": 9,
+      "position_code": "FW",
+      "dob": "1999-06-24",
+      "age": 26,
+      "caps": 38,
+      "goals": 13,
+      "club_from_squad_table": "Al-Hilal",
+      "wikipedia_title": "Darwin Núñez",
+      "date_of_birth": "1999-06-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Hilal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q46372260",
+      "qid": "Q46372260",
+      "name": "Darwin Núñez",
+      "description": "Uruguayan association football player",
+      "place_of_birth_qid": "Q712567",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 187.0,
+      "weight_kg": 81.0,
+      "teams": [
+        {
+          "team_qid": "Q16320",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q10407",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q73965",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q134916",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q73965",
+      "image_filename": "Darwin Núñez (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Darwin_N%C3%BA%C3%B1ez",
+      "transfermarkt_id": "546543",
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Artigas",
+      "wikidata_current_club": "Al Hilal SFC",
+      "wikidata_current_club_qid": "Q73965",
+      "photo": {
+        "filename": "Darwin Núñez (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Darwin_N%C3%BA%C3%B1ez_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Darwin_N%C3%BA%C3%B1ez_%28cropped%29.jpg/960px-Darwin_N%C3%BA%C3%B1ez_%28cropped%29.jpg",
+        "width": 1781,
+        "height": 2479,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/darwin-núñez.jpg"
+      }
+    },
+    {
+      "slug": "facundo-pellistri",
+      "display_name": "Facundo Pellistri",
+      "shirt_no": 11,
+      "position_code": "FW",
+      "dob": "2001-12-20",
+      "age": 24,
+      "caps": 39,
+      "goals": 2,
+      "club_from_squad_table": "Panathinaikos",
+      "wikipedia_title": "Facundo Pellistri",
+      "date_of_birth": "2001-12-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Panathinaikos",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q72091732",
+      "qid": "Q72091732",
+      "name": "Facundo Pellistri",
+      "description": "Uruguayan association football player",
+      "place_of_birth_qid": "Q1335",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 1.74,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q16320",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2020-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q223620",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q8812",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q134916",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q4122219",
+          "start": "2024-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q4122219",
+      "image_filename": "Facundo Pellistri WC2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Facundo_Pellistri",
+      "transfermarkt_id": "676318",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Panathinaikos F.C.",
+      "wikidata_current_club_qid": "Q4122219",
+      "photo": {
+        "filename": "Facundo Pellistri WC2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Facundo_Pellistri_WC2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Facundo_Pellistri_WC2022.jpg",
+        "width": 439,
+        "height": 557,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/facundo-pellistri.jpg"
+      }
+    },
+    {
+      "slug": "agustín-canobbio",
+      "display_name": "Agustín Canobbio",
+      "shirt_no": 14,
+      "position_code": "FW",
+      "dob": "1998-10-01",
+      "age": 27,
+      "caps": 15,
+      "goals": 1,
+      "club_from_squad_table": "Fluminense",
+      "wikipedia_title": "Agustín Canobbio",
+      "date_of_birth": "1998-10-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fluminense",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26838705",
+      "qid": "Q26838705",
+      "name": "Agustín Canobbio",
+      "description": "association football player",
+      "place_of_birth_qid": "Q1335",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 1.75,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q506832",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q506832",
+      "image_filename": "Agustín Canobbio.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Canobbio",
+      "transfermarkt_id": "457533",
+      "fifa_player_id": "402876",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Club Athletico Paranaense",
+      "wikidata_current_club_qid": "Q506832",
+      "photo": {
+        "filename": "Agustín Canobbio.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Agust%C3%ADn_Canobbio.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Agust%C3%ADn_Canobbio.jpg/960px-Agust%C3%ADn_Canobbio.jpg",
+        "width": 1204,
+        "height": 1821,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/agenciaandes_ec/\">Agencia de Noticias ANDES</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/agustín-canobbio.jpg"
+      }
+    },
+    {
+      "slug": "brian-rodríguez",
+      "display_name": "Brian Rodríguez",
+      "shirt_no": 18,
+      "position_code": "FW",
+      "dob": "2000-05-20",
+      "age": 26,
+      "caps": 32,
+      "goals": 4,
+      "club_from_squad_table": "América",
+      "wikipedia_title": "Brian Rodríguez",
+      "date_of_birth": "2000-05-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "América",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60736591",
+      "qid": "Q60736591",
+      "name": "Brian RodríguezF",
+      "description": "Uruguayan footballer",
+      "place_of_birth_qid": "Q1784710",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 174.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q16320",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q18380286",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q10407",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q459090",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q459090",
+      "image_filename": "Brian Rodriguez.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Rodr%C3%ADguez",
+      "transfermarkt_id": "465818",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Tranqueras",
+      "wikidata_current_club": "Club América",
+      "wikidata_current_club_qid": "Q459090",
+      "photo": {
+        "filename": "Brian Rodriguez.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Brian_Rodriguez.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Brian_Rodriguez.png",
+        "width": 547,
+        "height": 687,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@lalata\">LA LATA</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/brian-rodríguez.png"
+      }
+    },
+    {
+      "slug": "federico-viñas",
+      "display_name": "Federico Viñas",
+      "shirt_no": 19,
+      "position_code": "FW",
+      "dob": "1998-06-30",
+      "age": 27,
+      "caps": 11,
+      "goals": 2,
+      "club_from_squad_table": "Oviedo",
+      "wikipedia_title": "Federico Viñas",
+      "date_of_birth": "1998-06-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Oviedo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q62594816",
+      "qid": "Q62594816",
+      "name": "Federico Viñas",
+      "description": "Uruguayan footballer",
+      "place_of_birth_qid": "Q1335",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 1.83,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q217644",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q459090",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q633223",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q271574",
+          "start": "2024-08-28",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q271574",
+      "image_filename": "Federico Viñas.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Federico_Vi%C3%B1as",
+      "transfermarkt_id": "578419",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Real Oviedo",
+      "wikidata_current_club_qid": "Q271574",
+      "photo": {
+        "filename": "Federico Viñas.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Federico_Vi%C3%B1as.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Federico_Vi%C3%B1as.jpg",
+        "width": 782,
+        "height": 906,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UC3j75twE_C1Y3TKgkN2iffA\">Club América</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/federico-viñas.jpg"
+      }
+    },
+    {
+      "slug": "facundo-torres",
+      "display_name": "Facundo Torres",
+      "shirt_no": 21,
+      "position_code": "FW",
+      "dob": "2000-04-13",
+      "age": 26,
+      "caps": 23,
+      "goals": 2,
+      "club_from_squad_table": "Austin FC",
+      "wikipedia_title": "Facundo Torres",
+      "date_of_birth": "2000-04-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Austin FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27982962",
+      "qid": "Q27982962",
+      "name": "Facundo Torres",
+      "description": "Uruguayan association football player",
+      "place_of_birth_qid": "Q1335",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 1.77,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q16320",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q16320",
+      "image_filename": "Facundo Torres 02-24-2024.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Facundo_Torres",
+      "transfermarkt_id": "465822",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Club Atlético Peñarol",
+      "wikidata_current_club_qid": "Q16320",
+      "photo": {
+        "filename": "Facundo Torres 02-24-2024.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Facundo_Torres_02-24-2024.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Facundo_Torres_02-24-2024.png",
+        "width": 655,
+        "height": 1289,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Raskuly\" title=\"User:Raskuly\">Raskuly</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/facundo-torres.png"
+      }
+    },
+    {
+      "slug": "agustín-álvarez",
+      "display_name": "Agustín Álvarez",
+      "shirt_no": 26,
+      "position_code": "FW",
+      "dob": "2001-05-19",
+      "age": 25,
+      "caps": 6,
+      "goals": 1,
+      "club_from_squad_table": "Monza",
+      "wikipedia_title": "Agustín Álvarez (footballer, born May 2001)",
+      "date_of_birth": "2001-05-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Monza",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q99390386",
+      "qid": "Q99390386",
+      "name": "Agustín Álvarez Martínez",
+      "description": "Uruguayan footballer",
+      "place_of_birth_qid": "Q1005725",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q280658"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_%C3%81lvarez_(footballer,_born_May_2001)",
+      "transfermarkt_id": "812625",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "San Bautista",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "rodrigo-aguirre",
+      "display_name": "Rodrigo Aguirre",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1994-10-01",
+      "age": 31,
+      "caps": 10,
+      "goals": 3,
+      "club_from_squad_table": "UANL",
+      "wikipedia_title": "Rodrigo Aguirre",
+      "date_of_birth": "1994-10-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "UANL",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q2070073",
+      "qid": "Q2070073",
+      "name": "Rodrigo Aguirre",
+      "description": "Uruguayan footballer",
+      "place_of_birth_qid": "Q1335",
+      "citizenship_qids": [
+        "Q77"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q6703",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q2798",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q16344",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3589858",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1131189",
+          "start": "2011-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q2798",
+          "start": "2015-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q3589858",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2442864",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q249648",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q16320",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q849823",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q849823",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rodrigo_Aguirre",
+      "transfermarkt_id": "189410",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Uruguay"
+      ],
+      "place_of_birth": "Montevideo",
+      "wikidata_current_club": "Tigres UANL",
+      "wikidata_current_club_qid": "Q849823",
+      "image_filename": "Rodrigo Aguirre.png",
+      "photo": {
+        "filename": "Rodrigo Aguirre.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Rodrigo_Aguirre.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Rodrigo_Aguirre.png",
+        "width": 406,
+        "height": 541,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@elpelucheenelestuche\">PelucheEn ElEstuche</a>",
+        "source": "commons-verified",
+        "local_path": "data/photos/rodrigo-aguirre.png"
+      }
+    }
+  ],
+  "notes": [
+    "Uruguay row/QID/photo audit 2026-05-24: no public Uruguay 2026 World Cup final/provisional player table was found, so this file uses the Uruguay national-team current squad fallback with caps/goals as of the March 2026 window. Verifier confirmed all 28 local rows and QID identities under that fallback caveat. Juan Manuel Sanabria, Maximiliano Araújo, and Agustín Álvarez had no clean Wikimedia portrait, P18 image, or pageimage and are marked reviewed-none. Rodrigo Aguirre received verified Commons file Rodrigo Aguirre.png (CC BY 3.0, individual crop)."
+  ]
+}

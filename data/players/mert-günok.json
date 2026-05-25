@@ -1,0 +1,99 @@
+{
+  "slug": "mert-günok",
+  "display_name": "Mert Günok",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1989-03-01",
+  "age": 37,
+  "caps": 37,
+  "goals": 0,
+  "club_from_squad_table": "Fenerbahçe",
+  "wikipedia_title": "Mert Günok",
+  "date_of_birth": "1989-03-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Fenerbahçe",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q1401328",
+  "qid": "Q1401328",
+  "name": "Mert Günok",
+  "description": "Turkish association football player (born 1989)",
+  "place_of_birth_qid": "Q189697",
+  "citizenship_qids": [
+    "Q43"
+  ],
+  "height_cm": 196.0,
+  "weight_kg": 92.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q6601875",
+      "start": "2008-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q203573",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590479",
+      "start": "2005-01-01",
+      "end": "2006-01-01"
+    },
+    {
+      "team_qid": "Q7855167",
+      "start": "2007-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q7855168",
+      "start": "2008-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q1624749",
+      "start": "2009-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q7855039",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q483856",
+      "start": "2012-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q203573",
+  "image_filename": "Mert Günok (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mert_G%C3%BCnok",
+  "transfermarkt_id": "51894",
+  "fifa_player_id": "360498",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Turkey"
+  ],
+  "place_of_birth": "Karabük",
+  "wikidata_current_club": "Bursaspor",
+  "wikidata_current_club_qid": "Q203573",
+  "photo": {
+    "filename": "Mert Günok (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Mert_G%C3%BCnok_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Mert_G%C3%BCnok_%28cropped%29.jpg/960px-Mert_G%C3%BCnok_%28cropped%29.jpg",
+    "width": 2233,
+    "height": 3113,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Beşiktaş JK",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mert-günok.jpg"
+  },
+  "team_slug": "turkey",
+  "team_country": "Turkey"
+}

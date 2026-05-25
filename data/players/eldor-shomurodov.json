@@ -1,0 +1,88 @@
+{
+  "slug": "eldor-shomurodov",
+  "display_name": "Eldor Shomurodov",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1995-06-29",
+  "age": 30,
+  "caps": 90,
+  "goals": 44,
+  "club_from_squad_table": "\u0130stanbul Ba\u015fak\u015fehir",
+  "wikipedia_title": "Eldor Shomurodov",
+  "date_of_birth": "1995-06-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "\u0130stanbul Ba\u015fak\u015fehir",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20641483",
+  "qid": "Q20641483",
+  "name": "Eldor Shomurodov",
+  "description": "Uzbekistani association football player",
+  "place_of_birth_qid": "Q866022",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q628763",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1388979",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q3328961",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q3328961",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q487321",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2739",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q628763",
+  "image_filename": "Rostov-DM18 (2).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Eldor_Shomurodov",
+  "transfermarkt_id": "358166",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Jarkurghon",
+  "wikidata_current_club": "F.C. Bunyodkor",
+  "wikidata_current_club_qid": "Q628763",
+  "photo": {
+    "filename": "Rostov-DM18 (2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Rostov-DM18_%282%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Rostov-DM18_%282%29.jpg",
+    "width": 937,
+    "height": 1200,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u0440\u0442\u0435\u043c \u0413\u0443\u0441\u0435\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/eldor-shomurodov.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

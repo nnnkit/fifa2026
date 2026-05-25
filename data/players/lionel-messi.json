@@ -1,0 +1,113 @@
+{
+  "slug": "lionel-messi",
+  "display_name": "Lionel Messi",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1987-06-24",
+  "age": 38,
+  "caps": 198,
+  "goals": 116,
+  "club_from_squad_table": "Inter Miami CF",
+  "wikipedia_title": "Lionel Messi",
+  "wikidata_qid": "Q615",
+  "qid": "Q615",
+  "name": "Lionel Messi",
+  "description": "Argentine association football player (born 1987)",
+  "date_of_birth": "1987-06-24",
+  "place_of_birth_qid": "Q52535",
+  "citizenship_qids": [
+    "Q414",
+    "Q29",
+    "Q38"
+  ],
+  "height_cm": 169.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q280658",
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q221882",
+      "start": "1995-00-00",
+      "end": "2000-00-00"
+    },
+    {
+      "team_qid": "Q13562063",
+      "start": "2003-00-00",
+      "end": "2004-00-00"
+    },
+    {
+      "team_qid": "Q2346842",
+      "start": "2003-00-00",
+      "end": "2004-00-00"
+    },
+    {
+      "team_qid": "Q10467",
+      "start": "2004-00-00",
+      "end": "2005-00-00"
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2004-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2021-08-00",
+      "end": "2023-06-30"
+    },
+    {
+      "team_qid": "Q16844931",
+      "start": "2023-07-15",
+      "end": null
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": "2004-00-00",
+      "end": "2005-00-00"
+    },
+    {
+      "team_qid": "Q2462207",
+      "start": "2008-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2005-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q16844931",
+  "image_filename": "Lionel Messi White House 2026 (3x4 cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lionel_Messi",
+  "transfermarkt_id": "28003",
+  "fifa_player_id": "229397",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Inter Miami CF",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward",
+    "midfielder"
+  ],
+  "citizenship": [
+    "Argentina",
+    "Spain",
+    "Italy"
+  ],
+  "place_of_birth": "Rosario",
+  "photo": {
+    "filename": "Lionel Messi White House 2026 (3x4 cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg/960px-Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg",
+    "width": 1021,
+    "height": 1365,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "The White House",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lionel-messi.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

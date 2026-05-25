@@ -1,0 +1,82 @@
+{
+  "slug": "koni-de-winter",
+  "display_name": "Koni De Winter",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2002-06-12",
+  "age": 23,
+  "caps": 7,
+  "goals": 0,
+  "club_from_squad_table": "Milan",
+  "wikipedia_title": "Koni De Winter",
+  "date_of_birth": "2002-06-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Milan",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q108200391",
+  "qid": "Q108200391",
+  "name": "Koni De Winter",
+  "description": "Belgian association football player",
+  "place_of_birth_qid": "Q12892",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 1.91,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1422",
+      "start": "2021-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q6703",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q2074",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q2074",
+      "start": "2024-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q1543",
+      "start": "2025-08-13",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1543",
+  "image_filename": "Koni De Winter USMNT v Belgium Mar 28 2026-36 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Koni_De_Winter",
+  "transfermarkt_id": "490384",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Antwerp",
+  "wikidata_current_club": "AC Milan",
+  "wikidata_current_club_qid": "Q1543",
+  "photo": {
+    "filename": "Koni De Winter USMNT v Belgium Mar 28 2026-36 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Koni_De_Winter_USMNT_v_Belgium_Mar_28_2026-36_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Koni_De_Winter_USMNT_v_Belgium_Mar_28_2026-36_%28cropped%29.jpg/960px-Koni_De_Winter_USMNT_v_Belgium_Mar_28_2026-36_%28cropped%29.jpg",
+    "width": 3077,
+    "height": 4100,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/koni-de-winter.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

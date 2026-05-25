@@ -1,0 +1,63 @@
+{
+  "slug": "yuito-suzuki",
+  "display_name": "Yuito Suzuki",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-10-25",
+  "age": 24,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "SC Freiburg",
+  "wikipedia_title": "Yuito Suzuki",
+  "date_of_birth": "2001-10-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "SC Freiburg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q85884126",
+  "qid": "Q85884126",
+  "name": "Yuito Suzuki",
+  "description": "Japanese association football player",
+  "place_of_birth_qid": "Q1342807",
+  "citizenship_qids": [
+    "Q17"
+  ],
+  "height_cm": 175.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q823384",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q823384",
+  "image_filename": "Suzuki buteur.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yuito_Suzuki",
+  "transfermarkt_id": "668606",
+  "uefa_player_id": "37634",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Japan"
+  ],
+  "place_of_birth": "Hayama",
+  "wikidata_current_club": "Shimizu S-Pulse",
+  "wikidata_current_club_qid": "Q823384",
+  "photo": {
+    "filename": "Suzuki buteur.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Suzuki_buteur.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Suzuki_buteur.jpg/960px-Suzuki_buteur.jpg",
+    "width": 3888,
+    "height": 2592,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Hugob67&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Hugob67 (page does not exist)\">Hugob67</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/yuito-suzuki.jpg"
+  },
+  "team_slug": "japan",
+  "team_country": "Japan"
+}

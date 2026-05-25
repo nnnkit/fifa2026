@@ -1,0 +1,53 @@
+{
+  "slug": "zeki-amdouni",
+  "display_name": "Zeki Amdouni",
+  "shirt_no": 23,
+  "position_code": "FW",
+  "dob": "2000-12-04",
+  "age": 25,
+  "caps": 27,
+  "goals": 11,
+  "club_from_squad_table": "Burnley",
+  "wikipedia_title": "Zeki Amdouni",
+  "date_of_birth": "2000-12-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Burnley",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q106882153",
+  "qid": "Q106882153",
+  "name": "Zeki Amdouni",
+  "description": "Swiss association football player (born 2000)",
+  "place_of_birth_qid": "Q71",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 1.75,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q131499",
+      "start": "2023-07-19",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q131499",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Zeki_Amdouni",
+  "transfermarkt_id": "548729",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Geneva",
+  "wikidata_current_club": "S.L. Benfica",
+  "wikidata_current_club_qid": "Q131499",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

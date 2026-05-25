@@ -1,0 +1,2044 @@
+{
+  "slug": "switzerland",
+  "country": "Switzerland",
+  "wikidata_qid": "Q165141",
+  "fetched_at": "2026-05-24T14:45:34+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "gregor-kobel",
+      "display_name": "Gregor Kobel",
+      "shirt_no": 1,
+      "position_code": "GK",
+      "dob": "1997-12-06",
+      "age": 28,
+      "caps": 20,
+      "goals": 0,
+      "club_from_squad_table": "Borussia Dortmund",
+      "wikipedia_title": "Gregor Kobel",
+      "date_of_birth": "1997-12-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Borussia Dortmund",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q36184031",
+      "qid": "Q36184031",
+      "name": "Gregor Kobel",
+      "description": "Swiss footballer (born 1997)",
+      "place_of_birth_qid": "Q72",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 1.94,
+      "weight_kg": 90.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q22707",
+          "start": "2016-07-01",
+          "end": "2020-06-30"
+        },
+        {
+          "team_qid": "Q4512",
+          "start": "2019-07-01",
+          "end": "2020-06-30"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2021-07-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q678582",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q165141",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q15755",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q4512",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        }
+      ],
+      "current_club_qid": "Q41420",
+      "image_filename": "2023-08-12 TSV Schott Mainz gegen Borussia Dortmund (DFB-Pokal 2023-24) by Sandro Halank–090.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gregor_Kobel",
+      "transfermarkt_id": "257814",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Zurich",
+      "photo": {
+        "filename": "2023-08-12 TSV Schott Mainz gegen Borussia Dortmund (DFB-Pokal 2023-24) by Sandro Halank–090.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93090.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93090.jpg/960px-2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93090.jpg",
+        "width": 1596,
+        "height": 1786,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sandro_Halank\" title=\"User:Sandro Halank\">Sandro Halank, Wikimedia Commons</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/gregor-kobel.jpg"
+      }
+    },
+    {
+      "slug": "miro-muheim",
+      "display_name": "Miro Muheim",
+      "shirt_no": 2,
+      "position_code": "DF",
+      "dob": "1998-03-24",
+      "age": 28,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Hamburger SV",
+      "wikipedia_title": "Miro Muheim",
+      "date_of_birth": "1998-03-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Hamburger SV",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q49167084",
+      "qid": "Q49167084",
+      "name": "Miro Muheim",
+      "description": "association football player",
+      "place_of_birth_qid": "Q72",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q659212",
+          "start": "2018-01-31",
+          "end": null
+        },
+        {
+          "team_qid": "Q206692",
+          "start": "2017-02-02",
+          "end": "2017-06-30"
+        },
+        {
+          "team_qid": "Q2669653",
+          "start": "2014-07-01",
+          "end": "2018-01-31"
+        },
+        {
+          "team_qid": "Q7659182",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q650273",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q19019176",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q4140019",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q659212",
+      "image_filename": "2025-05-16 Hamburger SV Miro Muheim.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Miro_Muheim",
+      "transfermarkt_id": "298603",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Zurich",
+      "wikidata_current_club": "FC St. Gallen",
+      "wikidata_current_club_qid": "Q659212",
+      "photo": {
+        "filename": "2025-05-16 Hamburger SV Miro Muheim.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/2025-05-16_Hamburger_SV_Miro_Muheim.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2025-05-16_Hamburger_SV_Miro_Muheim.jpg/960px-2025-05-16_Hamburger_SV_Miro_Muheim.jpg",
+        "width": 4864,
+        "height": 3322,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lanthan2003&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lanthan2003 (page does not exist)\">Lanthan2003</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/miro-muheim.jpg"
+      }
+    },
+    {
+      "slug": "silvan-widmer",
+      "display_name": "Silvan Widmer",
+      "shirt_no": 3,
+      "position_code": "DF",
+      "dob": "1993-03-05",
+      "age": 33,
+      "caps": 58,
+      "goals": 5,
+      "club_from_squad_table": "Mainz 05",
+      "wikipedia_title": "Silvan Widmer",
+      "date_of_birth": "1993-03-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mainz 05",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q114386",
+      "qid": "Q114386",
+      "name": "Silvan Widmer",
+      "description": "Swiss association football player",
+      "place_of_birth_qid": "Q14274",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 182.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8812",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q603271",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q603271",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2798",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q4140019",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q678582",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q165141",
+          "start": "2014-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2798",
+      "image_filename": "AUT vs. SUI 2015-11-17 (173) Silvan Widmer.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Silvan_Widmer",
+      "transfermarkt_id": "168989",
+      "fifa_player_id": "356412",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Aarau",
+      "wikidata_current_club": "Udinese Calcio",
+      "wikidata_current_club_qid": "Q2798",
+      "photo": {
+        "filename": "AUT vs. SUI 2015-11-17 (173) Silvan Widmer.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/AUT_vs._SUI_2015-11-17_%28173%29_Silvan_Widmer.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AUT_vs._SUI_2015-11-17_%28173%29_Silvan_Widmer.jpg/960px-AUT_vs._SUI_2015-11-17_%28173%29_Silvan_Widmer.jpg",
+        "width": 4500,
+        "height": 3000,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 14:51, 25 November 2015 (UTC)",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/silvan-widmer.jpg"
+      }
+    },
+    {
+      "slug": "nico-elvedi",
+      "display_name": "Nico Elvedi",
+      "shirt_no": 4,
+      "position_code": "DF",
+      "dob": "1996-09-30",
+      "age": 29,
+      "caps": 65,
+      "goals": 3,
+      "club_from_squad_table": "Borussia Mönchengladbach",
+      "wikipedia_title": "Nico Elvedi",
+      "date_of_birth": "1996-09-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Borussia Mönchengladbach",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18637339",
+      "qid": "Q18637339",
+      "name": "Nico Elvedi",
+      "description": "Swiss association football player",
+      "place_of_birth_qid": "Q72",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q268258",
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q101959",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q93636183",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q650273",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q19019176",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q4140019",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q206692",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q165141",
+          "start": "2016-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q101959",
+      "image_filename": "Wales-Switzerland match at Euro 2020 in Baku (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nico_Elvedi",
+      "transfermarkt_id": "192635",
+      "fifa_player_id": "398509",
+      "positions": [
+        "centre-back",
+        "defender"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Zurich",
+      "photo": {
+        "filename": "Wales-Switzerland match at Euro 2020 in Baku (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Wales-Switzerland_match_at_Euro_2020_in_Baku_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Wales-Switzerland_match_at_Euro_2020_in_Baku_%28cropped%29.jpg",
+        "width": 218,
+        "height": 251,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<table class=\"layouttemplate sourcetemplate\" style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; box-sizing: border-box; padding: 0; border-spacing: 8px; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555);\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td style=\"text-align:center;\"><figure class=\"mw-halign-left mw-image-border\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:The_Presidential_Press_and_Information_Office_of_Azerbaijan_(official_logo).png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Presidential_Press_and_Information_Office_of_Azerbaijan_%28official_logo%29.png/120px-The_Presidential_Press_and_Information_Office_of_Azerbaijan_%28official_logo%29.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" width=\"70\" height=\"52\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Presidential_Press_and_Information_Office_of_Azerbaijan_%28official_logo%29.png/250px-The_Presidential_Press_and_Information_Office_of_Azerbaijan_%28official_logo%29.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"395\" data-file-height=\"295\"></a><figcaption></figcaption></figure>\n</td>\n<td><b>Press Service of the President of the Republic of Azerbaijan</b>\n</td></tr></tbody></table>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nico-elvedi.jpg"
+      }
+    },
+    {
+      "slug": "manuel-akanji",
+      "display_name": "Manuel Akanji",
+      "shirt_no": 5,
+      "position_code": "DF",
+      "dob": "1995-07-19",
+      "age": 30,
+      "caps": 79,
+      "goals": 4,
+      "club_from_squad_table": "Inter Milan",
+      "wikipedia_title": "Manuel Akanji",
+      "date_of_birth": "1995-07-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Inter Milan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19938984",
+      "qid": "Q19938984",
+      "name": "Manuel Akanji",
+      "description": "Swiss association football player",
+      "place_of_birth_qid": "Q65040",
+      "citizenship_qids": [
+        "Q39",
+        "Q1033"
+      ],
+      "height_cm": 187.0,
+      "weight_kg": 85.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q189671",
+          "start": "2015-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q201969",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3873550",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q678582",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q165141",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2025-09-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q631",
+      "image_filename": "2023-10-04 Fußball, Männer, UEFA Champions League, RB Leipzig - Manchester City FC 1DX 2792 (Manuel Akanji).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Manuel_Akanji",
+      "transfermarkt_id": "284730",
+      "fifa_player_id": "405178",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Switzerland",
+        "Nigeria"
+      ],
+      "place_of_birth": "Neftenbach",
+      "photo": {
+        "filename": "2023-10-04 Fußball, Männer, UEFA Champions League, RB Leipzig - Manchester City FC 1DX 2792 (Manuel Akanji).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2792_%28Manuel_Akanji%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2792_%28Manuel_Akanji%29.jpg/960px-2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2792_%28Manuel_Akanji%29.jpg",
+        "width": 1319,
+        "height": 1620,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/manuel-akanji.jpg"
+      }
+    },
+    {
+      "slug": "denis-zakaria",
+      "display_name": "Denis Zakaria",
+      "shirt_no": 6,
+      "position_code": "MF",
+      "dob": "1996-11-20",
+      "age": 29,
+      "caps": 63,
+      "goals": 3,
+      "club_from_squad_table": "Monaco",
+      "wikipedia_title": "Denis Zakaria",
+      "date_of_birth": "1996-11-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Monaco",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21066260",
+      "qid": "Q21066260",
+      "name": "Denis Zakaria",
+      "description": "Swiss association football player",
+      "place_of_birth_qid": "Q71",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 191.0,
+      "weight_kg": 76.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q219235",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q190526",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q4140019",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q678582",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q165141",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q101959",
+          "start": "2017-00-00",
+          "end": "2022-01-00"
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2022-01-00",
+          "end": "2023-08-00"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2022-09-00",
+          "end": "2023-06-00"
+        },
+        {
+          "team_qid": "Q180305",
+          "start": "2023-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q180305",
+      "image_filename": "Zakaria asse asm 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Denis_Zakaria",
+      "transfermarkt_id": "334526",
+      "fifa_player_id": "401448",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Geneva",
+      "wikidata_current_club": "AS Monaco FC",
+      "wikidata_current_club_qid": "Q180305",
+      "photo": {
+        "filename": "Zakaria asse asm 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Zakaria_asse_asm_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Zakaria_asse_asm_2425.png",
+        "width": 484,
+        "height": 853,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/denis-zakaria.png"
+      }
+    },
+    {
+      "slug": "breel-embolo",
+      "display_name": "Breel Embolo",
+      "shirt_no": 7,
+      "position_code": "FW",
+      "dob": "1997-02-14",
+      "age": 29,
+      "caps": 85,
+      "goals": 23,
+      "club_from_squad_table": "Rennes",
+      "wikipedia_title": "Breel Embolo",
+      "date_of_birth": "1997-02-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rennes",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q15956282",
+      "qid": "Q15956282",
+      "name": "Breel Embolo",
+      "description": "Swiss footballer",
+      "place_of_birth_qid": "Q3808",
+      "citizenship_qids": [
+        "Q39",
+        "Q1009"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 71.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q165141",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q189671",
+          "start": "2014-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q7659182",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3873550",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q678582",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3873550",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q32494",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q101959",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q180305",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q19509",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19509",
+      "image_filename": "2022128160447 2022-05-08 Fussball Eintracht Frankfurt vs Borussia Mönchengladbach - Sven - 1D X MK II - 1422 - B70I7533 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Breel_Embolo",
+      "transfermarkt_id": "237662",
+      "fifa_player_id": "393480",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Switzerland",
+        "Cameroon"
+      ],
+      "place_of_birth": "Yaoundé",
+      "wikidata_current_club": "Stade Rennais F.C.",
+      "wikidata_current_club_qid": "Q19509",
+      "photo": {
+        "filename": "2022128160447 2022-05-08 Fussball Eintracht Frankfurt vs Borussia Mönchengladbach - Sven - 1D X MK II - 1422 - B70I7533 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/2022128160447_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_1422_-_B70I7533_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2022128160447_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_1422_-_B70I7533_%28cropped%29.jpg/960px-2022128160447_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_1422_-_B70I7533_%28cropped%29.jpg",
+        "width": 1115,
+        "height": 1182,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Sven Mandel",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/breel-embolo.jpg"
+      }
+    },
+    {
+      "slug": "remo-freuler",
+      "display_name": "Remo Freuler",
+      "shirt_no": 8,
+      "position_code": "MF",
+      "dob": "1992-04-15",
+      "age": 34,
+      "caps": 86,
+      "goals": 11,
+      "club_from_squad_table": "Bologna",
+      "wikipedia_title": "Remo Freuler",
+      "date_of_birth": "1992-04-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bologna",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16595441",
+      "qid": "Q16595441",
+      "name": "Remo Freuler",
+      "description": "Swiss association football player",
+      "place_of_birth_qid": "Q659434",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1886",
+          "start": "2016-01-01",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q201969",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q201360",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q201969",
+          "start": "2011-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q223262",
+          "start": "2014-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q4140019",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q678582",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q3873550",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q19490",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q1893",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q1893",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q165141",
+          "start": "2017-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1893",
+      "image_filename": "RemoFreuler.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Remo_Freuler",
+      "transfermarkt_id": "148252",
+      "fifa_player_id": "402021",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Ennenda",
+      "wikidata_current_club": "Bologna F.C. 1909",
+      "wikidata_current_club_qid": "Q1893",
+      "photo": {
+        "filename": "RemoFreuler.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/RemoFreuler.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/RemoFreuler.jpg",
+        "width": 308,
+        "height": 439,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ago76\" title=\"User:Ago76\">Ago76</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/remo-freuler.jpg"
+      }
+    },
+    {
+      "slug": "johan-manzambi",
+      "display_name": "Johan Manzambi",
+      "shirt_no": 9,
+      "position_code": "MF",
+      "dob": "2005-10-14",
+      "age": 20,
+      "caps": 10,
+      "goals": 3,
+      "club_from_squad_table": "SC Freiburg",
+      "wikipedia_title": "Johan Manzambi",
+      "date_of_birth": "2005-10-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "SC Freiburg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q125376751",
+      "qid": "Q125376751",
+      "name": "Johan Manzambi",
+      "description": "Swiss footballer (born 2005)",
+      "place_of_birth_qid": "Q71",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q219235",
+          "start": null,
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q106394",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q20631356",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q106394",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johan_Manzambi",
+      "transfermarkt_id": "927353",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Geneva",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "granit-xhaka",
+      "display_name": "Granit Xhaka",
+      "shirt_no": 10,
+      "position_code": "MF",
+      "dob": "1992-09-27",
+      "age": 33,
+      "caps": 144,
+      "goals": 16,
+      "club_from_squad_table": "Sunderland",
+      "wikipedia_title": "Granit Xhaka",
+      "date_of_birth": "1992-09-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sunderland",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q514427",
+      "qid": "Q514427",
+      "name": "Granit Xhaka",
+      "description": "Swiss footballer (born 1975)",
+      "place_of_birth_qid": "Q78",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 82.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q165141",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q189671",
+          "start": "2010-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q101959",
+          "start": "2012-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q650273",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q19019176",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q4140019",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q678582",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2016-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q104761",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q18739",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18739",
+      "image_filename": "Granit Xhaka (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Granit_Xhaka",
+      "transfermarkt_id": "111455",
+      "fifa_player_id": "311558",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Basel",
+      "wikidata_current_club": "Sunderland A.F.C.",
+      "wikidata_current_club_qid": "Q18739",
+      "photo": {
+        "filename": "Granit Xhaka (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Granit_Xhaka_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Granit_Xhaka_%28cropped%29.jpg/960px-Granit_Xhaka_%28cropped%29.jpg",
+        "width": 1145,
+        "height": 1834,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/121676765@N07\">@cfcunofficial (Chelsea Debs) London</a> from London, UK",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/granit-xhaka.jpg"
+      }
+    },
+    {
+      "slug": "dan-ndoye",
+      "display_name": "Dan Ndoye",
+      "shirt_no": 11,
+      "position_code": "FW",
+      "dob": "2000-10-25",
+      "age": 25,
+      "caps": 29,
+      "goals": 6,
+      "club_from_squad_table": "Nottingham Forest",
+      "wikipedia_title": "Dan Ndoye",
+      "date_of_birth": "2000-10-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nottingham Forest",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q61439485",
+      "qid": "Q61439485",
+      "name": "Dan Ndoye",
+      "description": "Swiss association football player (born 2000)",
+      "place_of_birth_qid": "Q64027",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 184.0,
+      "position_qids": [
+        "Q9731197"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q309456",
+          "start": "2019-02-11",
+          "end": "2020-01-27"
+        },
+        {
+          "team_qid": "Q678582",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q4140019",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q19019176",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q185163",
+          "start": "2020-01-27",
+          "end": null
+        },
+        {
+          "team_qid": "Q309456",
+          "start": "2020-01-28",
+          "end": "2020-08-01"
+        }
+      ],
+      "current_club_qid": "Q185163",
+      "image_filename": "Lens - Nice (23-01-2021) 52.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Ndoye",
+      "transfermarkt_id": "365108",
+      "positions": [
+        "centre-forward"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Nyon",
+      "wikidata_current_club": "OGC Nice",
+      "wikidata_current_club_qid": "Q185163",
+      "photo": {
+        "filename": "Lens - Nice (23-01-2021) 52.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Lens_-_Nice_%2823-01-2021%29_52.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lens_-_Nice_%2823-01-2021%29_52.jpg/960px-Lens_-_Nice_%2823-01-2021%29_52.jpg",
+        "width": 2041,
+        "height": 2722,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterhéninois (page does not exist)\">Supporterhéninois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dan-ndoye.jpg"
+      }
+    },
+    {
+      "slug": "yvon-mvogo",
+      "display_name": "Yvon Mvogo",
+      "shirt_no": 12,
+      "position_code": "GK",
+      "dob": "1994-06-06",
+      "age": 32,
+      "caps": 12,
+      "goals": 0,
+      "club_from_squad_table": "Lorient",
+      "wikipedia_title": "Yvon Mvogo",
+      "date_of_birth": "1994-06-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lorient",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16236380",
+      "qid": "Q16236380",
+      "name": "Yvon Mvogo",
+      "description": "Swiss association football player",
+      "place_of_birth_qid": "Q3808",
+      "citizenship_qids": [
+        "Q39",
+        "Q1009"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 84.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q190526",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q650273",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q4140019",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q678582",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q190526",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q702455",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q11938",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q190526",
+      "image_filename": "YB vs. FCL - Mvogo 2b.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yvon_Mvogo",
+      "transfermarkt_id": "147051",
+      "fifa_player_id": "402022",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Switzerland",
+        "Cameroon"
+      ],
+      "place_of_birth": "Yaoundé",
+      "wikidata_current_club": "BSC Young Boys",
+      "wikidata_current_club_qid": "Q190526",
+      "photo": {
+        "filename": "YB vs. FCL - Mvogo 2b.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/YB_vs._FCL_-_Mvogo_2b.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/YB_vs._FCL_-_Mvogo_2b.jpg/960px-YB_vs._FCL_-_Mvogo_2b.jpg",
+        "width": 3840,
+        "height": 5120,
+        "license": "CC BY-SA 3.0 ch",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/ch/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:AmBu\" title=\"User:AmBu\">A. Buser</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/yvon-mvogo.jpg"
+      }
+    },
+    {
+      "slug": "ricardo-rodriguez",
+      "display_name": "Ricardo Rodriguez",
+      "shirt_no": 13,
+      "position_code": "DF",
+      "dob": "1992-08-25",
+      "age": 33,
+      "caps": 136,
+      "goals": 9,
+      "club_from_squad_table": "Real Betis",
+      "wikipedia_title": "Ricardo Rodriguez (footballer)",
+      "date_of_birth": "1992-08-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Betis",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q666506",
+      "qid": "Q666506",
+      "name": "Ricardo Rodriguez",
+      "description": "Swiss association football player (born 1992)",
+      "place_of_birth_qid": "Q72",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q206692",
+          "start": "2010-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q101859",
+          "start": "2012-01-01",
+          "end": "2017-06-07"
+        },
+        {
+          "team_qid": "Q650273",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q650273",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q769632",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q19019176",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q4140019",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2017-06-08",
+          "end": "2020-08-00"
+        },
+        {
+          "team_qid": "Q11938",
+          "start": "2020-01-00",
+          "end": "2020-06-00"
+        },
+        {
+          "team_qid": "Q2768",
+          "start": "2020-08-00",
+          "end": "2024-07-00"
+        },
+        {
+          "team_qid": "Q165141",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q8723",
+          "start": "2024-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8723",
+      "image_filename": "Ricardo Rodríguez 2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ricardo_Rodriguez_(footballer)",
+      "transfermarkt_id": "86784",
+      "fifa_player_id": "313559",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Zurich",
+      "wikidata_current_club": "Real Betis Balompié",
+      "wikidata_current_club_qid": "Q8723",
+      "photo": {
+        "filename": "Ricardo Rodríguez 2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ricardo_Rodr%C3%ADguez_2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ricardo_Rodr%C3%ADguez_2018.jpg",
+        "width": 760,
+        "height": 1000,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Антон Зайцев",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ricardo-rodriguez.jpg"
+      }
+    },
+    {
+      "slug": "ardon-jashari",
+      "display_name": "Ardon Jashari",
+      "shirt_no": 14,
+      "position_code": "MF",
+      "dob": "2002-07-30",
+      "age": 23,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Milan",
+      "wikipedia_title": "Ardon Jashari",
+      "date_of_birth": "2002-07-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Milan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q98816361",
+      "qid": "Q98816361",
+      "name": "Ardon Jashari",
+      "description": "Swiss footballer (born 2002)",
+      "place_of_birth_qid": "Q69235",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q223262",
+          "start": "2020-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q678582",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q165141",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q190916",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2025-08-06",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1543",
+      "image_filename": "Ardon Jashari.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ardon_Jashari",
+      "transfermarkt_id": "608172",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Cham",
+      "wikidata_current_club": "AC Milan",
+      "wikidata_current_club_qid": "Q1543",
+      "photo": {
+        "filename": "Ardon Jashari.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ardon_Jashari.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ardon_Jashari.jpg",
+        "width": 793,
+        "height": 2267,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sidney.Cortez&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sidney.Cortez (page does not exist)\">Sidney.Cortez</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ardon-jashari.jpg"
+      }
+    },
+    {
+      "slug": "djibril-sow",
+      "display_name": "Djibril Sow",
+      "shirt_no": 15,
+      "position_code": "MF",
+      "dob": "1997-02-06",
+      "age": 29,
+      "caps": 50,
+      "goals": 0,
+      "club_from_squad_table": "Sevilla",
+      "wikipedia_title": "Djibril Sow",
+      "date_of_birth": "1997-02-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sevilla",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27995699",
+      "qid": "Q27995699",
+      "name": "Djibril Sow",
+      "description": "Swiss association football player",
+      "place_of_birth_qid": "Q72",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 1.84,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q190526",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q678582",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q190526",
+      "image_filename": "DjibrilSow.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Djibril_Sow",
+      "transfermarkt_id": "212723",
+      "fifa_player_id": "201461264",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Zurich",
+      "wikidata_current_club": "BSC Young Boys",
+      "wikidata_current_club_qid": "Q190526",
+      "photo": {
+        "filename": "DjibrilSow.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/DjibrilSow.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DjibrilSow.jpg/960px-DjibrilSow.jpg",
+        "width": 1494,
+        "height": 2851,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Silesia711\" title=\"User:Silesia711\">Silesia711</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/djibril-sow.jpg"
+      }
+    },
+    {
+      "slug": "christian-fassnacht",
+      "display_name": "Christian Fassnacht",
+      "shirt_no": 16,
+      "position_code": "MF",
+      "dob": "1993-11-11",
+      "age": 32,
+      "caps": 21,
+      "goals": 4,
+      "club_from_squad_table": "Young Boys",
+      "wikipedia_title": "Christian Fassnacht",
+      "date_of_birth": "1993-11-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Young Boys",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27306208",
+      "qid": "Q27306208",
+      "name": "Christian Fassnacht",
+      "description": "Swiss footballer (born 1993)",
+      "place_of_birth_qid": "Q72",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q3446915"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q190526",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q190526",
+      "image_filename": "Christian Fassnacht (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Fassnacht",
+      "transfermarkt_id": "250490",
+      "fifa_player_id": "201358758",
+      "positions": [
+        "attacker"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Zurich",
+      "wikidata_current_club": "BSC Young Boys",
+      "wikidata_current_club_qid": "Q190526",
+      "photo": {
+        "filename": "Christian Fassnacht (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Christian_Fassnacht_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Christian_Fassnacht_%28cropped%29.jpg",
+        "width": 349,
+        "height": 553,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Олег Батрак",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/christian-fassnacht.jpg"
+      }
+    },
+    {
+      "slug": "rubén-vargas",
+      "display_name": "Rubén Vargas",
+      "shirt_no": 17,
+      "position_code": "FW",
+      "dob": "1998-08-05",
+      "age": 27,
+      "caps": 60,
+      "goals": 11,
+      "club_from_squad_table": "Sevilla",
+      "wikipedia_title": "Rubén Vargas",
+      "date_of_birth": "1998-08-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sevilla",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q38053896",
+      "qid": "Q38053896",
+      "name": "Ruben Vargas",
+      "description": "Swiss association football player",
+      "place_of_birth_qid": "Q14563",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 1.74,
+      "weight_kg": 68.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q223262",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q15755",
+          "start": "2019-07-01",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q3873550",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q678582",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q165141",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q10329",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q10329",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rub%C3%A9n_Vargas",
+      "transfermarkt_id": "345886",
+      "fifa_player_id": "201642267",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Adligenswil",
+      "wikidata_current_club": "Sevilla FC",
+      "wikidata_current_club_qid": "Q10329",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "eray-cömert",
+      "display_name": "Eray Cömert",
+      "shirt_no": 18,
+      "position_code": "DF",
+      "dob": "1998-02-04",
+      "age": 28,
+      "caps": 20,
+      "goals": 0,
+      "club_from_squad_table": "Valencia",
+      "wikipedia_title": "Eray Cömert",
+      "date_of_birth": "1998-02-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Valencia",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q24052364",
+      "qid": "Q24052364",
+      "name": "Eray Cömert",
+      "description": "Swiss association football player",
+      "place_of_birth_qid": "Q269667",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 1.83,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q189671",
+          "start": "2015-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q650273",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q633521",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q321061",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q678582",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q10333",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q10333",
+      "image_filename": "Eray Cömert 2019.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eray_C%C3%B6mert",
+      "transfermarkt_id": "298583",
+      "fifa_player_id": "201460674",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Rheinfelden",
+      "wikidata_current_club": "Valencia CF",
+      "wikidata_current_club_qid": "Q10333",
+      "photo": {
+        "filename": "Eray Cömert 2019.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Eray_C%C3%B6mert_2019.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Eray_C%C3%B6mert_2019.jpg",
+        "width": 449,
+        "height": 1021,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Дмитрий Пукалик",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/eray-cömert.jpg"
+      }
+    },
+    {
+      "slug": "noah-okafor",
+      "display_name": "Noah Okafor",
+      "shirt_no": 19,
+      "position_code": "FW",
+      "dob": "2000-05-24",
+      "age": 26,
+      "caps": 24,
+      "goals": 2,
+      "club_from_squad_table": "Leeds United",
+      "wikipedia_title": "Noah Okafor",
+      "date_of_birth": "2000-05-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Leeds United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q55286732",
+      "qid": "Q55286732",
+      "name": "Noah Okafor",
+      "description": "Swiss association football player",
+      "place_of_birth_qid": "Q39",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q189671",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q189671",
+      "image_filename": "FC RB Salzburg gegen FK Austria Wien (2022-04-24) 68.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Noah_Okafor",
+      "transfermarkt_id": "346890",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Switzerland",
+      "wikidata_current_club": "FC Basel",
+      "wikidata_current_club_qid": "Q189671",
+      "photo": {
+        "filename": "FC RB Salzburg gegen FK Austria Wien (2022-04-24) 68.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/FC_RB_Salzburg_gegen_FK_Austria_Wien_%282022-04-24%29_68.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/FC_RB_Salzburg_gegen_FK_Austria_Wien_%282022-04-24%29_68.jpg/960px-FC_RB_Salzburg_gegen_FK_Austria_Wien_%282022-04-24%29_68.jpg",
+        "width": 2110,
+        "height": 2418,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/noah-okafor.jpg"
+      }
+    },
+    {
+      "slug": "michel-aebischer",
+      "display_name": "Michel Aebischer",
+      "shirt_no": 20,
+      "position_code": "MF",
+      "dob": "1997-01-06",
+      "age": 29,
+      "caps": 38,
+      "goals": 2,
+      "club_from_squad_table": "Pisa",
+      "wikipedia_title": "Michel Aebischer",
+      "date_of_birth": "1997-01-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Pisa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27469951",
+      "qid": "Q27469951",
+      "name": "Michel Aebischer",
+      "description": "Swiss association football player",
+      "place_of_birth_qid": "Q39",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 76.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q190526",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q678582",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q190526",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michel_Aebischer",
+      "transfermarkt_id": "237658",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Switzerland",
+      "wikidata_current_club": "BSC Young Boys",
+      "wikidata_current_club_qid": "Q190526",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "marvin-keller",
+      "display_name": "Marvin Keller",
+      "shirt_no": 21,
+      "position_code": "GK",
+      "dob": "2002-07-03",
+      "age": 23,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Young Boys",
+      "wikipedia_title": "Marvin Keller (footballer)",
+      "date_of_birth": "2002-07-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Young Boys",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q108698128",
+      "qid": "Q108698128",
+      "name": "Marvin Keller",
+      "description": "Swiss association football player",
+      "place_of_birth_qid": "Q84",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 1.89,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marvin_Keller_(footballer)",
+      "transfermarkt_id": "500763",
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "London",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "fabian-rieder",
+      "display_name": "Fabian Rieder",
+      "shirt_no": 22,
+      "position_code": "MF",
+      "dob": "2002-02-16",
+      "age": 24,
+      "caps": 27,
+      "goals": 1,
+      "club_from_squad_table": "FC Augsburg",
+      "wikipedia_title": "Fabian Rieder",
+      "date_of_birth": "2002-02-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "FC Augsburg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q101033685",
+      "qid": "Q101033685",
+      "name": "Fabian Rieder",
+      "description": "Swiss association football player",
+      "place_of_birth_qid": "Q66668",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 1.81,
+      "position_qids": [
+        "Q193592"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fabian_Rieder",
+      "transfermarkt_id": "507341",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Koppigen",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "zeki-amdouni",
+      "display_name": "Zeki Amdouni",
+      "shirt_no": 23,
+      "position_code": "FW",
+      "dob": "2000-12-04",
+      "age": 25,
+      "caps": 27,
+      "goals": 11,
+      "club_from_squad_table": "Burnley",
+      "wikipedia_title": "Zeki Amdouni",
+      "date_of_birth": "2000-12-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Burnley",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q106882153",
+      "qid": "Q106882153",
+      "name": "Zeki Amdouni",
+      "description": "Swiss association football player (born 2000)",
+      "place_of_birth_qid": "Q71",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 1.75,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q131499",
+          "start": "2023-07-19",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q131499",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zeki_Amdouni",
+      "transfermarkt_id": "548729",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Geneva",
+      "wikidata_current_club": "S.L. Benfica",
+      "wikidata_current_club_qid": "Q131499",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "aurèle-amenda",
+      "display_name": "Aurèle Amenda",
+      "shirt_no": 24,
+      "position_code": "DF",
+      "dob": "2003-07-31",
+      "age": 22,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Eintracht Frankfurt",
+      "wikipedia_title": "Aurèle Amenda",
+      "date_of_birth": "2003-07-31",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Eintracht Frankfurt",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q111805882",
+      "qid": "Q111805882",
+      "name": "Aurèle Amenda",
+      "description": "Swiss association football player",
+      "place_of_birth_qid": "Q1034",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 1.94,
+      "position_qids": [
+        "Q336286"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aur%C3%A8le_Amenda",
+      "transfermarkt_id": "635645",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Biel/Bienne",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "luca-jaquez",
+      "display_name": "Luca Jaquez",
+      "shirt_no": 25,
+      "position_code": "DF",
+      "dob": "2003-06-02",
+      "age": 23,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "VfB Stuttgart",
+      "wikipedia_title": "Luca Jaquez",
+      "date_of_birth": "2003-06-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "VfB Stuttgart",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q122160785",
+      "qid": "Q122160785",
+      "name": "Luca Jaquez",
+      "description": "Swiss footballer",
+      "place_of_birth_qid": "Q4191",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 187.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luca_Jaquez",
+      "transfermarkt_id": "539798",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Lucerne",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "cedric-itten",
+      "display_name": "Cedric Itten",
+      "shirt_no": 26,
+      "position_code": "FW",
+      "dob": "1996-12-27",
+      "age": 29,
+      "caps": 13,
+      "goals": 5,
+      "club_from_squad_table": "Fortuna Düsseldorf",
+      "wikipedia_title": "Cedric Itten",
+      "date_of_birth": "1996-12-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fortuna Düsseldorf",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q22965497",
+      "qid": "Q22965497",
+      "name": "Cedric Itten",
+      "description": "Swiss association football player",
+      "place_of_birth_qid": "Q78",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 189.0,
+      "weight_kg": 81.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q189671",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q189671",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q189671",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q4140019",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3873550",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q678582",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q189671",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cedric_Itten",
+      "transfermarkt_id": "243856",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Basel",
+      "wikidata_current_club": "FC Basel",
+      "wikidata_current_club_qid": "Q189671",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    }
+  ],
+  "notes": [
+    "Switzerland photo/QID audit 2026-05-24: verifier found no clean Wikimedia photo for nine players and added verified Wikidata QIDs for those rows."
+  ]
+}

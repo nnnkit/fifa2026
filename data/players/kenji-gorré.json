@@ -1,0 +1,73 @@
+{
+  "slug": "kenji-gorré",
+  "display_name": "Kenji Gorré",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1994-09-29",
+  "age": 31,
+  "caps": 37,
+  "goals": 6,
+  "club_from_squad_table": "Maccabi Haifa",
+  "wikipedia_title": "Kenji Gorré",
+  "date_of_birth": "1994-09-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Maccabi Haifa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19969384",
+  "qid": "Q19969384",
+  "name": "Kenji Gorré",
+  "description": "Curacaoan footballer",
+  "place_of_birth_qid": "Q488545",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 71.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18659",
+      "start": "2013-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q24904",
+      "start": "2015-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q729640",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18659",
+  "image_filename": "Kenji Gorré (2015).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kenji_Gorr%C3%A9",
+  "transfermarkt_id": "374889",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Spijkenisse",
+  "wikidata_current_club": "Swansea City A.F.C.",
+  "wikidata_current_club_qid": "Q18659",
+  "photo": {
+    "filename": "Kenji Gorré (2015).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Kenji_Gorr%C3%A9_%282015%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Kenji_Gorr%C3%A9_%282015%29.jpg",
+    "width": 400,
+    "height": 514,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Richard Mulder",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kenji-gorré.jpg"
+  },
+  "team_slug": "curaçao",
+  "team_country": "Curaçao"
+}

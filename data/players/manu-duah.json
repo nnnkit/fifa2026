@@ -1,0 +1,50 @@
+{
+  "slug": "manu-duah",
+  "display_name": "Manu Duah",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2005-05-06",
+  "age": 21,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "San Diego",
+  "wikipedia_title": "Manu Duah",
+  "date_of_birth": "2005-05-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "San Diego",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q133500625",
+  "qid": "Q133500625",
+  "name": "Manu Duah",
+  "description": "Ghanaian footballer",
+  "citizenship_qids": [
+    "Q117"
+  ],
+  "position_qids": [
+    "Q193592"
+  ],
+  "image_filename": "Manu Duah on the ball SDFC v Pachuca (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Manu_Duah",
+  "transfermarkt_id": "1355954",
+  "wikidata_date_of_birth": "2005-06-05",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Ghana"
+  ],
+  "photo": {
+    "filename": "Manu Duah on the ball SDFC v Pachuca (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Manu_Duah_on_the_ball_SDFC_v_Pachuca_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Manu_Duah_on_the_ball_SDFC_v_Pachuca_%28cropped%29.jpg/500px-Manu_Duah_on_the_ball_SDFC_v_Pachuca_%28cropped%29.jpg",
+    "width": 515,
+    "height": 643,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Paul_Vaurie\" title=\"User:Paul Vaurie\">Paul Vaurie</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/manu-duah.jpg"
+  },
+  "team_slug": "ghana",
+  "team_country": "Ghana"
+}

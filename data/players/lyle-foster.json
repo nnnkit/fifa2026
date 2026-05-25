@@ -1,0 +1,68 @@
+{
+  "slug": "lyle-foster",
+  "display_name": "Lyle Foster",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-05-09",
+  "age": 26,
+  "caps": 26,
+  "goals": 10,
+  "club_from_squad_table": "Burnley",
+  "wikipedia_title": "Lyle Foster",
+  "wikidata_qid": "Q42725482",
+  "qid": "Q42725482",
+  "name": "Lyle Foster",
+  "description": "South African association football player",
+  "date_of_birth": "2000-05-09",
+  "place_of_birth_qid": "Q217426",
+  "citizenship_qids": [
+    "Q258"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q607939",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q7565407",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q607939",
+  "image_filename": "Lyle Foster 29112025 (6).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lyle_Foster",
+  "transfermarkt_id": "467623",
+  "wikidata_date_of_birth": "2000-09-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Burnley",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "South Africa"
+  ],
+  "place_of_birth": "Soweto",
+  "wikidata_current_club": "Orlando Pirates F.C.",
+  "wikidata_current_club_qid": "Q607939",
+  "photo": {
+    "filename": "Lyle Foster 29112025 (6).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Lyle_Foster_29112025_%286%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lyle_Foster_29112025_%286%29.jpg/960px-Lyle_Foster_29112025_%286%29.jpg",
+    "width": 1046,
+    "height": 1895,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lyle-foster.jpg"
+  },
+  "team_slug": "south-africa",
+  "team_country": "South Africa"
+}

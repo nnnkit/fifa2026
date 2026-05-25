@@ -1,0 +1,56 @@
+{
+  "slug": "lee-han-beom",
+  "display_name": "Lee Han-beom",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2002-06-17",
+  "age": 23,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "Midtjylland",
+  "wikipedia_title": "Lee Han-beom",
+  "wikidata_qid": "Q106779330",
+  "qid": "Q106779330",
+  "name": "Lee Han-beom",
+  "description": "South Korean footballer",
+  "date_of_birth": "2002-06-17",
+  "place_of_birth_qid": "Q884",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 190.0,
+  "teams": [
+    {
+      "team_qid": "Q618520",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q618520",
+  "image_filename": "230422 FC 서울 vs 수원 삼성 블루윙즈 (이한범).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Han-beom",
+  "transfermarkt_id": "706963",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Midtjylland",
+  "current_club_source": "wikipedia-squad-table",
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "South Korea",
+  "wikidata_current_club": "FC Midtjylland",
+  "wikidata_current_club_qid": "Q618520",
+  "photo": {
+    "filename": "230422 FC 서울 vs 수원 삼성 블루윙즈 (이한범).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/230422_FC_%EC%84%9C%EC%9A%B8_vs_%EC%88%98%EC%9B%90_%EC%82%BC%EC%84%B1_%EB%B8%94%EB%A3%A8%EC%9C%99%EC%A6%88_%28%EC%9D%B4%ED%95%9C%EB%B2%94%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/230422_FC_%EC%84%9C%EC%9A%B8_vs_%EC%88%98%EC%9B%90_%EC%82%BC%EC%84%B1_%EB%B8%94%EB%A3%A8%EC%9C%99%EC%A6%88_%28%EC%9D%B4%ED%95%9C%EB%B2%94%29.jpg/960px-230422_FC_%EC%84%9C%EC%9A%B8_vs_%EC%88%98%EC%9B%90_%EC%82%BC%EC%84%B1_%EB%B8%94%EB%A3%A8%EC%9C%99%EC%A6%88_%28%EC%9D%B4%ED%95%9C%EB%B2%94%29.jpg",
+    "width": 1600,
+    "height": 2000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lee-han-beom.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

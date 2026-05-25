@@ -1,0 +1,88 @@
+{
+  "slug": "julián-araujo",
+  "display_name": "Julián Araujo",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-08-13",
+  "age": 24,
+  "caps": 16,
+  "goals": 0,
+  "club_from_squad_table": "Celtic",
+  "wikipedia_title": "Julián Araujo",
+  "wikidata_qid": "Q57242266",
+  "qid": "Q57242266",
+  "name": "Julián Araujo",
+  "description": "Mexican-American association football player",
+  "date_of_birth": "2001-08-13",
+  "place_of_birth_qid": "Q852704",
+  "citizenship_qids": [
+    "Q30",
+    "Q96"
+  ],
+  "height_cm": 1.75,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q16842924",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q287804",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q204357",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590572",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q91906315",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q7892564",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    }
+  ],
+  "current_club_qid": "Q204357",
+  "image_filename": "D'esquerra a dreta, Julián Araujo i Marc Casadó, jugadors del FCBarcelona durant la gira de pretemporada a EUA. (05-08-2024) (cropped2).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Juli%C3%A1n_Araujo",
+  "transfermarkt_id": "513970",
+  "current_club": "Celtic",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "United States",
+    "Mexico"
+  ],
+  "place_of_birth": "Lompoc",
+  "wikidata_current_club": "LA Galaxy",
+  "wikidata_current_club_qid": "Q204357",
+  "photo": {
+    "filename": "D'esquerra a dreta, Julián Araujo i Marc Casadó, jugadors del FCBarcelona durant la gira de pretemporada a EUA. (05-08-2024) (cropped2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/D%27esquerra_a_dreta%2C_Juli%C3%A1n_Araujo_i_Marc_Casad%C3%B3%2C_jugadors_del_FCBarcelona_durant_la_gira_de_pretemporada_a_EUA._%2805-08-2024%29_%28cropped2%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/D%27esquerra_a_dreta%2C_Juli%C3%A1n_Araujo_i_Marc_Casad%C3%B3%2C_jugadors_del_FCBarcelona_durant_la_gira_de_pretemporada_a_EUA._%2805-08-2024%29_%28cropped2%29.jpg/960px-D%27esquerra_a_dreta%2C_Juli%C3%A1n_Araujo_i_Marc_Casad%C3%B3%2C_jugadors_del_FCBarcelona_durant_la_gira_de_pretemporada_a_EUA._%2805-08-2024%29_%28cropped2%29.jpg",
+    "width": 1744,
+    "height": 1991,
+    "license": "Attribution",
+    "license_url": null,
+    "attribution": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Executive_Council_of_Catalonia\" class=\"extiw\" title=\"w:en:Executive Council of Catalonia\"><span title=\"Main institution in Catalonia\">Government of Catalonia</span></a>\n</bdi>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/julián-araujo.jpg"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

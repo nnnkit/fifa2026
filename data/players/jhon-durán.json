@@ -1,0 +1,87 @@
+{
+  "slug": "jhon-dur\u00e1n",
+  "display_name": "Jhon Dur\u00e1n",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2003-12-13",
+  "age": 22,
+  "caps": 17,
+  "goals": 3,
+  "club_from_squad_table": "Zenit Saint Petersburg",
+  "wikipedia_title": "Jhon Dur\u00e1n",
+  "date_of_birth": "2003-12-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Zenit Saint Petersburg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64748320",
+  "qid": "Q64748320",
+  "name": "Jhon Dur\u00e1n",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q48278",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q332636",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q308683",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q18711",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q482764",
+      "start": "2025-01-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q212564",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q6601875",
+      "start": "2025-07-06",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q6601875",
+  "image_filename": "Jhon Dur\u00e1n, Esteghlal FC vs Al-Nassr FC (ACLElite); 3 Mar 2025.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jhon_Dur%C3%A1n",
+  "transfermarkt_id": "649317",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Medell\u00edn",
+  "wikidata_current_club": "Fenerbah\u00e7e Istanbul",
+  "wikidata_current_club_qid": "Q6601875",
+  "photo": {
+    "filename": "Jhon Dur\u00e1n, Esteghlal FC vs Al-Nassr FC (ACLElite); 3 Mar 2025.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jhon_Dur%C3%A1n%2C_Esteghlal_FC_vs_Al-Nassr_FC_%28ACLElite%29%3B_3_Mar_2025.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jhon_Dur%C3%A1n%2C_Esteghlal_FC_vs_Al-Nassr_FC_%28ACLElite%29%3B_3_Mar_2025.png",
+    "width": 622,
+    "height": 829,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Fatemeh Amuzad/Ali Haddadi Asl",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jhon-dur\u00e1n.png"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

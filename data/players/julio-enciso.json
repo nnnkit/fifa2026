@@ -1,0 +1,62 @@
+{
+  "slug": "julio-enciso",
+  "display_name": "Julio Enciso",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2004-01-23",
+  "age": 22,
+  "caps": 31,
+  "goals": 4,
+  "club_from_squad_table": "Strasbourg",
+  "wikipedia_title": "Julio Enciso (footballer, born 2004)",
+  "date_of_birth": "2004-01-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Strasbourg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q85872272",
+  "qid": "Q85872272",
+  "name": "Julio César Enciso",
+  "description": "Paraguayan association football player",
+  "place_of_birth_qid": "Q733",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 1.68,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q848642",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q848642",
+  "image_filename": "Enciso 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Julio_Enciso_(footballer,_born_2004)",
+  "transfermarkt_id": "660867",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Paraguay",
+  "wikidata_current_club": "Club Libertad",
+  "wikidata_current_club_qid": "Q848642",
+  "photo": {
+    "filename": "Enciso 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Enciso_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Enciso_2022.jpg",
+    "width": 271,
+    "height": 581,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "jamesboyes",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/julio-enciso.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

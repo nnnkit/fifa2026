@@ -1,0 +1,62 @@
+{
+  "slug": "julián-quiñones",
+  "display_name": "Julián Quiñones",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1997-03-24",
+  "age": 29,
+  "caps": 20,
+  "goals": 2,
+  "club_from_squad_table": "Al-Qadsiah",
+  "wikipedia_title": "Julián Quiñones",
+  "wikidata_qid": "Q22082627",
+  "qid": "Q22082627",
+  "name": "Julián Andrés Quiñones",
+  "description": "Mexican association football player",
+  "date_of_birth": "1997-03-24",
+  "place_of_birth_qid": "Q1525449",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 176.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1570132",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1570132",
+  "image_filename": "Julián Quiñones (1).png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Juli%C3%A1n_Qui%C3%B1ones",
+  "transfermarkt_id": "416090",
+  "current_club": "Al-Qadsiah",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Magüí Payán",
+  "wikidata_current_club": "Lobos de la BUAP",
+  "wikidata_current_club_qid": "Q1570132",
+  "photo": {
+    "filename": "Julián Quiñones (1).png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Juli%C3%A1n_Qui%C3%B1ones_%281%29.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Juli%C3%A1n_Qui%C3%B1ones_%281%29.png",
+    "width": 617,
+    "height": 580,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Selección Nacional de México",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/julián-quiñones.png"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

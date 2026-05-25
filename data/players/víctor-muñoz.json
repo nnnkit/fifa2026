@@ -1,0 +1,55 @@
+{
+  "slug": "víctor-muñoz",
+  "display_name": "Víctor Muñoz",
+  "shirt_no": 25,
+  "position_code": "FW",
+  "dob": "2003-07-13",
+  "age": 22,
+  "caps": 2,
+  "goals": 1,
+  "club_from_squad_table": "Osasuna",
+  "wikipedia_title": "Víctor Muñoz (footballer, born 2003)",
+  "date_of_birth": "2003-07-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Osasuna",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q121422889",
+  "qid": "Q121422889",
+  "name": "Víctor Muñoz Villanueva",
+  "description": "Spanish footballer (born 2003)",
+  "place_of_birth_qid": "Q1492",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 1.73,
+  "position_qids": [
+    "Q193592",
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q12217",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q12217",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%ADctor_Mu%C3%B1oz_(footballer,_born_2003)",
+  "transfermarkt_id": "935231",
+  "positions": [
+    "midfielder",
+    "forward"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Barcelona",
+  "wikidata_current_club": "Real Madrid Castilla",
+  "wikidata_current_club_qid": "Q12217",
+  "team_slug": "spain",
+  "team_country": "Spain",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

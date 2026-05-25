@@ -1,0 +1,53 @@
+{
+  "slug": "juan-cabal",
+  "display_name": "Juan Cabal",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-01-08",
+  "age": 25,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Juventus",
+  "wikipedia_title": "Juan Cabal",
+  "date_of_birth": "2001-01-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Juventus",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q104820962",
+  "qid": "Q104820962",
+  "name": "Juan Cabal",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q51103",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 1.86,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q332605",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q332605",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Cabal",
+  "transfermarkt_id": "686965",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Cali",
+  "wikidata_current_club": "Atl\u00e9tico Nacional",
+  "wikidata_current_club_qid": "Q332605",
+  "team_slug": "colombia",
+  "team_country": "Colombia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

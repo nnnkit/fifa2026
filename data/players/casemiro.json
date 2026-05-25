@@ -1,0 +1,108 @@
+{
+  "slug": "casemiro",
+  "display_name": "Casemiro",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1992-02-23",
+  "age": 34,
+  "caps": 84,
+  "goals": 8,
+  "club_from_squad_table": "Manchester United",
+  "wikipedia_title": "Casemiro",
+  "date_of_birth": "1992-02-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q616664",
+  "qid": "Q616664",
+  "name": "Casemiro",
+  "description": "Brazilian association football player",
+  "place_of_birth_qid": "Q191642",
+  "citizenship_qids": [
+    "Q155",
+    "Q29",
+    "Q145"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 85.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q8682",
+      "start": "2013-01-00",
+      "end": "2013-06-00"
+    },
+    {
+      "team_qid": "Q128446",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q38568",
+      "start": "2010-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q12217",
+      "start": "2013-01-00",
+      "end": "2013-06-00"
+    },
+    {
+      "team_qid": "Q2402747",
+      "start": "2009-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q2308235",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2022-00-00",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2013-07-00",
+      "end": "2022-00-00"
+    }
+  ],
+  "current_club_qid": "Q18656",
+  "image_filename": "20180610 FIFA Friendly Match Austria vs. Brazil Casemiro 850 1575.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Casemiro",
+  "transfermarkt_id": "16306",
+  "fifa_player_id": "308386",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Brazil",
+    "Spain",
+    "United Kingdom"
+  ],
+  "place_of_birth": "São José dos Campos",
+  "wikidata_current_club": "Manchester United F.C.",
+  "wikidata_current_club_qid": "Q18656",
+  "photo": {
+    "filename": "20180610 FIFA Friendly Match Austria vs. Brazil Casemiro 850 1575.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Casemiro_850_1575.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Casemiro_850_1575.jpg/960px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Casemiro_850_1575.jpg",
+    "width": 2669,
+    "height": 4003,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/casemiro.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

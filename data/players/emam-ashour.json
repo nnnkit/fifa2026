@@ -1,0 +1,84 @@
+{
+  "slug": "emam-ashour",
+  "display_name": "Emam Ashour",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1998-02-20",
+  "age": 28,
+  "caps": 27,
+  "goals": 0,
+  "club_from_squad_table": "Al Ahly",
+  "wikipedia_title": "Emam Ashour",
+  "date_of_birth": "1998-02-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al Ahly",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64681287",
+  "qid": "Q64681287",
+  "name": "Emam Ashour",
+  "description": "Egyptian association football player",
+  "place_of_birth_qid": "Q223587",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q6008848",
+    "Q9731197"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2274220",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q286504",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q618520",
+      "start": "2023-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q286504",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q223566",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q286504",
+  "image_filename": "Emam Ashour (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Emam_Ashour",
+  "transfermarkt_id": "604008",
+  "positions": [
+    "central midfielder",
+    "centre-forward"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "place_of_birth": "Mansoura",
+  "wikidata_current_club": "Zamalek SC",
+  "wikidata_current_club_qid": "Q286504",
+  "photo": {
+    "filename": "Emam Ashour (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Emam_Ashour_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Emam_Ashour_%28cropped%29.jpg/960px-Emam_Ashour_%28cropped%29.jpg",
+    "width": 963,
+    "height": 1162,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mokhtar_JR&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mokhtar JR (page does not exist)\">Mokhtar JR</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/emam-ashour.jpg"
+  },
+  "team_slug": "egypt",
+  "team_country": "Egypt"
+}

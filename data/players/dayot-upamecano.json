@@ -1,0 +1,110 @@
+{
+  "slug": "dayot-upamecano",
+  "display_name": "Dayot Upamecano",
+  "shirt_no": 4,
+  "position_code": "DF",
+  "dob": "1998-10-27",
+  "age": 27,
+  "caps": 36,
+  "goals": 2,
+  "club_from_squad_table": "Bayern Munich",
+  "wikipedia_title": "Dayot Upamecano",
+  "date_of_birth": "1998-10-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayern Munich",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20723878",
+  "qid": "Q20723878",
+  "name": "Dayot Upamecano",
+  "description": "French footballer (born 1998)",
+  "place_of_birth_qid": "Q171800",
+  "citizenship_qids": [
+    "Q142",
+    "Q1041"
+  ],
+  "height_cm": 186.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1387293",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q994811",
+      "start": "2015-07-11",
+      "end": "2017-01-13"
+    },
+    {
+      "team_qid": "Q1387293",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q702455",
+      "start": "2017-01-13",
+      "end": "2021-07-05"
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2021-07-05",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590033",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q1450557",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q47774",
+      "start": "2020-09-05",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q15789",
+  "image_filename": "2022-07-30 Fu\u00dfball, M\u00e4nner, DFL-Supercup, RB Leipzig - FC Bayern M\u00fcnchen 1DX 3244 by Stepro (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dayot_Upamecano",
+  "transfermarkt_id": "344695",
+  "fifa_player_id": "389876",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "France",
+    "Senegal"
+  ],
+  "place_of_birth": "\u00c9vreux",
+  "wikidata_current_club": "FC Bayern Munich",
+  "wikidata_current_club_qid": "Q15789",
+  "photo": {
+    "filename": "2022-07-30 Fu\u00dfball, M\u00e4nner, DFL-Supercup, RB Leipzig - FC Bayern M\u00fcnchen 1DX 3244 by Stepro (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3244_by_Stepro_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3244_by_Stepro_%28cropped%29.jpg",
+    "width": 786,
+    "height": 1048,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "crop by <a href=\"//commons.wikimedia.org/wiki/User:Sepguilherme\" class=\"mw-redirect\" title=\"User:Sepguilherme\">Sepguilherme</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/dayot-upamecano.jpg"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

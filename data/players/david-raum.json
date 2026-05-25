@@ -1,0 +1,85 @@
+{
+  "slug": "david-raum",
+  "display_name": "David Raum",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-04-22",
+  "age": 28,
+  "caps": 36,
+  "goals": 1,
+  "club_from_squad_table": "RB Leipzig",
+  "wikipedia_title": "David Raum",
+  "date_of_birth": "1998-04-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "RB Leipzig",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28540571",
+  "qid": "Q28540571",
+  "name": "David Raum",
+  "description": "German association football player",
+  "place_of_birth_qid": "Q2090",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q153539",
+      "start": "2017-02-01",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q324854",
+      "start": "2016-11-13",
+      "end": "2017-07-09"
+    },
+    {
+      "team_qid": "Q316497",
+      "start": "2017-09-04",
+      "end": "2018-03-27"
+    },
+    {
+      "team_qid": "Q43310",
+      "start": "2021-08-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q22707",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q702455",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q702455",
+  "image_filename": "2022 FIFA World Cup Germany 1–2 Japan - Germany celebrating.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_Raum",
+  "transfermarkt_id": "318204",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Nuremberg",
+  "photo": {
+    "filename": "2022 FIFA World Cup Germany 1–2 Japan - Germany celebrating.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2022_FIFA_World_Cup_Germany_1%E2%80%932_Japan_-_Germany_celebrating.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2022_FIFA_World_Cup_Germany_1%E2%80%932_Japan_-_Germany_celebrating.jpg",
+    "width": 533,
+    "height": 799,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "حسین ظهروند",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/david-raum.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

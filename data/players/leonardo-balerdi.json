@@ -1,0 +1,75 @@
+{
+  "slug": "leonardo-balerdi",
+  "display_name": "Leonardo Balerdi",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-01-26",
+  "age": 27,
+  "caps": 11,
+  "goals": 0,
+  "club_from_squad_table": "Marseille",
+  "wikipedia_title": "Leonardo Balerdi",
+  "wikidata_qid": "Q50233588",
+  "qid": "Q50233588",
+  "name": "Leonardo Balerdi",
+  "description": "Argentine-Italian footballer",
+  "date_of_birth": "1999-01-26",
+  "place_of_birth_qid": "Q1756745",
+  "citizenship_qids": [
+    "Q414",
+    "Q38"
+  ],
+  "height_cm": 187.0,
+  "weight_kg": 85.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q170703",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q132885",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q132885",
+  "image_filename": "Leonardo Balerdi OM (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Leonardo_Balerdi",
+  "transfermarkt_id": "575998",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Marseille",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Argentina",
+    "Italy"
+  ],
+  "place_of_birth": "Villa Mercedes",
+  "wikidata_current_club": "Olympique de Marseille",
+  "wikidata_current_club_qid": "Q132885",
+  "photo": {
+    "filename": "Leonardo Balerdi OM (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Leonardo_Balerdi_OM_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Leonardo_Balerdi_OM_%28cropped%29.jpg",
+    "width": 874,
+    "height": 1120,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bigmatbasket&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bigmatbasket (page does not exist)\">Bigmatbasket</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/leonardo-balerdi.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

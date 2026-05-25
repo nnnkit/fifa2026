@@ -1,0 +1,118 @@
+{
+  "slug": "pascal-groß",
+  "display_name": "Pascal Groß",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1991-06-15",
+  "age": 34,
+  "caps": 18,
+  "goals": 1,
+  "club_from_squad_table": "Brighton & Hove Albion",
+  "wikipedia_title": "Pascal Groß",
+  "date_of_birth": "1991-06-15",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Brighton & Hove Albion",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q509489",
+  "qid": "Q509489",
+  "name": "Pascal Groß",
+  "description": "German footballer (born 1991)",
+  "place_of_birth_qid": "Q2119",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 181.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q22707",
+      "start": "2008-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q105853",
+      "start": "2011-01-01",
+      "end": "2013-00-00"
+    },
+    {
+      "team_qid": "Q18704184",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q170117",
+      "start": "2012-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q5424977",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2016992",
+      "start": "2008-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q324854",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q316497",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q19453",
+      "start": "2017-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q43310",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2024-00-00",
+      "end": "2026-01-00"
+    },
+    {
+      "team_qid": "Q19453",
+      "start": "2026-01-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19453",
+  "image_filename": "PASCAL GROSS.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pascal_Gro%C3%9F",
+  "transfermarkt_id": "82873",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Mannheim",
+  "wikidata_current_club": "Brighton & Hove Albion F.C.",
+  "wikidata_current_club_qid": "Q19453",
+  "photo": {
+    "filename": "PASCAL GROSS.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PASCAL_GROSS.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PASCAL_GROSS.jpg/960px-PASCAL_GROSS.jpg",
+    "width": 1235,
+    "height": 1410,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37972999@N07\">James Boyes</a> from UK",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/pascal-groß.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "ronaldo-dejesús",
+  "display_name": "Ronaldo Dejesús",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-04-21",
+  "age": 25,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Lanús",
+  "wikipedia_title": "Ronaldo Dejesús",
+  "date_of_birth": "2001-04-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lanús",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q124837380",
+  "qid": "Q124837380",
+  "name": "Ronaldo De Jesús",
+  "description": "Paraguayan footballer",
+  "place_of_birth_qid": "Q1749429",
+  "citizenship_qids": [
+    "Q733",
+    "Q155"
+  ],
+  "height_cm": 192.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q914086",
+      "start": "2023-04-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q16847286",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2030810",
+      "start": "2022-01-00",
+      "end": "2022-12-00"
+    }
+  ],
+  "current_club_qid": "Q914086",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ronaldo_Dejes%C3%BAs",
+  "transfermarkt_id": "847074",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Paraguay",
+    "Brazil"
+  ],
+  "place_of_birth": "San Patricio",
+  "wikidata_current_club": "Cerro Porteño",
+  "wikidata_current_club_qid": "Q914086",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "christoph-baumgartner",
+  "display_name": "Christoph Baumgartner",
+  "shirt_no": 19,
+  "position_code": "MF",
+  "dob": "1999-08-01",
+  "age": 26,
+  "caps": 58,
+  "goals": 19,
+  "club_from_squad_table": "RB Leipzig",
+  "wikipedia_title": "Christoph Baumgartner",
+  "date_of_birth": "1999-08-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "RB Leipzig",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q55999670",
+  "qid": "Q55999670",
+  "name": "Christoph Baumgartner",
+  "description": "Austrian association football player (born 1999)",
+  "place_of_birth_qid": "Q659918",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 1.78,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q427491",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q22707",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q303033",
+      "start": "2017-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q16637410",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q702455",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q163534",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q702455",
+  "image_filename": "Austria national under-21 football team - Teamcamp October 2019 (60).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Christoph_Baumgartner",
+  "transfermarkt_id": "324278",
+  "fifa_player_id": "400030143",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Horn",
+  "photo": {
+    "filename": "Austria national under-21 football team - Teamcamp October 2019 (60).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Austria_national_under-21_football_team_-_Teamcamp_October_2019_%2860%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Austria_national_under-21_football_team_-_Teamcamp_October_2019_%2860%29.jpg/960px-Austria_national_under-21_football_team_-_Teamcamp_October_2019_%2860%29.jpg",
+    "width": 3000,
+    "height": 4500,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "--<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 18:47, 13 October 2019 (UTC)",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/christoph-baumgartner.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

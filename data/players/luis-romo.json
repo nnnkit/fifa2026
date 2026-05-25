@@ -1,0 +1,61 @@
+{
+  "slug": "luis-romo",
+  "display_name": "Luis Romo",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1995-06-05",
+  "age": 31,
+  "caps": 61,
+  "goals": 4,
+  "club_from_squad_table": "Guadalajara",
+  "wikipedia_title": "Luis Romo",
+  "wikidata_qid": "Q56433831",
+  "qid": "Q56433831",
+  "name": "Luis Romo",
+  "description": "Mexican association football player",
+  "date_of_birth": "1995-06-05",
+  "place_of_birth_qid": "Q2015779",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 1.84,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q606210",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q606210",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Romo",
+  "transfermarkt_id": "532938",
+  "current_club": "Guadalajara",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Ahome Municipality",
+  "wikidata_current_club": "Querétaro F.C.",
+  "wikidata_current_club_qid": "Q606210",
+  "image_filename": "Luis_Romo.png",
+  "photo": {
+    "filename": "Luis_Romo.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Luis_Romo.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Luis_Romo.png",
+    "width": 624,
+    "height": 780,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/luis-romo.png"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

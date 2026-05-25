@@ -1,0 +1,63 @@
+{
+  "slug": "aaron-hickey",
+  "display_name": "Aaron Hickey",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2002-06-10",
+  "age": 24,
+  "caps": 19,
+  "goals": 0,
+  "club_from_squad_table": "Brentford",
+  "wikipedia_title": "Aaron Hickey",
+  "date_of_birth": "2002-06-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Brentford",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64010525",
+  "qid": "Q64010525",
+  "name": "Aaron Hickey",
+  "description": "Scottish association football player",
+  "place_of_birth_qid": "Q22",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 1.85,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q202093",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q202093",
+  "image_filename": "Aaron Hickey 02082025 (1).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aaron_Hickey",
+  "transfermarkt_id": "591949",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Scotland",
+  "wikidata_current_club": "Heart of Midlothian F.C.",
+  "wikidata_current_club_qid": "Q202093",
+  "photo": {
+    "filename": "Aaron Hickey 02082025 (1).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Aaron_Hickey_02082025_%281%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aaron_Hickey_02082025_%281%29.jpg/960px-Aaron_Hickey_02082025_%281%29.jpg",
+    "width": 1548,
+    "height": 1792,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/aaron-hickey.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

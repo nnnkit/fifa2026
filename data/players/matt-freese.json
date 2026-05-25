@@ -1,0 +1,75 @@
+{
+  "slug": "matt-freese",
+  "display_name": "Matt Freese",
+  "shirt_no": 24,
+  "position_code": "GK",
+  "dob": "1998-09-02",
+  "age": 27,
+  "caps": 14,
+  "goals": 0,
+  "club_from_squad_table": "New York City FC",
+  "wikipedia_title": "Matt Freese",
+  "date_of_birth": "1998-09-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "New York City FC",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q62036070",
+  "qid": "Q62036070",
+  "name": "Matt Freese",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q3891562",
+  "citizenship_qids": [
+    "Q30"
+  ],
+  "height_cm": 193.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q689874",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q21070839",
+      "start": "2017-04-00",
+      "end": "2017-07-00"
+    },
+    {
+      "team_qid": "Q21070839",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q13361030",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q13361030",
+  "image_filename": "Matt Freese NYCFC vs DC United on Aug 30 2025-019 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Matt_Freese",
+  "transfermarkt_id": "500309",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "United States"
+  ],
+  "place_of_birth": "Wayne",
+  "photo": {
+    "filename": "Matt Freese NYCFC vs DC United on Aug 30 2025-019 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Matt_Freese_NYCFC_vs_DC_United_on_Aug_30_2025-019_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Matt_Freese_NYCFC_vs_DC_United_on_Aug_30_2025-019_%28cropped%29.jpg/960px-Matt_Freese_NYCFC_vs_DC_United_on_Aug_30_2025-019_%28cropped%29.jpg",
+    "width": 3102,
+    "height": 4134,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/matt-freese.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

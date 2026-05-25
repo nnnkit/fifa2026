@@ -1,0 +1,95 @@
+{
+  "slug": "patrick-wimmer",
+  "display_name": "Patrick Wimmer",
+  "shirt_no": 21,
+  "position_code": "MF",
+  "dob": "2001-05-30",
+  "age": 25,
+  "caps": 30,
+  "goals": 1,
+  "club_from_squad_table": "VfL Wolfsburg",
+  "wikipedia_title": "Patrick Wimmer",
+  "date_of_birth": "2001-05-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "VfL Wolfsburg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q65948837",
+  "qid": "Q65948837",
+  "name": "Patrick Wimmer",
+  "description": "Austrian association football player",
+  "place_of_birth_qid": "Q489810",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 1.82,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q131209",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q1330841",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q60967849",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q105844",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q101859",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q302977",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q303033",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q163534",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q101859",
+  "image_filename": "UEFA Euro 2023 Qualifiers Austria vs. Finland (2022-06-03) 29.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Wimmer",
+  "transfermarkt_id": "533295",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Tulln an der Donau",
+  "photo": {
+    "filename": "UEFA Euro 2023 Qualifiers Austria vs. Finland (2022-06-03) 29.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/UEFA_Euro_2023_Qualifiers_Austria_vs._Finland_%282022-06-03%29_29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/UEFA_Euro_2023_Qualifiers_Austria_vs._Finland_%282022-06-03%29_29.jpg/960px-UEFA_Euro_2023_Qualifiers_Austria_vs._Finland_%282022-06-03%29_29.jpg",
+    "width": 2199,
+    "height": 3282,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/patrick-wimmer.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

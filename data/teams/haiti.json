@@ -1,0 +1,1498 @@
+{
+  "slug": "haiti",
+  "country": "Haiti",
+  "wikidata_qid": "Q236006",
+  "fetched_at": "2026-05-24T14:49:52+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "johny-placide",
+      "display_name": "Johny Placide",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1988-01-29",
+      "age": 38,
+      "caps": 79,
+      "goals": 0,
+      "club_from_squad_table": "Bastia",
+      "wikipedia_title": "Johny Placide",
+      "date_of_birth": "1988-01-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bastia",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q2749342",
+      "qid": "Q2749342",
+      "name": "Johnny Placide",
+      "description": "Haitian footballer",
+      "place_of_birth_qid": "Q237367",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 181.0,
+      "weight_kg": 84.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q208228",
+          "start": "2013-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q328658",
+          "start": "2007-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q328658",
+          "start": "2008-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q20807715",
+          "start": "2008-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q236006",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q459148",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q19601",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        }
+      ],
+      "current_club_qid": "Q19601",
+      "image_filename": "Johny Placide.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johny_Placide",
+      "transfermarkt_id": "51035",
+      "fifa_player_id": "295922",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Montfermeil",
+      "wikidata_current_club": "Oldham Athletic A.F.C.",
+      "wikidata_current_club_qid": "Q19601",
+      "photo": {
+        "filename": "Johny Placide.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Johny_Placide.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johny_Placide.jpg/960px-Johny_Placide.jpg",
+        "width": 1504,
+        "height": 1848,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Warrenfish\" title=\"User:Warrenfish\">Warrenfish</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/johny-placide.jpg"
+      }
+    },
+    {
+      "slug": "alexandre-pierre",
+      "display_name": "Alexandre Pierre",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2001-02-25",
+      "age": 25,
+      "caps": 14,
+      "goals": 0,
+      "club_from_squad_table": "Sochaux",
+      "wikipedia_title": "Alexandre Pierre",
+      "date_of_birth": "2001-02-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sochaux",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q112623666",
+      "qid": "Q112623666",
+      "name": "Alexandre Pierre",
+      "description": "French and Haitian association football player",
+      "place_of_birth_qid": "Q205632",
+      "citizenship_qids": [
+        "Q142",
+        "Q790"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 83.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q109507023",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        }
+      ],
+      "current_club_qid": "Q109507023",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexandre_Pierre",
+      "transfermarkt_id": "838947",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "France",
+        "Haiti"
+      ],
+      "place_of_birth": "Aubervilliers",
+      "wikidata_current_club": "Stade Lavallois B",
+      "wikidata_current_club_qid": "Q109507023",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "josué-duverger",
+      "display_name": "Josué Duverger",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2000-04-27",
+      "age": 26,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Cosmos Koblenz",
+      "wikipedia_title": "Josué Duverger",
+      "date_of_birth": "2000-04-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cosmos Koblenz",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q42926090",
+      "qid": "Q42926090",
+      "name": "Josué Duverger",
+      "description": "association football player",
+      "place_of_birth_qid": "Q340",
+      "citizenship_qids": [
+        "Q16"
+      ],
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q208585",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q208585",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Josu%C3%A9_Duverger",
+      "transfermarkt_id": "490369",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Canada"
+      ],
+      "place_of_birth": "Montreal",
+      "wikidata_current_club": "Vitória F.C.",
+      "wikidata_current_club_qid": "Q208585",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ricardo-adé",
+      "display_name": "Ricardo Adé",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1990-05-21",
+      "age": 36,
+      "caps": 57,
+      "goals": 2,
+      "club_from_squad_table": "LDU Quito",
+      "wikipedia_title": "Ricardo Adé",
+      "date_of_birth": "1990-05-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "LDU Quito",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28801770",
+      "qid": "Q28801770",
+      "name": "Ricardo Adé",
+      "description": "association football player",
+      "place_of_birth_qid": "Q132189",
+      "citizenship_qids": [
+        "Q790"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 83.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q515425",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q515425",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ricardo_Ad%C3%A9",
+      "transfermarkt_id": "278145",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Haiti"
+      ],
+      "place_of_birth": "Saint-Marc",
+      "wikidata_current_club": "Club Deportivo Magallanes",
+      "wikidata_current_club_qid": "Q515425",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "carlens-arcus",
+      "display_name": "Carlens Arcus",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-06-28",
+      "age": 29,
+      "caps": 51,
+      "goals": 1,
+      "club_from_squad_table": "Angers",
+      "wikipedia_title": "Carlens Arcus",
+      "date_of_birth": "1996-06-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Angers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20740578",
+      "qid": "Q20740578",
+      "name": "Carlens Arcus",
+      "description": "Haitian footballer",
+      "place_of_birth_qid": "Q34261",
+      "citizenship_qids": [
+        "Q790"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q236006",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q501693",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q638657",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q501693",
+      "image_filename": "Lens B - Troyes B (13-02-2016) 48.JPG",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carlens_Arcus",
+      "transfermarkt_id": "371686",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Haiti"
+      ],
+      "place_of_birth": "Port-au-Prince",
+      "wikidata_current_club": "ES Troyes AC",
+      "wikidata_current_club_qid": "Q501693",
+      "photo": {
+        "filename": "Lens B - Troyes B (13-02-2016) 48.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lens_B_-_Troyes_B_%2813-02-2016%29_48.JPG",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lens_B_-_Troyes_B_%2813-02-2016%29_48.JPG",
+        "width": 693,
+        "height": 914,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterhéninois (page does not exist)\">Supporterhéninois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/carlens-arcus.JPG"
+      }
+    },
+    {
+      "slug": "martin-expérience",
+      "display_name": "Martin Expérience",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-03-09",
+      "age": 27,
+      "caps": 19,
+      "goals": 0,
+      "club_from_squad_table": "Nancy",
+      "wikipedia_title": "Martin Expérience",
+      "date_of_birth": "1999-03-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nancy",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107426681",
+      "qid": "Q107426681",
+      "name": "Martin Experiénce",
+      "description": "Haitian footballer",
+      "place_of_birth_qid": "Q211187",
+      "citizenship_qids": [
+        "Q142",
+        "Q790"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Exp%C3%A9rience",
+      "transfermarkt_id": "804885",
+      "wikidata_date_of_birth": "1998-03-09",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "France",
+        "Haiti"
+      ],
+      "place_of_birth": "Châteaubriant",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jean-kévin-duverne",
+      "display_name": "Jean-Kévin Duverne",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-07-12",
+      "age": 28,
+      "caps": 15,
+      "goals": 1,
+      "club_from_squad_table": "Gent",
+      "wikipedia_title": "Jean-Kévin Duverne",
+      "date_of_birth": "1997-07-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Gent",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26251605",
+      "qid": "Q26251605",
+      "name": "Jean-Kévin Duverne",
+      "description": "French-Haitian association football player",
+      "place_of_birth_qid": "Q90",
+      "citizenship_qids": [
+        "Q142",
+        "Q790"
+      ],
+      "height_cm": 1.84,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q191843",
+          "start": "2016-09-14",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q191843",
+      "image_filename": "RC Lens - FC Nantes (28-10-2023) - Duverne.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-K%C3%A9vin_Duverne",
+      "transfermarkt_id": "344864",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "France",
+        "Haiti"
+      ],
+      "place_of_birth": "Paris",
+      "wikidata_current_club": "R.C. Lens",
+      "wikidata_current_club_qid": "Q191843",
+      "photo": {
+        "filename": "RC Lens - FC Nantes (28-10-2023) - Duverne.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/RC_Lens_-_FC_Nantes_%2828-10-2023%29_-_Duverne.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/RC_Lens_-_FC_Nantes_%2828-10-2023%29_-_Duverne.jpg/960px-RC_Lens_-_FC_Nantes_%2828-10-2023%29_-_Duverne.jpg",
+        "width": 1032,
+        "height": 1224,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:SonoGrazy\" title=\"User:SonoGrazy\">SonoGrazy</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jean-kévin-duverne.jpg"
+      }
+    },
+    {
+      "slug": "duke-lacroix",
+      "display_name": "Duke Lacroix",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1993-10-14",
+      "age": 32,
+      "caps": 14,
+      "goals": 2,
+      "club_from_squad_table": "Colorado Springs Switchbacks",
+      "wikipedia_title": "Duke Lacroix",
+      "date_of_birth": "1993-10-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Colorado Springs Switchbacks",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21621771",
+      "qid": "Q21621771",
+      "name": "Duke Lacroix",
+      "description": "professional footballer",
+      "place_of_birth_qid": "Q1087154",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "position_qids": [
+        "Q280658",
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q6023905",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q7075961",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q18148271",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q19867571",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q6023905",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Duke_Lacroix",
+      "transfermarkt_id": "375472",
+      "positions": [
+        "forward",
+        "defender"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "New Egypt",
+      "wikidata_current_club": "Indy Eleven",
+      "wikidata_current_club_qid": "Q6023905",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "wilguens-paugain",
+      "display_name": "Wilguens Paugain",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-08-24",
+      "age": 24,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Zulte Waregem",
+      "wikipedia_title": "Wilguens Paugain",
+      "date_of_birth": "2001-08-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Zulte Waregem",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q128210274",
+      "qid": "Q128210274",
+      "name": "Wilguens Paugain",
+      "description": "French association football player",
+      "place_of_birth_qid": "Q2711243",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wilguens_Paugain",
+      "transfermarkt_id": "609691",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Thomazeau",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "hannes-delcroix",
+      "display_name": "Hannes Delcroix",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-02-28",
+      "age": 27,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Lugano",
+      "wikipedia_title": "Hannes Delcroix",
+      "date_of_birth": "1999-02-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lugano",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q56011432",
+      "qid": "Q56011432",
+      "name": "Hannes Delcroix",
+      "description": "Haitian association football player (born 1999)",
+      "place_of_birth_qid": "Q2711253",
+      "citizenship_qids": [
+        "Q790",
+        "Q31"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q187528",
+          "start": "2018-07-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q24699",
+          "start": "2019-07-12",
+          "end": "2020-06-30"
+        }
+      ],
+      "current_club_qid": "Q187528",
+      "image_filename": "FC Red Bull Salzburg gegen RSC Anderlecht (Testspiel 7. Juli 2017) 50.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hannes_Delcroix",
+      "transfermarkt_id": "338635",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Haiti",
+        "Belgium"
+      ],
+      "place_of_birth": "Petite-Rivière-de-l'Artibonite",
+      "wikidata_current_club": "R.S.C. Anderlecht",
+      "wikidata_current_club_qid": "Q187528",
+      "photo": {
+        "filename": "FC Red Bull Salzburg gegen RSC Anderlecht (Testspiel 7. Juli 2017) 50.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FC_Red_Bull_Salzburg_gegen_RSC_Anderlecht_%28Testspiel_7._Juli_2017%29_50.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FC_Red_Bull_Salzburg_gegen_RSC_Anderlecht_%28Testspiel_7._Juli_2017%29_50.jpg/960px-FC_Red_Bull_Salzburg_gegen_RSC_Anderlecht_%28Testspiel_7._Juli_2017%29_50.jpg",
+        "width": 1582,
+        "height": 2247,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/hannes-delcroix.jpg"
+      }
+    },
+    {
+      "slug": "keeto-thermoncy",
+      "display_name": "Keeto Thermoncy",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2006-03-29",
+      "age": 20,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Young Boys",
+      "wikipedia_title": "Keeto Thermoncy",
+      "date_of_birth": "2006-03-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Young Boys",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q136466749",
+      "qid": "Q136466749",
+      "name": "Keeto Thermoncy",
+      "description": "footballer",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Keeto_Thermoncy",
+      "transfermarkt_id": "1061046",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "leverton-pierre",
+      "display_name": "Leverton Pierre",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-03-09",
+      "age": 28,
+      "caps": 33,
+      "goals": 0,
+      "club_from_squad_table": "Vizela",
+      "wikipedia_title": "Leverton Pierre",
+      "date_of_birth": "1998-03-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Vizela",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q49004376",
+      "qid": "Q49004376",
+      "name": "Leverton Pierre",
+      "description": "association football player",
+      "place_of_birth_qid": "Q926648",
+      "citizenship_qids": [
+        "Q790"
+      ],
+      "height_cm": 181.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q270051",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q270051",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leverton_Pierre",
+      "transfermarkt_id": "552467",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Haiti"
+      ],
+      "place_of_birth": "Tabarre",
+      "wikidata_current_club": "A.C. Ajaccio",
+      "wikidata_current_club_qid": "Q270051",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "danley-jean-jacques",
+      "display_name": "Danley Jean Jacques",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-05-20",
+      "age": 26,
+      "caps": 28,
+      "goals": 6,
+      "club_from_squad_table": "Philadelphia Union",
+      "wikipedia_title": "Danley Jean Jacques",
+      "date_of_birth": "2000-05-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Philadelphia Union",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q113393306",
+      "qid": "Q113393306",
+      "name": "Danley Jean Jacques",
+      "description": "Haitian footballer",
+      "place_of_birth_qid": "Q2009853",
+      "citizenship_qids": [
+        "Q790"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Danley Jean Jacques Philadelphia Union New York City FC Nov 23 2025-062 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Danley_Jean_Jacques",
+      "transfermarkt_id": "628834",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Haiti"
+      ],
+      "place_of_birth": "Petit-Goâve",
+      "photo": {
+        "filename": "Danley Jean Jacques Philadelphia Union New York City FC Nov 23 2025-062 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Danley_Jean_Jacques_Philadelphia_Union_New_York_City_FC_Nov_23_2025-062_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Danley_Jean_Jacques_Philadelphia_Union_New_York_City_FC_Nov_23_2025-062_%28cropped%29.jpg/960px-Danley_Jean_Jacques_Philadelphia_Union_New_York_City_FC_Nov_23_2025-062_%28cropped%29.jpg",
+        "width": 3175,
+        "height": 4231,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/danley-jean-jacques.jpg"
+      }
+    },
+    {
+      "slug": "carl-sainté",
+      "display_name": "Carl Sainté",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-08-09",
+      "age": 23,
+      "caps": 25,
+      "goals": 0,
+      "club_from_squad_table": "El Paso Locomotive FC",
+      "wikipedia_title": "Carl Sainté",
+      "date_of_birth": "2002-08-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "El Paso Locomotive FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q111345092",
+      "qid": "Q111345092",
+      "name": "Carl Sainté",
+      "description": "Haitian footballer",
+      "place_of_birth_qid": "Q2536972",
+      "citizenship_qids": [
+        "Q790"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Saint%C3%A9",
+      "transfermarkt_id": "718244",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Haiti"
+      ],
+      "place_of_birth": "Grand-Goâve",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jean-ricner-bellegarde",
+      "display_name": "Jean-Ricner Bellegarde",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-06-27",
+      "age": 27,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Wolverhampton Wanderers",
+      "wikipedia_title": "Jean-Ricner Bellegarde",
+      "date_of_birth": "1998-06-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Wolverhampton Wanderers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26251607",
+      "qid": "Q26251607",
+      "name": "Jean-Ricner Bellegarde",
+      "description": "French footballer (born 1998)",
+      "place_of_birth_qid": "Q174002",
+      "citizenship_qids": [
+        "Q142",
+        "Q790"
+      ],
+      "height_cm": 1.72,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q191843",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q126334",
+          "start": "2019-07-02",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q126334",
+      "image_filename": "Lens B - AC Amiens (12-09-2015) 64.JPG",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Ricner_Bellegarde",
+      "transfermarkt_id": "450050",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France",
+        "Haiti"
+      ],
+      "place_of_birth": "Colombes",
+      "wikidata_current_club": "RC Strasbourg Alsace",
+      "wikidata_current_club_qid": "Q126334",
+      "photo": {
+        "filename": "Lens B - AC Amiens (12-09-2015) 64.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Lens_B_-_AC_Amiens_%2812-09-2015%29_64.JPG",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Lens_B_-_AC_Amiens_%2812-09-2015%29_64.JPG/960px-Lens_B_-_AC_Amiens_%2812-09-2015%29_64.JPG",
+        "width": 1880,
+        "height": 1408,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterhéninois (page does not exist)\">Supporterhéninois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jean-ricner-bellegarde.JPG"
+      }
+    },
+    {
+      "slug": "woodensky-pierre",
+      "display_name": "Woodensky Pierre",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-12-30",
+      "age": 21,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Violette",
+      "wikipedia_title": "Woodensky Pierre",
+      "date_of_birth": "2004-12-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Violette",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q139813358",
+      "qid": "Q139813358",
+      "name": "Woodensky Pierre",
+      "description": "Haitian footballer (born 2004)",
+      "place_of_birth_qid": "Q1016929",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Woodensky_Pierre",
+      "transfermarkt_id": "1017735",
+      "place_of_birth": "Cité Soleil",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "dominique-simon",
+      "display_name": "Dominique Simon",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-07-29",
+      "age": 25,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Tatran Prešov",
+      "wikipedia_title": "Dominique Simon",
+      "date_of_birth": "2000-07-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Tatran Prešov",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q124392516",
+      "qid": "Q124392516",
+      "name": "Dominique Simon",
+      "description": "French association football player",
+      "place_of_birth_qid": "Q201352",
+      "citizenship_qids": [
+        "Q142",
+        "Q790"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dominique_Simon",
+      "transfermarkt_id": "988188",
+      "citizenship": [
+        "France",
+        "Haiti"
+      ],
+      "place_of_birth": "Pontoise",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "duckens-nazon",
+      "display_name": "Duckens Nazon",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1994-04-07",
+      "age": 32,
+      "caps": 76,
+      "goals": 44,
+      "club_from_squad_table": "Esteghlal",
+      "wikipedia_title": "Duckens Nazon",
+      "date_of_birth": "1994-04-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Esteghlal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16916422",
+      "qid": "Q16916422",
+      "name": "Duckens Nazon",
+      "description": "Haitian and French footballer",
+      "place_of_birth_qid": "Q200945",
+      "citizenship_qids": [
+        "Q790",
+        "Q142"
+      ],
+      "height_cm": 181.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q236006",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q760736",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3291331",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q3351700",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        }
+      ],
+      "current_club_qid": "Q760736",
+      "image_filename": "2025 Iran Football Premier League Esteghlal and Zob Ahan football match 3 Mehr (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Duckens_Nazon",
+      "transfermarkt_id": "345763",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Haiti",
+        "France"
+      ],
+      "place_of_birth": "Châtenay-Malabry",
+      "wikidata_current_club": "Stade Lavallois",
+      "wikidata_current_club_qid": "Q760736",
+      "photo": {
+        "filename": "2025 Iran Football Premier League Esteghlal and Zob Ahan football match 3 Mehr (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/2025_Iran_Football_Premier_League_Esteghlal_and_Zob_Ahan_football_match_3_Mehr_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/2025_Iran_Football_Premier_League_Esteghlal_and_Zob_Ahan_football_match_3_Mehr_%28cropped%29.jpg",
+        "width": 656,
+        "height": 843,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Fouad Ashtari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/duckens-nazon.jpg"
+      }
+    },
+    {
+      "slug": "frantzdy-pierrot",
+      "display_name": "Frantzdy Pierrot",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1995-03-29",
+      "age": 31,
+      "caps": 49,
+      "goals": 33,
+      "club_from_squad_table": "Çaykur Rizespor",
+      "wikipedia_title": "Frantzdy Pierrot",
+      "date_of_birth": "1995-03-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Çaykur Rizespor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q55820193",
+      "qid": "Q55820193",
+      "name": "Frantzdy Pierrot",
+      "description": "Haitian association footballer",
+      "place_of_birth_qid": "Q34261",
+      "citizenship_qids": [
+        "Q790",
+        "Q30"
+      ],
+      "height_cm": 194.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7300584",
+          "start": "2017-05-00",
+          "end": "2017-06-00"
+        },
+        {
+          "team_qid": "Q865735",
+          "start": "2018-07-00",
+          "end": "2018-08-00"
+        },
+        {
+          "team_qid": "Q459148",
+          "start": "2019-08-00",
+          "end": "2022-06-00"
+        },
+        {
+          "team_qid": "Q2129100",
+          "start": "2022-07-00",
+          "end": "2024-09-00"
+        },
+        {
+          "team_qid": "Q236006",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q642408",
+          "start": "2018-01-00",
+          "end": "2018-02-00"
+        },
+        {
+          "team_qid": "Q201584",
+          "start": "2024-09-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q272712",
+          "start": "2026-02-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q272712",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Frantzdy_Pierrot",
+      "transfermarkt_id": "492955",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Haiti",
+        "United States"
+      ],
+      "place_of_birth": "Port-au-Prince",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "derrick-etienne-jr",
+      "display_name": "Derrick Etienne Jr.",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-11-25",
+      "age": 29,
+      "caps": 46,
+      "goals": 8,
+      "club_from_squad_table": "Toronto FC",
+      "wikipedia_title": "Derrick Etienne Jr.",
+      "date_of_birth": "1996-11-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Toronto FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21005754",
+      "qid": "Q21005754",
+      "name": "Derrick Etienne Jr.",
+      "description": "Haitian-American soccer player",
+      "place_of_birth_qid": "Q43421",
+      "citizenship_qids": [
+        "Q790",
+        "Q30"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q193592",
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q204220",
+          "start": "2016-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q18913672",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q18913672",
+          "start": "2016-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q3589794",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q20807714",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q20807715",
+          "start": "2015-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q236006",
+          "start": "2016-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q20855983",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q457163",
+          "start": "2020-00-00",
+          "end": "2022-12-00"
+        },
+        {
+          "team_qid": "Q16836317",
+          "start": "2023-01-00",
+          "end": "2024-04-00"
+        },
+        {
+          "team_qid": "Q47175799",
+          "start": "2023-09-00",
+          "end": "2024-04-00"
+        },
+        {
+          "team_qid": "Q327238",
+          "start": "2024-04-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q327238",
+      "image_filename": "Derrick Etienne (28411015376) (cropped2).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Derrick_Etienne_Jr.",
+      "transfermarkt_id": "354763",
+      "positions": [
+        "midfielder",
+        "forward"
+      ],
+      "citizenship": [
+        "Haiti",
+        "United States"
+      ],
+      "place_of_birth": "Richmond",
+      "photo": {
+        "filename": "Derrick Etienne (28411015376) (cropped2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Derrick_Etienne_%2828411015376%29_%28cropped2%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Derrick_Etienne_%2828411015376%29_%28cropped2%29.jpg/960px-Derrick_Etienne_%2828411015376%29_%28cropped2%29.jpg",
+        "width": 1228,
+        "height": 1477,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65581273@N05\">Hayden Schiff</a> from Cincinnati, USA",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/derrick-etienne-jr.jpg"
+      }
+    },
+    {
+      "slug": "louicius-deedson",
+      "display_name": "Louicius Deedson",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-02-11",
+      "age": 25,
+      "caps": 30,
+      "goals": 10,
+      "club_from_squad_table": "FC Dallas",
+      "wikipedia_title": "Louicius Deedson",
+      "date_of_birth": "2001-02-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "FC Dallas",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q72697581",
+      "qid": "Q72697581",
+      "name": "Louicius Don Deedson",
+      "description": "Haitian footballer",
+      "place_of_birth_qid": "Q926648",
+      "citizenship_qids": [
+        "Q790"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q17165601",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q17165601",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Louicius_Deedson",
+      "transfermarkt_id": "646108",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Haiti"
+      ],
+      "place_of_birth": "Tabarre",
+      "wikidata_current_club": "Hobro IK",
+      "wikidata_current_club_qid": "Q17165601",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ruben-providence",
+      "display_name": "Ruben Providence",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-07-07",
+      "age": 24,
+      "caps": 13,
+      "goals": 2,
+      "club_from_squad_table": "Almere City",
+      "wikipedia_title": "Ruben Providence",
+      "date_of_birth": "2001-07-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Almere City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q114355328",
+      "qid": "Q114355328",
+      "name": "Ruben Providence",
+      "description": "French footballer (born 2001)",
+      "place_of_birth_qid": "Q9155",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 178.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ruben_Providence",
+      "transfermarkt_id": "536520",
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Lagny-sur-Marne",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "josué-casimir",
+      "display_name": "Josué Casimir",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-09-24",
+      "age": 24,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Auxerre",
+      "wikipedia_title": "Josué Casimir",
+      "date_of_birth": "2001-09-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Auxerre",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q100792937",
+      "qid": "Q100792937",
+      "name": "Josué Casimir",
+      "description": "Guadeloupean footballer",
+      "place_of_birth_qid": "Q660165",
+      "citizenship_qids": [
+        "Q142",
+        "Q790"
+      ],
+      "height_cm": 178.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Josu%C3%A9_Casimir",
+      "transfermarkt_id": "763182",
+      "citizenship": [
+        "France",
+        "Haiti"
+      ],
+      "place_of_birth": "Baie-Mahault",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "yassin-fortuné",
+      "display_name": "Yassin Fortuné",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-01-30",
+      "age": 27,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Vizela",
+      "wikipedia_title": "Yassin Fortuné",
+      "date_of_birth": "1999-01-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Vizela",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q23772079",
+      "qid": "Q23772079",
+      "name": "Yassin Fortuné",
+      "description": "French association football player",
+      "place_of_birth_qid": "Q205632",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 184.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q9617",
+          "start": "2015-01-01",
+          "end": "2018-06-12"
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q321061",
+          "start": "2018-06-12",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q321061",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yassin_Fortun%C3%A9",
+      "transfermarkt_id": "342878",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Aubervilliers",
+      "wikidata_current_club": "FC Sion",
+      "wikidata_current_club_qid": "Q321061",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "wilson-isidor",
+      "display_name": "Wilson Isidor",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-08-27",
+      "age": 25,
+      "caps": 2,
+      "goals": 1,
+      "club_from_squad_table": "Sunderland",
+      "wikipedia_title": "Wilson Isidor",
+      "date_of_birth": "2000-08-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sunderland",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q58484930",
+      "qid": "Q58484930",
+      "name": "Wilson Isidor",
+      "description": "French association football player",
+      "place_of_birth_qid": "Q647",
+      "citizenship_qids": [
+        "Q142",
+        "Q790"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q180305",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q760736",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        }
+      ],
+      "current_club_qid": "Q180305",
+      "image_filename": "Wilson Isidor in 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wilson_Isidor",
+      "transfermarkt_id": "494237",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "France",
+        "Haiti"
+      ],
+      "place_of_birth": "Rennes",
+      "wikidata_current_club": "AS Monaco FC",
+      "wikidata_current_club_qid": "Q180305",
+      "photo": {
+        "filename": "Wilson Isidor in 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Wilson_Isidor_in_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Wilson_Isidor_in_2022.jpg",
+        "width": 431,
+        "height": 788,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Антон Зайцев",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/wilson-isidor.jpg"
+      }
+    },
+    {
+      "slug": "lenny-joseph",
+      "display_name": "Lenny Joseph",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-10-12",
+      "age": 25,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Ferencváros",
+      "wikipedia_title": "Lenny Joseph",
+      "date_of_birth": "2000-10-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Ferencváros",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q108000394",
+      "qid": "Q108000394",
+      "name": "Lenny Joseph",
+      "description": "French footballer",
+      "place_of_birth_qid": "Q142",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 183.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lenny_Joseph",
+      "transfermarkt_id": "815359",
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "France",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    }
+  ],
+  "notes": [
+    "Haiti photo audit 2026-05-24: verifier found no clean Wikimedia portrait for 17 players; Ruben Providence, Yassin Fortuné, and Lenny Joseph only had non-clean match/group/watermarked Commons candidates, so those rows are marked wikimedia-reviewed-none."
+  ]
+}

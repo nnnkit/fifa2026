@@ -1,0 +1,87 @@
+{
+  "slug": "joel-waterman",
+  "display_name": "Joel Waterman",
+  "shirt_no": 5,
+  "position_code": "DF",
+  "dob": "1996-01-24",
+  "age": 30,
+  "caps": 17,
+  "goals": 0,
+  "club_from_squad_table": "Chicago Fire",
+  "wikipedia_title": "Joel Waterman",
+  "wikidata_qid": "Q63700064",
+  "qid": "Q63700064",
+  "name": "Joel Waterman",
+  "description": "Canadian soccer player",
+  "date_of_birth": "1996-01-24",
+  "place_of_birth_qid": "Q1805330",
+  "citizenship_qids": [
+    "Q16"
+  ],
+  "height_cm": 188.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q6418318",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q55075185",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q19876568",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q53795705",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q167615",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q208635",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q167615",
+  "image_filename": "Joel Waterman Philadelphia Chicago 10.26.25-025 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joel_Waterman",
+  "transfermarkt_id": "441738",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Chicago Fire",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Canada"
+  ],
+  "place_of_birth": "Langley",
+  "wikidata_current_club": "CF Montr\u00e9al",
+  "wikidata_current_club_qid": "Q167615",
+  "photo": {
+    "filename": "Joel Waterman Philadelphia Chicago 10.26.25-025 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Joel_Waterman_Philadelphia_Chicago_10.26.25-025_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Joel_Waterman_Philadelphia_Chicago_10.26.25-025_%28cropped%29.jpg/960px-Joel_Waterman_Philadelphia_Chicago_10.26.25-025_%28cropped%29.jpg",
+    "width": 3184,
+    "height": 4243,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/joel-waterman.jpg"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

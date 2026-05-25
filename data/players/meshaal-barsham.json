@@ -1,0 +1,67 @@
+{
+  "slug": "meshaal-barsham",
+  "display_name": "Meshaal Barsham",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1998-02-14",
+  "age": 28,
+  "caps": 52,
+  "goals": 0,
+  "club_from_squad_table": "Al-Sadd",
+  "wikipedia_title": "Meshaal Barsham",
+  "date_of_birth": "1998-02-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Sadd",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q52771823",
+  "qid": "Q52771823",
+  "name": "Meshal Barsham",
+  "description": "association football player",
+  "place_of_birth_qid": "Q3861",
+  "citizenship_qids": [
+    "Q846"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q283545",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q283545",
+  "image_filename": "Qatar v Lebanon (32) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Meshaal_Barsham",
+  "transfermarkt_id": "560423",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Qatar"
+  ],
+  "place_of_birth": "Doha",
+  "wikidata_current_club": "Al Sadd Sports Club",
+  "wikidata_current_club_qid": "Q283545",
+  "photo": {
+    "filename": "Qatar v Lebanon (32) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Qatar_v_Lebanon_%2832%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Qatar_v_Lebanon_%2832%29_%28cropped%29.jpg",
+    "width": 349,
+    "height": 567,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Foad Ashtari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/meshaal-barsham.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

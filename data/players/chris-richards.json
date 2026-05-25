@@ -1,0 +1,82 @@
+{
+  "slug": "chris-richards",
+  "display_name": "Chris Richards",
+  "shirt_no": 3,
+  "position_code": "DF",
+  "dob": "2000-03-28",
+  "age": 26,
+  "caps": 36,
+  "goals": 3,
+  "club_from_squad_table": "Crystal Palace",
+  "wikipedia_title": "Chris Richards (soccer)",
+  "date_of_birth": "2000-03-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Crystal Palace",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q60839691",
+  "qid": "Q60839691",
+  "name": "Chris Richards",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q79867",
+  "citizenship_qids": [
+    "Q30"
+  ],
+  "height_cm": 1.88,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q994701",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q287804",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590572",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q164134",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q15789",
+  "image_filename": "Chris Richards (soccer).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Richards_(soccer)",
+  "transfermarkt_id": "578539",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "United States"
+  ],
+  "place_of_birth": "Birmingham",
+  "wikidata_current_club": "FC Bayern Munich",
+  "wikidata_current_club_qid": "Q15789",
+  "photo": {
+    "filename": "Chris Richards (soccer).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Chris_Richards_%28soccer%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chris_Richards_%28soccer%29.jpg/960px-Chris_Richards_%28soccer%29.jpg",
+    "width": 1016,
+    "height": 1740,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Pedro  Semitiel",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/chris-richards.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

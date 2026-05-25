@@ -1,0 +1,133 @@
+{
+  "slug": "jordan-pickford",
+  "display_name": "Jordan Pickford",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1994-03-07",
+  "age": 32,
+  "caps": 82,
+  "goals": 0,
+  "club_from_squad_table": "Everton",
+  "wikipedia_title": "Jordan Pickford",
+  "date_of_birth": "1994-03-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Everton",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q13014035",
+  "qid": "Q13014035",
+  "name": "Jordan Pickford",
+  "description": "English association football player (born 1994)",
+  "place_of_birth_qid": "Q1018448",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18739",
+      "start": "2011-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q909189",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q18506",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q48929",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q19575",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q48879",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q19612",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q5794",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q4201740",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q2752922",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q1049171",
+      "start": "2010-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q2358861",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1049176",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2015-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q47762",
+      "start": "2017-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q5794",
+  "image_filename": "Jordan Pickford 2022-07-16 1.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jordan_Pickford",
+  "transfermarkt_id": "130164",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Washington",
+  "wikidata_current_club": "Everton F.C.",
+  "wikidata_current_club_qid": "Q5794",
+  "photo": {
+    "filename": "Jordan Pickford 2022-07-16 1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Jordan_Pickford_2022-07-16_1.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Jordan_Pickford_2022-07-16_1.jpg",
+    "width": 612,
+    "height": 938,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Maryland GovPics",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jordan-pickford.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

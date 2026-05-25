@@ -1,0 +1,2467 @@
+{
+  "slug": "portugal",
+  "country": "Portugal",
+  "wikidata_qid": "Q267245",
+  "fetched_at": "2026-05-24T17:26:27+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "diogo-costa",
+      "display_name": "Diogo Costa",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1999-09-19",
+      "age": 26,
+      "caps": 42,
+      "goals": 0,
+      "club_from_squad_table": "Porto",
+      "wikipedia_title": "Diogo Costa",
+      "date_of_birth": "1999-09-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Porto",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26255578",
+      "qid": "Q26255578",
+      "name": "Diogo Costa",
+      "description": "Portuguese footballer (born 1999)",
+      "place_of_birth_qid": "Q64482",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 192.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q128446",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q128446",
+      "image_filename": "Diogo Costa.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diogo_Costa",
+      "transfermarkt_id": "357153",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Rothrist",
+      "wikidata_current_club": "FC Porto",
+      "wikidata_current_club_qid": "Q128446",
+      "photo": {
+        "filename": "Diogo Costa.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Diogo_Costa.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Diogo_Costa.jpg",
+        "width": 472,
+        "height": 904,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0415\u043b\u0435\u043d\u0430 \u0420\u044b\u0431\u0430\u043a\u043e\u0432\u0430",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/diogo-costa.jpg"
+      }
+    },
+    {
+      "slug": "jos\u00e9-s\u00e1",
+      "display_name": "Jos\u00e9 S\u00e1",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1993-01-17",
+      "age": 33,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Wolverhampton Wanderers",
+      "wikipedia_title": "Jos\u00e9 S\u00e1",
+      "date_of_birth": "1993-01-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Wolverhampton Wanderers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q6294052",
+      "qid": "Q6294052",
+      "name": "Jos\u00e9 S\u00e1",
+      "description": "Portuguese association footballer",
+      "place_of_birth_qid": "Q83247",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 192.0,
+      "weight_kg": 86.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q216503",
+          "start": "2013-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q5006215",
+          "start": "2012-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q5423714",
+          "start": "2016-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q128446",
+          "start": "2016-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1772776",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3590758",
+          "start": "2016-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q5423714",
+      "image_filename": "Mex-por-109 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_S%C3%A1",
+      "transfermarkt_id": "249994",
+      "fifa_player_id": "368689",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Braga",
+      "wikidata_current_club": "FC Porto B",
+      "wikidata_current_club_qid": "Q5423714",
+      "photo": {
+        "filename": "Mex-por-109 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mex-por-109_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mex-por-109_%28cropped%29.jpg",
+        "width": 278,
+        "height": 324,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0421\u0430\u0434\u043e\u0432\u043d\u0438\u043a\u043e\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jos\u00e9-s\u00e1.jpg"
+      }
+    },
+    {
+      "slug": "rui-silva",
+      "display_name": "Rui Silva",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1994-02-07",
+      "age": 32,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Sporting CP",
+      "wikipedia_title": "Rui Silva (footballer, born 1994)",
+      "date_of_birth": "1994-02-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sporting CP",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16236537",
+      "qid": "Q16236537",
+      "name": "Rui Silva",
+      "description": "Portuguese footballer",
+      "place_of_birth_qid": "Q990403",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 189.0,
+      "weight_kg": 87.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q216459",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3873524",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1772776",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        }
+      ],
+      "current_club_qid": "Q216459",
+      "image_filename": "Rui Silva USMNT v Portugal Mar 31 2026-14.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rui_Silva_(footballer,_born_1994)",
+      "transfermarkt_id": "234811",
+      "fifa_player_id": "400074635",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Maia",
+      "wikidata_current_club": "C.D. Nacional",
+      "wikidata_current_club_qid": "Q216459",
+      "photo": {
+        "filename": "Rui Silva USMNT v Portugal Mar 31 2026-14.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Rui_Silva_USMNT_v_Portugal_Mar_31_2026-14.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Rui_Silva_USMNT_v_Portugal_Mar_31_2026-14.jpg/960px-Rui_Silva_USMNT_v_Portugal_Mar_31_2026-14.jpg",
+        "width": 3333,
+        "height": 5000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/rui-silva.jpg"
+      }
+    },
+    {
+      "slug": "r\u00faben-dias",
+      "display_name": "R\u00faben Dias",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-05-14",
+      "age": 29,
+      "caps": 74,
+      "goals": 3,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "R\u00faben Dias",
+      "date_of_birth": "1997-05-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21621168",
+      "qid": "Q21621168",
+      "name": "R\u00faben Dias",
+      "description": "Portuguese association football player",
+      "place_of_birth_qid": "Q189166",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7387221",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q7232579",
+          "start": "2013-00-00",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q3590754",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q3873524",
+          "start": "2014-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q1772776",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2018-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "Ruben Dias, 14 November 2024 (4).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%BAben_Dias",
+      "transfermarkt_id": "258004",
+      "fifa_player_id": "201482417",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Amadora",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "Ruben Dias, 14 November 2024 (4).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ruben_Dias%2C_14_November_2024_%284%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ruben_Dias%2C_14_November_2024_%284%29.jpg/960px-Ruben_Dias%2C_14_November_2024_%284%29.jpg",
+        "width": 3303,
+        "height": 4005,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Web Summit",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/r\u00faben-dias.jpg"
+      }
+    },
+    {
+      "slug": "jo\u00e3o-cancelo",
+      "display_name": "Jo\u00e3o Cancelo",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1994-05-27",
+      "age": 32,
+      "caps": 66,
+      "goals": 12,
+      "club_from_squad_table": "Barcelona",
+      "wikipedia_title": "Jo\u00e3o Cancelo",
+      "date_of_birth": "1994-05-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barcelona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q6298063",
+      "qid": "Q6298063",
+      "name": "Jo\u00e3o Cancelo",
+      "description": "Portuguese association football player",
+      "place_of_birth_qid": "Q217394",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 182.0,
+      "weight_kg": 66.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q131499",
+          "start": "2014-00-00",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q10333",
+          "start": "2014-00-00",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q7387221",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q10333",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q7232579",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q3590754",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q3873511",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q3873524",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q1772776",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2014-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2019-00-00",
+          "end": "2024-08-27"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2023-09-01",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2016-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q73965",
+          "start": "2024-08-27",
+          "end": null
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2026-01-13",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q7156",
+      "image_filename": "Jo\u00e3o Cancelo USMNT v Portugal Mar 31 2026-30.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Cancelo",
+      "transfermarkt_id": "182712",
+      "fifa_player_id": "368649",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Barreiro",
+      "wikidata_current_club": "Futbol Club Barcelona",
+      "wikidata_current_club_qid": "Q7156",
+      "photo": {
+        "filename": "Jo\u00e3o Cancelo USMNT v Portugal Mar 31 2026-30.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Jo%C3%A3o_Cancelo_USMNT_v_Portugal_Mar_31_2026-30.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jo%C3%A3o_Cancelo_USMNT_v_Portugal_Mar_31_2026-30.jpg/960px-Jo%C3%A3o_Cancelo_USMNT_v_Portugal_Mar_31_2026-30.jpg",
+        "width": 3333,
+        "height": 5000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jo\u00e3o-cancelo.jpg"
+      }
+    },
+    {
+      "slug": "n\u00e9lson-semedo",
+      "display_name": "N\u00e9lson Semedo",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1993-11-16",
+      "age": 32,
+      "caps": 48,
+      "goals": 0,
+      "club_from_squad_table": "Fenerbah\u00e7e",
+      "wikipedia_title": "N\u00e9lson Semedo",
+      "date_of_birth": "1993-11-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fenerbah\u00e7e",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16235823",
+      "qid": "Q16235823",
+      "name": "N\u00e9lson Semedo",
+      "description": "Portuguese association football player (born 1993)",
+      "place_of_birth_qid": "Q597",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 177.0,
+      "weight_kg": 65.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7387221",
+          "start": "2012-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q176099",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2020-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q6601875",
+          "start": "2025-07-30",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q6601875",
+      "image_filename": "Mex-por-14 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/N%C3%A9lson_Semedo",
+      "transfermarkt_id": "231572",
+      "fifa_player_id": "395212",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Lisbon",
+      "wikidata_current_club": "Fenerbah\u00e7e Istanbul",
+      "wikidata_current_club_qid": "Q6601875",
+      "photo": {
+        "filename": "Mex-por-14 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Mex-por-14_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Mex-por-14_%28cropped%29.jpg",
+        "width": 351,
+        "height": 379,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0421\u0430\u0434\u043e\u0432\u043d\u0438\u043a\u043e\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/n\u00e9lson-semedo.jpg"
+      }
+    },
+    {
+      "slug": "nuno-mendes",
+      "display_name": "Nuno Mendes",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-06-19",
+      "age": 23,
+      "caps": 43,
+      "goals": 1,
+      "club_from_squad_table": "Paris Saint-Germain",
+      "wikipedia_title": "Nuno Mendes (footballer, born 2002)",
+      "date_of_birth": "2002-06-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris Saint-Germain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q96396963",
+      "qid": "Q96396963",
+      "name": "Nuno Mendes",
+      "description": "Portuguese association football player",
+      "place_of_birth_qid": "Q190187",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 1.83,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q75729",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q7232579",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q3590754",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q3873511",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q3873524",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q483020",
+      "image_filename": "FC Salzburg gegen Paris Saint-Germain UEFA Champions League 85 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nuno_Mendes_(footballer,_born_2002)",
+      "transfermarkt_id": "616341",
+      "fifa_player_id": "400125650",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Sintra",
+      "wikidata_current_club": "Paris Saint-Germain FC",
+      "wikidata_current_club_qid": "Q483020",
+      "photo": {
+        "filename": "FC Salzburg gegen Paris Saint-Germain UEFA Champions League 85 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/FC_Salzburg_gegen_Paris_Saint-Germain_UEFA_Champions_League_85_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/FC_Salzburg_gegen_Paris_Saint-Germain_UEFA_Champions_League_85_%28cropped%29.jpg/960px-FC_Salzburg_gegen_Paris_Saint-Germain_UEFA_Champions_League_85_%28cropped%29.jpg",
+        "width": 1128,
+        "height": 1556,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nuno-mendes.jpg"
+      }
+    },
+    {
+      "slug": "diogo-dalot",
+      "display_name": "Diogo Dalot",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-03-18",
+      "age": 27,
+      "caps": 33,
+      "goals": 3,
+      "club_from_squad_table": "Manchester United",
+      "wikipedia_title": "Diogo Dalot",
+      "date_of_birth": "1999-03-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26255506",
+      "qid": "Q26255506",
+      "name": "Diogo Dalot",
+      "description": "Portuguese footballer (born 1999)",
+      "place_of_birth_qid": "Q83247",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q128446",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q18656",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1543",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q128446",
+      "image_filename": "Diogo Dalot USMNT v Portugal Mar 31 2026-12.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diogo_Dalot",
+      "transfermarkt_id": "357147",
+      "fifa_player_id": "403002",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Braga",
+      "wikidata_current_club": "FC Porto",
+      "wikidata_current_club_qid": "Q128446",
+      "photo": {
+        "filename": "Diogo Dalot USMNT v Portugal Mar 31 2026-12.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Diogo_Dalot_USMNT_v_Portugal_Mar_31_2026-12.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Diogo_Dalot_USMNT_v_Portugal_Mar_31_2026-12.jpg/960px-Diogo_Dalot_USMNT_v_Portugal_Mar_31_2026-12.jpg",
+        "width": 3333,
+        "height": 5000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/diogo-dalot.jpg"
+      }
+    },
+    {
+      "slug": "gon\u00e7alo-in\u00e1cio",
+      "display_name": "Gon\u00e7alo In\u00e1cio",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-08-25",
+      "age": 24,
+      "caps": 20,
+      "goals": 2,
+      "club_from_squad_table": "Sporting CP",
+      "wikipedia_title": "Gon\u00e7alo In\u00e1cio",
+      "date_of_birth": "2001-08-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sporting CP",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q99955331",
+      "qid": "Q99955331",
+      "name": "Gon\u00e7alo In\u00e1cio",
+      "description": "Portuguese footballer",
+      "place_of_birth_qid": "Q328015",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q75729",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590754",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3873511",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q3873524",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1772776",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q75729",
+      "image_filename": "Gon\u00e7alo In\u00e1cio 2021.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gon%C3%A7alo_In%C3%A1cio",
+      "transfermarkt_id": "549006",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Almada",
+      "photo": {
+        "filename": "Gon\u00e7alo In\u00e1cio 2021.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gon%C3%A7alo_In%C3%A1cio_2021.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gon%C3%A7alo_In%C3%A1cio_2021.png",
+        "width": 634,
+        "height": 768,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCnJj6L93JX3Jrhzv81ayywA\">Sporting Clube de Portugal</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/gon\u00e7alo-in\u00e1cio.png"
+      }
+    },
+    {
+      "slug": "matheus-nunes",
+      "display_name": "Matheus Nunes",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-08-27",
+      "age": 27,
+      "caps": 19,
+      "goals": 2,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "Matheus Nunes",
+      "date_of_birth": "1998-08-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q96211488",
+      "qid": "Q96211488",
+      "name": "Matheus Nunes",
+      "description": "Portuguese association football player (born 1998)",
+      "place_of_birth_qid": "Q8678",
+      "citizenship_qids": [
+        "Q155",
+        "Q45"
+      ],
+      "height_cm": 1.83,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q10291755",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q634829",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q75729",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2023-09-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "Matheus Nunes USMNT v Portugal Mar 31 2026-21.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Matheus_Nunes",
+      "transfermarkt_id": "601883",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Brazil",
+        "Portugal"
+      ],
+      "place_of_birth": "Rio de Janeiro",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "Matheus Nunes USMNT v Portugal Mar 31 2026-21.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Matheus_Nunes_USMNT_v_Portugal_Mar_31_2026-21.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Matheus_Nunes_USMNT_v_Portugal_Mar_31_2026-21.jpg/960px-Matheus_Nunes_USMNT_v_Portugal_Mar_31_2026-21.jpg",
+        "width": 3333,
+        "height": 5000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/matheus-nunes.jpg"
+      }
+    },
+    {
+      "slug": "renato-veiga",
+      "display_name": "Renato Veiga",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-07-29",
+      "age": 22,
+      "caps": 11,
+      "goals": 1,
+      "club_from_squad_table": "Villarreal",
+      "wikipedia_title": "Renato Veiga",
+      "date_of_birth": "2003-07-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Villarreal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q116700351",
+      "qid": "Q116700351",
+      "name": "Renato Veiga",
+      "description": "Portuguese association football player",
+      "place_of_birth_qid": "Q597",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 1.9,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Renato_Veiga",
+      "transfermarkt_id": "805714",
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Lisbon",
+      "image_filename": "Renato_Veiga_USMNT_v_Portugal_Mar_31_2026-20.jpg",
+      "photo": {
+        "filename": "Renato_Veiga_USMNT_v_Portugal_Mar_31_2026-20.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Renato_Veiga_USMNT_v_Portugal_Mar_31_2026-20.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Renato_Veiga_USMNT_v_Portugal_Mar_31_2026-20.jpg/960px-Renato_Veiga_USMNT_v_Portugal_Mar_31_2026-20.jpg",
+        "width": 3333,
+        "height": 5000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/renato-veiga.jpg"
+      }
+    },
+    {
+      "slug": "tom\u00e1s-ara\u00fajo",
+      "display_name": "Tom\u00e1s Ara\u00fajo",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-05-16",
+      "age": 24,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Benfica",
+      "wikipedia_title": "Tom\u00e1s Ara\u00fajo",
+      "date_of_birth": "2002-05-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Benfica",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q99617294",
+      "qid": "Q99617294",
+      "name": "Tom\u00e1s Ara\u00fajo",
+      "description": "Portuguese footballer",
+      "place_of_birth_qid": "Q551658",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 1.87,
+      "image_filename": "Tom\u00e1s Ara\u00fajo USMNT v Portugal Mar 31 2026-40.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_Ara%C3%BAjo",
+      "transfermarkt_id": "504087",
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Vila Nova de Famalic\u00e3o",
+      "photo": {
+        "filename": "Tom\u00e1s Ara\u00fajo USMNT v Portugal Mar 31 2026-40.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Tom%C3%A1s_Ara%C3%BAjo_USMNT_v_Portugal_Mar_31_2026-40.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Tom%C3%A1s_Ara%C3%BAjo_USMNT_v_Portugal_Mar_31_2026-40.jpg/960px-Tom%C3%A1s_Ara%C3%BAjo_USMNT_v_Portugal_Mar_31_2026-40.jpg",
+        "width": 3333,
+        "height": 5000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/tom\u00e1s-ara\u00fajo.jpg"
+      }
+    },
+    {
+      "slug": "bernardo-silva",
+      "display_name": "Bernardo Silva",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-08-10",
+      "age": 31,
+      "caps": 107,
+      "goals": 14,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "Bernardo Silva",
+      "date_of_birth": "1994-08-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q15521306",
+      "qid": "Q15521306",
+      "name": "Bernardo Silva",
+      "description": "Portuguese association football player (born 1994)",
+      "place_of_birth_qid": "Q597",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 173.0,
+      "weight_kg": 65.0,
+      "position_qids": [
+        "Q8025128",
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7387221",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q180305",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q180305",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3873524",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2017-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "Por-Mar (9) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bernardo_Silva",
+      "transfermarkt_id": "241641",
+      "fifa_player_id": "395205",
+      "positions": [
+        "wing half",
+        "midfielder"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Lisbon",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "Por-Mar (9) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Por-Mar_%289%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Por-Mar_%289%29_%28cropped%29.jpg",
+        "width": 350,
+        "height": 516,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/bernardo-silva.jpg"
+      }
+    },
+    {
+      "slug": "bruno-fernandes",
+      "display_name": "Bruno Fernandes",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-09-08",
+      "age": 31,
+      "caps": 87,
+      "goals": 28,
+      "club_from_squad_table": "Manchester United",
+      "wikipedia_title": "Bruno Fernandes",
+      "date_of_birth": "1994-09-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q4979316",
+      "qid": "Q4979316",
+      "name": "Bruno Fernandes",
+      "description": "Portuguese association football player (born 1994)",
+      "place_of_birth_qid": "Q990403",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 179.0,
+      "weight_kg": 65.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8416",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2798",
+          "start": "2013-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q3873524",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q1772776",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2014-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3590758",
+          "start": "2016-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q1457",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q75729",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2017-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18656",
+      "image_filename": "Bruno Fernandes USMNT v Portugal Mar 31 2026-27 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bruno_Fernandes",
+      "transfermarkt_id": "240306",
+      "fifa_player_id": "395206",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Maia",
+      "wikidata_current_club": "Manchester United F.C.",
+      "wikidata_current_club_qid": "Q18656",
+      "photo": {
+        "filename": "Bruno Fernandes USMNT v Portugal Mar 31 2026-27 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_%28cropped%29.jpg/960px-Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_%28cropped%29.jpg",
+        "width": 2816,
+        "height": 4222,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/bruno-fernandes.jpg"
+      }
+    },
+    {
+      "slug": "r\u00faben-neves",
+      "display_name": "R\u00faben Neves",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-03-13",
+      "age": 29,
+      "caps": 65,
+      "goals": 1,
+      "club_from_squad_table": "Al-Hilal",
+      "wikipedia_title": "R\u00faben Neves",
+      "date_of_birth": "1997-03-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Hilal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17486599",
+      "qid": "Q17486599",
+      "name": "R\u00faben Neves",
+      "description": "Portuguese association football player (born 1997)",
+      "place_of_birth_qid": "Q278925",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q6008848"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q128446",
+          "start": "2014-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q7232579",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3590754",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q3873511",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3590758",
+          "start": "2016-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q128446",
+      "image_filename": "R\u00faben Neves.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%BAben_Neves",
+      "transfermarkt_id": "225161",
+      "fifa_player_id": "395216",
+      "positions": [
+        "central midfielder"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Mozelos",
+      "wikidata_current_club": "FC Porto",
+      "wikidata_current_club_qid": "Q128446",
+      "photo": {
+        "filename": "R\u00faben Neves.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/R%C3%BAben_Neves.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/R%C3%BAben_Neves.png",
+        "width": 461,
+        "height": 533,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCaeIrxQE847rt-9KJHrPbZw\">Porto Tourism Official Portal</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/r\u00faben-neves.png"
+      }
+    },
+    {
+      "slug": "vitinha",
+      "display_name": "Vitinha",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-02-13",
+      "age": 26,
+      "caps": 37,
+      "goals": 0,
+      "club_from_squad_table": "Paris Saint-Germain",
+      "wikipedia_title": "Vitinha (footballer, born February 2000)",
+      "date_of_birth": "2000-02-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris Saint-Germain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q66818509",
+      "qid": "Q66818509",
+      "name": "Vitinha",
+      "description": "Portuguese association football player (born 2000)",
+      "place_of_birth_qid": "Q159457",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 1.72,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q5423714",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q128446",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590754",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3873511",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q3873524",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q483020",
+      "image_filename": "Vitinha USMNT v Portugal Mar 31 2026-50.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vitinha_(footballer,_born_February_2000)",
+      "transfermarkt_id": "487469",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Faro",
+      "wikidata_current_club": "Paris Saint-Germain FC",
+      "wikidata_current_club_qid": "Q483020",
+      "photo": {
+        "filename": "Vitinha USMNT v Portugal Mar 31 2026-50.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Vitinha_USMNT_v_Portugal_Mar_31_2026-50.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Vitinha_USMNT_v_Portugal_Mar_31_2026-50.jpg/960px-Vitinha_USMNT_v_Portugal_Mar_31_2026-50.jpg",
+        "width": 3333,
+        "height": 5000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/vitinha.jpg"
+      }
+    },
+    {
+      "slug": "jo\u00e3o-neves",
+      "display_name": "Jo\u00e3o Neves",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-09-27",
+      "age": 21,
+      "caps": 21,
+      "goals": 3,
+      "club_from_squad_table": "Paris Saint-Germain",
+      "wikipedia_title": "Jo\u00e3o Neves",
+      "date_of_birth": "2004-09-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris Saint-Germain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q113551733",
+      "qid": "Q113551733",
+      "name": "Jo\u00e3o Neves",
+      "description": "Portuguese association football player (born 2004)",
+      "place_of_birth_qid": "Q372840",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 1.74,
+      "position_qids": [
+        "Q18691898"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7387221",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q55978489",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q3873524",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2023-10-16",
+          "end": null
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q483020",
+      "image_filename": "Jo\u00e3o Neves USMNT v Portugal Mar 31 2026-18 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Neves",
+      "transfermarkt_id": "670681",
+      "positions": [
+        "defensive midfielder"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Tavira",
+      "wikidata_current_club": "Paris Saint-Germain FC",
+      "wikidata_current_club_qid": "Q483020",
+      "photo": {
+        "filename": "Jo\u00e3o Neves USMNT v Portugal Mar 31 2026-18 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Jo%C3%A3o_Neves_USMNT_v_Portugal_Mar_31_2026-18_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jo%C3%A3o_Neves_USMNT_v_Portugal_Mar_31_2026-18_%28cropped%29.jpg/960px-Jo%C3%A3o_Neves_USMNT_v_Portugal_Mar_31_2026-18_%28cropped%29.jpg",
+        "width": 2411,
+        "height": 3070,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jo\u00e3o-neves.jpg"
+      }
+    },
+    {
+      "slug": "sam\u00fa-costa",
+      "display_name": "Sam\u00fa Costa",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-11-27",
+      "age": 25,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Mallorca",
+      "wikipedia_title": "Sam\u00fa Costa",
+      "date_of_birth": "2000-11-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mallorca",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q97441426",
+      "qid": "Q97441426",
+      "name": "Samuel Costa",
+      "description": "Portuguese footballer",
+      "place_of_birth_qid": "Q485581",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Sam\u00fa Costa USMNT v Portugal Mar 31 2026-54.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sam%C3%BA_Costa",
+      "transfermarkt_id": "657430",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Aveiro",
+      "photo": {
+        "filename": "Sam\u00fa Costa USMNT v Portugal Mar 31 2026-54.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sam%C3%BA_Costa_USMNT_v_Portugal_Mar_31_2026-54.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sam%C3%BA_Costa_USMNT_v_Portugal_Mar_31_2026-54.jpg/960px-Sam%C3%BA_Costa_USMNT_v_Portugal_Mar_31_2026-54.jpg",
+        "width": 3333,
+        "height": 5000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/sam\u00fa-costa.jpg"
+      }
+    },
+    {
+      "slug": "cristiano-ronaldo",
+      "display_name": "Cristiano Ronaldo",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1985-02-05",
+      "age": 41,
+      "caps": 226,
+      "goals": 143,
+      "club_from_squad_table": "Al-Nassr",
+      "wikipedia_title": "Cristiano Ronaldo",
+      "date_of_birth": "1985-02-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Nassr",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q11571",
+      "qid": "Q11571",
+      "name": "Cristiano Ronaldo",
+      "description": "Portuguese association football player (born 1985)",
+      "place_of_birth_qid": "Q25444",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 85.0,
+      "position_qids": [
+        "Q8025128",
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18656",
+          "start": "2003-00-00",
+          "end": "2009-00-00"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2009-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q75729",
+          "start": "2002-00-00",
+          "end": "2003-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2003-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2002-00-00",
+          "end": "2003-00-00"
+        },
+        {
+          "team_qid": "Q3590758",
+          "start": "2004-00-00",
+          "end": "2004-00-00"
+        },
+        {
+          "team_qid": "Q1772776",
+          "start": "2003-00-00",
+          "end": "2003-00-00"
+        },
+        {
+          "team_qid": "Q3590754",
+          "start": "2001-00-00",
+          "end": "2002-00-00"
+        },
+        {
+          "team_qid": "Q21079208",
+          "start": "2001-00-00",
+          "end": "2001-00-00"
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2018-00-00",
+          "end": "2021-08-26"
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2021-08-27",
+          "end": "2022-11-22"
+        },
+        {
+          "team_qid": "Q482764",
+          "start": "2023-01-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q482764",
+      "image_filename": "2025 Cristiano Ronaldo (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "transfermarkt_id": "8198",
+      "fifa_player_id": "201200",
+      "positions": [
+        "wing half",
+        "forward"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Funchal",
+      "photo": {
+        "filename": "2025 Cristiano Ronaldo (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/2025_Cristiano_Ronaldo_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/2025_Cristiano_Ronaldo_%28cropped%29.jpg",
+        "width": 466,
+        "height": 616,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "The White House",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/cristiano-ronaldo.jpg"
+      }
+    },
+    {
+      "slug": "jo\u00e3o-f\u00e9lix",
+      "display_name": "Jo\u00e3o F\u00e9lix",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-11-10",
+      "age": 26,
+      "caps": 52,
+      "goals": 12,
+      "club_from_squad_table": "Al-Nassr",
+      "wikipedia_title": "Jo\u00e3o F\u00e9lix",
+      "date_of_birth": "1999-11-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Nassr",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27049064",
+      "qid": "Q27049064",
+      "name": "Jo\u00e3o F\u00e9lix",
+      "description": "Portuguese association football player",
+      "place_of_birth_qid": "Q117676",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7387221",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2019-07-03",
+          "end": "2024-08-21"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q3873511",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3873524",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2023-09-01",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2024-08-21",
+          "end": "2025-07-00"
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2025-01-00",
+          "end": "2025-06-00"
+        },
+        {
+          "team_qid": "Q482764",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q482764",
+      "image_filename": "Jo\u00e3o F\u00e9lix USMNT v Portugal Mar 31 2026-22.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_F%C3%A9lix",
+      "transfermarkt_id": "462250",
+      "fifa_player_id": "201831072",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Viseu",
+      "photo": {
+        "filename": "Jo\u00e3o F\u00e9lix USMNT v Portugal Mar 31 2026-22.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Jo%C3%A3o_F%C3%A9lix_USMNT_v_Portugal_Mar_31_2026-22.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Jo%C3%A3o_F%C3%A9lix_USMNT_v_Portugal_Mar_31_2026-22.jpg/960px-Jo%C3%A3o_F%C3%A9lix_USMNT_v_Portugal_Mar_31_2026-22.jpg",
+        "width": 3333,
+        "height": 5000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jo\u00e3o-f\u00e9lix.jpg"
+      }
+    },
+    {
+      "slug": "rafael-le\u00e3o",
+      "display_name": "Rafael Le\u00e3o",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-06-10",
+      "age": 27,
+      "caps": 43,
+      "goals": 5,
+      "club_from_squad_table": "Milan",
+      "wikipedia_title": "Rafael Le\u00e3o",
+      "date_of_birth": "1999-06-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Milan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30055335",
+      "qid": "Q30055335",
+      "name": "Rafael Le\u00e3o",
+      "description": "Portuguese footballer (born 1999)",
+      "place_of_birth_qid": "Q328015",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 81.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19516",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q75729",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q7232579",
+          "start": "2014-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q3590754",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q3873524",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1772776",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2017-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1543",
+      "image_filename": "LeaoFCSalzburg2022(cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rafael_Le%C3%A3o",
+      "transfermarkt_id": "357164",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Almada",
+      "wikidata_current_club": "AC Milan",
+      "wikidata_current_club_qid": "Q1543",
+      "photo": {
+        "filename": "LeaoFCSalzburg2022(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/LeaoFCSalzburg2022%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/LeaoFCSalzburg2022%28cropped%29.jpg",
+        "width": 543,
+        "height": 611,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/rafael-le\u00e3o.jpg"
+      }
+    },
+    {
+      "slug": "gon\u00e7alo-guedes",
+      "display_name": "Gon\u00e7alo Guedes",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-11-29",
+      "age": 29,
+      "caps": 33,
+      "goals": 7,
+      "club_from_squad_table": "Real Sociedad",
+      "wikipedia_title": "Gon\u00e7alo Guedes",
+      "date_of_birth": "1996-11-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Sociedad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16729477",
+      "qid": "Q16729477",
+      "name": "Gon\u00e7alo Guedes",
+      "description": "Portuguese association football player",
+      "place_of_birth_qid": "Q571140",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 68.0,
+      "position_qids": [
+        "Q8025128",
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7387221",
+          "start": "2014-04-19",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2014-10-18",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3590754",
+          "start": "2012-00-00",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q3873524",
+          "start": "2014-01-01",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q1772776",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2015-11-14",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q3873511",
+          "start": "2013-00-00",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2017-01-25",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q10333",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q10333",
+          "start": "2017-09-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2023-08-30",
+          "end": "2024-01-19"
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2024-01-19",
+          "end": "2024-06-00"
+        },
+        {
+          "team_qid": "Q10315",
+          "start": "2025-08-04",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q10315",
+      "image_filename": "Goncalo Guedes 2021.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gon%C3%A7alo_Guedes",
+      "transfermarkt_id": "225122",
+      "fifa_player_id": "384751",
+      "positions": [
+        "wing half",
+        "forward"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Benavente",
+      "photo": {
+        "filename": "Goncalo Guedes 2021.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Goncalo_Guedes_2021.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Goncalo_Guedes_2021.jpg",
+        "width": 827,
+        "height": 1080,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Valencia CF",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/gon\u00e7alo-guedes.jpg"
+      }
+    },
+    {
+      "slug": "gon\u00e7alo-ramos",
+      "display_name": "Gon\u00e7alo Ramos",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-06-20",
+      "age": 24,
+      "caps": 24,
+      "goals": 10,
+      "club_from_squad_table": "Paris Saint-Germain",
+      "wikipedia_title": "Gon\u00e7alo Ramos",
+      "date_of_birth": "2001-06-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris Saint-Germain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60621615",
+      "qid": "Q60621615",
+      "name": "Gon\u00e7alo Ramos",
+      "description": "Portuguese association football player",
+      "place_of_birth_qid": "Q740845",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7387221",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q3590754",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q3873511",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q3873524",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1772776",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2023-08-07",
+          "end": "2023-12-31"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2024-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q483020",
+      "image_filename": "Gon\u00e7alo Ramos USMNT v Portugal Mar 31 2026-32.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gon%C3%A7alo_Ramos",
+      "transfermarkt_id": "550550",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Olh\u00e3o",
+      "wikidata_current_club": "Paris Saint-Germain FC",
+      "wikidata_current_club_qid": "Q483020",
+      "photo": {
+        "filename": "Gon\u00e7alo Ramos USMNT v Portugal Mar 31 2026-32.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Gon%C3%A7alo_Ramos_USMNT_v_Portugal_Mar_31_2026-32.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gon%C3%A7alo_Ramos_USMNT_v_Portugal_Mar_31_2026-32.jpg/960px-Gon%C3%A7alo_Ramos_USMNT_v_Portugal_Mar_31_2026-32.jpg",
+        "width": 3333,
+        "height": 5000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/gon\u00e7alo-ramos.jpg"
+      }
+    },
+    {
+      "slug": "pedro-neto",
+      "display_name": "Pedro Neto",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-03-09",
+      "age": 26,
+      "caps": 23,
+      "goals": 2,
+      "club_from_squad_table": "Chelsea",
+      "wikipedia_title": "Pedro Neto",
+      "date_of_birth": "2000-03-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Chelsea",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30036972",
+      "qid": "Q30036972",
+      "name": "Pedro Neto",
+      "description": "Portuguese association football player",
+      "place_of_birth_qid": "Q208158",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 173.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q75684",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q2609",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2019-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q3590754",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3873511",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q3873524",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1772776",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2024-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9616",
+      "image_filename": "Pedro Neto USMNT v Portugal Mar 31 2026-48.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Neto",
+      "transfermarkt_id": "487465",
+      "fifa_player_id": "201657796",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Viana do Castelo",
+      "wikidata_current_club": "Chelsea F.C.",
+      "wikidata_current_club_qid": "Q9616",
+      "photo": {
+        "filename": "Pedro Neto USMNT v Portugal Mar 31 2026-48.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Pedro_Neto_USMNT_v_Portugal_Mar_31_2026-48.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pedro_Neto_USMNT_v_Portugal_Mar_31_2026-48.jpg/960px-Pedro_Neto_USMNT_v_Portugal_Mar_31_2026-48.jpg",
+        "width": 3333,
+        "height": 5000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/pedro-neto.jpg"
+      }
+    },
+    {
+      "slug": "francisco-trinc\u00e3o",
+      "display_name": "Francisco Trinc\u00e3o",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-12-29",
+      "age": 26,
+      "caps": 17,
+      "goals": 3,
+      "club_from_squad_table": "Sporting CP",
+      "wikipedia_title": "Francisco Trinc\u00e3o",
+      "date_of_birth": "1999-12-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sporting CP",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q24084271",
+      "qid": "Q24084271",
+      "name": "Francisco Trinc\u00e3o",
+      "description": "Portuguese association football player (born 1999)",
+      "place_of_birth_qid": "Q208158",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 186.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q75684",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q7387158",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q75729",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q75729",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590754",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q3873511",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3873524",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1772776",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        }
+      ],
+      "current_club_qid": "Q75729",
+      "image_filename": "Francisco Trinc\u00e3o 2019 (cropped) 2.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Francisco_Trinc%C3%A3o",
+      "transfermarkt_id": "412669",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Viana do Castelo",
+      "photo": {
+        "filename": "Francisco Trinc\u00e3o 2019 (cropped) 2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Francisco_Trinc%C3%A3o_2019_%28cropped%29_2.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Francisco_Trinc%C3%A3o_2019_%28cropped%29_2.jpg",
+        "width": 210,
+        "height": 328,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u043d\u043d\u0430 \u041d\u044d\u0441\u0441\u0438",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/francisco-trinc\u00e3o.jpg"
+      }
+    },
+    {
+      "slug": "francisco-concei\u00e7\u00e3o",
+      "display_name": "Francisco Concei\u00e7\u00e3o",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2002-12-14",
+      "age": 23,
+      "caps": 15,
+      "goals": 3,
+      "club_from_squad_table": "Juventus",
+      "wikipedia_title": "Francisco Concei\u00e7\u00e3o",
+      "date_of_birth": "2002-12-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Juventus",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q99617367",
+      "qid": "Q99617367",
+      "name": "Francisco Concei\u00e7\u00e3o",
+      "description": "Portuguese footballer (born 2002)",
+      "place_of_birth_qid": "Q45412",
+      "citizenship_qids": [
+        "Q45"
+      ],
+      "height_cm": 170.0,
+      "position_qids": [
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7232579",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q3590754",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q5423714",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q3873511",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q128446",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1630430",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q1770361",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q81888",
+          "start": "2022-07-21",
+          "end": "2024-07-01"
+        },
+        {
+          "team_qid": "Q128446",
+          "start": "2023-09-01",
+          "end": "2024-06-30"
+        },
+        {
+          "team_qid": "Q128446",
+          "start": "2024-07-01",
+          "end": "2025-07-00"
+        },
+        {
+          "team_qid": "Q267245",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2024-08-27",
+          "end": "2025-06-00"
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1422",
+      "image_filename": "GAE - Ajax - 52788521318 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Francisco_Concei%C3%A7%C3%A3o",
+      "transfermarkt_id": "487474",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "Portugal"
+      ],
+      "place_of_birth": "Coimbra",
+      "wikidata_current_club": "Juventus FC",
+      "wikidata_current_club_qid": "Q1422",
+      "photo": {
+        "filename": "GAE - Ajax - 52788521318 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/GAE_-_Ajax_-_52788521318_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GAE_-_Ajax_-_52788521318_%28cropped%29.jpg/960px-GAE_-_Ajax_-_52788521318_%28cropped%29.jpg",
+        "width": 1556,
+        "height": 2408,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Carlo Bruil Fotografie",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/francisco-concei\u00e7\u00e3o.jpg"
+      }
+    }
+  ]
+}

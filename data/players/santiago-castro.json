@@ -1,0 +1,77 @@
+{
+  "slug": "santiago-castro",
+  "display_name": "Santiago Castro",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2004-09-18",
+  "age": 21,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Bologna",
+  "wikipedia_title": "Santiago Castro (footballer, born 2004)",
+  "wikidata_qid": "Q108114747",
+  "qid": "Q108114747",
+  "name": "Santiago Castro",
+  "description": "Argentine association football player",
+  "date_of_birth": "2004-09-18",
+  "place_of_birth_qid": "Q781245",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 1.79,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q215163",
+      "start": "2021-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q1893",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q2462207",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1893",
+  "image_filename": "Santiago Castro.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Santiago_Castro_(footballer,_born_2004)",
+  "transfermarkt_id": "849520",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bologna",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "General San Martín",
+  "wikidata_current_club": "Bologna F.C. 1909",
+  "wikidata_current_club_qid": "Q1893",
+  "photo": {
+    "filename": "Santiago Castro.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Santiago_Castro.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Santiago_Castro.jpg",
+    "width": 822,
+    "height": 776,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:HartemLijn\" title=\"User:HartemLijn\">Pietro Luca Cassarino</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/santiago-castro.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

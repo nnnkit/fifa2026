@@ -1,0 +1,53 @@
+{
+  "slug": "jacob-italiano",
+  "display_name": "Jacob Italiano",
+  "shirt_no": 3,
+  "position_code": "DF",
+  "dob": "2001-07-30",
+  "age": 24,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Grazer AK",
+  "wikipedia_title": "Jacob Italiano",
+  "date_of_birth": "2001-07-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Grazer AK",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q43303848",
+  "qid": "Q43303848",
+  "name": "Jacob Italiano",
+  "description": "association football player",
+  "place_of_birth_qid": "Q408",
+  "citizenship_qids": [
+    "Q408"
+  ],
+  "height_cm": 177.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q852033",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q852033",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jacob_Italiano",
+  "transfermarkt_id": "545810",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Australia"
+  ],
+  "place_of_birth": "Australia",
+  "wikidata_current_club": "Perth Glory FC",
+  "wikidata_current_club_qid": "Q852033",
+  "team_slug": "australia",
+  "team_country": "Australia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

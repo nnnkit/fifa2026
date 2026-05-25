@@ -1,0 +1,80 @@
+{
+  "slug": "can-uzun",
+  "display_name": "Can Uzun",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2005-11-11",
+  "age": 20,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Eintracht Frankfurt",
+  "wikipedia_title": "Can Uzun",
+  "date_of_birth": "2005-11-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Eintracht Frankfurt",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q118799181",
+  "qid": "Q118799181",
+  "name": "Can Uzun",
+  "description": "Turkish association football player (born 2005)",
+  "place_of_birth_qid": "Q2978",
+  "citizenship_qids": [
+    "Q43",
+    "Q183"
+  ],
+  "height_cm": 186.0,
+  "position_qids": [
+    "Q90326494",
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3590479",
+      "start": "2021-09-00",
+      "end": "2022-05-00"
+    },
+    {
+      "team_qid": "Q23925713",
+      "start": "2022-11-00",
+      "end": "2022-11-00"
+    },
+    {
+      "team_qid": "Q483856",
+      "start": "2024-03-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q4545849",
+      "start": "2023-04-00",
+      "end": "2023-06-00"
+    },
+    {
+      "team_qid": "Q15786",
+      "start": "2023-05-00",
+      "end": "2024-07-00"
+    },
+    {
+      "team_qid": "Q38245",
+      "start": "2024-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q38245",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Can_Uzun",
+  "transfermarkt_id": "816585",
+  "positions": [
+    "attacking midfielder",
+    "forward"
+  ],
+  "citizenship": [
+    "Turkey",
+    "Germany"
+  ],
+  "place_of_birth": "Regensburg",
+  "team_slug": "turkey",
+  "team_country": "Turkey",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

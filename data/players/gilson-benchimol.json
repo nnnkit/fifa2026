@@ -1,0 +1,52 @@
+{
+  "slug": "gilson-benchimol",
+  "display_name": "Gilson Benchimol",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-12-29",
+  "age": 24,
+  "caps": 21,
+  "goals": 5,
+  "club_from_squad_table": "Akron Tolyatti",
+  "wikipedia_title": "Gilson Benchimol",
+  "date_of_birth": "2001-12-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Akron Tolyatti",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q105939150",
+  "qid": "Q105939150",
+  "name": "Gilson Tavares",
+  "description": "Cape Verdean association football player",
+  "place_of_birth_qid": "Q3751",
+  "citizenship_qids": [
+    "Q1011"
+  ],
+  "height_cm": 1.87,
+  "position_qids": [
+    "Q543457"
+  ],
+  "image_filename": "Benchimol 2024.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gilson_Benchimol",
+  "transfermarkt_id": "820252",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Cape Verde"
+  ],
+  "place_of_birth": "Praia",
+  "photo": {
+    "filename": "Benchimol 2024.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Benchimol_2024.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Benchimol_2024.jpg",
+    "width": 705,
+    "height": 1050,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u0415\u0432\u0434\u043e\u043a\u0438\u043c\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/gilson-benchimol.jpg"
+  },
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde"
+}

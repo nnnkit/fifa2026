@@ -1,0 +1,64 @@
+{
+  "slug": "roberto-lopes",
+  "display_name": "Roberto Lopes",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1992-06-17",
+  "age": 33,
+  "caps": 44,
+  "goals": 0,
+  "club_from_squad_table": "Shamrock Rovers",
+  "wikipedia_title": "Roberto Lopes (footballer, born 1992)",
+  "date_of_birth": "1992-06-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Shamrock Rovers",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q85797565",
+  "qid": "Q85797565",
+  "name": "Roberto Lopes",
+  "description": "Irish-Cape Verdean footballer",
+  "place_of_birth_qid": "Q4237564",
+  "citizenship_qids": [
+    "Q27",
+    "Q1011"
+  ],
+  "height_cm": 186.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q203976",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q203976",
+  "image_filename": "Phase de match (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Roberto_Lopes_(footballer,_born_1992)",
+  "transfermarkt_id": "166158",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Ireland",
+    "Cape Verde"
+  ],
+  "place_of_birth": "Crumlin",
+  "wikidata_current_club": "Shamrock Rovers F.C.",
+  "wikidata_current_club_qid": "Q203976",
+  "photo": {
+    "filename": "Phase de match (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Phase_de_match_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Phase_de_match_%28cropped%29.jpg/960px-Phase_de_match_%28cropped%29.jpg",
+    "width": 1240,
+    "height": 1909,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Happiraphael\" title=\"User:Happiraphael\">Happiraphael</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/roberto-lopes.jpg"
+  },
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde"
+}

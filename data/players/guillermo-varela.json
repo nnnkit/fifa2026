@@ -1,0 +1,109 @@
+{
+  "slug": "guillermo-varela",
+  "display_name": "Guillermo Varela",
+  "shirt_no": 13,
+  "position_code": "DF",
+  "dob": "1993-03-24",
+  "age": 33,
+  "caps": 28,
+  "goals": 0,
+  "club_from_squad_table": "Flamengo",
+  "wikipedia_title": "Guillermo Varela",
+  "date_of_birth": "1993-03-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Flamengo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q13422031",
+  "qid": "Q13422031",
+  "name": "Guillermo Varela",
+  "description": "Uruguayan association football player",
+  "place_of_birth_qid": "Q1335",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 171.0,
+  "weight_kg": 69.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q16320",
+      "start": "2010-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q12217",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3589858",
+      "start": "2008-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q2442864",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2442864",
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q134916",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q8682",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q188430",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q17497",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8682",
+  "image_filename": "Guillermo Varela 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Guillermo_Varela",
+  "transfermarkt_id": "188862",
+  "fifa_player_id": "368660",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Montevideo",
+  "wikidata_current_club": "Real Madrid Club de F\u00fatbol",
+  "wikidata_current_club_qid": "Q8682",
+  "photo": {
+    "filename": "Guillermo Varela 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Guillermo_Varela_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Guillermo_Varela_2022.jpg",
+    "width": 347,
+    "height": 514,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/guillermo-varela.jpg"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

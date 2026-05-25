@@ -1,0 +1,102 @@
+{
+  "slug": "jamshid-iskanderov",
+  "display_name": "Jamshid Iskanderov",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1993-10-16",
+  "age": 32,
+  "caps": 37,
+  "goals": 4,
+  "club_from_squad_table": "Neftchi",
+  "wikipedia_title": "Jamshid Iskanderov",
+  "date_of_birth": "1993-10-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Neftchi",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16235461",
+  "qid": "Q16235461",
+  "name": "Jamshid Iskanderov",
+  "description": "Uzbekistani footballer",
+  "place_of_birth_qid": "Q269",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "height_cm": 168.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q732106",
+      "start": "2012-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q770541",
+      "start": "2011-01-01",
+      "end": "2011-00-00"
+    },
+    {
+      "team_qid": "Q3328961",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q487321",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q609912",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q482540",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q1101346",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q870279",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3247955",
+      "start": "2013-00-00",
+      "end": "2013-00-00"
+    }
+  ],
+  "current_club_qid": "Q870279",
+  "image_filename": "Jamshid Iskanderov (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jamshid_Iskanderov",
+  "transfermarkt_id": "260857",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Tashkent",
+  "wikidata_current_club": "FC Neftchi Fergana",
+  "wikidata_current_club_qid": "Q870279",
+  "photo": {
+    "filename": "Jamshid Iskanderov (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Jamshid_Iskanderov_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jamshid_Iskanderov_%28cropped%29.jpg/960px-Jamshid_Iskanderov_%28cropped%29.jpg",
+    "width": 1239,
+    "height": 1329,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:UmirovaDilshoda&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:UmirovaDilshoda (page does not exist)\">UmirovaDilshoda</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jamshid-iskanderov.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

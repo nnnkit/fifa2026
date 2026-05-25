@@ -1,0 +1,52 @@
+{
+  "slug": "oscar-bobb",
+  "display_name": "Oscar Bobb",
+  "shirt_no": 22,
+  "position_code": "MF",
+  "dob": "2003-07-12",
+  "age": 22,
+  "caps": 18,
+  "goals": 2,
+  "club_from_squad_table": "Fulham",
+  "wikipedia_title": "Oscar Bobb",
+  "date_of_birth": "2003-07-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Fulham",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q110466658",
+  "qid": "Q110466658",
+  "name": "Oscar Bobb",
+  "description": "Norwegian association football player (born 2003)",
+  "place_of_birth_qid": "Q585",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 169.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "image_filename": "ManCity20240722-050 (Oscar Bobb2).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Oscar_Bobb",
+  "transfermarkt_id": "661207",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "Oslo",
+  "photo": {
+    "filename": "ManCity20240722-050 (Oscar Bobb2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/ManCity20240722-050_%28Oscar_Bobb2%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ManCity20240722-050_%28Oscar_Bobb2%29.jpg/960px-ManCity20240722-050_%28Oscar_Bobb2%29.jpg",
+    "width": 1623,
+    "height": 2043,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Hameltion\" title=\"User:Hameltion\">Hameltion</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/oscar-bobb.jpg"
+  },
+  "team_slug": "norway",
+  "team_country": "Norway"
+}

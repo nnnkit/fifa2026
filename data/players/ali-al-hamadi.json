@@ -1,0 +1,94 @@
+{
+  "slug": "ali-al-hamadi",
+  "display_name": "Ali Al-Hamadi",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2002-03-01",
+  "age": 24,
+  "caps": 17,
+  "goals": 5,
+  "club_from_squad_table": "Luton Town",
+  "wikipedia_title": "Ali Al-Hamadi",
+  "date_of_birth": "2002-03-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Luton Town",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q80661874",
+  "qid": "Q80661874",
+  "name": "Ali Al-Hamadi",
+  "description": "Iraqi association football player",
+  "place_of_birth_qid": "Q213170",
+  "citizenship_qids": [
+    "Q796",
+    "Q145"
+  ],
+  "height_cm": 1.83,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q48953",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q1584552",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q48851",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q9653",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q18736",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q195932",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q186243",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18736",
+  "image_filename": "Ali Al-Hamadi.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Al-Hamadi",
+  "transfermarkt_id": "610581",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Iraq",
+    "United Kingdom"
+  ],
+  "place_of_birth": "Maysan Governorate",
+  "wikidata_current_club": "Stoke City F.C.",
+  "wikidata_current_club_qid": "Q18736",
+  "photo": {
+    "filename": "Ali Al-Hamadi.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ali_Al-Hamadi.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ali_Al-Hamadi.jpg",
+    "width": 920,
+    "height": 920,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Xaneph&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Xaneph (page does not exist)\">Xaneph</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ali-al-hamadi.jpg"
+  },
+  "team_slug": "iraq",
+  "team_country": "Iraq"
+}

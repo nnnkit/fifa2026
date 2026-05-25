@@ -1,0 +1,75 @@
+{
+  "slug": "edmilson-junior",
+  "display_name": "Edmilson Junior",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1994-08-19",
+  "age": 31,
+  "caps": 14,
+  "goals": 0,
+  "club_from_squad_table": "Al-Duhail",
+  "wikipedia_title": "Edmilson Junior",
+  "date_of_birth": "1994-08-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Duhail",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q1957458",
+  "qid": "Q1957458",
+  "name": "Edmilson Junior",
+  "description": "Brazilian association football player",
+  "place_of_birth_qid": "Q3992",
+  "citizenship_qids": [
+    "Q155",
+    "Q31"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 71.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q190561",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q138248",
+      "start": "2012-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q138248",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q190561",
+  "image_filename": "Edmilson Junior 2018.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Edmilson_Junior",
+  "transfermarkt_id": "237846",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Brazil",
+    "Belgium"
+  ],
+  "place_of_birth": "Liège",
+  "wikidata_current_club": "Standard Liège",
+  "wikidata_current_club_qid": "Q190561",
+  "photo": {
+    "filename": "Edmilson Junior 2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Edmilson_Junior_2018.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Edmilson_Junior_2018.jpg",
+    "width": 219,
+    "height": 302,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mahdi Zare/Fars News Agency",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/edmilson-junior.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

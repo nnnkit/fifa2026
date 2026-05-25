@@ -1,0 +1,52 @@
+{
+  "slug": "mohanad-lasheen",
+  "display_name": "Mohanad Lasheen",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-05-29",
+  "age": 30,
+  "caps": 21,
+  "goals": 0,
+  "club_from_squad_table": "Pyramids",
+  "wikipedia_title": "Mohanad Lasheen",
+  "date_of_birth": "1996-05-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Pyramids",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q41023561",
+  "qid": "Q41023561",
+  "name": "Mohanad Lasheen",
+  "description": "Egyptian association football player",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "height_cm": 179.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1329368",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1329368",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohanad_Lasheen",
+  "transfermarkt_id": "479682",
+  "wikidata_date_of_birth": "1996-01-01",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "wikidata_current_club": "Ismaily SC",
+  "wikidata_current_club_qid": "Q1329368",
+  "team_slug": "egypt",
+  "team_country": "Egypt",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

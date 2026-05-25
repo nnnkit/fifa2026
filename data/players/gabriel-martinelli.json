@@ -1,0 +1,78 @@
+{
+  "slug": "gabriel-martinelli",
+  "display_name": "Gabriel Martinelli",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-06-18",
+  "age": 24,
+  "caps": 22,
+  "goals": 4,
+  "club_from_squad_table": "Arsenal",
+  "wikipedia_title": "Gabriel Martinelli",
+  "date_of_birth": "2001-06-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Arsenal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q61460651",
+  "qid": "Q61460651",
+  "name": "Gabriel Martinelli",
+  "description": "Brazilian footballer (born 2001)",
+  "place_of_birth_qid": "Q184409",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1675351",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q899189",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q9617",
+  "image_filename": "1 Gabriel Martinelli arsenal 2025 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel_Martinelli",
+  "transfermarkt_id": "655488",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "Guarulhos",
+  "wikidata_current_club": "Arsenal F.C.",
+  "wikidata_current_club_qid": "Q9617",
+  "photo": {
+    "filename": "1 Gabriel Martinelli arsenal 2025 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/1_Gabriel_Martinelli_arsenal_2025_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/1_Gabriel_Martinelli_arsenal_2025_%28cropped%29.jpg/960px-1_Gabriel_Martinelli_arsenal_2025_%28cropped%29.jpg",
+    "width": 1378,
+    "height": 1878,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\">Chensiyuan</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/gabriel-martinelli.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

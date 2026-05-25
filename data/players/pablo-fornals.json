@@ -1,0 +1,84 @@
+{
+  "slug": "pablo-fornals",
+  "display_name": "Pablo Fornals",
+  "shirt_no": 17,
+  "position_code": "MF",
+  "dob": "1996-02-22",
+  "age": 30,
+  "caps": 9,
+  "goals": 1,
+  "club_from_squad_table": "Betis",
+  "wikipedia_title": "Pablo Fornals",
+  "date_of_birth": "1996-02-22",
+  "date_of_birth_source": "uefa+laliga+enwiki+wikidata-verified",
+  "current_club": "Betis",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21027331",
+  "qid": "Q21027331",
+  "name": "Pablo Fornals",
+  "description": "Spanish association football player",
+  "place_of_birth_qid": "Q15092",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 160.0,
+  "weight_kg": 67.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q8857",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q780509",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q1129595",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q12297",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q18747",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8857",
+  "image_filename": "Pablo Fornals.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pablo_Fornals",
+  "transfermarkt_id": "357885",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Castellón de la Plana",
+  "wikidata_current_club": "Málaga CF",
+  "wikidata_current_club_qid": "Q8857",
+  "photo": {
+    "filename": "Pablo Fornals.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pablo_Fornals.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pablo_Fornals.jpg",
+    "width": 572,
+    "height": 908,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Антон Зайцев",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/pablo-fornals.jpg"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain",
+  "squad_table_date_of_birth": "1996-02-02"
+}

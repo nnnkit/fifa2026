@@ -1,0 +1,82 @@
+{
+  "slug": "peter-gwargis",
+  "display_name": "Peter Gwargis",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2000-09-04",
+  "age": 25,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Duhok",
+  "wikipedia_title": "Peter Gwargis",
+  "date_of_birth": "2000-09-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Duhok",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q52034565",
+  "qid": "Q52034565",
+  "name": "Peter Gwargis",
+  "description": "Iraqi association football player",
+  "place_of_birth_qid": "Q3130",
+  "citizenship_qids": [
+    "Q408",
+    "Q796",
+    "Q34"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19453",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1140767",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q204881",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q260559",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q931714",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q935299",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19453",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Peter_Gwargis",
+  "transfermarkt_id": "430824",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Australia",
+    "Iraq",
+    "Sweden"
+  ],
+  "place_of_birth": "Sydney",
+  "wikidata_current_club": "Brighton & Hove Albion F.C.",
+  "wikidata_current_club_qid": "Q19453",
+  "team_slug": "iraq",
+  "team_country": "Iraq",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

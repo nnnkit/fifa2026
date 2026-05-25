@@ -1,0 +1,79 @@
+{
+  "slug": "tarik-muharemović",
+  "display_name": "Tarik Muharemović",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2003-02-28",
+  "age": 23,
+  "caps": 12,
+  "goals": 1,
+  "club_from_squad_table": "Sassuolo",
+  "wikipedia_title": "Tarik Muharemović",
+  "wikidata_qid": "Q106620882",
+  "qid": "Q106620882",
+  "name": "Tarik Muharemović",
+  "description": "Bosnian association football player",
+  "date_of_birth": "2003-02-28",
+  "place_of_birth_qid": "Q437",
+  "citizenship_qids": [
+    "Q215",
+    "Q225"
+  ],
+  "height_cm": 187.0,
+  "teams": [
+    {
+      "team_qid": "Q98307365",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q694484",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q56025745",
+      "start": "2021-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q8603",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q844509",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q769512",
+      "start": "2021-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8603",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tarik_Muharemovi%C4%87",
+  "transfermarkt_id": "679423",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sassuolo",
+  "current_club_source": "wikipedia-squad-table",
+  "citizenship": [
+    "Slovenia",
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Ljubljana",
+  "wikidata_current_club": "US Sassuolo Calcio",
+  "wikidata_current_club_qid": "Q8603",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

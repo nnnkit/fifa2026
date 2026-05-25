@@ -1,0 +1,97 @@
+{
+  "slug": "deniz-gül",
+  "display_name": "Deniz Gül",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2004-07-02",
+  "age": 21,
+  "caps": 6,
+  "goals": 1,
+  "club_from_squad_table": "Porto",
+  "wikipedia_title": "Deniz Gül",
+  "date_of_birth": "2004-07-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Porto",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q123174990",
+  "qid": "Q123174990",
+  "name": "Deniz Gül",
+  "description": "Turkish association football player (born 2004)",
+  "place_of_birth_qid": "Q1754",
+  "citizenship_qids": [
+    "Q34",
+    "Q43"
+  ],
+  "height_cm": 190.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q460724",
+      "start": "2022-09-00",
+      "end": "2024-08-00"
+    },
+    {
+      "team_qid": "Q1136967",
+      "start": "2023-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q128446",
+      "start": "2024-08-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2255212",
+      "start": "2023-03-00",
+      "end": "2023-03-00"
+    },
+    {
+      "team_qid": "Q17413189",
+      "start": "2023-06-00",
+      "end": "2023-11-00"
+    },
+    {
+      "team_qid": "Q2255267",
+      "start": "2024-06-00",
+      "end": "2024-10-00"
+    },
+    {
+      "team_qid": "Q483856",
+      "start": "2025-03-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q5423714",
+      "start": "2024-12-00",
+      "end": "2024-12-00"
+    }
+  ],
+  "current_club_qid": "Q128446",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Deniz_G%C3%BCl",
+  "transfermarkt_id": "1063292",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Sweden",
+    "Turkey"
+  ],
+  "place_of_birth": "Stockholm",
+  "wikidata_current_club": "FC Porto",
+  "wikidata_current_club_qid": "Q128446",
+  "team_slug": "turkey",
+  "team_country": "Turkey",
+  "photo": {
+    "filename": "FC Salzburg gegen FC Porto (2025-09-25 UEFA Euro League ) 36.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/FC_Salzburg_gegen_FC_Porto_%282025-09-25_UEFA_Euro_League_%29_36.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/FC_Salzburg_gegen_FC_Porto_%282025-09-25_UEFA_Euro_League_%29_36.jpg/960px-FC_Salzburg_gegen_FC_Porto_%282025-09-25_UEFA_Euro_League_%29_36.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "commons-manual-crop",
+    "local_path": "data/photos/deniz-gul.jpg",
+    "crop_note": "Manual crop from Commons file verified for Deniz Gül on 2026-05-24."
+  }
+}

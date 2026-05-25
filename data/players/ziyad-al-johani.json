@@ -1,0 +1,72 @@
+{
+  "slug": "ziyad-al-johani",
+  "display_name": "Ziyad Al-Johani",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2001-11-11",
+  "age": 24,
+  "caps": 11,
+  "goals": 0,
+  "club_from_squad_table": "Al-Ahli",
+  "wikipedia_title": "Ziyad Al-Johani",
+  "date_of_birth": "2001-11-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Ahli",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q98191389",
+  "qid": "Q98191389",
+  "name": "Ziyad Al-Johani",
+  "description": "Saudi Arabian association football player",
+  "place_of_birth_qid": "Q374365",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q44441",
+      "start": "2020-08-08",
+      "end": null
+    },
+    {
+      "team_qid": "Q2756148",
+      "start": "2021-10-00",
+      "end": "2024-04-00"
+    },
+    {
+      "team_qid": "Q189723",
+      "start": "2025-03-00",
+      "end": "2025-10-00"
+    }
+  ],
+  "current_club_qid": "Q44441",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ziyad_Al-Johani",
+  "transfermarkt_id": "901079",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Jeddah",
+  "wikidata_current_club": "Al Ahli FC",
+  "wikidata_current_club_qid": "Q44441",
+  "image_filename": "Ziyad_Al-Johani.jpg",
+  "photo": {
+    "filename": "Ziyad_Al-Johani.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ziyad_Al-Johani.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ziyad_Al-Johani.jpg",
+    "width": 879,
+    "height": 1165,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:OmarZi64&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:OmarZi64 (page does not exist)\">OmarZi64</a>",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/ziyad-al-johani.jpg"
+  },
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia"
+}

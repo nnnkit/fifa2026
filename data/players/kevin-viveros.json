@@ -1,0 +1,62 @@
+{
+  "slug": "kevin-viveros",
+  "display_name": "Kevin Viveros",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-04-26",
+  "age": 26,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Athletico Paranaense",
+  "wikipedia_title": "Kevin Viveros",
+  "date_of_birth": "2000-04-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Athletico Paranaense",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q44398304",
+  "qid": "Q44398304",
+  "name": "Kevin Viveros",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q996581",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q391987",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q391987",
+  "image_filename": "Kevinviveros.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Viveros",
+  "transfermarkt_id": "580461",
+  "wikidata_date_of_birth": "2000-04-04",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Buenaventura",
+  "wikidata_current_club": "Am\u00e9rica de Cali",
+  "wikidata_current_club_qid": "Q391987",
+  "photo": {
+    "filename": "Kevinviveros.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kevinviveros.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kevinviveros.jpg",
+    "width": 960,
+    "height": 520,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ronald_2001&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ronald 2001 (page does not exist)\">Ronald 2001</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kevin-viveros.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

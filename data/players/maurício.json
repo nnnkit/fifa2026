@@ -1,0 +1,64 @@
+{
+  "slug": "maurício",
+  "display_name": "Maurício",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2001-06-22",
+  "age": 24,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Palmeiras",
+  "wikipedia_title": "Maurício (footballer, born 2001)",
+  "date_of_birth": "2001-06-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Palmeiras",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q65718498",
+  "qid": "Q65718498",
+  "name": "Maurício",
+  "description": "Paraguayan association football player (born 2001)",
+  "place_of_birth_qid": "Q174",
+  "citizenship_qids": [
+    "Q155",
+    "Q733"
+  ],
+  "height_cm": 174.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q188277",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q188277",
+  "image_filename": "Mauricio-palmeiras-sport-ago-25 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Maur%C3%ADcio_(footballer,_born_2001)",
+  "transfermarkt_id": "678439",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Brazil",
+    "Paraguay"
+  ],
+  "place_of_birth": "São Paulo",
+  "wikidata_current_club": "Cruzeiro E.C.",
+  "wikidata_current_club_qid": "Q188277",
+  "photo": {
+    "filename": "Mauricio-palmeiras-sport-ago-25 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mauricio-palmeiras-sport-ago-25_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mauricio-palmeiras-sport-ago-25_%28cropped%29.jpg/960px-Mauricio-palmeiras-sport-ago-25_%28cropped%29.jpg",
+    "width": 1970,
+    "height": 2627,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:NullReason\" title=\"User:NullReason\">NullReason</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/maurício.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

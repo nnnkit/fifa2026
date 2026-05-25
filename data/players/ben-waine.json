@@ -1,0 +1,77 @@
+{
+  "slug": "ben-waine",
+  "display_name": "Ben Waine",
+  "shirt_no": 18,
+  "position_code": "FW",
+  "dob": "2001-06-11",
+  "age": 25,
+  "caps": 30,
+  "goals": 9,
+  "club_from_squad_table": "Port Vale",
+  "wikipedia_title": "Ben Waine",
+  "date_of_birth": "2001-06-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Port Vale",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q62629839",
+  "qid": "Q62629839",
+  "name": "Ben Waine",
+  "description": "New Zealand association football player",
+  "place_of_birth_qid": "Q23661",
+  "citizenship_qids": [
+    "Q664"
+  ],
+  "height_cm": 179.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q815890",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q175315",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q510953",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q48947",
+      "start": "2023-01-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q48947",
+  "image_filename": "Ben Waine.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ben_Waine",
+  "transfermarkt_id": "539502",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "New Zealand"
+  ],
+  "place_of_birth": "Wellington",
+  "wikidata_current_club": "Plymouth Argyle F.C.",
+  "wikidata_current_club_qid": "Q48947",
+  "photo": {
+    "filename": "Ben Waine.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Ben_Waine.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Ben_Waine.jpg",
+    "width": 828,
+    "height": 1636,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:EchetusXe&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:EchetusXe (page does not exist)\">EchetusXe</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ben-waine.jpg"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand"
+}

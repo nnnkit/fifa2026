@@ -1,0 +1,45 @@
+{
+  "slug": "ibrahim-maza",
+  "display_name": "Ibrahim Maza",
+  "shirt_no": 22,
+  "position_code": "MF",
+  "dob": "2005-11-24",
+  "age": 20,
+  "caps": 15,
+  "goals": 2,
+  "club_from_squad_table": "Bayer Leverkusen",
+  "wikipedia_title": "Ibrahim Maza",
+  "date_of_birth": "2005-11-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayer Leverkusen",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q118118504",
+  "qid": "Q118118504",
+  "name": "Ibrahim Maza",
+  "description": "Algerian-German footballer",
+  "place_of_birth_qid": "Q64",
+  "citizenship_qids": [
+    "Q183",
+    "Q262"
+  ],
+  "height_cm": 177.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ibrahim_Maza",
+  "transfermarkt_id": "905011",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Germany",
+    "Algeria"
+  ],
+  "place_of_birth": "Berlin",
+  "team_slug": "algeria",
+  "team_country": "Algeria",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

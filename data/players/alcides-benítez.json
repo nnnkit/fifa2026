@@ -1,0 +1,28 @@
+{
+  "slug": "alcides-benítez",
+  "display_name": "Alcides Benítez",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2002-06-28",
+  "age": 24,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Belgrano",
+  "wikipedia_title": null,
+  "date_of_birth": "2002-06-28",
+  "date_of_birth_source": "transfermarkt+bdfutbol+eswiki-verified",
+  "current_club": "Belgrano",
+  "current_club_source": "wikipedia-squad-table",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "squad_table_date_of_birth": "2002-06-08",
+  "identity_review": {
+    "status": "no-unambiguous-wikidata-qid",
+    "reviewed_at": "2026-05-25",
+    "reason": "No Wikidata exact-label or Transfermarkt-ID item found for the Belgrano defender."
+  }
+}

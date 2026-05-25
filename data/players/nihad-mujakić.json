@@ -1,0 +1,108 @@
+{
+  "slug": "nihad-mujakić",
+  "display_name": "Nihad Mujakić",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-04-15",
+  "age": 28,
+  "caps": 10,
+  "goals": 1,
+  "club_from_squad_table": "Gaziantep",
+  "wikipedia_title": "Nihad Mujakić",
+  "wikidata_qid": "Q50623645",
+  "qid": "Q50623645",
+  "name": "Nihad Mujakić",
+  "description": "Bosnian association football player",
+  "date_of_birth": "1998-04-15",
+  "place_of_birth_qid": "Q11194",
+  "citizenship_qids": [
+    "Q225"
+  ],
+  "height_cm": 189.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q239663",
+      "start": "2016-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q618620",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q181216",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q509170",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q239663",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q492826",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q188656",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q118919",
+      "start": "2025-00-00",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q824850",
+      "start": "2026-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q844509",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q769512",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q824850",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nihad_Mujaki%C4%87",
+  "transfermarkt_id": "380919",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Gaziantep",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Sarajevo",
+  "wikidata_current_club": "Gaziantep F.K.",
+  "wikidata_current_club_qid": "Q824850",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

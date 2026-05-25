@@ -1,0 +1,62 @@
+{
+  "slug": "sontje-hansen",
+  "display_name": "Sontje Hansen",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2002-05-18",
+  "age": 24,
+  "caps": 5,
+  "goals": 1,
+  "club_from_squad_table": "Middlesbrough",
+  "wikipedia_title": "Sontje Hansen",
+  "date_of_birth": "2002-05-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Middlesbrough",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64224437",
+  "qid": "Q64224437",
+  "name": "Sontje Hansen",
+  "description": "Curaçaoan footballer",
+  "place_of_birth_qid": "Q9938",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 168.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q81888",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q81888",
+  "image_filename": "GAE - NEC - 53493469456 (Sontje Hansen).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sontje_Hansen",
+  "transfermarkt_id": "485582",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Hoorn",
+  "wikidata_current_club": "AFC Ajax",
+  "wikidata_current_club_qid": "Q81888",
+  "photo": {
+    "filename": "GAE - NEC - 53493469456 (Sontje Hansen).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/GAE_-_NEC_-_53493469456_%28Sontje_Hansen%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/GAE_-_NEC_-_53493469456_%28Sontje_Hansen%29.jpg",
+    "width": 634,
+    "height": 869,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Carlo Bruil Fotografie",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/sontje-hansen.jpg"
+  },
+  "team_slug": "curaçao",
+  "team_country": "Curaçao"
+}

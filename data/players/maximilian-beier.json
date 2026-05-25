@@ -1,0 +1,75 @@
+{
+  "slug": "maximilian-beier",
+  "display_name": "Maximilian Beier",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2002-10-17",
+  "age": 23,
+  "caps": 7,
+  "goals": 0,
+  "club_from_squad_table": "Borussia Dortmund",
+  "wikipedia_title": "Maximilian Beier",
+  "date_of_birth": "2002-10-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Borussia Dortmund",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q80314837",
+  "qid": "Q80314837",
+  "name": "Maximilian Beier",
+  "description": "German footballer (born 2002)",
+  "place_of_birth_qid": "Q3931",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 1.82,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q22707",
+      "start": "2020-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q33748",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q43310",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q41420",
+  "image_filename": "Maximilian Beier training with Borussia Dortmund (2026).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Maximilian_Beier",
+  "transfermarkt_id": "578392",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Brandenburg an der Havel",
+  "photo": {
+    "filename": "Maximilian Beier training with Borussia Dortmund (2026).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Maximilian_Beier_training_with_Borussia_Dortmund_%282026%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Maximilian_Beier_training_with_Borussia_Dortmund_%282026%29.jpg/960px-Maximilian_Beier_training_with_Borussia_Dortmund_%282026%29.jpg",
+    "width": 991,
+    "height": 1487,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:FriederR%C3%B6cklerII\" title=\"User:FriederRöcklerII\">FriederRöcklerII</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/maximilian-beier.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

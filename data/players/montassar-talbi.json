@@ -1,0 +1,89 @@
+{
+  "slug": "montassar-talbi",
+  "display_name": "Montassar Talbi",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-05-26",
+  "age": 28,
+  "caps": 62,
+  "goals": 4,
+  "club_from_squad_table": "Lorient",
+  "wikipedia_title": "Montassar Talbi",
+  "date_of_birth": "1998-05-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lorient",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q30118244",
+  "qid": "Q30118244",
+  "name": "Montassar Talbi",
+  "description": "Tunisian association football player",
+  "place_of_birth_qid": "Q90",
+  "citizenship_qids": [
+    "Q142",
+    "Q948"
+  ],
+  "height_cm": 190.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q44897",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q272712",
+      "start": "2018-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q652516",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q170040",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q48911",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q27971",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q48911",
+  "image_filename": "Montassar Talbi 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Montassar_Talbi",
+  "transfermarkt_id": "496706",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "France",
+    "Tunisia"
+  ],
+  "place_of_birth": "Paris",
+  "wikidata_current_club": "F.C. Lorient",
+  "wikidata_current_club_qid": "Q48911",
+  "photo": {
+    "filename": "Montassar Talbi 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Montassar_Talbi_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Montassar_Talbi_2022.jpg",
+    "width": 472,
+    "height": 777,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/montassar-talbi.jpg"
+  },
+  "team_slug": "tunisia",
+  "team_country": "Tunisia"
+}

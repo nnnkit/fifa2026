@@ -1,0 +1,101 @@
+{
+  "slug": "timothy-weah",
+  "display_name": "Timothy Weah",
+  "shirt_no": 21,
+  "position_code": "FW",
+  "dob": "2000-02-22",
+  "age": 26,
+  "caps": 49,
+  "goals": 7,
+  "club_from_squad_table": "Marseille",
+  "wikipedia_title": "Timothy Weah",
+  "date_of_birth": "2000-02-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Marseille",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q31871265",
+  "qid": "Q31871265",
+  "name": "Timothy Weah",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q18419",
+  "citizenship_qids": [
+    "Q30",
+    "Q142"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q483020",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q3590570",
+      "start": "2015-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q164134",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q287804",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1422",
+      "start": "2023-07-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q19516",
+      "start": "2019-07-01",
+      "end": "2023-07-01"
+    },
+    {
+      "team_qid": "Q19593",
+      "start": "2019-01-07",
+      "end": "2019-06-30"
+    },
+    {
+      "team_qid": "Q132885",
+      "start": "2025-08-06",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q132885",
+  "image_filename": "2022 FIFA World Cup United States 1\u20131 Wales - (17) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Timothy_Weah",
+  "transfermarkt_id": "370846",
+  "fifa_player_id": "406304",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "United States",
+    "France"
+  ],
+  "place_of_birth": "Brooklyn",
+  "wikidata_current_club": "Olympique de Marseille",
+  "wikidata_current_club_qid": "Q132885",
+  "photo": {
+    "filename": "2022 FIFA World Cup United States 1\u20131 Wales - (17) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_%2817%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_%2817%29_%28cropped%29.jpg",
+    "width": 308,
+    "height": 513,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "\u062d\u0633\u06cc\u0646 \u0638\u0647\u0631\u0648\u0646\u062f",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/timothy-weah.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

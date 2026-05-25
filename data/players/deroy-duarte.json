@@ -1,0 +1,63 @@
+{
+  "slug": "deroy-duarte",
+  "display_name": "Deroy Duarte",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1999-07-04",
+  "age": 26,
+  "caps": 30,
+  "goals": 0,
+  "club_from_squad_table": "Ludogorets Razgrad",
+  "wikipedia_title": "Deroy Duarte",
+  "date_of_birth": "1999-07-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Ludogorets Razgrad",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q39082970",
+  "qid": "Q39082970",
+  "name": "Deroy Duarte",
+  "description": "association football player",
+  "place_of_birth_qid": "Q34370",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 177.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q209895",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q209895",
+  "image_filename": "Deroy Duarte.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Deroy_Duarte",
+  "transfermarkt_id": "432852",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Rotterdam",
+  "wikidata_current_club": "Sparta Rotterdam",
+  "wikidata_current_club_qid": "Q209895",
+  "photo": {
+    "filename": "Deroy Duarte.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deroy_Duarte.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Deroy_Duarte.jpg",
+    "width": 581,
+    "height": 1024,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Carlo Bruil Fotografie",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/deroy-duarte.jpg"
+  },
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde"
+}

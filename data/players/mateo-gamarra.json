@@ -1,0 +1,43 @@
+{
+  "slug": "mateo-gamarra",
+  "display_name": "Mateo Gamarra",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-10-20",
+  "age": 25,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Cruzeiro",
+  "wikipedia_title": "Mateo Gamarra",
+  "date_of_birth": "2000-10-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Cruzeiro",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q115952095",
+  "qid": "Q115952095",
+  "name": "Mateo Gamarra",
+  "description": "Paraguayan footballer",
+  "place_of_birth_qid": "Q840962",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mateo_Gamarra",
+  "transfermarkt_id": "661245",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Concepción",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

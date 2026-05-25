@@ -1,0 +1,84 @@
+{
+  "slug": "giuliano-simeone",
+  "display_name": "Giuliano Simeone",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2002-12-18",
+  "age": 23,
+  "caps": 11,
+  "goals": 1,
+  "club_from_squad_table": "Atlético Madrid",
+  "wikipedia_title": "Giuliano Simeone",
+  "wikidata_qid": "Q111672750",
+  "qid": "Q111672750",
+  "name": "Giuliano Simeone",
+  "description": "Argentine footballer (born 2002)",
+  "date_of_birth": "2002-12-18",
+  "place_of_birth_qid": "Q220",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 1.73,
+  "teams": [
+    {
+      "team_qid": "Q780539",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q8701",
+      "start": "2022-07-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q10308",
+      "start": "2022-07-04",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q223620",
+      "start": "2023-07-21",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q2462207",
+      "start": "2024-06-08",
+      "end": null
+    },
+    {
+      "team_qid": "Q23881840",
+      "start": "2024-07-19",
+      "end": "2024-08-02"
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2024-11-20",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8701",
+  "image_filename": "Giuliano Simeone, FC Salzburg vs. Atletico Madrid (2025-01-29 UEFA Championsleague) 53 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giuliano_Simeone",
+  "transfermarkt_id": "742201",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atlético Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Rome",
+  "photo": {
+    "filename": "Giuliano Simeone, FC Salzburg vs. Atletico Madrid (2025-01-29 UEFA Championsleague) 53 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Giuliano_Simeone%2C_FC_Salzburg_vs._Atletico_Madrid_%282025-01-29_UEFA_Championsleague%29_53_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Giuliano_Simeone%2C_FC_Salzburg_vs._Atletico_Madrid_%282025-01-29_UEFA_Championsleague%29_53_%28cropped%29.jpg",
+    "width": 686,
+    "height": 1048,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/giuliano-simeone.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

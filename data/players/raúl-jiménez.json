@@ -1,0 +1,93 @@
+{
+  "slug": "raúl-jiménez",
+  "display_name": "Raúl Jiménez",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1991-05-05",
+  "age": 35,
+  "caps": 123,
+  "goals": 44,
+  "club_from_squad_table": "Fulham",
+  "wikipedia_title": "Raúl Jiménez",
+  "wikidata_qid": "Q1925465",
+  "qid": "Q1925465",
+  "name": "Raúl Jiménez",
+  "description": "Mexican association football player (born 1991)",
+  "date_of_birth": "1991-05-05",
+  "place_of_birth_qid": "Q2450298",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q131499",
+      "start": "2015-01-01",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q459090",
+      "start": "2011-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q8701",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q164089",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q19500",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q19500",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q18708",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18708",
+  "image_filename": "Raúl Jiménez.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Jim%C3%A9nez",
+  "transfermarkt_id": "206040",
+  "fifa_player_id": "356731",
+  "current_club": "Fulham",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Tepeji del Río de Ocampo Municipality",
+  "wikidata_current_club": "Fulham F.C.",
+  "wikidata_current_club_qid": "Q18708",
+  "photo": {
+    "filename": "Raúl Jiménez.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ra%C3%BAl_Jim%C3%A9nez.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ra%C3%BAl_Jim%C3%A9nez.jpg",
+    "width": 800,
+    "height": 1200,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tirado.fj&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tirado.fj (page does not exist)\">Tirado.fj</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/raúl-jiménez.jpg"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

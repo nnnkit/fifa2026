@@ -1,0 +1,65 @@
+{
+  "slug": "dylan-batubinsika",
+  "display_name": "Dylan Batubinsika",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-02-15",
+  "age": 30,
+  "caps": 14,
+  "goals": 1,
+  "club_from_squad_table": "AEL",
+  "wikipedia_title": "Dylan Batubinsika",
+  "date_of_birth": "1996-02-15",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "AEL",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q34360045",
+  "qid": "Q34360045",
+  "name": "Dylan Batubinsika",
+  "description": "Congolese international footballer who plays as a central defender for AS Saint-\u00c9tienne",
+  "place_of_birth_qid": "Q18681428",
+  "citizenship_qids": [
+    "Q142",
+    "Q974"
+  ],
+  "height_cm": 184.0,
+  "weight_kg": 84.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q732002",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q732002",
+  "image_filename": "Batubinsika asse fcn 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dylan_Batubinsika",
+  "transfermarkt_id": "289432",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "France",
+    "Democratic Republic of the Congo"
+  ],
+  "place_of_birth": "Cergy-Pontoise",
+  "wikidata_current_club": "Royal Antwerp F.C.",
+  "wikidata_current_club_qid": "Q732002",
+  "photo": {
+    "filename": "Batubinsika asse fcn 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Batubinsika_asse_fcn_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Batubinsika_asse_fcn_2425.png",
+    "width": 846,
+    "height": 991,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/dylan-batubinsika.png"
+  },
+  "team_slug": "dr-congo",
+  "team_country": "DR Congo"
+}

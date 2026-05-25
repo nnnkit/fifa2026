@@ -1,0 +1,69 @@
+{
+  "slug": "brandon-mechele",
+  "display_name": "Brandon Mechele",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1993-01-28",
+  "age": 33,
+  "caps": 7,
+  "goals": 1,
+  "club_from_squad_table": "Club Brugge",
+  "wikipedia_title": "Brandon Mechele",
+  "date_of_birth": "1993-01-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Club Brugge",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q13444905",
+  "qid": "Q13444905",
+  "name": "Brandon Mechele",
+  "description": "Belgian association football player",
+  "place_of_birth_qid": "Q742920",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 81.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q190916",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    }
+  ],
+  "current_club_qid": "Q190916",
+  "image_filename": "Brandon Mechele Club Brugge.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brandon_Mechele",
+  "transfermarkt_id": "236168",
+  "fifa_player_id": "201131328",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Bredene",
+  "wikidata_current_club": "Club Brugge K.V.",
+  "wikidata_current_club_qid": "Q190916",
+  "photo": {
+    "filename": "Brandon Mechele Club Brugge.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Brandon_Mechele_Club_Brugge.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Brandon_Mechele_Club_Brugge.jpg",
+    "width": 380,
+    "height": 800,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:IndaloBlue&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:IndaloBlue (page does not exist)\">Michel Berix</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/brandon-mechele.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "f\u00e9lix-torres",
+  "display_name": "F\u00e9lix Torres",
+  "shirt_no": 2,
+  "position_code": "DF",
+  "dob": "1997-01-11",
+  "age": 29,
+  "caps": 47,
+  "goals": 5,
+  "club_from_squad_table": "Internacional",
+  "wikipedia_title": "F\u00e9lix Torres (footballer, born 1997)",
+  "date_of_birth": "1997-01-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Internacional",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q30916190",
+  "qid": "Q30916190",
+  "name": "F\u00e9lix Torres",
+  "description": "Ecuadorian association football player (1997-)",
+  "place_of_birth_qid": "Q7414682",
+  "citizenship_qids": [
+    "Q736"
+  ],
+  "height_cm": 187.0,
+  "position_qids": [
+    "Q31861287"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q248782",
+      "start": "2017-02-00",
+      "end": "2017-12-00"
+    },
+    {
+      "team_qid": "Q3328904",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q987584",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q114897472",
+      "start": null,
+      "end": "2016-02-00"
+    },
+    {
+      "team_qid": "Q114897518",
+      "start": "2016-02-00",
+      "end": "2018-02-00"
+    },
+    {
+      "team_qid": "Q248782",
+      "start": "2018-02-00",
+      "end": "2019-07-00"
+    },
+    {
+      "team_qid": "Q745246",
+      "start": "2019-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q35933",
+      "start": "2024-01-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q35933",
+  "image_filename": "2022 FIFA World Cup Qatar 0\u20132 Ecuador - (13).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/F%C3%A9lix_Torres_(footballer,_born_1997)",
+  "transfermarkt_id": "468174",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Ecuador"
+  ],
+  "place_of_birth": "San Lorenzo",
+  "wikidata_current_club": "S.C. Corinthians Paulista",
+  "wikidata_current_club_qid": "Q35933",
+  "photo": {
+    "filename": "2022 FIFA World Cup Qatar 0\u20132 Ecuador - (13).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/2022_FIFA_World_Cup_Qatar_0%E2%80%932_Ecuador_-_%2813%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/2022_FIFA_World_Cup_Qatar_0%E2%80%932_Ecuador_-_%2813%29.jpg",
+    "width": 800,
+    "height": 531,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "\u062d\u0633\u06cc\u0646 \u0638\u0647\u0631\u0648\u0646\u062f",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/f\u00e9lix-torres.jpg"
+  },
+  "team_slug": "ecuador",
+  "team_country": "Ecuador"
+}

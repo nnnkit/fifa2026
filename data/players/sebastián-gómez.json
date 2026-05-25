@@ -1,0 +1,58 @@
+{
+  "slug": "sebasti\u00e1n-g\u00f3mez",
+  "display_name": "Sebasti\u00e1n G\u00f3mez",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-06-03",
+  "age": 30,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Coritiba",
+  "wikipedia_title": "Sebasti\u00e1n G\u00f3mez (Colombian footballer)",
+  "date_of_birth": "1996-06-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Coritiba",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q59784614",
+  "qid": "Q59784614",
+  "name": "Sebasti\u00e1n G\u00f3mez",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q774725",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 172.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2539776",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q332605",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q332605",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_G%C3%B3mez_(Colombian_footballer)",
+  "transfermarkt_id": "570522",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Girardota",
+  "wikidata_current_club": "Atl\u00e9tico Nacional",
+  "wikidata_current_club_qid": "Q332605",
+  "team_slug": "colombia",
+  "team_country": "Colombia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

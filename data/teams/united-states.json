@@ -1,0 +1,2166 @@
+{
+  "slug": "united-states",
+  "country": "United States",
+  "wikidata_qid": "Q164134",
+  "fetched_at": "2026-05-24T15:15:34+00:00",
+  "source": {
+    "kind": "national-team",
+    "title": "United States men's national soccer team",
+    "url": "https://en.wikipedia.org/wiki/United_States_men's_national_soccer_team"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "matt-turner",
+      "display_name": "Matt Turner",
+      "shirt_no": 1,
+      "position_code": "GK",
+      "dob": "1994-06-24",
+      "age": 31,
+      "caps": 53,
+      "goals": 0,
+      "club_from_squad_table": "New England Revolution",
+      "wikipedia_title": "Matt Turner (soccer)",
+      "date_of_birth": "1994-06-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "New England Revolution",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q24663885",
+      "qid": "Q24663885",
+      "name": "Matt Turner",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q253067",
+      "citizenship_qids": [
+        "Q30",
+        "Q37"
+      ],
+      "height_cm": 191.0,
+      "weight_kg": 84.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q309095",
+          "start": "2016-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1784644",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q6184846",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q19490",
+          "start": "2023-08-09",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19490",
+      "image_filename": "Matt Turner Red Bulls Revolution-34 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Matt_Turner_(soccer)",
+      "transfermarkt_id": "425306",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "United States",
+        "Lithuania"
+      ],
+      "place_of_birth": "Park Ridge",
+      "wikidata_current_club": "Nottingham Forest F.C.",
+      "wikidata_current_club_qid": "Q19490",
+      "photo": {
+        "filename": "Matt Turner Red Bulls Revolution-34 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Matt_Turner_Red_Bulls_Revolution-34_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Matt_Turner_Red_Bulls_Revolution-34_%28cropped%29.jpg/960px-Matt_Turner_Red_Bulls_Revolution-34_%28cropped%29.jpg",
+        "width": 1847,
+        "height": 2462,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/matt-turner.jpg"
+      }
+    },
+    {
+      "slug": "matt-freese",
+      "display_name": "Matt Freese",
+      "shirt_no": 24,
+      "position_code": "GK",
+      "dob": "1998-09-02",
+      "age": 27,
+      "caps": 14,
+      "goals": 0,
+      "club_from_squad_table": "New York City FC",
+      "wikipedia_title": "Matt Freese",
+      "date_of_birth": "1998-09-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "New York City FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q62036070",
+      "qid": "Q62036070",
+      "name": "Matt Freese",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q3891562",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 193.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q689874",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q21070839",
+          "start": "2017-04-00",
+          "end": "2017-07-00"
+        },
+        {
+          "team_qid": "Q21070839",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q13361030",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q13361030",
+      "image_filename": "Matt Freese NYCFC vs DC United on Aug 30 2025-019 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Matt_Freese",
+      "transfermarkt_id": "500309",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "Wayne",
+      "photo": {
+        "filename": "Matt Freese NYCFC vs DC United on Aug 30 2025-019 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Matt_Freese_NYCFC_vs_DC_United_on_Aug_30_2025-019_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Matt_Freese_NYCFC_vs_DC_United_on_Aug_30_2025-019_%28cropped%29.jpg/960px-Matt_Freese_NYCFC_vs_DC_United_on_Aug_30_2025-019_%28cropped%29.jpg",
+        "width": 3102,
+        "height": 4134,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/matt-freese.jpg"
+      }
+    },
+    {
+      "slug": "chris-brady",
+      "display_name": "Chris Brady",
+      "shirt_no": 26,
+      "position_code": "GK",
+      "dob": "2004-03-03",
+      "age": 22,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Chicago Fire",
+      "wikipedia_title": "Chris Brady (soccer)",
+      "date_of_birth": "2004-03-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Chicago Fire",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q98594864",
+      "qid": "Q98594864",
+      "name": "Chris Brady",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q243007",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q111195530",
+          "start": "2022-04-00",
+          "end": "2022-09-00"
+        },
+        {
+          "team_qid": "Q308683",
+          "start": "2020-03-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q60745055",
+          "start": "2020-08-00",
+          "end": "2020-10-00"
+        },
+        {
+          "team_qid": "Q60745055",
+          "start": "2021-06-13",
+          "end": "2021-06-13"
+        },
+        {
+          "team_qid": "Q48854677",
+          "start": "2019-08-00",
+          "end": "2019-08-00"
+        },
+        {
+          "team_qid": "Q287804",
+          "start": "2022-03-00",
+          "end": "2022-07-00"
+        },
+        {
+          "team_qid": "Q3590572",
+          "start": "2023-10-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q308683",
+      "image_filename": "Chris Brady Philadelphia Chicago 10.26.25-026 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Brady_(soccer)",
+      "transfermarkt_id": "765504",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "Naperville",
+      "wikidata_current_club": "Chicago Fire FC",
+      "wikidata_current_club_qid": "Q308683",
+      "photo": {
+        "filename": "Chris Brady Philadelphia Chicago 10.26.25-026 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Chris_Brady_Philadelphia_Chicago_10.26.25-026_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Chris_Brady_Philadelphia_Chicago_10.26.25-026_%28cropped%29.jpg/960px-Chris_Brady_Philadelphia_Chicago_10.26.25-026_%28cropped%29.jpg",
+        "width": 3085,
+        "height": 4111,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/chris-brady.jpg"
+      }
+    },
+    {
+      "slug": "patrick-schulte",
+      "display_name": "Patrick Schulte",
+      "shirt_no": 27,
+      "position_code": "GK",
+      "dob": "2001-03-13",
+      "age": 25,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Columbus Crew",
+      "wikipedia_title": "Patrick Schulte",
+      "date_of_birth": "2001-03-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Columbus Crew",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q97657280",
+      "qid": "Q97657280",
+      "name": "Patrick Schulte",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q773432",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 196.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q16850747",
+          "start": null,
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q457163",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q109973913",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q457163",
+      "image_filename": "Patrick Schulte NYCFC v Columbus 10 May 2026-64 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Schulte",
+      "transfermarkt_id": "649397",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "St. Charles",
+      "photo": {
+        "filename": "Patrick Schulte NYCFC v Columbus 10 May 2026-64 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Patrick_Schulte_NYCFC_v_Columbus_10_May_2026-64_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Patrick_Schulte_NYCFC_v_Columbus_10_May_2026-64_%28cropped%29.jpg/960px-Patrick_Schulte_NYCFC_v_Columbus_10_May_2026-64_%28cropped%29.jpg",
+        "width": 2952,
+        "height": 4426,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/patrick-schulte.jpg"
+      }
+    },
+    {
+      "slug": "auston-trusty",
+      "display_name": "Auston Trusty",
+      "shirt_no": 2,
+      "position_code": "DF",
+      "dob": "1998-08-12",
+      "age": 27,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Celtic",
+      "wikipedia_title": "Auston Trusty",
+      "date_of_birth": "1998-08-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Celtic",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q24007335",
+      "qid": "Q24007335",
+      "name": "Auston Trusty",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q1187804",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 191.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q21070839",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q689874",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q21070839",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q642408",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590570",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q91906315",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q287804",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q3590572",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q642408",
+      "image_filename": "Dsc 5720 29430463257 o (50120746293) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Auston_Trusty",
+      "transfermarkt_id": "389253",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "Media",
+      "wikidata_current_club": "Colorado Rapids",
+      "wikidata_current_club_qid": "Q642408",
+      "photo": {
+        "filename": "Dsc 5720 29430463257 o (50120746293) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Dsc_5720_29430463257_o_%2850120746293%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dsc_5720_29430463257_o_%2850120746293%29_%28cropped%29.jpg/960px-Dsc_5720_29430463257_o_%2850120746293%29_%28cropped%29.jpg",
+        "width": 1289,
+        "height": 1911,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/10457902@N08\">All-Pro Reels</a> from District of Columbia, USA",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/auston-trusty.jpg"
+      }
+    },
+    {
+      "slug": "chris-richards",
+      "display_name": "Chris Richards",
+      "shirt_no": 3,
+      "position_code": "DF",
+      "dob": "2000-03-28",
+      "age": 26,
+      "caps": 36,
+      "goals": 3,
+      "club_from_squad_table": "Crystal Palace",
+      "wikipedia_title": "Chris Richards (soccer)",
+      "date_of_birth": "2000-03-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Crystal Palace",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60839691",
+      "qid": "Q60839691",
+      "name": "Chris Richards",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q79867",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 1.88,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q994701",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q287804",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590572",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15789",
+      "image_filename": "Chris Richards (soccer).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Richards_(soccer)",
+      "transfermarkt_id": "578539",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "Birmingham",
+      "wikidata_current_club": "FC Bayern Munich",
+      "wikidata_current_club_qid": "Q15789",
+      "photo": {
+        "filename": "Chris Richards (soccer).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Chris_Richards_%28soccer%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chris_Richards_%28soccer%29.jpg/960px-Chris_Richards_%28soccer%29.jpg",
+        "width": 1016,
+        "height": 1740,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Pedro  Semitiel",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/chris-richards.jpg"
+      }
+    },
+    {
+      "slug": "antonee-robinson",
+      "display_name": "Antonee Robinson",
+      "shirt_no": 5,
+      "position_code": "DF",
+      "dob": "1997-08-08",
+      "age": 28,
+      "caps": 52,
+      "goals": 4,
+      "club_from_squad_table": "Fulham",
+      "wikipedia_title": "Antonee Robinson",
+      "date_of_birth": "1997-08-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fulham",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q35778151",
+      "qid": "Q35778151",
+      "name": "Antonee Robinson",
+      "description": "American-English soccer player",
+      "place_of_birth_qid": "Q204234",
+      "citizenship_qids": [
+        "Q30",
+        "Q145"
+      ],
+      "height_cm": 1.83,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q164134",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q5794",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q18750",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q5794",
+      "image_filename": "Antonee Robinson WC2022 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Antonee_Robinson",
+      "transfermarkt_id": "349701",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "United States",
+        "United Kingdom"
+      ],
+      "place_of_birth": "Milton Keynes",
+      "wikidata_current_club": "Everton F.C.",
+      "wikidata_current_club_qid": "Q5794",
+      "photo": {
+        "filename": "Antonee Robinson WC2022 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Antonee_Robinson_WC2022_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Antonee_Robinson_WC2022_%28cropped%29.jpg",
+        "width": 278,
+        "height": 391,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Hossein Zohrevand",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/antonee-robinson.jpg"
+      }
+    },
+    {
+      "slug": "miles-robinson",
+      "display_name": "Miles Robinson",
+      "shirt_no": 12,
+      "position_code": "DF",
+      "dob": "1997-03-14",
+      "age": 29,
+      "caps": 38,
+      "goals": 3,
+      "club_from_squad_table": "FC Cincinnati",
+      "wikipedia_title": "Miles Robinson (soccer)",
+      "date_of_birth": "1997-03-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "FC Cincinnati",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30122953",
+      "qid": "Q30122953",
+      "name": "Miles Robinson",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q2090461",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 185.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1066683",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q16836317",
+          "start": "2017-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q47175799",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q20855983",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q9169796",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        }
+      ],
+      "current_club_qid": "Q20855983",
+      "image_filename": "Miles Robinson, 2025 CONCACAF Gold Cup.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Miles_Robinson_(soccer)",
+      "transfermarkt_id": "468022",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "Arlington",
+      "photo": {
+        "filename": "Miles Robinson, 2025 CONCACAF Gold Cup.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Miles_Robinson%2C_2025_CONCACAF_Gold_Cup.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Miles_Robinson%2C_2025_CONCACAF_Gold_Cup.jpg",
+        "width": 535,
+        "height": 776,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://old.reddit.com/user/reepers_hellcat\">u/reepers_hellcat</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/miles-robinson.jpg"
+      }
+    },
+    {
+      "slug": "tim-ream",
+      "display_name": "Tim Ream",
+      "shirt_no": 13,
+      "position_code": "DF",
+      "dob": "1987-10-05",
+      "age": 38,
+      "caps": 80,
+      "goals": 1,
+      "club_from_squad_table": "Charlotte FC",
+      "wikipedia_title": "Tim Ream",
+      "date_of_birth": "1987-10-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Charlotte FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q716113",
+      "qid": "Q716113",
+      "name": "Tim Ream",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q38022",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 186.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19451",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q7401658",
+          "start": "2003-00-00",
+          "end": "2005-00-00"
+        },
+        {
+          "team_qid": "Q739468",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q204220",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q18708",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2010-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18708",
+      "image_filename": "Tim Ream NYCFC v Charlotte 20 Sep 2025-021 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Ream",
+      "transfermarkt_id": "145466",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "St. Louis",
+      "wikidata_current_club": "Fulham F.C.",
+      "wikidata_current_club_qid": "Q18708",
+      "photo": {
+        "filename": "Tim Ream NYCFC v Charlotte 20 Sep 2025-021 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Tim_Ream_NYCFC_v_Charlotte_20_Sep_2025-021_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tim_Ream_NYCFC_v_Charlotte_20_Sep_2025-021_%28cropped%29.jpg/960px-Tim_Ream_NYCFC_v_Charlotte_20_Sep_2025-021_%28cropped%29.jpg",
+        "width": 2957,
+        "height": 3941,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/tim-ream.jpg"
+      }
+    },
+    {
+      "slug": "alex-freeman",
+      "display_name": "Alex Freeman",
+      "shirt_no": 16,
+      "position_code": "DF",
+      "dob": "2004-08-09",
+      "age": 21,
+      "caps": 15,
+      "goals": 2,
+      "club_from_squad_table": "Villarreal",
+      "wikipedia_title": "Alex Freeman",
+      "date_of_birth": "2004-08-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Villarreal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q111604014",
+      "qid": "Q111604014",
+      "name": "Alex Freeman",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q165972",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15214308",
+          "start": "2022-00-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q91906315",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590572",
+          "start": "2023-10-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q12297",
+      "image_filename": "Alex Freeman USMNT v Belgium Mar 28 2026-59 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Freeman",
+      "transfermarkt_id": "985806",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "Fort Lauderdale",
+      "wikidata_current_club": "Villarreal CF",
+      "wikidata_current_club_qid": "Q12297",
+      "photo": {
+        "filename": "Alex Freeman USMNT v Belgium Mar 28 2026-59 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Alex_Freeman_USMNT_v_Belgium_Mar_28_2026-59_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Alex_Freeman_USMNT_v_Belgium_Mar_28_2026-59_%28cropped%29.jpg/960px-Alex_Freeman_USMNT_v_Belgium_Mar_28_2026-59_%28cropped%29.jpg",
+        "width": 2981,
+        "height": 3973,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alex-freeman.jpg"
+      }
+    },
+    {
+      "slug": "maximilian-arfsten",
+      "display_name": "Maximilian Arfsten",
+      "shirt_no": 18,
+      "position_code": "DF",
+      "dob": "2001-04-19",
+      "age": 25,
+      "caps": 18,
+      "goals": 1,
+      "club_from_squad_table": "Columbus Crew",
+      "wikipedia_title": "Maximilian Arfsten",
+      "date_of_birth": "2001-04-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Columbus Crew",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117309867",
+      "qid": "Q117309867",
+      "name": "Maximilian Arfsten",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q74394",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q130482257",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q110996746",
+          "start": "2022-03-00",
+          "end": "2022-12-00"
+        },
+        {
+          "team_qid": "Q457163",
+          "start": "2023-03-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q109973913",
+          "start": "2023-04-00",
+          "end": "2023-04-00"
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2025-01-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q457163",
+      "image_filename": "Max Arfsten NYCFC v Columbus 10 May 2026-63.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maximilian_Arfsten",
+      "transfermarkt_id": "993063",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "Fresno",
+      "photo": {
+        "filename": "Max Arfsten NYCFC v Columbus 10 May 2026-63.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Max_Arfsten_NYCFC_v_Columbus_10_May_2026-63.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Max_Arfsten_NYCFC_v_Columbus_10_May_2026-63.jpg/960px-Max_Arfsten_NYCFC_v_Columbus_10_May_2026-63.jpg",
+        "width": 3333,
+        "height": 5000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/maximilian-arfsten.jpg"
+      }
+    },
+    {
+      "slug": "joe-scally",
+      "display_name": "Joe Scally",
+      "shirt_no": 19,
+      "position_code": "DF",
+      "dob": "2002-12-31",
+      "age": 23,
+      "caps": 24,
+      "goals": 0,
+      "club_from_squad_table": "Borussia Mönchengladbach",
+      "wikipedia_title": "Joe Scally",
+      "date_of_birth": "2002-12-31",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Borussia Mönchengladbach",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q54861644",
+      "qid": "Q54861644",
+      "name": "Joe Scally",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q1442569",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 1.84,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q13361030",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q3590570",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q101959",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q101959",
+      "image_filename": "Joe Scally USMNT v Belgium Mar 28 2026-51 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Scally",
+      "transfermarkt_id": "504153",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "Lake Grove",
+      "photo": {
+        "filename": "Joe Scally USMNT v Belgium Mar 28 2026-51 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Joe_Scally_USMNT_v_Belgium_Mar_28_2026-51_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Joe_Scally_USMNT_v_Belgium_Mar_28_2026-51_%28cropped%29.jpg/960px-Joe_Scally_USMNT_v_Belgium_Mar_28_2026-51_%28cropped%29.jpg",
+        "width": 3151,
+        "height": 4199,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/joe-scally.jpg"
+      }
+    },
+    {
+      "slug": "mark-mckenzie",
+      "display_name": "Mark McKenzie",
+      "shirt_no": 22,
+      "position_code": "DF",
+      "dob": "1999-02-25",
+      "age": 27,
+      "caps": 27,
+      "goals": 0,
+      "club_from_squad_table": "Toulouse",
+      "wikipedia_title": "Mark McKenzie (soccer, born 1999)",
+      "date_of_birth": "1999-02-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Toulouse",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27995843",
+      "qid": "Q27995843",
+      "name": "Mark McKenzie",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q755632",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 1.84,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q21070839",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q689874",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q21070839",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q287804",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q689874",
+      "image_filename": "McKenzie asse tfc 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_McKenzie_(soccer,_born_1999)",
+      "transfermarkt_id": "429259",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "Bear",
+      "wikidata_current_club": "Philadelphia Union",
+      "wikidata_current_club_qid": "Q689874",
+      "photo": {
+        "filename": "McKenzie asse tfc 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/McKenzie_asse_tfc_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/McKenzie_asse_tfc_2425.png",
+        "width": 672,
+        "height": 802,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mark-mckenzie.png"
+      }
+    },
+    {
+      "slug": "cristian-roldan",
+      "display_name": "Cristian Roldan",
+      "shirt_no": 4,
+      "position_code": "MF",
+      "dob": "1995-06-03",
+      "age": 30,
+      "caps": 45,
+      "goals": 0,
+      "club_from_squad_table": "Seattle Sounders",
+      "wikipedia_title": "Cristian Roldan",
+      "date_of_birth": "1995-06-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Seattle Sounders",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19519224",
+      "qid": "Q19519224",
+      "name": "Cristian Roldan",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q828706",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 173.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q632511",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2751089",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q18378129",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q287804",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2017-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q632511",
+      "image_filename": "Cristian Roldan on June 9, 2019.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cristian_Roldan",
+      "transfermarkt_id": "354792",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "Pico Rivera",
+      "wikidata_current_club": "Seattle Sounders FC",
+      "wikidata_current_club_qid": "Q632511",
+      "photo": {
+        "filename": "Cristian Roldan on June 9, 2019.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Cristian_Roldan_on_June_9%2C_2019.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cristian_Roldan_on_June_9%2C_2019.jpg/960px-Cristian_Roldan_on_June_9%2C_2019.jpg",
+        "width": 2513,
+        "height": 2828,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Jamie Smed",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/cristian-roldan.jpg"
+      }
+    },
+    {
+      "slug": "tanner-tessmann",
+      "display_name": "Tanner Tessmann",
+      "shirt_no": 6,
+      "position_code": "MF",
+      "dob": "2001-09-24",
+      "age": 24,
+      "caps": 14,
+      "goals": 1,
+      "club_from_squad_table": "Lyon",
+      "wikipedia_title": "Tanner Tessmann",
+      "date_of_birth": "2001-09-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lyon",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64009852",
+      "qid": "Q64009852",
+      "name": "Tanner Tessmann",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q79867",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 1.88,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q60761240",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q642291",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q501245",
+          "start": "2021-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q3590572",
+          "start": "2021-03-00",
+          "end": "2024-03-00"
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2021-02-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q287804",
+          "start": "2019-09-00",
+          "end": "2019-09-00"
+        },
+        {
+          "team_qid": "Q704",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873965",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        }
+      ],
+      "current_club_qid": "Q704",
+      "image_filename": "Tessmann asse ol 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tanner_Tessmann",
+      "transfermarkt_id": "670096",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "Birmingham",
+      "wikidata_current_club": "Olympique Lyonnais",
+      "wikidata_current_club_qid": "Q704",
+      "photo": {
+        "filename": "Tessmann asse ol 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tessmann_asse_ol_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tessmann_asse_ol_2425.png",
+        "width": 512,
+        "height": 779,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/tanner-tessmann.png"
+      }
+    },
+    {
+      "slug": "giovanni-reyna",
+      "display_name": "Giovanni Reyna",
+      "shirt_no": 7,
+      "position_code": "MF",
+      "dob": "2002-11-13",
+      "age": 23,
+      "caps": 36,
+      "goals": 9,
+      "club_from_squad_table": "Borussia Mönchengladbach",
+      "wikipedia_title": "Giovanni Reyna",
+      "date_of_birth": "2002-11-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Borussia Mönchengladbach",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q75019636",
+      "qid": "Q75019636",
+      "name": "Giovanni Reyna",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q188304",
+      "citizenship_qids": [
+        "Q145",
+        "Q45",
+        "Q30"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3590570",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2019-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q48854677",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19490",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q101959",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q101959",
+      "image_filename": "Giovanni Reyna 2020.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Reyna",
+      "transfermarkt_id": "504215",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom",
+        "Portugal",
+        "United States"
+      ],
+      "place_of_birth": "Sunderland",
+      "photo": {
+        "filename": "Giovanni Reyna 2020.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Giovanni_Reyna_2020.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Giovanni_Reyna_2020.jpg",
+        "width": 260,
+        "height": 410,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Vyacheslav Evdokimov",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/giovanni-reyna.jpg"
+      }
+    },
+    {
+      "slug": "weston-mckennie",
+      "display_name": "Weston McKennie",
+      "shirt_no": 8,
+      "position_code": "MF",
+      "dob": "1998-08-28",
+      "age": 27,
+      "caps": 64,
+      "goals": 12,
+      "club_from_squad_table": "Juventus",
+      "wikipedia_title": "Weston McKennie",
+      "date_of_birth": "1998-08-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Juventus",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q29998966",
+      "qid": "Q29998966",
+      "name": "Weston McKennie",
+      "description": "American soccer player (born 1998)",
+      "place_of_birth_qid": "Q979944",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 1.85,
+      "weight_kg": 84.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1422",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q32494",
+          "start": "2017-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1128631",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        }
+      ],
+      "current_club_qid": "Q1422",
+      "image_filename": "Weston McKennie USMNT v Belgium Mar 28 2026-68 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Weston_McKennie",
+      "transfermarkt_id": "332697",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "Little Elm",
+      "wikidata_current_club": "Juventus FC",
+      "wikidata_current_club_qid": "Q1422",
+      "photo": {
+        "filename": "Weston McKennie USMNT v Belgium Mar 28 2026-68 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Weston_McKennie_USMNT_v_Belgium_Mar_28_2026-68_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Weston_McKennie_USMNT_v_Belgium_Mar_28_2026-68_%28cropped%29.jpg/960px-Weston_McKennie_USMNT_v_Belgium_Mar_28_2026-68_%28cropped%29.jpg",
+        "width": 3034,
+        "height": 4043,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/weston-mckennie.jpg"
+      }
+    },
+    {
+      "slug": "sebastian-berhalter",
+      "display_name": "Sebastian Berhalter",
+      "shirt_no": 14,
+      "position_code": "MF",
+      "dob": "2001-05-10",
+      "age": 25,
+      "caps": 11,
+      "goals": 1,
+      "club_from_squad_table": "Vancouver Whitecaps",
+      "wikipedia_title": "Sebastian Berhalter",
+      "date_of_birth": "2001-05-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Vancouver Whitecaps",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q86301356",
+      "qid": "Q86301356",
+      "name": "Sebastian Berhalter",
+      "description": "American association football player (born 2001)",
+      "place_of_birth_qid": "Q84",
+      "citizenship_qids": [
+        "Q145",
+        "Q27",
+        "Q30"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q457163",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19564744",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q196107",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q457163",
+      "image_filename": "Sebastian Berhalter, 2025 CONCACAF Gold Cup, 01 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sebastian_Berhalter",
+      "transfermarkt_id": "734761",
+      "wikidata_date_of_birth": "2001-05-17",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom",
+        "Ireland",
+        "United States"
+      ],
+      "place_of_birth": "London",
+      "wikidata_current_club": "Columbus Crew",
+      "wikidata_current_club_qid": "Q457163",
+      "photo": {
+        "filename": "Sebastian Berhalter, 2025 CONCACAF Gold Cup, 01 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Sebastian_Berhalter%2C_2025_CONCACAF_Gold_Cup%2C_01_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Sebastian_Berhalter%2C_2025_CONCACAF_Gold_Cup%2C_01_%28cropped%29.jpg",
+        "width": 689,
+        "height": 1084,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://old.reddit.com/user/reepers_hellcat\">u/reepers_hellcat</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/sebastian-berhalter.jpg"
+      }
+    },
+    {
+      "slug": "malik-tillman",
+      "display_name": "Malik Tillman",
+      "shirt_no": 17,
+      "position_code": "MF",
+      "dob": "2002-05-28",
+      "age": 23,
+      "caps": 28,
+      "goals": 3,
+      "club_from_squad_table": "Bayer Leverkusen",
+      "wikipedia_title": "Malik Tillman",
+      "date_of_birth": "2002-05-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayer Leverkusen",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q96391665",
+      "qid": "Q96391665",
+      "name": "Malik Tillman",
+      "description": "German-American soccer player",
+      "place_of_birth_qid": "Q2090",
+      "citizenship_qids": [
+        "Q183",
+        "Q30"
+      ],
+      "height_cm": 1.87,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q994701",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2021-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q19597",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q11938",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q11938",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q104761",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q319699",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q316497",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q104761",
+      "image_filename": "Malik-Tillman-2025.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Malik_Tillman",
+      "transfermarkt_id": "467437",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Germany",
+        "United States"
+      ],
+      "place_of_birth": "Nuremberg",
+      "wikidata_current_club": "Bayer 04 Leverkusen",
+      "wikidata_current_club_qid": "Q104761",
+      "photo": {
+        "filename": "Malik-Tillman-2025.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Malik-Tillman-2025.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Malik-Tillman-2025.jpg",
+        "width": 900,
+        "height": 1200,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Fuguito\" title=\"User:Fuguito\">Fuguito</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/malik-tillman.jpg"
+      }
+    },
+    {
+      "slug": "aidan-morris",
+      "display_name": "Aidan Morris",
+      "shirt_no": 23,
+      "position_code": "MF",
+      "dob": "2001-11-16",
+      "age": 24,
+      "caps": 14,
+      "goals": 0,
+      "club_from_squad_table": "Middlesbrough",
+      "wikipedia_title": "Aidan Morris",
+      "date_of_birth": "2001-11-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Middlesbrough",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q80212149",
+      "qid": "Q80212149",
+      "name": "Aidan Morris",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q165972",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q457163",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q92066891",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q7892564",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q287804",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q16820514",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q457163",
+      "image_filename": "Morris Aidan Columbus Crew Meet the Team 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aidan_Morris",
+      "transfermarkt_id": "513968",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "Fort Lauderdale",
+      "wikidata_current_club": "Columbus Crew",
+      "wikidata_current_club_qid": "Q457163",
+      "photo": {
+        "filename": "Morris Aidan Columbus Crew Meet the Team 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Morris_Aidan_Columbus_Crew_Meet_the_Team_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Morris_Aidan_Columbus_Crew_Meet_the_Team_2022.jpg/960px-Morris_Aidan_Columbus_Crew_Meet_the_Team_2022.jpg",
+        "width": 2558,
+        "height": 2746,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jay_eyem&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jay eyem (page does not exist)\">Jay eyem</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/aidan-morris.jpg"
+      }
+    },
+    {
+      "slug": "ricardo-pepi",
+      "display_name": "Ricardo Pepi",
+      "shirt_no": 9,
+      "position_code": "FW",
+      "dob": "2003-01-09",
+      "age": 23,
+      "caps": 35,
+      "goals": 13,
+      "club_from_squad_table": "PSV Eindhoven",
+      "wikipedia_title": "Ricardo Pepi",
+      "date_of_birth": "2003-01-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "PSV Eindhoven",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q62597239",
+      "qid": "Q62597239",
+      "name": "Ricardo Pepi",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q16562",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q642291",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q60761240",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q15755",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q24711",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q11938",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q3590570",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q164134",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q642291",
+      "image_filename": "Ricardo Pepi Football Americana 2021 01.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ricardo_Pepi",
+      "transfermarkt_id": "627207",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "El Paso",
+      "wikidata_current_club": "FC Dallas",
+      "wikidata_current_club_qid": "Q642291",
+      "photo": {
+        "filename": "Ricardo Pepi Football Americana 2021 01.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ricardo_Pepi_Football_Americana_2021_01.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ricardo_Pepi_Football_Americana_2021_01.png",
+        "width": 493,
+        "height": 469,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@YaelAverbuchYFutbol\">Yael Averbuch West</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ricardo-pepi.png"
+      }
+    },
+    {
+      "slug": "christian-pulisic",
+      "display_name": "Christian Pulisic",
+      "shirt_no": 10,
+      "position_code": "FW",
+      "dob": "1998-09-18",
+      "age": 27,
+      "caps": 84,
+      "goals": 32,
+      "club_from_squad_table": "AC Milan",
+      "wikipedia_title": "Christian Pulisic",
+      "date_of_birth": "1998-09-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "AC Milan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q22279773",
+      "qid": "Q22279773",
+      "name": "Christian Pulisic",
+      "description": "American soccer player (born 1998)",
+      "place_of_birth_qid": "Q868666",
+      "citizenship_qids": [
+        "Q30",
+        "Q224"
+      ],
+      "height_cm": 177.0,
+      "weight_kg": 73.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3590570",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2016-00-00",
+          "end": "2019-01-02"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2019-01-02",
+          "end": "2023-07-11"
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2023-07-12",
+          "end": null
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2019-01-03",
+          "end": "2019-06-30"
+        }
+      ],
+      "current_club_qid": "Q1543",
+      "image_filename": "Christian Pulisic USMNT v Belgium Mar 28 2026-73 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Pulisic",
+      "transfermarkt_id": "315779",
+      "fifa_player_id": "390267",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United States",
+        "Croatia"
+      ],
+      "place_of_birth": "Hershey",
+      "photo": {
+        "filename": "Christian Pulisic USMNT v Belgium Mar 28 2026-73 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Christian_Pulisic_USMNT_v_Belgium_Mar_28_2026-73_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Christian_Pulisic_USMNT_v_Belgium_Mar_28_2026-73_%28cropped%29.jpg/960px-Christian_Pulisic_USMNT_v_Belgium_Mar_28_2026-73_%28cropped%29.jpg",
+        "width": 3124,
+        "height": 4163,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/christian-pulisic.jpg"
+      }
+    },
+    {
+      "slug": "brenden-aaronson",
+      "display_name": "Brenden Aaronson",
+      "shirt_no": 11,
+      "position_code": "FW",
+      "dob": "2000-10-22",
+      "age": 25,
+      "caps": 57,
+      "goals": 9,
+      "club_from_squad_table": "Leeds United",
+      "wikipedia_title": "Brenden Aaronson",
+      "date_of_birth": "2000-10-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Leeds United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q33129609",
+      "qid": "Q33129609",
+      "name": "Brenden Aaronson",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q3015360",
+      "citizenship_qids": [
+        "Q30"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q21070839",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q689874",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q689874",
+      "image_filename": "FC RB Salzburg gegen WSG Tirol ( mit Meistertellerübergabe 22. Mai 2021) 15.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brenden_Aaronson",
+      "transfermarkt_id": "393323",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United States"
+      ],
+      "place_of_birth": "Medford",
+      "wikidata_current_club": "Philadelphia Union",
+      "wikidata_current_club_qid": "Q689874",
+      "photo": {
+        "filename": "FC RB Salzburg gegen WSG Tirol ( mit Meistertellerübergabe 22. Mai 2021) 15.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/FC_RB_Salzburg_gegen_WSG_Tirol_%28_mit_Meisterteller%C3%BCbergabe_22._Mai_2021%29_15.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/FC_RB_Salzburg_gegen_WSG_Tirol_%28_mit_Meisterteller%C3%BCbergabe_22._Mai_2021%29_15.jpg/960px-FC_RB_Salzburg_gegen_WSG_Tirol_%28_mit_Meisterteller%C3%BCbergabe_22._Mai_2021%29_15.jpg",
+        "width": 2096,
+        "height": 3175,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/brenden-aaronson.jpg"
+      }
+    },
+    {
+      "slug": "folarin-balogun",
+      "display_name": "Folarin Balogun",
+      "shirt_no": 20,
+      "position_code": "FW",
+      "dob": "2001-07-03",
+      "age": 24,
+      "caps": 25,
+      "goals": 8,
+      "club_from_squad_table": "Monaco",
+      "wikipedia_title": "Folarin Balogun",
+      "date_of_birth": "2001-07-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Monaco",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q101035007",
+      "qid": "Q101035007",
+      "name": "Folarin Balogun",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q60",
+      "citizenship_qids": [
+        "Q30",
+        "Q145"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q9617",
+          "start": "2017-07-00",
+          "end": "2023-08-30"
+        },
+        {
+          "team_qid": "Q18661",
+          "start": "2022-01-12",
+          "end": "2022-06-30"
+        },
+        {
+          "team_qid": "Q208228",
+          "start": "2022-08-03",
+          "end": "2023-06-30"
+        },
+        {
+          "team_qid": "Q180305",
+          "start": "2023-08-30",
+          "end": null
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        }
+      ],
+      "current_club_qid": "Q180305",
+      "image_filename": "Folarin Balogun USMNT v Belgium Mar 28 2026-69 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Folarin_Balogun",
+      "transfermarkt_id": "503770",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United States",
+        "United Kingdom"
+      ],
+      "place_of_birth": "New York City",
+      "wikidata_current_club": "AS Monaco FC",
+      "wikidata_current_club_qid": "Q180305",
+      "photo": {
+        "filename": "Folarin Balogun USMNT v Belgium Mar 28 2026-69 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Folarin_Balogun_USMNT_v_Belgium_Mar_28_2026-69_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Folarin_Balogun_USMNT_v_Belgium_Mar_28_2026-69_%28cropped%29.jpg/960px-Folarin_Balogun_USMNT_v_Belgium_Mar_28_2026-69_%28cropped%29.jpg",
+        "width": 3060,
+        "height": 4078,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/folarin-balogun.jpg"
+      }
+    },
+    {
+      "slug": "timothy-weah",
+      "display_name": "Timothy Weah",
+      "shirt_no": 21,
+      "position_code": "FW",
+      "dob": "2000-02-22",
+      "age": 26,
+      "caps": 49,
+      "goals": 7,
+      "club_from_squad_table": "Marseille",
+      "wikipedia_title": "Timothy Weah",
+      "date_of_birth": "2000-02-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Marseille",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q31871265",
+      "qid": "Q31871265",
+      "name": "Timothy Weah",
+      "description": "American soccer player",
+      "place_of_birth_qid": "Q18419",
+      "citizenship_qids": [
+        "Q30",
+        "Q142"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q483020",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q3590570",
+          "start": "2015-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q287804",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2023-07-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q19516",
+          "start": "2019-07-01",
+          "end": "2023-07-01"
+        },
+        {
+          "team_qid": "Q19593",
+          "start": "2019-01-07",
+          "end": "2019-06-30"
+        },
+        {
+          "team_qid": "Q132885",
+          "start": "2025-08-06",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q132885",
+      "image_filename": "2022 FIFA World Cup United States 1–1 Wales - (17) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Timothy_Weah",
+      "transfermarkt_id": "370846",
+      "fifa_player_id": "406304",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United States",
+        "France"
+      ],
+      "place_of_birth": "Brooklyn",
+      "wikidata_current_club": "Olympique de Marseille",
+      "wikidata_current_club_qid": "Q132885",
+      "photo": {
+        "filename": "2022 FIFA World Cup United States 1–1 Wales - (17) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_%2817%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_%2817%29_%28cropped%29.jpg",
+        "width": 308,
+        "height": 513,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "حسین ظهروند",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/timothy-weah.jpg"
+      }
+    },
+    {
+      "slug": "patrick-agyemang",
+      "display_name": "Patrick Agyemang",
+      "shirt_no": 25,
+      "position_code": "FW",
+      "dob": "2000-11-07",
+      "age": 25,
+      "caps": 14,
+      "goals": 6,
+      "club_from_squad_table": "Derby County",
+      "wikipedia_title": "Patrick Agyemang (soccer, born 2000)",
+      "date_of_birth": "2000-11-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Derby County",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q118954382",
+      "qid": "Q118954382",
+      "name": "Patrick Agyemang",
+      "description": "American soccer player (born 2000)",
+      "place_of_birth_qid": "Q754618",
+      "citizenship_qids": [
+        "Q117",
+        "Q30"
+      ],
+      "height_cm": 1.93,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q78944434",
+          "start": "2023-05-00",
+          "end": "2025-07-00"
+        },
+        {
+          "team_qid": "Q116776963",
+          "start": "2023-03-00",
+          "end": "2023-10-00"
+        },
+        {
+          "team_qid": "Q19470",
+          "start": "2025-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q164134",
+          "start": "2025-01-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19470",
+      "image_filename": "Patrick Agyemang USMNT Debut.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Agyemang_(soccer,_born_2000)",
+      "transfermarkt_id": "1089574",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Ghana",
+        "United States"
+      ],
+      "place_of_birth": "East Hartford",
+      "wikidata_current_club": "Derby County F.C.",
+      "wikidata_current_club_qid": "Q19470",
+      "photo": {
+        "filename": "Patrick Agyemang USMNT Debut.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Patrick_Agyemang_USMNT_Debut.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Patrick_Agyemang_USMNT_Debut.jpg/960px-Patrick_Agyemang_USMNT_Debut.jpg",
+        "width": 2225,
+        "height": 3337,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Choosesam&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Choosesam (page does not exist)\">Choosesam</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/patrick-agyemang.jpg"
+      }
+    }
+  ],
+  "notes": [
+    "United States imported 2026-05-24 from the national-team current squad table because the central 2026 FIFA World Cup squads article currently has no parseable United States squad table.",
+    "United States audit 2026-05-24: verifier found no better official/tournament squad table before the announced 2026-05-26 U.S. Soccer roster reveal; all 26 rows match the current-squad table and all existing photos/QIDs are valid. Sebastian Berhalter has a Wikidata DOB conflict, and several Wikidata-derived current_club_qid values are stale, so source-table club text remains authoritative."
+  ]
+}

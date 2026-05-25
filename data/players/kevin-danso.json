@@ -1,0 +1,70 @@
+{
+  "slug": "kevin-danso",
+  "display_name": "Kevin Danso",
+  "shirt_no": 3,
+  "position_code": "DF",
+  "dob": "1998-09-19",
+  "age": 27,
+  "caps": 31,
+  "goals": 0,
+  "club_from_squad_table": "Tottenham Hotspur",
+  "wikipedia_title": "Kevin Danso",
+  "date_of_birth": "1998-09-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Tottenham Hotspur",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28868192",
+  "qid": "Q28868192",
+  "name": "Kevin Danso",
+  "description": "Austrian association football player (born 1998)",
+  "place_of_birth_qid": "Q660453",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q193592",
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18729",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q303033",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18729",
+  "image_filename": "RC Lens - Lille OSC (17-09-2021) 46.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Danso",
+  "transfermarkt_id": "263236",
+  "positions": [
+    "midfielder",
+    "defender"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Voitsberg",
+  "wikidata_current_club": "Reading F.C.",
+  "wikidata_current_club_qid": "Q18729",
+  "photo": {
+    "filename": "RC Lens - Lille OSC (17-09-2021) 46.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/RC_Lens_-_Lille_OSC_%2817-09-2021%29_46.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RC_Lens_-_Lille_OSC_%2817-09-2021%29_46.jpg/960px-RC_Lens_-_Lille_OSC_%2817-09-2021%29_46.jpg",
+    "width": 2236,
+    "height": 2981,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterh\u00e9ninois (page does not exist)\">Supporterh\u00e9ninois</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kevin-danso.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

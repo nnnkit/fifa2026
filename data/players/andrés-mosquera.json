@@ -1,0 +1,83 @@
+{
+  "slug": "andr\u00e9s-mosquera",
+  "display_name": "Andr\u00e9s Mosquera",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1991-09-10",
+  "age": 34,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Independiente Santa Fe",
+  "wikipedia_title": "Andr\u00e9s Mosquera (footballer, born 1991)",
+  "date_of_birth": "1991-09-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Independiente Santa Fe",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q5675976",
+  "qid": "Q5675976",
+  "name": "Andr\u00e9s Mosquera Marmolejo",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q1946648",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 186.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q757418",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q8249127",
+      "start": "2007-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q391987",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2617893",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1641573",
+      "start": "2009-01-01",
+      "end": "2011-01-01"
+    }
+  ],
+  "current_club_qid": "Q757418",
+  "image_filename": "MosqueraMarmolejo.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Mosquera_(footballer,_born_1991)",
+  "transfermarkt_id": "100379",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Carepa",
+  "wikidata_current_club": "Atl\u00e9tico Bucaramanga",
+  "wikidata_current_club_qid": "Q757418",
+  "photo": {
+    "filename": "MosqueraMarmolejo.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/MosqueraMarmolejo.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/MosqueraMarmolejo.jpg/960px-MosqueraMarmolejo.jpg",
+    "width": 1080,
+    "height": 1059,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Eferes21&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Eferes21 (page does not exist)\">Eferes21</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/andr\u00e9s-mosquera.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

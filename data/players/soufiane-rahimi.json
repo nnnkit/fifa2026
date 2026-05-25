@@ -1,0 +1,77 @@
+{
+  "slug": "soufiane-rahimi",
+  "display_name": "Soufiane Rahimi",
+  "shirt_no": 9,
+  "position_code": "FW",
+  "dob": "1996-06-02",
+  "age": 29,
+  "caps": 25,
+  "goals": 5,
+  "club_from_squad_table": "Al Ain",
+  "wikipedia_title": "Soufiane Rahimi",
+  "date_of_birth": "1996-06-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al Ain",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q56247602",
+  "qid": "Q56247602",
+  "name": "Soufiane Rahimi",
+  "description": "Moroccan footballer",
+  "place_of_birth_qid": "Q7903",
+  "citizenship_qids": [
+    "Q1028"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1051514",
+      "start": "2017-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q812720",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q207337",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3592480",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    }
+  ],
+  "current_club_qid": "Q812720",
+  "image_filename": "Soufiane Rahimu (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Soufiane_Rahimi",
+  "transfermarkt_id": "598506",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Morocco"
+  ],
+  "place_of_birth": "Casablanca",
+  "wikidata_current_club": "Al Ain FC",
+  "wikidata_current_club_qid": "Q812720",
+  "photo": {
+    "filename": "Soufiane Rahimu (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Soufiane_Rahimu_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Soufiane_Rahimu_%28cropped%29.jpg",
+    "width": 355,
+    "height": 536,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Adilrajaoui&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Adilrajaoui (page does not exist)\">Adilrajaoui</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/soufiane-rahimi.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

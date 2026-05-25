@@ -1,0 +1,62 @@
+{
+  "slug": "diogo-costa",
+  "display_name": "Diogo Costa",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1999-09-19",
+  "age": 26,
+  "caps": 42,
+  "goals": 0,
+  "club_from_squad_table": "Porto",
+  "wikipedia_title": "Diogo Costa",
+  "date_of_birth": "1999-09-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Porto",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26255578",
+  "qid": "Q26255578",
+  "name": "Diogo Costa",
+  "description": "Portuguese footballer (born 1999)",
+  "place_of_birth_qid": "Q64482",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 192.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q128446",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q128446",
+  "image_filename": "Diogo Costa.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Diogo_Costa",
+  "transfermarkt_id": "357153",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Rothrist",
+  "wikidata_current_club": "FC Porto",
+  "wikidata_current_club_qid": "Q128446",
+  "photo": {
+    "filename": "Diogo Costa.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Diogo_Costa.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Diogo_Costa.jpg",
+    "width": 472,
+    "height": 904,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0415\u043b\u0435\u043d\u0430 \u0420\u044b\u0431\u0430\u043a\u043e\u0432\u0430",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/diogo-costa.jpg"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

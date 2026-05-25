@@ -1,0 +1,66 @@
+{
+  "slug": "isak-hien",
+  "display_name": "Isak Hien",
+  "shirt_no": 4,
+  "position_code": "DF",
+  "dob": "1999-01-13",
+  "age": 27,
+  "caps": 27,
+  "goals": 0,
+  "club_from_squad_table": "Atalanta",
+  "wikipedia_title": "Isak Hien",
+  "date_of_birth": "1999-01-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atalanta",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q105127935",
+  "qid": "Q105127935",
+  "name": "Isak Hien",
+  "description": "Swedish association football player",
+  "place_of_birth_qid": "Q10545885",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 1.91,
+  "teams": [
+    {
+      "team_qid": "Q622430",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q602918",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q8639",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q622430",
+  "image_filename": "Sweden-Slovenia Nations League 2022-09-27 32 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Isak_Hien",
+  "transfermarkt_id": "503075",
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Kista",
+  "wikidata_current_club": "Djurg\u00e5rdens IF Fotboll",
+  "wikidata_current_club_qid": "Q622430",
+  "photo": {
+    "filename": "Sweden-Slovenia Nations League 2022-09-27 32 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Sweden-Slovenia_Nations_League_2022-09-27_32_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sweden-Slovenia_Nations_League_2022-09-27_32_%28cropped%29.jpg/960px-Sweden-Slovenia_Nations_League_2022-09-27_32_%28cropped%29.jpg",
+    "width": 1004,
+    "height": 2701,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Rolandhino1\" title=\"User:Rolandhino1\">Rolandhino1</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/isak-hien.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

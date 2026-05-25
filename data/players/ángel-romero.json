@@ -1,0 +1,78 @@
+{
+  "slug": "ángel-romero",
+  "display_name": "Ángel Romero",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1992-07-04",
+  "age": 33,
+  "caps": 51,
+  "goals": 8,
+  "club_from_squad_table": "Boca Juniors",
+  "wikipedia_title": "Ángel Romero (footballer)",
+  "date_of_birth": "1992-07-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Boca Juniors",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q15960510",
+  "qid": "Q15960510",
+  "name": "Ángel Romero",
+  "description": "Paraguayan footballer (born 1992)",
+  "place_of_birth_qid": "Q47062",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 177.0,
+  "weight_kg": 73.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q35933",
+      "start": "2014-01-01",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q914086",
+      "start": "2011-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q172020",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q207373",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q207373",
+  "image_filename": "RomeroCorinthians2018A.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81ngel_Romero_(footballer)",
+  "transfermarkt_id": "262262",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Fernando de la Mora",
+  "wikidata_current_club": "Club Social y Deportivo Colo Colo",
+  "wikidata_current_club_qid": "Q207373",
+  "photo": {
+    "filename": "RomeroCorinthians2018A.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/RomeroCorinthians2018A.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RomeroCorinthians2018A.jpg/960px-RomeroCorinthians2018A.jpg",
+    "width": 1131,
+    "height": 2074,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/27902642@N03\">Renato Gizzi</a> from Guarulhos",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ángel-romero.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

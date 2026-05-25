@@ -1,0 +1,77 @@
+{
+  "slug": "jahkeele-marshall-rutty",
+  "display_name": "Jahkeele Marshall-Rutty",
+  "shirt_no": 2,
+  "position_code": "DF",
+  "dob": "2004-06-16",
+  "age": 21,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "New York Red Bulls",
+  "wikipedia_title": "Jahkeele Marshall-Rutty",
+  "wikidata_qid": "Q65951205",
+  "qid": "Q65951205",
+  "name": "Jahkeele Marshall-Rutty",
+  "description": "Canadian soccer player",
+  "date_of_birth": "2004-06-16",
+  "place_of_birth_qid": "Q44198",
+  "citizenship_qids": [
+    "Q16"
+  ],
+  "height_cm": 171.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19931776",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q204220",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q167615",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q78944434",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19931776",
+  "image_filename": "Jahkeele Marshall-Rutty Red Bulls Revolution-12.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jahkeele_Marshall-Rutty",
+  "transfermarkt_id": "640852",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "New York Red Bulls",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Canada"
+  ],
+  "place_of_birth": "Brampton",
+  "wikidata_current_club": "Toronto FC II",
+  "wikidata_current_club_qid": "Q19931776",
+  "photo": {
+    "filename": "Jahkeele Marshall-Rutty Red Bulls Revolution-12.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Jahkeele_Marshall-Rutty_Red_Bulls_Revolution-12.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Jahkeele_Marshall-Rutty_Red_Bulls_Revolution-12.jpg/960px-Jahkeele_Marshall-Rutty_Red_Bulls_Revolution-12.jpg",
+    "width": 3333,
+    "height": 5000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jahkeele-marshall-rutty.jpg"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

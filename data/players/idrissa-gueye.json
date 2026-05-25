@@ -1,0 +1,104 @@
+{
+  "slug": "idrissa-gueye",
+  "display_name": "Idrissa Gueye",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1989-09-26",
+  "age": 36,
+  "caps": 131,
+  "goals": 7,
+  "club_from_squad_table": "Everton",
+  "wikipedia_title": "Idrissa Gueye",
+  "date_of_birth": "1989-09-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Everton",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q46679",
+  "qid": "Q46679",
+  "name": "Idrissa Gueye",
+  "description": "Senegalese association football player",
+  "place_of_birth_qid": "Q3718",
+  "citizenship_qids": [
+    "Q1041"
+  ],
+  "height_cm": 174.0,
+  "weight_kg": 64.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18711",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q19516",
+      "start": "2010-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q207441",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q657883",
+      "start": "2007-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q16591640",
+      "start": "2008-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q3132749",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q5794",
+      "start": "2016-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q5794",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q5794",
+  "image_filename": "Idrissa Gueye (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Idrissa_Gueye",
+  "transfermarkt_id": "126665",
+  "fifa_player_id": "332314",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Senegal"
+  ],
+  "place_of_birth": "Dakar",
+  "wikidata_current_club": "Everton F.C.",
+  "wikidata_current_club_qid": "Q5794",
+  "photo": {
+    "filename": "Idrissa Gueye (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Idrissa_Gueye_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Idrissa_Gueye_%28cropped%29.jpg",
+    "width": 278,
+    "height": 359,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u041b\u0430\u0443\u0442",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/idrissa-gueye.jpg"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "wilguens-paugain",
+  "display_name": "Wilguens Paugain",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-08-24",
+  "age": 24,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "Zulte Waregem",
+  "wikipedia_title": "Wilguens Paugain",
+  "date_of_birth": "2001-08-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Zulte Waregem",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q128210274",
+  "qid": "Q128210274",
+  "name": "Wilguens Paugain",
+  "description": "French association football player",
+  "place_of_birth_qid": "Q2711243",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Wilguens_Paugain",
+  "transfermarkt_id": "609691",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "Thomazeau",
+  "team_slug": "haiti",
+  "team_country": "Haiti",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

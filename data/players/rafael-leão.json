@@ -1,0 +1,103 @@
+{
+  "slug": "rafael-le\u00e3o",
+  "display_name": "Rafael Le\u00e3o",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1999-06-10",
+  "age": 27,
+  "caps": 43,
+  "goals": 5,
+  "club_from_squad_table": "Milan",
+  "wikipedia_title": "Rafael Le\u00e3o",
+  "date_of_birth": "1999-06-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Milan",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q30055335",
+  "qid": "Q30055335",
+  "name": "Rafael Le\u00e3o",
+  "description": "Portuguese footballer (born 1999)",
+  "place_of_birth_qid": "Q328015",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 81.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19516",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q75729",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1543",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q7232579",
+      "start": "2014-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q3590754",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q3873524",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q1772776",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1630430",
+      "start": "2017-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q267245",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1543",
+  "image_filename": "LeaoFCSalzburg2022(cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rafael_Le%C3%A3o",
+  "transfermarkt_id": "357164",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Almada",
+  "wikidata_current_club": "AC Milan",
+  "wikidata_current_club_qid": "Q1543",
+  "photo": {
+    "filename": "LeaoFCSalzburg2022(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/LeaoFCSalzburg2022%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/LeaoFCSalzburg2022%28cropped%29.jpg",
+    "width": 543,
+    "height": 611,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/rafael-le\u00e3o.jpg"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "donyell-malen",
+  "display_name": "Donyell Malen",
+  "shirt_no": 18,
+  "position_code": "FW",
+  "dob": "1999-01-19",
+  "age": 27,
+  "caps": 51,
+  "goals": 13,
+  "club_from_squad_table": "Roma",
+  "wikipedia_title": "Donyell Malen",
+  "date_of_birth": "1999-01-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Roma",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q24084301",
+  "qid": "Q24084301",
+  "name": "Donyell Malen",
+  "description": "Dutch association football player (born 1999)",
+  "place_of_birth_qid": "Q669547",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 1.79,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q13534332",
+      "start": "2017-08-31",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q11938",
+      "start": "2018-07-01",
+      "end": "2021-07-27"
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2021-07-27",
+      "end": "2025-01-00"
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q18711",
+      "start": "2025-01-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2739",
+      "start": "2026-01-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2739",
+  "image_filename": "DONYELL MALEN \u2013 2023.08.12.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Donyell_Malen",
+  "transfermarkt_id": "326029",
+  "fifa_player_id": "201385418",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Wieringen",
+  "wikidata_current_club": "AS Roma",
+  "wikidata_current_club_qid": "Q2739",
+  "photo": {
+    "filename": "DONYELL MALEN \u2013 2023.08.12.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/DONYELL_MALEN_%E2%80%93_2023.08.12.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/DONYELL_MALEN_%E2%80%93_2023.08.12.jpg",
+    "width": 863,
+    "height": 1077,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sandro_Halank\" title=\"User:Sandro Halank\">Sandro Halank, Wikimedia Commons</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/donyell-malen.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

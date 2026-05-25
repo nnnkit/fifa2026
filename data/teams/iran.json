@@ -1,0 +1,2370 @@
+{
+  "slug": "iran",
+  "country": "Iran",
+  "wikidata_qid": "Q184602",
+  "fetched_at": "2026-05-24T16:40:16+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 30,
+  "players": [
+    {
+      "slug": "alireza-beiranvand",
+      "display_name": "Alireza Beiranvand",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1992-09-21",
+      "age": 33,
+      "caps": 84,
+      "goals": 0,
+      "club_from_squad_table": "Tractor",
+      "wikipedia_title": "Alireza Beiranvand",
+      "date_of_birth": "1992-09-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Tractor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q4726869",
+      "qid": "Q4726869",
+      "name": "Alireza Beiranvand",
+      "description": "Iranian footballer",
+      "place_of_birth_qid": "Q5853913",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 196.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2687794",
+          "start": "2010-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q6587944",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q3277524",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2014-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q242260",
+          "start": "2016-00-00",
+          "end": "2020-07-27"
+        },
+        {
+          "team_qid": "Q732002",
+          "start": "2020-07-28",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q219703",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q242260",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q242260",
+      "image_filename": "Alireza Beiranvand - 2018 FIFA World Cup.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alireza_Beiranvand",
+      "transfermarkt_id": "229081",
+      "fifa_player_id": "380007",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Sarab-e Yas",
+      "wikidata_current_club": "Persepolis F.C.",
+      "wikidata_current_club_qid": "Q242260",
+      "photo": {
+        "filename": "Alireza Beiranvand - 2018 FIFA World Cup.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Alireza_Beiranvand_-_2018_FIFA_World_Cup.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Alireza_Beiranvand_-_2018_FIFA_World_Cup.jpg",
+        "width": 346,
+        "height": 522,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Meghdad Madadi",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alireza-beiranvand.jpg"
+      }
+    },
+    {
+      "slug": "payam-niazmand",
+      "display_name": "Payam Niazmand",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1995-04-06",
+      "age": 31,
+      "caps": 15,
+      "goals": 0,
+      "club_from_squad_table": "Persepolis",
+      "wikipedia_title": "Payam Niazmand",
+      "date_of_birth": "1995-04-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Persepolis",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q43374160",
+      "qid": "Q43374160",
+      "name": "Payam Niazmand",
+      "description": "Iranian association football player",
+      "place_of_birth_qid": "Q3616",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 194.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q31660",
+          "start": "2018-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q1473386",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q621120",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q31660",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q31660",
+      "image_filename": "Payam Niazmand, Esteghlal vs. Sepahan.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Payam_Niazmand",
+      "transfermarkt_id": "343044",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Tehran",
+      "wikidata_current_club": "Sepahan F.C.",
+      "wikidata_current_club_qid": "Q31660",
+      "photo": {
+        "filename": "Payam Niazmand, Esteghlal vs. Sepahan.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Payam_Niazmand%2C_Esteghlal_vs._Sepahan.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Payam_Niazmand%2C_Esteghlal_vs._Sepahan.jpg",
+        "width": 425,
+        "height": 560,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Mehdi Mahabadi",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/payam-niazmand.jpg"
+      }
+    },
+    {
+      "slug": "hossein-hosseini",
+      "display_name": "Hossein Hosseini",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1992-06-30",
+      "age": 33,
+      "caps": 13,
+      "goals": 0,
+      "club_from_squad_table": "Sepahan",
+      "wikipedia_title": "Hossein Hosseini (footballer, born 1992)",
+      "date_of_birth": "1992-06-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sepahan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q5865783",
+      "qid": "Q5865783",
+      "name": "Hossein Hosseini",
+      "description": "Iranian footballer (born 1992)",
+      "place_of_birth_qid": "Q6397066",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 187.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q537201",
+          "start": "2014-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q760792",
+          "start": "2010-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q455971",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3589804",
+          "start": "2007-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q6587944",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q3277524",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2018-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q455971",
+      "image_filename": "Esteghlal FC vs Sepahan FC, 14 December 2021 - 26.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hossein_Hosseini_(footballer,_born_1992)",
+      "transfermarkt_id": "132561",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Shiraz",
+      "wikidata_current_club": "Esteghlal F.C.",
+      "wikidata_current_club_qid": "Q455971",
+      "photo": {
+        "filename": "Esteghlal FC vs Sepahan FC, 14 December 2021 - 26.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Esteghlal_FC_vs_Sepahan_FC%2C_14_December_2021_-_26.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Esteghlal_FC_vs_Sepahan_FC%2C_14_December_2021_-_26.jpg",
+        "width": 533,
+        "height": 752,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "مقداد مددی",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/hossein-hosseini.jpg"
+      }
+    },
+    {
+      "slug": "mohammad-khalife",
+      "display_name": "Mohammad Khalife",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2004-08-19",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Aluminium Arak",
+      "wikipedia_title": null,
+      "date_of_birth": "2004-08-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Aluminium Arak",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q135684607",
+      "qid": "Q135684607",
+      "name": "Mohammad Khalife",
+      "description": "Iranian association football player",
+      "transfermarkt_id": "1030744",
+      "wikidata_date_of_birth": "2004-01-01",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "place_of_birth_qid": "Q604990",
+      "position_qids": [
+        "Q172964",
+        "Q201330"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "positions": [
+        "goalkeeper",
+        "goalkeeper"
+      ],
+      "place_of_birth": "Marvdasht",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ehsan-hajsafi",
+      "display_name": "Ehsan Hajsafi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1990-02-25",
+      "age": 36,
+      "caps": 144,
+      "goals": 7,
+      "club_from_squad_table": "Sepahan",
+      "wikipedia_title": "Ehsan Hajsafi",
+      "date_of_birth": "1990-02-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sepahan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q2762113",
+      "qid": "Q2762113",
+      "name": "Ehsan Hajsafi",
+      "description": "Iranian footballer",
+      "place_of_birth_qid": "Q240475",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 176.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q336286",
+        "Q8025128",
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q31660",
+          "start": "2006-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q32358",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q157352",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q3589804",
+          "start": "2005-01-01",
+          "end": "2006-01-01"
+        },
+        {
+          "team_qid": "Q6587944",
+          "start": "2007-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q3277524",
+          "start": "2007-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2008-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q31660",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q460494",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q19628",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q32358",
+          "start": "2018-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q31660",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q201584",
+          "start": "2021-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q31660",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q31660",
+      "image_filename": "Ehsan Hajsafi 2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ehsan_Hajsafi",
+      "transfermarkt_id": "77547",
+      "fifa_player_id": "288961",
+      "positions": [
+        "defender",
+        "wing half",
+        "full-back"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Kashan",
+      "wikidata_current_club": "Sepahan F.C.",
+      "wikidata_current_club_qid": "Q31660",
+      "photo": {
+        "filename": "Ehsan Hajsafi 2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ehsan_Hajsafi_2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ehsan_Hajsafi_2018.jpg",
+        "width": 666,
+        "height": 1000,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Кирилл Венедиктов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ehsan-hajsafi.jpg"
+      }
+    },
+    {
+      "slug": "milad-mohammadi",
+      "display_name": "Milad Mohammadi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1993-09-29",
+      "age": 32,
+      "caps": 75,
+      "goals": 1,
+      "club_from_squad_table": "Persepolis",
+      "wikipedia_title": "Milad Mohammadi",
+      "date_of_birth": "1993-09-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Persepolis",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17523896",
+      "qid": "Q17523896",
+      "name": "Milad Mohammadi",
+      "description": "footballer",
+      "place_of_birth_qid": "Q3616",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 1.78,
+      "weight_kg": 79.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q240444",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q864754",
+          "start": "2014-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q3277524",
+          "start": "2015-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q240444",
+      "image_filename": "Milad Mohammadi.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Milad_Mohammadi",
+      "transfermarkt_id": "333355",
+      "fifa_player_id": "390537",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Tehran",
+      "wikidata_current_club": "FC Akhmat Grozny",
+      "wikidata_current_club_qid": "Q240444",
+      "photo": {
+        "filename": "Milad Mohammadi.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Milad_Mohammadi.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Milad_Mohammadi.jpg",
+        "width": 265,
+        "height": 440,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Foad Ashtari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/milad-mohammadi.jpg"
+      }
+    },
+    {
+      "slug": "ramin-rezaeian",
+      "display_name": "Ramin Rezaeian",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1990-03-21",
+      "age": 36,
+      "caps": 72,
+      "goals": 6,
+      "club_from_squad_table": "Foolad",
+      "wikipedia_title": "Ramin Rezaeian",
+      "date_of_birth": "1990-03-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Foolad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q7289588",
+      "qid": "Q7289588",
+      "name": "Ramin Rezaian",
+      "description": "Iranian association football player",
+      "place_of_birth_qid": "Q168843",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q242260",
+          "start": "2015-01-01",
+          "end": "2016-06-00"
+        },
+        {
+          "team_qid": "Q613931",
+          "start": "2009-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q864754",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q272712",
+          "start": "2016-07-00",
+          "end": "2016-08-00"
+        },
+        {
+          "team_qid": "Q242260",
+          "start": "2016-08-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q370206",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q4703218",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1056948",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q812719",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q242260",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q242260",
+      "image_filename": "Ramin Rezaeian at the 2018 FIFA World Cup.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ramin_Rezaeian",
+      "transfermarkt_id": "188312",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Sari",
+      "wikidata_current_club": "Persepolis F.C.",
+      "wikidata_current_club_qid": "Q242260",
+      "photo": {
+        "filename": "Ramin Rezaeian at the 2018 FIFA World Cup.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Ramin_Rezaeian_at_the_2018_FIFA_World_Cup.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Ramin_Rezaeian_at_the_2018_FIFA_World_Cup.jpg",
+        "width": 313,
+        "height": 344,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Екатерина Лаут",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ramin-rezaeian.jpg"
+      }
+    },
+    {
+      "slug": "hossein-kanaanizadegan",
+      "display_name": "Hossein Kanaanizadegan",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1994-03-23",
+      "age": 32,
+      "caps": 63,
+      "goals": 6,
+      "club_from_squad_table": "Persepolis",
+      "wikipedia_title": "Hossein Kanaanizadegan",
+      "date_of_birth": "1994-03-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Persepolis",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q5938042",
+      "qid": "Q5938042",
+      "name": "Mohammad Hossein Kanaanizadegan",
+      "description": "lranian football player",
+      "place_of_birth_qid": "Q605244",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q537201",
+          "start": "2014-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q242260",
+          "start": "2012-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q688300",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q3589804",
+          "start": "2008-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q6587944",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q3277524",
+          "start": "2014-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q455971",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q782983",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q555262",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q242260",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q284452",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q284452",
+      "image_filename": "Hossein Kanaanizadegan 2018 1.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hossein_Kanaanizadegan",
+      "transfermarkt_id": "249400",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Mahshahr",
+      "wikidata_current_club": "Al Ahli SC",
+      "wikidata_current_club_qid": "Q284452",
+      "photo": {
+        "filename": "Hossein Kanaanizadegan 2018 1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hossein_Kanaanizadegan_2018_1.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hossein_Kanaanizadegan_2018_1.jpg",
+        "width": 793,
+        "height": 1051,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Fars_News_Agency\" class=\"extiw\" title=\"w:en:Fars News Agency\"><span title=\"Iranian news agency\">Fars News Agency</span></a>\n</bdi>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/hossein-kanaanizadegan.jpg"
+      }
+    },
+    {
+      "slug": "shojae-khalilzadeh",
+      "display_name": "Shojae Khalilzadeh",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1989-05-14",
+      "age": 37,
+      "caps": 56,
+      "goals": 2,
+      "club_from_squad_table": "Tractor",
+      "wikipedia_title": "Shojae Khalilzadeh",
+      "date_of_birth": "1989-05-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Tractor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q7500146",
+      "qid": "Q7500146",
+      "name": "Shoja' Khalilzadeh",
+      "description": "footballer",
+      "place_of_birth_qid": "Q2633273",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q32358",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q6417082",
+          "start": "2008-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q1149041",
+          "start": "2010-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q31660",
+          "start": "2013-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q6587944",
+          "start": "2007-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q3277524",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2009-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q242260",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q311268",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q284452",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q284452",
+      "image_filename": "Shoja Khalilzadeh3.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Shojae_Khalilzadeh",
+      "transfermarkt_id": "213715",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Bahnemir",
+      "wikidata_current_club": "Al Ahli SC",
+      "wikidata_current_club_qid": "Q284452",
+      "photo": {
+        "filename": "Shoja Khalilzadeh3.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Shoja_Khalilzadeh3.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Shoja_Khalilzadeh3.jpg",
+        "width": 555,
+        "height": 663,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Mojtaba Saleh/Fars News Agency",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/shojae-khalilzadeh.jpg"
+      }
+    },
+    {
+      "slug": "saleh-hardani",
+      "display_name": "Saleh Hardani",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-12-26",
+      "age": 27,
+      "caps": 17,
+      "goals": 1,
+      "club_from_squad_table": "Esteghlal",
+      "wikipedia_title": "Saleh Hardani",
+      "date_of_birth": "1998-12-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Esteghlal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q70226579",
+      "qid": "Q70226579",
+      "name": "Saleh Hardani",
+      "description": "Iranian association football player",
+      "place_of_birth_qid": "Q1278157",
+      "height_cm": 1.76,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q862851",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q862851",
+      "image_filename": "Esteghlal Celebrate IPL Title Win at Azadi Stadium - 020.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saleh_Hardani",
+      "transfermarkt_id": "697155",
+      "wikidata_date_of_birth": "1996-09-14",
+      "positions": [
+        "defender"
+      ],
+      "place_of_birth": "Bahmai County",
+      "wikidata_current_club": "Foolad F.C.",
+      "wikidata_current_club_qid": "Q862851",
+      "photo": {
+        "filename": "Esteghlal Celebrate IPL Title Win at Azadi Stadium - 020.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Esteghlal_Celebrate_IPL_Title_Win_at_Azadi_Stadium_-_020.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Esteghlal_Celebrate_IPL_Title_Win_at_Azadi_Stadium_-_020.jpg",
+        "width": 733,
+        "height": 853,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Mehdi Zare",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/saleh-hardani.jpg"
+      }
+    },
+    {
+      "slug": "ali-nemati",
+      "display_name": "Ali Nemati",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-02-07",
+      "age": 30,
+      "caps": 15,
+      "goals": 0,
+      "club_from_squad_table": "Foolad",
+      "wikipedia_title": "Ali Nemati",
+      "date_of_birth": "1996-02-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Foolad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q65195011",
+      "qid": "Q65195011",
+      "name": "Ali Nemati",
+      "description": "Football player",
+      "place_of_birth_qid": "Q131350",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3660911",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q242260",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q3660911",
+      "image_filename": "Mes Rafsanjan F.C. vs Persepolis F.C., 19 November 2021 2.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Nemati",
+      "transfermarkt_id": "527092",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Nishapur",
+      "wikidata_current_club": "Shahr Khodro F.C.",
+      "wikidata_current_club_qid": "Q3660911",
+      "photo": {
+        "filename": "Mes Rafsanjan F.C. vs Persepolis F.C., 19 November 2021 2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Mes_Rafsanjan_F.C._vs_Persepolis_F.C.%2C_19_November_2021_2.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Mes_Rafsanjan_F.C._vs_Persepolis_F.C.%2C_19_November_2021_2.jpg",
+        "width": 825,
+        "height": 853,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Mahdi Zare",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ali-nemati.jpg"
+      }
+    },
+    {
+      "slug": "aria-yousefi",
+      "display_name": "Aria Yousefi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-04-22",
+      "age": 24,
+      "caps": 12,
+      "goals": 0,
+      "club_from_squad_table": "Sepahan",
+      "wikipedia_title": "Aria Yousefi",
+      "date_of_birth": "2002-04-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sepahan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q109548002",
+      "qid": "Q109548002",
+      "name": "Aria Yousefi",
+      "description": "Iranian footballer",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 1.81,
+      "image_filename": "YousefiCropped.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aria_Yousefi",
+      "transfermarkt_id": "932724",
+      "citizenship": [
+        "Iran"
+      ],
+      "photo": {
+        "filename": "YousefiCropped.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/YousefiCropped.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/YousefiCropped.jpg",
+        "width": 500,
+        "height": 639,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Hanfth",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/aria-yousefi.jpg"
+      }
+    },
+    {
+      "slug": "danial-eiri",
+      "display_name": "Danial Eiri",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-10-26",
+      "age": 22,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Malavan",
+      "wikipedia_title": null,
+      "date_of_birth": "2003-10-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Malavan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q137779066",
+      "qid": "Q137779066",
+      "name": "Danial Eiri",
+      "description": "Danial Eiri, 22, from Iran ➤ Malavan Bandar Anzali, since 2024 ➤ Centre-Back ➤ Market value: €800k ➤ * 26/10/2003 in Gonbad-e Kavus, Golestan, Iran",
+      "transfermarkt_id": "1080301",
+      "wikidata_date_of_birth": "2003-01-01",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "place_of_birth_qid": "Q1975291",
+      "position_qids": [
+        "Q336286"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "positions": [
+        "defender"
+      ],
+      "place_of_birth": "Gonbad-e Kavus",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "alireza-jahanbakhsh",
+      "display_name": "Alireza Jahanbakhsh",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1993-08-11",
+      "age": 32,
+      "caps": 98,
+      "goals": 17,
+      "club_from_squad_table": "Dender",
+      "wikipedia_title": "Alireza Jahanbakhsh",
+      "date_of_birth": "1993-08-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Dender",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q4406552",
+      "qid": "Q4406552",
+      "name": "Alireza Jahanbakhsh",
+      "description": "Iranian association football player",
+      "place_of_birth_qid": "Q181578",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q620811",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q318348",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q6417906",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q191264",
+          "start": "2015-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q6587944",
+          "start": "2010-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3277524",
+          "start": "2011-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2018-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q134241",
+          "start": "2021-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q200321",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q1065328",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1065328",
+      "image_filename": "Alireza Jahanbakhsh at IRNPOR match 2018 FIFA World Cup 02.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alireza_Jahanbakhsh",
+      "transfermarkt_id": "213268",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Qazvin",
+      "wikidata_current_club": "F.C. Verbroedering Dender Eendracht Hekelgem",
+      "wikidata_current_club_qid": "Q1065328",
+      "photo": {
+        "filename": "Alireza Jahanbakhsh at IRNPOR match 2018 FIFA World Cup 02.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Alireza_Jahanbakhsh_at_IRNPOR_match_2018_FIFA_World_Cup_02.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Alireza_Jahanbakhsh_at_IRNPOR_match_2018_FIFA_World_Cup_02.jpg",
+        "width": 469,
+        "height": 797,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Екатерина Лаут",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alireza-jahanbakhsh.jpg"
+      }
+    },
+    {
+      "slug": "saeid-ezatolahi",
+      "display_name": "Saeid Ezatolahi",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-10-01",
+      "age": 29,
+      "caps": 81,
+      "goals": 1,
+      "club_from_squad_table": "Shabab Al-Ahli",
+      "wikipedia_title": "Saeid Ezatolahi",
+      "date_of_birth": "1996-10-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Shabab Al-Ahli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q7398276",
+      "qid": "Q7398276",
+      "name": "Saeid Ezzatollahi",
+      "description": "Iranian footballer",
+      "place_of_birth_qid": "Q210885",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q182930",
+          "start": "2015-01-01",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q537201",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q2975407",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3589804",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q6587944",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q19353",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q737936",
+          "start": "2020-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q424943",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q424943",
+      "image_filename": "Saeid Ezatolahi at Iran training 2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saeid_Ezatolahi",
+      "transfermarkt_id": "249271",
+      "fifa_player_id": "371736",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Bandar-e Anzali",
+      "wikidata_current_club": "Shabab AlAhli Dubai Club",
+      "wikidata_current_club_qid": "Q424943",
+      "photo": {
+        "filename": "Saeid Ezatolahi at Iran training 2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Saeid_Ezatolahi_at_Iran_training_2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Saeid_Ezatolahi_at_Iran_training_2018.jpg",
+        "width": 396,
+        "height": 622,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Shahabodin Vajedi",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/saeid-ezatolahi.jpg"
+      }
+    },
+    {
+      "slug": "saman-ghoddos",
+      "display_name": "Saman Ghoddos",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1993-09-06",
+      "age": 32,
+      "caps": 67,
+      "goals": 3,
+      "club_from_squad_table": "Kalba",
+      "wikipedia_title": "Saman Ghoddos",
+      "date_of_birth": "1993-09-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Kalba",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16632974",
+      "qid": "Q16632974",
+      "name": "Saman Ghoddos",
+      "description": "Iranian footballer (born 1993)",
+      "place_of_birth_qid": "Q17000558",
+      "citizenship_qids": [
+        "Q34",
+        "Q794"
+      ],
+      "height_cm": 176.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q306797",
+          "start": "2016-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1540765",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q818624",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q683351",
+          "start": "2014-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q184602",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q866884",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q19571",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19571",
+      "image_filename": "Saman Ghoddos - 2018 FIFA World Cup.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saman_Ghoddos",
+      "transfermarkt_id": "204294",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Sweden",
+        "Iran"
+      ],
+      "place_of_birth": "Piranshahr Sugar Factory",
+      "wikidata_current_club": "Brentford F.C.",
+      "wikidata_current_club_qid": "Q19571",
+      "photo": {
+        "filename": "Saman Ghoddos - 2018 FIFA World Cup.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Saman_Ghoddos_-_2018_FIFA_World_Cup.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Saman_Ghoddos_-_2018_FIFA_World_Cup.jpg",
+        "width": 326,
+        "height": 460,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Meghdad Madadi",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/saman-ghoddos.jpg"
+      }
+    },
+    {
+      "slug": "mehdi-torabi",
+      "display_name": "Mehdi Torabi",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-09-10",
+      "age": 31,
+      "caps": 51,
+      "goals": 7,
+      "club_from_squad_table": "Tractor",
+      "wikipedia_title": "Mehdi Torabi",
+      "date_of_birth": "1994-09-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Tractor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18210581",
+      "qid": "Q18210581",
+      "name": "Mahdi Torabi",
+      "description": "Iranian professional footballer",
+      "place_of_birth_qid": "Q2625453",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q782983",
+          "start": "2012-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q3277524",
+          "start": "2015-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q242260",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q283760",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q242260",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q242260",
+      "image_filename": "Mahdi Torabi (Cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mehdi_Torabi",
+      "transfermarkt_id": "283833",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Eshtehard",
+      "wikidata_current_club": "Persepolis F.C.",
+      "wikidata_current_club_qid": "Q242260",
+      "photo": {
+        "filename": "Mahdi Torabi (Cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mahdi_Torabi_%28Cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mahdi_Torabi_%28Cropped%29.jpg",
+        "width": 310,
+        "height": 364,
+        "license": "Attribution",
+        "license_url": null,
+        "attribution": "Unknown photographer",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mehdi-torabi.jpg"
+      }
+    },
+    {
+      "slug": "rouzbeh-cheshmi",
+      "display_name": "Rouzbeh Cheshmi",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1993-07-24",
+      "age": 32,
+      "caps": 40,
+      "goals": 3,
+      "club_from_squad_table": "Esteghlal",
+      "wikipedia_title": "Rouzbeh Cheshmi",
+      "date_of_birth": "1993-07-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Esteghlal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q15981797",
+      "qid": "Q15981797",
+      "name": "Rouzbeh Cheshmi",
+      "description": "Iranian footballer (born 1993)",
+      "place_of_birth_qid": "Q3616",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 195.0,
+      "position_qids": [
+        "Q336286",
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3589804",
+          "start": "2008-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q6587944",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q3277524",
+          "start": "2014-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q242260",
+          "start": "2012-00-00",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q613931",
+          "start": "2013-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q455971",
+          "start": "2015-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q958008",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q455971",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q455971",
+      "image_filename": "Esteghlal FC in training, 24 July 2022 - 22.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rouzbeh_Cheshmi",
+      "transfermarkt_id": "273879",
+      "fifa_player_id": "406595",
+      "positions": [
+        "defender",
+        "midfielder"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Tehran",
+      "wikidata_current_club": "Esteghlal F.C.",
+      "wikidata_current_club_qid": "Q455971",
+      "photo": {
+        "filename": "Esteghlal FC in training, 24 July 2022 - 22.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Esteghlal_FC_in_training%2C_24_July_2022_-_22.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Esteghlal_FC_in_training%2C_24_July_2022_-_22.jpg",
+        "width": 682,
+        "height": 799,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "مهدی زارع اردستانی",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/rouzbeh-cheshmi.jpg"
+      }
+    },
+    {
+      "slug": "omid-noorafkan",
+      "display_name": "Omid Noorafkan",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-04-09",
+      "age": 29,
+      "caps": 39,
+      "goals": 1,
+      "club_from_squad_table": "Sepahan",
+      "wikipedia_title": "Omid Noorafkan",
+      "date_of_birth": "1997-04-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sepahan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17399810",
+      "qid": "Q17399810",
+      "name": "Omid Noorafkan",
+      "description": "Iranian football player",
+      "place_of_birth_qid": "Q636188",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q455971",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3589804",
+          "start": "2011-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q6587944",
+          "start": "2014-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q455971",
+      "image_filename": "Omid Norafkan.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Omid_Noorafkan",
+      "transfermarkt_id": "332274",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Ray",
+      "wikidata_current_club": "Esteghlal F.C.",
+      "wikidata_current_club_qid": "Q455971",
+      "photo": {
+        "filename": "Omid Norafkan.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Omid_Norafkan.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Omid_Norafkan.jpg",
+        "width": 317,
+        "height": 502,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Mohammad Hassanzadeh",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/omid-noorafkan.jpg"
+      }
+    },
+    {
+      "slug": "mohammad-mohebi",
+      "display_name": "Mohammad Mohebi",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-12-20",
+      "age": 27,
+      "caps": 35,
+      "goals": 14,
+      "club_from_squad_table": "Rostov",
+      "wikipedia_title": "Mohammad Mohebi",
+      "date_of_birth": "1998-12-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rostov",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q65515898",
+      "qid": "Q65515898",
+      "name": "Mohammad Mohebi",
+      "description": "Iranian footballer",
+      "place_of_birth_qid": "Q158928",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 176.0,
+      "position_qids": [
+        "Q2827965"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3119201",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q31660",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q740637",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q455971",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q455971",
+      "image_filename": "Mohammad Mohebi, Esteghlal FC vs Gol Gohar Sirjan FC, 6 March 2023.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammad_Mohebi",
+      "transfermarkt_id": "603149",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Bushehr",
+      "wikidata_current_club": "Esteghlal F.C.",
+      "wikidata_current_club_qid": "Q455971",
+      "photo": {
+        "filename": "Mohammad Mohebi, Esteghlal FC vs Gol Gohar Sirjan FC, 6 March 2023.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Mohammad_Mohebi%2C_Esteghlal_FC_vs_Gol_Gohar_Sirjan_FC%2C_6_March_2023.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Mohammad_Mohebi%2C_Esteghlal_FC_vs_Gol_Gohar_Sirjan_FC%2C_6_March_2023.jpg",
+        "width": 264,
+        "height": 366,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "موج",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mohammad-mohebi.jpg"
+      }
+    },
+    {
+      "slug": "mohammad-ghorbani",
+      "display_name": "Mohammad Ghorbani",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-10-07",
+      "age": 24,
+      "caps": 14,
+      "goals": 0,
+      "club_from_squad_table": "Al-Wahda",
+      "wikipedia_title": "Mohammad Ghorbani (footballer)",
+      "date_of_birth": "2001-10-07",
+      "date_of_birth_source": "enwiki+afc-al-wahda-verified",
+      "current_club": "Al-Wahda",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q112079646",
+      "qid": "Q112079646",
+      "name": "Mohammad Ghorbani",
+      "description": "Iranian footballer",
+      "place_of_birth_qid": "Q212628",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 1.9,
+      "image_filename": "Mohammad Ghorbani (footballer) 2024.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammad_Ghorbani_(footballer)",
+      "transfermarkt_id": "856087",
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Arak",
+      "photo": {
+        "filename": "Mohammad Ghorbani (footballer) 2024.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Mohammad_Ghorbani_%28footballer%29_2024.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Mohammad_Ghorbani_%28footballer%29_2024.jpg",
+        "width": 501,
+        "height": 873,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Вячеслав Евдокимов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mohammad-ghorbani.jpg"
+      },
+      "squad_table_date_of_birth": "2001-05-21"
+    },
+    {
+      "slug": "amirmohammad-razzaghinia",
+      "display_name": "Amirmohammad Razzaghinia",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2006-04-11",
+      "age": 20,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Esteghlal",
+      "wikipedia_title": null,
+      "date_of_birth": "2006-04-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Esteghlal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q123469788",
+      "qid": "Q123469788",
+      "name": "Amir Mohammad Razzaghinia",
+      "description": "Iranian footballer",
+      "transfermarkt_id": "1051591",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "place_of_birth_qid": "Q182394",
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Yazd",
+      "image_filename": "AFC Champions League 2 - Esteghlal and Al-Wehdat football teams meet 32 (2025) Tasnim (cropped).jpg",
+      "photo": {
+        "filename": "AFC Champions League 2 - Esteghlal and Al-Wehdat football teams meet 32 (2025) Tasnim (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/AFC_Champions_League_2_-_Esteghlal_and_Al-Wehdat_football_teams_meet_32_%282025%29_Tasnim_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/AFC_Champions_League_2_-_Esteghlal_and_Al-Wehdat_football_teams_meet_32_%282025%29_Tasnim_%28cropped%29.jpg",
+        "width": 284,
+        "height": 519,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Masoud Shahristani",
+        "source": "wikidata-p18-verified",
+        "local_path": "data/photos/amirmohammad-razzaghinia.jpg"
+      }
+    },
+    {
+      "slug": "hadi-habibinejad",
+      "display_name": "Hadi Habibinejad",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1995-10-17",
+      "age": 30,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Chadormalou",
+      "wikipedia_title": "Hadi Habibinejad",
+      "date_of_birth": "1995-10-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Chadormalou",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17517098",
+      "qid": "Q17517098",
+      "name": "Hadi Habibinejad",
+      "description": "Iranian footballer",
+      "place_of_birth_qid": "Q888697",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q862851",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q6587944",
+          "start": "2013-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q862851",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hadi_Habibinejad",
+      "transfermarkt_id": "337533",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Ramhormoz",
+      "wikidata_current_club": "Foolad F.C.",
+      "wikidata_current_club_qid": "Q862851",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "mehdi-taremi",
+      "display_name": "Mehdi Taremi",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1992-07-18",
+      "age": 33,
+      "caps": 103,
+      "goals": 59,
+      "club_from_squad_table": "Olympiacos",
+      "wikipedia_title": "Mehdi Taremi",
+      "date_of_birth": "1992-07-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Olympiacos",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17070837",
+      "qid": "Q17070837",
+      "name": "Mehdi Taremi",
+      "description": "Iranian footballer (born 1992)",
+      "place_of_birth_qid": "Q158928",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 82.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3119201",
+          "start": "2010-01-01",
+          "end": "2012-00-00"
+        },
+        {
+          "team_qid": "Q9189031",
+          "start": "2012-00-00",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q242260",
+          "start": "2014-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q6587944",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q3277524",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q428211",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q622432",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q128446",
+          "start": "2020-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q19628",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19628",
+      "image_filename": "Iran - Japan, AFC Asian Cup 2019 42 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mehdi_Taremi",
+      "transfermarkt_id": "307058",
+      "fifa_player_id": "388475",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Bushehr",
+      "wikidata_current_club": "Olympiacos F.C.",
+      "wikidata_current_club_qid": "Q19628",
+      "photo": {
+        "filename": "Iran - Japan, AFC Asian Cup 2019 42 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Iran_-_Japan%2C_AFC_Asian_Cup_2019_42_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Iran_-_Japan%2C_AFC_Asian_Cup_2019_42_%28cropped%29.jpg",
+        "width": 299,
+        "height": 449,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Parto Joghataee",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mehdi-taremi.jpg"
+      }
+    },
+    {
+      "slug": "mehdi-ghayedi",
+      "display_name": "Mehdi Ghayedi",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1998-12-05",
+      "age": 27,
+      "caps": 29,
+      "goals": 10,
+      "club_from_squad_table": "Al-Nasr",
+      "wikipedia_title": "Mehdi Ghayedi",
+      "date_of_birth": "1998-12-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Nasr",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30160479",
+      "qid": "Q30160479",
+      "name": "Mehdi Ghayedi",
+      "description": "Iranian footballer",
+      "place_of_birth_qid": "Q158928",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 166.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q455971",
+          "start": "2017-07-00",
+          "end": "2021-08-00"
+        },
+        {
+          "team_qid": "Q424943",
+          "start": "2021-08-00",
+          "end": "2023-07-00"
+        },
+        {
+          "team_qid": "Q455971",
+          "start": "2022-08-00",
+          "end": "2023-06-00"
+        },
+        {
+          "team_qid": "Q3804552",
+          "start": "2023-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q9189031",
+          "start": "2016-07-00",
+          "end": "2017-07-00"
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q3804552",
+      "image_filename": "Mehdi Ghayedi Esteghlal FC, 14 December 2019.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mehdi_Ghayedi",
+      "transfermarkt_id": "478192",
+      "fifa_player_id": "403236",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Bushehr",
+      "wikidata_current_club": "Kalba FC",
+      "wikidata_current_club_qid": "Q3804552",
+      "photo": {
+        "filename": "Mehdi Ghayedi Esteghlal FC, 14 December 2019.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Mehdi_Ghayedi_Esteghlal_FC%2C_14_December_2019.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Mehdi_Ghayedi_Esteghlal_FC%2C_14_December_2019.jpg",
+        "width": 468,
+        "height": 701,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "اکبر داداش‌زاده",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mehdi-ghayedi.jpg"
+      }
+    },
+    {
+      "slug": "amirhossein-hosseinzadeh",
+      "display_name": "Amirhossein Hosseinzadeh",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-10-30",
+      "age": 25,
+      "caps": 16,
+      "goals": 5,
+      "club_from_squad_table": "Tractor",
+      "wikipedia_title": "Amirhossein Hosseinzadeh",
+      "date_of_birth": "2000-10-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Tractor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q66735853",
+      "qid": "Q66735853",
+      "name": "Amir Hossein Hosseinzadeh",
+      "description": "Iranian association football player",
+      "place_of_birth_qid": "Q3616",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q455971",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q782983",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q19585",
+          "start": "2022-00-00",
+          "end": "2023-07-24"
+        },
+        {
+          "team_qid": "Q184602",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q32358",
+          "start": "2023-07-25",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q32358",
+      "image_filename": "Esteghlal FC in training, 29 September 2021 - 09.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Amirhossein_Hosseinzadeh",
+      "transfermarkt_id": "542380",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Tehran",
+      "wikidata_current_club": "Tractor F.C",
+      "wikidata_current_club_qid": "Q32358",
+      "photo": {
+        "filename": "Esteghlal FC in training, 29 September 2021 - 09.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Esteghlal_FC_in_training%2C_29_September_2021_-_09.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Esteghlal_FC_in_training%2C_29_September_2021_-_09.jpg",
+        "width": 666,
+        "height": 863,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "mojnews",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/amirhossein-hosseinzadeh.jpg"
+      }
+    },
+    {
+      "slug": "ali-alipour",
+      "display_name": "Ali Alipour",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1995-11-11",
+      "age": 30,
+      "caps": 12,
+      "goals": 1,
+      "club_from_squad_table": "Persepolis",
+      "wikipedia_title": "Ali Alipour",
+      "date_of_birth": "1995-11-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Persepolis",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q4724643",
+      "qid": "Q4724643",
+      "name": "Ali Alipour",
+      "description": "Iranian association football player",
+      "place_of_birth_qid": "Q720937",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "height_cm": 181.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q242260",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q6417239",
+          "start": "2010-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q1622208",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q14941457",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q864754",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3589804",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q6587944",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        }
+      ],
+      "current_club_qid": "Q242260",
+      "image_filename": "Iran mens national football team training 125 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Alipour",
+      "transfermarkt_id": "249360",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Qaem Shahr",
+      "wikidata_current_club": "Persepolis F.C.",
+      "wikidata_current_club_qid": "Q242260",
+      "photo": {
+        "filename": "Iran mens national football team training 125 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Iran_mens_national_football_team_training_125_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Iran_mens_national_football_team_training_125_%28cropped%29.jpg",
+        "width": 205,
+        "height": 311,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Amir Ostovari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ali-alipour.jpg"
+      }
+    },
+    {
+      "slug": "kasra-taheri",
+      "display_name": "Kasra Taheri",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2006-08-06",
+      "age": 19,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Paykan",
+      "wikipedia_title": "Kasra Taheri",
+      "date_of_birth": "2006-08-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paykan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q123422016",
+      "qid": "Q123422016",
+      "name": "Kasra Taheri",
+      "description": "Iranian footballer",
+      "place_of_birth_qid": "Q383129",
+      "citizenship_qids": [
+        "Q794"
+      ],
+      "image_filename": "Kasra Taheri.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kasra_Taheri",
+      "transfermarkt_id": "1051589",
+      "citizenship": [
+        "Iran"
+      ],
+      "place_of_birth": "Yasuj",
+      "photo": {
+        "filename": "Kasra Taheri.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Kasra_Taheri.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Kasra_Taheri.jpg/960px-Kasra_Taheri.jpg",
+        "width": 1000,
+        "height": 667,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Rezagkdk&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Rezagkdk (page does not exist)\">Rezagkdk</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kasra-taheri.jpg"
+      }
+    },
+    {
+      "slug": "amirhossein-mahmoudi",
+      "display_name": "Amirhossein Mahmoudi",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2006-07-12",
+      "age": 19,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Persepolis",
+      "wikipedia_title": null,
+      "date_of_birth": "2006-07-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Persepolis",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      },
+      "identity_review": {
+        "status": "no-unambiguous-wikidata-qid",
+        "reviewed_at": "2026-05-25",
+        "reason": "Candidate Q110679793/P2446 1370858 has conflicting 1998/club metadata, so it is not safe for the 2006 Persepolis forward."
+      }
+    },
+    {
+      "slug": "dennis-eckert",
+      "display_name": "Dennis Eckert",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1997-01-09",
+      "age": 29,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Standard Liège",
+      "wikipedia_title": "Dennis Eckert",
+      "date_of_birth": "1997-01-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Standard Liège",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q56223703",
+      "qid": "Q56223703",
+      "name": "Dennis Eckert Ayensa",
+      "description": "German footballer",
+      "place_of_birth_qid": "Q586",
+      "citizenship_qids": [
+        "Q183",
+        "Q29",
+        "Q794"
+      ],
+      "height_cm": 1.83,
+      "weight_kg": 79.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q13397712",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q2311865",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q8749",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q196160",
+          "start": "2022-07-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q196160",
+      "image_filename": "XXIII Memorial Quinocho (RC Celta vs Mainz 05) - 55 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dennis_Eckert",
+      "transfermarkt_id": "249303",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Germany",
+        "Spain",
+        "Iran"
+      ],
+      "place_of_birth": "Bonn",
+      "wikidata_current_club": "Royale Union Saint-Gilloise",
+      "wikidata_current_club_qid": "Q196160",
+      "photo": {
+        "filename": "XXIII Memorial Quinocho (RC Celta vs Mainz 05) - 55 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/XXIII_Memorial_Quinocho_%28RC_Celta_vs_Mainz_05%29_-_55_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/XXIII_Memorial_Quinocho_%28RC_Celta_vs_Mainz_05%29_-_55_%28cropped%29.jpg/960px-XXIII_Memorial_Quinocho_%28RC_Celta_vs_Mainz_05%29_-_55_%28cropped%29.jpg",
+        "width": 1242,
+        "height": 1835,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Harpagornis\" title=\"User:Harpagornis\">Harpagornis</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dennis-eckert.jpg"
+      }
+    }
+  ],
+  "notes": [
+    "Iran row/QID/photo audit 2026-05-24: verifier confirmed all 30 squad-table rows and existing QID identities. Added confirmed QIDs for Mohammad Khalife (Q135684607), Danial Eiri (Q137779066), and Amirmohammad Razzaghinia (Q123469788). Added verified Commons P18 photo for Amirmohammad Razzaghinia. Corrected Mohammad Ghorbani DOB to 2001-10-07 from stronger enwiki/AFC Al Wahda evidence while preserving the squad-table DOB conflict. Mohammad Khalife, Danial Eiri, Hadi Habibinejad, and Amirhossein Mahmoudi had no clean Wikimedia portrait and are marked reviewed-none; Amirhossein Mahmoudi has no confirmed QID."
+  ]
+}

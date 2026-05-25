@@ -1,0 +1,57 @@
+{
+  "slug": "saleh-hardani",
+  "display_name": "Saleh Hardani",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-12-26",
+  "age": 27,
+  "caps": 17,
+  "goals": 1,
+  "club_from_squad_table": "Esteghlal",
+  "wikipedia_title": "Saleh Hardani",
+  "date_of_birth": "1998-12-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Esteghlal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q70226579",
+  "qid": "Q70226579",
+  "name": "Saleh Hardani",
+  "description": "Iranian association football player",
+  "place_of_birth_qid": "Q1278157",
+  "height_cm": 1.76,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q862851",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q862851",
+  "image_filename": "Esteghlal Celebrate IPL Title Win at Azadi Stadium - 020.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Saleh_Hardani",
+  "transfermarkt_id": "697155",
+  "wikidata_date_of_birth": "1996-09-14",
+  "positions": [
+    "defender"
+  ],
+  "place_of_birth": "Bahmai County",
+  "wikidata_current_club": "Foolad F.C.",
+  "wikidata_current_club_qid": "Q862851",
+  "photo": {
+    "filename": "Esteghlal Celebrate IPL Title Win at Azadi Stadium - 020.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Esteghlal_Celebrate_IPL_Title_Win_at_Azadi_Stadium_-_020.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Esteghlal_Celebrate_IPL_Title_Win_at_Azadi_Stadium_-_020.jpg",
+    "width": 733,
+    "height": 853,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mehdi Zare",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/saleh-hardani.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

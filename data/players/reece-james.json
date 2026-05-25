@@ -1,0 +1,93 @@
+{
+  "slug": "reece-james",
+  "display_name": "Reece James",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-12-08",
+  "age": 26,
+  "caps": 22,
+  "goals": 1,
+  "club_from_squad_table": "Chelsea",
+  "wikipedia_title": "Reece James",
+  "date_of_birth": "1999-12-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Chelsea",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q39076401",
+  "qid": "Q39076401",
+  "name": "Reece James",
+  "description": "English association football player (born 1999)",
+  "place_of_birth_qid": "Q3422834",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 179.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q9616",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q18750",
+      "start": "2018-07-01",
+      "end": "2019-05-31"
+    },
+    {
+      "team_qid": "Q1049171",
+      "start": "2017-03-22",
+      "end": "2017-03-27"
+    },
+    {
+      "team_qid": "Q2358861",
+      "start": "2017-07-09",
+      "end": "2018-03-24"
+    },
+    {
+      "team_qid": "Q1049176",
+      "start": "2017-05-29",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q47762",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q9616",
+  "image_filename": "Reece James FIFA Club World Cup final extraction.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Reece_James",
+  "transfermarkt_id": "472423",
+  "fifa_player_id": "400087493",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Redbridge",
+  "wikidata_current_club": "Chelsea F.C.",
+  "wikidata_current_club_qid": "Q9616",
+  "photo": {
+    "filename": "Reece James FIFA Club World Cup final extraction.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Reece_James_FIFA_Club_World_Cup_final_extraction.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Reece_James_FIFA_Club_World_Cup_final_extraction.jpg",
+    "width": 350,
+    "height": 463,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "The White House",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/reece-james.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

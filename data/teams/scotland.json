@@ -1,0 +1,1994 @@
+{
+  "slug": "scotland",
+  "country": "Scotland",
+  "wikidata_qid": "Q34044",
+  "fetched_at": "2026-05-24T14:59:42+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "craig-gordon",
+      "display_name": "Craig Gordon",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1982-12-31",
+      "age": 43,
+      "caps": 83,
+      "goals": 0,
+      "club_from_squad_table": "Heart of Midlothian",
+      "wikipedia_title": "Craig Gordon",
+      "date_of_birth": "1982-12-31",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Heart of Midlothian",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q177331",
+      "qid": "Q177331",
+      "name": "Craig Gordon",
+      "description": "Scottish association football player (born 1982)",
+      "place_of_birth_qid": "Q23436",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 193.0,
+      "weight_kg": 83.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18739",
+          "start": "2007-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q610447",
+          "start": "2001-01-01",
+          "end": "2002-01-01"
+        },
+        {
+          "team_qid": "Q202093",
+          "start": "2000-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q19593",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1812121",
+          "start": "2002-01-01",
+          "end": "2003-01-01"
+        },
+        {
+          "team_qid": "Q4127960",
+          "start": "2003-01-01",
+          "end": "2005-01-01"
+        },
+        {
+          "team_qid": "Q34044",
+          "start": "2004-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19593",
+      "image_filename": "Craig S Gordon.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Craig_Gordon",
+      "transfermarkt_id": "12589",
+      "fifa_player_id": "215553",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Edinburgh",
+      "wikidata_current_club": "Celtic F.C.",
+      "wikidata_current_club_qid": "Q19593",
+      "photo": {
+        "filename": "Craig S Gordon.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Craig_S_Gordon.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Craig_S_Gordon.jpg",
+        "width": 395,
+        "height": 549,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/theedinburghblog/\">www.theedinburghblog.co .uk</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/craig-gordon.jpg"
+      }
+    },
+    {
+      "slug": "angus-gunn",
+      "display_name": "Angus Gunn",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1996-01-22",
+      "age": 30,
+      "caps": 21,
+      "goals": 0,
+      "club_from_squad_table": "Nottingham Forest",
+      "wikipedia_title": "Angus Gunn",
+      "date_of_birth": "1996-01-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nottingham Forest",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20807705",
+      "qid": "Q20807705",
+      "name": "Angus Gunn",
+      "description": "Scottish-English association football player",
+      "place_of_birth_qid": "Q130191",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 196.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q50602",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q18721",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q204238",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q34044",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "Angus.gunn.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Angus_Gunn",
+      "transfermarkt_id": "201574",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Norwich",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "Angus.gunn.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Angus.gunn.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Angus.gunn.jpg",
+        "width": 286,
+        "height": 450,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Cherzo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cherzo (page does not exist)\">Me</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/angus-gunn.jpg"
+      }
+    },
+    {
+      "slug": "liam-kelly",
+      "display_name": "Liam Kelly",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1996-01-23",
+      "age": 30,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Rangers",
+      "wikipedia_title": "Liam Kelly (footballer, born 1996)",
+      "date_of_birth": "1996-01-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rangers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27448075",
+      "qid": "Q27448075",
+      "name": "Liam Kelly",
+      "description": "Scottish association football player (born 1996)",
+      "place_of_birth_qid": "Q4093",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 189.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19597",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19597",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Liam_Kelly_(footballer,_born_1996)",
+      "transfermarkt_id": "208772",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Glasgow",
+      "wikidata_current_club": "Rangers F.C.",
+      "wikidata_current_club_qid": "Q19597",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "andy-robertson",
+      "display_name": "Andy Robertson",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1994-03-11",
+      "age": 32,
+      "caps": 92,
+      "goals": 4,
+      "club_from_squad_table": "Liverpool",
+      "wikipedia_title": "Andy Robertson",
+      "date_of_birth": "1994-03-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Liverpool",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q15915040",
+      "qid": "Q15915040",
+      "name": "Andy Robertson",
+      "description": "Scottish association football player",
+      "place_of_birth_qid": "Q4093",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 64.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19477",
+          "start": "2014-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q852753",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q192873",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1812121",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q34044",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2017-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1130849",
+      "image_filename": "First Minister meets with Scottish National Football Team (cropped 2).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Andy_Robertson",
+      "transfermarkt_id": "234803",
+      "fifa_player_id": "401339",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Glasgow",
+      "wikidata_current_club": "Liverpool F.C.",
+      "wikidata_current_club_qid": "Q1130849",
+      "photo": {
+        "filename": "First Minister meets with Scottish National Football Team (cropped 2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/First_Minister_meets_with_Scottish_National_Football_Team_%28cropped_2%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/First_Minister_meets_with_Scottish_National_Football_Team_%28cropped_2%29.jpg",
+        "width": 436,
+        "height": 535,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Scottish Government",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/andy-robertson.jpg"
+      }
+    },
+    {
+      "slug": "grant-hanley",
+      "display_name": "Grant Hanley",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1991-11-20",
+      "age": 34,
+      "caps": 66,
+      "goals": 2,
+      "club_from_squad_table": "Hibernian",
+      "wikipedia_title": "Grant Hanley",
+      "date_of_birth": "1991-11-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Hibernian",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q1362064",
+      "qid": "Q1362064",
+      "name": "Grant Hanley",
+      "description": "Scottish association football player (born 1991)",
+      "place_of_birth_qid": "Q652035",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 85.0,
+      "position_qids": [
+        "Q336286",
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19446",
+          "start": "2010-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q854890",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q4140015",
+          "start": "2009-00-00",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q1812121",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q34044",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q18716",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q18721",
+          "start": "2017-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q19444",
+          "start": "2025-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q192597",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q192597",
+      "image_filename": "Grant Hanley (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Grant_Hanley",
+      "transfermarkt_id": "121385",
+      "fifa_player_id": "359634",
+      "positions": [
+        "defender",
+        "centre-back"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Dumfries",
+      "wikidata_current_club": "Hibernian F.C.",
+      "wikidata_current_club_qid": "Q192597",
+      "photo": {
+        "filename": "Grant Hanley (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Grant_Hanley_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Grant_Hanley_%28cropped%29.jpg",
+        "width": 226,
+        "height": 521,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/22125559@N07\">Clare Nolan</a> from Coppull",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/grant-hanley.jpg"
+      }
+    },
+    {
+      "slug": "kieran-tierney",
+      "display_name": "Kieran Tierney",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-06-05",
+      "age": 29,
+      "caps": 55,
+      "goals": 2,
+      "club_from_squad_table": "Celtic",
+      "wikipedia_title": "Kieran Tierney",
+      "date_of_birth": "1997-06-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Celtic",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19888012",
+      "qid": "Q19888012",
+      "name": "Kieran Tierney",
+      "description": "Scottish association football player (born 1997)",
+      "place_of_birth_qid": "Q18569",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q90173132",
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q4140015",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q34044",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q19593",
+          "start": "2015-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q5549552",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q5549552",
+      "image_filename": "Kieran Tierney (26938128442) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kieran_Tierney",
+      "transfermarkt_id": "300716",
+      "fifa_player_id": "401712",
+      "positions": [
+        "full-back",
+        "centre-back"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Douglas",
+      "wikidata_current_club": "Real Sociedad",
+      "wikidata_current_club_qid": "Q5549552",
+      "photo": {
+        "filename": "Kieran Tierney (26938128442) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Kieran_Tierney_%2826938128442%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Kieran_Tierney_%2826938128442%29_%28cropped%29.jpg",
+        "width": 325,
+        "height": 441,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/77027791@N08\">Graham</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kieran-tierney.jpg"
+      }
+    },
+    {
+      "slug": "scott-mckenna",
+      "display_name": "Scott McKenna",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-11-12",
+      "age": 29,
+      "caps": 49,
+      "goals": 1,
+      "club_from_squad_table": "Dinamo Zagreb",
+      "wikipedia_title": "Scott McKenna",
+      "date_of_birth": "1996-11-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Dinamo Zagreb",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q24084667",
+      "qid": "Q24084667",
+      "name": "Scott McKenna",
+      "description": "Scottish association football player (born 1996)",
+      "place_of_birth_qid": "Q1011603",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 189.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q793241",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1812121",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q793241",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Scott_McKenna",
+      "transfermarkt_id": "255906",
+      "fifa_player_id": "201297243",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Kirriemuir",
+      "wikidata_current_club": "Ayr United F.C.",
+      "wikidata_current_club_qid": "Q793241",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jack-hendry",
+      "display_name": "Jack Hendry",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1995-05-07",
+      "age": 31,
+      "caps": 37,
+      "goals": 3,
+      "club_from_squad_table": "Al-Ettifaq",
+      "wikipedia_title": "Jack Hendry (footballer, born 1995)",
+      "date_of_birth": "1995-05-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Ettifaq",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20027858",
+      "qid": "Q20027858",
+      "name": "Jack Hendry",
+      "description": "Scottish association football player (born 1995)",
+      "place_of_birth_qid": "Q4093",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18750",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q822722",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q19626",
+          "start": "2016-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19626",
+      "image_filename": "FC Salzburg versus Celtic FC (4. Oktober 2918 Gruppe B, Zweiter Spieltag) 20 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Hendry_(footballer,_born_1995)",
+      "transfermarkt_id": "363223",
+      "fifa_player_id": "201210287",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Glasgow",
+      "wikidata_current_club": "Shrewsbury Town F.C.",
+      "wikidata_current_club_qid": "Q19626",
+      "photo": {
+        "filename": "FC Salzburg versus Celtic FC (4. Oktober 2918 Gruppe B, Zweiter Spieltag) 20 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/FC_Salzburg_versus_Celtic_FC_%284._Oktober_2918_Gruppe_B%2C_Zweiter_Spieltag%29_20_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/FC_Salzburg_versus_Celtic_FC_%284._Oktober_2918_Gruppe_B%2C_Zweiter_Spieltag%29_20_%28cropped%29.jpg",
+        "width": 320,
+        "height": 429,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jack-hendry.jpg"
+      }
+    },
+    {
+      "slug": "nathan-patterson",
+      "display_name": "Nathan Patterson",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-10-16",
+      "age": 24,
+      "caps": 25,
+      "goals": 1,
+      "club_from_squad_table": "Everton",
+      "wikipedia_title": "Nathan Patterson (footballer)",
+      "date_of_birth": "2001-10-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Everton",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q83264648",
+      "qid": "Q83264648",
+      "name": "Nathan Patterson",
+      "description": "Scottish association football player (born 2001)",
+      "place_of_birth_qid": "Q4093",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19597",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19597",
+      "image_filename": "SPFL Reserve League Winners 2018 19 - Rangers (33913865528) (KP).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nathan_Patterson_(footballer)",
+      "transfermarkt_id": "424015",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Glasgow",
+      "wikidata_current_club": "Rangers F.C.",
+      "wikidata_current_club_qid": "Q19597",
+      "photo": {
+        "filename": "SPFL Reserve League Winners 2018 19 - Rangers (33913865528) (KP).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/SPFL_Reserve_League_Winners_2018_19_-_Rangers_%2833913865528%29_%28KP%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/SPFL_Reserve_League_Winners_2018_19_-_Rangers_%2833913865528%29_%28KP%29.jpg",
+        "width": 427,
+        "height": 524,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/57511216@N04\">Daniel</a> from Glasgow, United Kingdom",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nathan-patterson.jpg"
+      }
+    },
+    {
+      "slug": "anthony-ralston",
+      "display_name": "Anthony Ralston",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-11-16",
+      "age": 27,
+      "caps": 25,
+      "goals": 1,
+      "club_from_squad_table": "Celtic",
+      "wikipedia_title": "Anthony Ralston",
+      "date_of_birth": "1998-11-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Celtic",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q24073962",
+      "qid": "Q24073962",
+      "name": "Anthony Ralston",
+      "description": "Scottish association football player (born 1998)",
+      "place_of_birth_qid": "Q4093",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19593",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q852753",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1812121",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19593",
+      "image_filename": "Celtic-20240722-034.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anthony_Ralston",
+      "transfermarkt_id": "388171",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Glasgow",
+      "wikidata_current_club": "Celtic F.C.",
+      "wikidata_current_club_qid": "Q19593",
+      "photo": {
+        "filename": "Celtic-20240722-034.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Celtic-20240722-034.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Celtic-20240722-034.jpg/960px-Celtic-20240722-034.jpg",
+        "width": 1130,
+        "height": 1850,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Hameltion\" title=\"User:Hameltion\">Hameltion</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/anthony-ralston.jpg"
+      }
+    },
+    {
+      "slug": "john-souttar",
+      "display_name": "John Souttar",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-09-25",
+      "age": 29,
+      "caps": 22,
+      "goals": 2,
+      "club_from_squad_table": "Rangers",
+      "wikipedia_title": "John Souttar",
+      "date_of_birth": "1996-09-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rangers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q3238952",
+      "qid": "Q3238952",
+      "name": "John Souttar",
+      "description": "Scottish association football player (born 1996)",
+      "place_of_birth_qid": "Q36405",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 186.0,
+      "position_qids": [
+        "Q336286",
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q192873",
+          "start": "2013-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q202093",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3589864",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q4140015",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1812121",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q202093",
+      "image_filename": "John Souttar 2023.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Souttar",
+      "transfermarkt_id": "235767",
+      "positions": [
+        "defender",
+        "centre-back"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Aberdeen",
+      "wikidata_current_club": "Heart of Midlothian F.C.",
+      "wikidata_current_club_qid": "Q202093",
+      "photo": {
+        "filename": "John Souttar 2023.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/John_Souttar_2023.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/John_Souttar_2023.jpg",
+        "width": 859,
+        "height": 1127,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "Jim Easton",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/john-souttar.jpg"
+      }
+    },
+    {
+      "slug": "aaron-hickey",
+      "display_name": "Aaron Hickey",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-06-10",
+      "age": 24,
+      "caps": 19,
+      "goals": 0,
+      "club_from_squad_table": "Brentford",
+      "wikipedia_title": "Aaron Hickey",
+      "date_of_birth": "2002-06-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Brentford",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64010525",
+      "qid": "Q64010525",
+      "name": "Aaron Hickey",
+      "description": "Scottish association football player",
+      "place_of_birth_qid": "Q22",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 1.85,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q202093",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q202093",
+      "image_filename": "Aaron Hickey 02082025 (1).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aaron_Hickey",
+      "transfermarkt_id": "591949",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Scotland",
+      "wikidata_current_club": "Heart of Midlothian F.C.",
+      "wikidata_current_club_qid": "Q202093",
+      "photo": {
+        "filename": "Aaron Hickey 02082025 (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Aaron_Hickey_02082025_%281%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aaron_Hickey_02082025_%281%29.jpg/960px-Aaron_Hickey_02082025_%281%29.jpg",
+        "width": 1548,
+        "height": 1792,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/aaron-hickey.jpg"
+      }
+    },
+    {
+      "slug": "dominic-hyam",
+      "display_name": "Dominic Hyam",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1995-12-20",
+      "age": 30,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Wrexham",
+      "wikipedia_title": "Dominic Hyam",
+      "date_of_birth": "1995-12-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Wrexham",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q23007824",
+      "qid": "Q23007824",
+      "name": "Dominic Hyam",
+      "description": "Scottish footballer (born 1995)",
+      "place_of_birth_qid": "Q1011960",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18729",
+          "start": "2013-01-01",
+          "end": "2017-06-00"
+        },
+        {
+          "team_qid": "Q5212629",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q2551669",
+          "start": "2015-01-01",
+          "end": "2016-01-00"
+        },
+        {
+          "team_qid": "Q48938",
+          "start": "2016-02-00",
+          "end": "2016-05-00"
+        },
+        {
+          "team_qid": "Q4140015",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1812121",
+          "start": "2014-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q34044",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19604",
+          "start": "2016-08-00",
+          "end": "2017-01-00"
+        },
+        {
+          "team_qid": "Q48862",
+          "start": "2017-03-00",
+          "end": "2017-05-00"
+        },
+        {
+          "team_qid": "Q19580",
+          "start": "2017-07-00",
+          "end": "2022-08-00"
+        },
+        {
+          "team_qid": "Q19446",
+          "start": "2022-08-00",
+          "end": "2025-09-00"
+        },
+        {
+          "team_qid": "Q18529",
+          "start": "2025-09-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18529",
+      "image_filename": "Украина U-21 - Шотландия U-21 4-0. 6 сентября 2016 года — 708271 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dominic_Hyam",
+      "transfermarkt_id": "263268",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Leuchars",
+      "wikidata_current_club": "Wrexham A.F.C.",
+      "wikidata_current_club_qid": "Q18529",
+      "photo": {
+        "filename": "Украина U-21 - Шотландия U-21 4-0. 6 сентября 2016 года — 708271 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0_U-21_-_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F_U-21_4-0._6_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2016_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%94_708271_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0_U-21_-_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F_U-21_4-0._6_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2016_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%94_708271_%28cropped%29.jpg",
+        "width": 690,
+        "height": 820,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q131344231\" class=\"extiw\" title=\"d:Q131344231\"><span title=\"Ukrainian photographer\">Olga Shcherbytska</span></a></bdi>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dominic-hyam.jpg"
+      }
+    },
+    {
+      "slug": "john-mcginn",
+      "display_name": "John McGinn",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-10-18",
+      "age": 31,
+      "caps": 85,
+      "goals": 20,
+      "club_from_squad_table": "Aston Villa",
+      "wikipedia_title": "John McGinn",
+      "date_of_birth": "1994-10-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Aston Villa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q10547335",
+      "qid": "Q10547335",
+      "name": "John McGinn",
+      "description": "Scottish association football player (born 1994)",
+      "place_of_birth_qid": "Q4093",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 66.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q319136",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q192597",
+          "start": "2015-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q4140015",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1812121",
+          "start": "2014-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q34044",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q18711",
+          "start": "2018-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18711",
+      "image_filename": "First Minister meets with Scottish National Football Team (2) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_McGinn",
+      "transfermarkt_id": "193116",
+      "fifa_player_id": "401334",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Glasgow",
+      "wikidata_current_club": "Aston Villa F.C.",
+      "wikidata_current_club_qid": "Q18711",
+      "photo": {
+        "filename": "First Minister meets with Scottish National Football Team (2) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/First_Minister_meets_with_Scottish_National_Football_Team_%282%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/First_Minister_meets_with_Scottish_National_Football_Team_%282%29_%28cropped%29.jpg/960px-First_Minister_meets_with_Scottish_National_Football_Team_%282%29_%28cropped%29.jpg",
+        "width": 1348,
+        "height": 1620,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Scottish Government",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/john-mcginn.jpg"
+      }
+    },
+    {
+      "slug": "scott-mctominay",
+      "display_name": "Scott McTominay",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-12-08",
+      "age": 29,
+      "caps": 69,
+      "goals": 14,
+      "club_from_squad_table": "Napoli",
+      "wikipedia_title": "Scott McTominay",
+      "date_of_birth": "1996-12-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Napoli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q29624459",
+      "qid": "Q29624459",
+      "name": "Scott McTominay",
+      "description": "Scottish association football player (born 1996)",
+      "place_of_birth_qid": "Q205905",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 88.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18656",
+          "start": "2017-00-00",
+          "end": "2024-08-30"
+        },
+        {
+          "team_qid": "Q34044",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2641",
+          "start": "2024-08-30",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2641",
+      "image_filename": "Scott McTominay 2021.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Scott_McTominay",
+      "transfermarkt_id": "315969",
+      "fifa_player_id": "201654801",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Lancaster",
+      "wikidata_current_club": "SSC Napoli",
+      "wikidata_current_club_qid": "Q2641",
+      "photo": {
+        "filename": "Scott McTominay 2021.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Scott_McTominay_2021.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Scott_McTominay_2021.jpg",
+        "width": 462,
+        "height": 869,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/scott-mctominay.jpg"
+      }
+    },
+    {
+      "slug": "ryan-christie",
+      "display_name": "Ryan Christie",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1995-02-22",
+      "age": 31,
+      "caps": 66,
+      "goals": 9,
+      "club_from_squad_table": "Bournemouth",
+      "wikipedia_title": "Ryan Christie",
+      "date_of_birth": "1995-02-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bournemouth",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16236700",
+      "qid": "Q16236700",
+      "name": "Ryan Christie",
+      "description": "Scottish association football player (born 1995)",
+      "place_of_birth_qid": "Q160493",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q309059",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q19593",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q309059",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1812121",
+          "start": "2014-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19593",
+      "image_filename": "Ryan Christie (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Christie",
+      "transfermarkt_id": "188077",
+      "fifa_player_id": "201162505",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Inverness",
+      "wikidata_current_club": "Celtic F.C.",
+      "wikidata_current_club_qid": "Q19593",
+      "photo": {
+        "filename": "Ryan Christie (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ryan_Christie_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ryan_Christie_%28cropped%29.jpg",
+        "width": 843,
+        "height": 1220,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "Jim Easton",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ryan-christie.jpg"
+      }
+    },
+    {
+      "slug": "kenny-mclean",
+      "display_name": "Kenny McLean",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1992-01-08",
+      "age": 34,
+      "caps": 56,
+      "goals": 3,
+      "club_from_squad_table": "Norwich City",
+      "wikipedia_title": "Kenny McLean",
+      "date_of_birth": "1992-01-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Norwich City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q6391158",
+      "qid": "Q6391158",
+      "name": "Kenny McLean",
+      "description": "Scottish association football player (born 1992)",
+      "place_of_birth_qid": "Q2287588",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q319136",
+          "start": "2009-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q539374",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q187326",
+          "start": "2015-01-01",
+          "end": "2018-05-14"
+        },
+        {
+          "team_qid": "Q4140015",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q1812121",
+          "start": "2011-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q34044",
+          "start": "2016-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q187326",
+      "image_filename": "Kenny McLean 2021-08-07 1.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kenny_McLean",
+      "transfermarkt_id": "126600",
+      "fifa_player_id": "200816012",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Rutherglen",
+      "wikidata_current_club": "Aberdeen F.C.",
+      "wikidata_current_club_qid": "Q187326",
+      "photo": {
+        "filename": "Kenny McLean 2021-08-07 1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kenny_McLean_2021-08-07_1.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kenny_McLean_2021-08-07_1.jpg",
+        "width": 927,
+        "height": 1548,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Mattythewhite\" title=\"User:Mattythewhite\">Mattythewhite</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kenny-mclean.jpg"
+      }
+    },
+    {
+      "slug": "billy-gilmour",
+      "display_name": "Billy Gilmour",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-06-11",
+      "age": 25,
+      "caps": 45,
+      "goals": 2,
+      "club_from_squad_table": "Napoli",
+      "wikipedia_title": "Billy Gilmour",
+      "date_of_birth": "2001-06-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Napoli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q42847487",
+      "qid": "Q42847487",
+      "name": "Billy Gilmour",
+      "description": "Scottish association football player",
+      "place_of_birth_qid": "Q1774629",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 170.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q9616",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1812121",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2641",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2641",
+      "image_filename": "Billy Gilmour 2021-08-07 1 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Billy_Gilmour",
+      "transfermarkt_id": "423744",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Irvine",
+      "wikidata_current_club": "SSC Napoli",
+      "wikidata_current_club_qid": "Q2641",
+      "photo": {
+        "filename": "Billy Gilmour 2021-08-07 1 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Billy_Gilmour_2021-08-07_1_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Billy_Gilmour_2021-08-07_1_%28cropped%29.jpg",
+        "width": 885,
+        "height": 1432,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Mattythewhite\" title=\"User:Mattythewhite\">Mattythewhite</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/billy-gilmour.jpg"
+      }
+    },
+    {
+      "slug": "lewis-ferguson",
+      "display_name": "Lewis Ferguson",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1999-08-24",
+      "age": 26,
+      "caps": 23,
+      "goals": 1,
+      "club_from_squad_table": "Bologna",
+      "wikipedia_title": "Lewis Ferguson",
+      "date_of_birth": "1999-08-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bologna",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q47467341",
+      "qid": "Q47467341",
+      "name": "Lewis Ferguson",
+      "description": "Scottish association football player (born 1999)",
+      "place_of_birth_qid": "Q4131",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 181.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19597",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1812121",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19597",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lewis_Ferguson",
+      "transfermarkt_id": "428563",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Hamilton",
+      "wikidata_current_club": "Rangers F.C.",
+      "wikidata_current_club_qid": "Q19597",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ben-gannon-doak",
+      "display_name": "Ben Gannon-Doak",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2005-11-11",
+      "age": 20,
+      "caps": 12,
+      "goals": 1,
+      "club_from_squad_table": "Bournemouth",
+      "wikipedia_title": "Ben Gannon-Doak",
+      "date_of_birth": "2005-11-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bournemouth",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110739094",
+      "qid": "Q110739094",
+      "name": "Ben Doak",
+      "description": "Scottish association football player",
+      "place_of_birth_qid": "Q3467446",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 1.73,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19593",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q7435696",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q3589864",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1812121",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q34044",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18661",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q19568",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19568",
+      "image_filename": "Ben Gannon-Doak 09052026 (1).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ben_Gannon-Doak",
+      "transfermarkt_id": "719673",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Dalry",
+      "wikidata_current_club": "AFC Bournemouth",
+      "wikidata_current_club_qid": "Q19568",
+      "photo": {
+        "filename": "Ben Gannon-Doak 09052026 (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ben_Gannon-Doak_09052026_%281%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ben_Gannon-Doak_09052026_%281%29.jpg/960px-Ben_Gannon-Doak_09052026_%281%29.jpg",
+        "width": 2338,
+        "height": 3619,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ben-gannon-doak.jpg"
+      }
+    },
+    {
+      "slug": "findlay-curtis",
+      "display_name": "Findlay Curtis",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2006-06-09",
+      "age": 20,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Kilmarnock",
+      "wikipedia_title": "Findlay Curtis",
+      "date_of_birth": "2006-06-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Kilmarnock",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q131863254",
+      "qid": "Q131863254",
+      "name": "Findlay Curtis",
+      "description": "Scottish footballer",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Findlay_Curtis",
+      "transfermarkt_id": "1082993",
+      "wikidata_date_of_birth": "2006-01-01",
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "image_filename": "First_Minister_meets_with_Scottish_National_Football_Team_-_55168603663_(cropped_findlay_curtis).jpg",
+      "photo": {
+        "filename": "First_Minister_meets_with_Scottish_National_Football_Team_-_55168603663_(cropped_findlay_curtis).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/First_Minister_meets_with_Scottish_National_Football_Team_-_55168603663_%28cropped_findlay_curtis%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/First_Minister_meets_with_Scottish_National_Football_Team_-_55168603663_%28cropped_findlay_curtis%29.jpg",
+        "width": 175,
+        "height": 176,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Scottish Government",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/findlay-curtis.jpg"
+      }
+    },
+    {
+      "slug": "lyndon-dykes",
+      "display_name": "Lyndon Dykes",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1995-10-07",
+      "age": 30,
+      "caps": 50,
+      "goals": 10,
+      "club_from_squad_table": "Charlton Athletic",
+      "wikipedia_title": "Lyndon Dykes",
+      "date_of_birth": "1995-10-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Charlton Athletic",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26405109",
+      "qid": "Q26405109",
+      "name": "Lyndon Dykes",
+      "description": "Scotland association football player (born 1995)",
+      "place_of_birth_qid": "Q140075",
+      "citizenship_qids": [
+        "Q145",
+        "Q408"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q854890",
+          "start": "2016-07-01",
+          "end": "2019-01-30"
+        },
+        {
+          "team_qid": "Q867921",
+          "start": "2019-01-30",
+          "end": "2020-08-19"
+        },
+        {
+          "team_qid": "Q854890",
+          "start": "2019-01-31",
+          "end": "2019-05-19"
+        },
+        {
+          "team_qid": "Q18723",
+          "start": "2020-08-19",
+          "end": null
+        },
+        {
+          "team_qid": "Q34044",
+          "start": "2020-09-04",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18723",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lyndon_Dykes",
+      "transfermarkt_id": "347138",
+      "fifa_player_id": "400086960",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United Kingdom",
+        "Australia"
+      ],
+      "place_of_birth": "Gold Coast",
+      "wikidata_current_club": "Queens Park Rangers F.C.",
+      "wikidata_current_club_qid": "Q18723",
+      "image_filename": "First_Minister_meets_with_Scottish_National_Football_Team_-_55168603663_(cropped).jpg",
+      "photo": {
+        "filename": "First_Minister_meets_with_Scottish_National_Football_Team_-_55168603663_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/First_Minister_meets_with_Scottish_National_Football_Team_-_55168603663_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/First_Minister_meets_with_Scottish_National_Football_Team_-_55168603663_%28cropped%29.jpg",
+        "width": 156,
+        "height": 199,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Scottish Government",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/lyndon-dykes.jpg"
+      }
+    },
+    {
+      "slug": "ché-adams",
+      "display_name": "Ché Adams",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-07-13",
+      "age": 29,
+      "caps": 46,
+      "goals": 11,
+      "club_from_squad_table": "Torino",
+      "wikipedia_title": "Ché Adams",
+      "date_of_birth": "1996-07-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Torino",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18683792",
+      "qid": "Q18683792",
+      "name": "Ché Adams",
+      "description": "Scottish-English association football player (born 1996)",
+      "place_of_birth_qid": "Q83065",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 1.75,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18295",
+          "start": "2013-01-01",
+          "end": "2014-11-14"
+        },
+        {
+          "team_qid": "Q19607",
+          "start": "2014-11-14",
+          "end": "2016-08-08"
+        },
+        {
+          "team_qid": "Q4202306",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q19444",
+          "start": "2016-08-08",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19444",
+      "image_filename": "Che Adams.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ch%C3%A9_Adams",
+      "transfermarkt_id": "346779",
+      "fifa_player_id": "400078493",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Leicester",
+      "wikidata_current_club": "Birmingham City F.C.",
+      "wikidata_current_club_qid": "Q19444",
+      "photo": {
+        "filename": "Che Adams.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Che_Adams.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Che_Adams.jpg/960px-Che_Adams.jpg",
+        "width": 2400,
+        "height": 3000,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "Birmingham City F.C.",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ché-adams.jpg"
+      }
+    },
+    {
+      "slug": "lawrence-shankland",
+      "display_name": "Lawrence Shankland",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1995-08-10",
+      "age": 30,
+      "caps": 18,
+      "goals": 4,
+      "club_from_squad_table": "Heart of Midlothian",
+      "wikipedia_title": "Lawrence Shankland",
+      "date_of_birth": "1995-08-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Heart of Midlothian",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18331623",
+      "qid": "Q18331623",
+      "name": "Lawrence Shankland",
+      "description": "Scottish association football player (born 1995)",
+      "place_of_birth_qid": "Q4093",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q319136",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q852753",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q187326",
+          "start": "2013-01-01",
+          "end": "2017-07-01"
+        },
+        {
+          "team_qid": "Q390256",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1812121",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q319136",
+      "image_filename": "Lawrence Shankland 2019.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lawrence_Shankland",
+      "transfermarkt_id": "225744",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Glasgow",
+      "wikidata_current_club": "St. Mirren F.C.",
+      "wikidata_current_club_qid": "Q319136",
+      "photo": {
+        "filename": "Lawrence Shankland 2019.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Lawrence_Shankland_2019.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Lawrence_Shankland_2019.jpg",
+        "width": 529,
+        "height": 878,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Анна Джалалян",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lawrence-shankland.jpg"
+      }
+    },
+    {
+      "slug": "george-hirst",
+      "display_name": "George Hirst",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-02-15",
+      "age": 27,
+      "caps": 8,
+      "goals": 1,
+      "club_from_squad_table": "Ipswich Town",
+      "wikipedia_title": "George Hirst (footballer)",
+      "date_of_birth": "1999-02-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Ipswich Town",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27914873",
+      "qid": "Q27914873",
+      "name": "George Hirst",
+      "description": "Scottish association football player (born 1999)",
+      "place_of_birth_qid": "Q42448",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 191.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19498",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2752922",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1049171",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2358861",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q34044",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19498",
+      "image_filename": "GeorgeHirst.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/George_Hirst_(footballer)",
+      "transfermarkt_id": "420808",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Sheffield",
+      "wikidata_current_club": "Sheffield Wednesday F.C.",
+      "wikidata_current_club_qid": "Q19498",
+      "photo": {
+        "filename": "GeorgeHirst.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/GeorgeHirst.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/GeorgeHirst.jpg",
+        "width": 874,
+        "height": 1470,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kivo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kivo (page does not exist)\">Kivo</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/george-hirst.jpg"
+      }
+    },
+    {
+      "slug": "ross-stewart",
+      "display_name": "Ross Stewart",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-07-11",
+      "age": 29,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Southampton",
+      "wikipedia_title": "Ross Stewart (footballer, born 1996)",
+      "date_of_birth": "1996-07-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Southampton",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q47126518",
+      "qid": "Q47126518",
+      "name": "Ross Stewart",
+      "description": "Scottish association football player",
+      "place_of_birth_qid": "Q1774629",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q319136",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q319136",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ross_Stewart_(footballer,_born_1996)",
+      "transfermarkt_id": "447995",
+      "wikidata_date_of_birth": "1996-09-01",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "Irvine",
+      "wikidata_current_club": "St. Mirren F.C.",
+      "wikidata_current_club_qid": "Q319136",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    }
+  ],
+  "notes": [
+    "Scotland photo/field audit 2026-05-24: verifier confirmed all squad-table fields match the 2026 squads table; no clean Wikimedia portrait was found for Liam Kelly, Scott McKenna, Lewis Ferguson, or Ross Stewart. Several Wikidata current-club claims are stale, so squad-table club fields remain authoritative."
+  ]
+}

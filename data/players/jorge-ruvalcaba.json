@@ -1,0 +1,63 @@
+{
+  "slug": "jorge-ruvalcaba",
+  "display_name": "Jorge Ruvalcaba",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2001-07-23",
+  "age": 24,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "New York Red Bulls",
+  "wikipedia_title": "Jorge Ruvalcaba",
+  "wikidata_qid": "Q110546828",
+  "qid": "Q110546828",
+  "name": "Jorge Ruvalcaba",
+  "description": "Mexican-American soccer player",
+  "date_of_birth": "2001-07-23",
+  "place_of_birth_qid": "Q289661",
+  "citizenship_qids": [
+    "Q30",
+    "Q96"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q204220",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q204220",
+  "image_filename": "Jorge Ruvalcaba Red Bulls Revolution-38 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jorge_Ruvalcaba",
+  "transfermarkt_id": "950873",
+  "current_club": "New York Red Bulls",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "United States",
+    "Mexico"
+  ],
+  "place_of_birth": "Rialto",
+  "wikidata_current_club": "Red Bull New York",
+  "wikidata_current_club_qid": "Q204220",
+  "photo": {
+    "filename": "Jorge Ruvalcaba Red Bulls Revolution-38 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Jorge_Ruvalcaba_Red_Bulls_Revolution-38_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Jorge_Ruvalcaba_Red_Bulls_Revolution-38_%28cropped%29.jpg/960px-Jorge_Ruvalcaba_Red_Bulls_Revolution-38_%28cropped%29.jpg",
+    "width": 1309,
+    "height": 1745,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jorge-ruvalcaba.jpg"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "thomas-meunier",
+  "display_name": "Thomas Meunier",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1991-09-12",
+  "age": 34,
+  "caps": 78,
+  "goals": 10,
+  "club_from_squad_table": "Lille",
+  "wikipedia_title": "Thomas Meunier",
+  "date_of_birth": "1991-09-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lille",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q2036160",
+  "qid": "Q2036160",
+  "name": "Thomas Meunier",
+  "description": "Belgian association football player (born 1991)",
+  "place_of_birth_qid": "Q713708",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 88.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q190916",
+      "start": "2011-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q650917",
+      "start": "2009-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q166776",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q30743865",
+      "start": "2006-01-01",
+      "end": "2006-01-01"
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2016-07-03",
+      "end": "2020-06-00"
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2020-07-00",
+      "end": "2024-02-07"
+    },
+    {
+      "team_qid": "Q192641",
+      "start": "2024-02-07",
+      "end": "2024-07-19"
+    },
+    {
+      "team_qid": "Q865720",
+      "start": "2023-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q19516",
+      "start": "2024-07-19",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19516",
+  "image_filename": "2019-07-17 SG Dynamo Dresden vs. Paris Saint-Germain by Sandro Halank\u2013121.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Meunier",
+  "transfermarkt_id": "100986",
+  "fifa_player_id": "358122",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Sainte-Ode",
+  "wikidata_current_club": "Lille OSC",
+  "wikidata_current_club_qid": "Q19516",
+  "photo": {
+    "filename": "2019-07-17 SG Dynamo Dresden vs. Paris Saint-Germain by Sandro Halank\u2013121.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93121.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93121.jpg/960px-2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93121.jpg",
+    "width": 3155,
+    "height": 3893,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sandro_Halank\" title=\"User:Sandro Halank\">Sandro Halank</a>, Wikimedia Commons",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/thomas-meunier.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

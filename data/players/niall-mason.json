@@ -1,0 +1,57 @@
+{
+  "slug": "niall-mason",
+  "display_name": "Niall Mason",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-01-10",
+  "age": 29,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Qatar SC",
+  "wikipedia_title": "Niall Mason",
+  "date_of_birth": "1997-01-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Qatar SC",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26251658",
+  "qid": "Q26251658",
+  "name": "Niall Mason",
+  "description": "English association football player (born 1997)",
+  "place_of_birth_qid": "Q122892",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19589",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q18711",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19589",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Niall_Mason",
+  "transfermarkt_id": "319817",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Bromley",
+  "wikidata_current_club": "Doncaster Rovers F.C.",
+  "wikidata_current_club_qid": "Q19589",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

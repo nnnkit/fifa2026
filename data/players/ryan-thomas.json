@@ -1,0 +1,81 @@
+{
+  "slug": "ryan-thomas",
+  "display_name": "Ryan Thomas",
+  "shirt_no": 23,
+  "position_code": "MF",
+  "dob": "1994-12-20",
+  "age": 31,
+  "caps": 25,
+  "goals": 3,
+  "club_from_squad_table": "PEC Zwolle",
+  "wikipedia_title": "Ryan Thomas (footballer)",
+  "date_of_birth": "1994-12-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "PEC Zwolle",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q3943100",
+  "qid": "Q3943100",
+  "name": "Ryan Thomas",
+  "description": "New Zealand footballer",
+  "place_of_birth_qid": "Q1020244",
+  "citizenship_qids": [
+    "Q664"
+  ],
+  "height_cm": 174.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1855082",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q2659901",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q269151",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q175315",
+      "start": "2014-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3720046",
+      "start": "2013-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q269151",
+  "image_filename": "Ryan thomas-1444759971.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Thomas_(footballer)",
+  "transfermarkt_id": "203357",
+  "fifa_player_id": "336641",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "New Zealand"
+  ],
+  "place_of_birth": "Te Puke",
+  "photo": {
+    "filename": "Ryan thomas-1444759971.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Ryan_thomas-1444759971.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Ryan_thomas-1444759971.png",
+    "width": 534,
+    "height": 662,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Klaas Jilderda",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ryan-thomas.png"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand"
+}

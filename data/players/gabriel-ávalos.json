@@ -1,0 +1,61 @@
+{
+  "slug": "gabriel-ávalos",
+  "display_name": "Gabriel Ávalos",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1991-07-09",
+  "age": 34,
+  "caps": 22,
+  "goals": 2,
+  "club_from_squad_table": "Independiente",
+  "wikipedia_title": "Gabriel Ávalos",
+  "date_of_birth": "1991-07-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Independiente",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q14592575",
+  "qid": "Q14592575",
+  "name": "Gabriel Ávalos",
+  "description": "Paraguayan footballer",
+  "place_of_birth_qid": "Q1985377",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 187.0,
+  "position_qids": [
+    "Q3446915",
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1773830",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q220621",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1773830",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel_%C3%81valos",
+  "transfermarkt_id": "358418",
+  "wikidata_date_of_birth": "1990-10-12",
+  "positions": [
+    "attacker",
+    "forward"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Edelira",
+  "wikidata_current_club": "Club Atlético Patronato",
+  "wikidata_current_club_qid": "Q1773830",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

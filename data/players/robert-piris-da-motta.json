@@ -1,0 +1,88 @@
+{
+  "slug": "robert-piris-da-motta",
+  "display_name": "Robert Piris Da Motta",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1994-07-26",
+  "age": 31,
+  "caps": 9,
+  "goals": 0,
+  "club_from_squad_table": "Cerro Porteño",
+  "wikipedia_title": "Robert Piris Da Motta",
+  "date_of_birth": "1994-07-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Cerro Porteño",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20950163",
+  "qid": "Q20950163",
+  "name": "Robert Piris Da Motta",
+  "description": "Paraguayan association football player",
+  "place_of_birth_qid": "Q192235",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q604589",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q503321",
+      "start": "2008-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3328932",
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3328932",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q172020",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q17479",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q604589",
+  "image_filename": "Flamengo v Vasco September 2018 IMG 4439 (43805135645).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Piris_Da_Motta",
+  "transfermarkt_id": "273033",
+  "fifa_player_id": "369756",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Ciudad del Este",
+  "wikidata_current_club": "Club Olimpia",
+  "wikidata_current_club_qid": "Q604589",
+  "photo": {
+    "filename": "Flamengo v Vasco September 2018 IMG 4439 (43805135645).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flamengo_v_Vasco_September_2018_IMG_4439_%2843805135645%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flamengo_v_Vasco_September_2018_IMG_4439_%2843805135645%29.jpg/960px-Flamengo_v_Vasco_September_2018_IMG_4439_%2843805135645%29.jpg",
+    "width": 1995,
+    "height": 3546,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/140441867@N03\">Nadine Oliverr</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/robert-piris-da-motta.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "joão-paulo",
+  "display_name": "João Paulo",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-05-26",
+  "age": 28,
+  "caps": 40,
+  "goals": 1,
+  "club_from_squad_table": "FCSB",
+  "wikipedia_title": "João Paulo Fernandes (footballer)",
+  "date_of_birth": "1998-05-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "FCSB",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q107334828",
+  "qid": "Q107334828",
+  "name": "João Paulo Fernandes",
+  "description": "Cape Verdean footballer",
+  "place_of_birth_qid": "Q3122689",
+  "citizenship_qids": [
+    "Q1011"
+  ],
+  "height_cm": 176.0,
+  "position_qids": [
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3493842",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1822470",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q671042",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q210768",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q220863",
+      "start": "2025-06-30",
+      "end": "2026-02-02"
+    },
+    {
+      "team_qid": "Q179658",
+      "start": "2026-02-02",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q179658",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Paulo_Fernandes_(footballer)",
+  "transfermarkt_id": "623965",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "Cape Verde"
+  ],
+  "place_of_birth": "Ribeira Grande",
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

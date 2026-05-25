@@ -1,0 +1,82 @@
+{
+  "slug": "mohamed-rabie-hrimat",
+  "display_name": "Mohamed Rabie Hrimat",
+  "shirt_no": 6,
+  "position_code": "MF",
+  "dob": "1994-08-17",
+  "age": 31,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "AS FAR",
+  "wikipedia_title": "Mohamed Rabie Hrimat",
+  "date_of_birth": "1994-08-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "AS FAR",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q109567484",
+  "qid": "Q109567484",
+  "name": "Mohamed Hrimat",
+  "description": "footballeur marocain",
+  "place_of_birth_qid": "Q3551",
+  "citizenship_qids": [
+    "Q1028"
+  ],
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1389863",
+      "start": "2014-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q117187208",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q1503364",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q1270141",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19060379",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1270141",
+  "image_filename": "Mohamed Hrimat warming up with Morocco (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Rabie_Hrimat",
+  "transfermarkt_id": "553100",
+  "wikidata_date_of_birth": "1994-08-07",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Morocco"
+  ],
+  "place_of_birth": "Rabat",
+  "wikidata_current_club": "FAR Rabat",
+  "wikidata_current_club_qid": "Q1270141",
+  "photo": {
+    "filename": "Mohamed Hrimat warming up with Morocco (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mohamed_Hrimat_warming_up_with_Morocco_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mohamed_Hrimat_warming_up_with_Morocco_%28cropped%29.jpg/960px-Mohamed_Hrimat_warming_up_with_Morocco_%28cropped%29.jpg",
+    "width": 1100,
+    "height": 1631,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Abdelali Bentarki",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mohamed-rabie-hrimat.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

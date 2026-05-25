@@ -1,0 +1,54 @@
+{
+  "slug": "zidane-iqbal",
+  "display_name": "Zidane Iqbal",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2003-04-27",
+  "age": 23,
+  "caps": 22,
+  "goals": 2,
+  "club_from_squad_table": "Utrecht",
+  "wikipedia_title": "Zidane Iqbal",
+  "date_of_birth": "2003-04-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Utrecht",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q107882685",
+  "qid": "Q107882685",
+  "name": "Zidane Iqbal",
+  "description": "association football player",
+  "place_of_birth_qid": "Q18125",
+  "citizenship_qids": [
+    "Q796",
+    "Q145"
+  ],
+  "height_cm": 1.81,
+  "position_qids": [
+    "Q193592"
+  ],
+  "image_filename": "Zidane Iqbal debut.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Zidane_Iqbal",
+  "transfermarkt_id": "686845",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Iraq",
+    "United Kingdom"
+  ],
+  "place_of_birth": "Manchester",
+  "photo": {
+    "filename": "Zidane Iqbal debut.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Zidane_Iqbal_debut.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Zidane_Iqbal_debut.jpg",
+    "width": 602,
+    "height": 1263,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/zidane-iqbal.jpg"
+  },
+  "team_slug": "iraq",
+  "team_country": "Iraq"
+}

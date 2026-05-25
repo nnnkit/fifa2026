@@ -1,0 +1,63 @@
+{
+  "slug": "braian-ojeda",
+  "display_name": "Braian Ojeda",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2000-07-27",
+  "age": 25,
+  "caps": 16,
+  "goals": 0,
+  "club_from_squad_table": "Orlando City SC",
+  "wikipedia_title": "Braian Ojeda",
+  "date_of_birth": "2000-07-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Orlando City SC",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q60828724",
+  "qid": "Q60828724",
+  "name": "Braian Ojeda",
+  "description": "Paraguayan association football player",
+  "place_of_birth_qid": "Q1093634",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 172.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19490",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19490",
+  "image_filename": "Dynamo vs Real Salt Lake (Mar 2025) 16 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Braian_Ojeda",
+  "transfermarkt_id": "491596",
+  "wikidata_date_of_birth": "2000-06-27",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Villa monica alritmo",
+  "wikidata_current_club": "Nottingham Forest F.C.",
+  "wikidata_current_club_qid": "Q19490",
+  "photo": {
+    "filename": "Dynamo vs Real Salt Lake (Mar 2025) 16 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Dynamo_vs_Real_Salt_Lake_%28Mar_2025%29_16_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Dynamo_vs_Real_Salt_Lake_%28Mar_2025%29_16_%28cropped%29.jpg",
+    "width": 542,
+    "height": 1027,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://old.reddit.com/user/reepers_hellcat\">u/reepers_hellcat</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/braian-ojeda.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

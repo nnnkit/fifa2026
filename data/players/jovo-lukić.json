@@ -1,0 +1,96 @@
+{
+  "slug": "jovo-lukić",
+  "display_name": "Jovo Lukić",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1998-11-28",
+  "age": 27,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Universitatea Cluj",
+  "wikipedia_title": "Jovo Lukić",
+  "wikidata_qid": "Q96182876",
+  "qid": "Q96182876",
+  "name": "Jovo Lukić",
+  "description": "Bosnian association football player",
+  "date_of_birth": "1998-11-28",
+  "place_of_birth_qid": "Q131127",
+  "citizenship_qids": [
+    "Q225"
+  ],
+  "height_cm": 190.0,
+  "position_qids": [
+    "Q9731197"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1353948",
+      "start": "2019-02-00",
+      "end": "2019-06-00"
+    },
+    {
+      "team_qid": "Q3443529",
+      "start": "2015-08-00",
+      "end": "2018-02-00"
+    },
+    {
+      "team_qid": "Q18125728",
+      "start": "2018-02-00",
+      "end": "2020-07-00"
+    },
+    {
+      "team_qid": "Q128897",
+      "start": "2020-07-00",
+      "end": "2024-09-00"
+    },
+    {
+      "team_qid": "Q16838020",
+      "start": "2024-09-00",
+      "end": "2025-06-00"
+    },
+    {
+      "team_qid": "Q753462",
+      "start": "2025-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q769512",
+      "start": "2018-11-00",
+      "end": "2020-11-00"
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2021-12-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q753462",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jovo_Luki%C4%87",
+  "transfermarkt_id": "457738",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Universitatea Cluj",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "centre-forward"
+  ],
+  "citizenship": [
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Banja Luka",
+  "wikidata_current_club": "FC Universitatea Cluj",
+  "wikidata_current_club_qid": "Q753462",
+  "photo": {
+    "filename": "Jovo Lukić 97.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Jovo_Luki%C4%87_97.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jovo_Luki%C4%87_97.jpg/960px-Jovo_Luki%C4%87_97.jpg",
+    "width": 4000,
+    "height": 2667,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Hatorcat\" title=\"User:Hatorcat\">Hatorcat</a>",
+    "source": "manual-commons-verifier",
+    "local_path": "data/photos/jovo-lukić.jpg"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

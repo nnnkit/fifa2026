@@ -1,0 +1,74 @@
+{
+  "slug": "richard-ledezma",
+  "display_name": "Richard Ledezma",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-09-06",
+  "age": 25,
+  "caps": 3,
+  "goals": 1,
+  "club_from_squad_table": "Guadalajara",
+  "wikipedia_title": "Richard Ledezma",
+  "wikidata_qid": "Q51841199",
+  "qid": "Q51841199",
+  "name": "Richard Ledezma",
+  "description": "Mexican association football player (born 2015)",
+  "date_of_birth": "2000-09-06",
+  "place_of_birth_qid": "Q16556",
+  "citizenship_qids": [
+    "Q30",
+    "Q96"
+  ],
+  "height_cm": 168.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18157619",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q13534332",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q287804",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590572",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q164134",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q13534332",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Ledezma",
+  "transfermarkt_id": "575367",
+  "current_club": "Guadalajara",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United States",
+    "Mexico"
+  ],
+  "place_of_birth": "Phoenix",
+  "wikidata_current_club": "Jong PSV",
+  "wikidata_current_club_qid": "Q13534332",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

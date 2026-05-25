@@ -1,0 +1,44 @@
+{
+  "slug": "mostafa-shobeir",
+  "display_name": "Mostafa Shobeir",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2000-03-17",
+  "age": 26,
+  "caps": 7,
+  "goals": 0,
+  "club_from_squad_table": "Al Ahly",
+  "wikipedia_title": "Mostafa Shobeir",
+  "date_of_birth": "2000-03-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al Ahly",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q110263543",
+  "qid": "Q110263543",
+  "name": "Mostafa Shobeir",
+  "description": "Egyptian association football player",
+  "place_of_birth_qid": "Q81788",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q201330"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mostafa_Shobeir",
+  "transfermarkt_id": "661455",
+  "wikidata_date_of_birth": "2000-03-01",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "place_of_birth": "Giza",
+  "team_slug": "egypt",
+  "team_country": "Egypt",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

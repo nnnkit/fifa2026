@@ -1,0 +1,68 @@
+{
+  "slug": "juninho-bacuna",
+  "display_name": "Juninho Bacuna",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-08-07",
+  "age": 28,
+  "caps": 47,
+  "goals": 14,
+  "club_from_squad_table": "Volendam",
+  "wikipedia_title": "Juninho Bacuna",
+  "date_of_birth": "1997-08-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Volendam",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19280531",
+  "qid": "Q19280531",
+  "name": "Juninho Bacuna",
+  "description": "Curaçaoan footballer",
+  "place_of_birth_qid": "Q749",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q24711",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q24711",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q24711",
+  "image_filename": "Juninho bacuna-1531777726.jpeg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Juninho_Bacuna",
+  "transfermarkt_id": "348863",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Groningen",
+  "wikidata_current_club": "FC Groningen",
+  "wikidata_current_club_qid": "Q24711",
+  "photo": {
+    "filename": "Juninho bacuna-1531777726.jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Juninho_bacuna-1531777726.jpeg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Juninho_bacuna-1531777726.jpeg",
+    "width": 719,
+    "height": 886,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "FC Groningen Insider",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/juninho-bacuna.jpeg"
+  },
+  "team_slug": "curaçao",
+  "team_country": "Curaçao"
+}

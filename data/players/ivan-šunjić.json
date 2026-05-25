@@ -1,0 +1,121 @@
+{
+  "slug": "ivan-šunjić",
+  "display_name": "Ivan Šunjić",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-10-09",
+  "age": 29,
+  "caps": 11,
+  "goals": 0,
+  "club_from_squad_table": "Pafos",
+  "wikipedia_title": "Ivan Šunjić",
+  "wikidata_qid": "Q19662444",
+  "qid": "Q19662444",
+  "name": "Ivan Šunjić",
+  "description": "Croatian association football player",
+  "date_of_birth": "1996-10-09",
+  "place_of_birth_qid": "Q184046",
+  "citizenship_qids": [
+    "Q224",
+    "Q225"
+  ],
+  "height_cm": 184.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q172803",
+      "start": "2014-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q3589940",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q3446766",
+      "start": "2014-01-01",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q2331381",
+      "start": "2014-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q19444",
+      "start": "2019-07-27",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q134479",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q99662863",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q959086",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q172803",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q102720",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q17442894",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q17442894",
+  "image_filename": "Ivan Sunjic Birmingham 2019.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ivan_%C5%A0unji%C4%87",
+  "transfermarkt_id": "226097",
+  "fifa_player_id": "372436",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Pafos",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Croatia",
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Zenica",
+  "wikidata_current_club": "Pafos FC",
+  "wikidata_current_club_qid": "Q17442894",
+  "photo": {
+    "filename": "Ivan Sunjic Birmingham 2019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ivan_Sunjic_Birmingham_2019.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ivan_Sunjic_Birmingham_2019.jpg",
+    "width": 629,
+    "height": 853,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Struway2&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Struway2 (page does not exist)\">Struway2</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ivan-šunjić.jpg"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

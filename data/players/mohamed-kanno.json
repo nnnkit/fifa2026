@@ -1,0 +1,74 @@
+{
+  "slug": "mohamed-kanno",
+  "display_name": "Mohamed Kanno",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1994-09-22",
+  "age": 31,
+  "caps": 74,
+  "goals": 8,
+  "club_from_squad_table": "Al-Hilal",
+  "wikipedia_title": "Mohamed Kanno",
+  "date_of_birth": "1994-09-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Hilal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q22278509",
+  "qid": "Q22278509",
+  "name": "Mohamed Kanno",
+  "description": "Saudi Arabian association football player",
+  "place_of_birth_qid": "Q851",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 1.92,
+  "weight_kg": 71.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q72844",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2756148",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q189723",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q72844",
+  "image_filename": "Group photographs of Al Hilal, Al Hilal SFC vs Chelsea F.C., 9 February 2022 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Kanno",
+  "transfermarkt_id": "308120",
+  "fifa_player_id": "407993",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Saudi Arabia",
+  "wikidata_current_club": "Al-Ettifaq FC",
+  "wikidata_current_club_qid": "Q72844",
+  "photo": {
+    "filename": "Group photographs of Al Hilal, Al Hilal SFC vs Chelsea F.C., 9 February 2022 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Group_photographs_of_Al_Hilal%2C_Al_Hilal_SFC_vs_Chelsea_F.C.%2C_9_February_2022_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Group_photographs_of_Al_Hilal%2C_Al_Hilal_SFC_vs_Chelsea_F.C.%2C_9_February_2022_%28cropped%29.jpg",
+    "width": 147,
+    "height": 110,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "\u0645\u062d\u0645\u062f \u0627\u0645\u06cc\u0646 \u0627\u0646\u0635\u0627\u0631\u06cc",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mohamed-kanno.jpg"
+  },
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia"
+}

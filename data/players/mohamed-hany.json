@@ -1,0 +1,73 @@
+{
+  "slug": "mohamed-hany",
+  "display_name": "Mohamed Hany",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-01-25",
+  "age": 30,
+  "caps": 40,
+  "goals": 0,
+  "club_from_squad_table": "Al Ahly",
+  "wikipedia_title": "Mohamed Hany",
+  "date_of_birth": "1996-01-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al Ahly",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18705249",
+  "qid": "Q18705249",
+  "name": "Mohamed Hany",
+  "description": "Egyptian association football player",
+  "place_of_birth_qid": "Q85",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "height_cm": 175.0,
+  "weight_kg": 69.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q223566",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3589884",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1723220",
+      "start": "2014-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q223566",
+  "image_filename": "Mohamed Hany in 2021 FIFA Club World Cup.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Hany",
+  "transfermarkt_id": "343974",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "place_of_birth": "Cairo",
+  "wikidata_current_club": "Al Ahly SC",
+  "wikidata_current_club_qid": "Q223566",
+  "photo": {
+    "filename": "Mohamed Hany in 2021 FIFA Club World Cup.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mohamed_Hany_in_2021_FIFA_Club_World_Cup.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mohamed_Hany_in_2021_FIFA_Club_World_Cup.jpg",
+    "width": 422,
+    "height": 477,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mohammad Amin Ansari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mohamed-hany.jpg"
+  },
+  "team_slug": "egypt",
+  "team_country": "Egypt"
+}

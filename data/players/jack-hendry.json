@@ -1,0 +1,73 @@
+{
+  "slug": "jack-hendry",
+  "display_name": "Jack Hendry",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1995-05-07",
+  "age": 31,
+  "caps": 37,
+  "goals": 3,
+  "club_from_squad_table": "Al-Ettifaq",
+  "wikipedia_title": "Jack Hendry (footballer, born 1995)",
+  "date_of_birth": "1995-05-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Ettifaq",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20027858",
+  "qid": "Q20027858",
+  "name": "Jack Hendry",
+  "description": "Scottish association football player (born 1995)",
+  "place_of_birth_qid": "Q4093",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 188.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18750",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q822722",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q19626",
+      "start": "2016-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19626",
+  "image_filename": "FC Salzburg versus Celtic FC (4. Oktober 2918 Gruppe B, Zweiter Spieltag) 20 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Hendry_(footballer,_born_1995)",
+  "transfermarkt_id": "363223",
+  "fifa_player_id": "201210287",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Glasgow",
+  "wikidata_current_club": "Shrewsbury Town F.C.",
+  "wikidata_current_club_qid": "Q19626",
+  "photo": {
+    "filename": "FC Salzburg versus Celtic FC (4. Oktober 2918 Gruppe B, Zweiter Spieltag) 20 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/FC_Salzburg_versus_Celtic_FC_%284._Oktober_2918_Gruppe_B%2C_Zweiter_Spieltag%29_20_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/FC_Salzburg_versus_Celtic_FC_%284._Oktober_2918_Gruppe_B%2C_Zweiter_Spieltag%29_20_%28cropped%29.jpg",
+    "width": 320,
+    "height": 429,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jack-hendry.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

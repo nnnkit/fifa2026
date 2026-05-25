@@ -1,0 +1,62 @@
+{
+  "slug": "tarek-salman",
+  "display_name": "Tarek Salman",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-12-05",
+  "age": 28,
+  "caps": 90,
+  "goals": 0,
+  "club_from_squad_table": "Al-Sadd",
+  "wikipedia_title": "Tarek Salman",
+  "date_of_birth": "1997-12-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Sadd",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q39525477",
+  "qid": "Q39525477",
+  "name": "Tarek Salman",
+  "description": "association football player",
+  "place_of_birth_qid": "Q310893",
+  "citizenship_qids": [
+    "Q846"
+  ],
+  "height_cm": 1.79,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2082633",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2082633",
+  "image_filename": "Tarek Salman.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tarek_Salman",
+  "transfermarkt_id": "311730",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Qatar"
+  ],
+  "place_of_birth": "Al Wakrah",
+  "wikidata_current_club": "Atlético Astorga FC",
+  "wikidata_current_club_qid": "Q2082633",
+  "photo": {
+    "filename": "Tarek Salman.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Tarek_Salman.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Tarek_Salman.jpg",
+    "width": 231,
+    "height": 333,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Mehr_News_Agency\" class=\"extiw\" title=\"w:en:Mehr News Agency\"><span title=\"Iranian News Agency\">Mehr News Agency</span></a>\n</bdi>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/tarek-salman.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

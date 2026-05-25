@@ -1,0 +1,66 @@
+{
+  "slug": "kenan-yıldız",
+  "display_name": "Kenan Yıldız",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2005-05-04",
+  "age": 21,
+  "caps": 28,
+  "goals": 5,
+  "club_from_squad_table": "Juventus",
+  "wikipedia_title": "Kenan Yıldız",
+  "date_of_birth": "2005-05-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Juventus",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q113184832",
+  "qid": "Q113184832",
+  "name": "Kenan Yıldız",
+  "description": "Turkish association football player (born 2005)",
+  "place_of_birth_qid": "Q2978",
+  "citizenship_qids": [
+    "Q43"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q11681748",
+    "Q280658",
+    "Q90326494"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1422",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1422",
+  "image_filename": "Kenan Yıldız in the international match (March 2025) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kenan_Y%C4%B1ld%C4%B1z",
+  "transfermarkt_id": "845654",
+  "positions": [
+    "winger",
+    "forward",
+    "attacking midfielder"
+  ],
+  "citizenship": [
+    "Turkey"
+  ],
+  "place_of_birth": "Regensburg",
+  "wikidata_current_club": "Juventus FC",
+  "wikidata_current_club_qid": "Q1422",
+  "photo": {
+    "filename": "Kenan Yıldız in the international match (March 2025) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kenan_Y%C4%B1ld%C4%B1z_in_the_international_match_%28March_2025%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kenan_Y%C4%B1ld%C4%B1z_in_the_international_match_%28March_2025%29_%28cropped%29.jpg",
+    "width": 340,
+    "height": 540,
+    "license": "Attribution",
+    "license_url": null,
+    "attribution": "<b>Original: </b> mlsz.hu – the official website of the Hungarian Football Federation / <b>Derivative work: </b> <a href=\"//commons.wikimedia.org/w/index.php?title=User:Danyele&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Danyele (page does not exist)\">Danyele</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kenan-yıldız.jpg"
+  },
+  "team_slug": "turkey",
+  "team_country": "Turkey"
+}

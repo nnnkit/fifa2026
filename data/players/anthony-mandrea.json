@@ -1,0 +1,69 @@
+{
+  "slug": "anthony-mandrea",
+  "display_name": "Anthony Mandrea",
+  "shirt_no": 1,
+  "position_code": "GK",
+  "dob": "1996-12-25",
+  "age": 29,
+  "caps": 21,
+  "goals": 0,
+  "club_from_squad_table": "Caen",
+  "wikipedia_title": "Anthony Mandrea",
+  "date_of_birth": "1996-12-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Caen",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q15133433",
+  "qid": "Q15133433",
+  "name": "Anthony Mandrea",
+  "description": "Algerian and French footballer",
+  "place_of_birth_qid": "Q173705",
+  "citizenship_qids": [
+    "Q262",
+    "Q142"
+  ],
+  "height_cm": 186.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q185163",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1450557",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    }
+  ],
+  "current_club_qid": "Q185163",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anthony_Mandrea",
+  "transfermarkt_id": "290559",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Algeria",
+    "France"
+  ],
+  "place_of_birth": "Grasse",
+  "wikidata_current_club": "OGC Nice",
+  "wikidata_current_club_qid": "Q185163",
+  "image_filename": "Joueurs_du_Stade_Malherbe_Caen_10_ao\u00fbt_2024_(Mandrea).jpg",
+  "photo": {
+    "filename": "Joueurs_du_Stade_Malherbe_Caen_10_ao\u00fbt_2024_(Mandrea).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Joueurs_du_Stade_Malherbe_Caen_10_ao%C3%BBt_2024_%28Mandrea%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Joueurs_du_Stade_Malherbe_Caen_10_ao%C3%BBt_2024_%28Mandrea%29.jpg/960px-Joueurs_du_Stade_Malherbe_Caen_10_ao%C3%BBt_2024_%28Mandrea%29.jpg",
+    "width": 970,
+    "height": 1295,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Benoit-caen\" title=\"User:Benoit-caen\">Benoit-caen</a>",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/anthony-mandrea.jpg"
+  },
+  "team_slug": "algeria",
+  "team_country": "Algeria"
+}

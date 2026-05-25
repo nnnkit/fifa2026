@@ -1,0 +1,129 @@
+{
+  "slug": "santiago-arias",
+  "display_name": "Santiago Arias",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1992-01-13",
+  "age": 34,
+  "caps": 66,
+  "goals": 0,
+  "club_from_squad_table": "Independiente",
+  "wikipedia_title": "Santiago Arias",
+  "date_of_birth": "1992-01-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Independiente",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q2502118",
+  "qid": "Q2502118",
+  "name": "Santiago Arias",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q48278",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 175.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q75729",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q332668",
+      "start": "2009-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q3494112",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q11938",
+      "start": "2013-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q13534332",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q3589930",
+      "start": "2009-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q1641573",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q212564",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q8701",
+      "start": "2018-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q104761",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q8812",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q20855983",
+      "start": "2023-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q198032",
+      "start": "2024-00-00",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q214978",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q214978",
+  "image_filename": "Santiago Arias 2019.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Santiago_Arias",
+  "transfermarkt_id": "120443",
+  "fifa_player_id": "315614",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Medell\u00edn",
+  "wikidata_current_club": "Club Atl\u00e9tico Independiente",
+  "wikidata_current_club_qid": "Q214978",
+  "photo": {
+    "filename": "Santiago Arias 2019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Santiago_Arias_2019.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Santiago_Arias_2019.jpg",
+    "width": 735,
+    "height": 1103,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u043d\u0430 \u041d\u044d\u0441\u0441\u0438",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/santiago-arias.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

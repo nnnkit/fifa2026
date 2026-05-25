@@ -1,0 +1,109 @@
+{
+  "slug": "hakan-çalhanoğlu",
+  "display_name": "Hakan Çalhanoğlu",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1994-02-08",
+  "age": 32,
+  "caps": 104,
+  "goals": 22,
+  "club_from_squad_table": "Inter Milan",
+  "wikipedia_title": "Hakan Çalhanoğlu",
+  "date_of_birth": "1994-02-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Inter Milan",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q763465",
+  "qid": "Q763465",
+  "name": "Hakan Çalhanoğlu",
+  "description": "Turkish association football player (born 1994)",
+  "place_of_birth_qid": "Q2119",
+  "citizenship_qids": [
+    "Q183",
+    "Q43"
+  ],
+  "height_cm": 176.0,
+  "weight_kg": 73.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q51974",
+      "start": "2013-00-00",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q105853",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q104761",
+      "start": "2014-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q3590479",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q7855167",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q23925716",
+      "start": "2010-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q1624749",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q483856",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q631",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1543",
+      "start": "2017-00-00",
+      "end": "2021-00-00"
+    }
+  ],
+  "current_club_qid": "Q631",
+  "image_filename": "AUT vs. TUR 2016-03-29 (342).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hakan_%C3%87alhano%C4%9Flu",
+  "transfermarkt_id": "126414",
+  "fifa_player_id": "369304",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Germany",
+    "Turkey"
+  ],
+  "place_of_birth": "Mannheim",
+  "photo": {
+    "filename": "AUT vs. TUR 2016-03-29 (342).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/AUT_vs._TUR_2016-03-29_%28342%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AUT_vs._TUR_2016-03-29_%28342%29.jpg/960px-AUT_vs._TUR_2016-03-29_%28342%29.jpg",
+    "width": 1600,
+    "height": 2200,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 10:15, 11 April 2016 (UTC)",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/hakan-çalhanoğlu.jpg"
+  },
+  "team_slug": "turkey",
+  "team_country": "Turkey"
+}

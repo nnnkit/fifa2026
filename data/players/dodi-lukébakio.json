@@ -1,0 +1,93 @@
+{
+  "slug": "dodi-luk\u00e9bakio",
+  "display_name": "Dodi Luk\u00e9bakio",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1997-09-24",
+  "age": 28,
+  "caps": 29,
+  "goals": 5,
+  "club_from_squad_table": "Benfica",
+  "wikipedia_title": "Dodi Luk\u00e9bakio",
+  "date_of_birth": "1997-09-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Benfica",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21281344",
+  "qid": "Q21281344",
+  "name": "Dodi Lukebakio",
+  "description": "Belgian association football player (born 1997)",
+  "place_of_birth_qid": "Q515710",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 184.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q187528",
+      "start": "2015-10-25",
+      "end": "2018-01-29"
+    },
+    {
+      "team_qid": "Q815515",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q19518",
+      "start": "2016-08-31",
+      "end": "2017-06-30"
+    },
+    {
+      "team_qid": "Q19585",
+      "start": "2017-07-02",
+      "end": "2018-01-28"
+    },
+    {
+      "team_qid": "Q19585",
+      "start": "2018-01-29",
+      "end": "2018-01-30"
+    },
+    {
+      "team_qid": "Q2714",
+      "start": "2018-01-30",
+      "end": null
+    },
+    {
+      "team_qid": "Q151747",
+      "start": "2018-07-22",
+      "end": "2019-06-30"
+    }
+  ],
+  "current_club_qid": "Q2714",
+  "image_filename": "Dodi Lukebakio 2021.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dodi_Luk%C3%A9bakio",
+  "transfermarkt_id": "303259",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Asse",
+  "wikidata_current_club": "Watford F.C.",
+  "wikidata_current_club_qid": "Q2714",
+  "photo": {
+    "filename": "Dodi Lukebakio 2021.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Dodi_Lukebakio_2021.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Dodi_Lukebakio_2021.jpg",
+    "width": 945,
+    "height": 2043,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/dodi-luk\u00e9bakio.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

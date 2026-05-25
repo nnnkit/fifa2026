@@ -1,0 +1,98 @@
+{
+  "slug": "gerónimo-rulli",
+  "display_name": "Gerónimo Rulli",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1992-05-20",
+  "age": 34,
+  "caps": 7,
+  "goals": 0,
+  "club_from_squad_table": "Marseille",
+  "wikipedia_title": "Gerónimo Rulli",
+  "wikidata_qid": "Q5879014",
+  "qid": "Q5879014",
+  "name": "Gerónimo Rulli",
+  "description": "Argentine association football player",
+  "date_of_birth": "1992-05-20",
+  "place_of_birth_qid": "Q44059",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 189.0,
+  "weight_kg": 84.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q10315",
+      "start": "2014-01-01",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q214940",
+      "start": "2011-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q12297",
+      "start": "2020-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q19513",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q81888",
+      "start": "2023-01-06",
+      "end": "2024-08-00"
+    },
+    {
+      "team_qid": "Q2462207",
+      "start": "2016-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q132885",
+      "start": "2024-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q132885",
+  "image_filename": "Rulli asse om 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ger%C3%B3nimo_Rulli",
+  "transfermarkt_id": "229604",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Marseille",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "La Plata",
+  "wikidata_current_club": "Olympique de Marseille",
+  "wikidata_current_club_qid": "Q132885",
+  "photo": {
+    "filename": "Rulli asse om 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Rulli_asse_om_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Rulli_asse_om_2425.png",
+    "width": 434,
+    "height": 753,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/gerónimo-rulli.png"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

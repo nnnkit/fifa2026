@@ -1,0 +1,46 @@
+{
+  "slug": "mehdi-benabid",
+  "display_name": "Mehdi Benabid",
+  "shirt_no": 22,
+  "position_code": "GK",
+  "dob": "1998-01-24",
+  "age": 28,
+  "caps": 5,
+  "goals": 0,
+  "club_from_squad_table": "Wydad Casablanca",
+  "wikipedia_title": "Mehdi Benabid",
+  "date_of_birth": "1998-01-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Wydad Casablanca",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q101113732",
+  "qid": "Q101113732",
+  "name": "Mehdi Benabid",
+  "description": "Moroccan association footballer",
+  "place_of_birth_qid": "Q3551",
+  "height_cm": 188.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "image_filename": "Benabid.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mehdi_Benabid",
+  "transfermarkt_id": "544414",
+  "positions": [
+    "goalkeeper"
+  ],
+  "place_of_birth": "Rabat",
+  "photo": {
+    "filename": "Benabid.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Benabid.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Benabid.jpg/960px-Benabid.jpg",
+    "width": 1003,
+    "height": 1939,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Nawfel Ajari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mehdi-benabid.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

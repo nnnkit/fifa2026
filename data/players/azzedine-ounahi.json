@@ -1,0 +1,54 @@
+{
+  "slug": "azzedine-ounahi",
+  "display_name": "Azzedine Ounahi",
+  "shirt_no": 8,
+  "position_code": "MF",
+  "dob": "2000-04-19",
+  "age": 26,
+  "caps": 47,
+  "goals": 9,
+  "club_from_squad_table": "Girona",
+  "wikipedia_title": "Azzedine Ounahi",
+  "date_of_birth": "2000-04-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Girona",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q108109586",
+  "qid": "Q108109586",
+  "name": "Azzedine Ounahi",
+  "description": "Moroccan association football player",
+  "place_of_birth_qid": "Q7903",
+  "citizenship_qids": [
+    "Q1028",
+    "Q142"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "image_filename": "Ounahi.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Azzedine_Ounahi",
+  "transfermarkt_id": "593482",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Morocco",
+    "France"
+  ],
+  "place_of_birth": "Casablanca",
+  "photo": {
+    "filename": "Ounahi.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ounahi.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ounahi.jpg",
+    "width": 848,
+    "height": 1609,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Nawfel Ajari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/azzedine-ounahi.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

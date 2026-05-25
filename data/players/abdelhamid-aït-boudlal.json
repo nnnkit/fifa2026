@@ -1,0 +1,67 @@
+{
+  "slug": "abdelhamid-a\u00eft-boudlal",
+  "display_name": "Abdelhamid A\u00eft Boudlal",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2006-04-16",
+  "age": 20,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Rennes",
+  "wikipedia_title": "Abdelhamid A\u00eft Boudlal",
+  "date_of_birth": "2006-04-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Rennes",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q118582849",
+  "qid": "Q118582849",
+  "name": "Abdelhamid Ait Boudlal",
+  "description": "Moroccan footballer (born 2006)",
+  "place_of_birth_qid": "Q101625",
+  "citizenship_qids": [
+    "Q1028"
+  ],
+  "height_cm": 1.9,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2822258",
+      "start": "2015-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590713",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2822258",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abdelhamid_A%C3%AFt_Boudlal",
+  "transfermarkt_id": "1134251",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Morocco"
+  ],
+  "place_of_birth": "Marrakech",
+  "wikidata_current_club": "Mohammed VI Football Academy",
+  "wikidata_current_club_qid": "Q2822258",
+  "image_filename": "Abdelhamid_Ait_Boudlal_(cropped).jpg",
+  "photo": {
+    "filename": "Abdelhamid_Ait_Boudlal_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Abdelhamid_Ait_Boudlal_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Abdelhamid_Ait_Boudlal_%28cropped%29.jpg",
+    "width": 155,
+    "height": 289,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Abdelali Bentarki",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/abdelhamid-a\u00eft-boudlal.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

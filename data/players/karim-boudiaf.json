@@ -1,0 +1,70 @@
+{
+  "slug": "karim-boudiaf",
+  "display_name": "Karim Boudiaf",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1990-09-16",
+  "age": 35,
+  "caps": 116,
+  "goals": 5,
+  "club_from_squad_table": "Al-Duhail",
+  "wikipedia_title": "Karim Boudiaf",
+  "date_of_birth": "1990-09-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Duhail",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q3812986",
+  "qid": "Q3812986",
+  "name": "Karim Boudiaf",
+  "description": "Algerian-Moroccan footballer",
+  "place_of_birth_qid": "Q193920",
+  "citizenship_qids": [
+    "Q142",
+    "Q846"
+  ],
+  "height_cm": 187.0,
+  "weight_kg": 64.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1056948",
+      "start": "2010-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2013-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1056948",
+  "image_filename": "Karim Boudiaf WC2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Karim_Boudiaf",
+  "transfermarkt_id": "222385",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "France",
+    "Qatar"
+  ],
+  "place_of_birth": "Rueil-Malmaison",
+  "wikidata_current_club": "Al-Duhail SC",
+  "wikidata_current_club_qid": "Q1056948",
+  "photo": {
+    "filename": "Karim Boudiaf WC2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karim_Boudiaf_WC2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karim_Boudiaf_WC2022.jpg",
+    "width": 400,
+    "height": 588,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "حسین ظهروند",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/karim-boudiaf.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

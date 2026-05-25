@@ -1,0 +1,87 @@
+{
+  "slug": "endrick",
+  "display_name": "Endrick",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2006-07-21",
+  "age": 19,
+  "caps": 15,
+  "goals": 3,
+  "club_from_squad_table": "Lyon",
+  "wikipedia_title": "Endrick (footballer, born 2006)",
+  "date_of_birth": "2006-07-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lyon",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q110644260",
+  "qid": "Q110644260",
+  "name": "Endrick Quispe Mamani",
+  "description": "Brazilian association football player",
+  "place_of_birth_qid": "Q734609",
+  "citizenship_qids": [
+    "Q120039352"
+  ],
+  "height_cm": 173.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q80964",
+      "start": "2022-00-00",
+      "end": "2024-06-00"
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2024-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2402747",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q899189",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q704",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q704",
+  "image_filename": "Endrick seleção vs inglaterra.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Endrick_(footballer,_born_2006)",
+  "transfermarkt_id": "971570",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Eygptian Scene"
+  ],
+  "place_of_birth": "Taguatinga",
+  "wikidata_current_club": "Olympique Lyonnais",
+  "wikidata_current_club_qid": "Q704",
+  "photo": {
+    "filename": "Endrick seleção vs inglaterra.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Endrick_sele%C3%A7%C3%A3o_vs_inglaterra.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Endrick_sele%C3%A7%C3%A3o_vs_inglaterra.jpg/960px-Endrick_sele%C3%A7%C3%A3o_vs_inglaterra.jpg",
+    "width": 1080,
+    "height": 1172,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Thiago Arantes",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/endrick.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

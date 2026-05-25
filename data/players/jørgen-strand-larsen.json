@@ -1,0 +1,72 @@
+{
+  "slug": "j\u00f8rgen-strand-larsen",
+  "display_name": "J\u00f8rgen Strand Larsen",
+  "shirt_no": 11,
+  "position_code": "FW",
+  "dob": "2000-02-06",
+  "age": 26,
+  "caps": 26,
+  "goals": 4,
+  "club_from_squad_table": "Crystal Palace",
+  "wikipedia_title": "J\u00f8rgen Strand Larsen",
+  "date_of_birth": "2000-02-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Crystal Palace",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28933132",
+  "qid": "Q28933132",
+  "name": "J\u00f8rgen Strand Larsen",
+  "description": "Norwegian association football player",
+  "place_of_birth_qid": "Q109042",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 1.93,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q8749",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19500",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q184387",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19500",
+  "image_filename": "J\u00f8rgen Strand Larsen 2019, Zen-Sarp (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/J%C3%B8rgen_Strand_Larsen",
+  "transfermarkt_id": "429983",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "Halden",
+  "wikidata_current_club": "Wolverhampton Wanderers F.C.",
+  "wikidata_current_club_qid": "Q19500",
+  "photo": {
+    "filename": "J\u00f8rgen Strand Larsen 2019, Zen-Sarp (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/J%C3%B8rgen_Strand_Larsen_2019%2C_Zen-Sarp_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/J%C3%B8rgen_Strand_Larsen_2019%2C_Zen-Sarp_%28cropped%29.jpg",
+    "width": 150,
+    "height": 180,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u0415\u0432\u0434\u043e\u043a\u0438\u043c\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/j\u00f8rgen-strand-larsen.jpg"
+  },
+  "team_slug": "norway",
+  "team_country": "Norway"
+}

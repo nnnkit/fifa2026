@@ -1,0 +1,73 @@
+{
+  "slug": "kobbie-mainoo",
+  "display_name": "Kobbie Mainoo",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2005-04-19",
+  "age": 21,
+  "caps": 12,
+  "goals": 0,
+  "club_from_squad_table": "Manchester United",
+  "wikipedia_title": "Kobbie Mainoo",
+  "date_of_birth": "2005-04-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q114703020",
+  "qid": "Q114703020",
+  "name": "Kobbie Mainoo",
+  "description": "English footballer (born 2005)",
+  "place_of_birth_qid": "Q18655",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 175.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2752922",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1049171",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2358861",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q47762",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18656",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kobbie_Mainoo",
+  "transfermarkt_id": "820374",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Stockport",
+  "wikidata_current_club": "Manchester United F.C.",
+  "wikidata_current_club_qid": "Q18656",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

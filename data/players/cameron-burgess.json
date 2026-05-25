@@ -1,0 +1,72 @@
+{
+  "slug": "cameron-burgess",
+  "display_name": "Cameron Burgess",
+  "shirt_no": 21,
+  "position_code": "DF",
+  "dob": "1995-10-21",
+  "age": 30,
+  "caps": 25,
+  "goals": 0,
+  "club_from_squad_table": "Swansea City",
+  "wikipedia_title": "Cameron Burgess",
+  "date_of_birth": "1995-10-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Swansea City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q17496350",
+  "qid": "Q17496350",
+  "name": "Cameron Burgess",
+  "description": "Australian-Scottish association football player (born 1995)",
+  "place_of_birth_qid": "Q36405",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 194.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18708",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q180420",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q48932",
+      "start": "2016-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q48932",
+  "image_filename": "Cameron Burgess (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cameron_Burgess",
+  "transfermarkt_id": "255788",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Aberdeen",
+  "wikidata_current_club": "Cheltenham Town F.C.",
+  "wikidata_current_club_qid": "Q48932",
+  "photo": {
+    "filename": "Cameron Burgess (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cameron_Burgess_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cameron_Burgess_%28cropped%29.jpg",
+    "width": 174,
+    "height": 191,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Foad Ashtari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/cameron-burgess.jpg"
+  },
+  "team_slug": "australia",
+  "team_country": "Australia"
+}

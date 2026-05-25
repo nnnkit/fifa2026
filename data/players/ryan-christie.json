@@ -1,0 +1,78 @@
+{
+  "slug": "ryan-christie",
+  "display_name": "Ryan Christie",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1995-02-22",
+  "age": 31,
+  "caps": 66,
+  "goals": 9,
+  "club_from_squad_table": "Bournemouth",
+  "wikipedia_title": "Ryan Christie",
+  "date_of_birth": "1995-02-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bournemouth",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16236700",
+  "qid": "Q16236700",
+  "name": "Ryan Christie",
+  "description": "Scottish association football player (born 1995)",
+  "place_of_birth_qid": "Q160493",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q309059",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q19593",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q309059",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q1812121",
+      "start": "2014-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19593",
+  "image_filename": "Ryan Christie (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Christie",
+  "transfermarkt_id": "188077",
+  "fifa_player_id": "201162505",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Inverness",
+  "wikidata_current_club": "Celtic F.C.",
+  "wikidata_current_club_qid": "Q19593",
+  "photo": {
+    "filename": "Ryan Christie (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ryan_Christie_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ryan_Christie_%28cropped%29.jpg",
+    "width": 843,
+    "height": 1220,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Jim Easton",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ryan-christie.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

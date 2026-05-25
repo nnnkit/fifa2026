@@ -1,0 +1,41 @@
+{
+  "slug": "orlando-gill",
+  "display_name": "Orlando Gill",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2000-06-11",
+  "age": 26,
+  "caps": 5,
+  "goals": 0,
+  "club_from_squad_table": "San Lorenzo",
+  "wikipedia_title": "Orlando Gill",
+  "date_of_birth": "2000-06-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "San Lorenzo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q60842077",
+  "qid": "Q60842077",
+  "name": "Orlando Gill",
+  "description": "Paraguayan footballer (born 2000)",
+  "place_of_birth_qid": "Q938739",
+  "height_cm": 198.0,
+  "teams": [
+    {
+      "team_qid": "Q2980003",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2980003",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Orlando_Gill",
+  "transfermarkt_id": "643259",
+  "place_of_birth": "San Lorenzo",
+  "wikidata_current_club": "Club Sportivo San Lorenzo",
+  "wikidata_current_club_qid": "Q2980003",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "kees-smit",
+  "display_name": "Kees Smit",
+  "shirt_no": 21,
+  "position_code": "MF",
+  "dob": "2006-01-20",
+  "age": 20,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "AZ",
+  "wikipedia_title": "Kees Smit",
+  "date_of_birth": "2006-01-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "AZ",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q117317225",
+  "qid": "Q117317225",
+  "name": "Kees Smit",
+  "description": "Dutch footballer (born 2006)",
+  "place_of_birth_qid": "Q9932",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "image_filename": "Kees Smit.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kees_Smit",
+  "transfermarkt_id": "859035",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Heiloo",
+  "photo": {
+    "filename": "Kees Smit.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Kees_Smit.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kees_Smit.jpg/960px-Kees_Smit.jpg",
+    "width": 2211,
+    "height": 3305,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Biso\" title=\"User:Biso\">Biso</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kees-smit.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "gastón-olveira",
+  "display_name": "Gastón Olveira",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1993-04-21",
+  "age": 33,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Olimpia",
+  "wikipedia_title": "Gastón Olveira",
+  "date_of_birth": "1993-04-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Olimpia",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18020415",
+  "qid": "Q18020415",
+  "name": "Gastón Olveira",
+  "description": "Paraguayan association football player",
+  "place_of_birth_qid": "Q1335",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 1.91,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q980573",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2384857",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    }
+  ],
+  "current_club_qid": "Q980573",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gast%C3%B3n_Olveira",
+  "transfermarkt_id": "301722",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Montevideo",
+  "wikidata_current_club": "Club Atlético River Plate",
+  "wikidata_current_club_qid": "Q980573",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

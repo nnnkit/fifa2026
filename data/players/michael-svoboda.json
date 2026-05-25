@@ -1,0 +1,62 @@
+{
+  "slug": "michael-svoboda",
+  "display_name": "Michael Svoboda",
+  "shirt_no": 25,
+  "position_code": "DF",
+  "dob": "1998-10-15",
+  "age": 27,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Venezia",
+  "wikipedia_title": "Michael Svoboda",
+  "date_of_birth": "1998-10-15",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Venezia",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q55813157",
+  "qid": "Q55813157",
+  "name": "Michael Svoboda",
+  "description": "Austrian association football player (1998-)",
+  "place_of_birth_qid": "Q1741",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 195.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q873577",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q873577",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Svoboda",
+  "transfermarkt_id": "438961",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Vienna",
+  "wikidata_current_club": "SV Schwechat",
+  "wikidata_current_club_qid": "Q873577",
+  "image_filename": "FC_RB_Salzburg_gegen_WSG_Swarowski_Tirol_(7._Dezember_2019)_62_(Michael_Svoboda).jpg",
+  "photo": {
+    "filename": "FC_RB_Salzburg_gegen_WSG_Swarowski_Tirol_(7._Dezember_2019)_62_(Michael_Svoboda).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/FC_RB_Salzburg_gegen_WSG_Swarowski_Tirol_%287._Dezember_2019%29_62_%28Michael_Svoboda%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FC_RB_Salzburg_gegen_WSG_Swarowski_Tirol_%287._Dezember_2019%29_62_%28Michael_Svoboda%29.jpg/960px-FC_RB_Salzburg_gegen_WSG_Swarowski_Tirol_%287._Dezember_2019%29_62_%28Michael_Svoboda%29.jpg",
+    "width": 1063,
+    "height": 1061,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/michael-svoboda.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

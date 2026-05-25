@@ -1,0 +1,97 @@
+{
+  "slug": "tijjani-reijnders",
+  "display_name": "Tijjani Reijnders",
+  "shirt_no": 14,
+  "position_code": "MF",
+  "dob": "1998-07-29",
+  "age": 27,
+  "caps": 30,
+  "goals": 7,
+  "club_from_squad_table": "Manchester City",
+  "wikipedia_title": "Tijjani Reijnders",
+  "date_of_birth": "1998-07-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q39500352",
+  "qid": "Q39500352",
+  "name": "Tijjani Reijnders",
+  "description": "Dutch footballer (born 1998)",
+  "place_of_birth_qid": "Q793",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q191264",
+      "start": "2018-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q1543",
+      "start": "2023-07-19",
+      "end": "2025-06-10"
+    },
+    {
+      "team_qid": "Q50573061",
+      "start": "2017-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q269151",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q24699",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q13882315",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2025-06-10",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q50602",
+  "image_filename": "Reijnders arriva in albergo (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tijjani_Reijnders",
+  "transfermarkt_id": "460939",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Zwolle",
+  "wikidata_current_club": "Manchester City F.C.",
+  "wikidata_current_club_qid": "Q50602",
+  "photo": {
+    "filename": "Reijnders arriva in albergo (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Reijnders_arriva_in_albergo_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Reijnders_arriva_in_albergo_%28cropped%29.jpg",
+    "width": 779,
+    "height": 1162,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Saggittarius_A\" title=\"User:Saggittarius A\">Saggittarius A</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/tijjani-reijnders.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "zeno-debast",
+  "display_name": "Zeno Debast",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2003-10-24",
+  "age": 22,
+  "caps": 26,
+  "goals": 1,
+  "club_from_squad_table": "Sporting CP",
+  "wikipedia_title": "Zeno Debast",
+  "date_of_birth": "2003-10-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sporting CP",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q106686485",
+  "qid": "Q106686485",
+  "name": "Zeno Debast",
+  "description": "Belgian association football player (born 2003)",
+  "place_of_birth_qid": "Q210003",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 191.0,
+  "teams": [
+    {
+      "team_qid": "Q187528",
+      "start": "2021-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q75729",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3589895",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q3589896",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2023-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q166776",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q75729",
+  "image_filename": "Zeno Debast USMNT v Belgium Mar 28 2026-80 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Zeno_Debast",
+  "transfermarkt_id": "548193",
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Halle",
+  "photo": {
+    "filename": "Zeno Debast USMNT v Belgium Mar 28 2026-80 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Zeno_Debast_USMNT_v_Belgium_Mar_28_2026-80_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Zeno_Debast_USMNT_v_Belgium_Mar_28_2026-80_%28cropped%29.jpg/960px-Zeno_Debast_USMNT_v_Belgium_Mar_28_2026-80_%28cropped%29.jpg",
+    "width": 3330,
+    "height": 4438,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/zeno-debast.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

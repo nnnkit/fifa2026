@@ -1,0 +1,42 @@
+{
+  "slug": "elías-montiel",
+  "display_name": "Elías Montiel",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2005-10-07",
+  "age": 20,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Pachuca",
+  "wikipedia_title": "Elías Montiel",
+  "wikidata_qid": "Q123494607",
+  "qid": "Q123494607",
+  "name": "Elías Montiel",
+  "description": "Mexican association football player",
+  "date_of_birth": "2005-10-07",
+  "place_of_birth_qid": "Q2002665",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 1.7,
+  "position_qids": [
+    "Q193592"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/El%C3%ADas_Montiel",
+  "transfermarkt_id": "1125592",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Tula de Allende",
+  "current_club": "Pachuca",
+  "current_club_source": "wikipedia-squad-table",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

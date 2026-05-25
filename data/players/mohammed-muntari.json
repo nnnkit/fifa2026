@@ -1,0 +1,84 @@
+{
+  "slug": "mohammed-muntari",
+  "display_name": "Mohammed Muntari",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1993-12-20",
+  "age": 32,
+  "caps": 67,
+  "goals": 16,
+  "club_from_squad_table": "Al-Gharafa",
+  "wikipedia_title": "Mohammed Muntari",
+  "date_of_birth": "1993-12-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Gharafa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18705783",
+  "qid": "Q18705783",
+  "name": "Mohammed Muntari",
+  "description": "Qatari footballer",
+  "place_of_birth_qid": "Q182059",
+  "citizenship_qids": [
+    "Q117",
+    "Q846"
+  ],
+  "height_cm": 194.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q429546",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q1056948",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q284452",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q284452",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    }
+  ],
+  "current_club_qid": "Q1056948",
+  "image_filename": "2022 FIFA World Cup Qatar 0–2 Ecuador - (6).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammed_Muntari",
+  "transfermarkt_id": "266935",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Ghana",
+    "Qatar"
+  ],
+  "place_of_birth": "Kumasi",
+  "wikidata_current_club": "Al-Duhail SC",
+  "wikidata_current_club_qid": "Q1056948",
+  "photo": {
+    "filename": "2022 FIFA World Cup Qatar 0–2 Ecuador - (6).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/2022_FIFA_World_Cup_Qatar_0%E2%80%932_Ecuador_-_%286%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/2022_FIFA_World_Cup_Qatar_0%E2%80%932_Ecuador_-_%286%29.jpg",
+    "width": 800,
+    "height": 533,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "حسین ظهروند",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mohammed-muntari.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

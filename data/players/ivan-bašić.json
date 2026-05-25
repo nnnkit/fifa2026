@@ -1,0 +1,83 @@
+{
+  "slug": "ivan-bašić",
+  "display_name": "Ivan Bašić",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2002-04-30",
+  "age": 24,
+  "caps": 15,
+  "goals": 0,
+  "club_from_squad_table": "Astana",
+  "wikipedia_title": "Ivan Bašić",
+  "wikidata_qid": "Q111536418",
+  "qid": "Q111536418",
+  "name": "Ivan Bašić",
+  "description": "Bosnian-Croatian association football player",
+  "date_of_birth": "2002-04-30",
+  "place_of_birth_qid": "Q397656",
+  "citizenship_qids": [
+    "Q225",
+    "Q224"
+  ],
+  "height_cm": 178.0,
+  "teams": [
+    {
+      "team_qid": "Q399282",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q2095484",
+      "start": "2022-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q779698",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q844509",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q769512",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q779698",
+  "image_filename": "Ivan Bašić 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ivan_Ba%C5%A1i%C4%87",
+  "transfermarkt_id": "620560",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Astana",
+  "current_club_source": "wikipedia-squad-table",
+  "citizenship": [
+    "Bosnia and Herzegovina",
+    "Croatia"
+  ],
+  "place_of_birth": "Imotski",
+  "wikidata_current_club": "FC Astana",
+  "wikidata_current_club_qid": "Q779698",
+  "photo": {
+    "filename": "Ivan Bašić 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Ivan_Ba%C5%A1i%C4%87_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Ivan_Ba%C5%A1i%C4%87_2022.jpg",
+    "width": 621,
+    "height": 1119,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Артем Гусев",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ivan-bašić.jpg"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

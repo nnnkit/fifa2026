@@ -1,0 +1,44 @@
+{
+  "slug": "bryan-gonzález",
+  "display_name": "Bryan González",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2003-04-10",
+  "age": 23,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Guadalajara",
+  "wikipedia_title": "Bryan González (Mexican footballer)",
+  "wikidata_qid": "Q89828766",
+  "qid": "Q89828766",
+  "name": "Bryan González",
+  "description": "Mexican footballer",
+  "date_of_birth": "2003-04-10",
+  "place_of_birth_qid": "Q1643457",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 172.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bryan_Gonz%C3%A1lez_(Mexican_footballer)",
+  "transfermarkt_id": "704556",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Juárez Municipality",
+  "current_club": "Guadalajara",
+  "current_club_source": "wikipedia-squad-table",
+  "conflicting_date_of_birth": "2003-04-00",
+  "date_of_birth_source": "verified-wikipedia-squad-and-player-page",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

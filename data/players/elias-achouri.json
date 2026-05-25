@@ -1,0 +1,66 @@
+{
+  "slug": "elias-achouri",
+  "display_name": "Elias Achouri",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1999-02-10",
+  "age": 27,
+  "caps": 29,
+  "goals": 4,
+  "club_from_squad_table": "Copenhagen",
+  "wikipedia_title": "Elias Achouri",
+  "date_of_birth": "1999-02-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Copenhagen",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64740426",
+  "qid": "Q64740426",
+  "name": "Elias Achouri",
+  "description": "Tunisian and French association football player",
+  "place_of_birth_qid": "Q47045",
+  "citizenship_qids": [
+    "Q142",
+    "Q948",
+    "Q262"
+  ],
+  "height_cm": 1.77,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19521",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19521",
+  "image_filename": "Elias Achouri, Vejle Boldklub - FC K\u00f8benhavn, 29. July 2023 - opvarmning FCK's 1. hold (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Elias_Achouri",
+  "transfermarkt_id": "645589",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "France",
+    "Tunisia",
+    "Algeria"
+  ],
+  "place_of_birth": "Saint-Denis",
+  "wikidata_current_club": "AS Saint-\u00c9tienne",
+  "wikidata_current_club_qid": "Q19521",
+  "photo": {
+    "filename": "Elias Achouri, Vejle Boldklub - FC K\u00f8benhavn, 29. July 2023 - opvarmning FCK's 1. hold (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Elias_Achouri%2C_Vejle_Boldklub_-_FC_K%C3%B8benhavn%2C_29._July_2023_-_opvarmning_FCK%27s_1._hold_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Elias_Achouri%2C_Vejle_Boldklub_-_FC_K%C3%B8benhavn%2C_29._July_2023_-_opvarmning_FCK%27s_1._hold_%28cropped%29.jpg",
+    "width": 401,
+    "height": 590,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Tdn70\" title=\"User:Tdn70\">Thomas Dahlstr\u00f8m Nielsen</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/elias-achouri.jpg"
+  },
+  "team_slug": "tunisia",
+  "team_country": "Tunisia"
+}

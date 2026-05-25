@@ -1,0 +1,52 @@
+{
+  "slug": "pape-matar-sarr",
+  "display_name": "Pape Matar Sarr",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2002-09-14",
+  "age": 23,
+  "caps": 38,
+  "goals": 4,
+  "club_from_squad_table": "Tottenham Hotspur",
+  "wikipedia_title": "Pape Matar Sarr",
+  "date_of_birth": "2002-09-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Tottenham Hotspur",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q104877690",
+  "qid": "Q104877690",
+  "name": "Pape Matar Sarr",
+  "description": "Senegalese association football player",
+  "place_of_birth_qid": "Q3523983",
+  "citizenship_qids": [
+    "Q1041"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q193592"
+  ],
+  "image_filename": "RC Lens - FC Metz (14-03-2021) 37.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pape_Matar_Sarr",
+  "transfermarkt_id": "568693",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Senegal"
+  ],
+  "place_of_birth": "Thiaroye",
+  "photo": {
+    "filename": "RC Lens - FC Metz (14-03-2021) 37.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/RC_Lens_-_FC_Metz_%2814-03-2021%29_37.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RC_Lens_-_FC_Metz_%2814-03-2021%29_37.jpg/960px-RC_Lens_-_FC_Metz_%2814-03-2021%29_37.jpg",
+    "width": 2203,
+    "height": 2937,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterh\u00e9ninois (page does not exist)\">Supporterh\u00e9ninois</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/pape-matar-sarr.jpg"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

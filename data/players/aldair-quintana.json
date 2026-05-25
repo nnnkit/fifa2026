@@ -1,0 +1,53 @@
+{
+  "slug": "aldair-quintana",
+  "display_name": "Aldair Quintana",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1994-07-11",
+  "age": 31,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Independiente del Valle",
+  "wikipedia_title": "Aldair Quintana",
+  "date_of_birth": "1994-07-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Independiente del Valle",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26935570",
+  "qid": "Q26935570",
+  "name": "Aldair Quintana",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q222755",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 1.96,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q5260699",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q5260699",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aldair_Quintana",
+  "transfermarkt_id": "407168",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Ibagu\u00e9",
+  "wikidata_current_club": "Atl\u00e9tico de Cali",
+  "wikidata_current_club_qid": "Q5260699",
+  "team_slug": "colombia",
+  "team_country": "Colombia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

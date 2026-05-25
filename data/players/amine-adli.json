@@ -1,0 +1,84 @@
+{
+  "slug": "amine-adli",
+  "display_name": "Amine Adli",
+  "shirt_no": 21,
+  "position_code": "FW",
+  "dob": "2000-05-10",
+  "age": 26,
+  "caps": 17,
+  "goals": 1,
+  "club_from_squad_table": "Bournemouth",
+  "wikipedia_title": "Amine Adli",
+  "date_of_birth": "2000-05-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bournemouth",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q66586702",
+  "qid": "Q66586702",
+  "name": "Amine Adli",
+  "description": "Moroccan footballer (born 2000)",
+  "place_of_birth_qid": "Q174019",
+  "citizenship_qids": [
+    "Q142",
+    "Q1028"
+  ],
+  "height_cm": 174.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q104761",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1450557",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q19518",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q56150474",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    }
+  ],
+  "current_club_qid": "Q104761",
+  "image_filename": "Amine Adli.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amine_Adli",
+  "transfermarkt_id": "532776",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "France",
+    "Morocco"
+  ],
+  "place_of_birth": "B\u00e9ziers",
+  "wikidata_current_club": "Bayer 04 Leverkusen",
+  "wikidata_current_club_qid": "Q104761",
+  "photo": {
+    "filename": "Amine Adli.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Amine_Adli.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Amine_Adli.jpg/960px-Amine_Adli.jpg",
+    "width": 1214,
+    "height": 1495,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Nebuno&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Nebuno (page does not exist)\">Nebuno</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/amine-adli.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

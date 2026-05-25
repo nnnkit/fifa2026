@@ -1,0 +1,94 @@
+{
+  "slug": "anthony-elanga",
+  "display_name": "Anthony Elanga",
+  "shirt_no": 11,
+  "position_code": "FW",
+  "dob": "2002-04-27",
+  "age": 24,
+  "caps": 28,
+  "goals": 6,
+  "club_from_squad_table": "Newcastle United",
+  "wikipedia_title": "Anthony Elanga",
+  "date_of_birth": "2002-04-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Newcastle United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q106805131",
+  "qid": "Q106805131",
+  "name": "Anthony Elanga",
+  "description": "Swedish association football player",
+  "place_of_birth_qid": "Q4994149",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 1.78,
+  "position_qids": [
+    "Q280658",
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18656",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q3590410",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q2255212",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q2255267",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q160826",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19490",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q18716",
+      "start": "2025-07-11",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18716",
+  "image_filename": "Anthony Elanga (Sweden vs Moldova, 12 October 2023).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anthony_Elanga",
+  "transfermarkt_id": "583189",
+  "positions": [
+    "forward",
+    "winger"
+  ],
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Hyllie",
+  "wikidata_current_club": "Newcastle United F.C.",
+  "wikidata_current_club_qid": "Q18716",
+  "photo": {
+    "filename": "Anthony Elanga (Sweden vs Moldova, 12 October 2023).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Anthony_Elanga_%28Sweden_vs_Moldova%2C_12_October_2023%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Anthony_Elanga_%28Sweden_vs_Moldova%2C_12_October_2023%29.jpg/960px-Anthony_Elanga_%28Sweden_vs_Moldova%2C_12_October_2023%29.jpg",
+    "width": 1482,
+    "height": 2091,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/198658015@N03\">Amanda Aikioniemi</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/anthony-elanga.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

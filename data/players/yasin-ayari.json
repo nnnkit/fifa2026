@@ -1,0 +1,62 @@
+{
+  "slug": "yasin-ayari",
+  "display_name": "Yasin Ayari",
+  "shirt_no": 18,
+  "position_code": "MF",
+  "dob": "2003-10-06",
+  "age": 22,
+  "caps": 19,
+  "goals": 3,
+  "club_from_squad_table": "Brighton & Hove Albion",
+  "wikipedia_title": "Yasin Ayari",
+  "date_of_birth": "2003-10-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Brighton & Hove Albion",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q103979811",
+  "qid": "Q103979811",
+  "name": "Yasin Ayari",
+  "description": "Swedish association football player",
+  "place_of_birth_qid": "Q34",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 172.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q221602",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q221602",
+  "image_filename": "Yasin Ayari (Sweden U21 vs Moldova U21, 13 October 2023).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yasin_Ayari",
+  "transfermarkt_id": "667287",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Sweden",
+  "wikidata_current_club": "AIK Fotboll",
+  "wikidata_current_club_qid": "Q221602",
+  "photo": {
+    "filename": "Yasin Ayari (Sweden U21 vs Moldova U21, 13 October 2023).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Yasin_Ayari_%28Sweden_U21_vs_Moldova_U21%2C_13_October_2023%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Yasin_Ayari_%28Sweden_U21_vs_Moldova_U21%2C_13_October_2023%29.jpg",
+    "width": 778,
+    "height": 859,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/198658015@N03\">Amanda Aikioniemi</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/yasin-ayari.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "nidal-čelik",
+  "display_name": "Nidal Čelik",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2006-07-17",
+  "age": 19,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Lens",
+  "wikipedia_title": "Nidal Čelik",
+  "wikidata_qid": "Q131149776",
+  "qid": "Q131149776",
+  "name": "Nidal Čelik",
+  "description": "Bosnian footballer",
+  "date_of_birth": "2006-07-17",
+  "place_of_birth_qid": "Q11194",
+  "citizenship_qids": [
+    "Q225"
+  ],
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q239663",
+      "start": "2022-08-26",
+      "end": "2025-02-03"
+    },
+    {
+      "team_qid": "Q191843",
+      "start": "2025-02-03",
+      "end": null
+    },
+    {
+      "team_qid": "Q430190",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q844509",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q769512",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q191843",
+  "image_filename": "Čelik rcl asse 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nidal_%C4%8Celik",
+  "transfermarkt_id": "819566",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lens",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Sarajevo",
+  "wikidata_current_club": "R.C. Lens",
+  "wikidata_current_club_qid": "Q191843",
+  "photo": {
+    "filename": "Čelik rcl asse 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/%C4%8Celik_rcl_asse_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/%C4%8Celik_rcl_asse_2425.png",
+    "width": 678,
+    "height": 892,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nidal-čelik.png"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

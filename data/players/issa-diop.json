@@ -1,0 +1,110 @@
+{
+  "slug": "issa-diop",
+  "display_name": "Issa Diop",
+  "shirt_no": 5,
+  "position_code": "DF",
+  "dob": "1997-01-09",
+  "age": 29,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Fulham",
+  "wikipedia_title": "Issa Diop (footballer)",
+  "date_of_birth": "1997-01-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Fulham",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21621180",
+  "qid": "Q21621180",
+  "name": "Issa Diop",
+  "description": "Moroccan association football player (born 1997)",
+  "place_of_birth_qid": "Q7903",
+  "citizenship_qids": [
+    "Q142",
+    "Q1028"
+  ],
+  "height_cm": 194.0,
+  "weight_kg": 90.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q56150474",
+      "start": "2014-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q3590033",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1450557",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q2701714",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q18747",
+      "start": "2018-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q18708",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19518",
+      "start": "2015-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1344163",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    }
+  ],
+  "current_club_qid": "Q18708",
+  "image_filename": "Hertha BSC vs. West Ham United 20190731 (179).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Issa_Diop_(footballer)",
+  "transfermarkt_id": "272622",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "France",
+    "Morocco"
+  ],
+  "place_of_birth": "Casablanca",
+  "wikidata_current_club": "Fulham F.C.",
+  "wikidata_current_club_qid": "Q18708",
+  "photo": {
+    "filename": "Hertha BSC vs. West Ham United 20190731 (179).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hertha_BSC_vs._West_Ham_United_20190731_%28179%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hertha_BSC_vs._West_Ham_United_20190731_%28179%29.jpg/960px-Hertha_BSC_vs._West_Ham_United_20190731_%28179%29.jpg",
+    "width": 2000,
+    "height": 3000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "--<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 16:15, 29 August 2019 (UTC)",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/issa-diop.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

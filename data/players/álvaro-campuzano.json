@@ -1,0 +1,53 @@
+{
+  "slug": "álvaro-campuzano",
+  "display_name": "Álvaro Campuzano",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1995-06-12",
+  "age": 30,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Libertad",
+  "wikipedia_title": "Álvaro Campuzano",
+  "date_of_birth": "1995-06-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Libertad",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q122557561",
+  "qid": "Q122557561",
+  "name": "Álvaro Campuzano",
+  "description": "Paraguayan footballer",
+  "place_of_birth_qid": "Q2377309",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q848642",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q848642",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Campuzano",
+  "transfermarkt_id": "750770",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Eusebio Ayala",
+  "wikidata_current_club": "Club Libertad",
+  "wikidata_current_club_qid": "Q848642",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

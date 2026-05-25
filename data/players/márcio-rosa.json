@@ -1,0 +1,56 @@
+{
+  "slug": "m\u00e1rcio-rosa",
+  "display_name": "M\u00e1rcio Rosa",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1997-02-23",
+  "age": 29,
+  "caps": 10,
+  "goals": 0,
+  "club_from_squad_table": "Montana",
+  "wikipedia_title": "M\u00e1rcio Rosa",
+  "date_of_birth": "1997-02-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Montana",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q55433904",
+  "qid": "Q55433904",
+  "name": "M\u00e1rcio Rosa",
+  "description": "Cape Verdean association football player",
+  "place_of_birth_qid": "Q3751",
+  "height_cm": 186.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q543467",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q543467",
+  "image_filename": "Phase de match Ethiopie - Cape verde (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%A1rcio_Rosa",
+  "transfermarkt_id": "398048",
+  "positions": [
+    "goalkeeper"
+  ],
+  "place_of_birth": "Praia",
+  "wikidata_current_club": "G.D. Chaves",
+  "wikidata_current_club_qid": "Q543467",
+  "photo": {
+    "filename": "Phase de match Ethiopie - Cape verde (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Phase_de_match_Ethiopie_-_Cape_verde_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Phase_de_match_Ethiopie_-_Cape_verde_%28cropped%29.jpg/960px-Phase_de_match_Ethiopie_-_Cape_verde_%28cropped%29.jpg",
+    "width": 2366,
+    "height": 954,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Happiraphael\" title=\"User:Happiraphael\">Happiraphael</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/m\u00e1rcio-rosa.jpg"
+  },
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde"
+}

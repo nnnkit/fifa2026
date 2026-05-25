@@ -1,0 +1,95 @@
+{
+  "slug": "ronald-ara\u00fajo",
+  "display_name": "Ronald Ara\u00fajo",
+  "shirt_no": 4,
+  "position_code": "DF",
+  "dob": "1999-03-07",
+  "age": 27,
+  "caps": 27,
+  "goals": 1,
+  "club_from_squad_table": "Barcelona",
+  "wikipedia_title": "Ronald Ara\u00fajo",
+  "date_of_birth": "1999-03-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Barcelona",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q56332606",
+  "qid": "Q56332606",
+  "name": "Ronald Ara\u00fajo",
+  "description": "Uruguayan footballer",
+  "place_of_birth_qid": "Q646498",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 192.0,
+  "weight_kg": 82.0,
+  "position_qids": [
+    "Q336286",
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1022933",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q1022910",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2442864",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q28452980",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q20831422",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q134916",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q7156",
+  "image_filename": "FC Red Bull Salzburg gegen CF Barcelona (Testspiel 4. August 2021) 45 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ronald_Ara%C3%BAjo",
+  "transfermarkt_id": "480267",
+  "positions": [
+    "defender",
+    "centre-back"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Rivera",
+  "wikidata_current_club": "Futbol Club Barcelona",
+  "wikidata_current_club_qid": "Q7156",
+  "photo": {
+    "filename": "FC Red Bull Salzburg gegen CF Barcelona (Testspiel 4. August 2021) 45 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/FC_Red_Bull_Salzburg_gegen_CF_Barcelona_%28Testspiel_4._August_2021%29_45_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/FC_Red_Bull_Salzburg_gegen_CF_Barcelona_%28Testspiel_4._August_2021%29_45_%28cropped%29.jpg/960px-FC_Red_Bull_Salzburg_gegen_CF_Barcelona_%28Testspiel_4._August_2021%29_45_%28cropped%29.jpg",
+    "width": 1255,
+    "height": 1893,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ronald-ara\u00fajo.jpg"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

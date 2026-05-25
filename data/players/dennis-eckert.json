@@ -1,0 +1,82 @@
+{
+  "slug": "dennis-eckert",
+  "display_name": "Dennis Eckert",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1997-01-09",
+  "age": 29,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Standard Li\u00e8ge",
+  "wikipedia_title": "Dennis Eckert",
+  "date_of_birth": "1997-01-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Standard Li\u00e8ge",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q56223703",
+  "qid": "Q56223703",
+  "name": "Dennis Eckert Ayensa",
+  "description": "German footballer",
+  "place_of_birth_qid": "Q586",
+  "citizenship_qids": [
+    "Q183",
+    "Q29",
+    "Q794"
+  ],
+  "height_cm": 1.83,
+  "weight_kg": 79.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q13397712",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q2311865",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q8749",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q196160",
+      "start": "2022-07-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q196160",
+  "image_filename": "XXIII Memorial Quinocho (RC Celta vs Mainz 05) - 55 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dennis_Eckert",
+  "transfermarkt_id": "249303",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Germany",
+    "Spain",
+    "Iran"
+  ],
+  "place_of_birth": "Bonn",
+  "wikidata_current_club": "Royale Union Saint-Gilloise",
+  "wikidata_current_club_qid": "Q196160",
+  "photo": {
+    "filename": "XXIII Memorial Quinocho (RC Celta vs Mainz 05) - 55 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/XXIII_Memorial_Quinocho_%28RC_Celta_vs_Mainz_05%29_-_55_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/XXIII_Memorial_Quinocho_%28RC_Celta_vs_Mainz_05%29_-_55_%28cropped%29.jpg/960px-XXIII_Memorial_Quinocho_%28RC_Celta_vs_Mainz_05%29_-_55_%28cropped%29.jpg",
+    "width": 1242,
+    "height": 1835,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Harpagornis\" title=\"User:Harpagornis\">Harpagornis</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/dennis-eckert.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

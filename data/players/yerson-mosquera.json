@@ -1,0 +1,62 @@
+{
+  "slug": "yerson-mosquera",
+  "display_name": "Yerson Mosquera",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-05-02",
+  "age": 25,
+  "caps": 4,
+  "goals": 1,
+  "club_from_squad_table": "Wolverhampton Wanderers",
+  "wikipedia_title": "Yerson Mosquera",
+  "date_of_birth": "2001-05-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Wolverhampton Wanderers",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q104834787",
+  "qid": "Q104834787",
+  "name": "Yerson",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q1093516",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 187.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q332605",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q332605",
+  "image_filename": "Yerson Mosquera.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yerson_Mosquera",
+  "transfermarkt_id": "716276",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Apartad\u00f3",
+  "wikidata_current_club": "Atl\u00e9tico Nacional",
+  "wikidata_current_club_qid": "Q332605",
+  "photo": {
+    "filename": "Yerson Mosquera.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Yerson_Mosquera.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Yerson_Mosquera.jpg/960px-Yerson_Mosquera.jpg",
+    "width": 1214,
+    "height": 1579,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Hayden Schiff",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/yerson-mosquera.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

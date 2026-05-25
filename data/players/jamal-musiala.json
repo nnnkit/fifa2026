@@ -1,0 +1,70 @@
+{
+  "slug": "jamal-musiala",
+  "display_name": "Jamal Musiala",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2003-02-26",
+  "age": 23,
+  "caps": 40,
+  "goals": 8,
+  "club_from_squad_table": "Bayern Munich",
+  "wikipedia_title": "Jamal Musiala",
+  "date_of_birth": "2003-02-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayern Munich",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q96072055",
+  "qid": "Q96072055",
+  "name": "Jamal Musiala",
+  "description": "German association football player",
+  "place_of_birth_qid": "Q1022",
+  "citizenship_qids": [
+    "Q183",
+    "Q145"
+  ],
+  "height_cm": 184.0,
+  "position_qids": [
+    "Q90326494"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q994701",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q15789",
+  "image_filename": "Jamal Musiala 2022 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jamal_Musiala",
+  "transfermarkt_id": "580195",
+  "fifa_player_id": "400125673",
+  "positions": [
+    "attacking midfielder"
+  ],
+  "citizenship": [
+    "Germany",
+    "United Kingdom"
+  ],
+  "place_of_birth": "Stuttgart",
+  "wikidata_current_club": "FC Bayern Munich",
+  "wikidata_current_club_qid": "Q15789",
+  "photo": {
+    "filename": "Jamal Musiala 2022 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jamal_Musiala_2022_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jamal_Musiala_2022_%28cropped%29.jpg",
+    "width": 477,
+    "height": 647,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "crop by <a href=\"//commons.wikimedia.org/wiki/User:ArsenalGhanaPartey\" class=\"mw-redirect\" title=\"User:ArsenalGhanaPartey\">ArsenalGhanaPartey</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jamal-musiala.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

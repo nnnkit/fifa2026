@@ -1,0 +1,62 @@
+{
+  "slug": "david-m\u00f8ller-wolfe",
+  "display_name": "David M\u00f8ller Wolfe",
+  "shirt_no": 5,
+  "position_code": "DF",
+  "dob": "2002-04-23",
+  "age": 24,
+  "caps": 20,
+  "goals": 1,
+  "club_from_squad_table": "Wolverhampton Wanderers",
+  "wikipedia_title": "David M\u00f8ller Wolfe",
+  "date_of_birth": "2002-04-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Wolverhampton Wanderers",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q101095985",
+  "qid": "Q101095985",
+  "name": "David M\u00f8ller Wolfe",
+  "description": "Norwegian association football player",
+  "place_of_birth_qid": "Q26793",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q217607",
+      "start": "2020-07-13",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q217607",
+  "image_filename": "David M\u00f8ller Wolfe.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_M%C3%B8ller_Wolfe",
+  "transfermarkt_id": "661427",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "Bergen",
+  "wikidata_current_club": "\u00c5sane Fotball",
+  "wikidata_current_club_qid": "Q217607",
+  "photo": {
+    "filename": "David M\u00f8ller Wolfe.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/David_M%C3%B8ller_Wolfe.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/David_M%C3%B8ller_Wolfe.jpg/960px-David_M%C3%B8ller_Wolfe.jpg",
+    "width": 1012,
+    "height": 1025,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Carlo Bruil Fotografie",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/david-m\u00f8ller-wolfe.jpg"
+  },
+  "team_slug": "norway",
+  "team_country": "Norway"
+}

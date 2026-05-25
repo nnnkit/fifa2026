@@ -1,0 +1,79 @@
+{
+  "slug": "a\u00efssa-mandi",
+  "display_name": "A\u00efssa Mandi",
+  "shirt_no": 2,
+  "position_code": "DF",
+  "dob": "1991-10-22",
+  "age": 34,
+  "caps": 116,
+  "goals": 7,
+  "club_from_squad_table": "Lille",
+  "wikipedia_title": "A\u00efssa Mandi",
+  "date_of_birth": "1991-10-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lille",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q2876432",
+  "qid": "Q2876432",
+  "name": "A\u00efssa Mandi",
+  "description": "Algerian association football player",
+  "place_of_birth_qid": "Q47135",
+  "citizenship_qids": [
+    "Q262"
+  ],
+  "height_cm": 186.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q208228",
+      "start": "2009-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q181903",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q8723",
+      "start": "2016-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q12297",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q12297",
+  "image_filename": "Alg\u00e9rie - Arm\u00e9nie - 20140531 - Aissa Mandi.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/A%C3%AFssa_Mandi",
+  "transfermarkt_id": "80293",
+  "fifa_player_id": "376285",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Algeria"
+  ],
+  "place_of_birth": "Ch\u00e2lons-en-Champagne",
+  "wikidata_current_club": "Villarreal CF",
+  "wikidata_current_club_qid": "Q12297",
+  "photo": {
+    "filename": "Alg\u00e9rie - Arm\u00e9nie - 20140531 - Aissa Mandi.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Alg%C3%A9rie_-_Arm%C3%A9nie_-_20140531_-_Aissa_Mandi.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Alg%C3%A9rie_-_Arm%C3%A9nie_-_20140531_-_Aissa_Mandi.jpg/960px-Alg%C3%A9rie_-_Arm%C3%A9nie_-_20140531_-_Aissa_Mandi.jpg",
+    "width": 1471,
+    "height": 2222,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pleclown\" title=\"User:Pleclown\">Cl\u00e9ment Bucco-Lechat</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/a\u00efssa-mandi.jpg"
+  },
+  "team_slug": "algeria",
+  "team_country": "Algeria"
+}

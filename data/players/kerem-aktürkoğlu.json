@@ -1,0 +1,102 @@
+{
+  "slug": "kerem-aktürkoğlu",
+  "display_name": "Kerem Aktürkoğlu",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1998-10-21",
+  "age": 27,
+  "caps": 51,
+  "goals": 15,
+  "club_from_squad_table": "Fenerbahçe",
+  "wikipedia_title": "Kerem Aktürkoğlu",
+  "date_of_birth": "1998-10-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Fenerbahçe",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q97725322",
+  "qid": "Q97725322",
+  "name": "Kerem Aktürkoğlu",
+  "description": "Turkish association football player (born 1998)",
+  "place_of_birth_qid": "Q129649",
+  "citizenship_qids": [
+    "Q43"
+  ],
+  "height_cm": 1.73,
+  "position_qids": [
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q857938",
+      "start": "2015-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q20472948",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q5000554",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q15729607",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q495299",
+      "start": "2020-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q23925713",
+      "start": "2015-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q7855167",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q483856",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q131499",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q131499",
+  "image_filename": "Muhammed Kerem Aktürkoğlu.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kerem_Akt%C3%BCrko%C4%9Flu",
+  "transfermarkt_id": "382528",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "Turkey"
+  ],
+  "place_of_birth": "İzmit",
+  "wikidata_current_club": "S.L. Benfica",
+  "wikidata_current_club_qid": "Q131499",
+  "photo": {
+    "filename": "Muhammed Kerem Aktürkoğlu.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Muhammed_Kerem_Akt%C3%BCrko%C4%9Flu.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Muhammed_Kerem_Akt%C3%BCrko%C4%9Flu.png",
+    "width": 541,
+    "height": 799,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Анна Нэсси",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kerem-aktürkoğlu.png"
+  },
+  "team_slug": "turkey",
+  "team_country": "Turkey"
+}

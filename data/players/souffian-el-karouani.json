@@ -1,0 +1,72 @@
+{
+  "slug": "souffian-el-karouani",
+  "display_name": "Souffian El Karouani",
+  "shirt_no": 15,
+  "position_code": "DF",
+  "dob": "2000-10-19",
+  "age": 25,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "Utrecht",
+  "wikipedia_title": "Souffian El Karouani",
+  "date_of_birth": "2000-10-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Utrecht",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q66360728",
+  "qid": "Q66360728",
+  "name": "Souffian El Karouani",
+  "description": "Dutch association football player",
+  "place_of_birth_qid": "Q2766547",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q318348",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q207337",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q24680",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q24680",
+  "image_filename": "GAE - FC Utrecht - Souffian El Karouani).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Souffian_El_Karouani",
+  "transfermarkt_id": "541134",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": null,
+  "wikidata_current_club": "FC Utrecht",
+  "wikidata_current_club_qid": "Q24680",
+  "photo": {
+    "filename": "GAE - FC Utrecht - Souffian El Karouani).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/GAE_-_FC_Utrecht_-_Souffian_El_Karouani%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/GAE_-_FC_Utrecht_-_Souffian_El_Karouani%29.jpg/960px-GAE_-_FC_Utrecht_-_Souffian_El_Karouani%29.jpg",
+    "width": 1422,
+    "height": 2661,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Carlo Bruil Fotografie",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/souffian-el-karouani.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

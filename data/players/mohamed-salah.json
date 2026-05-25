@@ -1,0 +1,103 @@
+{
+  "slug": "mohamed-salah",
+  "display_name": "Mohamed Salah",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1992-06-15",
+  "age": 33,
+  "caps": 116,
+  "goals": 67,
+  "club_from_squad_table": "Liverpool",
+  "wikipedia_title": "Mohamed Salah",
+  "date_of_birth": "1992-06-15",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Liverpool",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q1354960",
+  "qid": "Q1354960",
+  "name": "Mohamed Salah",
+  "description": "Egyptian association football player (born 1992)",
+  "place_of_birth_qid": "Q55624552",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "height_cm": 175.0,
+  "weight_kg": 71.0,
+  "position_qids": [
+    "Q8025128",
+    "Q280658",
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2052",
+      "start": "2015-02-02",
+      "end": "2015-06-30"
+    },
+    {
+      "team_qid": "Q2073915",
+      "start": "2010-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q28089",
+      "start": "2011-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2739",
+      "start": "2015-08-06",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q189671",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1130849",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2739",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    }
+  ],
+  "current_club_qid": "Q1130849",
+  "image_filename": "Mohamed Salah 2018.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Salah",
+  "transfermarkt_id": "148455",
+  "fifa_player_id": "344654",
+  "positions": [
+    "wing half",
+    "forward",
+    "winger"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "place_of_birth": "Nagrig",
+  "wikidata_current_club": "Liverpool F.C.",
+  "wikidata_current_club_qid": "Q1130849",
+  "photo": {
+    "filename": "Mohamed Salah 2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mohamed_Salah_2018.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mohamed_Salah_2018.jpg",
+    "width": 540,
+    "height": 810,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u043d\u0430 \u041d\u044d\u0441\u0441\u0438",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mohamed-salah.jpg"
+  },
+  "team_slug": "egypt",
+  "team_country": "Egypt"
+}

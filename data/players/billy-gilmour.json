@@ -1,0 +1,72 @@
+{
+  "slug": "billy-gilmour",
+  "display_name": "Billy Gilmour",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2001-06-11",
+  "age": 25,
+  "caps": 45,
+  "goals": 2,
+  "club_from_squad_table": "Napoli",
+  "wikipedia_title": "Billy Gilmour",
+  "date_of_birth": "2001-06-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Napoli",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q42847487",
+  "qid": "Q42847487",
+  "name": "Billy Gilmour",
+  "description": "Scottish association football player",
+  "place_of_birth_qid": "Q1774629",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 170.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q9616",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1812121",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q2641",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2641",
+  "image_filename": "Billy Gilmour 2021-08-07 1 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Billy_Gilmour",
+  "transfermarkt_id": "423744",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Irvine",
+  "wikidata_current_club": "SSC Napoli",
+  "wikidata_current_club_qid": "Q2641",
+  "photo": {
+    "filename": "Billy Gilmour 2021-08-07 1 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Billy_Gilmour_2021-08-07_1_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Billy_Gilmour_2021-08-07_1_%28cropped%29.jpg",
+    "width": 885,
+    "height": 1432,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Mattythewhite\" title=\"User:Mattythewhite\">Mattythewhite</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/billy-gilmour.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

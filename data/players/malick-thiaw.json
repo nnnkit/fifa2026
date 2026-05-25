@@ -1,0 +1,74 @@
+{
+  "slug": "malick-thiaw",
+  "display_name": "Malick Thiaw",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-08-08",
+  "age": 24,
+  "caps": 5,
+  "goals": 0,
+  "club_from_squad_table": "Newcastle United",
+  "wikipedia_title": "Malick Thiaw",
+  "date_of_birth": "2001-08-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Newcastle United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q87268125",
+  "qid": "Q87268125",
+  "name": "Malick Thiaw",
+  "description": "German footballer",
+  "place_of_birth_qid": "Q1718",
+  "citizenship_qids": [
+    "Q183",
+    "Q33"
+  ],
+  "height_cm": 1.94,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q32494",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1543",
+      "start": "2022-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q18716",
+      "start": "2025-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18716",
+  "image_filename": "Milan Lecce 2023 Thiaw.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Malick_Thiaw",
+  "transfermarkt_id": "521964",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Germany",
+    "Finland"
+  ],
+  "place_of_birth": "Düsseldorf",
+  "wikidata_current_club": "Newcastle United F.C.",
+  "wikidata_current_club_qid": "Q18716",
+  "photo": {
+    "filename": "Milan Lecce 2023 Thiaw.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Milan_Lecce_2023_Thiaw.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Milan_Lecce_2023_Thiaw.jpg",
+    "width": 730,
+    "height": 894,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Saggittarius_A\" title=\"User:Saggittarius A\">Saggittarius A</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/malick-thiaw.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

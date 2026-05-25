@@ -1,0 +1,89 @@
+{
+  "slug": "alisson",
+  "display_name": "Alisson",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1992-10-02",
+  "age": 33,
+  "caps": 76,
+  "goals": 0,
+  "club_from_squad_table": "Liverpool",
+  "wikipedia_title": "Alisson Becker",
+  "date_of_birth": "1992-10-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Liverpool",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18237361",
+  "qid": "Q18237361",
+  "name": "Alisson Becker",
+  "description": "Brazilian association football player",
+  "place_of_birth_qid": "Q321331",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 193.0,
+  "weight_kg": 91.0,
+  "position_qids": [
+    "Q30857181"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q185088",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q80845",
+      "start": "2013-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q2402747",
+      "start": "2009-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q2308235",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2739",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    }
+  ],
+  "current_club_qid": "Q185088",
+  "image_filename": "20180610 FIFA Friendly Match Austria vs. Brazil 850 1625.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alisson_Becker",
+  "transfermarkt_id": "105470",
+  "fifa_player_id": "308370",
+  "positions": [
+    "delantero"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "Novo Hamburgo",
+  "wikidata_current_club": "People's Party",
+  "wikidata_current_club_qid": "Q185088",
+  "photo": {
+    "filename": "20180610 FIFA Friendly Match Austria vs. Brazil 850 1625.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_850_1625.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_850_1625.jpg/960px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_850_1625.jpg",
+    "width": 2862,
+    "height": 4125,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/alisson.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

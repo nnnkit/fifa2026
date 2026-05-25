@@ -1,0 +1,68 @@
+{
+  "slug": "sa\u0161a-kalajd\u017ei\u0107",
+  "display_name": "Sa\u0161a Kalajd\u017ei\u0107",
+  "shirt_no": 14,
+  "position_code": "FW",
+  "dob": "1997-07-07",
+  "age": 28,
+  "caps": 21,
+  "goals": 4,
+  "club_from_squad_table": "LASK",
+  "wikipedia_title": "Sa\u0161a Kalajd\u017ei\u0107",
+  "date_of_birth": "1997-07-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "LASK",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q34058084",
+  "qid": "Q34058084",
+  "name": "Sasa Kalajdzic",
+  "description": "Austrian association football player",
+  "place_of_birth_qid": "Q659918",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 2.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q686826",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q303033",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q686826",
+  "image_filename": "Sasa kalajdzic.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sa%C5%A1a_Kalajd%C5%BEi%C4%87",
+  "transfermarkt_id": "369567",
+  "fifa_player_id": "201682608",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Horn",
+  "wikidata_current_club": "First Vienna FC",
+  "wikidata_current_club_qid": "Q686826",
+  "photo": {
+    "filename": "Sasa kalajdzic.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sasa_kalajdzic.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sasa_kalajdzic.jpg",
+    "width": 641,
+    "height": 800,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">Jeollo von VfB-exklusiv.de</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/sa\u0161a-kalajd\u017ei\u0107.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

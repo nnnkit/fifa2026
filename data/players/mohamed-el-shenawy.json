@@ -1,0 +1,88 @@
+{
+  "slug": "mohamed-el-shenawy",
+  "display_name": "Mohamed El Shenawy",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1988-12-18",
+  "age": 37,
+  "caps": 75,
+  "goals": 0,
+  "club_from_squad_table": "Al Ahly",
+  "wikipedia_title": "Mohamed El Shenawy",
+  "date_of_birth": "1988-12-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al Ahly",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q17151209",
+  "qid": "Q17151209",
+  "name": "Mohamed El-Shenawy",
+  "description": "Egyptian assiciation football player",
+  "place_of_birth_qid": "Q328176",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "height_cm": 191.0,
+  "weight_kg": 89.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2274233",
+      "start": "2013-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q2541016",
+      "start": "2009-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2274220",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q223566",
+      "start": "2008-00-00",
+      "end": "2009-00-00"
+    },
+    {
+      "team_qid": "Q28089",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q223566",
+      "start": "2016-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q223566",
+  "image_filename": "Mohamed El Shenawy.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_El_Shenawy",
+  "transfermarkt_id": "134573",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "place_of_birth": "Kafr el-Sheikh",
+  "wikidata_current_club": "Al Ahly SC",
+  "wikidata_current_club_qid": "Q223566",
+  "photo": {
+    "filename": "Mohamed El Shenawy.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Mohamed_El_Shenawy.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Mohamed_El_Shenawy.jpg",
+    "width": 433,
+    "height": 537,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u041a\u0438\u0440\u0438\u043b\u043b \u0412\u0435\u043d\u0435\u0434\u0438\u043a\u0442\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mohamed-el-shenawy.jpg"
+  },
+  "team_slug": "egypt",
+  "team_country": "Egypt"
+}

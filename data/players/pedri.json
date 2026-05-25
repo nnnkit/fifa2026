@@ -1,0 +1,99 @@
+{
+  "slug": "pedri",
+  "display_name": "Pedri",
+  "shirt_no": 20,
+  "position_code": "MF",
+  "dob": "2002-11-25",
+  "age": 23,
+  "caps": 40,
+  "goals": 5,
+  "club_from_squad_table": "Barcelona",
+  "wikipedia_title": "Pedri",
+  "date_of_birth": "2002-11-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Barcelona",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q66606355",
+  "qid": "Q66606355",
+  "name": "Pedri",
+  "description": "Spanish association football player",
+  "place_of_birth_qid": "Q985603",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 174.0,
+  "weight_kg": 61.0,
+  "position_qids": [
+    "Q1109563"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q11979",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2310295",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q3589784",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q2713491",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q1129595",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q2637337",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q42267",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q7156",
+  "image_filename": "Pedri.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pedri",
+  "transfermarkt_id": "683840",
+  "fifa_player_id": "400128950",
+  "positions": [
+    "centerhalf"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Tegueste",
+  "wikidata_current_club": "Futbol Club Barcelona",
+  "wikidata_current_club_qid": "Q7156",
+  "photo": {
+    "filename": "Pedri.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Pedri.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pedri.jpg/960px-Pedri.jpg",
+    "width": 1227,
+    "height": 1788,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Biso\" title=\"User:Biso\">Biso</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/pedri.jpg"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "ederson",
+  "display_name": "Ederson",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1993-08-17",
+  "age": 32,
+  "caps": 31,
+  "goals": 0,
+  "club_from_squad_table": "Fenerbahçe",
+  "wikipedia_title": "Ederson (footballer, born 1993)",
+  "date_of_birth": "1993-08-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Fenerbahçe",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q17074511",
+  "qid": "Q17074511",
+  "name": "Ederson Santana de Moraes",
+  "description": "Brazilian goalkeeper (1993-)",
+  "place_of_birth_qid": "Q4035",
+  "citizenship_qids": [
+    "Q155",
+    "Q45"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 89.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q131499",
+      "start": "2015-01-01",
+      "end": "2017-06-01"
+    },
+    {
+      "team_qid": "Q622432",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3084434",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q7387221",
+      "start": "2015-01-01",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q2308235",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2017-07-01",
+      "end": "2025-09-02"
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q6601875",
+      "start": "2025-09-02",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q6601875",
+  "image_filename": "Ederson (cropped).png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ederson_(footballer,_born_1993)",
+  "transfermarkt_id": "238223",
+  "fifa_player_id": "395427",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Brazil",
+    "Portugal"
+  ],
+  "place_of_birth": null,
+  "wikidata_current_club": "Fenerbahçe Istanbul",
+  "wikidata_current_club_qid": "Q6601875",
+  "photo": {
+    "filename": "Ederson (cropped).png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ederson_%28cropped%29.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ederson_%28cropped%29.png",
+    "width": 246,
+    "height": 353,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Кирилл Венедиктов",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ederson.png"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "sarpreet-singh",
+  "display_name": "Sarpreet Singh",
+  "shirt_no": 10,
+  "position_code": "MF",
+  "dob": "1999-02-20",
+  "age": 27,
+  "caps": 26,
+  "goals": 3,
+  "club_from_squad_table": "Wellington Phoenix",
+  "wikipedia_title": "Sarpreet Singh",
+  "date_of_birth": "1999-02-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Wellington Phoenix",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28800473",
+  "qid": "Q28800473",
+  "name": "Sarpreet Singh",
+  "description": "New Zealand association football player",
+  "place_of_birth_qid": "Q37100",
+  "citizenship_qids": [
+    "Q664"
+  ],
+  "height_cm": 1.75,
+  "weight_kg": 65.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q815890",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q994701",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q142005",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q142005",
+  "image_filename": "Sarpreet Singh Training 2019-07-28 FC Bayern Munich.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sarpreet_Singh",
+  "transfermarkt_id": "350357",
+  "fifa_player_id": "309209",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "New Zealand"
+  ],
+  "place_of_birth": "Auckland",
+  "wikidata_current_club": "F.C. Hansa Rostock",
+  "wikidata_current_club_qid": "Q142005",
+  "photo": {
+    "filename": "Sarpreet Singh Training 2019-07-28 FC Bayern Munich.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sarpreet_Singh_Training_2019-07-28_FC_Bayern_Munich.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sarpreet_Singh_Training_2019-07-28_FC_Bayern_Munich.png",
+    "width": 662,
+    "height": 929,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mrsmiis&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mrsmiis (page does not exist)\">Mrsmiis</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/sarpreet-singh.png"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand"
+}

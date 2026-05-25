@@ -1,0 +1,92 @@
+{
+  "slug": "hossein-hosseini",
+  "display_name": "Hossein Hosseini",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1992-06-30",
+  "age": 33,
+  "caps": 13,
+  "goals": 0,
+  "club_from_squad_table": "Sepahan",
+  "wikipedia_title": "Hossein Hosseini (footballer, born 1992)",
+  "date_of_birth": "1992-06-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sepahan",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q5865783",
+  "qid": "Q5865783",
+  "name": "Hossein Hosseini",
+  "description": "Iranian footballer (born 1992)",
+  "place_of_birth_qid": "Q6397066",
+  "citizenship_qids": [
+    "Q794"
+  ],
+  "height_cm": 187.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q537201",
+      "start": "2014-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q760792",
+      "start": "2010-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q455971",
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3589804",
+      "start": "2007-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q6587944",
+      "start": "2010-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q3277524",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q184602",
+      "start": "2018-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q455971",
+  "image_filename": "Esteghlal FC vs Sepahan FC, 14 December 2021 - 26.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hossein_Hosseini_(footballer,_born_1992)",
+  "transfermarkt_id": "132561",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Iran"
+  ],
+  "place_of_birth": "Shiraz",
+  "wikidata_current_club": "Esteghlal F.C.",
+  "wikidata_current_club_qid": "Q455971",
+  "photo": {
+    "filename": "Esteghlal FC vs Sepahan FC, 14 December 2021 - 26.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Esteghlal_FC_vs_Sepahan_FC%2C_14_December_2021_-_26.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Esteghlal_FC_vs_Sepahan_FC%2C_14_December_2021_-_26.jpg",
+    "width": 533,
+    "height": 752,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "\u0645\u0642\u062f\u0627\u062f \u0645\u062f\u062f\u06cc",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/hossein-hosseini.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

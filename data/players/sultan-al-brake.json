@@ -1,0 +1,62 @@
+{
+  "slug": "sultan-al-brake",
+  "display_name": "Sultan Al-Brake",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-04-07",
+  "age": 30,
+  "caps": 16,
+  "goals": 0,
+  "club_from_squad_table": "Al-Duhail",
+  "wikipedia_title": "Sultan Al-Brake",
+  "date_of_birth": "1996-04-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Duhail",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27671280",
+  "qid": "Q27671280",
+  "name": "Sultan Al-Brake",
+  "description": "association football player",
+  "place_of_birth_qid": "Q846",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1056948",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1056948",
+  "image_filename": "Sultan Al Brake in 2018.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sultan_Al-Brake",
+  "transfermarkt_id": "336665",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Qatar",
+  "wikidata_current_club": "Al-Duhail SC",
+  "wikidata_current_club_qid": "Q1056948",
+  "photo": {
+    "filename": "Sultan Al Brake in 2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sultan_Al_Brake_in_2018.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sultan_Al_Brake_in_2018.jpg",
+    "width": 186,
+    "height": 283,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mahdi Zare/Fars News Agency",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/sultan-al-brake.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "jonathan-tah",
+  "display_name": "Jonathan Tah",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-02-11",
+  "age": 30,
+  "caps": 45,
+  "goals": 1,
+  "club_from_squad_table": "Bayern Munich",
+  "wikipedia_title": "Jonathan Tah",
+  "date_of_birth": "1996-02-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayern Munich",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q14640027",
+  "qid": "Q14640027",
+  "name": "Jonathan Tah",
+  "description": "German footballer (born 1996)",
+  "place_of_birth_qid": "Q1055",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 193.0,
+  "weight_kg": 98.0,
+  "position_qids": [
+    "Q268258",
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q51974",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q5644342",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q151747",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q104761",
+      "start": "2015-01-01",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q314851",
+      "start": "2015-01-01",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q43310",
+      "start": "2016-03-26",
+      "end": null
+    },
+    {
+      "team_qid": "Q1202759",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q319699",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q324854",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2025-06-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q15789",
+  "image_filename": "2019-06-11 Fußball, Männer, Länderspiel, Deutschland-Estland StP 2060 LR10 by Stepro.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jonathan_Tah",
+  "transfermarkt_id": "196357",
+  "fifa_player_id": "401378",
+  "positions": [
+    "centre-back",
+    "defender"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Hamburg",
+  "wikidata_current_club": "FC Bayern Munich",
+  "wikidata_current_club_qid": "Q15789",
+  "photo": {
+    "filename": "2019-06-11 Fußball, Männer, Länderspiel, Deutschland-Estland StP 2060 LR10 by Stepro.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2060_LR10_by_Stepro.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2060_LR10_by_Stepro.jpg/960px-2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2060_LR10_by_Stepro.jpg",
+    "width": 3873,
+    "height": 2582,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jonathan-tah.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

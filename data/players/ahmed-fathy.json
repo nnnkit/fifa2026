@@ -1,0 +1,78 @@
+{
+  "slug": "ahmed-fathy",
+  "display_name": "Ahmed Fathy",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1993-01-25",
+  "age": 33,
+  "caps": 46,
+  "goals": 0,
+  "club_from_squad_table": "Al-Arabi",
+  "wikipedia_title": "Ahmed Fathy (Qatari footballer)",
+  "date_of_birth": "1993-01-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Arabi",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q24005986",
+  "qid": "Q24005986",
+  "name": "Ahmed Fathi",
+  "description": "association football player",
+  "place_of_birth_qid": "Q3861",
+  "citizenship_qids": [
+    "Q846"
+  ],
+  "height_cm": 166.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3873543",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q963238",
+      "start": "2014-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q283760",
+      "start": "2011-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q283760",
+  "image_filename": "Asian Nations Cup Iran - Qatar (21) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_Fathy_(Qatari_footballer)",
+  "transfermarkt_id": "251183",
+  "wikidata_date_of_birth": "1993-06-25",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Qatar"
+  ],
+  "place_of_birth": "Doha",
+  "wikidata_current_club": "Al-Arabi SC",
+  "wikidata_current_club_qid": "Q283760",
+  "photo": {
+    "filename": "Asian Nations Cup Iran - Qatar (21) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Asian_Nations_Cup_Iran_-_Qatar_%2821%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Asian_Nations_Cup_Iran_-_Qatar_%2821%29_%28cropped%29.jpg",
+    "width": 313,
+    "height": 348,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "M.Sadegh Nikgostar",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ahmed-fathy.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

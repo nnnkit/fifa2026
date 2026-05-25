@@ -1,0 +1,52 @@
+{
+  "slug": "pedro-vite",
+  "display_name": "Pedro Vite",
+  "shirt_no": 15,
+  "position_code": "MF",
+  "dob": "2002-03-09",
+  "age": 24,
+  "caps": 16,
+  "goals": 1,
+  "club_from_squad_table": "UNAM",
+  "wikipedia_title": "Pedro Vite",
+  "date_of_birth": "2002-03-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "UNAM",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q105920173",
+  "qid": "Q105920173",
+  "name": "Pedro Vite",
+  "description": "Ecuadorian footballer",
+  "place_of_birth_qid": "Q797568",
+  "citizenship_qids": [
+    "Q736"
+  ],
+  "height_cm": 170.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "image_filename": "Inter Miami CF 3-1 UNAM (6 August 2025) 04 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Vite",
+  "transfermarkt_id": "659806",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Ecuador"
+  ],
+  "place_of_birth": "Babahoyo",
+  "photo": {
+    "filename": "Inter Miami CF 3-1 UNAM (6 August 2025) 04 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Inter_Miami_CF_3-1_UNAM_%286_August_2025%29_04_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Inter_Miami_CF_3-1_UNAM_%286_August_2025%29_04_%28cropped%29.jpg",
+    "width": 223,
+    "height": 341,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:TheSoccerBoy\" title=\"User:TheSoccerBoy\">TheSoccerBoy</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/pedro-vite.jpg"
+  },
+  "team_slug": "ecuador",
+  "team_country": "Ecuador"
+}

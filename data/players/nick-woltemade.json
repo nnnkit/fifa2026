@@ -1,0 +1,90 @@
+{
+  "slug": "nick-woltemade",
+  "display_name": "Nick Woltemade",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2002-02-14",
+  "age": 24,
+  "caps": 10,
+  "goals": 4,
+  "club_from_squad_table": "Newcastle United",
+  "wikipedia_title": "Nick Woltemade",
+  "date_of_birth": "2002-02-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Newcastle United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q84158344",
+  "qid": "Q84158344",
+  "name": "Nick Woltemadë",
+  "description": "German association football player (born 2002)",
+  "place_of_birth_qid": "Q24879",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 198.0,
+  "position_qids": [
+    "Q280658",
+    "Q90326494"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18716",
+      "start": "2025-08-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q319699",
+      "start": "2018-10-13",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q316497",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q51976",
+      "start": "2020-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q314851",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q692691",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q4512",
+      "start": "2024-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q43310",
+      "start": "2025-06-04",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18716",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nick_Woltemade",
+  "transfermarkt_id": "455661",
+  "positions": [
+    "forward",
+    "attacking midfielder"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Bremen",
+  "wikidata_current_club": "Newcastle United F.C.",
+  "wikidata_current_club_qid": "Q18716",
+  "team_slug": "germany",
+  "team_country": "Germany",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

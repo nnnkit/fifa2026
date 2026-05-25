@@ -1,0 +1,82 @@
+{
+  "slug": "ardon-jashari",
+  "display_name": "Ardon Jashari",
+  "shirt_no": 14,
+  "position_code": "MF",
+  "dob": "2002-07-30",
+  "age": 23,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "Milan",
+  "wikipedia_title": "Ardon Jashari",
+  "date_of_birth": "2002-07-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Milan",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q98816361",
+  "qid": "Q98816361",
+  "name": "Ardon Jashari",
+  "description": "Swiss footballer (born 2002)",
+  "place_of_birth_qid": "Q69235",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q223262",
+      "start": "2020-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q678582",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q165141",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q190916",
+      "start": "2024-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q1543",
+      "start": "2025-08-06",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1543",
+  "image_filename": "Ardon Jashari.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ardon_Jashari",
+  "transfermarkt_id": "608172",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Cham",
+  "wikidata_current_club": "AC Milan",
+  "wikidata_current_club_qid": "Q1543",
+  "photo": {
+    "filename": "Ardon Jashari.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ardon_Jashari.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ardon_Jashari.jpg",
+    "width": 793,
+    "height": 2267,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sidney.Cortez&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sidney.Cortez (page does not exist)\">Sidney.Cortez</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ardon-jashari.jpg"
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

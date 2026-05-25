@@ -1,0 +1,85 @@
+{
+  "slug": "brice-samba",
+  "display_name": "Brice Samba",
+  "shirt_no": 1,
+  "position_code": "GK",
+  "dob": "1994-04-25",
+  "age": 32,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Rennes",
+  "wikipedia_title": "Brice Samba",
+  "date_of_birth": "1994-04-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Rennes",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q15627817",
+  "qid": "Q15627817",
+  "name": "Brice Samba",
+  "description": "French-Congolese footballer (born 1994)",
+  "place_of_birth_qid": "Q3241726",
+  "citizenship_qids": [
+    "Q142",
+    "Q971"
+  ],
+  "height_cm": 186.0,
+  "weight_kg": 79.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q132885",
+      "start": "2013-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q328658",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q19523",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q193377",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q19490",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19490",
+  "image_filename": "Brice Samba asse rcl 23 24.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brice_Samba",
+  "transfermarkt_id": "191056",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "France",
+    "Republic of the Congo"
+  ],
+  "place_of_birth": "Linzolo",
+  "wikidata_current_club": "Nottingham Forest F.C.",
+  "wikidata_current_club_qid": "Q19490",
+  "photo": {
+    "filename": "Brice Samba asse rcl 23 24.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Brice_Samba_asse_rcl_23_24.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Brice_Samba_asse_rcl_23_24.jpg",
+    "width": 673,
+    "height": 839,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/brice-samba.jpg"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

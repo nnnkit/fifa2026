@@ -1,0 +1,115 @@
+{
+  "slug": "luca-zidane",
+  "display_name": "Luca Zidane",
+  "shirt_no": 23,
+  "position_code": "GK",
+  "dob": "1998-05-13",
+  "age": 28,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "Granada",
+  "wikipedia_title": "Luca Zidane",
+  "date_of_birth": "1998-05-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Granada",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19952334",
+  "qid": "Q19952334",
+  "name": "Luca Zidane",
+  "description": "Algerian footballer (born 1998)",
+  "place_of_birth_qid": "Q23482",
+  "citizenship_qids": [
+    "Q142",
+    "Q262"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3590033",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q1450557",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q12217",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q12236",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q10300",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q770740",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q8812",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2701714",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q1344163",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    }
+  ],
+  "current_club_qid": "Q8812",
+  "image_filename": "Real Madrid C.F. the Winner Of The Champions League in 2018 (1) (Luca).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luca_Zidane",
+  "transfermarkt_id": "283489",
+  "fifa_player_id": "389879",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "France",
+    "Algeria"
+  ],
+  "place_of_birth": "Marseille",
+  "wikidata_current_club": "Granada CF",
+  "wikidata_current_club_qid": "Q8812",
+  "photo": {
+    "filename": "Real Madrid C.F. the Winner Of The Champions League in 2018 (1) (Luca).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Real_Madrid_C.F._the_Winner_Of_The_Champions_League_in_2018_%281%29_%28Luca%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Real_Madrid_C.F._the_Winner_Of_The_Champions_League_in_2018_%281%29_%28Luca%29.jpg",
+    "width": 88,
+    "height": 107,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/luca-zidane.jpg"
+  },
+  "team_slug": "algeria",
+  "team_country": "Algeria"
+}

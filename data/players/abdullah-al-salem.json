@@ -1,0 +1,56 @@
+{
+  "slug": "abdullah-al-salem",
+  "display_name": "Abdullah Al-Salem",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1992-12-19",
+  "age": 33,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Al-Qadsiah",
+  "wikipedia_title": "Abdullah Al-Salem (footballer)",
+  "date_of_birth": "1992-12-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Qadsiah",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q22812678",
+  "qid": "Q22812678",
+  "name": "Abdulla Al Salem",
+  "description": "association football player",
+  "place_of_birth_qid": "Q847660",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2027718",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q72844",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    }
+  ],
+  "current_club_qid": "Q2027718",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abdullah_Al-Salem_(footballer)",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Qatif governorate",
+  "wikidata_current_club": "Al-Khaleej FC",
+  "wikidata_current_club_qid": "Q2027718",
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

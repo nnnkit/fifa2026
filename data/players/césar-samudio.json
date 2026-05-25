@@ -1,0 +1,78 @@
+{
+  "slug": "c\u00e9sar-samudio",
+  "display_name": "C\u00e9sar Samudio",
+  "shirt_no": 12,
+  "position_code": "GK",
+  "dob": "1994-03-26",
+  "age": 32,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Marath\u00f3n",
+  "wikipedia_title": "C\u00e9sar Samudio",
+  "date_of_birth": "1994-03-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Marath\u00f3n",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q114216100",
+  "qid": "Q114216100",
+  "name": "C\u00e9sar Samudio",
+  "description": "Panamanian association football player",
+  "place_of_birth_qid": "Q3306",
+  "citizenship_qids": [
+    "Q804"
+  ],
+  "height_cm": 188.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1861524",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q940894",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q29470395",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1871928",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q2979808",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1023201",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1023201",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Samudio",
+  "transfermarkt_id": "865550",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Panama"
+  ],
+  "place_of_birth": "Panama City",
+  "wikidata_current_club": "Chepo FC",
+  "wikidata_current_club_qid": "Q1861524",
+  "team_slug": "panama",
+  "team_country": "Panama",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

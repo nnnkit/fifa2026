@@ -1,0 +1,89 @@
+{
+  "slug": "kristoffer-ajer",
+  "display_name": "Kristoffer Ajer",
+  "shirt_no": 3,
+  "position_code": "DF",
+  "dob": "1998-04-17",
+  "age": 28,
+  "caps": 50,
+  "goals": 2,
+  "club_from_squad_table": "Brentford",
+  "wikipedia_title": "Kristoffer Ajer",
+  "date_of_birth": "1998-04-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Brentford",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18157457",
+  "qid": "Q18157457",
+  "name": "Kristoffer Ajer",
+  "description": "Norwegian association football player (born 1998)",
+  "place_of_birth_qid": "Q57870",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 198.0,
+  "weight_kg": 93.5,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q737947",
+      "start": "2014-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q19593",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590274",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873528",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2446294",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q210961",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19593",
+  "image_filename": "Norway Italy - June 2025 E 21 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kristoffer_Ajer",
+  "transfermarkt_id": "328658",
+  "fifa_player_id": "201514479",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "R\u00e6lingen",
+  "wikidata_current_club": "Celtic F.C.",
+  "wikidata_current_club_qid": "Q19593",
+  "photo": {
+    "filename": "Norway Italy - June 2025 E 21 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Norway_Italy_-_June_2025_E_21_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Norway_Italy_-_June_2025_E_21_%28cropped%29.jpg/960px-Norway_Italy_-_June_2025_E_21_%28cropped%29.jpg",
+    "width": 3091,
+    "height": 3712,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kristoffer-ajer.jpg"
+  },
+  "team_slug": "norway",
+  "team_country": "Norway"
+}

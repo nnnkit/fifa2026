@@ -1,0 +1,88 @@
+{
+  "slug": "mortadha-ben-ouanes",
+  "display_name": "Mortadha Ben Ouanes",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1994-07-02",
+  "age": 31,
+  "caps": 17,
+  "goals": 0,
+  "club_from_squad_table": "Kas\u0131mpa\u015fa",
+  "wikipedia_title": "Mortadha Ben Ouanes",
+  "date_of_birth": "1994-07-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Kas\u0131mpa\u015fa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q105082472",
+  "qid": "Q105082472",
+  "name": "Mortadha Ben Ouanes",
+  "description": "Tunisian association football player",
+  "place_of_birth_qid": "Q180717",
+  "citizenship_qids": [
+    "Q948"
+  ],
+  "height_cm": 182.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q290540",
+      "start": "2013-00-00",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q27971",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1102961",
+      "start": "2015-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q290540",
+      "start": "2018-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q138230",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2145744",
+      "start": "2014-00-00",
+      "end": "2015-00-00"
+    }
+  ],
+  "current_club_qid": "Q138230",
+  "image_filename": "Mortadha Ben Ouanes.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mortadha_Ben_Ouanes",
+  "transfermarkt_id": "230921",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Tunisia"
+  ],
+  "place_of_birth": "Sousse",
+  "wikidata_current_club": "Kas\u0131mpa\u015fa S.K.",
+  "wikidata_current_club_qid": "Q138230",
+  "photo": {
+    "filename": "Mortadha Ben Ouanes.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Mortadha_Ben_Ouanes.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mortadha_Ben_Ouanes.jpg/960px-Mortadha_Ben_Ouanes.jpg",
+    "width": 2720,
+    "height": 3999,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kacemph&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kacemph (page does not exist)\">Kacemph</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mortadha-ben-ouanes.jpg"
+  },
+  "team_slug": "tunisia",
+  "team_country": "Tunisia"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "ahmed-yahya",
+  "display_name": "Ahmed Yahya",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1995-07-01",
+  "age": 30,
+  "caps": 18,
+  "goals": 0,
+  "club_from_squad_table": "Al-Shorta",
+  "wikipedia_title": "Ahmed Yahya",
+  "date_of_birth": "1995-07-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Shorta",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q119791904",
+  "qid": "Q119791904",
+  "name": "Ahmed Yahya",
+  "description": "Iraqi professional footballer",
+  "place_of_birth_qid": "Q48195",
+  "citizenship_qids": [
+    "Q796"
+  ],
+  "position_qids": [
+    "Q869161"
+  ],
+  "image_filename": "4822940 AE7I9740 - Ahmed Yahya.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_Yahya",
+  "positions": [
+    "cornerback"
+  ],
+  "citizenship": [
+    "Iraq"
+  ],
+  "place_of_birth": "Basra",
+  "photo": {
+    "filename": "4822940 AE7I9740 - Ahmed Yahya.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/4822940_AE7I9740_-_Ahmed_Yahya.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/4822940_AE7I9740_-_Ahmed_Yahya.jpg",
+    "width": 302,
+    "height": 470,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Foad Ashtari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ahmed-yahya.jpg"
+  },
+  "team_slug": "iraq",
+  "team_country": "Iraq"
+}

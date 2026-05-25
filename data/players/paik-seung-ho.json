@@ -1,0 +1,99 @@
+{
+  "slug": "paik-seung-ho",
+  "display_name": "Paik Seung-ho",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-03-17",
+  "age": 29,
+  "caps": 25,
+  "goals": 3,
+  "club_from_squad_table": "Birmingham City",
+  "wikipedia_title": "Paik Seung-ho",
+  "wikidata_qid": "Q12597820",
+  "qid": "Q12597820",
+  "name": "Paik Seung-ho",
+  "description": "South Korean association football player",
+  "date_of_birth": "1997-03-17",
+  "place_of_birth_qid": "Q20714",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 68.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q10467",
+      "start": "2016-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q495929",
+      "start": "2014-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q479351",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q5010944",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q11945",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q483152",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q543842",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19444",
+      "start": "2023-01-30",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19444",
+  "image_filename": "190608 오픈 트레이닝 데이 백승호 1.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Paik_Seung-ho",
+  "transfermarkt_id": "282689",
+  "fifa_player_id": "402817",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Birmingham City",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "Suwon",
+  "wikidata_current_club": "Birmingham City F.C.",
+  "wikidata_current_club_qid": "Q19444",
+  "photo": {
+    "filename": "190608 오픈 트레이닝 데이 백승호 1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/190608_%EC%98%A4%ED%94%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D_%EB%8D%B0%EC%9D%B4_%EB%B0%B1%EC%8A%B9%ED%98%B8_1.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/190608_%EC%98%A4%ED%94%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D_%EB%8D%B0%EC%9D%B4_%EB%B0%B1%EC%8A%B9%ED%98%B8_1.jpg/960px-190608_%EC%98%A4%ED%94%88_%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D_%EB%8D%B0%EC%9D%B4_%EB%B0%B1%EC%8A%B9%ED%98%B8_1.jpg",
+    "width": 1000,
+    "height": 1399,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Nori Picture",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/paik-seung-ho.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "waldemar-anton",
+  "display_name": "Waldemar Anton",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-07-20",
+  "age": 29,
+  "caps": 12,
+  "goals": 0,
+  "club_from_squad_table": "Borussia Dortmund",
+  "wikipedia_title": "Waldemar Anton",
+  "date_of_birth": "1996-07-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Borussia Dortmund",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q23559699",
+  "qid": "Q23559699",
+  "name": "Waldemar Anton",
+  "description": "German-Uzbek footballer (born 1996)",
+  "place_of_birth_qid": "Q986429",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 182.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q33748",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q314851",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q4512",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q43310",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q4512",
+  "image_filename": "Waldemar anton (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Waldemar_Anton",
+  "transfermarkt_id": "193004",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Olmaliq",
+  "wikidata_current_club": "VfB Stuttgart",
+  "wikidata_current_club_qid": "Q4512",
+  "photo": {
+    "filename": "Waldemar anton (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Waldemar_anton_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Waldemar_anton_%28cropped%29.jpg",
+    "width": 391,
+    "height": 460,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">Jeollo</a> von VfB-exklusiv.de",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/waldemar-anton.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

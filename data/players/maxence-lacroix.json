@@ -1,0 +1,97 @@
+{
+  "slug": "maxence-lacroix",
+  "display_name": "Maxence Lacroix",
+  "shirt_no": 26,
+  "position_code": "DF",
+  "dob": "2000-04-06",
+  "age": 26,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Crystal Palace",
+  "wikipedia_title": "Maxence Lacroix",
+  "date_of_birth": "2000-04-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Crystal Palace",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q60286976",
+  "qid": "Q60286976",
+  "name": "Maxence Lacroix",
+  "description": "French footballer (born 2000)",
+  "place_of_birth_qid": "Q244241",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 1.9,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q16565840",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q3590033",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q1450557",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q1344163",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q19512",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q101859",
+      "start": "2020-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q19467",
+      "start": "2024-08-30",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19467",
+  "image_filename": "Lens - Sochaux (23-11-2019) 73.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Maxence_Lacroix",
+  "transfermarkt_id": "434224",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "Villeneuve-Saint-Georges",
+  "wikidata_current_club": "Crystal Palace F.C.",
+  "wikidata_current_club_qid": "Q19467",
+  "photo": {
+    "filename": "Lens - Sochaux (23-11-2019) 73.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Lens_-_Sochaux_%2823-11-2019%29_73.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lens_-_Sochaux_%2823-11-2019%29_73.jpg/960px-Lens_-_Sochaux_%2823-11-2019%29_73.jpg",
+    "width": 2409,
+    "height": 3212,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterh\u00e9ninois (page does not exist)\">Supporterh\u00e9ninois</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/maxence-lacroix.jpg"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

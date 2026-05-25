@@ -1,0 +1,69 @@
+{
+  "slug": "mattias-svanberg",
+  "display_name": "Mattias Svanberg",
+  "shirt_no": 19,
+  "position_code": "MF",
+  "dob": "1999-01-05",
+  "age": 27,
+  "caps": 39,
+  "goals": 2,
+  "club_from_squad_table": "VfL Wolfsburg",
+  "wikipedia_title": "Mattias Svanberg",
+  "date_of_birth": "1999-01-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "VfL Wolfsburg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q23915221",
+  "qid": "Q23915221",
+  "name": "Mattias Svanberg",
+  "description": "Swedish association football player",
+  "place_of_birth_qid": "Q2211",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 1.85,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q204881",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q2255267",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q204881",
+  "image_filename": "Mattias Svanberg.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mattias_Svanberg",
+  "transfermarkt_id": "342405",
+  "fifa_player_id": "201393981",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Malm\u00f6",
+  "wikidata_current_club": "Malm\u00f6 FF",
+  "wikidata_current_club_qid": "Q204881",
+  "photo": {
+    "filename": "Mattias Svanberg.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mattias_Svanberg.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mattias_Svanberg.jpg",
+    "width": 301,
+    "height": 644,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Skblole&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Skblole (page does not exist)\">Skblole</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mattias-svanberg.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "franck-kessié",
+  "display_name": "Franck Kessié",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-12-19",
+  "age": 29,
+  "caps": 102,
+  "goals": 15,
+  "club_from_squad_table": "Al-Ahli",
+  "wikipedia_title": "Franck Kessié",
+  "date_of_birth": "1996-12-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Ahli",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18044401",
+  "qid": "Q18044401",
+  "name": "Franck Kessié",
+  "description": "Ivorian association football player (born 1996)",
+  "place_of_birth_qid": "Q957555",
+  "citizenship_qids": [
+    "Q1008"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 76.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q6664",
+      "start": "2015-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q1897533",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2015-01-01",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q3589949",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q175145",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1543",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1543",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2022-07-04",
+      "end": "2023-08-09"
+    },
+    {
+      "team_qid": "Q44441",
+      "start": "2023-08-09",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q44441",
+  "image_filename": "Franck Yannick Kessié.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Franck_Kessi%C3%A9",
+  "transfermarkt_id": "294808",
+  "fifa_player_id": "371609",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Ivory Coast"
+  ],
+  "place_of_birth": "Ouragahio",
+  "wikidata_current_club": "Al Ahli FC",
+  "wikidata_current_club_qid": "Q44441",
+  "photo": {
+    "filename": "Franck Yannick Kessié.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Franck_Yannick_Kessi%C3%A9.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Franck_Yannick_Kessi%C3%A9.jpg/960px-Franck_Yannick_Kessi%C3%A9.jpg",
+    "width": 1181,
+    "height": 1772,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Angedidier29",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/franck-kessié.jpg"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

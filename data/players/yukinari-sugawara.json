@@ -1,0 +1,79 @@
+{
+  "slug": "yukinari-sugawara",
+  "display_name": "Yukinari Sugawara",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-06-28",
+  "age": 25,
+  "caps": 20,
+  "goals": 2,
+  "club_from_squad_table": "Werder Bremen",
+  "wikipedia_title": "Yukinari Sugawara",
+  "date_of_birth": "2000-06-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Werder Bremen",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q50073536",
+  "qid": "Q50073536",
+  "name": "Yukinari Sugawara",
+  "description": "Japanese association football player",
+  "place_of_birth_qid": "Q389495",
+  "citizenship_qids": [
+    "Q17"
+  ],
+  "height_cm": 1.79,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q249662",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q191264",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q170566",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q18732",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q249662",
+  "image_filename": "Yukinari Sugawara 2212024 (5).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yukinari_Sugawara",
+  "transfermarkt_id": "405385",
+  "fifa_player_id": "405528",
+  "uefa_player_id": "19383",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Japan"
+  ],
+  "place_of_birth": "Toyokawa",
+  "wikidata_current_club": "Nagoya Grampus",
+  "wikidata_current_club_qid": "Q249662",
+  "photo": {
+    "filename": "Yukinari Sugawara 2212024 (5).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Yukinari_Sugawara_2212024_%285%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Yukinari_Sugawara_2212024_%285%29.jpg/960px-Yukinari_Sugawara_2212024_%285%29.jpg",
+    "width": 2091,
+    "height": 3481,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/yukinari-sugawara.jpg"
+  },
+  "team_slug": "japan",
+  "team_country": "Japan"
+}

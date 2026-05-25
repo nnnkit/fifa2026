@@ -1,0 +1,77 @@
+{
+  "slug": "arda-güler",
+  "display_name": "Arda Güler",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2005-02-25",
+  "age": 21,
+  "caps": 28,
+  "goals": 6,
+  "club_from_squad_table": "Real Madrid",
+  "wikipedia_title": "Arda Güler",
+  "date_of_birth": "2005-02-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q108159340",
+  "qid": "Q108159340",
+  "name": "Αrda Güler",
+  "description": "Turkish association football player (born 2005)",
+  "place_of_birth_qid": "Q682981",
+  "citizenship_qids": [
+    "Q43"
+  ],
+  "height_cm": 176.0,
+  "position_qids": [
+    "Q90326494"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q6601875",
+      "start": "2021-00-00",
+      "end": "2023-07-00"
+    },
+    {
+      "team_qid": "Q3590479",
+      "start": "2021-09-00",
+      "end": "2022-03-00"
+    },
+    {
+      "team_qid": "Q483856",
+      "start": "2022-11-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2023-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8682",
+  "image_filename": "Derbide Fenerbahçe Yedek Oyuncu Arda Güler (2021-22 Süper Lig - Cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Arda_G%C3%BCler",
+  "transfermarkt_id": "861410",
+  "positions": [
+    "attacking midfielder"
+  ],
+  "citizenship": [
+    "Turkey"
+  ],
+  "place_of_birth": "Altındağ",
+  "wikidata_current_club": "Real Madrid Club de Fútbol",
+  "wikidata_current_club_qid": "Q8682",
+  "photo": {
+    "filename": "Derbide Fenerbahçe Yedek Oyuncu Arda Güler (2021-22 Süper Lig - Cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Derbide_Fenerbah%C3%A7e_Yedek_Oyuncu_Arda_G%C3%BCler_%282021-22_S%C3%BCper_Lig_-_Cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Derbide_Fenerbah%C3%A7e_Yedek_Oyuncu_Arda_G%C3%BCler_%282021-22_S%C3%BCper_Lig_-_Cropped%29.jpg",
+    "width": 302,
+    "height": 525,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "beIN SPORTS Türkiye",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/arda-güler.jpg"
+  },
+  "team_slug": "turkey",
+  "team_country": "Turkey"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "bamba-dieng",
+  "display_name": "Bamba Dieng",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-03-23",
+  "age": 26,
+  "caps": 21,
+  "goals": 2,
+  "club_from_squad_table": "Lorient",
+  "wikipedia_title": "Bamba Dieng",
+  "date_of_birth": "2000-03-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lorient",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q105426667",
+  "qid": "Q105426667",
+  "name": "Ahmadou Bamba Dieng",
+  "description": "Senegalese association football player",
+  "place_of_birth_qid": "Q1273644",
+  "citizenship_qids": [
+    "Q1041"
+  ],
+  "height_cm": 1.78,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q657883",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q132885",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q657883",
+  "image_filename": "Dieng asse sco 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bamba_Dieng",
+  "transfermarkt_id": "822458",
+  "wikidata_date_of_birth": "2000-09-01",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Senegal"
+  ],
+  "place_of_birth": "Pikine",
+  "wikidata_current_club": "Diambars FC",
+  "wikidata_current_club_qid": "Q657883",
+  "photo": {
+    "filename": "Dieng asse sco 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Dieng_asse_sco_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Dieng_asse_sco_2425.png",
+    "width": 526,
+    "height": 863,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/bamba-dieng.png"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

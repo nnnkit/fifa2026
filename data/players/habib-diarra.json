@@ -1,0 +1,54 @@
+{
+  "slug": "habib-diarra",
+  "display_name": "Habib Diarra",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2004-01-03",
+  "age": 22,
+  "caps": 19,
+  "goals": 4,
+  "club_from_squad_table": "Sunderland",
+  "wikipedia_title": "Habib Diarra",
+  "date_of_birth": "2004-01-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sunderland",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q108924143",
+  "qid": "Q108924143",
+  "name": "Habib Diarra",
+  "description": "Senegalese footballer (born 2004)",
+  "place_of_birth_qid": "Q1557691",
+  "citizenship_qids": [
+    "Q1041",
+    "Q142"
+  ],
+  "height_cm": 1.79,
+  "position_qids": [
+    "Q193592"
+  ],
+  "image_filename": "Diarra asse rcsa 2425.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Habib_Diarra",
+  "transfermarkt_id": "876631",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Senegal",
+    "France"
+  ],
+  "place_of_birth": "Gu\u00e9diawaye",
+  "photo": {
+    "filename": "Diarra asse rcsa 2425.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Diarra_asse_rcsa_2425.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Diarra_asse_rcsa_2425.jpg",
+    "width": 453,
+    "height": 465,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/habib-diarra.jpg"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

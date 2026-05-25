@@ -1,0 +1,98 @@
+{
+  "slug": "j\u00e9r\u00e9my-doku",
+  "display_name": "J\u00e9r\u00e9my Doku",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2002-05-27",
+  "age": 24,
+  "caps": 41,
+  "goals": 7,
+  "club_from_squad_table": "Manchester City",
+  "wikipedia_title": "J\u00e9r\u00e9my Doku",
+  "date_of_birth": "2002-05-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q59209505",
+  "qid": "Q59209505",
+  "name": "J\u00e9r\u00e9my Doku",
+  "description": "Belgian association football player (born 2002)",
+  "place_of_birth_qid": "Q12892",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 173.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q187528",
+      "start": "2019-07-01",
+      "end": "2020-10-04"
+    },
+    {
+      "team_qid": "Q166776",
+      "start": "2020-09-05",
+      "end": null
+    },
+    {
+      "team_qid": "Q19509",
+      "start": "2020-10-05",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q30743865",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q23674710",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q3589895",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    }
+  ],
+  "current_club_qid": "Q50602",
+  "image_filename": "J\u00e9r\u00e9my Doku USMNT v Belgium Mar 28 2026-27 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9my_Doku",
+  "transfermarkt_id": "486049",
+  "fifa_player_id": "201791158",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Antwerp",
+  "wikidata_current_club": "Manchester City F.C.",
+  "wikidata_current_club_qid": "Q50602",
+  "photo": {
+    "filename": "J\u00e9r\u00e9my Doku USMNT v Belgium Mar 28 2026-27 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/J%C3%A9r%C3%A9my_Doku_USMNT_v_Belgium_Mar_28_2026-27_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/J%C3%A9r%C3%A9my_Doku_USMNT_v_Belgium_Mar_28_2026-27_%28cropped%29.jpg/960px-J%C3%A9r%C3%A9my_Doku_USMNT_v_Belgium_Mar_28_2026-27_%28cropped%29.jpg",
+    "width": 2763,
+    "height": 3683,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/j\u00e9r\u00e9my-doku.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

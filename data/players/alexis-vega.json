@@ -1,0 +1,61 @@
+{
+  "slug": "alexis-vega",
+  "display_name": "Alexis Vega",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1997-11-25",
+  "age": 28,
+  "caps": 50,
+  "goals": 7,
+  "club_from_squad_table": "Toluca",
+  "wikipedia_title": "Alexis Vega (Mexican footballer)",
+  "wikidata_qid": "Q23799433",
+  "qid": "Q23799433",
+  "name": "Alexis Vega",
+  "description": "Mexican footballer",
+  "date_of_birth": "1997-11-25",
+  "place_of_birth_qid": "Q645293",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 1.73,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q164089",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q164089",
+  "image_filename": "Alexis Vega WC2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Vega_(Mexican_footballer)",
+  "transfermarkt_id": "424689",
+  "current_club": "Toluca",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Cuauhtémoc",
+  "wikidata_current_club": "Mexico men's national football team",
+  "wikidata_current_club_qid": "Q164089",
+  "photo": {
+    "filename": "Alexis Vega WC2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Alexis_Vega_WC2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Alexis_Vega_WC2022.jpg",
+    "width": 262,
+    "height": 394,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/alexis-vega.jpg"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

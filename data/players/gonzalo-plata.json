@@ -1,0 +1,69 @@
+{
+  "slug": "gonzalo-plata",
+  "display_name": "Gonzalo Plata",
+  "shirt_no": 19,
+  "position_code": "MF",
+  "dob": "2000-11-01",
+  "age": 25,
+  "caps": 49,
+  "goals": 8,
+  "club_from_squad_table": "Flamengo",
+  "wikipedia_title": "Gonzalo Plata",
+  "date_of_birth": "2000-11-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Flamengo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q60842120",
+  "qid": "Q60842120",
+  "name": "Gonzalo Plata",
+  "description": "Ecuadorian footballer",
+  "place_of_birth_qid": "Q43509",
+  "citizenship_qids": [
+    "Q736"
+  ],
+  "height_cm": 1.78,
+  "position_qids": [
+    "Q193592",
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q75729",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q249648",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q75729",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gonzalo_Plata",
+  "transfermarkt_id": "592735",
+  "positions": [
+    "midfielder",
+    "forward"
+  ],
+  "citizenship": [
+    "Ecuador"
+  ],
+  "place_of_birth": "Guayaquil",
+  "wikidata_current_club": "Sporting CP",
+  "wikidata_current_club_qid": "Q75729",
+  "image_filename": "2022_FIFA_World_Cup_Qatar_0\u20132_Ecuador_-_Plata.jpg",
+  "photo": {
+    "filename": "2022_FIFA_World_Cup_Qatar_0\u20132_Ecuador_-_Plata.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/2022_FIFA_World_Cup_Qatar_0%E2%80%932_Ecuador_-_Plata.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/2022_FIFA_World_Cup_Qatar_0%E2%80%932_Ecuador_-_Plata.jpg",
+    "width": 239,
+    "height": 272,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "\u062d\u0633\u06cc\u0646 \u0638\u0647\u0631\u0648\u0646\u062f",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/gonzalo-plata.jpg"
+  },
+  "team_slug": "ecuador",
+  "team_country": "Ecuador"
+}

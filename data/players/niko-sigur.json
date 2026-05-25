@@ -1,0 +1,37 @@
+{
+  "slug": "niko-sigur",
+  "display_name": "Niko Sigur",
+  "shirt_no": 23,
+  "position_code": "DF",
+  "dob": "2003-09-09",
+  "age": 22,
+  "caps": 17,
+  "goals": 2,
+  "club_from_squad_table": "Hajduk Split",
+  "wikipedia_title": "Niko Sigur",
+  "wikidata_qid": "Q117830854",
+  "qid": "Q117830854",
+  "name": "Niko Sigur",
+  "description": "croatian-Canadian soccer player (born 2003)",
+  "date_of_birth": "2003-09-09",
+  "place_of_birth_qid": "Q244025",
+  "citizenship_qids": [
+    "Q16"
+  ],
+  "height_cm": 180.0,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Niko_Sigur",
+  "transfermarkt_id": "1045375",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "citizenship": [
+    "Canada"
+  ],
+  "place_of_birth": "Burnaby",
+  "current_club": "Hajduk Split",
+  "current_club_source": "wikipedia-squad-table",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

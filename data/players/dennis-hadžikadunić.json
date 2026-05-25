@@ -1,0 +1,105 @@
+{
+  "slug": "dennis-hadžikadunić",
+  "display_name": "Dennis Hadžikadunić",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-07-09",
+  "age": 27,
+  "caps": 30,
+  "goals": 0,
+  "club_from_squad_table": "Sampdoria",
+  "wikipedia_title": "Dennis Hadžikadunić",
+  "wikidata_qid": "Q27654739",
+  "qid": "Q27654739",
+  "name": "Dennis Hadžikadunić",
+  "description": "Bosnian-Swedish association football player",
+  "date_of_birth": "1998-07-09",
+  "place_of_birth_qid": "Q2211",
+  "citizenship_qids": [
+    "Q34",
+    "Q225"
+  ],
+  "height_cm": 190.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q204881",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q2255267",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q182930",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q818624",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q204881",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q8835",
+      "start": "2023-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q51974",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q1457",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1457",
+  "image_filename": "Dennis Hadžikadunić 2021.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dennis_Had%C5%BEikaduni%C4%87",
+  "transfermarkt_id": "322065",
+  "fifa_player_id": "201541165",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sampdoria",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Sweden",
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Malmö",
+  "wikidata_current_club": "U.C. Sampdoria",
+  "wikidata_current_club_qid": "Q1457",
+  "photo": {
+    "filename": "Dennis Hadžikadunić 2021.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dennis_Had%C5%BEikaduni%C4%87_2021.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dennis_Had%C5%BEikaduni%C4%87_2021.jpg",
+    "width": 703,
+    "height": 829,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Артем Гусев",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/dennis-hadžikadunić.jpg"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

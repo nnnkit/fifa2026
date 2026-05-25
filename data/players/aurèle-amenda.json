@@ -1,0 +1,43 @@
+{
+  "slug": "aurèle-amenda",
+  "display_name": "Aurèle Amenda",
+  "shirt_no": 24,
+  "position_code": "DF",
+  "dob": "2003-07-31",
+  "age": 22,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "Eintracht Frankfurt",
+  "wikipedia_title": "Aurèle Amenda",
+  "date_of_birth": "2003-07-31",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Eintracht Frankfurt",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q111805882",
+  "qid": "Q111805882",
+  "name": "Aurèle Amenda",
+  "description": "Swiss association football player",
+  "place_of_birth_qid": "Q1034",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 1.94,
+  "position_qids": [
+    "Q336286"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aur%C3%A8le_Amenda",
+  "transfermarkt_id": "635645",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Biel/Bienne",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

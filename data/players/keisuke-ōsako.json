@@ -1,0 +1,67 @@
+{
+  "slug": "keisuke-\u014dsako",
+  "display_name": "Keisuke \u014csako",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1999-07-28",
+  "age": 26,
+  "caps": 11,
+  "goals": 0,
+  "club_from_squad_table": "Sanfrecce Hiroshima",
+  "wikipedia_title": "Keisuke \u014csako",
+  "date_of_birth": "1999-07-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sanfrecce Hiroshima",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q30925365",
+  "qid": "Q30925365",
+  "name": "Keisuke Osako",
+  "description": "Japanese association football player",
+  "place_of_birth_qid": "Q15734",
+  "citizenship_qids": [
+    "Q17"
+  ],
+  "height_cm": 187.0,
+  "weight_kg": 86.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q630279",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q170566",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q630279",
+  "image_filename": "Sanfrecce Hiroshima -1 Keisuke OSAKO.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Keisuke_%C5%8Csako",
+  "transfermarkt_id": "415521",
+  "uefa_player_id": "19248",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Japan"
+  ],
+  "place_of_birth": "Izumi",
+  "photo": {
+    "filename": "Sanfrecce Hiroshima -1 Keisuke OSAKO.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sanfrecce_Hiroshima_-1_Keisuke_OSAKO.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sanfrecce_Hiroshima_-1_Keisuke_OSAKO.jpg/960px-Sanfrecce_Hiroshima_-1_Keisuke_OSAKO.jpg",
+    "width": 2400,
+    "height": 3600,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "neko kabachi",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/keisuke-\u014dsako.jpg"
+  },
+  "team_slug": "japan",
+  "team_country": "Japan"
+}

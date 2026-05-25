@@ -1,0 +1,58 @@
+{
+  "slug": "moutaz-neffati",
+  "display_name": "Moutaz Neffati",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2004-09-04",
+  "age": 21,
+  "caps": 5,
+  "goals": 0,
+  "club_from_squad_table": "IFK Norrköping",
+  "wikipedia_title": "Moutaz Neffati",
+  "date_of_birth": "2004-09-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "IFK Norrköping",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q123436577",
+  "qid": "Q123436577",
+  "name": "Moutaz Neffati",
+  "description": "Swedish association football player",
+  "citizenship_qids": [
+    "Q948",
+    "Q34"
+  ],
+  "height_cm": 175.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q108001798",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q115578065",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q108001798",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Moutaz_Neffati",
+  "transfermarkt_id": "1034598",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Tunisia",
+    "Sweden"
+  ],
+  "wikidata_current_club": "IFK Norrköping FK",
+  "wikidata_current_club_qid": "Q108001798",
+  "team_slug": "tunisia",
+  "team_country": "Tunisia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "iliman-ndiaye",
+  "display_name": "Iliman Ndiaye",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-03-06",
+  "age": 26,
+  "caps": 38,
+  "goals": 4,
+  "club_from_squad_table": "Everton",
+  "wikipedia_title": "Iliman Ndiaye",
+  "date_of_birth": "2000-03-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Everton",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q105956269",
+  "qid": "Q105956269",
+  "name": "Iliman Ndiaye",
+  "description": "Senegalese footballer (born 2000)",
+  "place_of_birth_qid": "Q30974",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q207441",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q132885",
+      "start": "2023-08-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q132885",
+  "image_filename": "Iliman Ndiaye.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Iliman_Ndiaye",
+  "transfermarkt_id": "623570",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "Rouen",
+  "wikidata_current_club": "Olympique de Marseille",
+  "wikidata_current_club_qid": "Q132885",
+  "photo": {
+    "filename": "Iliman Ndiaye.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Iliman_Ndiaye.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Iliman_Ndiaye.png",
+    "width": 481,
+    "height": 677,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Irish Football Fan TV",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/iliman-ndiaye.png"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

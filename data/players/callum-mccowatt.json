@@ -1,0 +1,63 @@
+{
+  "slug": "callum-mccowatt",
+  "display_name": "Callum McCowatt",
+  "shirt_no": 20,
+  "position_code": "MF",
+  "dob": "1999-04-30",
+  "age": 27,
+  "caps": 30,
+  "goals": 4,
+  "club_from_squad_table": "Silkeborg",
+  "wikipedia_title": "Callum McCowatt",
+  "date_of_birth": "1999-04-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Silkeborg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q50829202",
+  "qid": "Q50829202",
+  "name": "Callum McCowatt",
+  "description": "New Zealand association football player",
+  "place_of_birth_qid": "Q37100",
+  "citizenship_qids": [
+    "Q664"
+  ],
+  "height_cm": 179.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q630544",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q630544",
+  "image_filename": "Callum McCowatt playing for New Zealand, 26 March 2023 (2) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Callum_McCowatt",
+  "transfermarkt_id": "400797",
+  "fifa_player_id": "390196",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "New Zealand"
+  ],
+  "place_of_birth": "Auckland",
+  "wikidata_current_club": "Auckland City FC",
+  "wikidata_current_club_qid": "Q630544",
+  "photo": {
+    "filename": "Callum McCowatt playing for New Zealand, 26 March 2023 (2) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Callum_McCowatt_playing_for_New_Zealand%2C_26_March_2023_%282%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Callum_McCowatt_playing_for_New_Zealand%2C_26_March_2023_%282%29_%28cropped%29.jpg/960px-Callum_McCowatt_playing_for_New_Zealand%2C_26_March_2023_%282%29_%28cropped%29.jpg",
+    "width": 1291,
+    "height": 1440,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/callum-mccowatt.jpg"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand"
+}

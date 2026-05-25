@@ -1,0 +1,77 @@
+{
+  "slug": "oh-hyeon-gyu",
+  "display_name": "Oh Hyeon-gyu",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-04-12",
+  "age": 25,
+  "caps": 26,
+  "goals": 6,
+  "club_from_squad_table": "Beşiktaş",
+  "wikipedia_title": "Oh Hyeon-gyu",
+  "wikidata_qid": "Q63344470",
+  "qid": "Q63344470",
+  "name": "Oh Hyeon-gyu",
+  "description": "South Korean footballer",
+  "date_of_birth": "2001-04-12",
+  "place_of_birth_qid": "Q42084",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q482449",
+      "start": "2019-00-00",
+      "end": "2023-01-00"
+    },
+    {
+      "team_qid": "Q19593",
+      "start": "2023-01-00",
+      "end": "2024-07-13"
+    },
+    {
+      "team_qid": "Q216032",
+      "start": "2024-07-14",
+      "end": "2026-02-04"
+    },
+    {
+      "team_qid": "Q172567",
+      "start": "2026-02-04",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q172567",
+  "image_filename": "오현규 2022년 카타르 월드컵.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Oh_Hyeon-gyu",
+  "transfermarkt_id": "639246",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Beşiktaş",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "Namyangju",
+  "wikidata_current_club": "Beşiktaş J.K.",
+  "wikidata_current_club_qid": "Q172567",
+  "photo": {
+    "filename": "오현규 2022년 카타르 월드컵.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/%EC%98%A4%ED%98%84%EA%B7%9C_2022%EB%85%84_%EC%B9%B4%ED%83%80%EB%A5%B4_%EC%9B%94%EB%93%9C%EC%BB%B5.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/%EC%98%A4%ED%98%84%EA%B7%9C_2022%EB%85%84_%EC%B9%B4%ED%83%80%EB%A5%B4_%EC%9B%94%EB%93%9C%EC%BB%B5.jpg",
+    "width": 235,
+    "height": 308,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://m.youtube.com/@osensports7666\">OSEN SPORTS</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/oh-hyeon-gyu.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

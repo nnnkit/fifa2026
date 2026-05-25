@@ -1,0 +1,33 @@
+{
+  "slug": "bradley-cross",
+  "display_name": "Bradley Cross",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-01-30",
+  "age": 25,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Kaizer Chiefs",
+  "wikipedia_title": "Bradley Cross (soccer)",
+  "wikidata_qid": "Q117790110",
+  "qid": "Q117790110",
+  "name": "Bradley Cross",
+  "description": "South African footballer",
+  "date_of_birth": "2001-01-30",
+  "citizenship_qids": [
+    "Q258"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bradley_Cross_(soccer)",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "citizenship": [
+    "South Africa"
+  ],
+  "current_club": "Kaizer Chiefs",
+  "current_club_source": "wikipedia-squad-table",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "south-africa",
+  "team_country": "South Africa"
+}

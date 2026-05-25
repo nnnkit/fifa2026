@@ -1,0 +1,122 @@
+{
+  "slug": "marcel-sabitzer",
+  "display_name": "Marcel Sabitzer",
+  "shirt_no": 9,
+  "position_code": "MF",
+  "dob": "1994-03-17",
+  "age": 32,
+  "caps": 97,
+  "goals": 25,
+  "club_from_squad_table": "Borussia Dortmund",
+  "wikipedia_title": "Marcel Sabitzer",
+  "date_of_birth": "1994-03-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Borussia Dortmund",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q472300",
+  "qid": "Q472300",
+  "name": "Marcel Sabitzer",
+  "description": "Austrian footballer",
+  "place_of_birth_qid": "Q178582",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 176.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q131215",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q698702",
+      "start": "2010-01-01",
+      "end": "2013-00-00"
+    },
+    {
+      "team_qid": "Q702455",
+      "start": "2014-05-30",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q994811",
+      "start": "2014-07-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q24175101",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q4825450",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q302954",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q302977",
+      "start": "2012-04-11",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q303033",
+      "start": "2012-09-07",
+      "end": "2013-00-00"
+    },
+    {
+      "team_qid": "Q163534",
+      "start": "2012-06-05",
+      "end": null
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2021-08-30",
+      "end": "2023-07-24"
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2023-02-01",
+      "end": "2023-06-30"
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2023-07-24",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q41420",
+  "image_filename": "Marcel Sabitzer 2020 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marcel_Sabitzer",
+  "transfermarkt_id": "106987",
+  "fifa_player_id": "358241",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Wels",
+  "photo": {
+    "filename": "Marcel Sabitzer 2020 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Marcel_Sabitzer_2020_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Marcel_Sabitzer_2020_%28cropped%29.jpg/960px-Marcel_Sabitzer_2020_%28cropped%29.jpg",
+    "width": 1907,
+    "height": 2616,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Pr\u00f6\u00dfdorf</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/marcel-sabitzer.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

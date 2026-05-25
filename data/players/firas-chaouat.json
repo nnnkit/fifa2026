@@ -1,0 +1,53 @@
+{
+  "slug": "firas-chaouat",
+  "display_name": "Firas Chaouat",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1996-05-08",
+  "age": 30,
+  "caps": 28,
+  "goals": 6,
+  "club_from_squad_table": "Club Africain",
+  "wikipedia_title": "Firas Chaouat",
+  "date_of_birth": "1996-05-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Club Africain",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q58815643",
+  "qid": "Q58815643",
+  "name": "Firas Chaouat",
+  "description": "Tunisian association football player",
+  "place_of_birth_qid": "Q46325",
+  "citizenship_qids": [
+    "Q948"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1024482",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1024482",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Firas_Chaouat",
+  "transfermarkt_id": "402087",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Tunisia"
+  ],
+  "place_of_birth": "Sfax",
+  "wikidata_current_club": "CS Sfaxien",
+  "wikidata_current_club_qid": "Q1024482",
+  "team_slug": "tunisia",
+  "team_country": "Tunisia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

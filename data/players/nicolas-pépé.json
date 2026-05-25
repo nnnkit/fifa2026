@@ -1,0 +1,103 @@
+{
+  "slug": "nicolas-pépé",
+  "display_name": "Nicolas Pépé",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1995-05-29",
+  "age": 31,
+  "caps": 54,
+  "goals": 12,
+  "club_from_squad_table": "Villarreal",
+  "wikipedia_title": "Nicolas Pépé",
+  "date_of_birth": "1995-05-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Villarreal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20641306",
+  "qid": "Q20641306",
+  "name": "Nicolas Pépé",
+  "description": "Ivorian-French footballer (born 1995)",
+  "place_of_birth_qid": "Q207253",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 68.0,
+  "position_qids": [
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q369349",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q3393891",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q845137",
+      "start": "2013-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q175145",
+      "start": "2016-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q19516",
+      "start": "2017-00-00",
+      "end": "2019-08-01"
+    },
+    {
+      "team_qid": "Q185163",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q192641",
+      "start": "2023-09-07",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q12297",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q12297",
+  "image_filename": "Nicolas Pepe LOSC (cropped2).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas_P%C3%A9p%C3%A9",
+  "transfermarkt_id": "343052",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "Mantes-la-Jolie",
+  "wikidata_current_club": "Villarreal CF",
+  "wikidata_current_club_qid": "Q12297",
+  "photo": {
+    "filename": "Nicolas Pepe LOSC (cropped2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Nicolas_Pepe_LOSC_%28cropped2%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Nicolas_Pepe_LOSC_%28cropped2%29.jpg/960px-Nicolas_Pepe_LOSC_%28cropped2%29.jpg",
+    "width": 1367,
+    "height": 1859,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bigmatbasket&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bigmatbasket (page does not exist)\">Bigmatbasket</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nicolas-pépé.jpg"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

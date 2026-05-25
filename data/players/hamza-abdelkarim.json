@@ -1,0 +1,48 @@
+{
+  "slug": "hamza-abdelkarim",
+  "display_name": "Hamza Abdelkarim",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2008-01-01",
+  "age": 18,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Barcelona B",
+  "wikipedia_title": "Hamza Abdelkarim",
+  "date_of_birth": "2008-01-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Barcelona B",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q134513932",
+  "qid": "Q134513932",
+  "name": "Hamza Abdelkarim",
+  "description": "Egyptian footballer",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hamza_Abdelkarim",
+  "transfermarkt_id": "1259085",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "team_slug": "egypt",
+  "team_country": "Egypt",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "wikidata_label_conflict": "Ahmed Magdy Ali",
+  "wikidata_description_conflict": "Egyptian footballer (born 2010)",
+  "wikidata_review": {
+    "status": "intended-item-with-bad-en-metadata",
+    "reviewed_at": "2026-05-24",
+    "note": "Q134513932 has the Hamza Abdelkarim sitelinks/IDs, but its English label/description are incorrect in Wikidata."
+  }
+}

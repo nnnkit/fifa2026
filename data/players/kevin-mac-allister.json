@@ -1,0 +1,67 @@
+{
+  "slug": "kevin-mac-allister",
+  "display_name": "Kevin Mac Allister",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-11-07",
+  "age": 28,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Union Saint-Gilloise",
+  "wikipedia_title": "Kevin Mac Allister",
+  "wikidata_qid": "Q26838763",
+  "qid": "Q26838763",
+  "name": "Kevin Mac Allister",
+  "description": "Argentine association football player",
+  "date_of_birth": "1997-11-07",
+  "place_of_birth_qid": "Q1486",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 1.75,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q220621",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q196160",
+      "start": "2023-07-12",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q196160",
+  "image_filename": "Go Ahead Eagles - Royale Union Saint-Gillloise - 53852891619 (Kevin Mac Allister).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Mac_Allister",
+  "transfermarkt_id": "428920",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Union Saint-Gilloise",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Buenos Aires",
+  "wikidata_current_club": "Royale Union Saint-Gilloise",
+  "wikidata_current_club_qid": "Q196160",
+  "photo": {
+    "filename": "Go Ahead Eagles - Royale Union Saint-Gillloise - 53852891619 (Kevin Mac Allister).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Go_Ahead_Eagles_-_Royale_Union_Saint-Gillloise_-_53852891619_%28Kevin_Mac_Allister%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Go_Ahead_Eagles_-_Royale_Union_Saint-Gillloise_-_53852891619_%28Kevin_Mac_Allister%29.jpg",
+    "width": 653,
+    "height": 997,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Carlo Bruil Fotografie",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kevin-mac-allister.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

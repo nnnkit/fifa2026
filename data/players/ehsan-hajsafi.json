@@ -1,0 +1,133 @@
+{
+  "slug": "ehsan-hajsafi",
+  "display_name": "Ehsan Hajsafi",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1990-02-25",
+  "age": 36,
+  "caps": 144,
+  "goals": 7,
+  "club_from_squad_table": "Sepahan",
+  "wikipedia_title": "Ehsan Hajsafi",
+  "date_of_birth": "1990-02-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sepahan",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q2762113",
+  "qid": "Q2762113",
+  "name": "Ehsan Hajsafi",
+  "description": "Iranian footballer",
+  "place_of_birth_qid": "Q240475",
+  "citizenship_qids": [
+    "Q794"
+  ],
+  "height_cm": 176.0,
+  "weight_kg": 74.0,
+  "position_qids": [
+    "Q336286",
+    "Q8025128",
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q31660",
+      "start": "2006-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q32358",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q157352",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q3589804",
+      "start": "2005-01-01",
+      "end": "2006-01-01"
+    },
+    {
+      "team_qid": "Q6587944",
+      "start": "2007-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q3277524",
+      "start": "2007-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q184602",
+      "start": "2008-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q31660",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q460494",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q19628",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q32358",
+      "start": "2018-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q31660",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q201584",
+      "start": "2021-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q31660",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q31660",
+  "image_filename": "Ehsan Hajsafi 2018.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ehsan_Hajsafi",
+  "transfermarkt_id": "77547",
+  "fifa_player_id": "288961",
+  "positions": [
+    "defender",
+    "wing half",
+    "full-back"
+  ],
+  "citizenship": [
+    "Iran"
+  ],
+  "place_of_birth": "Kashan",
+  "wikidata_current_club": "Sepahan F.C.",
+  "wikidata_current_club_qid": "Q31660",
+  "photo": {
+    "filename": "Ehsan Hajsafi 2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ehsan_Hajsafi_2018.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ehsan_Hajsafi_2018.jpg",
+    "width": 666,
+    "height": 1000,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u041a\u0438\u0440\u0438\u043b\u043b \u0412\u0435\u043d\u0435\u0434\u0438\u043a\u0442\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ehsan-hajsafi.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

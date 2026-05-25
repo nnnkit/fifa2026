@@ -1,0 +1,89 @@
+{
+  "slug": "thibaut-courtois",
+  "display_name": "Thibaut Courtois",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1992-05-11",
+  "age": 34,
+  "caps": 107,
+  "goals": 0,
+  "club_from_squad_table": "Real Madrid",
+  "wikipedia_title": "Thibaut Courtois",
+  "date_of_birth": "1992-05-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q73360",
+  "qid": "Q73360",
+  "name": "Thibaut Courtois",
+  "description": "Belgian association football player (born 1992)",
+  "place_of_birth_qid": "Q275863",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 200.0,
+  "weight_kg": 96.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q8701",
+      "start": "2011-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2011-00-00",
+      "end": "2018-08-00"
+    },
+    {
+      "team_qid": "Q166776",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q15224541",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2018-08-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q216032",
+      "start": "2009-00-00",
+      "end": "2011-06-30"
+    }
+  ],
+  "current_club_qid": "Q8682",
+  "image_filename": "Courtois 2018 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thibaut_Courtois",
+  "transfermarkt_id": "108390",
+  "fifa_player_id": "358106",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Bree",
+  "wikidata_current_club": "Real Madrid Club de F\u00fatbol",
+  "wikidata_current_club_qid": "Q8682",
+  "photo": {
+    "filename": "Courtois 2018 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Courtois_2018_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Courtois_2018_%28cropped%29.jpg",
+    "width": 455,
+    "height": 569,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u041a\u0438\u0440\u0438\u043b\u043b \u0412\u0435\u043d\u0435\u0434\u0438\u043a\u0442\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/thibaut-courtois.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

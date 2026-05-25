@@ -1,0 +1,114 @@
+{
+  "slug": "leandro-trossard",
+  "display_name": "Leandro Trossard",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1994-12-04",
+  "age": 31,
+  "caps": 50,
+  "goals": 11,
+  "club_from_squad_table": "Arsenal",
+  "wikipedia_title": "Leandro Trossard",
+  "date_of_birth": "1994-12-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Arsenal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q6509762",
+  "qid": "Q6509762",
+  "name": "Leandro Trossard",
+  "description": "Belgian association football player (born 1994)",
+  "place_of_birth_qid": "Q329633",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 172.0,
+  "weight_kg": 61.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q216032",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1668203",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q849544",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1668203",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q916199",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3589895",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q3589896",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q166776",
+      "start": "2020-09-05",
+      "end": null
+    },
+    {
+      "team_qid": "Q19453",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q9617",
+  "image_filename": "Leandro Trossard 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Leandro_Trossard",
+  "transfermarkt_id": "144028",
+  "fifa_player_id": "201048681",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Maasmechelen",
+  "wikidata_current_club": "Arsenal F.C.",
+  "wikidata_current_club_qid": "Q9617",
+  "photo": {
+    "filename": "Leandro Trossard 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Leandro_Trossard_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Leandro_Trossard_2022.jpg/960px-Leandro_Trossard_2022.jpg",
+    "width": 1766,
+    "height": 2842,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "jamesboyes",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/leandro-trossard.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

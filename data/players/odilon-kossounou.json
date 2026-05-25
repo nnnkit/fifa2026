@@ -1,0 +1,89 @@
+{
+  "slug": "odilon-kossounou",
+  "display_name": "Odilon Kossounou",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-01-04",
+  "age": 25,
+  "caps": 35,
+  "goals": 0,
+  "club_from_squad_table": "Atalanta",
+  "wikipedia_title": "Odilon Kossounou",
+  "date_of_birth": "2001-01-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atalanta",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64009388",
+  "qid": "Q64009388",
+  "name": "Odilon Kossounou",
+  "description": "Ivorian association football player",
+  "place_of_birth_qid": "Q1515",
+  "citizenship_qids": [
+    "Q1008"
+  ],
+  "height_cm": 191.0,
+  "position_qids": [
+    "Q268258",
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q460724",
+      "start": "2019-01-12",
+      "end": "2019-06-30"
+    },
+    {
+      "team_qid": "Q190916",
+      "start": "2019-07-01",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q175145",
+      "start": "2020-10-08",
+      "end": null
+    },
+    {
+      "team_qid": "Q104761",
+      "start": "2021-00-00",
+      "end": "2025-07-01"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2024-08-28",
+      "end": "2025-06-30"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2025-07-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1886",
+  "image_filename": "Odilon Kossounou, 2022-07-31, Saisoneröffnung Bayer 04, Leverkusen (1).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Odilon_Kossounou",
+  "transfermarkt_id": "644771",
+  "positions": [
+    "centre-back",
+    "defender"
+  ],
+  "citizenship": [
+    "Ivory Coast"
+  ],
+  "place_of_birth": "Abidjan",
+  "wikidata_current_club": "Atalanta BC",
+  "wikidata_current_club_qid": "Q1886",
+  "photo": {
+    "filename": "Odilon Kossounou, 2022-07-31, Saisoneröffnung Bayer 04, Leverkusen (1).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Odilon_Kossounou%2C_2022-07-31%2C_Saisoner%C3%B6ffnung_Bayer_04%2C_Leverkusen_%281%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Odilon_Kossounou%2C_2022-07-31%2C_Saisoner%C3%B6ffnung_Bayer_04%2C_Leverkusen_%281%29.jpg/960px-Odilon_Kossounou%2C_2022-07-31%2C_Saisoner%C3%B6ffnung_Bayer_04%2C_Leverkusen_%281%29.jpg",
+    "width": 3168,
+    "height": 4752,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Pyaet&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Pyaet (page does not exist)\">Pyaet</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/odilon-kossounou.jpg"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "amir-hadžiahmetović",
+  "display_name": "Amir Hadžiahmetović",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-03-08",
+  "age": 29,
+  "caps": 34,
+  "goals": 0,
+  "club_from_squad_table": "Hull City",
+  "wikipedia_title": "Amir Hadžiahmetović",
+  "wikidata_qid": "Q22833412",
+  "qid": "Q22833412",
+  "name": "Amir Hadžiahmetović",
+  "description": "association football player",
+  "date_of_birth": "1997-03-08",
+  "place_of_birth_qid": "Q643410",
+  "citizenship_qids": [
+    "Q225"
+  ],
+  "height_cm": 179.0,
+  "weight_kg": 71.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q219929",
+      "start": "2014-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q513840",
+      "start": "2016-01-01",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q430190",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q16836924",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q844509",
+      "start": "2014-01-01",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q769512",
+      "start": "2015-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q172567",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q272712",
+      "start": "2024-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q19477",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19477",
+  "image_filename": "Amir Hadžiahmetović playing for Beşiktaş (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amir_Had%C5%BEiahmetovi%C4%87",
+  "transfermarkt_id": "293213",
+  "fifa_player_id": "201388771",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Hull City",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Nexø",
+  "wikidata_current_club": "Hull City A.F.C.",
+  "wikidata_current_club_qid": "Q19477",
+  "photo": {
+    "filename": "Amir Hadžiahmetović playing for Beşiktaş (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Amir_Had%C5%BEiahmetovi%C4%87_playing_for_Be%C5%9Fikta%C5%9F_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Amir_Had%C5%BEiahmetovi%C4%87_playing_for_Be%C5%9Fikta%C5%9F_%28cropped%29.jpg/960px-Amir_Had%C5%BEiahmetovi%C4%87_playing_for_Be%C5%9Fikta%C5%9F_%28cropped%29.jpg",
+    "width": 1806,
+    "height": 1902,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Beşiktaş JK",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/amir-hadžiahmetović.jpg"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

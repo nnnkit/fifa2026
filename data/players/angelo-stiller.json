@@ -1,0 +1,80 @@
+{
+  "slug": "angelo-stiller",
+  "display_name": "Angelo Stiller",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2001-04-04",
+  "age": 25,
+  "caps": 7,
+  "goals": 0,
+  "club_from_squad_table": "VfB Stuttgart",
+  "wikipedia_title": "Angelo Stiller",
+  "date_of_birth": "2001-04-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "VfB Stuttgart",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q68676722",
+  "qid": "Q68676722",
+  "name": "Angelo Stiller",
+  "description": "German footballer",
+  "place_of_birth_qid": "Q1726",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 1.83,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q994701",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q22707",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q4512",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q43310",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q314851",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    }
+  ],
+  "current_club_qid": "Q4512",
+  "image_filename": "Angelo Stiller 2023.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Angelo_Stiller",
+  "transfermarkt_id": "443710",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Munich",
+  "photo": {
+    "filename": "Angelo Stiller 2023.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Angelo_Stiller_2023.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Angelo_Stiller_2023.jpg",
+    "width": 641,
+    "height": 800,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">Jeollo von VfB-exklusiv.de</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/angelo-stiller.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

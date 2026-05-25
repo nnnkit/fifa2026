@@ -1,0 +1,62 @@
+{
+  "slug": "mohanad-ali",
+  "display_name": "Mohanad Ali",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-06-20",
+  "age": 25,
+  "caps": 70,
+  "goals": 27,
+  "club_from_squad_table": "Dibba",
+  "wikipedia_title": "Mohanad Ali",
+  "date_of_birth": "2000-06-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Dibba",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q45935415",
+  "qid": "Q45935415",
+  "name": "Mohanad Ali",
+  "description": "Iraqi association football player",
+  "place_of_birth_qid": "Q1530",
+  "citizenship_qids": [
+    "Q796"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q4115917",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q4115917",
+  "image_filename": "Mohanad Ali.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohanad_Ali",
+  "transfermarkt_id": "589646",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Iraq"
+  ],
+  "place_of_birth": "Baghdad",
+  "wikidata_current_club": "Al-Kahraba",
+  "wikidata_current_club_qid": "Q4115917",
+  "photo": {
+    "filename": "Mohanad Ali.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mohanad_Ali.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mohanad_Ali.jpg",
+    "width": 410,
+    "height": 614,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Amir Ostovari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mohanad-ali.jpg"
+  },
+  "team_slug": "iraq",
+  "team_country": "Iraq"
+}

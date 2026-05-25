@@ -1,0 +1,87 @@
+{
+  "slug": "martin-boyle",
+  "display_name": "Martin Boyle",
+  "shirt_no": 6,
+  "position_code": "FW",
+  "dob": "1993-04-25",
+  "age": 33,
+  "caps": 41,
+  "goals": 10,
+  "club_from_squad_table": "Hibernian",
+  "wikipedia_title": "Martin Boyle",
+  "date_of_birth": "1993-04-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Hibernian",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q6775043",
+  "qid": "Q6775043",
+  "name": "Martin Boyle",
+  "description": "Australian association footballer (born 1993)",
+  "place_of_birth_qid": "Q36405",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 172.0,
+  "position_qids": [
+    "Q526301"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q192597",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q335483",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q473136",
+      "start": "2009-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q473136",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q7435696",
+      "start": "2007-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q268208",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q192597",
+  "image_filename": "4822273 AE7I7255 - Martin Boyle.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Boyle",
+  "transfermarkt_id": "140554",
+  "positions": [
+    "Utility player"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Aberdeen",
+  "wikidata_current_club": "Hibernian F.C.",
+  "wikidata_current_club_qid": "Q192597",
+  "photo": {
+    "filename": "4822273 AE7I7255 - Martin Boyle.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/4822273_AE7I7255_-_Martin_Boyle.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/4822273_AE7I7255_-_Martin_Boyle.jpg",
+    "width": 394,
+    "height": 442,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Foad Ashtari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/martin-boyle.jpg"
+  },
+  "team_slug": "australia",
+  "team_country": "Australia"
+}

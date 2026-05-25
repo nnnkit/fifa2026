@@ -1,0 +1,123 @@
+{
+  "slug": "haris-tabaković",
+  "display_name": "Haris Tabaković",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1994-06-20",
+  "age": 31,
+  "caps": 10,
+  "goals": 4,
+  "club_from_squad_table": "Borussia Mönchengladbach",
+  "wikipedia_title": "Haris Tabaković",
+  "wikidata_qid": "Q15257381",
+  "qid": "Q15257381",
+  "name": "Haris Tabaković",
+  "description": "Bosnian-Swiss association football player",
+  "date_of_birth": "1994-06-20",
+  "place_of_birth_qid": "Q68248",
+  "citizenship_qids": [
+    "Q39",
+    "Q225"
+  ],
+  "height_cm": 194.0,
+  "weight_kg": 90.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q201360",
+      "start": "2016-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q190526",
+      "start": "2012-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q187091",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q678582",
+      "start": "2013-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q4140019",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q205732",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q767400",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q696507",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q131209",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q102720",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q22707",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q101959",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q101959",
+  "image_filename": "FC RB Salzburg vs. FK Austria Wien (2023-04-09) 55.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Haris_Tabakovi%C4%87",
+  "transfermarkt_id": "203123",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Borussia Mönchengladbach",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Switzerland",
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Grenchen",
+  "photo": {
+    "filename": "FC RB Salzburg vs. FK Austria Wien (2023-04-09) 55.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/FC_RB_Salzburg_vs._FK_Austria_Wien_%282023-04-09%29_55.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/FC_RB_Salzburg_vs._FK_Austria_Wien_%282023-04-09%29_55.jpg/960px-FC_RB_Salzburg_vs._FK_Austria_Wien_%282023-04-09%29_55.jpg",
+    "width": 2195,
+    "height": 1964,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/haris-tabaković.jpg"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

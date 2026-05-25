@@ -1,0 +1,92 @@
+{
+  "slug": "miro-muheim",
+  "display_name": "Miro Muheim",
+  "shirt_no": 2,
+  "position_code": "DF",
+  "dob": "1998-03-24",
+  "age": 28,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "Hamburger SV",
+  "wikipedia_title": "Miro Muheim",
+  "date_of_birth": "1998-03-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Hamburger SV",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q49167084",
+  "qid": "Q49167084",
+  "name": "Miro Muheim",
+  "description": "association football player",
+  "place_of_birth_qid": "Q72",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q659212",
+      "start": "2018-01-31",
+      "end": null
+    },
+    {
+      "team_qid": "Q206692",
+      "start": "2017-02-02",
+      "end": "2017-06-30"
+    },
+    {
+      "team_qid": "Q2669653",
+      "start": "2014-07-01",
+      "end": "2018-01-31"
+    },
+    {
+      "team_qid": "Q7659182",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q650273",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q19019176",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q4140019",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q659212",
+  "image_filename": "2025-05-16 Hamburger SV Miro Muheim.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Miro_Muheim",
+  "transfermarkt_id": "298603",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Zurich",
+  "wikidata_current_club": "FC St. Gallen",
+  "wikidata_current_club_qid": "Q659212",
+  "photo": {
+    "filename": "2025-05-16 Hamburger SV Miro Muheim.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/2025-05-16_Hamburger_SV_Miro_Muheim.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2025-05-16_Hamburger_SV_Miro_Muheim.jpg/960px-2025-05-16_Hamburger_SV_Miro_Muheim.jpg",
+    "width": 4864,
+    "height": 3322,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lanthan2003&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lanthan2003 (page does not exist)\">Lanthan2003</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/miro-muheim.jpg"
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

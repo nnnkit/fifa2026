@@ -1,0 +1,103 @@
+{
+  "slug": "kim-min-jae",
+  "display_name": "Kim Min-jae",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-11-15",
+  "age": 29,
+  "caps": 77,
+  "goals": 4,
+  "club_from_squad_table": "Bayern Munich",
+  "wikipedia_title": "Kim Min-jae (footballer)",
+  "wikidata_qid": "Q28699707",
+  "qid": "Q28699707",
+  "name": "Kim Min-jae",
+  "description": "South Korean association football player (born 1996)",
+  "date_of_birth": "1996-11-15",
+  "place_of_birth_qid": "Q42152",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 86.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q483152",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q543842",
+      "start": "2017-08-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2641",
+      "start": "2022-07-27",
+      "end": "2023-07-18"
+    },
+    {
+      "team_qid": "Q6601875",
+      "start": "2021-08-16",
+      "end": "2022-07-27"
+    },
+    {
+      "team_qid": "Q814738",
+      "start": "2019-01-00",
+      "end": "2021-08-00"
+    },
+    {
+      "team_qid": "Q624792",
+      "start": "2016-00-00",
+      "end": "2016-12-00"
+    },
+    {
+      "team_qid": "Q488454",
+      "start": "2016-03-00",
+      "end": "2018-09-00"
+    },
+    {
+      "team_qid": "Q139818832",
+      "start": "2014-08-00",
+      "end": "2014-08-00"
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2023-07-18",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q15789",
+  "image_filename": "FC Red Bull Salzburg gegen Bayern München (2025-01-06 Testspiel) 26.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Min-jae_(footballer)",
+  "transfermarkt_id": "503482",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayern Munich",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "Tongyeong",
+  "wikidata_current_club": "FC Bayern Munich",
+  "wikidata_current_club_qid": "Q15789",
+  "photo": {
+    "filename": "FC Red Bull Salzburg gegen Bayern München (2025-01-06 Testspiel) 26.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_26.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_26.jpg/960px-FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_26.jpg",
+    "width": 2853,
+    "height": 3715,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kim-min-jae.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

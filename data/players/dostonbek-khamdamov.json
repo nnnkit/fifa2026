@@ -1,0 +1,88 @@
+{
+  "slug": "dostonbek-khamdamov",
+  "display_name": "Dostonbek Khamdamov",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1996-07-24",
+  "age": 29,
+  "caps": 33,
+  "goals": 5,
+  "club_from_squad_table": "Pakhtakor",
+  "wikipedia_title": "Dostonbek Khamdamov",
+  "date_of_birth": "1996-07-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Pakhtakor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20306806",
+  "qid": "Q20306806",
+  "name": "Dostonbek Khamdamov",
+  "description": "Uzbekistani association football player",
+  "place_of_birth_qid": "Q269",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q628763",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3329262",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q3328961",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q3328961",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q487321",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q19353",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q628763",
+  "image_filename": "Dostonbek Khamdamov 2018.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dostonbek_Khamdamov",
+  "transfermarkt_id": "294502",
+  "fifa_player_id": "371393",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Tashkent",
+  "wikidata_current_club": "F.C. Bunyodkor",
+  "wikidata_current_club_qid": "Q628763",
+  "photo": {
+    "filename": "Dostonbek Khamdamov 2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dostonbek_Khamdamov_2018.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dostonbek_Khamdamov_2018.jpg",
+    "width": 363,
+    "height": 559,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u041b\u0430\u0443\u0442",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/dostonbek-khamdamov.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

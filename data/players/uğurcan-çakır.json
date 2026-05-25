@@ -1,0 +1,89 @@
+{
+  "slug": "uğurcan-çakır",
+  "display_name": "Uğurcan Çakır",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1996-04-05",
+  "age": 30,
+  "caps": 38,
+  "goals": 0,
+  "club_from_squad_table": "Galatasaray",
+  "wikipedia_title": "Uğurcan Çakır",
+  "date_of_birth": "1996-04-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Galatasaray",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19610875",
+  "qid": "Q19610875",
+  "name": "Uğurcan Çakır",
+  "description": "Turkish association football player (born 1996)",
+  "place_of_birth_qid": "Q6487",
+  "citizenship_qids": [
+    "Q43"
+  ],
+  "height_cm": 1.91,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q189847",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q192641",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q7855167",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q7855168",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q192641",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q7855168",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q189847",
+  "image_filename": "Uğurcan Çakır at Antalyaspor vs Trabzonspor 20211211 (2) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/U%C4%9Furcan_%C3%87ak%C4%B1r",
+  "transfermarkt_id": "292199",
+  "fifa_player_id": "201343273",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Turkey"
+  ],
+  "place_of_birth": "Antalya",
+  "wikidata_current_club": "1461 Trabzon",
+  "wikidata_current_club_qid": "Q189847",
+  "photo": {
+    "filename": "Uğurcan Çakır at Antalyaspor vs Trabzonspor 20211211 (2) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/U%C4%9Furcan_%C3%87ak%C4%B1r_at_Antalyaspor_vs_Trabzonspor_20211211_%282%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/U%C4%9Furcan_%C3%87ak%C4%B1r_at_Antalyaspor_vs_Trabzonspor_20211211_%282%29_%28cropped%29.jpg/960px-U%C4%9Furcan_%C3%87ak%C4%B1r_at_Antalyaspor_vs_Trabzonspor_20211211_%282%29_%28cropped%29.jpg",
+    "width": 1093,
+    "height": 2330,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/194383345@N04\">Antalyaspor A.Ş.</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/uğurcan-çakır.jpg"
+  },
+  "team_slug": "turkey",
+  "team_country": "Turkey"
+}

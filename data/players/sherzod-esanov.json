@@ -1,0 +1,86 @@
+{
+  "slug": "sherzod-esanov",
+  "display_name": "Sherzod Esanov",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2003-02-01",
+  "age": 23,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Buxoro",
+  "wikipedia_title": "Sherzod Esanov",
+  "date_of_birth": "2003-02-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Buxoro",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q128133456",
+  "qid": "Q128133456",
+  "name": "Sherzod Esanov",
+  "description": "Uzbekistani footballer",
+  "place_of_birth_qid": "Q763015",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q125302749",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q1388791",
+      "start": "2022-01-00",
+      "end": "2024-07-00"
+    },
+    {
+      "team_qid": "Q111244851",
+      "start": "2023-07-00",
+      "end": "2023-12-00"
+    },
+    {
+      "team_qid": "Q65124755",
+      "start": "2024-07-00",
+      "end": "2025-07-00"
+    },
+    {
+      "team_qid": "Q772725",
+      "start": "2025-09-00",
+      "end": "2025-12-00"
+    },
+    {
+      "team_qid": "Q1263906",
+      "start": "2026-01-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1263906",
+  "image_filename": "Sherzod Esanov.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sherzod_Esanov",
+  "transfermarkt_id": "989068",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Navoiy",
+  "wikidata_current_club": "FK Buxoro",
+  "wikidata_current_club_qid": "Q1263906",
+  "photo": {
+    "filename": "Sherzod Esanov.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sherzod_Esanov.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sherzod_Esanov.jpg",
+    "width": 178,
+    "height": 233,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "NOC of Uzbekistan",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/sherzod-esanov.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

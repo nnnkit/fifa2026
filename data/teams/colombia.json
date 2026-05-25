@@ -1,0 +1,3959 @@
+{
+  "slug": "colombia",
+  "country": "Colombia",
+  "wikidata_qid": "Q212564",
+  "fetched_at": "2026-05-24T17:23:53+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 55,
+  "players": [
+    {
+      "slug": "david-ospina",
+      "display_name": "David Ospina",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1988-08-31",
+      "age": 37,
+      "caps": 129,
+      "goals": 0,
+      "club_from_squad_table": "Atl\u00e9tico Nacional",
+      "wikipedia_title": "David Ospina",
+      "date_of_birth": "1988-08-31",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atl\u00e9tico Nacional",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q436987",
+      "qid": "Q436987",
+      "name": "David Ospina",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q48278",
+      "citizenship_qids": [
+        "Q739",
+        "Q142"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 76.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q218282",
+          "start": "2008-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q332605",
+          "start": "2004-00-00",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2014-07-27",
+          "end": "2019-07-04"
+        },
+        {
+          "team_qid": "Q1641573",
+          "start": "2005-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q212564",
+          "start": "2007-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2641",
+          "start": "2018-08-17",
+          "end": "2019-05-30"
+        },
+        {
+          "team_qid": "Q2641",
+          "start": "2019-07-04",
+          "end": "2022-06-30"
+        },
+        {
+          "team_qid": "Q482764",
+          "start": "2022-07-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q332605",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q332605",
+      "image_filename": "Polic\u00eda de Infancia y Adolescencia - David Ospina (cropped).jpeg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Ospina",
+      "transfermarkt_id": "73396",
+      "fifa_player_id": "228686",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Colombia",
+        "France"
+      ],
+      "place_of_birth": "Medell\u00edn",
+      "photo": {
+        "filename": "Polic\u00eda de Infancia y Adolescencia - David Ospina (cropped).jpeg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Polic%C3%ADa_de_Infancia_y_Adolescencia_-_David_Ospina_%28cropped%29.jpeg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Polic%C3%ADa_de_Infancia_y_Adolescencia_-_David_Ospina_%28cropped%29.jpeg",
+        "width": 421,
+        "height": 635,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/60393599@N03\">Polic\u00eda Nacional de los colombianos</a> from Colombia",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/david-ospina.jpeg"
+      }
+    },
+    {
+      "slug": "camilo-vargas",
+      "display_name": "Camilo Vargas",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1989-03-09",
+      "age": 37,
+      "caps": 40,
+      "goals": 0,
+      "club_from_squad_table": "Atlas",
+      "wikipedia_title": "Camilo Vargas",
+      "date_of_birth": "1989-03-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlas",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q5026758",
+      "qid": "Q5026758",
+      "name": "Camilo Vargas",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q2841",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 81.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1424072",
+          "start": "2009-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q332605",
+          "start": "2015-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q220621",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1641573",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q212564",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1424072",
+          "start": "2007-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q220621",
+      "image_filename": "Camilo Vargas 2022.jpeg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Camilo_Vargas",
+      "transfermarkt_id": "74113",
+      "fifa_player_id": "360642",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Bogot\u00e1",
+      "wikidata_current_club": "Argentinos Juniors",
+      "wikidata_current_club_qid": "Q220621",
+      "photo": {
+        "filename": "Camilo Vargas 2022.jpeg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Camilo_Vargas_2022.jpeg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Camilo_Vargas_2022.jpeg/960px-Camilo_Vargas_2022.jpeg",
+        "width": 1017,
+        "height": 2208,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Jmmuguerza\" title=\"User:Jmmuguerza\">jmmuguerza</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/camilo-vargas.jpeg"
+      }
+    },
+    {
+      "slug": "\u00e1lvaro-montero",
+      "display_name": "\u00c1lvaro Montero",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1995-03-29",
+      "age": 31,
+      "caps": 11,
+      "goals": 0,
+      "club_from_squad_table": "V\u00e9lez Sarsfield",
+      "wikipedia_title": "\u00c1lvaro Montero (Colombian footballer)",
+      "date_of_birth": "1995-03-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "V\u00e9lez Sarsfield",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20645743",
+      "qid": "Q20645743",
+      "name": "\u00c1lvaro Montero",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q1574943",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 1.96,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q391984",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q391984",
+      "image_filename": "Alvaro Montero.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Montero_(Colombian_footballer)",
+      "transfermarkt_id": "292985",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "El Molino",
+      "wikidata_current_club": "Millonarios",
+      "wikidata_current_club_qid": "Q391984",
+      "photo": {
+        "filename": "Alvaro Montero.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Alvaro_Montero.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Alvaro_Montero.jpg/960px-Alvaro_Montero.jpg",
+        "width": 3864,
+        "height": 5152,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:F.edeeee1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:F.edeeee1 (page does not exist)\">F.edeeee1</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/\u00e1lvaro-montero.jpg"
+      }
+    },
+    {
+      "slug": "kevin-mier",
+      "display_name": "Kevin Mier",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2000-05-18",
+      "age": 26,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Cruz Azul",
+      "wikipedia_title": "Kevin Mier",
+      "date_of_birth": "2000-05-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cruz Azul",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60617604",
+      "qid": "Q60617604",
+      "name": "Kevin Mier",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q808830",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7911914",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q332605",
+          "start": "2019-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q845859",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1424072",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        }
+      ],
+      "current_club_qid": "Q845859",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Mier",
+      "transfermarkt_id": "491542",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Barrancabermeja",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "andr\u00e9s-mosquera",
+      "display_name": "Andr\u00e9s Mosquera",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1991-09-10",
+      "age": 34,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Independiente Santa Fe",
+      "wikipedia_title": "Andr\u00e9s Mosquera (footballer, born 1991)",
+      "date_of_birth": "1991-09-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Independiente Santa Fe",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q5675976",
+      "qid": "Q5675976",
+      "name": "Andr\u00e9s Mosquera Marmolejo",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q1946648",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q757418",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q8249127",
+          "start": "2007-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q391987",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2617893",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1641573",
+          "start": "2009-01-01",
+          "end": "2011-01-01"
+        }
+      ],
+      "current_club_qid": "Q757418",
+      "image_filename": "MosqueraMarmolejo.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Mosquera_(footballer,_born_1991)",
+      "transfermarkt_id": "100379",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Carepa",
+      "wikidata_current_club": "Atl\u00e9tico Bucaramanga",
+      "wikidata_current_club_qid": "Q757418",
+      "photo": {
+        "filename": "MosqueraMarmolejo.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/MosqueraMarmolejo.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/MosqueraMarmolejo.jpg/960px-MosqueraMarmolejo.jpg",
+        "width": 1080,
+        "height": 1059,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Eferes21&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Eferes21 (page does not exist)\">Eferes21</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/andr\u00e9s-mosquera.jpg"
+      }
+    },
+    {
+      "slug": "aldair-quintana",
+      "display_name": "Aldair Quintana",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1994-07-11",
+      "age": 31,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Independiente del Valle",
+      "wikipedia_title": "Aldair Quintana",
+      "date_of_birth": "1994-07-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Independiente del Valle",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26935570",
+      "qid": "Q26935570",
+      "name": "Aldair Quintana",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q222755",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 1.96,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q5260699",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q5260699",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aldair_Quintana",
+      "transfermarkt_id": "407168",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Ibagu\u00e9",
+      "wikidata_current_club": "Atl\u00e9tico de Cali",
+      "wikidata_current_club_qid": "Q5260699",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "davinson-s\u00e1nchez",
+      "display_name": "Davinson S\u00e1nchez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-06-12",
+      "age": 29,
+      "caps": 77,
+      "goals": 3,
+      "club_from_squad_table": "Galatasaray",
+      "wikipedia_title": "Davinson S\u00e1nchez",
+      "date_of_birth": "1996-06-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Galatasaray",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20737387",
+      "qid": "Q20737387",
+      "name": "D\u00e1vinson S\u00e1nchez",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q2420491",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q332605",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3589930",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1641573",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q16581702",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q212564",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q18741",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q332605",
+      "image_filename": "D\u00e1vinson S\u00e1nchez, POL vs COL; FWC 2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Davinson_S%C3%A1nchez",
+      "transfermarkt_id": "341429",
+      "fifa_player_id": "386013",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Caloto",
+      "wikidata_current_club": "Atl\u00e9tico Nacional",
+      "wikidata_current_club_qid": "Q332605",
+      "photo": {
+        "filename": "D\u00e1vinson S\u00e1nchez, POL vs COL; FWC 2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/D%C3%A1vinson_S%C3%A1nchez%2C_POL_vs_COL%3B_FWC_2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/D%C3%A1vinson_S%C3%A1nchez%2C_POL_vs_COL%3B_FWC_2018.jpg",
+        "width": 547,
+        "height": 731,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "\u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0441\u043f\u043e\u0440\u0442\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/davinson-s\u00e1nchez.jpg"
+      }
+    },
+    {
+      "slug": "santiago-arias",
+      "display_name": "Santiago Arias",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1992-01-13",
+      "age": 34,
+      "caps": 66,
+      "goals": 0,
+      "club_from_squad_table": "Independiente",
+      "wikipedia_title": "Santiago Arias",
+      "date_of_birth": "1992-01-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Independiente",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q2502118",
+      "qid": "Q2502118",
+      "name": "Santiago Arias",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q48278",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 175.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q75729",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q332668",
+          "start": "2009-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q3494112",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q11938",
+          "start": "2013-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q13534332",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3589930",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q1641573",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q212564",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q104761",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q8812",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q20855983",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q198032",
+          "start": "2024-00-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q214978",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q214978",
+      "image_filename": "Santiago Arias 2019.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Santiago_Arias",
+      "transfermarkt_id": "120443",
+      "fifa_player_id": "315614",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Medell\u00edn",
+      "wikidata_current_club": "Club Atl\u00e9tico Independiente",
+      "wikidata_current_club_qid": "Q214978",
+      "photo": {
+        "filename": "Santiago Arias 2019.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Santiago_Arias_2019.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Santiago_Arias_2019.jpg",
+        "width": 735,
+        "height": 1103,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u043d\u043d\u0430 \u041d\u044d\u0441\u0441\u0438",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/santiago-arias.jpg"
+      }
+    },
+    {
+      "slug": "yerry-mina",
+      "display_name": "Yerry Mina",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1994-09-23",
+      "age": 31,
+      "caps": 52,
+      "goals": 8,
+      "club_from_squad_table": "Cagliari",
+      "wikipedia_title": "Yerry Mina",
+      "date_of_birth": "1994-09-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cagliari",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16648816",
+      "qid": "Q16648816",
+      "name": "Yerry Mina",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q3091297",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 195.0,
+      "weight_kg": 94.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1424072",
+          "start": "2014-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q332858",
+          "start": "2013-01-01",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q80964",
+          "start": "2016-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q16581702",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2018-01-11",
+          "end": "2018-08-09"
+        },
+        {
+          "team_qid": "Q212564",
+          "start": "2016-06-04",
+          "end": null
+        },
+        {
+          "team_qid": "Q5794",
+          "start": "2018-08-09",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q2052",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q1900",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1900",
+      "image_filename": "FWC 2018 - Round of 16 - COL v ENG - Photo 103 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yerry_Mina",
+      "transfermarkt_id": "289446",
+      "fifa_player_id": "395552",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Guachen\u00e9",
+      "wikidata_current_club": "Cagliari Calcio",
+      "wikidata_current_club_qid": "Q1900",
+      "photo": {
+        "filename": "FWC 2018 - Round of 16 - COL v ENG - Photo 103 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_103_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_103_%28cropped%29.jpg",
+        "width": 663,
+        "height": 1068,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Voltmetro\" title=\"User:Voltmetro\">Oleg Bkhambri (Voltmetro)</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/yerry-mina.jpg"
+      }
+    },
+    {
+      "slug": "daniel-mu\u00f1oz",
+      "display_name": "Daniel Mu\u00f1oz",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-05-26",
+      "age": 30,
+      "caps": 44,
+      "goals": 3,
+      "club_from_squad_table": "Crystal Palace",
+      "wikipedia_title": "Daniel Mu\u00f1oz (footballer)",
+      "date_of_birth": "1996-05-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Crystal Palace",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q56703599",
+      "qid": "Q56703599",
+      "name": "Daniel Mu\u00f1oz",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q1441668",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q332833",
+          "start": "2019-07-01",
+          "end": "2020-06-30"
+        },
+        {
+          "team_qid": "Q216032",
+          "start": "2020-07-01",
+          "end": "2024-01-00"
+        },
+        {
+          "team_qid": "Q332605",
+          "start": "2019-07-00",
+          "end": "2020-06-00"
+        },
+        {
+          "team_qid": "Q19467",
+          "start": "2024-01-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q212564",
+          "start": "2021-06-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19467",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Daniel_Mu%C3%B1oz_(footballer)",
+      "transfermarkt_id": "493003",
+      "wikidata_date_of_birth": "1996-05-25",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Amalfi",
+      "wikidata_current_club": "Crystal Palace F.C.",
+      "wikidata_current_club_qid": "Q19467",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "johan-mojica",
+      "display_name": "Johan Mojica",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1992-08-21",
+      "age": 33,
+      "caps": 43,
+      "goals": 1,
+      "club_from_squad_table": "Mallorca",
+      "wikipedia_title": "Johan Mojica",
+      "date_of_birth": "1992-08-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mallorca",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q5932872",
+      "qid": "Q5932872",
+      "name": "Johan Mojica",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q51103",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q663400",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q10319",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q10300",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q4671072",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q6661327",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q10300",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q212564",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q10319",
+      "image_filename": "FWC 2018 - Round of 16 - COL v ENG - Photo 102 (cropped) 2.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johan_Mojica",
+      "transfermarkt_id": "262939",
+      "fifa_player_id": "394500",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Cali",
+      "wikidata_current_club": "Real Valladolid",
+      "wikidata_current_club_qid": "Q10319",
+      "photo": {
+        "filename": "FWC 2018 - Round of 16 - COL v ENG - Photo 102 (cropped) 2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_102_%28cropped%29_2.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_102_%28cropped%29_2.jpg",
+        "width": 545,
+        "height": 905,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Voltmetro\" title=\"User:Voltmetro\">Oleg Bkhambri (Voltmetro)</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/johan-mojica.jpg"
+      }
+    },
+    {
+      "slug": "jhon-lucum\u00ed",
+      "display_name": "Jhon Lucum\u00ed",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-06-26",
+      "age": 27,
+      "caps": 35,
+      "goals": 1,
+      "club_from_squad_table": "Bologna",
+      "wikipedia_title": "Jhon Lucum\u00ed",
+      "date_of_birth": "1998-06-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bologna",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21573188",
+      "qid": "Q21573188",
+      "name": "Jhon Lucum\u00ed",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q51103",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 187.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q663400",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q212564",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q663400",
+      "image_filename": "Jhon Lucum\u00ed September 2019.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jhon_Lucum%C3%AD",
+      "transfermarkt_id": "413565",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Cali",
+      "wikidata_current_club": "Deportivo Cali",
+      "wikidata_current_club_qid": "Q663400",
+      "photo": {
+        "filename": "Jhon Lucum\u00ed September 2019.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Jhon_Lucum%C3%AD_September_2019.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Jhon_Lucum%C3%AD_September_2019.jpg",
+        "width": 391,
+        "height": 521,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jhon-lucum\u00ed.jpg"
+      }
+    },
+    {
+      "slug": "carlos-cuesta",
+      "display_name": "Carlos Cuesta",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-03-09",
+      "age": 27,
+      "caps": 24,
+      "goals": 0,
+      "club_from_squad_table": "Vasco da Gama",
+      "wikipedia_title": "Carlos Cuesta (footballer)",
+      "date_of_birth": "1999-03-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Vasco da Gama",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26838147",
+      "qid": "Q26838147",
+      "name": "Carlos Cuesta",
+      "description": "association football player",
+      "place_of_birth_qid": "Q816420",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 1.78,
+      "weight_kg": 67.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q332605",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q216032",
+          "start": "2019-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q495299",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q212564",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q5014111",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q495299",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Cuesta_(footballer)",
+      "transfermarkt_id": "474589",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Quibd\u00f3",
+      "wikidata_current_club": "Galatasaray S.K.",
+      "wikidata_current_club_qid": "Q495299",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "deiver-machado",
+      "display_name": "Deiver Machado",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1993-09-02",
+      "age": 32,
+      "caps": 14,
+      "goals": 0,
+      "club_from_squad_table": "Nantes",
+      "wikipedia_title": "Deiver Machado",
+      "date_of_birth": "1993-09-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nantes",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19266811",
+      "qid": "Q19266811",
+      "name": "D\u00e9iver Machado",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q1524808",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 172.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q391984",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q18232",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q391984",
+      "image_filename": "Lens - Reims (12-05-2023) 33.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Deiver_Machado",
+      "transfermarkt_id": "332560",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Tad\u00f3",
+      "wikidata_current_club": "Millonarios",
+      "wikidata_current_club_qid": "Q391984",
+      "photo": {
+        "filename": "Lens - Reims (12-05-2023) 33.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lens_-_Reims_%2812-05-2023%29_33.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lens_-_Reims_%2812-05-2023%29_33.jpg/960px-Lens_-_Reims_%2812-05-2023%29_33.jpg",
+        "width": 2286,
+        "height": 2857,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterh\u00e9ninois (page does not exist)\">Supporterh\u00e9ninois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/deiver-machado.jpg"
+      }
+    },
+    {
+      "slug": "cristian-borja",
+      "display_name": "Cristian Borja",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1993-02-18",
+      "age": 33,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Am\u00e9rica",
+      "wikipedia_title": "Cristian Borja (footballer, born 1993)",
+      "date_of_birth": "1993-02-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Am\u00e9rica",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21710667",
+      "qid": "Q21710667",
+      "name": "Cristian Borja",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q51103",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 179.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q75729",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q212564",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q75729",
+      "image_filename": "Cristian Alexis Borja - beIN-Sports-Reklam (2021) (cropped).png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cristian_Borja_(footballer,_born_1993)",
+      "transfermarkt_id": "356099",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Cali",
+      "wikidata_current_club": "Sporting CP",
+      "wikidata_current_club_qid": "Q75729",
+      "photo": {
+        "filename": "Cristian Alexis Borja - beIN-Sports-Reklam (2021) (cropped).png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Cristian_Alexis_Borja_-_beIN-Sports-Reklam_%282021%29_%28cropped%29.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Cristian_Alexis_Borja_-_beIN-Sports-Reklam_%282021%29_%28cropped%29.png",
+        "width": 414,
+        "height": 566,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "beIN SPORTS T\u00fcrkiye",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/cristian-borja.png"
+      }
+    },
+    {
+      "slug": "yerson-mosquera",
+      "display_name": "Yerson Mosquera",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-05-02",
+      "age": 25,
+      "caps": 4,
+      "goals": 1,
+      "club_from_squad_table": "Wolverhampton Wanderers",
+      "wikipedia_title": "Yerson Mosquera",
+      "date_of_birth": "2001-05-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Wolverhampton Wanderers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q104834787",
+      "qid": "Q104834787",
+      "name": "Yerson",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q1093516",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 187.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q332605",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q332605",
+      "image_filename": "Yerson Mosquera.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yerson_Mosquera",
+      "transfermarkt_id": "716276",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Apartad\u00f3",
+      "wikidata_current_club": "Atl\u00e9tico Nacional",
+      "wikidata_current_club_qid": "Q332605",
+      "photo": {
+        "filename": "Yerson Mosquera.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Yerson_Mosquera.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Yerson_Mosquera.jpg/960px-Yerson_Mosquera.jpg",
+        "width": 1214,
+        "height": 1579,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Hayden Schiff",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/yerson-mosquera.jpg"
+      }
+    },
+    {
+      "slug": "\u00e1lvaro-angulo",
+      "display_name": "\u00c1lvaro Angulo",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-03-06",
+      "age": 28,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "UNAM",
+      "wikipedia_title": "\u00c1lvaro Angulo",
+      "date_of_birth": "1998-03-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "UNAM",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21573389",
+      "qid": "Q21573389",
+      "name": "\u00c1lvaro Angulo",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q1005555",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 173.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q332833",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q332833",
+      "image_filename": "Inter Miami CF 3-1 UNAM (6 August 2025) 23 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Angulo",
+      "transfermarkt_id": "366324",
+      "wikidata_date_of_birth": "1997-03-06",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Tumaco",
+      "wikidata_current_club": "Gold Eagles",
+      "wikidata_current_club_qid": "Q332833",
+      "photo": {
+        "filename": "Inter Miami CF 3-1 UNAM (6 August 2025) 23 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Inter_Miami_CF_3-1_UNAM_%286_August_2025%29_23_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Inter_Miami_CF_3-1_UNAM_%286_August_2025%29_23_%28cropped%29.jpg",
+        "width": 257,
+        "height": 377,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:TheSoccerBoy\" title=\"User:TheSoccerBoy\">TheSoccerBoy</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/\u00e1lvaro-angulo.jpg"
+      }
+    },
+    {
+      "slug": "juan-cabal",
+      "display_name": "Juan Cabal",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-01-08",
+      "age": 25,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Juventus",
+      "wikipedia_title": "Juan Cabal",
+      "date_of_birth": "2001-01-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Juventus",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q104820962",
+      "qid": "Q104820962",
+      "name": "Juan Cabal",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q51103",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 1.86,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q332605",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q332605",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Cabal",
+      "transfermarkt_id": "686965",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Cali",
+      "wikidata_current_club": "Atl\u00e9tico Nacional",
+      "wikidata_current_club_qid": "Q332605",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "willer-ditta",
+      "display_name": "Willer Ditta",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-01-23",
+      "age": 29,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Cruz Azul",
+      "wikipedia_title": "Willer Ditta",
+      "date_of_birth": "1997-01-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cruz Azul",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q79880395",
+      "qid": "Q79880395",
+      "name": "Willer Ditta",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q950053",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 180.0,
+      "teams": [
+        {
+          "team_qid": "Q332524",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q332524",
+      "image_filename": "Willer Ditta en Newell's Old Boys.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Willer_Ditta",
+      "transfermarkt_id": "609255",
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "La Jagua de Ibirico",
+      "wikidata_current_club": "Junior de Barranquilla",
+      "wikidata_current_club_qid": "Q332524",
+      "photo": {
+        "filename": "Willer Ditta en Newell's Old Boys.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Willer_Ditta_en_Newell%27s_Old_Boys.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Willer_Ditta_en_Newell%27s_Old_Boys.jpg",
+        "width": 681,
+        "height": 720,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCezBCgae0PUa3JS9uG0ah3Q\">Newell's Old Boys</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/willer-ditta.jpg"
+      }
+    },
+    {
+      "slug": "andr\u00e9s-rom\u00e1n",
+      "display_name": "Andr\u00e9s Rom\u00e1n",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1995-10-05",
+      "age": 30,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Atl\u00e9tico Nacional",
+      "wikipedia_title": "Andr\u00e9s Felipe Rom\u00e1n",
+      "date_of_birth": "1995-10-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atl\u00e9tico Nacional",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28343305",
+      "qid": "Q28343305",
+      "name": "Andr\u00e9s Rom\u00e1n",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q2841",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q170703",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q391984",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q170703",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Felipe_Rom%C3%A1n",
+      "transfermarkt_id": "552474",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Bogot\u00e1",
+      "wikidata_current_club": "Boca Juniors",
+      "wikidata_current_club_qid": "Q170703",
+      "image_filename": "Andr\u00e9s_roman_futbol.jpg",
+      "photo": {
+        "filename": "Andr\u00e9s_roman_futbol.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Andr%C3%A9s_roman_futbol.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Andr%C3%A9s_roman_futbol.jpg/960px-Andr%C3%A9s_roman_futbol.jpg",
+        "width": 1599,
+        "height": 1999,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andresroman06&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andresroman06 (page does not exist)\">Andresroman06</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/andr\u00e9s-rom\u00e1n.jpg"
+      }
+    },
+    {
+      "slug": "junior-hern\u00e1ndez",
+      "display_name": "Junior Hern\u00e1ndez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-04-05",
+      "age": 27,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Deportes Tolima",
+      "wikipedia_title": "Junior Hern\u00e1ndez",
+      "date_of_birth": "1999-04-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Deportes Tolima",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q66672672",
+      "qid": "Q66672672",
+      "name": "Junior Hern\u00e1ndez",
+      "description": "Colombian footballer",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 172.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "current_club_qid": "Q332532",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Junior_Hern%C3%A1ndez",
+      "transfermarkt_id": "746579",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Orito",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "\u00e9dier-ocampo",
+      "display_name": "\u00c9dier Ocampo",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-03-10",
+      "age": 23,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Vancouver Whitecaps FC",
+      "wikipedia_title": "\u00c9dier Ocampo",
+      "date_of_birth": "2003-03-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Vancouver Whitecaps FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q118207303",
+      "qid": "Q118207303",
+      "name": "\u00c9dier Ocampo",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q1005555",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 173.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89dier_Ocampo",
+      "transfermarkt_id": "958473",
+      "wikidata_date_of_birth": "2003-10-03",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Tumaco",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jhohan-roma\u00f1a",
+      "display_name": "Jhohan Roma\u00f1a",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-09-13",
+      "age": 27,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "San Lorenzo",
+      "wikipedia_title": "Jhohan Roma\u00f1a",
+      "date_of_birth": "1998-09-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "San Lorenzo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q25408440",
+      "qid": "Q25408440",
+      "name": "Jhohan Roma\u00f1a",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q1093516",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q332527",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q605044",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q60643348",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q15799",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q60643348",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jhohan_Roma%C3%B1a",
+      "transfermarkt_id": "741963",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Apartad\u00f3",
+      "wikidata_current_club": "Austin FC",
+      "wikidata_current_club_qid": "Q60643348",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "james-rodr\u00edguez",
+      "display_name": "James Rodr\u00edguez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1991-07-12",
+      "age": 34,
+      "caps": 124,
+      "goals": 31,
+      "club_from_squad_table": "Minnesota United FC",
+      "wikipedia_title": "James Rodr\u00edguez",
+      "date_of_birth": "1991-07-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Minnesota United FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q368441",
+      "qid": "Q368441",
+      "name": "James Rodr\u00edguez",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q216847",
+      "citizenship_qids": [
+        "Q739",
+        "Q29"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q8025128",
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q128446",
+          "start": "2010-00-00",
+          "end": "2013-07-01"
+        },
+        {
+          "team_qid": "Q212564",
+          "start": "2011-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q180305",
+          "start": "2013-07-01",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q332636",
+          "start": "2006-00-00",
+          "end": "2008-00-00"
+        },
+        {
+          "team_qid": "Q692646",
+          "start": "2008-00-00",
+          "end": "2010-00-00"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2014-01-01",
+          "end": "2020-09-00"
+        },
+        {
+          "team_qid": "Q3589930",
+          "start": "2007-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q1641573",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2017-07-00",
+          "end": "2019-06-00"
+        },
+        {
+          "team_qid": "Q5794",
+          "start": "2020-09-00",
+          "end": "2021-09-00"
+        },
+        {
+          "team_qid": "Q311268",
+          "start": "2021-09-00",
+          "end": "2022-09-00"
+        },
+        {
+          "team_qid": "Q19628",
+          "start": "2022-09-00",
+          "end": "2023-04-00"
+        },
+        {
+          "team_qid": "Q38568",
+          "start": "2023-07-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q10300",
+          "start": "2024-08-00",
+          "end": "2025-01-00"
+        },
+        {
+          "team_qid": "Q633223",
+          "start": "2025-01-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q19828435",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19828435",
+      "image_filename": "James al natural - Series, 02.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/James_Rodr%C3%ADguez",
+      "transfermarkt_id": "88103",
+      "fifa_player_id": "269058",
+      "positions": [
+        "wing half",
+        "forward"
+      ],
+      "citizenship": [
+        "Colombia",
+        "Spain"
+      ],
+      "place_of_birth": "C\u00facuta",
+      "photo": {
+        "filename": "James al natural - Series, 02.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/James_al_natural_-_Series%2C_02.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/James_al_natural_-_Series%2C_02.jpg",
+        "width": 640,
+        "height": 810,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Canal 10 Gold",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/james-rodr\u00edguez.jpg"
+      }
+    },
+    {
+      "slug": "juan-cuadrado",
+      "display_name": "Juan Cuadrado",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1988-05-26",
+      "age": 38,
+      "caps": 116,
+      "goals": 11,
+      "club_from_squad_table": "Pisa",
+      "wikipedia_title": "Juan Cuadrado",
+      "date_of_birth": "1988-05-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Pisa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q509374",
+      "qid": "Q509374",
+      "name": "Juan Cuadrado",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q976938",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 71.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2798",
+          "start": "2009-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q2052",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q332527",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q13391",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q212564",
+          "start": "2010-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2015-08-25",
+          "end": "2017-06-30"
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2017-07-00",
+          "end": "2023-06-30"
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2023-07-19",
+          "end": "2024-06-30"
+        },
+        {
+          "team_qid": "Q1886",
+          "start": "2024-08-26",
+          "end": "2025-07-01"
+        },
+        {
+          "team_qid": "Q289613",
+          "start": "2025-08-06",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q289613",
+      "image_filename": "Juan Cuadrado 2019 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Cuadrado",
+      "transfermarkt_id": "91970",
+      "fifa_player_id": "309714",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Necocl\u00ed",
+      "wikidata_current_club": "Pisa SC",
+      "wikidata_current_club_qid": "Q289613",
+      "photo": {
+        "filename": "Juan Cuadrado 2019 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Juan_Cuadrado_2019_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Juan_Cuadrado_2019_%28cropped%29.jpg",
+        "width": 254,
+        "height": 381,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/juan-cuadrado.jpg"
+      }
+    },
+    {
+      "slug": "jefferson-lerma",
+      "display_name": "Jefferson Lerma",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-10-25",
+      "age": 31,
+      "caps": 64,
+      "goals": 5,
+      "club_from_squad_table": "Crystal Palace",
+      "wikipedia_title": "Jefferson Lerma",
+      "date_of_birth": "1994-10-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Crystal Palace",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16300824",
+      "qid": "Q16300824",
+      "name": "Jefferson Lerma",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q1093505",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 179.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8823",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q332661",
+          "start": "2013-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q19568",
+          "start": "2018-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q212564",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q8823",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q19467",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19467",
+      "image_filename": "Jefferson Lerma 2018.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jefferson_Lerma",
+      "transfermarkt_id": "262980",
+      "fifa_player_id": "395550",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "El Cerrito",
+      "wikidata_current_club": "Crystal Palace F.C.",
+      "wikidata_current_club_qid": "Q19467",
+      "photo": {
+        "filename": "Jefferson Lerma 2018.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jefferson_Lerma_2018.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jefferson_Lerma_2018.png",
+        "width": 519,
+        "height": 717,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "AFC Bournemouth",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jefferson-lerma.png"
+      }
+    },
+    {
+      "slug": "wilmar-barrios",
+      "display_name": "Wilmar Barrios",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1993-10-16",
+      "age": 32,
+      "caps": 55,
+      "goals": 1,
+      "club_from_squad_table": "Zenit Saint Petersburg",
+      "wikipedia_title": "Wilmar Barrios",
+      "date_of_birth": "1993-10-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Zenit Saint Petersburg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19661792",
+      "qid": "Q19661792",
+      "name": "Wilmar Barrios",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q657461",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q332532",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q16581702",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q212564",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q332532",
+      "image_filename": "W\u00edlmar Barrios.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wilmar_Barrios",
+      "transfermarkt_id": "257668",
+      "fifa_player_id": "394377",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Cartagena",
+      "wikidata_current_club": "Deportes Tolima",
+      "wikidata_current_club_qid": "Q332532",
+      "photo": {
+        "filename": "W\u00edlmar Barrios.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/W%C3%ADlmar_Barrios.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/W%C3%ADlmar_Barrios.jpg",
+        "width": 396,
+        "height": 431,
+        "license": "CC BY 3.0 br",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+        "attribution": "Rovena Rosa/Ag\u00eancia Brasil",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/wilmar-barrios.jpg"
+      }
+    },
+    {
+      "slug": "juan-fernando-quintero",
+      "display_name": "Juan Fernando Quintero",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1993-01-18",
+      "age": 33,
+      "caps": 47,
+      "goals": 6,
+      "club_from_squad_table": "River Plate",
+      "wikipedia_title": "Juan Fernando Quintero",
+      "date_of_birth": "1993-01-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "River Plate",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q2092409",
+      "qid": "Q2092409",
+      "name": "Juan Fernando Quintero",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q62823",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 169.0,
+      "weight_kg": 64.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q128446",
+          "start": "2013-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q332636",
+          "start": "2009-00-00",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q2710",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q19509",
+          "start": "2015-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q212564",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1641573",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q16581702",
+          "start": "2016-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q332605",
+          "start": "2011-00-00",
+          "end": "2012-00-00"
+        },
+        {
+          "team_qid": "Q332524",
+          "start": "2023-01-00",
+          "end": "2023-08-00"
+        },
+        {
+          "team_qid": "Q15799",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1139956",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q276533",
+          "start": "2023-08-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q332527",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q15799",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q15799",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q15799",
+          "start": "2025-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q391987",
+          "start": "2025-01-00",
+          "end": "2025-07-00"
+        }
+      ],
+      "current_club_qid": "Q15799",
+      "image_filename": "Juan Quintero (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Fernando_Quintero",
+      "transfermarkt_id": "122582",
+      "fifa_player_id": "356704",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Barranquilla",
+      "wikidata_current_club": "Club Atl\u00e9tico River Plate",
+      "wikidata_current_club_qid": "Q15799",
+      "photo": {
+        "filename": "Juan Quintero (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Juan_Quintero_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Juan_Quintero_%28cropped%29.jpg",
+        "width": 600,
+        "height": 800,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:RamosFils2Ch%C3%A8vre&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:RamosFils2Ch\u00e8vre (page does not exist)\">RamosFils2Ch\u00e8vre</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/juan-fernando-quintero.jpg"
+      }
+    },
+    {
+      "slug": "jhon-arias",
+      "display_name": "Jhon Arias",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-09-21",
+      "age": 28,
+      "caps": 36,
+      "goals": 4,
+      "club_from_squad_table": "Palmeiras",
+      "wikipedia_title": "Jhon Arias (footballer)",
+      "date_of_birth": "1997-09-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Palmeiras",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q65378670",
+      "qid": "Q65378670",
+      "name": "Jhon Arias",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q816420",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 168.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q6661327",
+          "start": "2018-01-00",
+          "end": "2018-12-00"
+        },
+        {
+          "team_qid": "Q391600",
+          "start": "2017-04-00",
+          "end": "2020-03-00"
+        },
+        {
+          "team_qid": "Q391987",
+          "start": "2020-03-00",
+          "end": "2020-12-00"
+        },
+        {
+          "team_qid": "Q1424072",
+          "start": "2021-01-00",
+          "end": "2021-08-00"
+        },
+        {
+          "team_qid": "Q80987",
+          "start": "2021-08-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q212564",
+          "start": "2022-06-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2025-00-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q80964",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q80964",
+      "image_filename": "Jhon Arias.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jhon_Arias_(footballer)",
+      "transfermarkt_id": "588989",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Quibd\u00f3",
+      "wikidata_current_club": "Sociedade Esportiva Palmeiras",
+      "wikidata_current_club_qid": "Q80964",
+      "photo": {
+        "filename": "Jhon Arias.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Jhon_Arias.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Jhon_Arias.jpg",
+        "width": 888,
+        "height": 2222,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:F.edeeee1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:F.edeeee1 (page does not exist)\">F.edeeee1</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jhon-arias.jpg"
+      }
+    },
+    {
+      "slug": "richard-r\u00edos",
+      "display_name": "Richard R\u00edos",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-06-02",
+      "age": 26,
+      "caps": 30,
+      "goals": 2,
+      "club_from_squad_table": "Benfica",
+      "wikipedia_title": "Richard R\u00edos",
+      "date_of_birth": "2000-06-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Benfica",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117322318",
+      "qid": "Q117322318",
+      "name": "Richard R\u00edos",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q1576012",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 187.0,
+      "position_qids": [
+        "Q6008848"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q131499",
+          "start": "2025-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q17479",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q96045907",
+          "start": "2021-07-00",
+          "end": "2022-06-00"
+        },
+        {
+          "team_qid": "Q1133475",
+          "start": "2022-08-00",
+          "end": "2023-03-00"
+        },
+        {
+          "team_qid": "Q212564",
+          "start": "2023-10-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q80964",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        }
+      ],
+      "current_club_qid": "Q131499",
+      "image_filename": "Richard-Rios-Palmeiras-Liverpool-abr24.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_R%C3%ADos",
+      "transfermarkt_id": "735573",
+      "positions": [
+        "central midfielder"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Vegachi",
+      "wikidata_current_club": "S.L. Benfica",
+      "wikidata_current_club_qid": "Q131499",
+      "photo": {
+        "filename": "Richard-Rios-Palmeiras-Liverpool-abr24.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Richard-Rios-Palmeiras-Liverpool-abr24.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Richard-Rios-Palmeiras-Liverpool-abr24.jpg/960px-Richard-Rios-Palmeiras-Liverpool-abr24.jpg",
+        "width": 2391,
+        "height": 3190,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:NullReason\" title=\"User:NullReason\">NullReason</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/richard-r\u00edos.jpg"
+      }
+    },
+    {
+      "slug": "kevin-casta\u00f1o",
+      "display_name": "Kevin Casta\u00f1o",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-09-29",
+      "age": 25,
+      "caps": 24,
+      "goals": 0,
+      "club_from_squad_table": "River Plate",
+      "wikipedia_title": "Kevin Casta\u00f1o",
+      "date_of_birth": "2000-09-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "River Plate",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117289166",
+      "qid": "Q117289166",
+      "name": "Kevin Casta\u00f1o",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q1527934",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q220854",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q220854",
+      "image_filename": "Kevin con Krasnodar en 2023.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Casta%C3%B1o",
+      "transfermarkt_id": "857948",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Itag\u00fc\u00ed",
+      "wikidata_current_club": "FC Krasnodar",
+      "wikidata_current_club_qid": "Q220854",
+      "photo": {
+        "filename": "Kevin con Krasnodar en 2023.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Kevin_con_Krasnodar_en_2023.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Kevin_con_Krasnodar_en_2023.jpg",
+        "width": 948,
+        "height": 1079,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sofiahgarizao&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sofiahgarizao (page does not exist)\">Sofiahgarizao</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kevin-casta\u00f1o.jpg"
+      }
+    },
+    {
+      "slug": "jorge-carrascal",
+      "display_name": "Jorge Carrascal",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-05-25",
+      "age": 28,
+      "caps": 22,
+      "goals": 2,
+      "club_from_squad_table": "Flamengo",
+      "wikipedia_title": "Jorge Carrascal",
+      "date_of_birth": "1998-05-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Flamengo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19362872",
+      "qid": "Q19362872",
+      "name": "Jorge Carrascal",
+      "description": "Colombian football player",
+      "place_of_birth_qid": "Q657461",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q950835",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q223360",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q10329",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q15799",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q176371",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q17497",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q950835",
+      "image_filename": "Jorge Carrascal in 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jorge_Carrascal",
+      "transfermarkt_id": "354145",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Cartagena",
+      "wikidata_current_club": "Sevilla Atl\u00e9tico",
+      "wikidata_current_club_qid": "Q950835",
+      "photo": {
+        "filename": "Jorge Carrascal in 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jorge_Carrascal_in_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jorge_Carrascal_in_2022.jpg",
+        "width": 624,
+        "height": 974,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jorge-carrascal.jpg"
+      }
+    },
+    {
+      "slug": "y\u00e1ser-asprilla",
+      "display_name": "Y\u00e1ser Asprilla",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-11-19",
+      "age": 22,
+      "caps": 11,
+      "goals": 2,
+      "club_from_squad_table": "Galatasaray",
+      "wikipedia_title": "Y\u00e1ser Asprilla",
+      "date_of_birth": "2003-11-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Galatasaray",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q108922253",
+      "qid": "Q108922253",
+      "name": "Y\u00e1ser Asprilla",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q1525766",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 1.86,
+      "position_qids": [
+        "Q193592"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Y%C3%A1ser_Asprilla",
+      "transfermarkt_id": "857818",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Bajo Baud\u00f3",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jaminton-campaz",
+      "display_name": "Jaminton Campaz",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-05-24",
+      "age": 26,
+      "caps": 9,
+      "goals": 1,
+      "club_from_squad_table": "Rosario Central",
+      "wikipedia_title": "Jaminton Campaz",
+      "date_of_birth": "2000-05-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rosario Central",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30050934",
+      "qid": "Q30050934",
+      "name": "Jaminton Campaz",
+      "description": "Colombian soccer player",
+      "place_of_birth_qid": "Q1005555",
+      "citizenship_qids": [
+        "Q717"
+      ],
+      "height_cm": 165.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q221695",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q221695",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jaminton_Campaz",
+      "transfermarkt_id": "491553",
+      "fifa_player_id": "405755",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Venezuela"
+      ],
+      "place_of_birth": "Tumaco",
+      "wikidata_current_club": "Gr\u00eamio FBPA",
+      "wikidata_current_club_qid": "Q221695",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "juan-portilla",
+      "display_name": "Juan Portilla",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-09-12",
+      "age": 27,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Athletico Paranaense",
+      "wikipedia_title": "Juan Portilla",
+      "date_of_birth": "1998-09-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Athletico Paranaense",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q118593930",
+      "qid": "Q118593930",
+      "name": "Juan Portilla",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q51103",
+      "height_cm": 185.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Portilla",
+      "transfermarkt_id": "585747",
+      "place_of_birth": "Cali",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "gustavo-puerta",
+      "display_name": "Gustavo Puerta",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-07-26",
+      "age": 22,
+      "caps": 4,
+      "goals": 1,
+      "club_from_squad_table": "Racing Santander",
+      "wikipedia_title": "Gustavo Puerta",
+      "date_of_birth": "2003-07-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Racing Santander",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q116447721",
+      "qid": "Q116447721",
+      "name": "Gustavo Puerta",
+      "description": "Colombian footballer (born 2003)",
+      "place_of_birth_qid": "Q1526230",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 172.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q104761",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q12236",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q104761",
+      "image_filename": "Gustavo Puerta 2023.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gustavo_Puerta",
+      "transfermarkt_id": "936981",
+      "wikidata_date_of_birth": "2003-07-23",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "La Victoria",
+      "wikidata_current_club": "Bayer 04 Leverkusen",
+      "wikidata_current_club_qid": "Q104761",
+      "photo": {
+        "filename": "Gustavo Puerta 2023.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Gustavo_Puerta_2023.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Gustavo_Puerta_2023.jpg",
+        "width": 502,
+        "height": 891,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Jyon\" title=\"User:Jyon\">Jhonny Penilla</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/gustavo-puerta.jpg"
+      }
+    },
+    {
+      "slug": "sebasti\u00e1n-g\u00f3mez",
+      "display_name": "Sebasti\u00e1n G\u00f3mez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-06-03",
+      "age": 30,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Coritiba",
+      "wikipedia_title": "Sebasti\u00e1n G\u00f3mez (Colombian footballer)",
+      "date_of_birth": "1996-06-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Coritiba",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q59784614",
+      "qid": "Q59784614",
+      "name": "Sebasti\u00e1n G\u00f3mez",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q774725",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 172.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2539776",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q332605",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q332605",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_G%C3%B3mez_(Colombian_footballer)",
+      "transfermarkt_id": "570522",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Girardota",
+      "wikidata_current_club": "Atl\u00e9tico Nacional",
+      "wikidata_current_club_qid": "Q332605",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jordan-barrera",
+      "display_name": "Jordan Barrera",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2006-04-11",
+      "age": 20,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Botafogo",
+      "wikipedia_title": "Jordan Barrera",
+      "date_of_birth": "2006-04-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Botafogo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117381832",
+      "qid": "Q117381832",
+      "name": "Jordan Barrera",
+      "description": "Colombian footballer (born 2006)",
+      "place_of_birth_qid": "Q767071",
+      "height_cm": 180.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jordan_Barrera",
+      "transfermarkt_id": "1087334",
+      "place_of_birth": "Soledad",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "nelson-deossa",
+      "display_name": "Nelson Deossa",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-02-06",
+      "age": 26,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Real Betis",
+      "wikipedia_title": "Nelson Deossa",
+      "date_of_birth": "2000-02-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Betis",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q113330923",
+      "qid": "Q113330923",
+      "name": "Nelson Deossa",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q1577890",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 1.85,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nelson_Deossa",
+      "transfermarkt_id": "907559",
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Marmato",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "juan-manuel-rengifo",
+      "display_name": "Juan Manuel Rengifo",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2005-04-02",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Atl\u00e9tico Nacional",
+      "wikipedia_title": "Juan Manuel Rengifo",
+      "date_of_birth": "2005-04-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atl\u00e9tico Nacional",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q137190689",
+      "qid": "Q137190689",
+      "name": "Juan Manuel Rengifo",
+      "description": "Colombian footballer",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 173.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "current_club_qid": "Q332605",
+      "wikipedia_url": "https://es.wikipedia.org/wiki/Juan_Manuel_Rengifo",
+      "transfermarkt_id": "1439518",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "johan-rojas",
+      "display_name": "Johan Rojas",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-09-20",
+      "age": 23,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Vasco da Gama",
+      "wikipedia_title": "Johan Rojas (footballer)",
+      "date_of_birth": "2002-09-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Vasco da Gama",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q123406992",
+      "qid": "Q123406992",
+      "name": "Johan Rojas",
+      "description": "Colombian footballer",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 176.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johan_Rojas_(footballer)",
+      "transfermarkt_id": "974652",
+      "citizenship": [
+        "Colombia"
+      ],
+      "image_filename": "Inter_Miami_CF_2-2_Club_Necaxa_(2_August_2025)_22_(cropped).jpg",
+      "photo": {
+        "filename": "Inter_Miami_CF_2-2_Club_Necaxa_(2_August_2025)_22_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Inter_Miami_CF_2-2_Club_Necaxa_%282_August_2025%29_22_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Inter_Miami_CF_2-2_Club_Necaxa_%282_August_2025%29_22_%28cropped%29.jpg",
+        "width": 295,
+        "height": 444,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:TheSoccerBoy\" title=\"User:TheSoccerBoy\">TheSoccerBoy</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/johan-rojas.jpg"
+      }
+    },
+    {
+      "slug": "jhon-sol\u00eds",
+      "display_name": "Jhon Sol\u00eds",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-10-03",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Birmingham City",
+      "wikipedia_title": "Jhon Sol\u00eds (footballer, born 2004)",
+      "date_of_birth": "2004-10-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Birmingham City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q120639603",
+      "qid": "Q120639603",
+      "name": "Jhon Sol\u00eds",
+      "description": "Colombian association football player (born 2004)",
+      "place_of_birth_qid": "Q2431973",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 1.86,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jhon_Sol%C3%ADs_(footballer,_born_2004)",
+      "transfermarkt_id": "742521",
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Guacar\u00ed",
+      "image_filename": "Wj4W5Hz_d.webp",
+      "photo": {
+        "filename": "Wj4W5Hz_d.webp",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Wj4W5Hz_d.webp",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wj4W5Hz_d.webp/330px-Wj4W5Hz_d.webp.png",
+        "width": 760,
+        "height": 1206,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Yefersonandresq\" title=\"User:Yefersonandresq\">Yefersonandresq</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/jhon-sol\u00eds.webp"
+      }
+    },
+    {
+      "slug": "luis-d\u00edaz",
+      "display_name": "Luis D\u00edaz",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1997-01-13",
+      "age": 29,
+      "caps": 72,
+      "goals": 21,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Luis D\u00edaz (footballer, born 1997)",
+      "date_of_birth": "1997-01-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28531111",
+      "qid": "Q28531111",
+      "name": "Luis D\u00edaz",
+      "description": "Colombian association football player (born 1997)",
+      "place_of_birth_qid": "Q786529",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 65.0,
+      "position_qids": [
+        "Q114358158"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q212564",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3293573",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q332524",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q128446",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2022-00-00",
+          "end": "2025-07-00"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15789",
+      "image_filename": "FC RB Salzburg gegen FC Bayern M\u00fcnchen (2026-01-06 Testspiel) 40 (Luiz D\u00edaz).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_D%C3%ADaz_(footballer,_born_1997)",
+      "transfermarkt_id": "480692",
+      "positions": [
+        "left winger"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Barrancas",
+      "wikidata_current_club": "FC Bayern Munich",
+      "wikidata_current_club_qid": "Q15789",
+      "photo": {
+        "filename": "FC RB Salzburg gegen FC Bayern M\u00fcnchen (2026-01-06 Testspiel) 40 (Luiz D\u00edaz).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_40_%28Luiz_D%C3%ADaz%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_40_%28Luiz_D%C3%ADaz%29.jpg",
+        "width": 769,
+        "height": 1127,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/luis-d\u00edaz.jpg"
+      }
+    },
+    {
+      "slug": "rafael-santos-borr\u00e9",
+      "display_name": "Rafael Santos Borr\u00e9",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1995-09-15",
+      "age": 30,
+      "caps": 44,
+      "goals": 6,
+      "club_from_squad_table": "Internacional",
+      "wikipedia_title": "Rafael Santos Borr\u00e9",
+      "date_of_birth": "1995-09-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Internacional",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18719633",
+      "qid": "Q18719633",
+      "name": "Rafael Santos Borr\u00e9",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q62823",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 179.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q663400",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q212564",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q663400",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q1641573",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q16581702",
+          "start": "2016-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q15799",
+          "start": "2017-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q38245",
+          "start": "2021-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q51976",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q80845",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q80845",
+      "image_filename": "RAFAEL BORRE (cropped2).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rafael_Santos_Borr%C3%A9",
+      "transfermarkt_id": "323831",
+      "fifa_player_id": "386036",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Barranquilla",
+      "wikidata_current_club": "S.C. Internacional",
+      "wikidata_current_club_qid": "Q80845",
+      "photo": {
+        "filename": "RAFAEL BORRE (cropped2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/RAFAEL_BORRE_%28cropped2%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/RAFAEL_BORRE_%28cropped2%29.jpg",
+        "width": 808,
+        "height": 1211,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MAGERSA78&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MAGERSA78 (page does not exist)\">MAGERSA78</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/rafael-santos-borr\u00e9.jpg"
+      }
+    },
+    {
+      "slug": "jhon-c\u00f3rdoba",
+      "display_name": "Jhon C\u00f3rdoba",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1993-05-11",
+      "age": 33,
+      "caps": 21,
+      "goals": 6,
+      "club_from_squad_table": "Krasnodar",
+      "wikipedia_title": "Jhon C\u00f3rdoba",
+      "date_of_birth": "1993-05-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Krasnodar",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q209847",
+      "qid": "Q209847",
+      "name": "Jhon C\u00f3rdoba",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q1441410",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 84.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8812",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q332636",
+          "start": "2010-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q1426348",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q606210",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1243720",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q8780",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q105254",
+          "start": "2015-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q1641573",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q105254",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q220854",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q105254",
+      "image_filename": "Jhon C\u00f3rdoba, FC K\u00f6ln; 29 Jul 2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jhon_C%C3%B3rdoba",
+      "transfermarkt_id": "185245",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Istmina",
+      "wikidata_current_club": "1. FSV Mainz 05",
+      "wikidata_current_club_qid": "Q105254",
+      "photo": {
+        "filename": "Jhon C\u00f3rdoba, FC K\u00f6ln; 29 Jul 2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Jhon_C%C3%B3rdoba%2C_FC_K%C3%B6ln%3B_29_Jul_2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jhon_C%C3%B3rdoba%2C_FC_K%C3%B6ln%3B_29_Jul_2018.jpg/960px-Jhon_C%C3%B3rdoba%2C_FC_K%C3%B6ln%3B_29_Jul_2018.jpg",
+        "width": 2103,
+        "height": 3000,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/132646954@N02\">dronepicr</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jhon-c\u00f3rdoba.jpg"
+      }
+    },
+    {
+      "slug": "jhon-dur\u00e1n",
+      "display_name": "Jhon Dur\u00e1n",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2003-12-13",
+      "age": 22,
+      "caps": 17,
+      "goals": 3,
+      "club_from_squad_table": "Zenit Saint Petersburg",
+      "wikipedia_title": "Jhon Dur\u00e1n",
+      "date_of_birth": "2003-12-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Zenit Saint Petersburg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64748320",
+      "qid": "Q64748320",
+      "name": "Jhon Dur\u00e1n",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q48278",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q332636",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q308683",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q18711",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q482764",
+          "start": "2025-01-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q212564",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q6601875",
+          "start": "2025-07-06",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q6601875",
+      "image_filename": "Jhon Dur\u00e1n, Esteghlal FC vs Al-Nassr FC (ACLElite); 3 Mar 2025.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jhon_Dur%C3%A1n",
+      "transfermarkt_id": "649317",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Medell\u00edn",
+      "wikidata_current_club": "Fenerbah\u00e7e Istanbul",
+      "wikidata_current_club_qid": "Q6601875",
+      "photo": {
+        "filename": "Jhon Dur\u00e1n, Esteghlal FC vs Al-Nassr FC (ACLElite); 3 Mar 2025.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jhon_Dur%C3%A1n%2C_Esteghlal_FC_vs_Al-Nassr_FC_%28ACLElite%29%3B_3_Mar_2025.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jhon_Dur%C3%A1n%2C_Esteghlal_FC_vs_Al-Nassr_FC_%28ACLElite%29%3B_3_Mar_2025.png",
+        "width": 622,
+        "height": 829,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Fatemeh Amuzad/Ali Haddadi Asl",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jhon-dur\u00e1n.png"
+      }
+    },
+    {
+      "slug": "luis-su\u00e1rez",
+      "display_name": "Luis Su\u00e1rez",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1997-12-02",
+      "age": 28,
+      "caps": 10,
+      "goals": 4,
+      "club_from_squad_table": "Sporting CP",
+      "wikipedia_title": "Luis Su\u00e1rez (footballer, born 1997)",
+      "date_of_birth": "1997-12-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sporting CP",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28736721",
+      "qid": "Q28736721",
+      "name": "Luis Su\u00e1rez",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q209016",
+      "citizenship_qids": [
+        "Q739",
+        "Q29"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2539776",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q8964927",
+          "start": "2016-03-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q2714",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q10319",
+          "start": "2017-06-17",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q257984",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q10308",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        }
+      ],
+      "current_club_qid": "Q2714",
+      "image_filename": "Luis Javier Su\u00e1rez Charris.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(footballer,_born_1997)",
+      "transfermarkt_id": "424784",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Colombia",
+        "Spain"
+      ],
+      "place_of_birth": "Santa Marta",
+      "wikidata_current_club": "Watford F.C.",
+      "wikidata_current_club_qid": "Q2714",
+      "photo": {
+        "filename": "Luis Javier Su\u00e1rez Charris.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Luis_Javier_Su%C3%A1rez_Charris.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Luis_Javier_Su%C3%A1rez_Charris.jpg",
+        "width": 888,
+        "height": 1085,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Jmmuguerza\" title=\"User:Jmmuguerza\">jmmuguerza</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/luis-su\u00e1rez.jpg"
+      }
+    },
+    {
+      "slug": "cucho-hern\u00e1ndez",
+      "display_name": "Cucho Hern\u00e1ndez",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-04-20",
+      "age": 27,
+      "caps": 7,
+      "goals": 2,
+      "club_from_squad_table": "Real Betis",
+      "wikipedia_title": "Cucho Hern\u00e1ndez",
+      "date_of_birth": "1999-04-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Betis",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27037962",
+      "qid": "Q27037962",
+      "name": "Cucho Hern\u00e1ndez",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q51111",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 1.75,
+      "weight_kg": 73.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q515178",
+          "start": "2015-07-01",
+          "end": "2017-01-01"
+        },
+        {
+          "team_qid": "Q391987",
+          "start": "2017-01-02",
+          "end": "2017-06-30"
+        },
+        {
+          "team_qid": "Q11971",
+          "start": "2017-07-08",
+          "end": "2019-06-30"
+        },
+        {
+          "team_qid": "Q2714",
+          "start": "2017-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2714",
+      "image_filename": "Hernandez Cucho Columbus Crew Meet the Team 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cucho_Hern%C3%A1ndez",
+      "transfermarkt_id": "459463",
+      "wikidata_date_of_birth": "1999-04-22",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Pereira",
+      "wikidata_current_club": "Watford F.C.",
+      "wikidata_current_club_qid": "Q2714",
+      "photo": {
+        "filename": "Hernandez Cucho Columbus Crew Meet the Team 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Hernandez_Cucho_Columbus_Crew_Meet_the_Team_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hernandez_Cucho_Columbus_Crew_Meet_the_Team_2022.jpg/960px-Hernandez_Cucho_Columbus_Crew_Meet_the_Team_2022.jpg",
+        "width": 2605,
+        "height": 3305,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jay_eyem&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jay eyem (page does not exist)\">Jay eyem</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/cucho-hern\u00e1ndez.jpg"
+      }
+    },
+    {
+      "slug": "andr\u00e9s-g\u00f3mez",
+      "display_name": "Andr\u00e9s G\u00f3mez",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2002-09-12",
+      "age": 23,
+      "caps": 6,
+      "goals": 2,
+      "club_from_squad_table": "Vasco da Gama",
+      "wikipedia_title": "Andr\u00e9s G\u00f3mez (footballer)",
+      "date_of_birth": "2002-09-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Vasco da Gama",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q116215934",
+      "qid": "Q116215934",
+      "name": "Carlos G\u00f3mez",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q816420",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 1.71,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19509",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q5014111",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q391353",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q391984",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19509",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_G%C3%B3mez_(footballer)",
+      "transfermarkt_id": "957461",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Quibd\u00f3",
+      "wikidata_current_club": "Stade Rennais F.C.",
+      "wikidata_current_club_qid": "Q19509",
+      "image_filename": "IMCF_vs._RSL_25_(cropped)_(cropped).jpg",
+      "photo": {
+        "filename": "IMCF_vs._RSL_25_(cropped)_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/IMCF_vs._RSL_25_%28cropped%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/IMCF_vs._RSL_25_%28cropped%29_%28cropped%29.jpg",
+        "width": 141,
+        "height": 212,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:TheSoccerBoy\" title=\"User:TheSoccerBoy\">TheSoccerBoy</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/andr\u00e9s-g\u00f3mez.jpg"
+      }
+    },
+    {
+      "slug": "sebasti\u00e1n-villa",
+      "display_name": "Sebasti\u00e1n Villa",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-05-19",
+      "age": 30,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Independiente Rivadavia",
+      "wikipedia_title": "Sebasti\u00e1n Villa (footballer)",
+      "date_of_birth": "1996-05-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Independiente Rivadavia",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q47494583",
+      "qid": "Q47494583",
+      "name": "Sebasti\u00e1n Villa",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q816024",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 179.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q3446915"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q170703",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q332532",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q374254",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q170703",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Villa_(footballer)",
+      "transfermarkt_id": "493000",
+      "positions": [
+        "attacker"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Belllo",
+      "wikidata_current_club": "Boca Juniors",
+      "wikidata_current_club_qid": "Q170703",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "johan-carbonero",
+      "display_name": "Johan Carbonero",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-07-20",
+      "age": 26,
+      "caps": 2,
+      "goals": 2,
+      "club_from_squad_table": "Internacional",
+      "wikipedia_title": "Johan Carbonero",
+      "date_of_birth": "1999-07-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Internacional",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q59644108",
+      "qid": "Q59644108",
+      "name": "Johan Carbonero",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q1093175",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 170.0,
+      "position_qids": [
+        "Q3446915",
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q47533",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q47533",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johan_Carbonero",
+      "transfermarkt_id": "572042",
+      "positions": [
+        "attacker",
+        "forward"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Santander de Quilichao",
+      "wikidata_current_club": "Once Caldas",
+      "wikidata_current_club_qid": "Q47533",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "stiven-mendoza",
+      "display_name": "Stiven Mendoza",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1992-06-27",
+      "age": 33,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Athletico Paranaense",
+      "wikipedia_title": "Stiven Mendoza",
+      "date_of_birth": "1992-06-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Athletico Paranaense",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q5933619",
+      "qid": "Q5933619",
+      "name": "Stiven Mendoza",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q989858",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 171.0,
+      "weight_kg": 73.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q391987",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q663400",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q332636",
+          "start": "2010-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q391987",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q616380",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q17594408",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q17594408",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q13361030",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3589930",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q1641573",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q5673508",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q13361030",
+      "image_filename": "Santos 4-0 Portuguesa - 2023 Campeonato Paulista - 19-02-2023 - Mendoza.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stiven_Mendoza",
+      "transfermarkt_id": "131101",
+      "fifa_player_id": "309158",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Palmira",
+      "wikidata_current_club": "New York City FC",
+      "wikidata_current_club_qid": "Q13361030",
+      "photo": {
+        "filename": "Santos 4-0 Portuguesa - 2023 Campeonato Paulista - 19-02-2023 - Mendoza.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Santos_4-0_Portuguesa_-_2023_Campeonato_Paulista_-_19-02-2023_-_Mendoza.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Santos_4-0_Portuguesa_-_2023_Campeonato_Paulista_-_19-02-2023_-_Mendoza.jpg",
+        "width": 112,
+        "height": 241,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:BrazilianDude70&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:BrazilianDude70 (page does not exist)\">BrazilianDude70</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/stiven-mendoza.jpg"
+      }
+    },
+    {
+      "slug": "edwuin-cetr\u00e9",
+      "display_name": "Edwuin Cetr\u00e9",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1998-01-01",
+      "age": 28,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Estudiantes",
+      "wikipedia_title": "Edwuin Cetr\u00e9",
+      "date_of_birth": "1998-01-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Estudiantes",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30186091",
+      "qid": "Q30186091",
+      "name": "Edwuin Cetr\u00e9",
+      "description": "association football player",
+      "place_of_birth_qid": "Q51103",
+      "citizenship_qids": [
+        "Q96"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q745246",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q745246",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Edwuin_Cetr%C3%A9",
+      "transfermarkt_id": "470390",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Mexico"
+      ],
+      "place_of_birth": "Cali",
+      "wikidata_current_club": "Santos Laguna",
+      "wikidata_current_club_qid": "Q745246",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "n\u00e9iser-villarreal",
+      "display_name": "N\u00e9iser Villarreal",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2005-04-24",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Cruzeiro",
+      "wikipedia_title": "N\u00e9iser Villarreal",
+      "date_of_birth": "2005-04-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cruzeiro",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q131110894",
+      "qid": "Q131110894",
+      "name": "N\u00e9iser Villarreal",
+      "description": "Colombian footballer",
+      "place_of_birth_qid": "Q1005555",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "height_cm": 186.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/N%C3%A9iser_Villarreal",
+      "transfermarkt_id": "1182665",
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Tumaco",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "kevin-viveros",
+      "display_name": "Kevin Viveros",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-04-26",
+      "age": 26,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Athletico Paranaense",
+      "wikipedia_title": "Kevin Viveros",
+      "date_of_birth": "2000-04-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Athletico Paranaense",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q44398304",
+      "qid": "Q44398304",
+      "name": "Kevin Viveros",
+      "description": "Colombian association football player",
+      "place_of_birth_qid": "Q996581",
+      "citizenship_qids": [
+        "Q739"
+      ],
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q391987",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q391987",
+      "image_filename": "Kevinviveros.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Viveros",
+      "transfermarkt_id": "580461",
+      "wikidata_date_of_birth": "2000-04-04",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Colombia"
+      ],
+      "place_of_birth": "Buenaventura",
+      "wikidata_current_club": "Am\u00e9rica de Cali",
+      "wikidata_current_club_qid": "Q391987",
+      "photo": {
+        "filename": "Kevinviveros.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kevinviveros.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kevinviveros.jpg",
+        "width": 960,
+        "height": 520,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ronald_2001&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ronald 2001 (page does not exist)\">Ronald 2001</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kevin-viveros.jpg"
+      }
+    }
+  ]
+}

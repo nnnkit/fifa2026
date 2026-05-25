@@ -1,0 +1,67 @@
+{
+  "slug": "alejandro-gómez",
+  "display_name": "Alejandro Gómez",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2002-01-31",
+  "age": 24,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Tijuana",
+  "wikipedia_title": "Alejandro Gómez (Mexican footballer)",
+  "wikidata_qid": "Q75541322",
+  "qid": "Q75541322",
+  "name": "Jesús Gómez",
+  "description": "Mexican footballer (born 2002)",
+  "date_of_birth": "2002-01-31",
+  "place_of_birth_qid": "Q189138",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1023532",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q386324",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q6124180",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q1023532",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1023532",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alejandro_G%C3%B3mez_(Mexican_footballer)",
+  "transfermarkt_id": "504104",
+  "current_club": "Tijuana",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Hermosillo",
+  "wikidata_current_club": "Atlas F.C.",
+  "wikidata_current_club_qid": "Q1023532",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

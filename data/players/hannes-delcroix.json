@@ -1,0 +1,69 @@
+{
+  "slug": "hannes-delcroix",
+  "display_name": "Hannes Delcroix",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-02-28",
+  "age": 27,
+  "caps": 5,
+  "goals": 0,
+  "club_from_squad_table": "Lugano",
+  "wikipedia_title": "Hannes Delcroix",
+  "date_of_birth": "1999-02-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lugano",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q56011432",
+  "qid": "Q56011432",
+  "name": "Hannes Delcroix",
+  "description": "Haitian association football player (born 1999)",
+  "place_of_birth_qid": "Q2711253",
+  "citizenship_qids": [
+    "Q790",
+    "Q31"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q187528",
+      "start": "2018-07-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q24699",
+      "start": "2019-07-12",
+      "end": "2020-06-30"
+    }
+  ],
+  "current_club_qid": "Q187528",
+  "image_filename": "FC Red Bull Salzburg gegen RSC Anderlecht (Testspiel 7. Juli 2017) 50.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hannes_Delcroix",
+  "transfermarkt_id": "338635",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Haiti",
+    "Belgium"
+  ],
+  "place_of_birth": "Petite-Rivière-de-l'Artibonite",
+  "wikidata_current_club": "R.S.C. Anderlecht",
+  "wikidata_current_club_qid": "Q187528",
+  "photo": {
+    "filename": "FC Red Bull Salzburg gegen RSC Anderlecht (Testspiel 7. Juli 2017) 50.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FC_Red_Bull_Salzburg_gegen_RSC_Anderlecht_%28Testspiel_7._Juli_2017%29_50.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FC_Red_Bull_Salzburg_gegen_RSC_Anderlecht_%28Testspiel_7._Juli_2017%29_50.jpg/960px-FC_Red_Bull_Salzburg_gegen_RSC_Anderlecht_%28Testspiel_7._Juli_2017%29_50.jpg",
+    "width": 1582,
+    "height": 2247,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/hannes-delcroix.jpg"
+  },
+  "team_slug": "haiti",
+  "team_country": "Haiti"
+}

@@ -1,0 +1,2225 @@
+{
+  "slug": "netherlands",
+  "country": "Netherlands",
+  "wikidata_qid": "Q47050",
+  "fetched_at": "2026-05-24T15:39:47+00:00",
+  "source": {
+    "kind": "national-team",
+    "title": "Netherlands national football team",
+    "url": "https://en.wikipedia.org/wiki/Netherlands_national_football_team"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "bart-verbruggen",
+      "display_name": "Bart Verbruggen",
+      "shirt_no": 1,
+      "position_code": "GK",
+      "dob": "2002-08-18",
+      "age": 23,
+      "caps": 27,
+      "goals": 0,
+      "club_from_squad_table": "Brighton & Hove Albion",
+      "wikipedia_title": "Bart Verbruggen",
+      "date_of_birth": "2002-08-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Brighton & Hove Albion",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q98682558",
+      "qid": "Q98682558",
+      "name": "Bart Verbruggen",
+      "description": "Dutch association football player (born 2002)",
+      "place_of_birth_qid": "Q40844",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 193.0,
+      "teams": [
+        {
+          "team_qid": "Q187528",
+          "start": "2020-08-26",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q114056326",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q16854907",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q23886910",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19453",
+      "image_filename": "Bart Verbruggen.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bart_Verbruggen",
+      "transfermarkt_id": "565093",
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Breda",
+      "wikidata_current_club": "Brighton & Hove Albion F.C.",
+      "wikidata_current_club_qid": "Q19453",
+      "photo": {
+        "filename": "Bart Verbruggen.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bart_Verbruggen.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bart_Verbruggen.png",
+        "width": 226,
+        "height": 352,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "AFC Bournemouth",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/bart-verbruggen.png"
+      }
+    },
+    {
+      "slug": "justin-bijlow",
+      "display_name": "Justin Bijlow",
+      "shirt_no": 13,
+      "position_code": "GK",
+      "dob": "1998-01-22",
+      "age": 28,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Genoa",
+      "wikipedia_title": "Justin Bijlow",
+      "date_of_birth": "1998-01-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Genoa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q36318897",
+      "qid": "Q36318897",
+      "name": "Justin Bijlow",
+      "description": "Dutch association football player (born 1998)",
+      "place_of_birth_qid": "Q34370",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 84.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q134241",
+          "start": "2016-00-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q29526205",
+          "start": "2014-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q601723",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q514714",
+          "start": "2015-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q13882315",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1811026",
+          "start": "2017-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q2074",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2074",
+      "image_filename": "Go Ahead Eagles - Feyenoord - 53679350950 (Justin Bijlow).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Justin_Bijlow",
+      "transfermarkt_id": "315121",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Rotterdam",
+      "wikidata_current_club": "Genoa CFC",
+      "wikidata_current_club_qid": "Q2074",
+      "photo": {
+        "filename": "Go Ahead Eagles - Feyenoord - 53679350950 (Justin Bijlow).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Go_Ahead_Eagles_-_Feyenoord_-_53679350950_%28Justin_Bijlow%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Go_Ahead_Eagles_-_Feyenoord_-_53679350950_%28Justin_Bijlow%29.jpg/960px-Go_Ahead_Eagles_-_Feyenoord_-_53679350950_%28Justin_Bijlow%29.jpg",
+        "width": 1781,
+        "height": 1882,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Carlo Bruil Fotografie",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/justin-bijlow.jpg"
+      }
+    },
+    {
+      "slug": "mark-flekken",
+      "display_name": "Mark Flekken",
+      "shirt_no": 23,
+      "position_code": "GK",
+      "dob": "1993-06-13",
+      "age": 32,
+      "caps": 11,
+      "goals": 0,
+      "club_from_squad_table": "Bayer Leverkusen",
+      "wikipedia_title": "Mark Flekken",
+      "date_of_birth": "1993-06-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayer Leverkusen",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q5811691",
+      "qid": "Q5811691",
+      "name": "Mark Flekken",
+      "description": "Dutch association football player (born 1993)",
+      "place_of_birth_qid": "Q9796",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 194.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q153535",
+          "start": "2012-00-00",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q153539",
+          "start": "2013-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q154293",
+          "start": "2016-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q106394",
+          "start": "2018-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q19571",
+          "start": "2023-00-00",
+          "end": "2025-06-00"
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q104761",
+          "start": "2025-06-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q104761",
+      "image_filename": "Flekken, Mark Greuther Fürth 15-16 WP (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Flekken",
+      "transfermarkt_id": "125714",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Kerkrade",
+      "wikidata_current_club": "Bayer 04 Leverkusen",
+      "wikidata_current_club_qid": "Q104761",
+      "photo": {
+        "filename": "Flekken, Mark Greuther Fürth 15-16 WP (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flekken%2C_Mark_Greuther_F%C3%BCrth_15-16_WP_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flekken%2C_Mark_Greuther_F%C3%BCrth_15-16_WP_%28cropped%29.jpg/960px-Flekken%2C_Mark_Greuther_F%C3%BCrth_15-16_WP_%28cropped%29.jpg",
+        "width": 1532,
+        "height": 2030,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Northside\" title=\"User:Northside\">Northside</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mark-flekken.jpg"
+      }
+    },
+    {
+      "slug": "lutsharel-geertruida",
+      "display_name": "Lutsharel Geertruida",
+      "shirt_no": 2,
+      "position_code": "DF",
+      "dob": "2000-07-18",
+      "age": 25,
+      "caps": 20,
+      "goals": 0,
+      "club_from_squad_table": "Sunderland",
+      "wikipedia_title": "Lutsharel Geertruida",
+      "date_of_birth": "2000-07-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sunderland",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q42328360",
+      "qid": "Q42328360",
+      "name": "Lutsharel Geertruida",
+      "description": "Dutch association football player (born 2000)",
+      "place_of_birth_qid": "Q34370",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 1.84,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q134241",
+          "start": "2018-07-01",
+          "end": "2024-08-30"
+        },
+        {
+          "team_qid": "Q29526205",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q601723",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q16854907",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q514714",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1811026",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2024-08-30",
+          "end": null
+        },
+        {
+          "team_qid": "Q18739",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18739",
+      "image_filename": "Lutsharel Geertruida (Testspiel 2022-07-09) 14 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lutsharel_Geertruida",
+      "transfermarkt_id": "420210",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Rotterdam",
+      "wikidata_current_club": "Sunderland A.F.C.",
+      "wikidata_current_club_qid": "Q18739",
+      "photo": {
+        "filename": "Lutsharel Geertruida (Testspiel 2022-07-09) 14 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Lutsharel_Geertruida_%28Testspiel_2022-07-09%29_14_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Lutsharel_Geertruida_%28Testspiel_2022-07-09%29_14_%28cropped%29.jpg/960px-Lutsharel_Geertruida_%28Testspiel_2022-07-09%29_14_%28cropped%29.jpg",
+        "width": 988,
+        "height": 1499,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lutsharel-geertruida.jpg"
+      }
+    },
+    {
+      "slug": "jan-paul-van-hecke",
+      "display_name": "Jan Paul van Hecke",
+      "shirt_no": 3,
+      "position_code": "DF",
+      "dob": "2000-06-08",
+      "age": 25,
+      "caps": 10,
+      "goals": 0,
+      "club_from_squad_table": "Brighton & Hove Albion",
+      "wikipedia_title": "Jan Paul van Hecke",
+      "date_of_birth": "2000-06-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Brighton & Hove Albion",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q66828825",
+      "qid": "Q66828825",
+      "name": "Jan Paul van Hecke",
+      "description": "Dutch association football player",
+      "place_of_birth_qid": "Q81183",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 1.89,
+      "position_qids": [
+        "Q336286"
+      ],
+      "image_filename": "Jan Paul van Hecke 24012026 (2) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jan_Paul_van_Hecke",
+      "transfermarkt_id": "576314",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Arnemuiden",
+      "photo": {
+        "filename": "Jan Paul van Hecke 24012026 (2) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Jan_Paul_van_Hecke_24012026_%282%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jan_Paul_van_Hecke_24012026_%282%29_%28cropped%29.jpg/960px-Jan_Paul_van_Hecke_24012026_%282%29_%28cropped%29.jpg",
+        "width": 3966,
+        "height": 3410,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jan-paul-van-hecke.jpg"
+      }
+    },
+    {
+      "slug": "virgil-van-dijk",
+      "display_name": "Virgil van Dijk",
+      "shirt_no": 4,
+      "position_code": "DF",
+      "dob": "1991-07-08",
+      "age": 34,
+      "caps": 90,
+      "goals": 12,
+      "club_from_squad_table": "Liverpool",
+      "wikipedia_title": "Virgil van Dijk",
+      "date_of_birth": "1991-07-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Liverpool",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q133903",
+      "qid": "Q133903",
+      "name": "Virgil van Dijk",
+      "description": "Dutch association football player (born 1991)",
+      "place_of_birth_qid": "Q40844",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 195.0,
+      "weight_kg": 92.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q24711",
+          "start": "2011-00-00",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q19593",
+          "start": "2013-00-00",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q514714",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q1811026",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q18732",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2018-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1130849",
+      "image_filename": "20160604 AUT NED 8876 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Virgil_van_Dijk",
+      "transfermarkt_id": "139208",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Breda",
+      "wikidata_current_club": "Liverpool F.C.",
+      "wikidata_current_club_qid": "Q1130849",
+      "photo": {
+        "filename": "20160604 AUT NED 8876 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/20160604_AUT_NED_8876_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/20160604_AUT_NED_8876_%28cropped%29.jpg",
+        "width": 916,
+        "height": 1112,
+        "license": "CC BY-SA 3.0 at",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ailura\" title=\"User:Ailura\">Ailura</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/virgil-van-dijk.jpg"
+      }
+    },
+    {
+      "slug": "nathan-aké",
+      "display_name": "Nathan Aké",
+      "shirt_no": 5,
+      "position_code": "DF",
+      "dob": "1995-02-18",
+      "age": 31,
+      "caps": 58,
+      "goals": 5,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "Nathan Aké",
+      "date_of_birth": "1995-02-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q1755683",
+      "qid": "Q1755683",
+      "name": "Nathan Aké",
+      "description": "Dutch association football player (born 1995)",
+      "place_of_birth_qid": "Q36600",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q9616",
+          "start": "2012-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q601723",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q514714",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q18729",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q2714",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q1811026",
+          "start": "2013-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q19568",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q19568",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2017-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "Yokohama F. Marinos - Manchester City (3-5) - 53075276224 (Nathan Ake).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nathan_Ak%C3%A9",
+      "transfermarkt_id": "177476",
+      "fifa_player_id": "336088",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "The Hague",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "Yokohama F. Marinos - Manchester City (3-5) - 53075276224 (Nathan Ake).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Yokohama_F._Marinos_-_Manchester_City_%283-5%29_-_53075276224_%28Nathan_Ake%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Yokohama_F._Marinos_-_Manchester_City_%283-5%29_-_53075276224_%28Nathan_Ake%29.jpg",
+        "width": 900,
+        "height": 1169,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "pantkiewicz",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nathan-aké.jpg"
+      }
+    },
+    {
+      "slug": "stefan-de-vrij",
+      "display_name": "Stefan de Vrij",
+      "shirt_no": 6,
+      "position_code": "DF",
+      "dob": "1992-02-05",
+      "age": 34,
+      "caps": 79,
+      "goals": 4,
+      "club_from_squad_table": "Internazionale",
+      "wikipedia_title": "Stefan de Vrij",
+      "date_of_birth": "1992-02-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Internazionale",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q195953",
+      "qid": "Q195953",
+      "name": "Stefan de Vrij",
+      "description": "Dutch association football player (born 1992)",
+      "place_of_birth_qid": "Q2319907",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 189.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q134241",
+          "start": "2009-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q601723",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q514714",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q514714",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q1811026",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2609",
+          "start": "2014-00-00",
+          "end": "2018-00-00"
+        }
+      ],
+      "current_club_qid": "Q631",
+      "image_filename": "FC Salzburg gegen Inter Mailand (Testspiel 2023-08-09) 67 - Stefan de Vrij (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stefan_de_Vrij",
+      "transfermarkt_id": "111196",
+      "fifa_player_id": "313021",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Ouderkerk aan den IJssel",
+      "wikidata_current_club": "Inter Milan",
+      "wikidata_current_club_qid": "Q631",
+      "photo": {
+        "filename": "FC Salzburg gegen Inter Mailand (Testspiel 2023-08-09) 67 - Stefan de Vrij (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/FC_Salzburg_gegen_Inter_Mailand_%28Testspiel_2023-08-09%29_67_-_Stefan_de_Vrij_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/FC_Salzburg_gegen_Inter_Mailand_%28Testspiel_2023-08-09%29_67_-_Stefan_de_Vrij_%28cropped%29.jpg",
+        "width": 900,
+        "height": 1400,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<b>Original: </b> <a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a> / <b>Derivative work: </b> <a href=\"//commons.wikimedia.org/w/index.php?title=User:Danyele&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Danyele (page does not exist)\">Danyele</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/stefan-de-vrij.jpg"
+      }
+    },
+    {
+      "slug": "jeremie-frimpong",
+      "display_name": "Jeremie Frimpong",
+      "shirt_no": 12,
+      "position_code": "DF",
+      "dob": "2000-12-10",
+      "age": 25,
+      "caps": 15,
+      "goals": 1,
+      "club_from_squad_table": "Liverpool",
+      "wikipedia_title": "Jeremie Frimpong",
+      "date_of_birth": "2000-12-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Liverpool",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q67198835",
+      "qid": "Q67198835",
+      "name": "Jeremie Frimpong",
+      "description": "Dutch association football player (born 2000)",
+      "place_of_birth_qid": "Q727",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 171.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19593",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q104761",
+          "start": "2021-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q514714",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q13882315",
+          "start": "2018-11-15",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1811026",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1130849",
+      "image_filename": "Jeremie Frimpong 04012026 (3) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jeremie_Frimpong",
+      "transfermarkt_id": "484547",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Amsterdam",
+      "wikidata_current_club": "Liverpool F.C.",
+      "wikidata_current_club_qid": "Q1130849",
+      "photo": {
+        "filename": "Jeremie Frimpong 04012026 (3) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Jeremie_Frimpong_04012026_%283%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jeremie_Frimpong_04012026_%283%29_%28cropped%29.jpg/960px-Jeremie_Frimpong_04012026_%283%29_%28cropped%29.jpg",
+        "width": 3375,
+        "height": 3431,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jeremie-frimpong.jpg"
+      }
+    },
+    {
+      "slug": "micky-van-de-ven",
+      "display_name": "Micky van de Ven",
+      "shirt_no": 15,
+      "position_code": "DF",
+      "dob": "2001-04-19",
+      "age": 25,
+      "caps": 19,
+      "goals": 1,
+      "club_from_squad_table": "Tottenham Hotspur",
+      "wikipedia_title": "Micky van de Ven",
+      "date_of_birth": "2001-04-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Tottenham Hotspur",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q69812902",
+      "qid": "Q69812902",
+      "name": "Micky van de Ven",
+      "description": "Dutch footballer (born 2001)",
+      "place_of_birth_qid": "Q2341553",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 193.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q738060",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q101859",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q18741",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1811026",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18741",
+      "image_filename": "Micky Van De Ven pre-match training (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Micky_van_de_Ven",
+      "transfermarkt_id": "557459",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Wormer",
+      "wikidata_current_club": "Tottenham Hotspur F.C.",
+      "wikidata_current_club_qid": "Q18741",
+      "photo": {
+        "filename": "Micky Van De Ven pre-match training (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Micky_Van_De_Ven_pre-match_training_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Micky_Van_De_Ven_pre-match_training_%28cropped%29.jpg",
+        "width": 866,
+        "height": 1271,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:KrispyKrumpets&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:KrispyKrumpets (page does not exist)\">KrispyKrumpets</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/micky-van-de-ven.jpg"
+      }
+    },
+    {
+      "slug": "denzel-dumfries",
+      "display_name": "Denzel Dumfries",
+      "shirt_no": 22,
+      "position_code": "DF",
+      "dob": "1996-04-18",
+      "age": 30,
+      "caps": 71,
+      "goals": 11,
+      "club_from_squad_table": "Internazionale",
+      "wikipedia_title": "Denzel Dumfries",
+      "date_of_birth": "1996-04-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Internazionale",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19882816",
+      "qid": "Q19882816",
+      "name": "Denzel Dumfries",
+      "description": "Dutch association football player (born 1996)",
+      "place_of_birth_qid": "Q34370",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q209895",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q459101",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q200321",
+          "start": "2017-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1811026",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q200321",
+      "image_filename": "Edison ndreca inter egnati (cropped Denzel Dumfries).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Denzel_Dumfries",
+      "transfermarkt_id": "321528",
+      "fifa_player_id": "201324444",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Rotterdam",
+      "wikidata_current_club": "SC Heerenveen",
+      "wikidata_current_club_qid": "Q200321",
+      "photo": {
+        "filename": "Edison ndreca inter egnati (cropped Denzel Dumfries).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Edison_ndreca_inter_egnati_%28cropped_Denzel_Dumfries%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Edison_ndreca_inter_egnati_%28cropped_Denzel_Dumfries%29.jpg",
+        "width": 313,
+        "height": 390,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Erjonallaraj&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Erjonallaraj (page does not exist)\">Erjonallaraj</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/denzel-dumfries.jpg"
+      }
+    },
+    {
+      "slug": "jorrel-hato",
+      "display_name": "Jorrel Hato",
+      "shirt_no": 25,
+      "position_code": "DF",
+      "dob": "2006-03-07",
+      "age": 20,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Chelsea",
+      "wikipedia_title": "Jorrel Hato",
+      "date_of_birth": "2006-03-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Chelsea",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q115059438",
+      "qid": "Q115059438",
+      "name": "Jorrel Hato",
+      "description": "Dutch footballer (born 2006)",
+      "place_of_birth_qid": "Q34370",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 1.82,
+      "image_filename": "Jorrel Hato (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jorrel_Hato",
+      "transfermarkt_id": "904802",
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Rotterdam",
+      "photo": {
+        "filename": "Jorrel Hato (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Jorrel_Hato_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Jorrel_Hato_%28cropped%29.jpg",
+        "width": 277,
+        "height": 351,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Rabar_ajax1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Rabar ajax1 (page does not exist)\">Rabar ajax1</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jorrel-hato.jpg"
+      }
+    },
+    {
+      "slug": "xavi-simons",
+      "display_name": "Xavi Simons",
+      "shirt_no": 7,
+      "position_code": "MF",
+      "dob": "2003-04-21",
+      "age": 23,
+      "caps": 34,
+      "goals": 6,
+      "club_from_squad_table": "Tottenham Hotspur",
+      "wikipedia_title": "Xavi Simons",
+      "date_of_birth": "2003-04-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Tottenham Hotspur",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q65925174",
+      "qid": "Q65925174",
+      "name": "Xavi Simons",
+      "description": "Dutch association football player (born 2003)",
+      "place_of_birth_qid": "Q727",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q483020",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q11938",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2023-07-18",
+          "end": "2025-01-30"
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2023-07-19",
+          "end": "2025-01-30"
+        },
+        {
+          "team_qid": "Q61768534",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q29526205",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q601723",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q514714",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q1811026",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2022-12-03",
+          "end": null
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2025-01-30",
+          "end": "2025-08-00"
+        },
+        {
+          "team_qid": "Q18741",
+          "start": "2025-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18741",
+      "image_filename": "Xavi Simons, Nick Verhagen in duel met Xavi Simons.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Xavi_Simons",
+      "transfermarkt_id": "566931",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Amsterdam",
+      "wikidata_current_club": "Tottenham Hotspur F.C.",
+      "wikidata_current_club_qid": "Q18741",
+      "photo": {
+        "filename": "Xavi Simons, Nick Verhagen in duel met Xavi Simons.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Xavi_Simons%2C_Nick_Verhagen_in_duel_met_Xavi_Simons.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Xavi_Simons%2C_Nick_Verhagen_in_duel_met_Xavi_Simons.jpg",
+        "width": 547,
+        "height": 996,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Graafdegraaf&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Graafdegraaf (page does not exist)\">Graafdegraaf</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/xavi-simons.jpg"
+      }
+    },
+    {
+      "slug": "ryan-gravenberch",
+      "display_name": "Ryan Gravenberch",
+      "shirt_no": 8,
+      "position_code": "MF",
+      "dob": "2002-05-16",
+      "age": 24,
+      "caps": 25,
+      "goals": 1,
+      "club_from_squad_table": "Liverpool",
+      "wikipedia_title": "Ryan Gravenberch",
+      "date_of_birth": "2002-05-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Liverpool",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q56257870",
+      "qid": "Q56257870",
+      "name": "Ryan Gravenberch",
+      "description": "Dutch association football player (born 2002)",
+      "place_of_birth_qid": "Q727",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1770361",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q81888",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q601723",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q514714",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1811026",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1130849",
+      "image_filename": "2022-07-30 Fußball, Männer, DFL-Supercup, RB Leipzig - FC Bayern München 1DX 3342 by Stepro (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Gravenberch",
+      "transfermarkt_id": "478573",
+      "fifa_player_id": "201792459",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Amsterdam",
+      "wikidata_current_club": "Liverpool F.C.",
+      "wikidata_current_club_qid": "Q1130849",
+      "photo": {
+        "filename": "2022-07-30 Fußball, Männer, DFL-Supercup, RB Leipzig - FC Bayern München 1DX 3342 by Stepro (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3342_by_Stepro_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3342_by_Stepro_%28cropped%29.jpg",
+        "width": 589,
+        "height": 786,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "crop by <a href=\"//commons.wikimedia.org/wiki/User:Sepguilherme\" class=\"mw-redirect\" title=\"User:Sepguilherme\">Sepguilherme</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ryan-gravenberch.jpg"
+      }
+    },
+    {
+      "slug": "luciano-valente",
+      "display_name": "Luciano Valente",
+      "shirt_no": 10,
+      "position_code": "MF",
+      "dob": "2003-10-04",
+      "age": 22,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Feyenoord",
+      "wikipedia_title": "Luciano Valente",
+      "date_of_birth": "2003-10-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Feyenoord",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q113548346",
+      "qid": "Q113548346",
+      "name": "Luciano Valente",
+      "description": "Dutch footballer",
+      "place_of_birth_qid": "Q749",
+      "citizenship_qids": [
+        "Q38",
+        "Q29999"
+      ],
+      "height_cm": 189.0,
+      "image_filename": "Luciano valente-1662326033.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luciano_Valente",
+      "transfermarkt_id": "601495",
+      "citizenship": [
+        "Italy",
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Groningen",
+      "photo": {
+        "filename": "Luciano valente-1662326033.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Luciano_valente-1662326033.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Luciano_valente-1662326033.jpg/960px-Luciano_valente-1662326033.jpg",
+        "width": 3472,
+        "height": 4640,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Bé Speelman",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/luciano-valente.jpg"
+      }
+    },
+    {
+      "slug": "tijjani-reijnders",
+      "display_name": "Tijjani Reijnders",
+      "shirt_no": 14,
+      "position_code": "MF",
+      "dob": "1998-07-29",
+      "age": 27,
+      "caps": 30,
+      "goals": 7,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "Tijjani Reijnders",
+      "date_of_birth": "1998-07-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q39500352",
+      "qid": "Q39500352",
+      "name": "Tijjani Reijnders",
+      "description": "Dutch footballer (born 1998)",
+      "place_of_birth_qid": "Q793",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q191264",
+          "start": "2018-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2023-07-19",
+          "end": "2025-06-10"
+        },
+        {
+          "team_qid": "Q50573061",
+          "start": "2017-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q269151",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q24699",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q13882315",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2025-06-10",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "Reijnders arriva in albergo (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tijjani_Reijnders",
+      "transfermarkt_id": "460939",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Zwolle",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "Reijnders arriva in albergo (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Reijnders_arriva_in_albergo_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Reijnders_arriva_in_albergo_%28cropped%29.jpg",
+        "width": 779,
+        "height": 1162,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Saggittarius_A\" title=\"User:Saggittarius A\">Saggittarius A</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/tijjani-reijnders.jpg"
+      }
+    },
+    {
+      "slug": "jerdy-schouten",
+      "display_name": "Jerdy Schouten",
+      "shirt_no": 16,
+      "position_code": "MF",
+      "dob": "1997-01-12",
+      "age": 29,
+      "caps": 17,
+      "goals": 0,
+      "club_from_squad_table": "PSV",
+      "wikipedia_title": "Jerdy Schouten",
+      "date_of_birth": "1997-01-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "PSV",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28038574",
+      "qid": "Q28038574",
+      "name": "Jerdy Schouten",
+      "description": "Dutch association football player (born 1997)",
+      "place_of_birth_qid": "Q33444372",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q370712",
+          "start": "2018-07-00",
+          "end": "2019-07-00"
+        },
+        {
+          "team_qid": "Q1893",
+          "start": "2019-07-05",
+          "end": "2023-08-00"
+        },
+        {
+          "team_qid": "Q24904",
+          "start": "2016-07-00",
+          "end": "2017-06-00"
+        },
+        {
+          "team_qid": "Q1071713",
+          "start": "2017-07-00",
+          "end": "2018-06-00"
+        },
+        {
+          "team_qid": "Q11938",
+          "start": "2023-08-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q92627933",
+          "start": "2014-00-00",
+          "end": "2017-00-00"
+        }
+      ],
+      "current_club_qid": "Q11938",
+      "image_filename": "Jerdy schouten-1772637173 (cropped).JPG",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jerdy_Schouten",
+      "transfermarkt_id": "347900",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Hellevoetsluis",
+      "wikidata_current_club": "PSV Eindhoven",
+      "wikidata_current_club_qid": "Q11938",
+      "photo": {
+        "filename": "Jerdy schouten-1772637173 (cropped).JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Jerdy_schouten-1772637173_%28cropped%29.JPG",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jerdy_schouten-1772637173_%28cropped%29.JPG/960px-Jerdy_schouten-1772637173_%28cropped%29.JPG",
+        "width": 2961,
+        "height": 5464,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Hans Reefman",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jerdy-schouten.JPG"
+      }
+    },
+    {
+      "slug": "teun-koopmeiners",
+      "display_name": "Teun Koopmeiners",
+      "shirt_no": 20,
+      "position_code": "MF",
+      "dob": "1998-02-28",
+      "age": 28,
+      "caps": 27,
+      "goals": 3,
+      "club_from_squad_table": "Juventus",
+      "wikipedia_title": "Teun Koopmeiners",
+      "date_of_birth": "1998-02-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Juventus",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q39498277",
+      "qid": "Q39498277",
+      "name": "Teun Koopmeiners",
+      "description": "Dutch association football player (born 1998)",
+      "place_of_birth_qid": "Q9910",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q50573061",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1811026",
+          "start": "2018-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q191264",
+          "start": "2017-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q1886",
+          "start": "2021-00-00",
+          "end": "2024-08-28"
+        },
+        {
+          "team_qid": "Q601723",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q16854907",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q514714",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q13882315",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2024-08-28",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1422",
+      "image_filename": "Teun Koopmeiners Manchester United v Atalanta BC, 20 October 2021 (12) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Teun_Koopmeiners",
+      "transfermarkt_id": "360518",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Castricum",
+      "wikidata_current_club": "Juventus FC",
+      "wikidata_current_club_qid": "Q1422",
+      "photo": {
+        "filename": "Teun Koopmeiners Manchester United v Atalanta BC, 20 October 2021 (12) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Teun_Koopmeiners_Manchester_United_v_Atalanta_BC%2C_20_October_2021_%2812%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Teun_Koopmeiners_Manchester_United_v_Atalanta_BC%2C_20_October_2021_%2812%29_%28cropped%29.jpg",
+        "width": 528,
+        "height": 894,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/teun-koopmeiners.jpg"
+      }
+    },
+    {
+      "slug": "kees-smit",
+      "display_name": "Kees Smit",
+      "shirt_no": 21,
+      "position_code": "MF",
+      "dob": "2006-01-20",
+      "age": 20,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "AZ",
+      "wikipedia_title": "Kees Smit",
+      "date_of_birth": "2006-01-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "AZ",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117317225",
+      "qid": "Q117317225",
+      "name": "Kees Smit",
+      "description": "Dutch footballer (born 2006)",
+      "place_of_birth_qid": "Q9932",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Kees Smit.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kees_Smit",
+      "transfermarkt_id": "859035",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Heiloo",
+      "photo": {
+        "filename": "Kees Smit.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Kees_Smit.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kees_Smit.jpg/960px-Kees_Smit.jpg",
+        "width": 2211,
+        "height": 3305,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Biso\" title=\"User:Biso\">Biso</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kees-smit.jpg"
+      }
+    },
+    {
+      "slug": "quinten-timber",
+      "display_name": "Quinten Timber",
+      "shirt_no": 26,
+      "position_code": "MF",
+      "dob": "2001-06-17",
+      "age": 24,
+      "caps": 10,
+      "goals": 1,
+      "club_from_squad_table": "Marseille",
+      "wikipedia_title": "Quinten Timber",
+      "date_of_birth": "2001-06-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Marseille",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q53996595",
+      "qid": "Q53996595",
+      "name": "Quinten Timber",
+      "description": "Dutch association football player (born 2001)",
+      "place_of_birth_qid": "Q803",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 1.77,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1770361",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1770361",
+      "image_filename": "Quinten Timber.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Quinten_Timber",
+      "transfermarkt_id": "420213",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Utrecht",
+      "wikidata_current_club": "Jong Ajax",
+      "wikidata_current_club_qid": "Q1770361",
+      "photo": {
+        "filename": "Quinten Timber.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Quinten_Timber.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Quinten_Timber.jpg/960px-Quinten_Timber.jpg",
+        "width": 1384,
+        "height": 1810,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Carlo Bruil Fotografie",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/quinten-timber.jpg"
+      }
+    },
+    {
+      "slug": "wout-weghorst",
+      "display_name": "Wout Weghorst",
+      "shirt_no": 9,
+      "position_code": "FW",
+      "dob": "1992-08-07",
+      "age": 33,
+      "caps": 51,
+      "goals": 14,
+      "club_from_squad_table": "Ajax",
+      "wikipedia_title": "Wout Weghorst",
+      "date_of_birth": "1992-08-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Ajax",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q2210473",
+      "qid": "Q2210473",
+      "name": "Wout Weghorst",
+      "description": "Dutch association football player (born 1992)",
+      "place_of_birth_qid": "Q727",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 197.0,
+      "weight_kg": 90.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1061627",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q11961",
+          "start": "2014-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q191264",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1811026",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q101859",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q19458",
+          "start": "2022-01-31",
+          "end": null
+        },
+        {
+          "team_qid": "Q172567",
+          "start": "2022-07-05",
+          "end": "2023-01-00"
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2023-01-13",
+          "end": "2023-06-30"
+        },
+        {
+          "team_qid": "Q22707",
+          "start": "2023-08-09",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q22707",
+      "image_filename": "Wout Weghorst 2016.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wout_Weghorst",
+      "transfermarkt_id": "228645",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Amsterdam",
+      "wikidata_current_club": "TSG 1899 Hoffenheim",
+      "wikidata_current_club_qid": "Q22707",
+      "photo": {
+        "filename": "Wout Weghorst 2016.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wout_Weghorst_2016.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wout_Weghorst_2016.jpg",
+        "width": 809,
+        "height": 1120,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Кирилл Венедиктов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/wout-weghorst.jpg"
+      }
+    },
+    {
+      "slug": "cody-gakpo",
+      "display_name": "Cody Gakpo",
+      "shirt_no": 11,
+      "position_code": "FW",
+      "dob": "1999-05-07",
+      "age": 27,
+      "caps": 48,
+      "goals": 19,
+      "club_from_squad_table": "Liverpool",
+      "wikipedia_title": "Cody Gakpo",
+      "date_of_birth": "1999-05-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Liverpool",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28801927",
+      "qid": "Q28801927",
+      "name": "Cody Gakpo",
+      "description": "Dutch association football player (born 1999)",
+      "place_of_birth_qid": "Q9832",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 193.0,
+      "weight_kg": 76.0,
+      "position_qids": [
+        "Q114358158",
+        "Q9731197"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1811026",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q13534332",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q11938",
+          "start": "2018-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1130849",
+      "image_filename": "Austria U-18 vs. Netherlands U-18 2017-03-23 (078).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cody_Gakpo",
+      "transfermarkt_id": "434675",
+      "positions": [
+        "left winger",
+        "centre-forward"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Eindhoven",
+      "wikidata_current_club": "Liverpool F.C.",
+      "wikidata_current_club_qid": "Q1130849",
+      "photo": {
+        "filename": "Austria U-18 vs. Netherlands U-18 2017-03-23 (078).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28078%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28078%29.jpg/960px-Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28078%29.jpg",
+        "width": 2000,
+        "height": 3000,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 23:01, 30 March 2017 (UTC)",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/cody-gakpo.jpg"
+      }
+    },
+    {
+      "slug": "noa-lang",
+      "display_name": "Noa Lang",
+      "shirt_no": 17,
+      "position_code": "FW",
+      "dob": "1999-06-17",
+      "age": 26,
+      "caps": 15,
+      "goals": 3,
+      "club_from_squad_table": "Galatasaray",
+      "wikipedia_title": "Noa Lang",
+      "date_of_birth": "1999-06-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Galatasaray",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q29441778",
+      "qid": "Q29441778",
+      "name": "Noa Lang",
+      "description": "Dutch association football player (born 1999)",
+      "place_of_birth_qid": "Q734860",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 176.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q81888",
+          "start": "2013-07-01",
+          "end": "2017-06-30"
+        },
+        {
+          "team_qid": "Q1770361",
+          "start": "2017-07-01",
+          "end": "2019-09-11"
+        },
+        {
+          "team_qid": "Q81888",
+          "start": "2019-09-12",
+          "end": "2021-06-30"
+        },
+        {
+          "team_qid": "Q190916",
+          "start": "2020-10-05",
+          "end": "2021-06-30"
+        },
+        {
+          "team_qid": "Q11938",
+          "start": "2023-07-08",
+          "end": "2025-07-14"
+        },
+        {
+          "team_qid": "Q190916",
+          "start": "2021-07-01",
+          "end": "2023-07-07"
+        },
+        {
+          "team_qid": "Q2641",
+          "start": "2025-07-15",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2641",
+      "image_filename": "Austria U-18 vs. Netherlands U-18 2017-03-23 (094).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Noa_Lang",
+      "transfermarkt_id": "339332",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Capelle aan den IJssel",
+      "wikidata_current_club": "SSC Napoli",
+      "wikidata_current_club_qid": "Q2641",
+      "photo": {
+        "filename": "Austria U-18 vs. Netherlands U-18 2017-03-23 (094).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28094%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28094%29.jpg/960px-Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28094%29.jpg",
+        "width": 2000,
+        "height": 3000,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 23:03, 30 March 2017 (UTC)",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/noa-lang.jpg"
+      }
+    },
+    {
+      "slug": "donyell-malen",
+      "display_name": "Donyell Malen",
+      "shirt_no": 18,
+      "position_code": "FW",
+      "dob": "1999-01-19",
+      "age": 27,
+      "caps": 51,
+      "goals": 13,
+      "club_from_squad_table": "Roma",
+      "wikipedia_title": "Donyell Malen",
+      "date_of_birth": "1999-01-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Roma",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q24084301",
+      "qid": "Q24084301",
+      "name": "Donyell Malen",
+      "description": "Dutch association football player (born 1999)",
+      "place_of_birth_qid": "Q669547",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 1.79,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q13534332",
+          "start": "2017-08-31",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1811026",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q11938",
+          "start": "2018-07-01",
+          "end": "2021-07-27"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2021-07-27",
+          "end": "2025-01-00"
+        },
+        {
+          "team_qid": "Q47050",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18711",
+          "start": "2025-01-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2026-01-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2739",
+      "image_filename": "DONYELL MALEN – 2023.08.12.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Donyell_Malen",
+      "transfermarkt_id": "326029",
+      "fifa_player_id": "201385418",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Wieringen",
+      "wikidata_current_club": "AS Roma",
+      "wikidata_current_club_qid": "Q2739",
+      "photo": {
+        "filename": "DONYELL MALEN – 2023.08.12.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/DONYELL_MALEN_%E2%80%93_2023.08.12.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/DONYELL_MALEN_%E2%80%93_2023.08.12.jpg",
+        "width": 863,
+        "height": 1077,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sandro_Halank\" title=\"User:Sandro Halank\">Sandro Halank, Wikimedia Commons</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/donyell-malen.jpg"
+      }
+    },
+    {
+      "slug": "brian-brobbey",
+      "display_name": "Brian Brobbey",
+      "shirt_no": 19,
+      "position_code": "FW",
+      "dob": "2002-02-01",
+      "age": 24,
+      "caps": 10,
+      "goals": 1,
+      "club_from_squad_table": "Sunderland",
+      "wikipedia_title": "Brian Brobbey",
+      "date_of_birth": "2002-02-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sunderland",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q57456997",
+      "qid": "Q57456997",
+      "name": "Brian Brobbey",
+      "description": "Dutch association football player (born 2002)",
+      "place_of_birth_qid": "Q727",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q10467",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q104761",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q10467",
+      "image_filename": "GAE - Ajax - 52788469380 (Brobbey).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Brobbey",
+      "transfermarkt_id": "473169",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": "Amsterdam",
+      "wikidata_current_club": "FC Barcelona Atlètic",
+      "wikidata_current_club_qid": "Q10467",
+      "photo": {
+        "filename": "GAE - Ajax - 52788469380 (Brobbey).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/GAE_-_Ajax_-_52788469380_%28Brobbey%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/GAE_-_Ajax_-_52788469380_%28Brobbey%29.jpg/960px-GAE_-_Ajax_-_52788469380_%28Brobbey%29.jpg",
+        "width": 1691,
+        "height": 2259,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Carlo Bruil Fotografie",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/brian-brobbey.jpg"
+      }
+    },
+    {
+      "slug": "memphis-depay",
+      "display_name": "Memphis Depay",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1994-02-13",
+      "age": 32,
+      "caps": 108,
+      "goals": 55,
+      "club_from_squad_table": "Corinthians",
+      "wikipedia_title": "Memphis Depay",
+      "date_of_birth": "1994-02-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Corinthians",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q1894",
+      "qid": "Q1894",
+      "name": "Memphis Depay",
+      "description": "Dutch association football player (born 1994)",
+      "place_of_birth_qid": "Q1019303",
+      "citizenship_qids": [
+        "Q29999",
+        "Q117"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q8025128",
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q47050",
+          "start": "2013-10-15",
+          "end": null
+        },
+        {
+          "team_qid": "Q11938",
+          "start": "2011-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q601723",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q514714",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1811026",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q704",
+          "start": "2017-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2023-01-20",
+          "end": "2024-07-01"
+        },
+        {
+          "team_qid": "Q35933",
+          "start": "2024-09-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q35933",
+      "image_filename": "Memphis Depay 2019.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Memphis_Depay",
+      "transfermarkt_id": "167850",
+      "fifa_player_id": "336098",
+      "positions": [
+        "wing half",
+        "forward"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands",
+        "Ghana"
+      ],
+      "place_of_birth": "Moordrecht",
+      "wikidata_current_club": "S.C. Corinthians Paulista",
+      "wikidata_current_club_qid": "Q35933",
+      "photo": {
+        "filename": "Memphis Depay 2019.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Memphis_Depay_2019.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Memphis_Depay_2019.jpg",
+        "width": 400,
+        "height": 500,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<b>Derivative work: </b> <a href=\"//commons.wikimedia.org/w/index.php?title=User:Joe_Sins&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Joe Sins (page does not exist)\">Joe Sins</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/memphis-depay.jpg"
+      }
+    }
+  ],
+  "notes": [
+    "Netherlands imported 2026-05-24 from the national-team current squad table because the central 2026 FIFA World Cup squads article currently has no parseable Netherlands squad table; pending dedicated verifier audit.",
+    "Netherlands audit 2026-05-24: verifier confirmed all 26 current-squad source rows match local display name, DOB, age, position, caps, goals, and club; all QIDs and photos are valid. Some Wikidata current-club claims are stale/incomplete, so source-table club text remains authoritative."
+  ]
+}

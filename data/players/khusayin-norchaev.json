@@ -1,0 +1,91 @@
+{
+  "slug": "khusayin-norchaev",
+  "display_name": "Khusayin Norchaev",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2002-02-06",
+  "age": 24,
+  "caps": 1,
+  "goals": 1,
+  "club_from_squad_table": "Navbahor",
+  "wikipedia_title": "Khusayin Norchaev",
+  "date_of_birth": "2002-02-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Navbahor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q111305124",
+  "qid": "Q111305124",
+  "name": "Khusayin Norchaev",
+  "description": "Uzbekistani footballer",
+  "place_of_birth_qid": "Q4536706",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1150723",
+      "start": "2020-06-00",
+      "end": "2023-02-00"
+    },
+    {
+      "team_qid": "Q240438",
+      "start": "2023-02-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q870279",
+      "start": "2024-02-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3328961",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q125775470",
+      "start": "2021-05-00",
+      "end": "2021-05-00"
+    },
+    {
+      "team_qid": "Q3247955",
+      "start": "2022-03-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q487321",
+      "start": "2021-10-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q870279",
+  "image_filename": "Khusayin Norchaev.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Khusayin_Norchaev",
+  "transfermarkt_id": "704549",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Yakkabog",
+  "wikidata_current_club": "FC Neftchi Fergana",
+  "wikidata_current_club_qid": "Q870279",
+  "photo": {
+    "filename": "Khusayin Norchaev.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Khusayin_Norchaev.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Khusayin_Norchaev.jpg/960px-Khusayin_Norchaev.jpg",
+    "width": 1137,
+    "height": 1280,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "NOC of Uzbekistan",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/khusayin-norchaev.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

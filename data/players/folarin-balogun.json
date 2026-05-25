@@ -1,0 +1,89 @@
+{
+  "slug": "folarin-balogun",
+  "display_name": "Folarin Balogun",
+  "shirt_no": 20,
+  "position_code": "FW",
+  "dob": "2001-07-03",
+  "age": 24,
+  "caps": 25,
+  "goals": 8,
+  "club_from_squad_table": "Monaco",
+  "wikipedia_title": "Folarin Balogun",
+  "date_of_birth": "2001-07-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Monaco",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q101035007",
+  "qid": "Q101035007",
+  "name": "Folarin Balogun",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q60",
+  "citizenship_qids": [
+    "Q30",
+    "Q145"
+  ],
+  "height_cm": 1.78,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q9617",
+      "start": "2017-07-00",
+      "end": "2023-08-30"
+    },
+    {
+      "team_qid": "Q18661",
+      "start": "2022-01-12",
+      "end": "2022-06-30"
+    },
+    {
+      "team_qid": "Q208228",
+      "start": "2022-08-03",
+      "end": "2023-06-30"
+    },
+    {
+      "team_qid": "Q180305",
+      "start": "2023-08-30",
+      "end": null
+    },
+    {
+      "team_qid": "Q164134",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    }
+  ],
+  "current_club_qid": "Q180305",
+  "image_filename": "Folarin Balogun USMNT v Belgium Mar 28 2026-69 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Folarin_Balogun",
+  "transfermarkt_id": "503770",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "United States",
+    "United Kingdom"
+  ],
+  "place_of_birth": "New York City",
+  "wikidata_current_club": "AS Monaco FC",
+  "wikidata_current_club_qid": "Q180305",
+  "photo": {
+    "filename": "Folarin Balogun USMNT v Belgium Mar 28 2026-69 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Folarin_Balogun_USMNT_v_Belgium_Mar_28_2026-69_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Folarin_Balogun_USMNT_v_Belgium_Mar_28_2026-69_%28cropped%29.jpg/960px-Folarin_Balogun_USMNT_v_Belgium_Mar_28_2026-69_%28cropped%29.jpg",
+    "width": 3060,
+    "height": 4078,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/folarin-balogun.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

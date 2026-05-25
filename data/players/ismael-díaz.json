@@ -1,0 +1,85 @@
+{
+  "slug": "ismael-d\u00edaz",
+  "display_name": "Ismael D\u00edaz",
+  "shirt_no": 10,
+  "position_code": "FW",
+  "dob": "1997-05-12",
+  "age": 29,
+  "caps": 54,
+  "goals": 17,
+  "club_from_squad_table": "Le\u00f3n",
+  "wikipedia_title": "Ismael D\u00edaz (footballer, born 1997)",
+  "date_of_birth": "1997-05-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Le\u00f3n",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18921648",
+  "qid": "Q18921648",
+  "name": "Ismael D\u00edaz",
+  "description": "Panamanian footballer",
+  "place_of_birth_qid": "Q3306",
+  "citizenship_qids": [
+    "Q804"
+  ],
+  "height_cm": 182.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q5423714",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q921299",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3590746",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q7129942",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q223748",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q128446",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q8760",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q633223",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ismael_D%C3%ADaz_(footballer,_born_1997)",
+  "transfermarkt_id": "243298",
+  "fifa_player_id": "372342",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Panama"
+  ],
+  "place_of_birth": "Panama City",
+  "wikidata_current_club": "FC Porto B",
+  "wikidata_current_club_qid": "Q5423714",
+  "team_slug": "panama",
+  "team_country": "Panama",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

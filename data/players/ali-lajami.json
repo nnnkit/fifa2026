@@ -1,0 +1,83 @@
+{
+  "slug": "ali-lajami",
+  "display_name": "Ali Lajami",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-04-24",
+  "age": 30,
+  "caps": 19,
+  "goals": 1,
+  "club_from_squad_table": "Al-Hilal",
+  "wikipedia_title": "Ali Lajami",
+  "date_of_birth": "1996-04-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Hilal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q22812479",
+  "qid": "Q22812479",
+  "name": "Ali Lajami",
+  "description": "Saudi Arabian footballer",
+  "place_of_birth_qid": "Q847660",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 175.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2027718",
+      "start": "2015-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q2701659",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q482764",
+      "start": "2020-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q189723",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q73965",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q73965",
+  "image_filename": "AFC Elite League Western, Azadi Stadium, Persepolis 0-0 Al Nassr, 17 February 2025, Ali Lajami.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Lajami",
+  "transfermarkt_id": "264909",
+  "wikidata_date_of_birth": "1996-04-25",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Qatif governorate",
+  "wikidata_current_club": "Al Hilal SFC",
+  "wikidata_current_club_qid": "Q73965",
+  "photo": {
+    "filename": "AFC Elite League Western, Azadi Stadium, Persepolis 0-0 Al Nassr, 17 February 2025, Ali Lajami.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/AFC_Elite_League_Western%2C_Azadi_Stadium%2C_Persepolis_0-0_Al_Nassr%2C_17_February_2025%2C_Ali_Lajami.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/AFC_Elite_League_Western%2C_Azadi_Stadium%2C_Persepolis_0-0_Al_Nassr%2C_17_February_2025%2C_Ali_Lajami.jpg",
+    "width": 136,
+    "height": 256,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Meghdad Madadi",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ali-lajami.jpg"
+  },
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia"
+}

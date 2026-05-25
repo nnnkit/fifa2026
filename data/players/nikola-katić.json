@@ -1,0 +1,106 @@
+{
+  "slug": "nikola-katić",
+  "display_name": "Nikola Katić",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-10-10",
+  "age": 29,
+  "caps": 15,
+  "goals": 1,
+  "club_from_squad_table": "Schalke 04",
+  "wikipedia_title": "Nikola Katić",
+  "wikidata_qid": "Q27957334",
+  "qid": "Q27957334",
+  "name": "Nikola Katić",
+  "description": "Bosnian association football player (born 1996)",
+  "date_of_birth": "1996-10-10",
+  "place_of_birth_qid": "Q1018016",
+  "citizenship_qids": [
+    "Q225"
+  ],
+  "height_cm": 194.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19597",
+      "start": "2018-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q2331381",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q12637739",
+      "start": "2014-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q368909",
+      "start": "2015-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q181216",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q206692",
+      "start": "2022-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q48947",
+      "start": "2025-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q32494",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q134479",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q32494",
+  "image_filename": "SM-Rangers18 (16).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nikola_Kati%C4%87",
+  "transfermarkt_id": "422051",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Schalke 04",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Ljubuški",
+  "photo": {
+    "filename": "SM-Rangers18 (16).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/SM-Rangers18_%2816%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/SM-Rangers18_%2816%29.jpg",
+    "width": 636,
+    "height": 942,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Антон Зайцев",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nikola-katić.jpg"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

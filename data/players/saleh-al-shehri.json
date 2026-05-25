@@ -1,0 +1,88 @@
+{
+  "slug": "saleh-al-shehri",
+  "display_name": "Saleh Al-Shehri",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1993-11-01",
+  "age": 32,
+  "caps": 55,
+  "goals": 18,
+  "club_from_squad_table": "Al-Ittihad",
+  "wikipedia_title": "Saleh Al-Shehri",
+  "date_of_birth": "1993-11-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Ittihad",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q7403894",
+  "qid": "Q7403894",
+  "name": "Saleh Al-Shehri",
+  "description": "Saudi Arabian footballer",
+  "place_of_birth_qid": "Q374365",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 177.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2986998",
+      "start": "2015-01-01",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q44441",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q688300",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q3873541",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2756148",
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q189723",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q73965",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q73965",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q73965",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Saleh_Al-Shehri",
+  "transfermarkt_id": "242267",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Jeddah",
+  "wikidata_current_club": "Al Hilal SFC",
+  "wikidata_current_club_qid": "Q73965",
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

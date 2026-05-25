@@ -1,0 +1,68 @@
+{
+  "slug": "aubrey-modiba",
+  "display_name": "Aubrey Modiba",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1995-07-22",
+  "age": 30,
+  "caps": 44,
+  "goals": 3,
+  "club_from_squad_table": "Mamelodi Sundowns",
+  "wikipedia_title": "Aubrey Modiba",
+  "wikidata_qid": "Q26405966",
+  "qid": "Q26405966",
+  "name": "Aubrey Modiba",
+  "description": "South African footballer",
+  "date_of_birth": "1995-07-22",
+  "place_of_birth_qid": "Q131662",
+  "citizenship_qids": [
+    "Q258"
+  ],
+  "height_cm": 160.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q170327",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q607939",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q607939",
+  "image_filename": "Aubrey Modiba (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aubrey_Modiba",
+  "transfermarkt_id": "353432",
+  "fifa_player_id": "395050",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Mamelodi Sundowns",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "South Africa"
+  ],
+  "place_of_birth": "Polokwane",
+  "wikidata_current_club": "Orlando Pirates F.C.",
+  "wikidata_current_club_qid": "Q607939",
+  "photo": {
+    "filename": "Aubrey Modiba (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Aubrey_Modiba_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Aubrey_Modiba_%28cropped%29.jpg",
+    "width": 446,
+    "height": 660,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Carlo Bruil Fotografie",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/aubrey-modiba.jpg"
+  },
+  "team_slug": "south-africa",
+  "team_country": "South Africa"
+}

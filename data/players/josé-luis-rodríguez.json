@@ -1,0 +1,118 @@
+{
+  "slug": "jos\u00e9-luis-rodr\u00edguez",
+  "display_name": "Jos\u00e9 Luis Rodr\u00edguez",
+  "shirt_no": 7,
+  "position_code": "MF",
+  "dob": "1998-06-19",
+  "age": 27,
+  "caps": 67,
+  "goals": 8,
+  "club_from_squad_table": "Ju\u00e1rez",
+  "wikipedia_title": "Jos\u00e9 Luis Rodr\u00edguez (footballer, born 1998)",
+  "date_of_birth": "1998-06-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Ju\u00e1rez",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q54512527",
+  "qid": "Q54512527",
+  "name": "Jos\u00e9 Luis Rodr\u00edguez",
+  "description": "Panamanian association football player",
+  "place_of_birth_qid": "Q3306",
+  "citizenship_qids": [
+    "Q804"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18232",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q223748",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q96091531",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q18232",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q725916",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q5260721",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q5260721",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q223620",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q11984",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q12278",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1387105",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q173009",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q20051399",
+  "image_filename": "Jos\u00e9 Rodr\u00edguez.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_(footballer,_born_1998)",
+  "transfermarkt_id": "425028",
+  "fifa_player_id": "411176",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Panama"
+  ],
+  "place_of_birth": "Panama City",
+  "wikidata_current_club": "FK Crvena zvezda",
+  "wikidata_current_club_qid": "Q173009",
+  "photo": {
+    "filename": "Jos\u00e9 Rodr\u00edguez.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Jos%C3%A9_Rodr%C3%ADguez.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Jos%C3%A9_Rodr%C3%ADguez.jpg",
+    "width": 372,
+    "height": 712,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jos\u00e9-luis-rodr\u00edguez.jpg"
+  },
+  "team_slug": "panama",
+  "team_country": "Panama"
+}

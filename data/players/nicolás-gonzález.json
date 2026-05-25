@@ -1,0 +1,87 @@
+{
+  "slug": "nicolás-gonzález",
+  "display_name": "Nicolás González",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1998-04-06",
+  "age": 28,
+  "caps": 50,
+  "goals": 6,
+  "club_from_squad_table": "Atlético Madrid",
+  "wikipedia_title": "Nicolás González (footballer, born 1998)",
+  "wikidata_qid": "Q43381082",
+  "qid": "Q43381082",
+  "name": "Nicolás González",
+  "description": "Argentine association football player (born 1998)",
+  "date_of_birth": "1998-04-06",
+  "place_of_birth_qid": "Q816341",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q4512",
+      "start": "2018-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q220621",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q2052",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2462207",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1422",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1422",
+  "image_filename": "Nicolas Gonzalez (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Gonz%C3%A1lez_(footballer,_born_1998)",
+  "transfermarkt_id": "486031",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atlético Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Belén de Escobar",
+  "wikidata_current_club": "Juventus FC",
+  "wikidata_current_club_qid": "Q1422",
+  "photo": {
+    "filename": "Nicolas Gonzalez (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Nicolas_Gonzalez_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Nicolas_Gonzalez_%28cropped%29.jpg",
+    "width": 493,
+    "height": 672,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Silesia711\" title=\"User:Silesia711\">Silesia711</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nicolás-gonzález.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

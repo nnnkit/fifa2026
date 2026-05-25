@@ -1,0 +1,89 @@
+{
+  "slug": "ramy-rabia",
+  "display_name": "Ramy Rabia",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1993-05-20",
+  "age": 33,
+  "caps": 43,
+  "goals": 5,
+  "club_from_squad_table": "Al Ain",
+  "wikipedia_title": "Ramy Rabia",
+  "date_of_birth": "1993-05-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al Ain",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q501274",
+  "qid": "Q501274",
+  "name": "Ramy Rabia",
+  "description": "Egyptian association football player",
+  "place_of_birth_qid": "Q85",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "height_cm": 156.0,
+  "weight_kg": 86.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q75729",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q223566",
+      "start": "2010-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q3494112",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q223566",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3589884",
+      "start": "2009-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q28089",
+      "start": "2013-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q223566",
+  "image_filename": "RamiRabea2020.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ramy_Rabia",
+  "transfermarkt_id": "172623",
+  "fifa_player_id": "344661",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "place_of_birth": "Cairo",
+  "wikidata_current_club": "Al Ahly SC",
+  "wikidata_current_club_qid": "Q223566",
+  "photo": {
+    "filename": "RamiRabea2020.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/RamiRabea2020.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/RamiRabea2020.jpg",
+    "width": 950,
+    "height": 950,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Al Ahly TV",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ramy-rabia.jpg"
+  },
+  "team_slug": "egypt",
+  "team_country": "Egypt"
+}

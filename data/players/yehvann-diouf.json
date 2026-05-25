@@ -1,0 +1,89 @@
+{
+  "slug": "yehvann-diouf",
+  "display_name": "Yehvann Diouf",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1999-11-16",
+  "age": 26,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Nice",
+  "wikipedia_title": "Yehvann Diouf",
+  "date_of_birth": "1999-11-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Nice",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64010489",
+  "qid": "Q64010489",
+  "name": "Yehvann Diouf",
+  "description": "Senegalese association football player (born 1999)",
+  "place_of_birth_qid": "Q193370",
+  "citizenship_qids": [
+    "Q142",
+    "Q1041"
+  ],
+  "height_cm": 1.9,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q501693",
+      "start": "2016-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q208228",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2701714",
+      "start": "2017-09-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1450557",
+      "start": "2017-03-00",
+      "end": "2017-06-00"
+    },
+    {
+      "team_qid": "Q1344163",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q207441",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q208228",
+  "image_filename": "Diouf asse sr 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yehvann_Diouf",
+  "transfermarkt_id": "448632",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "France",
+    "Senegal"
+  ],
+  "place_of_birth": "Montreuil",
+  "wikidata_current_club": "Stade de Reims",
+  "wikidata_current_club_qid": "Q208228",
+  "photo": {
+    "filename": "Diouf asse sr 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Diouf_asse_sr_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Diouf_asse_sr_2425.png",
+    "width": 534,
+    "height": 711,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/yehvann-diouf.png"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

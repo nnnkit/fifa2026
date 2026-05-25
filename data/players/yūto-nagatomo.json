@@ -1,0 +1,103 @@
+{
+  "slug": "y\u016bto-nagatomo",
+  "display_name": "Y\u016bto Nagatomo",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1986-09-12",
+  "age": 39,
+  "caps": 144,
+  "goals": 4,
+  "club_from_squad_table": "FC Tokyo",
+  "wikipedia_title": "Y\u016bto Nagatomo",
+  "date_of_birth": "1986-09-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "FC Tokyo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q281734",
+  "qid": "Q281734",
+  "name": "Y\u016bto Nagatomo",
+  "description": "Japanese association football player (born 1986)",
+  "place_of_birth_qid": "Q633945",
+  "citizenship_qids": [
+    "Q17"
+  ],
+  "height_cm": 170.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q631",
+      "start": "2011-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q856619",
+      "start": "2007-01-01",
+      "end": "2010-00-00"
+    },
+    {
+      "team_qid": "Q6664",
+      "start": "2010-01-01",
+      "end": "2010-00-00"
+    },
+    {
+      "team_qid": "Q170566",
+      "start": "2008-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1683280",
+      "start": "2007-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q495299",
+      "start": "2018-01-00",
+      "end": "2018-06-00"
+    },
+    {
+      "team_qid": "Q495299",
+      "start": "2018-07-00",
+      "end": "2020-07-00"
+    },
+    {
+      "team_qid": "Q132885",
+      "start": "2020-08-00",
+      "end": "2021-06-00"
+    },
+    {
+      "team_qid": "Q856619",
+      "start": "2021-09-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q856619",
+  "image_filename": "Yuto Nagatomo 2011.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Y%C5%ABto_Nagatomo",
+  "transfermarkt_id": "79522",
+  "fifa_player_id": "291372",
+  "uefa_player_id": "9420",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Japan"
+  ],
+  "place_of_birth": "Saijo",
+  "photo": {
+    "filename": "Yuto Nagatomo 2011.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Yuto_Nagatomo_2011.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Yuto_Nagatomo_2011.jpg",
+    "width": 524,
+    "height": 800,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u041c\u0430\u0439\u043e\u0440\u043e\u0432 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/y\u016bto-nagatomo.jpg"
+  },
+  "team_slug": "japan",
+  "team_country": "Japan"
+}

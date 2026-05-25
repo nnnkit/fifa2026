@@ -1,0 +1,1955 @@
+{
+  "slug": "ecuador",
+  "country": "Ecuador",
+  "wikidata_qid": "Q987584",
+  "fetched_at": "2026-05-24T15:21:04+00:00",
+  "source": {
+    "kind": "national-team",
+    "title": "Ecuador national football team",
+    "url": "https://en.wikipedia.org/wiki/Ecuador_national_football_team"
+  },
+  "squad_size": 30,
+  "players": [
+    {
+      "slug": "hernán-galíndez",
+      "display_name": "Hernán Galíndez",
+      "shirt_no": 1,
+      "position_code": "GK",
+      "dob": "1987-03-30",
+      "age": 39,
+      "caps": 34,
+      "goals": 0,
+      "club_from_squad_table": "Huracán",
+      "wikipedia_title": "Hernán Galíndez",
+      "date_of_birth": "1987-03-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Huracán",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q5742434",
+      "qid": "Q5742434",
+      "name": "Hernán Galíndez",
+      "description": "footballer that plays for Ecuador",
+      "place_of_birth_qid": "Q52535",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 1.88,
+      "position_qids": [
+        "Q172964"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2308911",
+          "start": "2012-02-00",
+          "end": "2013-01-00"
+        },
+        {
+          "team_qid": "Q775966",
+          "start": "2010-00-00",
+          "end": "2011-00-00"
+        },
+        {
+          "team_qid": "Q318307",
+          "start": "2008-00-00",
+          "end": "2011-00-00"
+        },
+        {
+          "team_qid": "Q737753",
+          "start": "2022-01-00",
+          "end": "2022-07-00"
+        },
+        {
+          "team_qid": "Q2476133",
+          "start": "2022-07-00",
+          "end": "2023-12-31"
+        },
+        {
+          "team_qid": "Q987584",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2308911",
+          "start": "2013-00-00",
+          "end": "2022-01-00"
+        },
+        {
+          "team_qid": "Q719439",
+          "start": "2012-01-00",
+          "end": "2013-01-00"
+        },
+        {
+          "team_qid": "Q327172",
+          "start": "2024-01-08",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q327172",
+      "image_filename": "HERNÁN GALÍNDEZ.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Gal%C3%ADndez",
+      "transfermarkt_id": "77127",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Rosario",
+      "wikidata_current_club": "Club Atlético Huracán",
+      "wikidata_current_club_qid": "Q327172",
+      "photo": {
+        "filename": "HERNÁN GALÍNDEZ.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/HERN%C3%81N_GAL%C3%8DNDEZ.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HERN%C3%81N_GAL%C3%8DNDEZ.jpg/960px-HERN%C3%81N_GAL%C3%8DNDEZ.jpg",
+        "width": 2432,
+        "height": 3130,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/agenciaandes_ec/\">Agencia de Noticias ANDES</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/hernán-galíndez.jpg"
+      }
+    },
+    {
+      "slug": "david-cabezas",
+      "display_name": "David Cabezas",
+      "shirt_no": 12,
+      "position_code": "GK",
+      "dob": "1995-06-12",
+      "age": 30,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Libertad",
+      "wikipedia_title": "David Cabezas",
+      "date_of_birth": "1995-06-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Libertad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q136757925",
+      "qid": "Q136757925",
+      "name": "David Cabezas",
+      "description": "Ecuadorian footballer (born 1995)",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Cabezas",
+      "citizenship": [
+        "Ecuador"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "gonzalo-valle",
+      "display_name": "Gonzalo Valle",
+      "shirt_no": 22,
+      "position_code": "GK",
+      "dob": "1996-02-28",
+      "age": 30,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "LDU Quito",
+      "wikipedia_title": "Gonzalo Valle",
+      "date_of_birth": "1996-02-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "LDU Quito",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q87119732",
+      "qid": "Q87119732",
+      "name": "Gonzalo Valle",
+      "description": "Ecuadorian footballer",
+      "place_of_birth_qid": "Q478675",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 1.85,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gonzalo_Valle",
+      "transfermarkt_id": "351941",
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Riobamba",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "moisés-ramírez",
+      "display_name": "Moisés Ramírez",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2000-09-09",
+      "age": 25,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Kifisia",
+      "wikipedia_title": "Moisés Ramírez",
+      "date_of_birth": "2000-09-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Kifisia",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60842106",
+      "qid": "Q60842106",
+      "name": "Moisés Ramírez",
+      "description": "Ecuadorian association football player",
+      "place_of_birth_qid": "Q43509",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q249648",
+          "start": "2018-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q1067750",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q987584",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q16245443",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q16245443",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mois%C3%A9s_Ram%C3%ADrez",
+      "transfermarkt_id": "450233",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Guayaquil",
+      "wikidata_current_club": "A.E. Kifisia F.C.",
+      "wikidata_current_club_qid": "Q16245443",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "félix-torres",
+      "display_name": "Félix Torres",
+      "shirt_no": 2,
+      "position_code": "DF",
+      "dob": "1997-01-11",
+      "age": 29,
+      "caps": 47,
+      "goals": 5,
+      "club_from_squad_table": "Internacional",
+      "wikipedia_title": "Félix Torres (footballer, born 1997)",
+      "date_of_birth": "1997-01-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Internacional",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30916190",
+      "qid": "Q30916190",
+      "name": "Félix Torres",
+      "description": "Ecuadorian association football player (1997-)",
+      "place_of_birth_qid": "Q7414682",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 187.0,
+      "position_qids": [
+        "Q31861287"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q248782",
+          "start": "2017-02-00",
+          "end": "2017-12-00"
+        },
+        {
+          "team_qid": "Q3328904",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q987584",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q114897472",
+          "start": null,
+          "end": "2016-02-00"
+        },
+        {
+          "team_qid": "Q114897518",
+          "start": "2016-02-00",
+          "end": "2018-02-00"
+        },
+        {
+          "team_qid": "Q248782",
+          "start": "2018-02-00",
+          "end": "2019-07-00"
+        },
+        {
+          "team_qid": "Q745246",
+          "start": "2019-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q35933",
+          "start": "2024-01-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q35933",
+      "image_filename": "2022 FIFA World Cup Qatar 0–2 Ecuador - (13).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/F%C3%A9lix_Torres_(footballer,_born_1997)",
+      "transfermarkt_id": "468174",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "San Lorenzo",
+      "wikidata_current_club": "S.C. Corinthians Paulista",
+      "wikidata_current_club_qid": "Q35933",
+      "photo": {
+        "filename": "2022 FIFA World Cup Qatar 0–2 Ecuador - (13).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/2022_FIFA_World_Cup_Qatar_0%E2%80%932_Ecuador_-_%2813%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/2022_FIFA_World_Cup_Qatar_0%E2%80%932_Ecuador_-_%2813%29.jpg",
+        "width": 800,
+        "height": 531,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "حسین ظهروند",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/félix-torres.jpg"
+      }
+    },
+    {
+      "slug": "josé-hurtado",
+      "display_name": "José Hurtado",
+      "shirt_no": 3,
+      "position_code": "DF",
+      "dob": "2001-12-23",
+      "age": 24,
+      "caps": 9,
+      "goals": 0,
+      "club_from_squad_table": "Red Bull Bragantino",
+      "wikipedia_title": "José Hurtado (footballer)",
+      "date_of_birth": "2001-12-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Red Bull Bragantino",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q106638309",
+      "qid": "Q106638309",
+      "name": "José Hurtado",
+      "description": "Ecuadorian footballer (2001)",
+      "place_of_birth_qid": "Q1015654",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q249648",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q541744",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q987584",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q541744",
+      "image_filename": "Série A1 Bragantino 1x0 Corinthians (52633090853) - José Hurtado.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Hurtado_(footballer)",
+      "transfermarkt_id": "680506",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Santo Domingo",
+      "photo": {
+        "filename": "Série A1 Bragantino 1x0 Corinthians (52633090853) - José Hurtado.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/S%C3%A9rie_A1_Bragantino_1x0_Corinthians_%2852633090853%29_-_Jos%C3%A9_Hurtado.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/S%C3%A9rie_A1_Bragantino_1x0_Corinthians_%2852633090853%29_-_Jos%C3%A9_Hurtado.jpg",
+        "width": 716,
+        "height": 1463,
+        "license": "PDM-owner",
+        "license_url": null,
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/132986455@N04\">SOCCER DIGITAL</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/josé-hurtado.jpg"
+      }
+    },
+    {
+      "slug": "joel-ordóñez",
+      "display_name": "Joel Ordóñez",
+      "shirt_no": 4,
+      "position_code": "DF",
+      "dob": "2004-04-21",
+      "age": 22,
+      "caps": 16,
+      "goals": 0,
+      "club_from_squad_table": "Club Brugge",
+      "wikipedia_title": "Joel Ordóñez",
+      "date_of_birth": "2004-04-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Club Brugge",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q113390994",
+      "qid": "Q113390994",
+      "name": "Joel Ordóñez",
+      "description": "Ecuadorian footballer (born 2001)",
+      "place_of_birth_qid": "Q43509",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 1.88,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joel_Ord%C3%B3%C3%B1ez",
+      "transfermarkt_id": "893661",
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Guayaquil",
+      "image_filename": "JoelOrdóñez.jpg",
+      "photo": {
+        "filename": "JoelOrdóñez.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/JoelOrd%C3%B3%C3%B1ez.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/JoelOrd%C3%B3%C3%B1ez.jpg",
+        "width": 400,
+        "height": 500,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Adrnrls&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Adrnrls (page does not exist)\">Adrnrls</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/joel-ordóñez.jpg"
+      }
+    },
+    {
+      "slug": "willian-pacho",
+      "display_name": "Willian Pacho",
+      "shirt_no": 6,
+      "position_code": "DF",
+      "dob": "2001-10-16",
+      "age": 24,
+      "caps": 34,
+      "goals": 2,
+      "club_from_squad_table": "Paris Saint-Germain",
+      "wikipedia_title": "Willian Pacho",
+      "date_of_birth": "2001-10-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris Saint-Germain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q87767569",
+      "qid": "Q87767569",
+      "name": "Willian Pacho",
+      "description": "Ecuadorian association football player",
+      "place_of_birth_qid": "Q7367138",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 1.87,
+      "weight_kg": 81.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q249648",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q732002",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q38245",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2024-08-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q987584",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q483020",
+      "image_filename": "Pacho asse psg 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Willian_Pacho",
+      "transfermarkt_id": "661171",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Rosa Zárate",
+      "wikidata_current_club": "Paris Saint-Germain FC",
+      "wikidata_current_club_qid": "Q483020",
+      "photo": {
+        "filename": "Pacho asse psg 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pacho_asse_psg_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pacho_asse_psg_2425.png",
+        "width": 500,
+        "height": 772,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/willian-pacho.png"
+      }
+    },
+    {
+      "slug": "pervis-estupiñán",
+      "display_name": "Pervis Estupiñán",
+      "shirt_no": 7,
+      "position_code": "DF",
+      "dob": "1998-01-21",
+      "age": 28,
+      "caps": 52,
+      "goals": 4,
+      "club_from_squad_table": "Milan",
+      "wikipedia_title": "Pervis Estupiñán",
+      "date_of_birth": "1998-01-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Milan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20994068",
+      "qid": "Q20994068",
+      "name": "Pervis Estupiñán",
+      "description": "Ecuadorian association football player",
+      "place_of_birth_qid": "Q149955",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 175.0,
+      "weight_kg": 79.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q249643",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q8812",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q2714",
+          "start": "2016-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q8964927",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q10407",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q8835",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q10286",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q3589886",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q3328904",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q987584",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2025-07-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1543",
+      "image_filename": "Pervis Estupiñán WC2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pervis_Estupi%C3%B1%C3%A1n",
+      "transfermarkt_id": "349599",
+      "fifa_player_id": "389782",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Esmeraldas",
+      "wikidata_current_club": "AC Milan",
+      "wikidata_current_club_qid": "Q1543",
+      "photo": {
+        "filename": "Pervis Estupiñán WC2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Pervis_Estupi%C3%B1%C3%A1n_WC2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Pervis_Estupi%C3%B1%C3%A1n_WC2022.jpg",
+        "width": 350,
+        "height": 372,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "حسین ظهروند",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/pervis-estupiñán.jpg"
+      }
+    },
+    {
+      "slug": "ángelo-preciado",
+      "display_name": "Ángelo Preciado",
+      "shirt_no": 17,
+      "position_code": "DF",
+      "dob": "1998-02-18",
+      "age": 28,
+      "caps": 53,
+      "goals": 0,
+      "club_from_squad_table": "Atlético Mineiro",
+      "wikipedia_title": "Ángelo Preciado",
+      "date_of_birth": "1998-02-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlético Mineiro",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q56599873",
+      "qid": "Q56599873",
+      "name": "Angelo Preciado",
+      "description": "Ecuadorian association football player",
+      "place_of_birth_qid": "Q1992924",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 1.73,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q249648",
+          "start": null,
+          "end": "2021-01-00"
+        },
+        {
+          "team_qid": "Q216032",
+          "start": "2021-01-00",
+          "end": "2023-09-00"
+        },
+        {
+          "team_qid": "Q193481",
+          "start": "2023-09-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q987584",
+          "start": "2018-10-12",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q193481",
+      "image_filename": "Angelo Preciado.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81ngelo_Preciado",
+      "transfermarkt_id": "450241",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Shushufindi Canton",
+      "wikidata_current_club": "AC Sparta Prague",
+      "wikidata_current_club_qid": "Q193481",
+      "photo": {
+        "filename": "Angelo Preciado.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Angelo_Preciado.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Angelo_Preciado.jpg",
+        "width": 275,
+        "height": 384,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "حسین ظهروند",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ángelo-preciado.jpg"
+      }
+    },
+    {
+      "slug": "jackson-porozo",
+      "display_name": "Jackson Porozo",
+      "shirt_no": 25,
+      "position_code": "DF",
+      "dob": "2000-08-04",
+      "age": 25,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Tijuana",
+      "wikipedia_title": "Jackson Porozo",
+      "date_of_birth": "2000-08-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Tijuana",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60842110",
+      "qid": "Q60842110",
+      "name": "Jackson Porozo",
+      "description": "Ecuadorian association football player",
+      "place_of_birth_qid": "Q7414682",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 192.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q80955",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q2501106",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q219703",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q501693",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q987584",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19628",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q138230",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q138230",
+      "image_filename": "Jackson Porozo 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jackson_Porozo",
+      "transfermarkt_id": "491616",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "San Lorenzo",
+      "wikidata_current_club": "Kasımpaşa S.K.",
+      "wikidata_current_club_qid": "Q138230",
+      "photo": {
+        "filename": "Jackson Porozo 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jackson_Porozo_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jackson_Porozo_2022.jpg",
+        "width": 582,
+        "height": 760,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "ESTAC Troyes",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jackson-porozo.jpg"
+      }
+    },
+    {
+      "slug": "leonardo-realpe",
+      "display_name": "Leonardo Realpe",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-02-26",
+      "age": 25,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Famalicão",
+      "wikipedia_title": "Leonardo Realpe",
+      "date_of_birth": "2001-02-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Famalicão",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q81405188",
+      "qid": "Q81405188",
+      "name": "Leonardo Realpe",
+      "description": "Ecuadorian football player",
+      "place_of_birth_qid": "Q7367138",
+      "height_cm": 186.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q249648",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q249648",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leonardo_Realpe",
+      "transfermarkt_id": "656409",
+      "positions": [
+        "defender"
+      ],
+      "place_of_birth": "Rosa Zárate",
+      "wikidata_current_club": "Independiente del Valle",
+      "wikidata_current_club_qid": "Q249648",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jordy-alcívar",
+      "display_name": "Jordy Alcívar",
+      "shirt_no": 5,
+      "position_code": "MF",
+      "dob": "1999-08-05",
+      "age": 26,
+      "caps": 9,
+      "goals": 1,
+      "club_from_squad_table": "Independiente del Valle",
+      "wikipedia_title": "Jordy Alcívar",
+      "date_of_birth": "1999-08-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Independiente del Valle",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60842122",
+      "qid": "Q60842122",
+      "name": "Jordy Alcívar",
+      "description": "Ecuadorian association football player",
+      "place_of_birth_qid": "Q990738",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 173.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q249643",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q249643",
+      "image_filename": "SESIÓN NO. 603 DEL PLENO DE LA ASAMBLEA NACIONAL. QUITO, 25 DE JUNIO 2019. (48129379208) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jordy_Alc%C3%ADvar",
+      "transfermarkt_id": "598145",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Manta",
+      "wikidata_current_club": "Liga Deportiva Universitaria de Quito",
+      "wikidata_current_club_qid": "Q249643",
+      "photo": {
+        "filename": "SESIÓN NO. 603 DEL PLENO DE LA ASAMBLEA NACIONAL. QUITO, 25 DE JUNIO 2019. (48129379208) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/SESI%C3%93N_NO._603_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._QUITO%2C_25_DE_JUNIO_2019._%2848129379208%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/SESI%C3%93N_NO._603_DEL_PLENO_DE_LA_ASAMBLEA_NACIONAL._QUITO%2C_25_DE_JUNIO_2019._%2848129379208%29_%28cropped%29.jpg",
+        "width": 493,
+        "height": 734,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/31582298@N08\">Asamblea Nacional  del Ecuador</a> from QUito, Ecuador",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jordy-alcívar.jpg"
+      }
+    },
+    {
+      "slug": "john-yeboah",
+      "display_name": "John Yeboah",
+      "shirt_no": 9,
+      "position_code": "MF",
+      "dob": "2000-06-23",
+      "age": 25,
+      "caps": 21,
+      "goals": 3,
+      "club_from_squad_table": "Venezia",
+      "wikipedia_title": "John Yeboah",
+      "date_of_birth": "2000-06-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Venezia",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q58215731",
+      "qid": "Q58215731",
+      "name": "John Yeboah",
+      "description": "Ecuadorian association football player (born 2000)",
+      "place_of_birth_qid": "Q1055",
+      "citizenship_qids": [
+        "Q183",
+        "Q736"
+      ],
+      "height_cm": 170.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q101859",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q16645947",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1202759",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q319699",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2016992",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q324854",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q987584",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q101859",
+      "image_filename": "John Yeboah 2020.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Yeboah",
+      "transfermarkt_id": "439914",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Germany",
+        "Ecuador"
+      ],
+      "place_of_birth": "Hamburg",
+      "wikidata_current_club": "VfL Wolfsburg",
+      "wikidata_current_club_qid": "Q101859",
+      "photo": {
+        "filename": "John Yeboah 2020.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/John_Yeboah_2020.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/John_Yeboah_2020.png",
+        "width": 896,
+        "height": 911,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "VVV-Venlo",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/john-yeboah.png"
+      }
+    },
+    {
+      "slug": "kendry-páez",
+      "display_name": "Kendry Páez",
+      "shirt_no": 10,
+      "position_code": "MF",
+      "dob": "2007-05-04",
+      "age": 19,
+      "caps": 24,
+      "goals": 2,
+      "club_from_squad_table": "River Plate",
+      "wikipedia_title": "Kendry Páez",
+      "date_of_birth": "2007-05-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "River Plate",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q116466426",
+      "qid": "Q116466426",
+      "name": "Kendry Páez",
+      "description": "Ecuadorian footballer",
+      "place_of_birth_qid": "Q43509",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 1.77,
+      "image_filename": "Kendry Paez 2023 Sudamericano Sub 17 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kendry_P%C3%A1ez",
+      "transfermarkt_id": "1052439",
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Guayaquil",
+      "photo": {
+        "filename": "Kendry Paez 2023 Sudamericano Sub 17 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Kendry_Paez_2023_Sudamericano_Sub_17_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Kendry_Paez_2023_Sudamericano_Sub_17_%28cropped%29.jpg",
+        "width": 327,
+        "height": 589,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Hyperba21\" title=\"User:Hyperba21\">Hyperba</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kendry-páez.jpg"
+      }
+    },
+    {
+      "slug": "alan-minda",
+      "display_name": "Alan Minda",
+      "shirt_no": 14,
+      "position_code": "MF",
+      "dob": "2003-05-14",
+      "age": 23,
+      "caps": 19,
+      "goals": 2,
+      "club_from_squad_table": "Atlético Mineiro",
+      "wikipedia_title": "Alan Minda",
+      "date_of_birth": "2003-05-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlético Mineiro",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q116054089",
+      "qid": "Q116054089",
+      "name": "Alan Minda",
+      "description": "Ecuadorian association football player",
+      "place_of_birth_qid": "Q149955",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 170.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q364698",
+          "start": "2023-07-12",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q364698",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alan_Minda",
+      "transfermarkt_id": "897051",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Esmeraldas",
+      "wikidata_current_club": "Cercle Brugge K.S.V.",
+      "wikidata_current_club_qid": "Q364698",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "pedro-vite",
+      "display_name": "Pedro Vite",
+      "shirt_no": 15,
+      "position_code": "MF",
+      "dob": "2002-03-09",
+      "age": 24,
+      "caps": 16,
+      "goals": 1,
+      "club_from_squad_table": "UNAM",
+      "wikipedia_title": "Pedro Vite",
+      "date_of_birth": "2002-03-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "UNAM",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q105920173",
+      "qid": "Q105920173",
+      "name": "Pedro Vite",
+      "description": "Ecuadorian footballer",
+      "place_of_birth_qid": "Q797568",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 170.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Inter Miami CF 3-1 UNAM (6 August 2025) 04 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Vite",
+      "transfermarkt_id": "659806",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Babahoyo",
+      "photo": {
+        "filename": "Inter Miami CF 3-1 UNAM (6 August 2025) 04 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Inter_Miami_CF_3-1_UNAM_%286_August_2025%29_04_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Inter_Miami_CF_3-1_UNAM_%286_August_2025%29_04_%28cropped%29.jpg",
+        "width": 223,
+        "height": 341,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:TheSoccerBoy\" title=\"User:TheSoccerBoy\">TheSoccerBoy</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/pedro-vite.jpg"
+      }
+    },
+    {
+      "slug": "gonzalo-plata",
+      "display_name": "Gonzalo Plata",
+      "shirt_no": 19,
+      "position_code": "MF",
+      "dob": "2000-11-01",
+      "age": 25,
+      "caps": 49,
+      "goals": 8,
+      "club_from_squad_table": "Flamengo",
+      "wikipedia_title": "Gonzalo Plata",
+      "date_of_birth": "2000-11-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Flamengo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60842120",
+      "qid": "Q60842120",
+      "name": "Gonzalo Plata",
+      "description": "Ecuadorian footballer",
+      "place_of_birth_qid": "Q43509",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q193592",
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q75729",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q249648",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q75729",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gonzalo_Plata",
+      "transfermarkt_id": "592735",
+      "positions": [
+        "midfielder",
+        "forward"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Guayaquil",
+      "wikidata_current_club": "Sporting CP",
+      "wikidata_current_club_qid": "Q75729",
+      "image_filename": "2022_FIFA_World_Cup_Qatar_0–2_Ecuador_-_Plata.jpg",
+      "photo": {
+        "filename": "2022_FIFA_World_Cup_Qatar_0–2_Ecuador_-_Plata.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/2022_FIFA_World_Cup_Qatar_0%E2%80%932_Ecuador_-_Plata.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/2022_FIFA_World_Cup_Qatar_0%E2%80%932_Ecuador_-_Plata.jpg",
+        "width": 239,
+        "height": 272,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "حسین ظهروند",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/gonzalo-plata.jpg"
+      }
+    },
+    {
+      "slug": "alan-franco",
+      "display_name": "Alan Franco",
+      "shirt_no": 21,
+      "position_code": "MF",
+      "dob": "1998-08-21",
+      "age": 27,
+      "caps": 57,
+      "goals": 1,
+      "club_from_squad_table": "Atlético Mineiro",
+      "wikipedia_title": "Alan Franco (footballer, born 1998)",
+      "date_of_birth": "1998-08-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlético Mineiro",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q56164119",
+      "qid": "Q56164119",
+      "name": "Alan Franco",
+      "description": "Ecuadoran association football player (1998-)",
+      "place_of_birth_qid": "Q4723711",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 174.0,
+      "weight_kg": 67.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q249648",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q270995",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q78944434",
+          "start": "2022-01-00",
+          "end": "2022-06-00"
+        },
+        {
+          "team_qid": "Q1022939",
+          "start": "2022-06-00",
+          "end": "2023-06-00"
+        },
+        {
+          "team_qid": "Q987584",
+          "start": "2018-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q270995",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alan_Franco_(footballer,_born_1998)",
+      "transfermarkt_id": "400960",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Alfredo Baquerizo Moreno",
+      "wikidata_current_club": "Clube Atlético Mineiro",
+      "wikidata_current_club_qid": "Q270995",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "moisés-caicedo",
+      "display_name": "Moisés Caicedo",
+      "shirt_no": 23,
+      "position_code": "MF",
+      "dob": "2001-11-02",
+      "age": 24,
+      "caps": 60,
+      "goals": 3,
+      "club_from_squad_table": "Chelsea",
+      "wikipedia_title": "Moisés Caicedo",
+      "date_of_birth": "2001-11-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Chelsea",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q87715532",
+      "qid": "Q87715532",
+      "name": "Moisés Caicedo",
+      "description": "Ecuatorian association football player (born 2001)",
+      "place_of_birth_qid": "Q1015654",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q249648",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2021-02-01",
+          "end": "2023-08-14"
+        },
+        {
+          "team_qid": "Q646079",
+          "start": "2021-08-31",
+          "end": "2022-01-12"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2023-08-14",
+          "end": null
+        },
+        {
+          "team_qid": "Q987584",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9616",
+      "image_filename": "Moisés Caicedo 20042025 (1).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mois%C3%A9s_Caicedo",
+      "transfermarkt_id": "687626",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Santo Domingo",
+      "wikidata_current_club": "Chelsea F.C.",
+      "wikidata_current_club_qid": "Q9616",
+      "photo": {
+        "filename": "Moisés Caicedo 20042025 (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Mois%C3%A9s_Caicedo_20042025_%281%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mois%C3%A9s_Caicedo_20042025_%281%29.jpg/960px-Mois%C3%A9s_Caicedo_20042025_%281%29.jpg",
+        "width": 974,
+        "height": 1461,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/moisés-caicedo.jpg"
+      }
+    },
+    {
+      "slug": "yaimar-medina",
+      "display_name": "Yaimar Medina",
+      "shirt_no": 24,
+      "position_code": "MF",
+      "dob": "2004-11-05",
+      "age": 21,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Genk",
+      "wikipedia_title": "Yaimar Medina",
+      "date_of_birth": "2004-11-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Genk",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q116235098",
+      "qid": "Q116235098",
+      "name": "Yaimar Medina",
+      "description": "Ecuadorian footballer",
+      "place_of_birth_qid": "Q2448289",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q216032",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q216032",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yaimar_Medina",
+      "transfermarkt_id": "893659",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Eloy Alfaro Canton",
+      "wikidata_current_club": "K.R.C. Genk",
+      "wikidata_current_club_qid": "Q216032",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "bryan-ramírez",
+      "display_name": "Bryan Ramírez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-08-11",
+      "age": 25,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Cincinnati",
+      "wikipedia_title": "Bryan Ramírez",
+      "date_of_birth": "2000-08-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cincinnati",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q116004047",
+      "qid": "Q116004047",
+      "name": "Bryan Ramírez",
+      "description": "Ecuadorian footballer",
+      "place_of_birth_qid": "Q149955",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "position_qids": [
+        "Q336286"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bryan_Ram%C3%ADrez",
+      "transfermarkt_id": "989271",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Esmeraldas",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "anthony-valencia",
+      "display_name": "Anthony Valencia",
+      "shirt_no": 8,
+      "position_code": "FW",
+      "dob": "2003-07-21",
+      "age": 22,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Antwerp",
+      "wikipedia_title": "Anthony Valencia",
+      "date_of_birth": "2003-07-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Antwerp",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q101247266",
+      "qid": "Q101247266",
+      "name": "Anthony Valencia",
+      "description": "Ecuadorian association football player",
+      "place_of_birth_qid": "Q43509",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 174.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q732002",
+          "start": "2022-07-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q732002",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anthony_Valencia",
+      "transfermarkt_id": "974374",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Guayaquil",
+      "wikidata_current_club": "Royal Antwerp F.C.",
+      "wikidata_current_club_qid": "Q732002",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "elías-legendre",
+      "display_name": "Elías Legendre",
+      "shirt_no": 11,
+      "position_code": "FW",
+      "dob": "2008-04-22",
+      "age": 18,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Rennes",
+      "wikipedia_title": "Elías Legendre",
+      "date_of_birth": "2008-04-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rennes",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q134544926",
+      "qid": "Q134544926",
+      "name": "Elias Legendre",
+      "description": "Ecuadorian-French footballer",
+      "citizenship_qids": [
+        "Q736",
+        "Q142"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/El%C3%ADas_Legendre",
+      "transfermarkt_id": "1227106",
+      "citizenship": [
+        "Ecuador",
+        "France"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "enner-valencia",
+      "display_name": "Enner Valencia",
+      "shirt_no": 13,
+      "position_code": "FW",
+      "dob": "1989-11-04",
+      "age": 36,
+      "caps": 105,
+      "goals": 49,
+      "club_from_squad_table": "Pachuca",
+      "wikipedia_title": "Enner Valencia",
+      "date_of_birth": "1989-11-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Pachuca",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q2843080",
+      "qid": "Q2843080",
+      "name": "Enner Valencia",
+      "description": "Ecuadorian association football player",
+      "place_of_birth_qid": "Q7414682",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 174.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q249612",
+          "start": "2010-01-01",
+          "end": "2013-12-00"
+        },
+        {
+          "team_qid": "Q849823",
+          "start": "2017-07-00",
+          "end": "2020-08-00"
+        },
+        {
+          "team_qid": "Q987584",
+          "start": "2012-02-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q736937",
+          "start": "2014-01-00",
+          "end": "2014-07-00"
+        },
+        {
+          "team_qid": "Q5794",
+          "start": "2016-08-00",
+          "end": "2017-05-00"
+        },
+        {
+          "team_qid": "Q18747",
+          "start": "2014-07-00",
+          "end": "2017-07-00"
+        },
+        {
+          "team_qid": "Q6601875",
+          "start": "2020-08-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q80845",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q736937",
+          "start": "2025-09-11",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q736937",
+      "image_filename": "Enner Valencia, January 2016.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Enner_Valencia",
+      "transfermarkt_id": "139503",
+      "fifa_player_id": "373400",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "San Lorenzo",
+      "wikidata_current_club": "CF Pachuca",
+      "wikidata_current_club_qid": "Q736937",
+      "photo": {
+        "filename": "Enner Valencia, January 2016.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Enner_Valencia%2C_January_2016.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Enner_Valencia%2C_January_2016.jpg/960px-Enner_Valencia%2C_January_2016.jpg",
+        "width": 1215,
+        "height": 1977,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<ul><li><b>Original: </b> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/109430286@N06\">joshjdss</a></li>\n<li><b>Derivative work: </b> <a href=\"//commons.wikimedia.org/w/index.php?title=User:FootyBystander&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:FootyBystander (page does not exist)\">FootyBystander</a></li></ul>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/enner-valencia.jpg"
+      }
+    },
+    {
+      "slug": "jordy-caicedo",
+      "display_name": "Jordy Caicedo",
+      "shirt_no": 16,
+      "position_code": "FW",
+      "dob": "1997-11-18",
+      "age": 28,
+      "caps": 18,
+      "goals": 3,
+      "club_from_squad_table": "Huracán",
+      "wikipedia_title": "Jordy Caicedo",
+      "date_of_birth": "1997-11-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Huracán",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30346214",
+      "qid": "Q30346214",
+      "name": "Jordy Caicedo",
+      "description": "association football player",
+      "place_of_birth_qid": "Q215080",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 187.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2419782",
+          "start": "2014-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q987584",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q5774802",
+          "start": "2012-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q427446",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q249633",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q274465",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q136433",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q849823",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q12278",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q12278",
+      "image_filename": "SELECCIÓN ECUATORIANA DE FÚTBOL SUB 20 (32151422676).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jordy_Caicedo",
+      "transfermarkt_id": "360412",
+      "fifa_player_id": "402985",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Machala",
+      "wikidata_current_club": "Sporting de Gijón",
+      "wikidata_current_club_qid": "Q12278",
+      "photo": {
+        "filename": "SELECCIÓN ECUATORIANA DE FÚTBOL SUB 20 (32151422676).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/SELECCI%C3%93N_ECUATORIANA_DE_F%C3%9ATBOL_SUB_20_%2832151422676%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/SELECCI%C3%93N_ECUATORIANA_DE_F%C3%9ATBOL_SUB_20_%2832151422676%29.jpg/960px-SELECCI%C3%93N_ECUATORIANA_DE_F%C3%9ATBOL_SUB_20_%2832151422676%29.jpg",
+        "width": 5472,
+        "height": 3564,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/75116651@N03\">Agencia de Noticias ANDES</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jordy-caicedo.jpg"
+      }
+    },
+    {
+      "slug": "john-mercado",
+      "display_name": "John Mercado",
+      "shirt_no": 18,
+      "position_code": "FW",
+      "dob": "2002-06-03",
+      "age": 23,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Sparta Prague",
+      "wikipedia_title": "John Mercado",
+      "date_of_birth": "2002-06-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sparta Prague",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q111192857",
+      "qid": "Q111192857",
+      "name": "John Mercado",
+      "description": "Ecuadorian footballer",
+      "place_of_birth_qid": "Q43509",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 186.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Mercado",
+      "transfermarkt_id": "659804",
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Guayaquil",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "janner-corozo",
+      "display_name": "Janner Corozo",
+      "shirt_no": 20,
+      "position_code": "FW",
+      "dob": "1995-09-08",
+      "age": 30,
+      "caps": 7,
+      "goals": 1,
+      "club_from_squad_table": "LDU Quito",
+      "wikipedia_title": "Janner Corozo",
+      "date_of_birth": "1995-09-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "LDU Quito",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q23668712",
+      "qid": "Q23668712",
+      "name": "Janner Castillo",
+      "description": "Ecuadorian association football player",
+      "place_of_birth_qid": "Q43509",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 176.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2419782",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2419782",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Janner_Corozo",
+      "transfermarkt_id": "421698",
+      "wikidata_date_of_birth": "1995-00-00",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Guayaquil",
+      "wikidata_current_club": "Deportivo Azogues",
+      "wikidata_current_club_qid": "Q2419782",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "jeremy-arévalo",
+      "display_name": "Jeremy Arévalo",
+      "shirt_no": 26,
+      "position_code": "FW",
+      "dob": "2005-03-19",
+      "age": 21,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "VfB Stuttgart",
+      "wikipedia_title": "Jeremy Arévalo",
+      "date_of_birth": "2005-03-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "VfB Stuttgart",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q121410218",
+      "qid": "Q121410218",
+      "name": "Jeremy Arévalo",
+      "description": "Ecuadorian-Spanish footballer",
+      "place_of_birth_qid": "Q12233",
+      "citizenship_qids": [
+        "Q29",
+        "Q736"
+      ],
+      "height_cm": 182.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jeremy_Ar%C3%A9valo",
+      "transfermarkt_id": "971663",
+      "citizenship": [
+        "Spain",
+        "Ecuador"
+      ],
+      "place_of_birth": "Santander",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "kevin-rodríguez",
+      "display_name": "Kevin Rodríguez",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-03-04",
+      "age": 26,
+      "caps": 30,
+      "goals": 2,
+      "club_from_squad_table": "Union Saint-Gilloise",
+      "wikipedia_title": "Kevin Rodríguez (footballer, born 2000)",
+      "date_of_birth": "2000-03-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Union Saint-Gilloise",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q115132592",
+      "qid": "Q115132592",
+      "name": "Kevin Rodríguez",
+      "description": "Ecuadorian footballer",
+      "place_of_birth_qid": "Q946384",
+      "citizenship_qids": [
+        "Q736"
+      ],
+      "height_cm": 200.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q163386",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q987584",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q249648",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q196160",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q196160",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Rodr%C3%ADguez_(footballer,_born_2000)",
+      "transfermarkt_id": "684159",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Ecuador"
+      ],
+      "place_of_birth": "Ibarra",
+      "wikidata_current_club": "Royale Union Saint-Gilloise",
+      "wikidata_current_club_qid": "Q196160",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    }
+  ],
+  "notes": [
+    "Ecuador imported 2026-05-24 from the national-team current squad table because the central 2026 FIFA World Cup squads article currently has no parseable Ecuador squad table; pending dedicated verifier audit for photo gaps and row conflicts.",
+    "Ecuador photo/source audit 2026-05-24: verifier confirmed all 30 imported current-squad rows match the Ecuador national-team source table; no clean Wikimedia portrait was found for 14 no-photo rows, so those rows are marked reviewed-none. A May 24 prelist exists but no final/parseable tournament squad was found; reports say Ecuador final list is due 2026-06-01."
+  ]
+}

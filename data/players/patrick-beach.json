@@ -1,0 +1,61 @@
+{
+  "slug": "patrick-beach",
+  "display_name": "Patrick Beach",
+  "shirt_no": 18,
+  "position_code": "GK",
+  "dob": "2003-08-06",
+  "age": 22,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Melbourne City",
+  "wikipedia_title": "Patrick Beach",
+  "date_of_birth": "2003-08-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Melbourne City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q126284601",
+  "qid": "Q126284601",
+  "name": "Patrick Beach",
+  "description": "Australian soccer player",
+  "place_of_birth_qid": "Q3130",
+  "citizenship_qids": [
+    "Q408"
+  ],
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q748725",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q748725",
+  "image_filename": "PatrickBeachvWSW.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Beach",
+  "transfermarkt_id": "983578",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Australia"
+  ],
+  "place_of_birth": "Sydney",
+  "wikidata_current_club": "Melbourne City FC",
+  "wikidata_current_club_qid": "Q748725",
+  "photo": {
+    "filename": "PatrickBeachvWSW.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/PatrickBeachvWSW.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/PatrickBeachvWSW.jpg",
+    "width": 553,
+    "height": 1039,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Leo12780&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Leo12780 (page does not exist)\">Leo12780</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/patrick-beach.jpg"
+  },
+  "team_slug": "australia",
+  "team_country": "Australia"
+}

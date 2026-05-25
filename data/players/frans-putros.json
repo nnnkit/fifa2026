@@ -1,0 +1,78 @@
+{
+  "slug": "frans-putros",
+  "display_name": "Frans Putros",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1993-07-14",
+  "age": 32,
+  "caps": 25,
+  "goals": 0,
+  "club_from_squad_table": "Persib",
+  "wikipedia_title": "Frans Putros",
+  "date_of_birth": "1993-07-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Persib",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q12312192",
+  "qid": "Q12312192",
+  "name": "Frans Putros",
+  "description": "Iraqi footballer",
+  "place_of_birth_qid": "Q25319",
+  "citizenship_qids": [
+    "Q756617",
+    "Q796"
+  ],
+  "height_cm": 1.81,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q301431",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q723489",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q723489",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q388746",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1270152",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q186243",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q388746",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Frans_Putros",
+  "transfermarkt_id": "166460",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Kingdom of Denmark",
+    "Iraq"
+  ],
+  "place_of_birth": "Aarhus",
+  "team_slug": "iraq",
+  "team_country": "Iraq",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

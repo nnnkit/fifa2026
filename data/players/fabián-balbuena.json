@@ -1,0 +1,95 @@
+{
+  "slug": "fabián-balbuena",
+  "display_name": "Fabián Balbuena",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1991-08-23",
+  "age": 34,
+  "caps": 47,
+  "goals": 2,
+  "club_from_squad_table": "Grêmio",
+  "wikipedia_title": "Fabián Balbuena",
+  "date_of_birth": "1991-08-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Grêmio",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16297591",
+  "qid": "Q16297591",
+  "name": "Fabián Balbuena",
+  "description": "Paraguayan association football player",
+  "place_of_birth_qid": "Q192235",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 82.0,
+  "position_qids": [
+    "Q336286",
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q35933",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q603101",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q2623197",
+      "start": "2010-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q603085",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q848642",
+      "start": "2014-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q172020",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q18747",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q35933",
+  "image_filename": "Fabián Balbuena 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fabi%C3%A1n_Balbuena",
+  "transfermarkt_id": "285548",
+  "positions": [
+    "defender",
+    "centre-back"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Ciudad del Este",
+  "wikidata_current_club": "S.C. Corinthians Paulista",
+  "wikidata_current_club_qid": "Q35933",
+  "photo": {
+    "filename": "Fabián Balbuena 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fabi%C3%A1n_Balbuena_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fabi%C3%A1n_Balbuena_2022.jpg",
+    "width": 599,
+    "height": 854,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Антон Зайцев",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/fabián-balbuena.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "leonardo-realpe",
+  "display_name": "Leonardo Realpe",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-02-26",
+  "age": 25,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Famalicão",
+  "wikipedia_title": "Leonardo Realpe",
+  "date_of_birth": "2001-02-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Famalicão",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q81405188",
+  "qid": "Q81405188",
+  "name": "Leonardo Realpe",
+  "description": "Ecuadorian football player",
+  "place_of_birth_qid": "Q7367138",
+  "height_cm": 186.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q249648",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q249648",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Leonardo_Realpe",
+  "transfermarkt_id": "656409",
+  "positions": [
+    "defender"
+  ],
+  "place_of_birth": "Rosa Zárate",
+  "wikidata_current_club": "Independiente del Valle",
+  "wikidata_current_club_qid": "Q249648",
+  "team_slug": "ecuador",
+  "team_country": "Ecuador",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

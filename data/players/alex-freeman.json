@@ -1,0 +1,77 @@
+{
+  "slug": "alex-freeman",
+  "display_name": "Alex Freeman",
+  "shirt_no": 16,
+  "position_code": "DF",
+  "dob": "2004-08-09",
+  "age": 21,
+  "caps": 15,
+  "goals": 2,
+  "club_from_squad_table": "Villarreal",
+  "wikipedia_title": "Alex Freeman",
+  "date_of_birth": "2004-08-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Villarreal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q111604014",
+  "qid": "Q111604014",
+  "name": "Alex Freeman",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q165972",
+  "citizenship_qids": [
+    "Q30"
+  ],
+  "height_cm": 188.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q15214308",
+      "start": "2022-00-00",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q91906315",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590572",
+      "start": "2023-10-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q12297",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q12297",
+  "image_filename": "Alex Freeman USMNT v Belgium Mar 28 2026-59 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Freeman",
+  "transfermarkt_id": "985806",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "United States"
+  ],
+  "place_of_birth": "Fort Lauderdale",
+  "wikidata_current_club": "Villarreal CF",
+  "wikidata_current_club_qid": "Q12297",
+  "photo": {
+    "filename": "Alex Freeman USMNT v Belgium Mar 28 2026-59 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Alex_Freeman_USMNT_v_Belgium_Mar_28_2026-59_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Alex_Freeman_USMNT_v_Belgium_Mar_28_2026-59_%28cropped%29.jpg/960px-Alex_Freeman_USMNT_v_Belgium_Mar_28_2026-59_%28cropped%29.jpg",
+    "width": 2981,
+    "height": 3973,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/alex-freeman.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

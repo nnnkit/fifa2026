@@ -1,0 +1,63 @@
+{
+  "slug": "\u00e1lvaro-angulo",
+  "display_name": "\u00c1lvaro Angulo",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-03-06",
+  "age": 28,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "UNAM",
+  "wikipedia_title": "\u00c1lvaro Angulo",
+  "date_of_birth": "1998-03-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "UNAM",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21573389",
+  "qid": "Q21573389",
+  "name": "\u00c1lvaro Angulo",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q1005555",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 173.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q332833",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q332833",
+  "image_filename": "Inter Miami CF 3-1 UNAM (6 August 2025) 23 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Angulo",
+  "transfermarkt_id": "366324",
+  "wikidata_date_of_birth": "1997-03-06",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Tumaco",
+  "wikidata_current_club": "Gold Eagles",
+  "wikidata_current_club_qid": "Q332833",
+  "photo": {
+    "filename": "Inter Miami CF 3-1 UNAM (6 August 2025) 23 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Inter_Miami_CF_3-1_UNAM_%286_August_2025%29_23_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Inter_Miami_CF_3-1_UNAM_%286_August_2025%29_23_%28cropped%29.jpg",
+    "width": 257,
+    "height": 377,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:TheSoccerBoy\" title=\"User:TheSoccerBoy\">TheSoccerBoy</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/\u00e1lvaro-angulo.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

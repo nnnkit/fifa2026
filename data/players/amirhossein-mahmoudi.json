@@ -1,0 +1,27 @@
+{
+  "slug": "amirhossein-mahmoudi",
+  "display_name": "Amirhossein Mahmoudi",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2006-07-12",
+  "age": 19,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Persepolis",
+  "wikipedia_title": null,
+  "date_of_birth": "2006-07-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Persepolis",
+  "current_club_source": "wikipedia-squad-table",
+  "team_slug": "iran",
+  "team_country": "Iran",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "identity_review": {
+    "status": "no-unambiguous-wikidata-qid",
+    "reviewed_at": "2026-05-25",
+    "reason": "Candidate Q110679793/P2446 1370858 has conflicting 1998/club metadata, so it is not safe for the 2006 Persepolis forward."
+  }
+}

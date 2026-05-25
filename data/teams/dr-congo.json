@@ -1,0 +1,1889 @@
+{
+  "slug": "dr-congo",
+  "country": "DR Congo",
+  "wikidata_qid": "Q270080",
+  "fetched_at": "2026-05-24T17:25:08+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "lionel-mpasi",
+      "display_name": "Lionel Mpasi",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1994-08-01",
+      "age": 31,
+      "caps": 27,
+      "goals": 0,
+      "club_from_squad_table": "Le Havre",
+      "wikipedia_title": "Lionel Mpasi",
+      "date_of_birth": "1994-08-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Le Havre",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q86041826",
+      "qid": "Q86041826",
+      "name": "Lionnel Mpasi Nzau",
+      "description": "DR Congolese and French association football player",
+      "place_of_birth_qid": "Q207620",
+      "citizenship_qids": [
+        "Q142",
+        "Q974"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "image_filename": "Lionel Mpasi).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lionel_Mpasi",
+      "transfermarkt_id": "164915",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "France",
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "Meaux",
+      "photo": {
+        "filename": "Lionel Mpasi).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Lionel_Mpasi%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Lionel_Mpasi%29.jpg",
+        "width": 566,
+        "height": 1431,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "feguifoot",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lionel-mpasi.jpg"
+      }
+    },
+    {
+      "slug": "timothy-fayulu",
+      "display_name": "Timothy Fayulu",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1999-07-24",
+      "age": 26,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Noah",
+      "wikipedia_title": "Timothy Fayulu",
+      "date_of_birth": "1999-07-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Noah",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q65680079",
+      "qid": "Q65680079",
+      "name": "Timothy Fayulu",
+      "description": "Swiss footballer",
+      "place_of_birth_qid": "Q71",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 192.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q321061",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q321061",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Timothy_Fayulu",
+      "transfermarkt_id": "541420",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Geneva",
+      "wikidata_current_club": "FC Sion",
+      "wikidata_current_club_qid": "Q321061",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "matthieu-epolo",
+      "display_name": "Matthieu Epolo",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2005-01-15",
+      "age": 21,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Standard Li\u00e8ge",
+      "wikipedia_title": "Matthieu Epolo",
+      "date_of_birth": "2005-01-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Standard Li\u00e8ge",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q113628776",
+      "qid": "Q113628776",
+      "name": "Matthieu Epolo",
+      "description": "Congolese association football player (born 2005)",
+      "place_of_birth_qid": "Q239",
+      "citizenship_qids": [
+        "Q31",
+        "Q974"
+      ],
+      "height_cm": 185.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Matthieu_Epolo",
+      "transfermarkt_id": "680218",
+      "citizenship": [
+        "Belgium",
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "Brussels",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "chancel-mbemba",
+      "display_name": "Chancel Mbemba",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1994-08-08",
+      "age": 31,
+      "caps": 107,
+      "goals": 7,
+      "club_from_squad_table": "Lille",
+      "wikipedia_title": "Chancel Mbemba",
+      "date_of_birth": "1994-08-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lille",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q3196721",
+      "qid": "Q3196721",
+      "name": "Chancel Mbemba",
+      "description": "Congolese association football player",
+      "place_of_birth_qid": "Q146723",
+      "citizenship_qids": [
+        "Q974"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q187528",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q18716",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q270080",
+          "start": "2013-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18716",
+      "image_filename": "Chancel Mbemba Mangulu.JPG",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chancel_Mbemba",
+      "transfermarkt_id": "203348",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "Kisangani",
+      "wikidata_current_club": "Newcastle United F.C.",
+      "wikidata_current_club_qid": "Q18716",
+      "photo": {
+        "filename": "Chancel Mbemba Mangulu.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Chancel_Mbemba_Mangulu.JPG",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chancel_Mbemba_Mangulu.JPG/960px-Chancel_Mbemba_Mangulu.JPG",
+        "width": 1020,
+        "height": 1677,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ultraslansi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ultraslansi (page does not exist)\">Ultraslansi</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/chancel-mbemba.JPG"
+      }
+    },
+    {
+      "slug": "arthur-masuaku",
+      "display_name": "Arthur Masuaku",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1993-11-07",
+      "age": 32,
+      "caps": 44,
+      "goals": 4,
+      "club_from_squad_table": "Lens",
+      "wikipedia_title": "Arthur Masuaku",
+      "date_of_birth": "1993-11-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lens",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16010783",
+      "qid": "Q16010783",
+      "name": "Arthur Masuaku",
+      "description": "DR Congolese and French footballer",
+      "place_of_birth_qid": "Q648",
+      "citizenship_qids": [
+        "Q974",
+        "Q142"
+      ],
+      "height_cm": 179.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q212269",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q19628",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q18747",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q270080",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19628",
+      "image_filename": "Arthur Masuaku, 2023 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Masuaku",
+      "transfermarkt_id": "181380",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Democratic Republic of the Congo",
+        "France"
+      ],
+      "place_of_birth": "Lille",
+      "wikidata_current_club": "Olympiacos F.C.",
+      "wikidata_current_club_qid": "Q19628",
+      "photo": {
+        "filename": "Arthur Masuaku, 2023 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Arthur_Masuaku%2C_2023_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Arthur_Masuaku%2C_2023_%28cropped%29.jpg/960px-Arthur_Masuaku%2C_2023_%28cropped%29.jpg",
+        "width": 1492,
+        "height": 1823,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Be\u015fikta\u015f JK",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/arthur-masuaku.jpg"
+      }
+    },
+    {
+      "slug": "g\u00e9d\u00e9on-kalulu",
+      "display_name": "G\u00e9d\u00e9on Kalulu",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-08-29",
+      "age": 28,
+      "caps": 27,
+      "goals": 0,
+      "club_from_squad_table": "Aris Limassol",
+      "wikipedia_title": "G\u00e9d\u00e9on Kalulu",
+      "date_of_birth": "1997-08-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Aris Limassol",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q66528692",
+      "qid": "Q66528692",
+      "name": "G\u00e9d\u00e9on Kalulu",
+      "description": "DR Congolese footballer",
+      "place_of_birth_qid": "Q3363",
+      "citizenship_qids": [
+        "Q142",
+        "Q974"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q74030",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q74030",
+      "image_filename": "G\u00e9d\u00e9on Kalulu).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/G%C3%A9d%C3%A9on_Kalulu",
+      "transfermarkt_id": "395685",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "France",
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "8th arrondissement of Lyon",
+      "wikidata_current_club": "Football Bourg-en-Bresse P\u00e9ronnas 01",
+      "wikidata_current_club_qid": "Q74030",
+      "photo": {
+        "filename": "G\u00e9d\u00e9on Kalulu).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/G%C3%A9d%C3%A9on_Kalulu%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/G%C3%A9d%C3%A9on_Kalulu%29.jpg/960px-G%C3%A9d%C3%A9on_Kalulu%29.jpg",
+        "width": 1076,
+        "height": 2262,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "feguifoot",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/g\u00e9d\u00e9on-kalulu.jpg"
+      }
+    },
+    {
+      "slug": "joris-kayembe",
+      "display_name": "Joris Kayembe",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1994-08-08",
+      "age": 31,
+      "caps": 24,
+      "goals": 0,
+      "club_from_squad_table": "Genk",
+      "wikipedia_title": "Joris Kayembe",
+      "date_of_birth": "1994-08-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Genk",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16979997",
+      "qid": "Q16979997",
+      "name": "Joris Kayembe",
+      "description": "Congolese and Belgian footballer",
+      "place_of_birth_qid": "Q239",
+      "citizenship_qids": [
+        "Q31",
+        "Q974"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q622432",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q5423714",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q128446",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1386869",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q216032",
+          "start": "2023-07-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q216032",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joris_Kayembe",
+      "transfermarkt_id": "129586",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Belgium",
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "Brussels",
+      "wikidata_current_club": "K.R.C. Genk",
+      "wikidata_current_club_qid": "Q216032",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "dylan-batubinsika",
+      "display_name": "Dylan Batubinsika",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-02-15",
+      "age": 30,
+      "caps": 14,
+      "goals": 1,
+      "club_from_squad_table": "AEL",
+      "wikipedia_title": "Dylan Batubinsika",
+      "date_of_birth": "1996-02-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "AEL",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q34360045",
+      "qid": "Q34360045",
+      "name": "Dylan Batubinsika",
+      "description": "Congolese international footballer who plays as a central defender for AS Saint-\u00c9tienne",
+      "place_of_birth_qid": "Q18681428",
+      "citizenship_qids": [
+        "Q142",
+        "Q974"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 84.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q732002",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q732002",
+      "image_filename": "Batubinsika asse fcn 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dylan_Batubinsika",
+      "transfermarkt_id": "289432",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "France",
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "Cergy-Pontoise",
+      "wikidata_current_club": "Royal Antwerp F.C.",
+      "wikidata_current_club_qid": "Q732002",
+      "photo": {
+        "filename": "Batubinsika asse fcn 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Batubinsika_asse_fcn_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Batubinsika_asse_fcn_2425.png",
+        "width": 846,
+        "height": 991,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dylan-batubinsika.png"
+      }
+    },
+    {
+      "slug": "axel-tuanzebe",
+      "display_name": "Axel Tuanzebe",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-11-14",
+      "age": 28,
+      "caps": 12,
+      "goals": 1,
+      "club_from_squad_table": "Burnley",
+      "wikipedia_title": "Axel Tuanzebe",
+      "date_of_birth": "1997-11-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Burnley",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27019988",
+      "qid": "Q27019988",
+      "name": "Axel Tuanzebe",
+      "description": "English association football player",
+      "place_of_birth_qid": "Q648298",
+      "citizenship_qids": [
+        "Q974"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18656",
+          "start": "2015-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18711",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q204238",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q72009",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18656",
+      "image_filename": "Manchester United v Wigan Athletic, January 2017 (33).JPG",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Axel_Tuanzebe",
+      "transfermarkt_id": "342046",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "Bunia",
+      "wikidata_current_club": "Manchester United F.C.",
+      "wikidata_current_club_qid": "Q18656",
+      "photo": {
+        "filename": "Manchester United v Wigan Athletic, January 2017 (33).JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Manchester_United_v_Wigan_Athletic%2C_January_2017_%2833%29.JPG",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Manchester_United_v_Wigan_Athletic%2C_January_2017_%2833%29.JPG/960px-Manchester_United_v_Wigan_Athletic%2C_January_2017_%2833%29.JPG",
+        "width": 3672,
+        "height": 4896,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/axel-tuanzebe.JPG"
+      }
+    },
+    {
+      "slug": "aaron-wan-bissaka",
+      "display_name": "Aaron Wan-Bissaka",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-11-26",
+      "age": 28,
+      "caps": 10,
+      "goals": 0,
+      "club_from_squad_table": "West Ham United",
+      "wikipedia_title": "Aaron Wan-Bissaka",
+      "date_of_birth": "1997-11-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "West Ham United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q50137347",
+      "qid": "Q50137347",
+      "name": "Aaron Wan-Bissaka",
+      "description": "DR Congo footballer (born 1997)",
+      "place_of_birth_qid": "Q2213391",
+      "citizenship_qids": [
+        "Q145",
+        "Q974"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19467",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2019-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q5255801",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q1049176",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q204238",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q18747",
+          "start": "2024-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18747",
+      "image_filename": "Aaron Wan-Bissaka of West Ham United.jpeg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aaron_Wan-Bissaka",
+      "transfermarkt_id": "477758",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "United Kingdom",
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "Croydon",
+      "wikidata_current_club": "West Ham United F.C.",
+      "wikidata_current_club_qid": "Q18747",
+      "photo": {
+        "filename": "Aaron Wan-Bissaka of West Ham United.jpeg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Aaron_Wan-Bissaka_of_West_Ham_United.jpeg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Aaron_Wan-Bissaka_of_West_Ham_United.jpeg/960px-Aaron_Wan-Bissaka_of_West_Ham_United.jpeg",
+        "width": 2163,
+        "height": 2942,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Egghead06\" title=\"User:Egghead06\">Egghead06</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/aaron-wan-bissaka.jpeg"
+      }
+    },
+    {
+      "slug": "steve-kapuadi",
+      "display_name": "Steve Kapuadi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-04-30",
+      "age": 28,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Widzew \u0141\u00f3d\u017a",
+      "wikipedia_title": "Steve Kapuadi",
+      "date_of_birth": "1998-04-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Widzew \u0141\u00f3d\u017a",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q85291597",
+      "qid": "Q85291597",
+      "name": "Steve Kapuadi",
+      "description": "French footballer",
+      "place_of_birth_qid": "Q1476",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 193.0,
+      "teams": [
+        {
+          "team_qid": "Q677570",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q677570",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Steve_Kapuadi",
+      "transfermarkt_id": "679709",
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Le Mans",
+      "wikidata_current_club": "FK Inter Bratislava",
+      "wikidata_current_club_qid": "Q677570",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "meschak-elia",
+      "display_name": "Meschak Elia",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1997-08-06",
+      "age": 28,
+      "caps": 68,
+      "goals": 12,
+      "club_from_squad_table": "Alanyaspor",
+      "wikipedia_title": "Meschak Elia",
+      "date_of_birth": "1997-08-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Alanyaspor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q22162731",
+      "qid": "Q22162731",
+      "name": "Elia Meschak",
+      "description": "Congolese association football player",
+      "place_of_birth_qid": "Q3838",
+      "citizenship_qids": [
+        "Q974"
+      ],
+      "height_cm": 1.73,
+      "position_qids": [
+        "Q280658",
+        "Q3446915"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q270080",
+          "start": "2016-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q270080",
+      "image_filename": "Meschack Elia (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Meschak_Elia",
+      "transfermarkt_id": "423678",
+      "positions": [
+        "forward",
+        "attacker"
+      ],
+      "citizenship": [
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "Kinshasa",
+      "wikidata_current_club": "DR Congo men's national football team",
+      "wikidata_current_club_qid": "Q270080",
+      "photo": {
+        "filename": "Meschack Elia (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Meschack_Elia_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Meschack_Elia_%28cropped%29.jpg/960px-Meschack_Elia_%28cropped%29.jpg",
+        "width": 1987,
+        "height": 2334,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/67163702@N07\">MONUSCO Photos</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/meschak-elia.jpg"
+      }
+    },
+    {
+      "slug": "samuel-moutoussamy",
+      "display_name": "Samuel Moutoussamy",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-08-12",
+      "age": 29,
+      "caps": 56,
+      "goals": 0,
+      "club_from_squad_table": "Atromitos",
+      "wikipedia_title": "Samuel Moutoussamy",
+      "date_of_birth": "1996-08-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atromitos",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q37453754",
+      "qid": "Q37453754",
+      "name": "Samuel Moutoussamy",
+      "description": "Congolese association football player (born 1996)",
+      "place_of_birth_qid": "Q171689",
+      "citizenship_qids": [
+        "Q142",
+        "Q974"
+      ],
+      "height_cm": 174.0,
+      "weight_kg": 61.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q192071",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q854167",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q270080",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q704",
+          "start": "2011-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q192071",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        }
+      ],
+      "current_club_qid": "Q192071",
+      "image_filename": "Samuel Moutoussamy 2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Moutoussamy",
+      "transfermarkt_id": "353403",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France",
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "12th arrondissement of Paris",
+      "wikidata_current_club": "FC Nantes",
+      "wikidata_current_club_qid": "Q192071",
+      "photo": {
+        "filename": "Samuel Moutoussamy 2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Samuel_Moutoussamy_2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Samuel_Moutoussamy_2018.jpg",
+        "width": 689,
+        "height": 919,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37972999@N07\">James Boyes</a> from UK",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/samuel-moutoussamy.jpg"
+      }
+    },
+    {
+      "slug": "edo-kayembe",
+      "display_name": "Edo Kayembe",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-06-03",
+      "age": 28,
+      "caps": 41,
+      "goals": 2,
+      "club_from_squad_table": "Watford",
+      "wikipedia_title": "Edo Kayembe",
+      "date_of_birth": "1998-06-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Watford",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q46699047",
+      "qid": "Q46699047",
+      "name": "Edo Kayembe",
+      "description": "Congolese association football player",
+      "place_of_birth_qid": "Q205327",
+      "citizenship_qids": [
+        "Q974"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q187528",
+          "start": "2017-01-01",
+          "end": "2020-09-13"
+        },
+        {
+          "team_qid": "Q1423718",
+          "start": "2020-09-14",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1423718",
+      "image_filename": "Edo Kayembe 2025 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Edo_Kayembe",
+      "transfermarkt_id": "486477",
+      "wikidata_date_of_birth": "1998-08-03",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "Kananga",
+      "wikidata_current_club": "K.A.S. Eupen",
+      "wikidata_current_club_qid": "Q1423718",
+      "photo": {
+        "filename": "Edo Kayembe 2025 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Edo_Kayembe_2025_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Edo_Kayembe_2025_%28cropped%29.jpg",
+        "width": 528,
+        "height": 928,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/edo-kayembe.jpg"
+      }
+    },
+    {
+      "slug": "charles-pickel",
+      "display_name": "Charles Pickel",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-05-15",
+      "age": 29,
+      "caps": 33,
+      "goals": 1,
+      "club_from_squad_table": "Espanyol",
+      "wikipedia_title": "Charles Pickel",
+      "date_of_birth": "1997-05-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Espanyol",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q24256738",
+      "qid": "Q24256738",
+      "name": "Charles Pickel",
+      "description": "Congolese international footballer. He plays as a defensive midfielder for US Cremonese",
+      "place_of_birth_qid": "Q68965",
+      "citizenship_qids": [
+        "Q39"
+      ],
+      "height_cm": 1.8,
+      "weight_kg": 76.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q189671",
+          "start": "2016-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q4140019",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q201360",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q209509",
+          "start": "2019-07-01",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q172247",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q335195",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1387105",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q759482",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q8780",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19019176",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q3873550",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q270080",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8780",
+      "image_filename": "RC Lens - Grenoble Foot 38 (10-02-2020) 60.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Pickel",
+      "transfermarkt_id": "243879",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Switzerland"
+      ],
+      "place_of_birth": "Solothurn",
+      "wikidata_current_club": "RCD Espanyol de Barcelona",
+      "wikidata_current_club_qid": "Q8780",
+      "photo": {
+        "filename": "RC Lens - Grenoble Foot 38 (10-02-2020) 60.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/RC_Lens_-_Grenoble_Foot_38_%2810-02-2020%29_60.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RC_Lens_-_Grenoble_Foot_38_%2810-02-2020%29_60.jpg/960px-RC_Lens_-_Grenoble_Foot_38_%2810-02-2020%29_60.jpg",
+        "width": 1271,
+        "height": 1695,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterh\u00e9ninois (page does not exist)\">Supporterh\u00e9ninois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/charles-pickel.jpg"
+      }
+    },
+    {
+      "slug": "ga\u00ebl-kakuta",
+      "display_name": "Ga\u00ebl Kakuta",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1991-06-21",
+      "age": 34,
+      "caps": 30,
+      "goals": 5,
+      "club_from_squad_table": "AEL",
+      "wikipedia_title": "Ga\u00ebl Kakuta",
+      "date_of_birth": "1991-06-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "AEL",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q299703",
+      "qid": "Q299703",
+      "name": "Ga\u00ebl Kakuta",
+      "description": "Congolese-French footballer (born 1991)",
+      "place_of_birth_qid": "Q648",
+      "citizenship_qids": [
+        "Q142",
+        "Q974"
+      ],
+      "height_cm": 173.0,
+      "weight_kg": 66.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2609",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q19451",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q18708",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2009-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q503317",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q219233",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q10300",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q10329",
+          "start": "2015-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q402038",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2007-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q18708",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q19451",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2006-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q270080",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q8760",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q402038",
+      "image_filename": "Entra\u00eenement du RC Lens - 15 juillet 2020 24.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ga%C3%ABl_Kakuta",
+      "transfermarkt_id": "74297",
+      "fifa_player_id": "336439",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "France",
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "Lille",
+      "wikidata_current_club": "Hebei F.C.",
+      "wikidata_current_club_qid": "Q402038",
+      "photo": {
+        "filename": "Entra\u00eenement du RC Lens - 15 juillet 2020 24.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Entra%C3%AEnement_du_RC_Lens_-_15_juillet_2020_24.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Entra%C3%AEnement_du_RC_Lens_-_15_juillet_2020_24.jpg/960px-Entra%C3%AEnement_du_RC_Lens_-_15_juillet_2020_24.jpg",
+        "width": 2592,
+        "height": 3456,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterh\u00e9ninois (page does not exist)\">Supporterh\u00e9ninois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ga\u00ebl-kakuta.jpg"
+      }
+    },
+    {
+      "slug": "noah-sadiki",
+      "display_name": "Noah Sadiki",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-12-17",
+      "age": 21,
+      "caps": 18,
+      "goals": 0,
+      "club_from_squad_table": "Sunderland",
+      "wikipedia_title": "Noah Sadiki",
+      "date_of_birth": "2004-12-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sunderland",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q112112992",
+      "qid": "Q112112992",
+      "name": "Noah Sadiki",
+      "description": "Congolese footballer",
+      "place_of_birth_qid": "Q240",
+      "citizenship_qids": [
+        "Q974"
+      ],
+      "height_cm": 1.73,
+      "teams": [
+        {
+          "team_qid": "Q196160",
+          "start": "2023-07-27",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q196160",
+      "image_filename": "Noah Sadiki USG 2024.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Noah_Sadiki",
+      "transfermarkt_id": "727089",
+      "citizenship": [
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "Brussels-Capital Region",
+      "wikidata_current_club": "Royale Union Saint-Gilloise",
+      "wikidata_current_club_qid": "Q196160",
+      "photo": {
+        "filename": "Noah Sadiki USG 2024.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Noah_Sadiki_USG_2024.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Noah_Sadiki_USG_2024.jpg",
+        "width": 656,
+        "height": 1250,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sidney.Cortez&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sidney.Cortez (page does not exist)\">Sidney.Cortez</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/noah-sadiki.jpg"
+      }
+    },
+    {
+      "slug": "nathana\u00ebl-mbuku",
+      "display_name": "Nathana\u00ebl Mbuku",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2002-03-16",
+      "age": 24,
+      "caps": 17,
+      "goals": 2,
+      "club_from_squad_table": "Montpellier",
+      "wikipedia_title": "Nathana\u00ebl Mbuku",
+      "date_of_birth": "2002-03-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Montpellier",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q66363768",
+      "qid": "Q66363768",
+      "name": "Nathana\u00ebl Mbuku",
+      "description": "Congolese international footballer who plays as a striker for Dinamo Zagreb",
+      "place_of_birth_qid": "Q244241",
+      "citizenship_qids": [
+        "Q142",
+        "Q974"
+      ],
+      "height_cm": 1.7,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q208228",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q208228",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nathana%C3%ABl_Mbuku",
+      "transfermarkt_id": "557614",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "France",
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "Villeneuve-Saint-Georges",
+      "wikidata_current_club": "Stade de Reims",
+      "wikidata_current_club_qid": "Q208228",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "aaron-tshibola",
+      "display_name": "Aaron Tshibola",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1995-01-02",
+      "age": 31,
+      "caps": 16,
+      "goals": 1,
+      "club_from_squad_table": "Kilmarnock",
+      "wikipedia_title": "Aaron Tshibola",
+      "date_of_birth": "1995-01-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Kilmarnock",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18128872",
+      "qid": "Q18128872",
+      "name": "Aaron Tshibola",
+      "description": "association football player (born 1995)",
+      "place_of_birth_qid": "Q208139",
+      "citizenship_qids": [
+        "Q145"
+      ],
+      "height_cm": 191.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18729",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q19592",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1049171",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q270080",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q18711",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18729",
+      "image_filename": "Aaron Tshibola (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aaron_Tshibola",
+      "transfermarkt_id": "243633",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom"
+      ],
+      "place_of_birth": "London Borough of Newham",
+      "wikidata_current_club": "Reading F.C.",
+      "wikidata_current_club_qid": "Q18729",
+      "photo": {
+        "filename": "Aaron Tshibola (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Aaron_Tshibola_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Aaron_Tshibola_%28cropped%29.jpg",
+        "width": 380,
+        "height": 505,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/196250323@N06\">F\u00e9d\u00e9ration Guin\u00e9enne Football</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/aaron-tshibola.jpg"
+      }
+    },
+    {
+      "slug": "ngalayel-mukau",
+      "display_name": "Ngal'ayel Mukau",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-11-03",
+      "age": 21,
+      "caps": 12,
+      "goals": 0,
+      "club_from_squad_table": "Lille",
+      "wikipedia_title": "Ngal'ayel Mukau",
+      "date_of_birth": "2004-11-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lille",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q116151074",
+      "qid": "Q116151074",
+      "name": "Ngal'ayel Mukau",
+      "description": "Congolese international footballer, who plays as a midfielder for LOSC Lille",
+      "place_of_birth_qid": "Q12892",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 1.86,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ngal%27ayel_Mukau",
+      "transfermarkt_id": "1016015",
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Antwerp",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "brian-cipenga",
+      "display_name": "Brian Cipenga",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-03-11",
+      "age": 28,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Castell\u00f3n",
+      "wikipedia_title": "Brian Cipenga",
+      "date_of_birth": "1998-03-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Castell\u00f3n",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q127271091",
+      "qid": "Q127271091",
+      "name": "Brian Cipenga",
+      "description": "Congolese footballer (born 1998)",
+      "citizenship_qids": [
+        "Q974"
+      ],
+      "height_cm": 172.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Cipenga",
+      "transfermarkt_id": "700565",
+      "wikidata_date_of_birth": "1998-01-01",
+      "citizenship": [
+        "Democratic Republic of the Congo"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "c\u00e9dric-bakambu",
+      "display_name": "C\u00e9dric Bakambu",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1991-04-11",
+      "age": 35,
+      "caps": 68,
+      "goals": 21,
+      "club_from_squad_table": "Real Betis",
+      "wikipedia_title": "C\u00e9dric Bakambu",
+      "date_of_birth": "1991-04-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Betis",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q932982",
+      "qid": "Q932982",
+      "name": "C\u00e9dric Bakambu",
+      "description": "Congolese footballer",
+      "place_of_birth_qid": "Q72248",
+      "citizenship_qids": [
+        "Q142",
+        "Q974"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q12297",
+          "start": "2015-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q10300",
+          "start": "2010-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q203573",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q270080",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q814738",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q132885",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19512",
+          "start": "2010-08-07",
+          "end": "2014-09-01"
+        }
+      ],
+      "current_club_qid": "Q132885",
+      "image_filename": "C\u00e9dric Bakambu 2016 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/C%C3%A9dric_Bakambu",
+      "transfermarkt_id": "127048",
+      "fifa_player_id": "336425",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "France",
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "Vitry-sur-Seine",
+      "wikidata_current_club": "Olympique de Marseille",
+      "wikidata_current_club_qid": "Q132885",
+      "photo": {
+        "filename": "C\u00e9dric Bakambu 2016 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/C%C3%A9dric_Bakambu_2016_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/C%C3%A9dric_Bakambu_2016_%28cropped%29.jpg/960px-C%C3%A9dric_Bakambu_2016_%28cropped%29.jpg",
+        "width": 2822,
+        "height": 2558,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/67163702@N07\">MONUSCO Photos</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/c\u00e9dric-bakambu.jpg"
+      }
+    },
+    {
+      "slug": "th\u00e9o-bongonda",
+      "display_name": "Th\u00e9o Bongonda",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1995-11-20",
+      "age": 30,
+      "caps": 37,
+      "goals": 7,
+      "club_from_squad_table": "Spartak Moscow",
+      "wikipedia_title": "Th\u00e9o Bongonda",
+      "date_of_birth": "1995-11-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Spartak Moscow",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q14948183",
+      "qid": "Q14948183",
+      "name": "Theo Bongonda",
+      "description": "Congolese international footballer, of Belgian origin2, who plays the post of attacker at Spartak Moscow",
+      "place_of_birth_qid": "Q81046",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q376635",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3589896",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2014-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q8749",
+          "start": "2015-01-09",
+          "end": "2018-07-04"
+        },
+        {
+          "team_qid": "Q192641",
+          "start": "2017-07-01",
+          "end": "2018-01-24"
+        },
+        {
+          "team_qid": "Q376635",
+          "start": "2018-01-26",
+          "end": "2018-06-30"
+        },
+        {
+          "team_qid": "Q376635",
+          "start": "2018-07-04",
+          "end": "2019-06-13"
+        },
+        {
+          "team_qid": "Q216032",
+          "start": "2019-06-13",
+          "end": "2022-08-26"
+        },
+        {
+          "team_qid": "Q270080",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q460448",
+          "start": "2022-08-26",
+          "end": "2023-07-12"
+        },
+        {
+          "team_qid": "Q29112",
+          "start": "2023-07-12",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q29112",
+      "image_filename": "Theo Bongonda in 2025.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Th%C3%A9o_Bongonda",
+      "transfermarkt_id": "280701",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": null,
+      "photo": {
+        "filename": "Theo Bongonda in 2025.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Theo_Bongonda_in_2025.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Theo_Bongonda_in_2025.jpg",
+        "width": 460,
+        "height": 851,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u043d\u043d\u0430 \u041c\u0435\u0439\u0435\u0440",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/th\u00e9o-bongonda.jpg"
+      }
+    },
+    {
+      "slug": "fiston-mayele",
+      "display_name": "Fiston Mayele",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1994-06-24",
+      "age": 31,
+      "caps": 37,
+      "goals": 6,
+      "club_from_squad_table": "Pyramids",
+      "wikipedia_title": "Fiston Mayele",
+      "date_of_birth": "1994-06-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Pyramids",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117287348",
+      "qid": "Q117287348",
+      "name": "Fiston Mayele",
+      "description": "Congolese association football player",
+      "place_of_birth_qid": "Q319660",
+      "citizenship_qids": [
+        "Q974"
+      ],
+      "height_cm": 185.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fiston_Mayele",
+      "transfermarkt_id": "727157",
+      "citizenship": [
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "Mbuji-Mayi",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "yoane-wissa",
+      "display_name": "Yoane Wissa",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-09-03",
+      "age": 29,
+      "caps": 36,
+      "goals": 9,
+      "club_from_squad_table": "Newcastle United",
+      "wikipedia_title": "Yoane Wissa",
+      "date_of_birth": "1996-09-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Newcastle United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28101965",
+      "qid": "Q28101965",
+      "name": "Yoane Wissa",
+      "description": "Congolese-French footballer (born 1996)",
+      "place_of_birth_qid": "Q1165785",
+      "citizenship_qids": [
+        "Q142",
+        "Q974"
+      ],
+      "height_cm": 176.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q845067",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q760736",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q48911",
+          "start": "2018-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q270080",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19571",
+          "start": "2021-00-00",
+          "end": "2025-09-01"
+        },
+        {
+          "team_qid": "Q18716",
+          "start": "2025-09-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18716",
+      "image_filename": "CAN 2023RD Congo 2-1 Guin\u00e9e 9939 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yoane_Wissa",
+      "transfermarkt_id": "388165",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "France",
+        "Democratic Republic of the Congo"
+      ],
+      "place_of_birth": "\u00c9pinay-sous-S\u00e9nart",
+      "wikidata_current_club": "Newcastle United F.C.",
+      "wikidata_current_club_qid": "Q18716",
+      "photo": {
+        "filename": "CAN 2023RD Congo 2-1 Guin\u00e9e 9939 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/CAN_2023RD_Congo_2-1_Guin%C3%A9e_9939_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/CAN_2023RD_Congo_2-1_Guin%C3%A9e_9939_%28cropped%29.jpg",
+        "width": 726,
+        "height": 1176,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "feguifoot",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/yoane-wissa.jpg"
+      }
+    },
+    {
+      "slug": "simon-banza",
+      "display_name": "Simon Banza",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-08-13",
+      "age": 29,
+      "caps": 14,
+      "goals": 2,
+      "club_from_squad_table": "Al Jazira",
+      "wikipedia_title": "Simon Banza",
+      "date_of_birth": "1996-08-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al Jazira",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q23887828",
+      "qid": "Q23887828",
+      "name": "Simon Banza",
+      "description": "Congolese international footballer playing as a striker at Trabzonspor on loan from SC Braga",
+      "place_of_birth_qid": "Q142",
+      "citizenship_qids": [
+        "Q974",
+        "Q142"
+      ],
+      "height_cm": 1.89,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q191843",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q192641",
+          "start": "2024-09-13",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q192641",
+      "image_filename": "Entra\u00eenement RC Lens - 2 juillet 2019 65.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Simon_Banza",
+      "transfermarkt_id": "344869",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Democratic Republic of the Congo",
+        "France"
+      ],
+      "place_of_birth": "France",
+      "wikidata_current_club": "Trabzonspor",
+      "wikidata_current_club_qid": "Q192641",
+      "photo": {
+        "filename": "Entra\u00eenement RC Lens - 2 juillet 2019 65.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Entra%C3%AEnement_RC_Lens_-_2_juillet_2019_65.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Entra%C3%AEnement_RC_Lens_-_2_juillet_2019_65.jpg/960px-Entra%C3%AEnement_RC_Lens_-_2_juillet_2019_65.jpg",
+        "width": 2592,
+        "height": 3456,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterh\u00e9ninois (page does not exist)\">Supporterh\u00e9ninois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/simon-banza.jpg"
+      }
+    }
+  ]
+}

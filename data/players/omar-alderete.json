@@ -1,0 +1,62 @@
+{
+  "slug": "omar-alderete",
+  "display_name": "Omar Alderete",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-12-26",
+  "age": 29,
+  "caps": 35,
+  "goals": 3,
+  "club_from_squad_table": "Sunderland",
+  "wikipedia_title": "Omar Alderete",
+  "date_of_birth": "1996-12-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sunderland",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q41800131",
+  "qid": "Q41800131",
+  "name": "Omar Alderete",
+  "description": "Paraguayan association football player",
+  "place_of_birth_qid": "Q2933",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 1.88,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18640",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18640",
+  "image_filename": "Omar Alderete 2019 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Omar_Alderete",
+  "transfermarkt_id": "353032",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Asunción",
+  "wikidata_current_club": "Club de Gimnasia y Esgrima La Plata",
+  "wikidata_current_club_qid": "Q18640",
+  "photo": {
+    "filename": "Omar Alderete 2019 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Omar_Alderete_2019_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Omar_Alderete_2019_%28cropped%29.jpg",
+    "width": 417,
+    "height": 590,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Дмитрий Пукалик",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/omar-alderete.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

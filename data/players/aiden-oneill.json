@@ -1,0 +1,62 @@
+{
+  "slug": "aiden-oneill",
+  "display_name": "Aiden O'Neill",
+  "shirt_no": 13,
+  "position_code": "MF",
+  "dob": "1998-07-04",
+  "age": 27,
+  "caps": 29,
+  "goals": 0,
+  "club_from_squad_table": "New York City",
+  "wikipedia_title": "Aiden O'Neill",
+  "date_of_birth": "1998-07-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "New York City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26485052",
+  "qid": "Q26485052",
+  "name": "Aiden O'Neill",
+  "description": "Australian soccer player",
+  "place_of_birth_qid": "Q34932",
+  "citizenship_qids": [
+    "Q408"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19601",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19601",
+  "image_filename": "Aiden O'Neill CF Montreal NYCFC 6.28.25-034 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aiden_O%27Neill",
+  "transfermarkt_id": "385918",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Australia"
+  ],
+  "place_of_birth": "Brisbane",
+  "wikidata_current_club": "Oldham Athletic A.F.C.",
+  "wikidata_current_club_qid": "Q19601",
+  "photo": {
+    "filename": "Aiden O'Neill CF Montreal NYCFC 6.28.25-034 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Aiden_O%27Neill_CF_Montreal_NYCFC_6.28.25-034_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aiden_O%27Neill_CF_Montreal_NYCFC_6.28.25-034_%28cropped%29.jpg/960px-Aiden_O%27Neill_CF_Montreal_NYCFC_6.28.25-034_%28cropped%29.jpg",
+    "width": 1966,
+    "height": 2620,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/aiden-oneill.jpg"
+  },
+  "team_slug": "australia",
+  "team_country": "Australia"
+}

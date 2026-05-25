@@ -1,0 +1,54 @@
+{
+  "slug": "yahia-fofana",
+  "display_name": "Yahia Fofana",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2000-08-21",
+  "age": 25,
+  "caps": 34,
+  "goals": 0,
+  "club_from_squad_table": "Çaykur Rizespor",
+  "wikipedia_title": "Yahia Fofana",
+  "date_of_birth": "2000-08-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Çaykur Rizespor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q105161343",
+  "qid": "Q105161343",
+  "name": "Yahia Fofana",
+  "description": "Ivorian and French footballer",
+  "place_of_birth_qid": "Q90",
+  "citizenship_qids": [
+    "Q142",
+    "Q1008"
+  ],
+  "height_cm": 1.94,
+  "position_qids": [
+    "Q201330"
+  ],
+  "image_filename": "Fofana asse sco 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yahia_Fofana",
+  "transfermarkt_id": "418651",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "France",
+    "Ivory Coast"
+  ],
+  "place_of_birth": "Paris",
+  "photo": {
+    "filename": "Fofana asse sco 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Fofana_asse_sco_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Fofana_asse_sco_2425.png",
+    "width": 615,
+    "height": 880,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/yahia-fofana.png"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

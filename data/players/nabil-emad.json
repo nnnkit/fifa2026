@@ -1,0 +1,57 @@
+{
+  "slug": "nabil-emad",
+  "display_name": "Nabil Emad",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-04-06",
+  "age": 30,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "Al-Najma",
+  "wikipedia_title": "Nabil Emad",
+  "date_of_birth": "1996-04-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Najma",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q41187975",
+  "qid": "Q41187975",
+  "name": "Nabil Emad",
+  "description": "Egyptian association football player",
+  "place_of_birth_qid": "Q312723",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18207291",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q28089",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18207291",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nabil_Emad",
+  "transfermarkt_id": "479683",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "place_of_birth": "El Mahalla El Kubra",
+  "wikidata_current_club": "Pyramids FC",
+  "wikidata_current_club_qid": "Q18207291",
+  "team_slug": "egypt",
+  "team_country": "Egypt",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

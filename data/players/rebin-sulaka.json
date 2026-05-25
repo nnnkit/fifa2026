@@ -1,0 +1,99 @@
+{
+  "slug": "rebin-sulaka",
+  "display_name": "Rebin Sulaka",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1992-04-12",
+  "age": 34,
+  "caps": 54,
+  "goals": 1,
+  "club_from_squad_table": "Port",
+  "wikipedia_title": "Rebin Sulaka",
+  "date_of_birth": "1992-04-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Port",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18246217",
+  "qid": "Q18246217",
+  "name": "Rebin Sulaka",
+  "description": "Iraqi association football player",
+  "place_of_birth_qid": "Q556617",
+  "citizenship_qids": [
+    "Q34",
+    "Q796"
+  ],
+  "height_cm": 192.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q893308",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q1367807",
+      "start": "2010-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q120705",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q259029",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q683351",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q186243",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q600641",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q754339",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q600641",
+  "image_filename": "240519 FC \uc11c\uc6b8 \ud3ec\ud1a0\ud0c0\uc784 (Rebin Sulaka).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rebin_Sulaka",
+  "transfermarkt_id": "217073",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Sweden",
+    "Iraq"
+  ],
+  "place_of_birth": "Ankawa",
+  "wikidata_current_club": "Elverum Fotball",
+  "wikidata_current_club_qid": "Q600641",
+  "photo": {
+    "filename": "240519 FC \uc11c\uc6b8 \ud3ec\ud1a0\ud0c0\uc784 (Rebin Sulaka).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/240519_FC_%EC%84%9C%EC%9A%B8_%ED%8F%AC%ED%86%A0%ED%83%80%EC%9E%84_%28Rebin_Sulaka%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/240519_FC_%EC%84%9C%EC%9A%B8_%ED%8F%AC%ED%86%A0%ED%83%80%EC%9E%84_%28Rebin_Sulaka%29.jpg/960px-240519_FC_%EC%84%9C%EC%9A%B8_%ED%8F%AC%ED%86%A0%ED%83%80%EC%9E%84_%28Rebin_Sulaka%29.jpg",
+    "width": 1600,
+    "height": 2000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/rebin-sulaka.jpg"
+  },
+  "team_slug": "iraq",
+  "team_country": "Iraq"
+}

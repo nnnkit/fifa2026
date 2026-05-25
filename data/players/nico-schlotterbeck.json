@@ -1,0 +1,100 @@
+{
+  "slug": "nico-schlotterbeck",
+  "display_name": "Nico Schlotterbeck",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-12-01",
+  "age": 26,
+  "caps": 25,
+  "goals": 0,
+  "club_from_squad_table": "Borussia Dortmund",
+  "wikipedia_title": "Nico Schlotterbeck",
+  "date_of_birth": "1999-12-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Borussia Dortmund",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q62015814",
+  "qid": "Q62015814",
+  "name": "Nico Schlotterbeck",
+  "description": "German association football player",
+  "place_of_birth_qid": "Q4140",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 1.91,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q20631356",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q106394",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q141971",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2016992",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q324854",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q316497",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q314851",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q43310",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q41420",
+  "image_filename": "2023-08-12 TSV Schott Mainz gegen Borussia Dortmund (DFB-Pokal 2023-24) by Sandro Halank–069.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nico_Schlotterbeck",
+  "transfermarkt_id": "388198",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Waiblingen",
+  "photo": {
+    "filename": "2023-08-12 TSV Schott Mainz gegen Borussia Dortmund (DFB-Pokal 2023-24) by Sandro Halank–069.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93069.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93069.jpg/960px-2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93069.jpg",
+    "width": 2483,
+    "height": 2823,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sandro_Halank\" title=\"User:Sandro Halank\">Sandro Halank, Wikimedia Commons</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nico-schlotterbeck.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

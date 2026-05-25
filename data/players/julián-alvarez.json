@@ -1,0 +1,91 @@
+{
+  "slug": "julián-alvarez",
+  "display_name": "Julián Alvarez",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-01-31",
+  "age": 26,
+  "caps": 51,
+  "goals": 14,
+  "club_from_squad_table": "Atlético Madrid",
+  "wikipedia_title": "Julián Alvarez",
+  "wikidata_qid": "Q59381180",
+  "qid": "Q59381180",
+  "name": "Julián Alvarez",
+  "description": "Argentine footballer (born 2000)",
+  "date_of_birth": "2000-01-31",
+  "place_of_birth_qid": "Q5739796",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 169.0,
+  "weight_kg": 71.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q50602",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q15799",
+      "start": "2018-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q15799",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q2462207",
+      "start": "2019-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q8701",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8701",
+  "image_filename": "Julián Álvarez (footballer) 2023.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Juli%C3%A1n_Alvarez",
+  "transfermarkt_id": "576024",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atlético Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Calchín",
+  "photo": {
+    "filename": "Julián Álvarez (footballer) 2023.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Juli%C3%A1n_%C3%81lvarez_%28footballer%29_2023.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Juli%C3%A1n_%C3%81lvarez_%28footballer%29_2023.jpg",
+    "width": 503,
+    "height": 735,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "pantkiewicz",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/julián-alvarez.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

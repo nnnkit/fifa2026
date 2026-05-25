@@ -1,0 +1,61 @@
+{
+  "slug": "senne-lammens",
+  "display_name": "Senne Lammens",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2002-07-07",
+  "age": 23,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Manchester United",
+  "wikipedia_title": "Senne Lammens",
+  "date_of_birth": "2002-07-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q98100512",
+  "qid": "Q98100512",
+  "name": "Senne Lammens",
+  "description": "Belgian association football player (born 2002)",
+  "place_of_birth_qid": "Q300813",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 1.93,
+  "teams": [
+    {
+      "team_qid": "Q190916",
+      "start": "2020-07-01",
+      "end": "2023-06-30"
+    },
+    {
+      "team_qid": "Q732002",
+      "start": "2023-07-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q732002",
+  "image_filename": "Senne Lammens USMNT v Belgium Mar 28 2026-98 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Senne_Lammens",
+  "transfermarkt_id": "503883",
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Aaigem",
+  "wikidata_current_club": "Royal Antwerp F.C.",
+  "wikidata_current_club_qid": "Q732002",
+  "photo": {
+    "filename": "Senne Lammens USMNT v Belgium Mar 28 2026-98 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Senne_Lammens_USMNT_v_Belgium_Mar_28_2026-98_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Senne_Lammens_USMNT_v_Belgium_Mar_28_2026-98_%28cropped%29.jpg/960px-Senne_Lammens_USMNT_v_Belgium_Mar_28_2026-98_%28cropped%29.jpg",
+    "width": 2871,
+    "height": 3826,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/senne-lammens.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

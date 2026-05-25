@@ -1,0 +1,999 @@
+{
+  "slug": "czech-republic",
+  "country": "Czech Republic",
+  "group": "A",
+  "wikidata_qid": "Q483868",
+  "fetched_at": "2026-05-24T08:43:19+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 29,
+  "notes": "Local shell HTTP was unavailable, so Wikimedia data was resolved through browser-accessible Wikipedia, Wikidata, and Commons pages. Only 19 of 29 players have a Wikimedia photo from English Wikipedia pageimage, Wikidata P18, or Commons category search as of 2026-05-24; no Wikimedia photo was found for: Lukáš Horníček, Štěpán Chaloupek, Lukáš Provod, Lukáš Červ, Tomáš Ladra, Hugo Sochůrek, Alexandr Sojka, Denis Višinský, Mojmír Chytil, Christophe Kabongo.",
+  "players": [
+    {
+      "slug": "matěj-kovář",
+      "display_name": "Matěj Kovář",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2000-05-17",
+      "age": 26,
+      "caps": 19,
+      "goals": 0,
+      "club_from_squad_table": "PSV Eindhoven",
+      "current_club": "PSV Eindhoven",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Matěj Kovář",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Matěj_Kovář",
+      "wikidata_qid": "Q59914031",
+      "qid": "Q59914031",
+      "date_of_birth": "2000-05-17",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "Matj_kova-1772635856_(cropped).JPG",
+      "photo": {
+        "filename": "Matj_kova-1772635856_(cropped).JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Matj_kova-1772635856_%28cropped%29.JPG",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Matj_kova-1772635856_%28cropped%29.JPG/960px-Matj_kova-1772635856_%28cropped%29.JPG",
+        "width": 4378,
+        "height": 3588,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Hans Reefman",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/matěj-kovář.jpg"
+      }
+    },
+    {
+      "slug": "jindřich-staněk",
+      "display_name": "Jindřich Staněk",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1996-04-27",
+      "age": 30,
+      "caps": 14,
+      "goals": 0,
+      "club_from_squad_table": "Slavia Prague",
+      "current_club": "Slavia Prague",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Jindřich Staněk",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jindřich_Staněk",
+      "wikidata_qid": "Q56512017",
+      "qid": "Q56512017",
+      "date_of_birth": "1996-04-27",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "Jindřich_Staněk_brankář_FK_Viktorie_Plzeň_(r._2023)_(cropped).jpg",
+      "photo": {
+        "filename": "Jindřich_Staněk_brankář_FK_Viktorie_Plzeň_(r._2023)_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Jind%C5%99ich_Stan%C4%9Bk_brank%C3%A1%C5%99_FK_Viktorie_Plze%C5%88_%28r._2023%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Jind%C5%99ich_Stan%C4%9Bk_brank%C3%A1%C5%99_FK_Viktorie_Plze%C5%88_%28r._2023%29_%28cropped%29.jpg",
+        "width": 725,
+        "height": 1107,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Richtr Jan",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/jindřich-staněk.jpg"
+      }
+    },
+    {
+      "slug": "lukáš-horníček",
+      "display_name": "Lukáš Horníček",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2002-07-13",
+      "age": 23,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Braga",
+      "current_club": "Braga",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Lukáš Horníček",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lukáš_Horníček",
+      "wikidata_qid": "Q100271491",
+      "qid": "Q100271491",
+      "date_of_birth": "2002-07-13",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "vladimír-coufal",
+      "display_name": "Vladimír Coufal",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1992-08-22",
+      "age": 33,
+      "caps": 61,
+      "goals": 2,
+      "club_from_squad_table": "TSG Hoffenheim",
+      "current_club": "TSG Hoffenheim",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Vladimír Coufal",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vladimír_Coufal",
+      "wikidata_qid": "Q15113326",
+      "qid": "Q15113326",
+      "date_of_birth": "1992-08-22",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "Vladimír_Coufal_with_West_Ham_United.jpeg",
+      "photo": {
+        "filename": "Vladimír_Coufal_with_West_Ham_United.jpeg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Vladim%C3%ADr_Coufal_with_West_Ham_United.jpeg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Vladim%C3%ADr_Coufal_with_West_Ham_United.jpeg/960px-Vladim%C3%ADr_Coufal_with_West_Ham_United.jpeg",
+        "width": 1642,
+        "height": 3614,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Egghead06",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/vladimír-coufal.jpg"
+      }
+    },
+    {
+      "slug": "tomáš-holeš",
+      "display_name": "Tomáš Holeš",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1993-03-31",
+      "age": 33,
+      "caps": 39,
+      "goals": 2,
+      "club_from_squad_table": "Slavia Prague",
+      "current_club": "Slavia Prague",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Tomáš Holeš",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tomáš_Holeš",
+      "wikidata_qid": "Q13360752",
+      "qid": "Q13360752",
+      "date_of_birth": "1993-03-31",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "Tomáš_Holeš_Jablonec-Ostrava.jpg",
+      "photo": {
+        "filename": "Tomáš_Holeš_Jablonec-Ostrava.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Tom%C3%A1%C5%A1_Hole%C5%A1_Jablonec-Ostrava.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Tom%C3%A1%C5%A1_Hole%C5%A1_Jablonec-Ostrava.jpg/960px-Tom%C3%A1%C5%A1_Hole%C5%A1_Jablonec-Ostrava.jpg",
+        "width": 1411,
+        "height": 2116,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Tadeáš Bednarz",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/tomáš-holeš.jpg"
+      }
+    },
+    {
+      "slug": "ladislav-krejčí",
+      "display_name": "Ladislav Krejčí",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-04-20",
+      "age": 27,
+      "caps": 25,
+      "goals": 5,
+      "club_from_squad_table": "Wolverhampton Wanderers",
+      "current_club": "Wolverhampton Wanderers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Ladislav Krejčí (footballer, born 1999)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ladislav_Krejčí_(footballer,_born_1999)",
+      "wikidata_qid": "Q27919903",
+      "qid": "Q27919903",
+      "date_of_birth": "1999-04-20",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "Ladislav_Krejčí_01112025_(1).jpg",
+      "photo": {
+        "filename": "Ladislav_Krejčí_01112025_(1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ladislav_Krej%C4%8D%C3%AD_01112025_%281%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ladislav_Krej%C4%8D%C3%AD_01112025_%281%29.jpg/960px-Ladislav_Krej%C4%8D%C3%AD_01112025_%281%29.jpg",
+        "width": 4284,
+        "height": 5712,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "Timmy96",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/ladislav-krejčí.jpg"
+      }
+    },
+    {
+      "slug": "david-zima",
+      "display_name": "David Zima",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-11-08",
+      "age": 25,
+      "caps": 24,
+      "goals": 1,
+      "club_from_squad_table": "Slavia Prague",
+      "current_club": "Slavia Prague",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "David Zima",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Zima",
+      "wikidata_qid": "Q84312754",
+      "qid": "Q84312754",
+      "date_of_birth": "2000-11-08",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "David_Zima_CZE-KUW_2021-11-11_(cropped).jpg",
+      "photo": {
+        "filename": "David_Zima_CZE-KUW_2021-11-11_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/David_Zima_CZE-KUW_2021-11-11_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/David_Zima_CZE-KUW_2021-11-11_%28cropped%29.jpg/960px-David_Zima_CZE-KUW_2021-11-11_%28cropped%29.jpg",
+        "width": 2401,
+        "height": 3120,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Tadeáš Bednarz",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/david-zima.jpg"
+      }
+    },
+    {
+      "slug": "jaroslav-zelený",
+      "display_name": "Jaroslav Zelený",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1992-08-20",
+      "age": 33,
+      "caps": 21,
+      "goals": 0,
+      "club_from_squad_table": "Sparta Prague",
+      "current_club": "Sparta Prague",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Jaroslav Zelený",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jaroslav_Zelený",
+      "wikidata_qid": "Q6160707",
+      "qid": "Q6160707",
+      "date_of_birth": "1992-08-20",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "Jaroslav_Zelený,_FCB-SLAVIA_30092018.jpg",
+      "photo": {
+        "filename": "Jaroslav_Zelený,_FCB-SLAVIA_30092018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Jaroslav_Zelen%C3%BD%2C_FCB-SLAVIA_30092018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jaroslav_Zelen%C3%BD%2C_FCB-SLAVIA_30092018.jpg/960px-Jaroslav_Zelen%C3%BD%2C_FCB-SLAVIA_30092018.jpg",
+        "width": 1098,
+        "height": 2260,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Tadeáš Bednarz",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/jaroslav-zelený.jpg"
+      }
+    },
+    {
+      "slug": "david-jurásek",
+      "display_name": "David Jurásek",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-08-07",
+      "age": 25,
+      "caps": 16,
+      "goals": 1,
+      "club_from_squad_table": "Slavia Prague",
+      "current_club": "Slavia Prague",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "David Jurásek",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Jurásek",
+      "wikidata_qid": "Q96070453",
+      "qid": "Q96070453",
+      "date_of_birth": "2000-08-07",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "UEFA Europa League - RSC Anderlecht vs 1899 Hoffenheim - 30.01.2025.jpg",
+      "photo": {
+        "filename": "UEFA Europa League - RSC Anderlecht vs 1899 Hoffenheim - 30.01.2025.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/UEFA_Europa_League_-_RSC_Anderlecht_vs_1899_Hoffenheim_-_30.01.2025.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/UEFA_Europa_League_-_RSC_Anderlecht_vs_1899_Hoffenheim_-_30.01.2025.jpg/960px-UEFA_Europa_League_-_RSC_Anderlecht_vs_1899_Hoffenheim_-_30.01.2025.jpg",
+        "width": 4032,
+        "height": 3024,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Sidney.Cortez",
+        "source": "commons-category-search",
+        "local_path": "data/photos/david-jurásek.jpg"
+      }
+    },
+    {
+      "slug": "david-douděra",
+      "display_name": "David Douděra",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-05-31",
+      "age": 28,
+      "caps": 15,
+      "goals": 2,
+      "club_from_squad_table": "Slavia Prague",
+      "current_club": "Slavia Prague",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "David Douděra",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Douděra",
+      "wikidata_qid": "Q96613620",
+      "qid": "Q96613620",
+      "date_of_birth": "1998-05-31",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "David_Douděra,_U21_CZE-GRE_2019-10-10.jpg",
+      "photo": {
+        "filename": "David_Douděra,_U21_CZE-GRE_2019-10-10.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/David_Doud%C4%9Bra%2C_U21_CZE-GRE_2019-10-10.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/David_Doud%C4%9Bra%2C_U21_CZE-GRE_2019-10-10.jpg/960px-David_Doud%C4%9Bra%2C_U21_CZE-GRE_2019-10-10.jpg",
+        "width": 2003,
+        "height": 3004,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Tadeáš Bednarz",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/david-douděra.jpg"
+      }
+    },
+    {
+      "slug": "robin-hranáč",
+      "display_name": "Robin Hranáč",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-01-29",
+      "age": 26,
+      "caps": 12,
+      "goals": 1,
+      "club_from_squad_table": "TSG Hoffenheim",
+      "current_club": "TSG Hoffenheim",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Robin Hranáč",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Robin_Hranáč",
+      "wikidata_qid": "Q107647351",
+      "qid": "Q107647351",
+      "date_of_birth": "2000-01-29",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "UEFA Europa League - RSC Anderlecht vs 1899 Hoffenheim - 30.01.2025.jpg",
+      "photo": {
+        "filename": "UEFA Europa League - RSC Anderlecht vs 1899 Hoffenheim - 30.01.2025.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/UEFA_Europa_League_-_RSC_Anderlecht_vs_1899_Hoffenheim_-_30.01.2025.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/UEFA_Europa_League_-_RSC_Anderlecht_vs_1899_Hoffenheim_-_30.01.2025.jpg/960px-UEFA_Europa_League_-_RSC_Anderlecht_vs_1899_Hoffenheim_-_30.01.2025.jpg",
+        "width": 4032,
+        "height": 3024,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Sidney.Cortez",
+        "source": "commons-category-search",
+        "local_path": "data/photos/robin-hranáč.jpg"
+      }
+    },
+    {
+      "slug": "štěpán-chaloupek",
+      "display_name": "Štěpán Chaloupek",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-03-08",
+      "age": 23,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Slavia Prague",
+      "current_club": "Slavia Prague",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Štěpán Chaloupek",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Štěpán_Chaloupek",
+      "wikidata_qid": "Q114713721",
+      "qid": "Q114713721",
+      "date_of_birth": "2003-03-08",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "tomáš-souček",
+      "display_name": "Tomáš Souček",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1995-02-27",
+      "age": 31,
+      "caps": 89,
+      "goals": 17,
+      "club_from_squad_table": "West Ham United",
+      "current_club": "West Ham United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Tomáš Souček",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tomáš_Souček",
+      "wikidata_qid": "Q20860081",
+      "qid": "Q20860081",
+      "date_of_birth": "1995-02-27",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "Tomáš_Souček_WHU.jpeg",
+      "photo": {
+        "filename": "Tomáš_Souček_WHU.jpeg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Tom%C3%A1%C5%A1_Sou%C4%8Dek_WHU.jpeg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Tom%C3%A1%C5%A1_Sou%C4%8Dek_WHU.jpeg",
+        "width": 566,
+        "height": 1371,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Egghead06",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/tomáš-souček.jpg"
+      }
+    },
+    {
+      "slug": "vladimír-darida",
+      "display_name": "Vladimír Darida",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1990-08-08",
+      "age": 35,
+      "caps": 78,
+      "goals": 8,
+      "club_from_squad_table": "Hradec Králové",
+      "current_club": "Hradec Králové",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Vladimír Darida",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vladimír_Darida",
+      "wikidata_qid": "Q278239",
+      "qid": "Q278239",
+      "date_of_birth": "1990-08-08",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "Vladimír_Darida_20180601_AUSCZE_3910_(cropped).jpg",
+      "photo": {
+        "filename": "Vladimír_Darida_20180601_AUSCZE_3910_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Vladim%C3%ADr_Darida_20180601_AUSCZE_3910_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Vladim%C3%ADr_Darida_20180601_AUSCZE_3910_%28cropped%29.jpg",
+        "width": 543,
+        "height": 592,
+        "license": "CC BY-SA 3.0 at",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+        "attribution": "Ailura",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/vladimír-darida.jpg"
+      }
+    },
+    {
+      "slug": "lukáš-provod",
+      "display_name": "Lukáš Provod",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-10-23",
+      "age": 29,
+      "caps": 37,
+      "goals": 3,
+      "club_from_squad_table": "Slavia Prague",
+      "current_club": "Slavia Prague",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Lukáš Provod",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lukáš_Provod",
+      "wikidata_qid": "Q45288740",
+      "qid": "Q45288740",
+      "date_of_birth": "1996-10-23",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "michal-sadílek",
+      "display_name": "Michal Sadílek",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1999-05-31",
+      "age": 27,
+      "caps": 33,
+      "goals": 1,
+      "club_from_squad_table": "Slavia Prague",
+      "current_club": "Slavia Prague",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Michal Sadílek",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michal_Sadílek",
+      "wikidata_qid": "Q28801942",
+      "qid": "Q28801942",
+      "date_of_birth": "1999-05-31",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "Michal_Sadílek,_U21_CZE-GRE_2019-10-10_(2).jpg",
+      "photo": {
+        "filename": "Michal_Sadílek,_U21_CZE-GRE_2019-10-10_(2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Michal_Sad%C3%ADlek%2C_U21_CZE-GRE_2019-10-10_%282%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Michal_Sad%C3%ADlek%2C_U21_CZE-GRE_2019-10-10_%282%29.jpg/960px-Michal_Sad%C3%ADlek%2C_U21_CZE-GRE_2019-10-10_%282%29.jpg",
+        "width": 1326,
+        "height": 1989,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Tadeáš Bednarz",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/michal-sadílek.jpg"
+      }
+    },
+    {
+      "slug": "pavel-šulc",
+      "display_name": "Pavel Šulc",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-12-29",
+      "age": 25,
+      "caps": 20,
+      "goals": 5,
+      "club_from_squad_table": "Lyon",
+      "current_club": "Lyon",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Pavel Šulc",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pavel_Šulc",
+      "wikidata_qid": "Q60791524",
+      "qid": "Q60791524",
+      "date_of_birth": "2000-12-29",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "Pavel_Šulc_(cropped).jpg",
+      "photo": {
+        "filename": "Pavel_Šulc_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Pavel_%C5%A0ulc_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pavel_%C5%A0ulc_%28cropped%29.jpg/960px-Pavel_%C5%A0ulc_%28cropped%29.jpg",
+        "width": 1118,
+        "height": 2044,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Patourek",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/pavel-šulc.jpg"
+      }
+    },
+    {
+      "slug": "lukáš-červ",
+      "display_name": "Lukáš Červ",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-04-10",
+      "age": 25,
+      "caps": 15,
+      "goals": 2,
+      "club_from_squad_table": "Viktoria Plzeň",
+      "current_club": "Viktoria Plzeň",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Lukáš Červ",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lukáš_Červ",
+      "wikidata_qid": "Q97312966",
+      "qid": "Q97312966",
+      "date_of_birth": "2001-04-10",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "tomáš-ladra",
+      "display_name": "Tomáš Ladra",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-05-24",
+      "age": 29,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Viktoria Plzeň",
+      "current_club": "Viktoria Plzeň",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Tomáš Ladra",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tomáš_Ladra",
+      "wikidata_qid": "Q56516658",
+      "qid": "Q56516658",
+      "date_of_birth": "1997-05-24",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "pavel-bucha",
+      "display_name": "Pavel Bucha",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-03-11",
+      "age": 28,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "FC Cincinnati",
+      "current_club": "FC Cincinnati",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Pavel Bucha",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pavel_Bucha",
+      "wikidata_qid": "Q49163401",
+      "qid": "Q49163401",
+      "date_of_birth": "1998-03-11",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "Pavel_Bucha_NYCFC_v_Cincinnati_22_Apr_26-167_(cropped).jpg",
+      "photo": {
+        "filename": "Pavel_Bucha_NYCFC_v_Cincinnati_22_Apr_26-167_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Pavel_Bucha_NYCFC_v_Cincinnati_22_Apr_26-167_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pavel_Bucha_NYCFC_v_Cincinnati_22_Apr_26-167_%28cropped%29.jpg/960px-Pavel_Bucha_NYCFC_v_Cincinnati_22_Apr_26-167_%28cropped%29.jpg",
+        "width": 2242,
+        "height": 3361,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Bryan Berlin",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/pavel-bucha.jpg"
+      }
+    },
+    {
+      "slug": "hugo-sochůrek",
+      "display_name": "Hugo Sochůrek",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2008-06-07",
+      "age": 18,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Sparta Prague",
+      "current_club": "Sparta Prague",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Hugo Sochůrek",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hugo_Sochůrek",
+      "wikidata_qid": "Q138757935",
+      "qid": "Q138757935",
+      "date_of_birth": "2008-06-07",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "alexandr-sojka",
+      "display_name": "Alexandr Sojka",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-04-02",
+      "age": 23,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Viktoria Plzeň",
+      "current_club": "Viktoria Plzeň",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Alexandr Sojka",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexandr_Sojka",
+      "wikidata_qid": "Q131432595",
+      "qid": "Q131432595",
+      "date_of_birth": "2003-04-02",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "denis-višinský",
+      "display_name": "Denis Višinský",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-03-21",
+      "age": 23,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Viktoria Plzeň",
+      "current_club": "Viktoria Plzeň",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Denis Višinský",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Denis_Višinský",
+      "wikidata_qid": "Q106061470",
+      "qid": "Q106061470",
+      "date_of_birth": "2003-03-21",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "patrik-schick",
+      "display_name": "Patrik Schick",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-01-24",
+      "age": 30,
+      "caps": 52,
+      "goals": 25,
+      "club_from_squad_table": "Bayer Leverkusen",
+      "current_club": "Bayer Leverkusen",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Patrik Schick",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrik_Schick",
+      "wikidata_qid": "Q16910257",
+      "qid": "Q16910257",
+      "date_of_birth": "1996-01-24",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "2020-03-10_Fußball,_Männer,_UEFA_Champions_League_Achtelfinale,_RB_Leipzig_-_Tottenham_Hotspur_1DX_3672_by_Stepro.jpg",
+      "photo": {
+        "filename": "2020-03-10_Fußball,_Männer,_UEFA_Champions_League_Achtelfinale,_RB_Leipzig_-_Tottenham_Hotspur_1DX_3672_by_Stepro.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/2020-03-10_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League_Achtelfinale%2C_RB_Leipzig_-_Tottenham_Hotspur_1DX_3672_by_Stepro.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2020-03-10_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League_Achtelfinale%2C_RB_Leipzig_-_Tottenham_Hotspur_1DX_3672_by_Stepro.jpg/960px-2020-03-10_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League_Achtelfinale%2C_RB_Leipzig_-_Tottenham_Hotspur_1DX_3672_by_Stepro.jpg",
+        "width": 2738,
+        "height": 2738,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Steffen Prößdorf",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/patrik-schick.jpg"
+      }
+    },
+    {
+      "slug": "adam-hložek",
+      "display_name": "Adam Hložek",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2002-07-25",
+      "age": 23,
+      "caps": 41,
+      "goals": 4,
+      "club_from_squad_table": "TSG Hoffenheim",
+      "current_club": "TSG Hoffenheim",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Adam Hložek",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Adam_Hložek",
+      "wikidata_qid": "Q59782306",
+      "qid": "Q59782306",
+      "date_of_birth": "2002-07-25",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "Adam_Hložek,_2022-07-31,_Saisoneröffnung_Bayer_04,_Leverkusen_(2)_(cropped).jpg",
+      "photo": {
+        "filename": "Adam_Hložek,_2022-07-31,_Saisoneröffnung_Bayer_04,_Leverkusen_(2)_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Adam_Hlo%C5%BEek%2C_2022-07-31%2C_Saisoner%C3%B6ffnung_Bayer_04%2C_Leverkusen_%282%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Adam_Hlo%C5%BEek%2C_2022-07-31%2C_Saisoner%C3%B6ffnung_Bayer_04%2C_Leverkusen_%282%29_%28cropped%29.jpg/960px-Adam_Hlo%C5%BEek%2C_2022-07-31%2C_Saisoner%C3%B6ffnung_Bayer_04%2C_Leverkusen_%282%29_%28cropped%29.jpg",
+        "width": 2631,
+        "height": 3776,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Pyaet",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/adam-hložek.jpg"
+      }
+    },
+    {
+      "slug": "jan-kuchta",
+      "display_name": "Jan Kuchta",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1997-01-08",
+      "age": 29,
+      "caps": 30,
+      "goals": 3,
+      "club_from_squad_table": "Sparta Prague",
+      "current_club": "Sparta Prague",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Jan Kuchta",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jan_Kuchta",
+      "wikidata_qid": "Q45045358",
+      "qid": "Q45045358",
+      "date_of_birth": "1997-01-08",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "Jan_Kuchta_2022.jpg",
+      "photo": {
+        "filename": "Jan_Kuchta_2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Jan_Kuchta_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Jan_Kuchta_2022.jpg",
+        "width": 755,
+        "height": 955,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Антон Зайцев",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/jan-kuchta.jpg"
+      }
+    },
+    {
+      "slug": "tomáš-chorý",
+      "display_name": "Tomáš Chorý",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1995-01-26",
+      "age": 31,
+      "caps": 21,
+      "goals": 6,
+      "club_from_squad_table": "Slavia Prague",
+      "current_club": "Slavia Prague",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Tomáš Chorý",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tomáš_Chorý",
+      "wikidata_qid": "Q17037384",
+      "qid": "Q17037384",
+      "date_of_birth": "1995-01-26",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "image_filename": "Tomáš_Chorý_(cropped).jpg",
+      "photo": {
+        "filename": "Tomáš_Chorý_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Tom%C3%A1%C5%A1_Chor%C3%BD_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Tom%C3%A1%C5%A1_Chor%C3%BD_%28cropped%29.jpg",
+        "width": 343,
+        "height": 477,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "@el_loko74",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/tomáš-chorý.jpg"
+      }
+    },
+    {
+      "slug": "mojmír-chytil",
+      "display_name": "Mojmír Chytil",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-04-29",
+      "age": 27,
+      "caps": 21,
+      "goals": 6,
+      "club_from_squad_table": "Slavia Prague",
+      "current_club": "Slavia Prague",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Mojmír Chytil",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mojmír_Chytil",
+      "wikidata_qid": "Q104488728",
+      "qid": "Q104488728",
+      "date_of_birth": "1999-04-29",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "christophe-kabongo",
+      "display_name": "Christophe Kabongo",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2003-08-27",
+      "age": 22,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Mladá Boleslav",
+      "current_club": "Mladá Boleslav",
+      "current_club_source": "wikipedia-squad-table",
+      "wikipedia_title": "Christophe Kabongo",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Christophe_Kabongo",
+      "wikidata_qid": "Q104906208",
+      "qid": "Q104906208",
+      "date_of_birth": "2003-08-27",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Czech Republic"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found as of 2026-05-24."
+      }
+    }
+  ]
+}

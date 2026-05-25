@@ -1,0 +1,94 @@
+{
+  "slug": "craig-gordon",
+  "display_name": "Craig Gordon",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1982-12-31",
+  "age": 43,
+  "caps": 83,
+  "goals": 0,
+  "club_from_squad_table": "Heart of Midlothian",
+  "wikipedia_title": "Craig Gordon",
+  "date_of_birth": "1982-12-31",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Heart of Midlothian",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q177331",
+  "qid": "Q177331",
+  "name": "Craig Gordon",
+  "description": "Scottish association football player (born 1982)",
+  "place_of_birth_qid": "Q23436",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 193.0,
+  "weight_kg": 83.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18739",
+      "start": "2007-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q610447",
+      "start": "2001-01-01",
+      "end": "2002-01-01"
+    },
+    {
+      "team_qid": "Q202093",
+      "start": "2000-01-01",
+      "end": "2007-01-01"
+    },
+    {
+      "team_qid": "Q19593",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1812121",
+      "start": "2002-01-01",
+      "end": "2003-01-01"
+    },
+    {
+      "team_qid": "Q4127960",
+      "start": "2003-01-01",
+      "end": "2005-01-01"
+    },
+    {
+      "team_qid": "Q34044",
+      "start": "2004-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19593",
+  "image_filename": "Craig S Gordon.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Craig_Gordon",
+  "transfermarkt_id": "12589",
+  "fifa_player_id": "215553",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Edinburgh",
+  "wikidata_current_club": "Celtic F.C.",
+  "wikidata_current_club_qid": "Q19593",
+  "photo": {
+    "filename": "Craig S Gordon.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Craig_S_Gordon.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Craig_S_Gordon.jpg",
+    "width": 395,
+    "height": 549,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/theedinburghblog/\">www.theedinburghblog.co .uk</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/craig-gordon.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

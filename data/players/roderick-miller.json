@@ -1,0 +1,108 @@
+{
+  "slug": "roderick-miller",
+  "display_name": "Roderick Miller",
+  "shirt_no": 5,
+  "position_code": "DF",
+  "dob": "1992-04-03",
+  "age": 34,
+  "caps": 48,
+  "goals": 2,
+  "club_from_squad_table": "Turan Tovuz",
+  "wikipedia_title": "Roderick Miller (footballer)",
+  "date_of_birth": "1992-04-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Turan Tovuz",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q3939881",
+  "qid": "Q3939881",
+  "name": "Roderick Miller",
+  "description": "Panamanian footballer",
+  "place_of_birth_qid": "Q3306",
+  "citizenship_qids": [
+    "Q804"
+  ],
+  "height_cm": 189.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2060037",
+      "start": "2010-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q1570578",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q7129942",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q223748",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q332605",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q671042",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q931971",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q77267327",
+      "start": "2020-01-00",
+      "end": "2020-06-00"
+    },
+    {
+      "team_qid": "Q2060037",
+      "start": "2020-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q248765",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q750779",
+  "image_filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 59 (Roderick Miller).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Roderick_Miller_(footballer)",
+  "transfermarkt_id": "157154",
+  "fifa_player_id": "344582",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Panama"
+  ],
+  "place_of_birth": "Panama City",
+  "wikidata_current_club": "C.D. Cuenca",
+  "wikidata_current_club_qid": "Q248765",
+  "photo": {
+    "filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 59 (Roderick Miller).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_59_%28Roderick_Miller%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_59_%28Roderick_Miller%29.jpg/960px-Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_59_%28Roderick_Miller%29.jpg",
+    "width": 1374,
+    "height": 1999,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/roderick-miller.jpg"
+  },
+  "team_slug": "panama",
+  "team_country": "Panama"
+}

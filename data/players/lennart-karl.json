@@ -1,0 +1,37 @@
+{
+  "slug": "lennart-karl",
+  "display_name": "Lennart Karl",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2008-02-22",
+  "age": 18,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Bayern Munich",
+  "wikipedia_title": "Lennart Karl",
+  "date_of_birth": "2008-02-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayern Munich",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q130776450",
+  "qid": "Q130776450",
+  "name": "Lennart Karl",
+  "description": "German association football player",
+  "place_of_birth_qid": "Q503743",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 1.68,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lennart_Karl",
+  "transfermarkt_id": "1075147",
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Frammersbach",
+  "team_slug": "germany",
+  "team_country": "Germany",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

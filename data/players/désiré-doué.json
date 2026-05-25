@@ -1,0 +1,100 @@
+{
+  "slug": "d\u00e9sir\u00e9-dou\u00e9",
+  "display_name": "D\u00e9sir\u00e9 Dou\u00e9",
+  "shirt_no": 20,
+  "position_code": "FW",
+  "dob": "2005-06-03",
+  "age": 21,
+  "caps": 6,
+  "goals": 2,
+  "club_from_squad_table": "Paris Saint-Germain",
+  "wikipedia_title": "D\u00e9sir\u00e9 Dou\u00e9",
+  "date_of_birth": "2005-06-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Paris Saint-Germain",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q112170256",
+  "qid": "Q112170256",
+  "name": "D\u00e9sir\u00e9 Dou\u00e9",
+  "description": "French footballer (born 2005)",
+  "place_of_birth_qid": "Q38380",
+  "citizenship_qids": [
+    "Q1008",
+    "Q142"
+  ],
+  "height_cm": 1.81,
+  "weight_kg": 79.0,
+  "position_qids": [
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q109507186",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q19509",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2024-08-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q2701714",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q3590215",
+      "start": "2024-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q47774",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q483020",
+  "image_filename": "Doue asse psg 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9_Dou%C3%A9",
+  "transfermarkt_id": "914562",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "Ivory Coast",
+    "France"
+  ],
+  "place_of_birth": "Angers",
+  "wikidata_current_club": "Paris Saint-Germain FC",
+  "wikidata_current_club_qid": "Q483020",
+  "photo": {
+    "filename": "Doue asse psg 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Doue_asse_psg_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Doue_asse_psg_2425.png",
+    "width": 580,
+    "height": 855,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/d\u00e9sir\u00e9-dou\u00e9.png"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

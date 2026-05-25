@@ -1,0 +1,62 @@
+{
+  "slug": "godfried-roemeratoe",
+  "display_name": "Godfried Roemeratoe",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1999-08-19",
+  "age": 26,
+  "caps": 26,
+  "goals": 1,
+  "club_from_squad_table": "RKC Waalwijk",
+  "wikipedia_title": "Godfried Roemeratoe",
+  "date_of_birth": "1999-08-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "RKC Waalwijk",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q60047739",
+  "qid": "Q60047739",
+  "name": "Godfried Roemeratoe",
+  "description": "Curaçaoan footballer",
+  "place_of_birth_qid": "Q1427398",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 1.78,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19603",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19603",
+  "image_filename": "Godfried Roemeratoe.JPG",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Godfried_Roemeratoe",
+  "transfermarkt_id": "393241",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Oost-Souburg",
+  "wikidata_current_club": "FC Twente",
+  "wikidata_current_club_qid": "Q19603",
+  "photo": {
+    "filename": "Godfried Roemeratoe.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Godfried_Roemeratoe.JPG",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Godfried_Roemeratoe.JPG/960px-Godfried_Roemeratoe.JPG",
+    "width": 3417,
+    "height": 3933,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Hans Reefman",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/godfried-roemeratoe.JPG"
+  },
+  "team_slug": "curaçao",
+  "team_country": "Curaçao"
+}

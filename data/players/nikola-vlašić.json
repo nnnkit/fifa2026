@@ -1,0 +1,113 @@
+{
+  "slug": "nikola-vla\u0161i\u0107",
+  "display_name": "Nikola Vla\u0161i\u0107",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-10-04",
+  "age": 28,
+  "caps": 61,
+  "goals": 10,
+  "club_from_squad_table": "Torino",
+  "wikipedia_title": "Nikola Vla\u0161i\u0107",
+  "date_of_birth": "1997-10-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Torino",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q17501875",
+  "qid": "Q17501875",
+  "name": "Nikola Vla\u0161i\u0107",
+  "description": "Croatian association football player",
+  "place_of_birth_qid": "Q1663",
+  "citizenship_qids": [
+    "Q224"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q5794",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q3589940",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q3446766",
+      "start": "2015-01-01",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q2331381",
+      "start": "2015-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q176371",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q176371",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q18747",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q181216",
+      "start": "2014-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q134479",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2768",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q2768",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2768",
+  "image_filename": "Nikola Vla\u0161i\u0107 (CSKA Moscow, 19.08.2019).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nikola_Vla%C5%A1i%C4%87",
+  "transfermarkt_id": "293200",
+  "fifa_player_id": "201292238",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Croatia"
+  ],
+  "place_of_birth": "Split",
+  "wikidata_current_club": "Torino FC",
+  "wikidata_current_club_qid": "Q2768",
+  "photo": {
+    "filename": "Nikola Vla\u0161i\u0107 (CSKA Moscow, 19.08.2019).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Nikola_Vla%C5%A1i%C4%87_%28CSKA_Moscow%2C_19.08.2019%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Nikola_Vla%C5%A1i%C4%87_%28CSKA_Moscow%2C_19.08.2019%29.jpg",
+    "width": 764,
+    "height": 1156,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u043d\u0430 \u041d\u044d\u0441\u0441\u0438",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nikola-vla\u0161i\u0107.jpg"
+  },
+  "team_slug": "croatia",
+  "team_country": "Croatia"
+}

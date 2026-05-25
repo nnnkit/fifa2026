@@ -1,0 +1,133 @@
+{
+  "slug": "marc-cucurella",
+  "display_name": "Marc Cucurella",
+  "shirt_no": 24,
+  "position_code": "DF",
+  "dob": "1998-07-22",
+  "age": 27,
+  "caps": 23,
+  "goals": 1,
+  "club_from_squad_table": "Chelsea",
+  "wikipedia_title": "Marc Cucurella",
+  "date_of_birth": "1998-07-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Chelsea",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q22082505",
+  "qid": "Q22082505",
+  "name": "Marc Cucurella",
+  "description": "Spanish association football player",
+  "place_of_birth_qid": "Q12034",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 169.0,
+  "weight_kg": 67.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q10467",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q7156",
+      "start": "2017-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q770740",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q3873503",
+      "start": "2014-00-00",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q2310295",
+      "start": "2014-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q3589784",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q2713491",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q2356290",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q8806",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q8806",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q19453",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1129595",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q2637337",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q42267",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q9616",
+  "image_filename": "Marc Cucurella.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marc_Cucurella",
+  "transfermarkt_id": "284857",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Alella",
+  "wikidata_current_club": "Chelsea F.C.",
+  "wikidata_current_club_qid": "Q9616",
+  "photo": {
+    "filename": "Marc Cucurella.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Marc_Cucurella.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Marc_Cucurella.jpg",
+    "width": 294,
+    "height": 421,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Soccer.ru",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/marc-cucurella.jpg"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain"
+}

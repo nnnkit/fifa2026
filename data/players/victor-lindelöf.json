@@ -1,0 +1,109 @@
+{
+  "slug": "victor-lindel\u00f6f",
+  "display_name": "Victor Lindel\u00f6f",
+  "shirt_no": 3,
+  "position_code": "DF",
+  "dob": "1994-07-17",
+  "age": 31,
+  "caps": 75,
+  "goals": 3,
+  "club_from_squad_table": "Aston Villa",
+  "wikipedia_title": "Victor Lindel\u00f6f",
+  "date_of_birth": "1994-07-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Aston Villa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q4125587",
+  "qid": "Q4125587",
+  "name": "Victor Lindel\u00f6f",
+  "description": "Swedish association football player",
+  "place_of_birth_qid": "Q25412",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 187.0,
+  "weight_kg": 82.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1680249",
+      "start": "2009-00-00",
+      "end": "2012-00-00"
+    },
+    {
+      "team_qid": "Q131499",
+      "start": "2013-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q7387221",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3590410",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q2255212",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2255267",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q160826",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q16966634",
+      "start": "2010-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2017-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q18711",
+      "start": "2025-08-31",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18711",
+  "image_filename": "Sweden-Slovenia Nations League 2022-09-27 6 (Victor Lindelof, cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Victor_Lindel%C3%B6f",
+  "transfermarkt_id": "184573",
+  "fifa_player_id": "395283",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "V\u00e4ster\u00e5s",
+  "wikidata_current_club": "Aston Villa F.C.",
+  "wikidata_current_club_qid": "Q18711",
+  "photo": {
+    "filename": "Sweden-Slovenia Nations League 2022-09-27 6 (Victor Lindelof, cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sweden-Slovenia_Nations_League_2022-09-27_6_%28Victor_Lindelof%2C_cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sweden-Slovenia_Nations_League_2022-09-27_6_%28Victor_Lindelof%2C_cropped%29.jpg/960px-Sweden-Slovenia_Nations_League_2022-09-27_6_%28Victor_Lindelof%2C_cropped%29.jpg",
+    "width": 1242,
+    "height": 1628,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Rolandhino1\" title=\"User:Rolandhino1\">Rolandhino1</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/victor-lindel\u00f6f.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

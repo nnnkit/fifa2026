@@ -1,0 +1,131 @@
+{
+  "slug": "axel-witsel",
+  "display_name": "Axel Witsel",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1989-01-12",
+  "age": 37,
+  "caps": 136,
+  "goals": 12,
+  "club_from_squad_table": "Girona",
+  "wikipedia_title": "Axel Witsel",
+  "date_of_birth": "1989-01-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Girona",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q151838",
+  "qid": "Q151838",
+  "name": "Axel Witsel",
+  "description": "Belgian association football player (born 1989)",
+  "place_of_birth_qid": "Q3992",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 186.0,
+  "weight_kg": 81.0,
+  "position_qids": [
+    "Q18691898",
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q29108",
+      "start": "2012-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q131499",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q190561",
+      "start": "2006-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q166776",
+      "start": "2008-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3589895",
+      "start": "2005-01-01",
+      "end": "2006-01-01"
+    },
+    {
+      "team_qid": "Q15224541",
+      "start": "2006-01-01",
+      "end": "2007-01-01"
+    },
+    {
+      "team_qid": "Q3589896",
+      "start": "2006-01-01",
+      "end": "2006-01-01"
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2007-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q30743865",
+      "start": "2004-01-01",
+      "end": "2004-01-01"
+    },
+    {
+      "team_qid": "Q23674710",
+      "start": "2005-01-01",
+      "end": "2005-01-01"
+    },
+    {
+      "team_qid": "Q552880",
+      "start": "2017-00-00",
+      "end": "2018-08-00"
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2018-08-00",
+      "end": "2022-06-00"
+    },
+    {
+      "team_qid": "Q8701",
+      "start": "2022-07-00",
+      "end": "2025-07-00"
+    },
+    {
+      "team_qid": "Q11945",
+      "start": "2025-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q11945",
+  "image_filename": "Witsel celebrating bronze (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Axel_Witsel",
+  "transfermarkt_id": "35047",
+  "fifa_player_id": "290821",
+  "positions": [
+    "defensive midfielder",
+    "centre-back"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Li\u00e8ge",
+  "wikidata_current_club": "Girona FC",
+  "wikidata_current_club_qid": "Q11945",
+  "photo": {
+    "filename": "Witsel celebrating bronze (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Witsel_celebrating_bronze_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Witsel_celebrating_bronze_%28cropped%29.jpg",
+    "width": 459,
+    "height": 668,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u041a\u0438\u0440\u0438\u043b\u043b \u0412\u0435\u043d\u0435\u0434\u0438\u043a\u0442\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/axel-witsel.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

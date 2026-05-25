@@ -1,0 +1,100 @@
+{
+  "slug": "steven-moreira",
+  "display_name": "Steven Moreira",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1994-08-13",
+  "age": 31,
+  "caps": 18,
+  "goals": 0,
+  "club_from_squad_table": "Columbus Crew",
+  "wikipedia_title": "Steven Moreira",
+  "date_of_birth": "1994-08-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Columbus Crew",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q14371131",
+  "qid": "Q14371131",
+  "name": "Steven Moreira",
+  "description": "Cape Verdean and French footballer",
+  "place_of_birth_qid": "Q207605",
+  "citizenship_qids": [
+    "Q1011",
+    "Q142"
+  ],
+  "height_cm": 176.0,
+  "weight_kg": 67.0,
+  "position_qids": [
+    "Q336286",
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19509",
+      "start": "2013-07-01",
+      "end": "2016-08-30"
+    },
+    {
+      "team_qid": "Q48911",
+      "start": "2016-08-30",
+      "end": "2018-08-10"
+    },
+    {
+      "team_qid": "Q19518",
+      "start": "2018-08-10",
+      "end": "2021-07-01"
+    },
+    {
+      "team_qid": "Q3590033",
+      "start": "2009-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q2701714",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1344163",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q457163",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q457163",
+  "image_filename": "Steven Moreira NYCFC v Columbus 10 May 2026-67 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Steven_Moreira",
+  "transfermarkt_id": "203517",
+  "positions": [
+    "defender",
+    "full-back"
+  ],
+  "citizenship": [
+    "Cape Verde",
+    "France"
+  ],
+  "place_of_birth": "Noisy-le-Grand",
+  "photo": {
+    "filename": "Steven Moreira NYCFC v Columbus 10 May 2026-67 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Steven_Moreira_NYCFC_v_Columbus_10_May_2026-67_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Steven_Moreira_NYCFC_v_Columbus_10_May_2026-67_%28cropped%29.jpg/960px-Steven_Moreira_NYCFC_v_Columbus_10_May_2026-67_%28cropped%29.jpg",
+    "width": 3001,
+    "height": 4499,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/steven-moreira.jpg"
+  },
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde"
+}

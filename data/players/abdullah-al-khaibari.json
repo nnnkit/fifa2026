@@ -1,0 +1,72 @@
+{
+  "slug": "abdullah-al-khaibari",
+  "display_name": "Abdullah Al-Khaibari",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-08-16",
+  "age": 29,
+  "caps": 37,
+  "goals": 0,
+  "club_from_squad_table": "Al-Nassr",
+  "wikipedia_title": "Abdullah Al-Khaibari",
+  "date_of_birth": "1996-08-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Nassr",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28716544",
+  "qid": "Q28716544",
+  "name": "Abdullah Al-Khaibari",
+  "description": "Saudi Arabian footballer",
+  "place_of_birth_qid": "Q851",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 66.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q189723",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2636005",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q482764",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q482764",
+  "image_filename": "Abdullah Al-Khaibari 2023 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abdullah_Al-Khaibari",
+  "transfermarkt_id": "437903",
+  "fifa_player_id": "411624",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Saudi Arabia",
+  "photo": {
+    "filename": "Abdullah Al-Khaibari 2023 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Abdullah_Al-Khaibari_2023_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Abdullah_Al-Khaibari_2023_%28cropped%29.jpg",
+    "width": 277,
+    "height": 449,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "M.Reza Abbasi/Foad Ashtari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/abdullah-al-khaibari.jpg"
+  },
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia"
+}

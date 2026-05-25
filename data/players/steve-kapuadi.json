@@ -1,0 +1,47 @@
+{
+  "slug": "steve-kapuadi",
+  "display_name": "Steve Kapuadi",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-04-30",
+  "age": 28,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Widzew \u0141\u00f3d\u017a",
+  "wikipedia_title": "Steve Kapuadi",
+  "date_of_birth": "1998-04-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Widzew \u0141\u00f3d\u017a",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q85291597",
+  "qid": "Q85291597",
+  "name": "Steve Kapuadi",
+  "description": "French footballer",
+  "place_of_birth_qid": "Q1476",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 193.0,
+  "teams": [
+    {
+      "team_qid": "Q677570",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q677570",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Steve_Kapuadi",
+  "transfermarkt_id": "679709",
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "Le Mans",
+  "wikidata_current_club": "FK Inter Bratislava",
+  "wikidata_current_club_qid": "Q677570",
+  "team_slug": "dr-congo",
+  "team_country": "DR Congo",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

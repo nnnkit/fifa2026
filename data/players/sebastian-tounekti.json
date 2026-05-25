@@ -1,0 +1,90 @@
+{
+  "slug": "sebastian-tounekti",
+  "display_name": "Sebastian Tounekti",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2002-07-13",
+  "age": 23,
+  "caps": 10,
+  "goals": 1,
+  "club_from_squad_table": "Celtic",
+  "wikipedia_title": "Sebastian Tounekti",
+  "date_of_birth": "2002-07-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Celtic",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q96337717",
+  "qid": "Q96337717",
+  "name": "Sebastian Tounekti",
+  "description": "Norwegian-Tunisian association football player",
+  "place_of_birth_qid": "Q26087",
+  "citizenship_qids": [
+    "Q20",
+    "Q948"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q478167",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q2705645",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q24711",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q750097",
+      "start": "2022-00-00",
+      "end": "2025-02-00"
+    },
+    {
+      "team_qid": "Q27971",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1112784",
+      "start": "2023-06-00",
+      "end": "2023-08-00"
+    },
+    {
+      "team_qid": "Q460724",
+      "start": "2025-02-00",
+      "end": "2025-09-00"
+    },
+    {
+      "team_qid": "Q19593",
+      "start": "2025-09-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19593",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sebastian_Tounekti",
+  "transfermarkt_id": "539677",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Norway",
+    "Tunisia"
+  ],
+  "place_of_birth": "Tromsø Municipality",
+  "wikidata_current_club": "Celtic F.C.",
+  "wikidata_current_club_qid": "Q19593",
+  "team_slug": "tunisia",
+  "team_country": "Tunisia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

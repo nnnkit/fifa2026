@@ -1,0 +1,98 @@
+{
+  "slug": "raphinha",
+  "display_name": "Raphinha",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1996-12-14",
+  "age": 29,
+  "caps": 37,
+  "goals": 11,
+  "club_from_squad_table": "Barcelona",
+  "wikipedia_title": "Raphinha",
+  "date_of_birth": "1996-12-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Barcelona",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28861547",
+  "qid": "Q28861547",
+  "name": "Raphinha papá de Mbappe",
+  "description": "que chingue a su madre mbappe",
+  "place_of_birth_qid": "Q40269",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 177.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q7156",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q223450",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q75729",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q19509",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q1128631",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q17518847",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q374069",
+      "start": "2015-00-00",
+      "end": "2015-00-00"
+    }
+  ],
+  "current_club_qid": "Q7156",
+  "image_filename": "Raphael Dias Belloli 2023.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Raphinha",
+  "transfermarkt_id": "411295",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "Porto Alegre",
+  "wikidata_current_club": "Futbol Club Barcelona",
+  "wikidata_current_club_qid": "Q7156",
+  "photo": {
+    "filename": "Raphael Dias Belloli 2023.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Raphael_Dias_Belloli_2023.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Raphael_Dias_Belloli_2023.jpg",
+    "width": 719,
+    "height": 811,
+    "license": "Attribution",
+    "license_url": null,
+    "attribution": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Executive_Council_of_Catalonia\" class=\"extiw\" title=\"w:en:Executive Council of Catalonia\"><span title=\"Main institution in Catalonia\">Government of Catalonia</span></a>\n</bdi>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/raphinha.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

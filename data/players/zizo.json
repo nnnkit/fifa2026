@@ -1,0 +1,83 @@
+{
+  "slug": "zizo",
+  "display_name": "Zizo",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1996-01-10",
+  "age": 30,
+  "caps": 61,
+  "goals": 5,
+  "club_from_squad_table": "Al Ahly",
+  "wikipedia_title": "Zizo (footballer)",
+  "date_of_birth": "1996-01-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al Ahly",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q17429290",
+  "qid": "Q17429290",
+  "name": "Ahmed Sayed",
+  "description": "Egyptian association football",
+  "place_of_birth_qid": "Q79",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 67.5,
+  "position_qids": [
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q725018",
+      "start": "2014-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q1346314",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q216459",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q286504",
+      "start": "2019-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q223566",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q223566",
+  "image_filename": "Zizo zsc.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Zizo_(footballer)",
+  "transfermarkt_id": "320722",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "place_of_birth": "Egypt",
+  "wikidata_current_club": "Al Ahly SC",
+  "wikidata_current_club_qid": "Q223566",
+  "photo": {
+    "filename": "Zizo zsc.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Zizo_zsc.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Zizo_zsc.jpg/960px-Zizo_zsc.jpg",
+    "width": 1323,
+    "height": 1820,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mokhtar_JR&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mokhtar JR (page does not exist)\">Mokhtar JR</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/zizo.jpg"
+  },
+  "team_slug": "egypt",
+  "team_country": "Egypt"
+}

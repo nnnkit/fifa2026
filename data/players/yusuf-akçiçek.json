@@ -1,0 +1,78 @@
+{
+  "slug": "yusuf-akçiçek",
+  "display_name": "Yusuf Akçiçek",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2006-01-25",
+  "age": 20,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Al-Hilal",
+  "wikipedia_title": "Yusuf Akçiçek",
+  "date_of_birth": "2006-01-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Hilal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q123182228",
+  "qid": "Q123182228",
+  "name": "Yusuf Akçiçek",
+  "description": "Turkish association football player (born 2006)",
+  "place_of_birth_qid": "Q752528",
+  "citizenship_qids": [
+    "Q43"
+  ],
+  "height_cm": 193.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q6601875",
+      "start": "2023-07-00",
+      "end": "2025-08-31"
+    },
+    {
+      "team_qid": "Q3590479",
+      "start": "2023-01-00",
+      "end": "2023-03-00"
+    },
+    {
+      "team_qid": "Q23925713",
+      "start": "2023-09-00",
+      "end": "2024-06-00"
+    },
+    {
+      "team_qid": "Q7855167",
+      "start": "2024-09-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q483856",
+      "start": "2025-03-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q73965",
+      "start": "2025-09-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q73965",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yusuf_Ak%C3%A7i%C3%A7ek",
+  "transfermarkt_id": "1100642",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Turkey"
+  ],
+  "place_of_birth": "Bakırköy",
+  "wikidata_current_club": "Al Hilal SFC",
+  "wikidata_current_club_qid": "Q73965",
+  "team_slug": "turkey",
+  "team_country": "Turkey",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

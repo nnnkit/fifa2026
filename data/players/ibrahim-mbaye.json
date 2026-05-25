@@ -1,0 +1,64 @@
+{
+  "slug": "ibrahim-mbaye",
+  "display_name": "Ibrahim Mbaye",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2008-01-24",
+  "age": 18,
+  "caps": 10,
+  "goals": 3,
+  "club_from_squad_table": "Paris Saint-Germain",
+  "wikipedia_title": "Ibrahim Mbaye",
+  "date_of_birth": "2008-01-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Paris Saint-Germain",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q129088593",
+  "qid": "Q129088593",
+  "name": "Ibrahim Mbaye",
+  "description": "Senegalese-French association football player (born 2008)",
+  "place_of_birth_qid": "Q363266",
+  "citizenship_qids": [
+    "Q142",
+    "Q1041"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q483020",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q483020",
+  "image_filename": "PSG attacking vs Atletico Madrid Club World Cup (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ibrahim_Mbaye",
+  "transfermarkt_id": "1185888",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "France",
+    "Senegal"
+  ],
+  "place_of_birth": "Trappes",
+  "wikidata_current_club": "Paris Saint-Germain FC",
+  "wikidata_current_club_qid": "Q483020",
+  "photo": {
+    "filename": "PSG attacking vs Atletico Madrid Club World Cup (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/PSG_attacking_vs_Atletico_Madrid_Club_World_Cup_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/PSG_attacking_vs_Atletico_Madrid_Club_World_Cup_%28cropped%29.jpg",
+    "width": 300,
+    "height": 384,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Paul_Vaurie\" title=\"User:Paul Vaurie\">Paul Vaurie</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ibrahim-mbaye.jpg"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

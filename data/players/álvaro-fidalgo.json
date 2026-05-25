@@ -1,0 +1,93 @@
+{
+  "slug": "álvaro-fidalgo",
+  "display_name": "Álvaro Fidalgo",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-04-09",
+  "age": 29,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Real Betis",
+  "wikipedia_title": "Álvaro Fidalgo",
+  "wikidata_qid": "Q98092491",
+  "qid": "Q98092491",
+  "name": "Álvaro Fidalgo",
+  "description": "Mexican association football player (born 1997)",
+  "date_of_birth": "1997-04-09",
+  "place_of_birth_qid": "Q744130",
+  "citizenship_qids": [
+    "Q29",
+    "Q96"
+  ],
+  "height_cm": 174.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q12217",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q2511257",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q743557",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q459090",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q8723",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q3873503",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q2310295",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q12217",
+  "image_filename": "Alvaro Fidalgo.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Fidalgo",
+  "transfermarkt_id": "261503",
+  "current_club": "Real Betis",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Spain",
+    "Mexico"
+  ],
+  "place_of_birth": "Siero",
+  "wikidata_current_club": "Real Madrid Castilla",
+  "wikidata_current_club_qid": "Q12217",
+  "photo": {
+    "filename": "Alvaro Fidalgo.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Alvaro_Fidalgo.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Alvaro_Fidalgo.png",
+    "width": 868,
+    "height": 1024,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCWV3obpZVGgJ3j9FVhEjF2Q\">Real Madrid C.F</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/álvaro-fidalgo.png"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

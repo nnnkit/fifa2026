@@ -1,0 +1,54 @@
+{
+  "slug": "ross-stewart",
+  "display_name": "Ross Stewart",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1996-07-11",
+  "age": 29,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Southampton",
+  "wikipedia_title": "Ross Stewart (footballer, born 1996)",
+  "date_of_birth": "1996-07-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Southampton",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q47126518",
+  "qid": "Q47126518",
+  "name": "Ross Stewart",
+  "description": "Scottish association football player",
+  "place_of_birth_qid": "Q1774629",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 188.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q319136",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q319136",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ross_Stewart_(footballer,_born_1996)",
+  "transfermarkt_id": "447995",
+  "wikidata_date_of_birth": "1996-09-01",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Irvine",
+  "wikidata_current_club": "St. Mirren F.C.",
+  "wikidata_current_club_qid": "Q319136",
+  "team_slug": "scotland",
+  "team_country": "Scotland",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

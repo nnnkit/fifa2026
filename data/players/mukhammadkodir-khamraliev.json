@@ -1,0 +1,82 @@
+{
+  "slug": "mukhammadkodir-khamraliev",
+  "display_name": "Mukhammadkodir Khamraliev",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-07-06",
+  "age": 24,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Pakhtakor",
+  "wikipedia_title": "Mukhammadkodir Khamraliev",
+  "date_of_birth": "2001-07-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Pakhtakor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q124129502",
+  "qid": "Q124129502",
+  "name": "Mukhammadkodir Khamraliev",
+  "description": "Uzbekistani footballer",
+  "place_of_birth_qid": "Q486329",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q770541",
+      "start": null,
+      "end": "2023-02-00"
+    },
+    {
+      "team_qid": "Q111244851",
+      "start": "2022-03-00",
+      "end": "2022-11-00"
+    },
+    {
+      "team_qid": "Q732106",
+      "start": "2023-02-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3247955",
+      "start": "2021-10-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q487321",
+      "start": "2023-12-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q732106",
+  "image_filename": "Muhammadqodir Hamroliyev.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mukhammadkodir_Khamraliev",
+  "transfermarkt_id": "883732",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Fergana",
+  "wikidata_current_club": "Pakhtakor Tashkent FK",
+  "wikidata_current_club_qid": "Q732106",
+  "photo": {
+    "filename": "Muhammadqodir Hamroliyev.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Muhammadqodir_Hamroliyev.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Muhammadqodir_Hamroliyev.jpg",
+    "width": 697,
+    "height": 936,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "\u0425\u0430\u0441\u0430\u043d \u041f\u0438\u0440\u043c\u0443\u0445\u0430\u043c\u0435\u0434\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mukhammadkodir-khamraliev.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

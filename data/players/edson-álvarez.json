@@ -1,0 +1,84 @@
+{
+  "slug": "edson-álvarez",
+  "display_name": "Edson Álvarez",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-10-24",
+  "age": 28,
+  "caps": 96,
+  "goals": 7,
+  "club_from_squad_table": "Fenerbahçe",
+  "wikipedia_title": "Edson Álvarez",
+  "wikidata_qid": "Q27859514",
+  "qid": "Q27859514",
+  "name": "Edson Álvarez",
+  "description": "Mexican association football player",
+  "date_of_birth": "1997-10-24",
+  "place_of_birth_qid": "Q845307",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q18691898",
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q459090",
+      "start": "2016-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q164089",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q81888",
+      "start": "2019-07-19",
+      "end": "2023-08-10"
+    },
+    {
+      "team_qid": "Q18747",
+      "start": "2023-08-10",
+      "end": null
+    },
+    {
+      "team_qid": "Q6601875",
+      "start": "2025-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q6601875",
+  "image_filename": "Edson Álvarez.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Edson_%C3%81lvarez",
+  "transfermarkt_id": "401356",
+  "fifa_player_id": "400634",
+  "current_club": "Fenerbahçe",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defensive midfielder",
+    "centre-back"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Tlalnepantla de Baz Municipality",
+  "wikidata_current_club": "Fenerbahçe Istanbul",
+  "wikidata_current_club_qid": "Q6601875",
+  "photo": {
+    "filename": "Edson Álvarez.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Edson_%C3%81lvarez.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Edson_%C3%81lvarez.png",
+    "width": 609,
+    "height": 761,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/edson-álvarez.png"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

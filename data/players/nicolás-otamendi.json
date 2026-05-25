@@ -1,0 +1,96 @@
+{
+  "slug": "nicolás-otamendi",
+  "display_name": "Nicolás Otamendi",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1988-02-12",
+  "age": 38,
+  "caps": 130,
+  "goals": 8,
+  "club_from_squad_table": "Benfica",
+  "wikipedia_title": "Nicolás Otamendi",
+  "wikidata_qid": "Q182063",
+  "qid": "Q182063",
+  "name": "Nicolás Otamendi",
+  "description": "Argentine association football player",
+  "date_of_birth": "1988-02-12",
+  "place_of_birth_qid": "Q1486",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 81.0,
+  "position_qids": [
+    "Q268258",
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q50602",
+      "start": "2015-01-01",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q215163",
+      "start": "2007-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q128446",
+      "start": "2010-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q10333",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q270995",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2009-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q131499",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q131499",
+  "image_filename": "Argentina team in St. Petersburg (cropped) Otamendi.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Otamendi",
+  "transfermarkt_id": "54781",
+  "fifa_player_id": "310116",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Benfica",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "centre-back",
+    "full-back"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Buenos Aires",
+  "wikidata_current_club": "S.L. Benfica",
+  "wikidata_current_club_qid": "Q131499",
+  "photo": {
+    "filename": "Argentina team in St. Petersburg (cropped) Otamendi.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Argentina_team_in_St._Petersburg_%28cropped%29_Otamendi.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Argentina_team_in_St._Petersburg_%28cropped%29_Otamendi.jpg",
+    "width": 237,
+    "height": 346,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Кирилл Венедиктов",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nicolás-otamendi.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

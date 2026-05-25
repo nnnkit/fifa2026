@@ -1,0 +1,78 @@
+{
+  "slug": "joshua-brenet",
+  "display_name": "Joshua Brenet",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1994-03-20",
+  "age": 32,
+  "caps": 17,
+  "goals": 1,
+  "club_from_squad_table": "Kayserispor",
+  "wikipedia_title": "Joshua Brenet",
+  "date_of_birth": "1994-03-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Kayserispor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q2342765",
+  "qid": "Q2342765",
+  "name": "Joshua Brenet",
+  "description": "Curaçaoan footballer",
+  "place_of_birth_qid": "Q9796",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 181.0,
+  "weight_kg": 74.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q11938",
+      "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q13534332",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q514714",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": "2013-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q13534332",
+  "image_filename": "PSV Eindhoven, Teamcamp Bad Erlach, July 2014 (076).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joshua_Brenet",
+  "transfermarkt_id": "207006",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Kerkrade",
+  "wikidata_current_club": "Jong PSV",
+  "wikidata_current_club_qid": "Q13534332",
+  "photo": {
+    "filename": "PSV Eindhoven, Teamcamp Bad Erlach, July 2014 (076).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/PSV_Eindhoven%2C_Teamcamp_Bad_Erlach%2C_July_2014_%28076%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/PSV_Eindhoven%2C_Teamcamp_Bad_Erlach%2C_July_2014_%28076%29.jpg/960px-PSV_Eindhoven%2C_Teamcamp_Bad_Erlach%2C_July_2014_%28076%29.jpg",
+    "width": 2000,
+    "height": 3000,
+    "license": "GFDL 1.2",
+    "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 10:23, 25 July 2014 (UTC)",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/joshua-brenet.jpg"
+  },
+  "team_slug": "curaçao",
+  "team_country": "Curaçao"
+}

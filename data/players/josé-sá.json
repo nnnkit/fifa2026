@@ -1,0 +1,94 @@
+{
+  "slug": "jos\u00e9-s\u00e1",
+  "display_name": "Jos\u00e9 S\u00e1",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1993-01-17",
+  "age": 33,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Wolverhampton Wanderers",
+  "wikipedia_title": "Jos\u00e9 S\u00e1",
+  "date_of_birth": "1993-01-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Wolverhampton Wanderers",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q6294052",
+  "qid": "Q6294052",
+  "name": "Jos\u00e9 S\u00e1",
+  "description": "Portuguese association footballer",
+  "place_of_birth_qid": "Q83247",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 192.0,
+  "weight_kg": 86.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q216503",
+      "start": "2013-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q5006215",
+      "start": "2012-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q5423714",
+      "start": "2016-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q128446",
+      "start": "2016-01-01",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1772776",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1630430",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3590758",
+      "start": "2016-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q5423714",
+  "image_filename": "Mex-por-109 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_S%C3%A1",
+  "transfermarkt_id": "249994",
+  "fifa_player_id": "368689",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Braga",
+  "wikidata_current_club": "FC Porto B",
+  "wikidata_current_club_qid": "Q5423714",
+  "photo": {
+    "filename": "Mex-por-109 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mex-por-109_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mex-por-109_%28cropped%29.jpg",
+    "width": 278,
+    "height": 324,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0421\u0430\u0434\u043e\u0432\u043d\u0438\u043a\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jos\u00e9-s\u00e1.jpg"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

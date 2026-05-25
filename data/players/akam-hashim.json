@@ -1,0 +1,57 @@
+{
+  "slug": "akam-hashim",
+  "display_name": "Akam Hashim",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-08-16",
+  "age": 27,
+  "caps": 11,
+  "goals": 1,
+  "club_from_squad_table": "Al-Zawraa",
+  "wikipedia_title": "Akam Hashim",
+  "date_of_birth": "1998-08-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Zawraa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q124350127",
+  "qid": "Q124350127",
+  "name": "Akam Hashim Rahman",
+  "description": "Iraqi football player",
+  "place_of_birth_qid": "Q132754",
+  "citizenship_qids": [
+    "Q796"
+  ],
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1156579",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q186243",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1156579",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Akam_Hashim",
+  "transfermarkt_id": "933541",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Iraq"
+  ],
+  "place_of_birth": "Erbil",
+  "wikidata_current_club": "Erbil SC",
+  "wikidata_current_club_qid": "Q1156579",
+  "team_slug": "iraq",
+  "team_country": "Iraq",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

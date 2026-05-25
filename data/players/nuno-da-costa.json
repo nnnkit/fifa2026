@@ -1,0 +1,63 @@
+{
+  "slug": "nuno-da-costa",
+  "display_name": "Nuno da Costa",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1991-02-10",
+  "age": 35,
+  "caps": 7,
+  "goals": 1,
+  "club_from_squad_table": "\u0130stanbul Ba\u015fak\u015fehir",
+  "wikipedia_title": "Nuno da Costa",
+  "date_of_birth": "1991-02-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "\u0130stanbul Ba\u015fak\u015fehir",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q23007684",
+  "qid": "Q23007684",
+  "name": "Nuno da Costa",
+  "description": "Cape Verdean association football player",
+  "place_of_birth_qid": "Q3751",
+  "citizenship_qids": [
+    "Q1011"
+  ],
+  "height_cm": 1.82,
+  "weight_kg": 85.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q212269",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q212269",
+  "image_filename": "Valenciennes - UNFP FC (02-07-2016) 40 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nuno_da_Costa",
+  "transfermarkt_id": "306166",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Cape Verde"
+  ],
+  "place_of_birth": "Praia",
+  "wikidata_current_club": "Valenciennes F.C.",
+  "wikidata_current_club_qid": "Q212269",
+  "photo": {
+    "filename": "Valenciennes - UNFP FC (02-07-2016) 40 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Valenciennes_-_UNFP_FC_%2802-07-2016%29_40_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Valenciennes_-_UNFP_FC_%2802-07-2016%29_40_%28cropped%29.jpg/960px-Valenciennes_-_UNFP_FC_%2802-07-2016%29_40_%28cropped%29.jpg",
+    "width": 1206,
+    "height": 1864,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterh\u00e9ninois (page does not exist)\">Supporterh\u00e9ninois</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nuno-da-costa.jpg"
+  },
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde"
+}

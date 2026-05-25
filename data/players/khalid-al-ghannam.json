@@ -1,0 +1,84 @@
+{
+  "slug": "khalid-al-ghannam",
+  "display_name": "Khalid Al-Ghannam",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-11-07",
+  "age": 25,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Al-Ettifaq",
+  "wikipedia_title": "Khalid Al-Ghannam",
+  "date_of_birth": "2000-11-07",
+  "date_of_birth_source": "saudi-pro-league-official-verified",
+  "current_club": "Al-Ettifaq",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64147458",
+  "qid": "Q64147458",
+  "name": "Khalid Al-Ghannam",
+  "description": "Saudi Arabian association football player",
+  "place_of_birth_qid": "Q311266",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 171.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q286191",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q482764",
+      "start": "2020-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q2756148",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873541",
+      "start": "2020-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q23848735",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q2701659",
+      "start": "2023-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q72844",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q72844",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Khalid_Al-Ghannam",
+  "transfermarkt_id": "631923",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Khobar",
+  "wikidata_current_club": "Al-Ettifaq FC",
+  "wikidata_current_club_qid": "Q72844",
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "squad_table_date_of_birth": "2000-11-08"
+}

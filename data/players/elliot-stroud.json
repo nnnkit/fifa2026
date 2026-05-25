@@ -1,0 +1,50 @@
+{
+  "slug": "elliot-stroud",
+  "display_name": "Elliot Stroud",
+  "shirt_no": 24,
+  "position_code": "DF",
+  "dob": "2002-06-22",
+  "age": 23,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Mjällby AIF",
+  "wikipedia_title": "Elliot Stroud",
+  "date_of_birth": "2002-06-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Mjällby AIF",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q117789805",
+  "qid": "Q117789805",
+  "name": "Elliot Stroud",
+  "description": "Swedish association football player",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 180.0,
+  "teams": [
+    {
+      "team_qid": "Q1483030",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q749138",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1483030",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Elliot_Stroud",
+  "transfermarkt_id": "687622",
+  "citizenship": [
+    "Sweden"
+  ],
+  "wikidata_current_club": "IK Oddevold",
+  "wikidata_current_club_qid": "Q1483030",
+  "team_slug": "sweden",
+  "team_country": "Sweden",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

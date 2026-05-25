@@ -1,0 +1,2115 @@
+{
+  "slug": "morocco",
+  "country": "Morocco",
+  "wikidata_qid": "Q207337",
+  "fetched_at": "2026-05-24T14:52:44+00:00",
+  "source": {
+    "kind": "national-team",
+    "title": "Morocco national football team",
+    "url": "https://en.wikipedia.org/wiki/Morocco_national_football_team"
+  },
+  "squad_size": 29,
+  "players": [
+    {
+      "slug": "yassine-bounou",
+      "display_name": "Yassine Bounou",
+      "shirt_no": 1,
+      "position_code": "GK",
+      "dob": "1991-04-05",
+      "age": 35,
+      "caps": 89,
+      "goals": 0,
+      "club_from_squad_table": "Al-Hilal",
+      "wikipedia_title": "Yassine Bounou",
+      "date_of_birth": "1991-04-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Hilal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q3571952",
+      "qid": "Q3571952",
+      "name": "Yassine Bounou",
+      "description": "Moroccan football player",
+      "place_of_birth_qid": "Q340",
+      "citizenship_qids": [
+        "Q1028"
+      ],
+      "height_cm": 195.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q10308",
+          "start": "2014-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q1139095",
+          "start": "2010-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q780539",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2012-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q3590714",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q2686567",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q207337",
+          "start": "2013-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q11945",
+          "start": "2016-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q10329",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q10329",
+          "start": "2020-00-00",
+          "end": "2023-08-17"
+        },
+        {
+          "team_qid": "Q73965",
+          "start": "2023-08-17",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q73965",
+      "image_filename": "Yassine bounou Interview 2023.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yassine_Bounou",
+      "transfermarkt_id": "207834",
+      "fifa_player_id": "356956",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Morocco"
+      ],
+      "place_of_birth": "Montreal",
+      "wikidata_current_club": "Al Hilal SFC",
+      "wikidata_current_club_qid": "Q73965",
+      "photo": {
+        "filename": "Yassine bounou Interview 2023.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Yassine_bounou_Interview_2023.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Yassine_bounou_Interview_2023.jpg",
+        "width": 380,
+        "height": 570,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "101TV Sevilla",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/yassine-bounou.jpg"
+      }
+    },
+    {
+      "slug": "el-mehdi-al-harrar",
+      "display_name": "El Mehdi Al Harrar",
+      "shirt_no": 12,
+      "position_code": "GK",
+      "dob": "2000-11-30",
+      "age": 25,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Raja Casablanca",
+      "wikipedia_title": "El Mehdi Al Harrar",
+      "date_of_birth": "2000-11-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Raja Casablanca",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q130508822",
+      "qid": "Q130508822",
+      "name": "El Mehdi Al Harrar",
+      "description": "Moroccan professional footballer",
+      "place_of_birth_qid": "Q7903",
+      "citizenship_qids": [
+        "Q1028"
+      ],
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1058221",
+          "start": "2019-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q1051514",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19060379",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q207337",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1051514",
+      "image_filename": "Al Mehdi Al Harrar (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/El_Mehdi_Al_Harrar",
+      "transfermarkt_id": "822538",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Morocco"
+      ],
+      "place_of_birth": "Casablanca",
+      "wikidata_current_club": "Raja Club Athletic",
+      "wikidata_current_club_qid": "Q1051514",
+      "photo": {
+        "filename": "Al Mehdi Al Harrar (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Al_Mehdi_Al_Harrar_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Al_Mehdi_Al_Harrar_%28cropped%29.jpg",
+        "width": 826,
+        "height": 943,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Reda_benkhadra\" title=\"User:Reda benkhadra\">Reda benkhadra</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/el-mehdi-al-harrar.jpg"
+      }
+    },
+    {
+      "slug": "mehdi-benabid",
+      "display_name": "Mehdi Benabid",
+      "shirt_no": 22,
+      "position_code": "GK",
+      "dob": "1998-01-24",
+      "age": 28,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Wydad Casablanca",
+      "wikipedia_title": "Mehdi Benabid",
+      "date_of_birth": "1998-01-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Wydad Casablanca",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q101113732",
+      "qid": "Q101113732",
+      "name": "Mehdi Benabid",
+      "description": "Moroccan association footballer",
+      "place_of_birth_qid": "Q3551",
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "image_filename": "Benabid.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mehdi_Benabid",
+      "transfermarkt_id": "544414",
+      "positions": [
+        "goalkeeper"
+      ],
+      "place_of_birth": "Rabat",
+      "photo": {
+        "filename": "Benabid.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Benabid.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Benabid.jpg/960px-Benabid.jpg",
+        "width": 1003,
+        "height": 1939,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Nawfel Ajari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mehdi-benabid.jpg"
+      }
+    },
+    {
+      "slug": "achraf-hakimi",
+      "display_name": "Achraf Hakimi",
+      "shirt_no": 2,
+      "position_code": "DF",
+      "dob": "1998-11-04",
+      "age": 27,
+      "caps": 95,
+      "goals": 11,
+      "club_from_squad_table": "Paris Saint-Germain",
+      "wikipedia_title": "Achraf Hakimi",
+      "date_of_birth": "1998-11-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris Saint-Germain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26932598",
+      "qid": "Q26932598",
+      "name": "Achraf Hakimi",
+      "description": "Moroccan association football player",
+      "place_of_birth_qid": "Q2807",
+      "citizenship_qids": [
+        "Q29",
+        "Q1028"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 69.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q12217",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q207337",
+          "start": "2016-10-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2686567",
+          "start": "2016-06-00",
+          "end": "2024-00-00"
+        }
+      ],
+      "current_club_qid": "Q483020",
+      "image_filename": "Achraf Hakimi vs Niger, 5 Sept 2025.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Achraf_Hakimi",
+      "transfermarkt_id": "398073",
+      "fifa_player_id": "400721",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Spain",
+        "Morocco"
+      ],
+      "place_of_birth": "Madrid",
+      "wikidata_current_club": "Paris Saint-Germain FC",
+      "wikidata_current_club_qid": "Q483020",
+      "photo": {
+        "filename": "Achraf Hakimi vs Niger, 5 Sept 2025.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Achraf_Hakimi_vs_Niger%2C_5_Sept_2025.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Achraf_Hakimi_vs_Niger%2C_5_Sept_2025.jpg/960px-Achraf_Hakimi_vs_Niger%2C_5_Sept_2025.jpg",
+        "width": 1261,
+        "height": 1635,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Laloumance",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/achraf-hakimi.jpg"
+      }
+    },
+    {
+      "slug": "noussair-mazraoui",
+      "display_name": "Noussair Mazraoui",
+      "shirt_no": 3,
+      "position_code": "DF",
+      "dob": "1997-11-14",
+      "age": 28,
+      "caps": 43,
+      "goals": 2,
+      "club_from_squad_table": "Manchester United",
+      "wikipedia_title": "Noussair Mazraoui",
+      "date_of_birth": "1997-11-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26266244",
+      "qid": "Q26266244",
+      "name": "Noussair Mazraoui",
+      "description": "Dutch-Moroccan associatiion footballer",
+      "place_of_birth_qid": "Q1000817",
+      "citizenship_qids": [
+        "Q29999",
+        "Q1028"
+      ],
+      "height_cm": 1.83,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q81888",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q207337",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q81888",
+      "image_filename": "Noussair Mazraoui.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Noussair_Mazraoui",
+      "transfermarkt_id": "340456",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands",
+        "Morocco"
+      ],
+      "place_of_birth": "Leiderdorp",
+      "wikidata_current_club": "AFC Ajax",
+      "wikidata_current_club_qid": "Q81888",
+      "photo": {
+        "filename": "Noussair Mazraoui.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Noussair_Mazraoui.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Noussair_Mazraoui.jpg",
+        "width": 340,
+        "height": 527,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u041e\u041b\u0415\u0413 \u0411\u0410\u0422\u0420\u0410\u041a",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/noussair-mazraoui.jpg"
+      }
+    },
+    {
+      "slug": "isma\u00ebl-baouf",
+      "display_name": "Isma\u00ebl Baouf",
+      "shirt_no": 4,
+      "position_code": "DF",
+      "dob": "2006-09-17",
+      "age": 19,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Cambuur",
+      "wikipedia_title": "Isma\u00ebl Baouf",
+      "date_of_birth": "2006-09-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cambuur",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117838864",
+      "qid": "Q117838864",
+      "name": "Isma\u00ebl Baouf",
+      "description": "Moroccan association football player",
+      "place_of_birth_qid": "Q497549",
+      "citizenship_qids": [
+        "Q1028",
+        "Q31"
+      ],
+      "height_cm": 183.0,
+      "teams": [
+        {
+          "team_qid": "Q875120",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q875120",
+      "image_filename": "Ismael Baouf (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Isma%C3%ABl_Baouf",
+      "transfermarkt_id": "961050",
+      "citizenship": [
+        "Morocco",
+        "Belgium"
+      ],
+      "place_of_birth": "Tubize",
+      "wikidata_current_club": "SC Cambuur",
+      "wikidata_current_club_qid": "Q875120",
+      "photo": {
+        "filename": "Ismael Baouf (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Ismael_Baouf_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ismael_Baouf_%28cropped%29.jpg/960px-Ismael_Baouf_%28cropped%29.jpg",
+        "width": 1204,
+        "height": 1913,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Abdelali Bentarki",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/isma\u00ebl-baouf.jpg"
+      }
+    },
+    {
+      "slug": "issa-diop",
+      "display_name": "Issa Diop",
+      "shirt_no": 5,
+      "position_code": "DF",
+      "dob": "1997-01-09",
+      "age": 29,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Fulham",
+      "wikipedia_title": "Issa Diop (footballer)",
+      "date_of_birth": "1997-01-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fulham",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21621180",
+      "qid": "Q21621180",
+      "name": "Issa Diop",
+      "description": "Moroccan association football player (born 1997)",
+      "place_of_birth_qid": "Q7903",
+      "citizenship_qids": [
+        "Q142",
+        "Q1028"
+      ],
+      "height_cm": 194.0,
+      "weight_kg": 90.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q56150474",
+          "start": "2014-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q18747",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q18708",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19518",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1344163",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        }
+      ],
+      "current_club_qid": "Q18708",
+      "image_filename": "Hertha BSC vs. West Ham United 20190731 (179).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Issa_Diop_(footballer)",
+      "transfermarkt_id": "272622",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "France",
+        "Morocco"
+      ],
+      "place_of_birth": "Casablanca",
+      "wikidata_current_club": "Fulham F.C.",
+      "wikidata_current_club_qid": "Q18708",
+      "photo": {
+        "filename": "Hertha BSC vs. West Ham United 20190731 (179).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hertha_BSC_vs._West_Ham_United_20190731_%28179%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hertha_BSC_vs._West_Ham_United_20190731_%28179%29.jpg/960px-Hertha_BSC_vs._West_Ham_United_20190731_%28179%29.jpg",
+        "width": 2000,
+        "height": 3000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "--<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 16:15, 29 August 2019 (UTC)",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/issa-diop.jpg"
+      }
+    },
+    {
+      "slug": "zakaria-el-ouahdi",
+      "display_name": "Zakaria El Ouahdi",
+      "shirt_no": 13,
+      "position_code": "DF",
+      "dob": "2001-12-31",
+      "age": 24,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Genk",
+      "wikipedia_title": "Zakaria El Ouahdi",
+      "date_of_birth": "2001-12-31",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Genk",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q108156269",
+      "qid": "Q108156269",
+      "name": "Zakaria El Ouahdi",
+      "description": "Moroccan soccer player",
+      "place_of_birth_qid": "Q267663",
+      "citizenship_qids": [
+        "Q31",
+        "Q1028"
+      ],
+      "height_cm": 175.0,
+      "teams": [
+        {
+          "team_qid": "Q20979061",
+          "start": "2021-07-01",
+          "end": "2023-09-04"
+        },
+        {
+          "team_qid": "Q216032",
+          "start": "2023-09-05",
+          "end": null
+        },
+        {
+          "team_qid": "Q2686567",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q216032",
+      "image_filename": "Zakaria el ouahdi-1629238150.jpeg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zakaria_El_Ouahdi",
+      "transfermarkt_id": "820474",
+      "citizenship": [
+        "Belgium",
+        "Morocco"
+      ],
+      "place_of_birth": "Hoboken",
+      "wikidata_current_club": "K.R.C. Genk",
+      "wikidata_current_club_qid": "Q216032",
+      "photo": {
+        "filename": "Zakaria el ouahdi-1629238150.jpeg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Zakaria_el_ouahdi-1629238150.jpeg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Zakaria_el_ouahdi-1629238150.jpeg/960px-Zakaria_el_ouahdi-1629238150.jpeg",
+        "width": 3024,
+        "height": 4032,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Mohamed Achahbar",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/zakaria-el-ouahdi.jpeg"
+      }
+    },
+    {
+      "slug": "souffian-el-karouani",
+      "display_name": "Souffian El Karouani",
+      "shirt_no": 15,
+      "position_code": "DF",
+      "dob": "2000-10-19",
+      "age": 25,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Utrecht",
+      "wikipedia_title": "Souffian El Karouani",
+      "date_of_birth": "2000-10-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Utrecht",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q66360728",
+      "qid": "Q66360728",
+      "name": "Souffian El Karouani",
+      "description": "Dutch association football player",
+      "place_of_birth_qid": "Q2766547",
+      "citizenship_qids": [
+        "Q29999"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q318348",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q207337",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q24680",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q24680",
+      "image_filename": "GAE - FC Utrecht - Souffian El Karouani).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Souffian_El_Karouani",
+      "transfermarkt_id": "541134",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands"
+      ],
+      "place_of_birth": null,
+      "wikidata_current_club": "FC Utrecht",
+      "wikidata_current_club_qid": "Q24680",
+      "photo": {
+        "filename": "GAE - FC Utrecht - Souffian El Karouani).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/GAE_-_FC_Utrecht_-_Souffian_El_Karouani%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/GAE_-_FC_Utrecht_-_Souffian_El_Karouani%29.jpg/960px-GAE_-_FC_Utrecht_-_Souffian_El_Karouani%29.jpg",
+        "width": 1422,
+        "height": 2661,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Carlo Bruil Fotografie",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/souffian-el-karouani.jpg"
+      }
+    },
+    {
+      "slug": "chadi-riad",
+      "display_name": "Chadi Riad",
+      "shirt_no": 18,
+      "position_code": "DF",
+      "dob": "2003-06-17",
+      "age": 22,
+      "caps": 4,
+      "goals": 1,
+      "club_from_squad_table": "Crystal Palace",
+      "wikipedia_title": "Chadi Riad",
+      "date_of_birth": "2003-06-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Crystal Palace",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q104784108",
+      "qid": "Q104784108",
+      "name": "Chadi Riad",
+      "description": "Moroccan association football player",
+      "place_of_birth_qid": "Q8826",
+      "citizenship_qids": [
+        "Q1028"
+      ],
+      "height_cm": 1.86,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q10467",
+          "start": "2022-07-01",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q12260",
+          "start": "2020-07-02",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q13562063",
+          "start": "2020-07-01",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q3590714",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2022-11-08",
+          "end": null
+        },
+        {
+          "team_qid": "Q207337",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q8723",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2686567",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8723",
+      "image_filename": "Chadi Riad against Paraguay (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chadi_Riad",
+      "transfermarkt_id": "689637",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Morocco"
+      ],
+      "place_of_birth": "Palma",
+      "wikidata_current_club": "Real Betis Balompi\u00e9",
+      "wikidata_current_club_qid": "Q8723",
+      "photo": {
+        "filename": "Chadi Riad against Paraguay (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Chadi_Riad_against_Paraguay_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chadi_Riad_against_Paraguay_%28cropped%29.jpg/960px-Chadi_Riad_against_Paraguay_%28cropped%29.jpg",
+        "width": 2455,
+        "height": 3851,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Abdelali Bentarki",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/chadi-riad.jpg"
+      }
+    },
+    {
+      "slug": "redouane-halhal",
+      "display_name": "Redouane Halhal",
+      "shirt_no": 25,
+      "position_code": "DF",
+      "dob": "2003-03-05",
+      "age": 23,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Mechelen",
+      "wikipedia_title": "Redouane Halhal",
+      "date_of_birth": "2003-03-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mechelen",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q120389429",
+      "qid": "Q120389429",
+      "name": "Redouane Halhal",
+      "description": "Moroccan and French footballer",
+      "place_of_birth_qid": "Q6441",
+      "citizenship_qids": [
+        "Q1028",
+        "Q142"
+      ],
+      "height_cm": 1.87,
+      "position_qids": [
+        "Q336286"
+      ],
+      "image_filename": "Redouane Halhal vs Paraguay (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Redouane_Halhal",
+      "transfermarkt_id": "913660",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Morocco",
+        "France"
+      ],
+      "place_of_birth": "Montpellier",
+      "photo": {
+        "filename": "Redouane Halhal vs Paraguay (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Redouane_Halhal_vs_Paraguay_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Redouane_Halhal_vs_Paraguay_%28cropped%29.jpg/960px-Redouane_Halhal_vs_Paraguay_%28cropped%29.jpg",
+        "width": 2230,
+        "height": 2620,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Abdelali Bentarki",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/redouane-halhal.jpg"
+      }
+    },
+    {
+      "slug": "anass-salah-eddine",
+      "display_name": "Anass Salah-Eddine",
+      "shirt_no": 26,
+      "position_code": "DF",
+      "dob": "2002-01-18",
+      "age": 24,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "PSV",
+      "wikipedia_title": "Anass Salah-Eddine",
+      "date_of_birth": "2002-01-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "PSV",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q65131685",
+      "qid": "Q65131685",
+      "name": "Anass Salah-Eddine",
+      "description": "Dutch association football player (born 2002)",
+      "place_of_birth_qid": "Q727",
+      "citizenship_qids": [
+        "Q29999",
+        "Q1028"
+      ],
+      "height_cm": 1.81,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q81888",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q81888",
+      "image_filename": "Anass salaheddine-1695383603.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anass_Salah-Eddine",
+      "transfermarkt_id": "485584",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands",
+        "Morocco"
+      ],
+      "place_of_birth": "Amsterdam",
+      "wikidata_current_club": "AFC Ajax",
+      "wikidata_current_club_qid": "Q81888",
+      "photo": {
+        "filename": "Anass salaheddine-1695383603.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Anass_salaheddine-1695383603.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Anass_salaheddine-1695383603.jpg/960px-Anass_salaheddine-1695383603.jpg",
+        "width": 1875,
+        "height": 3036,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Hans Reefman",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/anass-salah-eddine.jpg"
+      }
+    },
+    {
+      "slug": "abdelhamid-a\u00eft-boudlal",
+      "display_name": "Abdelhamid A\u00eft Boudlal",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2006-04-16",
+      "age": 20,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Rennes",
+      "wikipedia_title": "Abdelhamid A\u00eft Boudlal",
+      "date_of_birth": "2006-04-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rennes",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q118582849",
+      "qid": "Q118582849",
+      "name": "Abdelhamid Ait Boudlal",
+      "description": "Moroccan footballer (born 2006)",
+      "place_of_birth_qid": "Q101625",
+      "citizenship_qids": [
+        "Q1028"
+      ],
+      "height_cm": 1.9,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2822258",
+          "start": "2015-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590713",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2822258",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abdelhamid_A%C3%AFt_Boudlal",
+      "transfermarkt_id": "1134251",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Morocco"
+      ],
+      "place_of_birth": "Marrakech",
+      "wikidata_current_club": "Mohammed VI Football Academy",
+      "wikidata_current_club_qid": "Q2822258",
+      "image_filename": "Abdelhamid_Ait_Boudlal_(cropped).jpg",
+      "photo": {
+        "filename": "Abdelhamid_Ait_Boudlal_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Abdelhamid_Ait_Boudlal_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Abdelhamid_Ait_Boudlal_%28cropped%29.jpg",
+        "width": 155,
+        "height": 289,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Abdelali Bentarki",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/abdelhamid-a\u00eft-boudlal.jpg"
+      }
+    },
+    {
+      "slug": "mohamed-rabie-hrimat",
+      "display_name": "Mohamed Rabie Hrimat",
+      "shirt_no": 6,
+      "position_code": "MF",
+      "dob": "1994-08-17",
+      "age": 31,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "AS FAR",
+      "wikipedia_title": "Mohamed Rabie Hrimat",
+      "date_of_birth": "1994-08-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "AS FAR",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q109567484",
+      "qid": "Q109567484",
+      "name": "Mohamed Hrimat",
+      "description": "footballeur marocain",
+      "place_of_birth_qid": "Q3551",
+      "citizenship_qids": [
+        "Q1028"
+      ],
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1389863",
+          "start": "2014-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q117187208",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q1503364",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1270141",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19060379",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1270141",
+      "image_filename": "Mohamed Hrimat warming up with Morocco (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Rabie_Hrimat",
+      "transfermarkt_id": "553100",
+      "wikidata_date_of_birth": "1994-08-07",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Morocco"
+      ],
+      "place_of_birth": "Rabat",
+      "wikidata_current_club": "FAR Rabat",
+      "wikidata_current_club_qid": "Q1270141",
+      "photo": {
+        "filename": "Mohamed Hrimat warming up with Morocco (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mohamed_Hrimat_warming_up_with_Morocco_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mohamed_Hrimat_warming_up_with_Morocco_%28cropped%29.jpg/960px-Mohamed_Hrimat_warming_up_with_Morocco_%28cropped%29.jpg",
+        "width": 1100,
+        "height": 1631,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Abdelali Bentarki",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mohamed-rabie-hrimat.jpg"
+      }
+    },
+    {
+      "slug": "azzedine-ounahi",
+      "display_name": "Azzedine Ounahi",
+      "shirt_no": 8,
+      "position_code": "MF",
+      "dob": "2000-04-19",
+      "age": 26,
+      "caps": 47,
+      "goals": 9,
+      "club_from_squad_table": "Girona",
+      "wikipedia_title": "Azzedine Ounahi",
+      "date_of_birth": "2000-04-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Girona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q108109586",
+      "qid": "Q108109586",
+      "name": "Azzedine Ounahi",
+      "description": "Moroccan association football player",
+      "place_of_birth_qid": "Q7903",
+      "citizenship_qids": [
+        "Q1028",
+        "Q142"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Ounahi.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Azzedine_Ounahi",
+      "transfermarkt_id": "593482",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Morocco",
+        "France"
+      ],
+      "place_of_birth": "Casablanca",
+      "photo": {
+        "filename": "Ounahi.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ounahi.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ounahi.jpg",
+        "width": 848,
+        "height": 1609,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Nawfel Ajari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/azzedine-ounahi.jpg"
+      }
+    },
+    {
+      "slug": "ismael-saibari",
+      "display_name": "Ismael Saibari",
+      "shirt_no": 11,
+      "position_code": "MF",
+      "dob": "2001-01-28",
+      "age": 25,
+      "caps": 27,
+      "goals": 7,
+      "club_from_squad_table": "PSV",
+      "wikipedia_title": "Ismael Saibari",
+      "date_of_birth": "2001-01-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "PSV",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q98784065",
+      "qid": "Q98784065",
+      "name": "Ismael Saibari",
+      "description": "Moroccan footballer (born 2001)",
+      "place_of_birth_qid": "Q13939",
+      "citizenship_qids": [
+        "Q1028",
+        "Q29"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q6008848"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q13534332",
+          "start": "2020-07-00",
+          "end": "2023-04-00"
+        },
+        {
+          "team_qid": "Q11938",
+          "start": "2020-11-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2686567",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q207337",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q11938",
+      "image_filename": "FC Salzburg (U19) gegen KRC Genk (U19) (UEFA Youth League 17. September 2019) 23.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ismael_Saibari",
+      "transfermarkt_id": "702869",
+      "positions": [
+        "central midfielder"
+      ],
+      "citizenship": [
+        "Morocco",
+        "Spain"
+      ],
+      "place_of_birth": "Terrassa",
+      "wikidata_current_club": "PSV Eindhoven",
+      "wikidata_current_club_qid": "Q11938",
+      "photo": {
+        "filename": "FC Salzburg (U19) gegen KRC Genk (U19) (UEFA Youth League 17. September 2019) 23.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/FC_Salzburg_%28U19%29_gegen_KRC_Genk_%28U19%29_%28UEFA_Youth_League_17._September_2019%29_23.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FC_Salzburg_%28U19%29_gegen_KRC_Genk_%28U19%29_%28UEFA_Youth_League_17._September_2019%29_23.jpg/960px-FC_Salzburg_%28U19%29_gegen_KRC_Genk_%28U19%29_%28UEFA_Youth_League_17._September_2019%29_23.jpg",
+        "width": 2373,
+        "height": 2568,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ismael-saibari.jpg"
+      }
+    },
+    {
+      "slug": "oussama-targhalline",
+      "display_name": "Oussama Targhalline",
+      "shirt_no": 14,
+      "position_code": "MF",
+      "dob": "2002-05-20",
+      "age": 24,
+      "caps": 11,
+      "goals": 0,
+      "club_from_squad_table": "Feyenoord",
+      "wikipedia_title": "Oussama Targhalline",
+      "date_of_birth": "2002-05-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Feyenoord",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110316852",
+      "qid": "Q110316852",
+      "name": "Oussama Targhalline",
+      "description": "Moroccan footballer",
+      "place_of_birth_qid": "Q377853",
+      "citizenship_qids": [
+        "Q1028"
+      ],
+      "height_cm": 186.0,
+      "image_filename": "Oussama Targhalline and Oussama El Azzouzi at the Olympic Games 2024 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oussama_Targhalline",
+      "transfermarkt_id": "667965",
+      "citizenship": [
+        "Morocco"
+      ],
+      "place_of_birth": "Sidi Belyout",
+      "photo": {
+        "filename": "Oussama Targhalline and Oussama El Azzouzi at the Olympic Games 2024 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Oussama_Targhalline_and_Oussama_El_Azzouzi_at_the_Olympic_Games_2024_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Oussama_Targhalline_and_Oussama_El_Azzouzi_at_the_Olympic_Games_2024_%28cropped%29.jpg/960px-Oussama_Targhalline_and_Oussama_El_Azzouzi_at_the_Olympic_Games_2024_%28cropped%29.jpg",
+        "width": 1045,
+        "height": 1568,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Photographe\u00a0: Abdelali Bentarki (<i>Ali Graphy Pic</i>)\u00a0; recadrage\u00a0: <a href=\"//commons.wikimedia.org/wiki/User:A.Nawfel\" title=\"User:A.Nawfel\">A.Nawfel</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/oussama-targhalline.jpg"
+      }
+    },
+    {
+      "slug": "bilal-el-khannouss",
+      "display_name": "Bilal El Khannouss",
+      "shirt_no": 23,
+      "position_code": "MF",
+      "dob": "2004-05-10",
+      "age": 22,
+      "caps": 35,
+      "goals": 3,
+      "club_from_squad_table": "VfB Stuttgart",
+      "wikipedia_title": "Bilal El Khannouss",
+      "date_of_birth": "2004-05-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "VfB Stuttgart",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q105955374",
+      "qid": "Q105955374",
+      "name": "Bilal El Khannouss",
+      "description": "association football player (born 2004)",
+      "place_of_birth_qid": "Q1818491",
+      "citizenship_qids": [
+        "Q31",
+        "Q1028"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q90326494"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q30743865",
+          "start": "2019-03-00",
+          "end": "2019-05-00"
+        },
+        {
+          "team_qid": "Q216032",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q23674710",
+          "start": "2019-09-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q3589895",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q15224541",
+          "start": "2021-10-00",
+          "end": "2021-10-00"
+        },
+        {
+          "team_qid": "Q3590714",
+          "start": "2021-06-00",
+          "end": "2022-03-00"
+        },
+        {
+          "team_qid": "Q2686567",
+          "start": "2022-09-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q207337",
+          "start": "2022-12-17",
+          "end": null
+        },
+        {
+          "team_qid": "Q19481",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q4512",
+          "start": "2025-09-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q23887374",
+          "start": "2024-07-24",
+          "end": "2024-08-08"
+        }
+      ],
+      "current_club_qid": "Q4512",
+      "image_filename": "ElKhannouss (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bilal_El_Khannouss",
+      "transfermarkt_id": "654982",
+      "positions": [
+        "attacking midfielder"
+      ],
+      "citizenship": [
+        "Belgium",
+        "Morocco"
+      ],
+      "place_of_birth": "Strombeek-Bever",
+      "photo": {
+        "filename": "ElKhannouss (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/ElKhannouss_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/ElKhannouss_%28cropped%29.jpg",
+        "width": 917,
+        "height": 1437,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Nawfel Ajari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/bilal-el-khannouss.jpg"
+      }
+    },
+    {
+      "slug": "neil-el-aynaoui",
+      "display_name": "Neil El Aynaoui",
+      "shirt_no": 24,
+      "position_code": "MF",
+      "dob": "2001-07-02",
+      "age": 24,
+      "caps": 15,
+      "goals": 2,
+      "club_from_squad_table": "Roma",
+      "wikipedia_title": "Neil El Aynaoui",
+      "date_of_birth": "2001-07-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Roma",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107745867",
+      "qid": "Q107745867",
+      "name": "Neil El Aynaoui",
+      "description": "Morroco international footballer (born 2001)",
+      "place_of_birth_qid": "Q40898",
+      "citizenship_qids": [
+        "Q142",
+        "Q1028"
+      ],
+      "height_cm": 1.85,
+      "image_filename": "Neil El Aynaoui vs Niger (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Neil_El_Aynaoui",
+      "transfermarkt_id": "901019",
+      "citizenship": [
+        "France",
+        "Morocco"
+      ],
+      "place_of_birth": "Nancy",
+      "photo": {
+        "filename": "Neil El Aynaoui vs Niger (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Neil_El_Aynaoui_vs_Niger_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Neil_El_Aynaoui_vs_Niger_%28cropped%29.jpg",
+        "width": 852,
+        "height": 1638,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Laloumance",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/neil-el-aynaoui.jpg"
+      }
+    },
+    {
+      "slug": "samir-el-mourabet",
+      "display_name": "Samir El Mourabet",
+      "shirt_no": 28,
+      "position_code": "MF",
+      "dob": "2006-08-06",
+      "age": 19,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Strasbourg",
+      "wikipedia_title": "Samir El Mourabet",
+      "date_of_birth": "2006-08-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Strasbourg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q135616172",
+      "qid": "Q135616172",
+      "name": "Samir El Mourabet",
+      "description": "Moroccan association football player",
+      "place_of_birth_qid": "Q6602",
+      "citizenship_qids": [
+        "Q142",
+        "Q1028"
+      ],
+      "height_cm": 168.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Samir El Mourabet vs Paraguay (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Samir_El_Mourabet",
+      "transfermarkt_id": "1130514",
+      "wikidata_date_of_birth": "2005-10-06",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France",
+        "Morocco"
+      ],
+      "place_of_birth": "Strasbourg",
+      "photo": {
+        "filename": "Samir El Mourabet vs Paraguay (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Samir_El_Mourabet_vs_Paraguay_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Samir_El_Mourabet_vs_Paraguay_%28cropped%29.jpg/960px-Samir_El_Mourabet_vs_Paraguay_%28cropped%29.jpg",
+        "width": 1735,
+        "height": 2510,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Abdelali Bentarki",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/samir-el-mourabet.jpg"
+      }
+    },
+    {
+      "slug": "rayane-bounida",
+      "display_name": "Rayane Bounida",
+      "shirt_no": 29,
+      "position_code": "MF",
+      "dob": "2006-03-03",
+      "age": 20,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Ajax",
+      "wikipedia_title": "Rayane Bounida",
+      "date_of_birth": "2006-03-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Ajax",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q111087062",
+      "qid": "Q111087062",
+      "name": "Rayane Bounida",
+      "description": "Moroccan association football player (born 2006)",
+      "citizenship_qids": [
+        "Q31",
+        "Q1028"
+      ],
+      "height_cm": 1.79,
+      "image_filename": "Bounida warming up against Paraguay.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rayane_Bounida",
+      "transfermarkt_id": "598491",
+      "citizenship": [
+        "Belgium",
+        "Morocco"
+      ],
+      "photo": {
+        "filename": "Bounida warming up against Paraguay.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bounida_warming_up_against_Paraguay.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bounida_warming_up_against_Paraguay.jpg/960px-Bounida_warming_up_against_Paraguay.jpg",
+        "width": 4871,
+        "height": 3622,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Abdelali Bentarki",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/rayane-bounida.jpg"
+      }
+    },
+    {
+      "slug": "chemsdine-talbi",
+      "display_name": "Chemsdine Talbi",
+      "shirt_no": 7,
+      "position_code": "FW",
+      "dob": "2005-05-09",
+      "age": 21,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Sunderland",
+      "wikipedia_title": "Chemsdine Talbi",
+      "date_of_birth": "2005-05-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sunderland",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q113510254",
+      "qid": "Q113510254",
+      "name": "Chemsdine Talbi",
+      "description": "Belgian footballer",
+      "place_of_birth_qid": "Q650185",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 1.75,
+      "teams": [
+        {
+          "team_qid": "Q190916",
+          "start": "2023-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q190916",
+      "image_filename": "Chemsdine Talbi (Morocco v Niger) 12 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chemsdine_Talbi",
+      "transfermarkt_id": "743384",
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Sambreville",
+      "wikidata_current_club": "Club Brugge K.V.",
+      "wikidata_current_club_qid": "Q190916",
+      "photo": {
+        "filename": "Chemsdine Talbi (Morocco v Niger) 12 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chemsdine_Talbi_%28Morocco_v_Niger%29_12_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chemsdine_Talbi_%28Morocco_v_Niger%29_12_%28cropped%29.jpg",
+        "width": 371,
+        "height": 625,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Reda_benkhadra\" title=\"User:Reda benkhadra\">Reda benkhadra</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/chemsdine-talbi.jpg"
+      }
+    },
+    {
+      "slug": "soufiane-rahimi",
+      "display_name": "Soufiane Rahimi",
+      "shirt_no": 9,
+      "position_code": "FW",
+      "dob": "1996-06-02",
+      "age": 29,
+      "caps": 25,
+      "goals": 5,
+      "club_from_squad_table": "Al Ain",
+      "wikipedia_title": "Soufiane Rahimi",
+      "date_of_birth": "1996-06-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al Ain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q56247602",
+      "qid": "Q56247602",
+      "name": "Soufiane Rahimi",
+      "description": "Moroccan footballer",
+      "place_of_birth_qid": "Q7903",
+      "citizenship_qids": [
+        "Q1028"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1051514",
+          "start": "2017-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q812720",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q207337",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3592480",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        }
+      ],
+      "current_club_qid": "Q812720",
+      "image_filename": "Soufiane Rahimu (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Soufiane_Rahimi",
+      "transfermarkt_id": "598506",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Morocco"
+      ],
+      "place_of_birth": "Casablanca",
+      "wikidata_current_club": "Al Ain FC",
+      "wikidata_current_club_qid": "Q812720",
+      "photo": {
+        "filename": "Soufiane Rahimu (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Soufiane_Rahimu_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Soufiane_Rahimu_%28cropped%29.jpg",
+        "width": 355,
+        "height": 536,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Adilrajaoui&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Adilrajaoui (page does not exist)\">Adilrajaoui</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/soufiane-rahimi.jpg"
+      }
+    },
+    {
+      "slug": "brahim-d\u00edaz",
+      "display_name": "Brahim D\u00edaz",
+      "shirt_no": 10,
+      "position_code": "FW",
+      "dob": "1999-08-03",
+      "age": 26,
+      "caps": 24,
+      "goals": 13,
+      "club_from_squad_table": "Real Madrid",
+      "wikipedia_title": "Brahim D\u00edaz",
+      "date_of_birth": "1999-08-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26973015",
+      "qid": "Q26973015",
+      "name": "Brahim D\u00edaz",
+      "description": "Moroccan association football player",
+      "place_of_birth_qid": "Q8851",
+      "citizenship_qids": [
+        "Q1028",
+        "Q29"
+      ],
+      "height_cm": 170.0,
+      "weight_kg": 59.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q50602",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q2310295",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": "2017-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q207337",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8682",
+      "image_filename": "Brahim Diaz 3 vs Niger (cropped) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brahim_D%C3%ADaz",
+      "transfermarkt_id": "314678",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Morocco",
+        "Spain"
+      ],
+      "place_of_birth": "M\u00e1laga",
+      "wikidata_current_club": "Real Madrid Club de F\u00fatbol",
+      "wikidata_current_club_qid": "Q8682",
+      "photo": {
+        "filename": "Brahim Diaz 3 vs Niger (cropped) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brahim_Diaz_3_vs_Niger_%28cropped%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brahim_Diaz_3_vs_Niger_%28cropped%29_%28cropped%29.jpg",
+        "width": 799,
+        "height": 1030,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Laloumance",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/brahim-d\u00edaz.jpg"
+      }
+    },
+    {
+      "slug": "gessime-yassine",
+      "display_name": "Gessime Yassine",
+      "shirt_no": 16,
+      "position_code": "FW",
+      "dob": "2005-11-22",
+      "age": 20,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Strasbourg",
+      "wikipedia_title": "Gessime Yassine",
+      "date_of_birth": "2005-11-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Strasbourg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q126436400",
+      "qid": "Q126436400",
+      "name": "Gessime Yassine",
+      "description": "Moroccan footballer",
+      "place_of_birth_qid": "Q232567",
+      "citizenship_qids": [
+        "Q142"
+      ],
+      "height_cm": 172.0,
+      "teams": [
+        {
+          "team_qid": "Q797530",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1815297",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590714",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1815297",
+      "image_filename": "Gessime Yassine against Paraguay 2 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gessime_Yassine",
+      "transfermarkt_id": "1151929",
+      "citizenship": [
+        "France"
+      ],
+      "place_of_birth": "Salon-de-Provence",
+      "wikidata_current_club": "USL Dunkerque",
+      "wikidata_current_club_qid": "Q1815297",
+      "photo": {
+        "filename": "Gessime Yassine against Paraguay 2 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Gessime_Yassine_against_Paraguay_2_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Gessime_Yassine_against_Paraguay_2_%28cropped%29.jpg/960px-Gessime_Yassine_against_Paraguay_2_%28cropped%29.jpg",
+        "width": 2089,
+        "height": 3165,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Abdelali Bentarki",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/gessime-yassine.jpg"
+      }
+    },
+    {
+      "slug": "abde-ezzalzouli",
+      "display_name": "Abde Ezzalzouli",
+      "shirt_no": 17,
+      "position_code": "FW",
+      "dob": "2001-12-17",
+      "age": 24,
+      "caps": 35,
+      "goals": 2,
+      "club_from_squad_table": "Betis",
+      "wikipedia_title": "Abde Ezzalzouli",
+      "date_of_birth": "2001-12-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Betis",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q109327842",
+      "qid": "Q109327842",
+      "name": "Abde Ezzalzouli",
+      "description": "Moroccan association football player",
+      "place_of_birth_qid": "Q817279",
+      "citizenship_qids": [
+        "Q1028",
+        "Q29"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q9006245",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q11963",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2021-10-30",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q3590714",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q10467",
+          "start": "2021-08-30",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q207337",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q10286",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q2686567",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q8723",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8723",
+      "image_filename": "AbdeEz.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abde_Ezzalzouli",
+      "transfermarkt_id": "724520",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Morocco",
+        "Spain"
+      ],
+      "place_of_birth": "Beni Mellal",
+      "wikidata_current_club": "Real Betis Balompi\u00e9",
+      "wikidata_current_club_qid": "Q8723",
+      "photo": {
+        "filename": "AbdeEz.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/AbdeEz.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/AbdeEz.jpg/960px-AbdeEz.jpg",
+        "width": 2737,
+        "height": 4710,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Mohammed Ayman Nechchad",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/abde-ezzalzouli.jpg"
+      }
+    },
+    {
+      "slug": "yassir-zabiri",
+      "display_name": "Yassir Zabiri",
+      "shirt_no": 19,
+      "position_code": "FW",
+      "dob": "2005-02-23",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Rennes",
+      "wikipedia_title": "Yassir Zabiri",
+      "date_of_birth": "2005-02-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rennes",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q130301496",
+      "qid": "Q130301496",
+      "name": "Yassir Zabiri",
+      "description": "Moroccan footballer",
+      "place_of_birth_qid": "Q101625",
+      "citizenship_qids": [
+        "Q1028"
+      ],
+      "height_cm": 1.77,
+      "position_qids": [
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3550032",
+          "start": "2024-01-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q1387105",
+          "start": "2024-08-26",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590714",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        }
+      ],
+      "current_club_qid": "Q1387105",
+      "image_filename": "Yassir Zabiri (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yassir_Zabiri",
+      "transfermarkt_id": "1153105",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "Morocco"
+      ],
+      "place_of_birth": "Marrakech",
+      "wikidata_current_club": "FC Famalic\u00e3o",
+      "wikidata_current_club_qid": "Q1387105",
+      "photo": {
+        "filename": "Yassir Zabiri (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Yassir_Zabiri_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Yassir_Zabiri_%28cropped%29.jpg/960px-Yassir_Zabiri_%28cropped%29.jpg",
+        "width": 1165,
+        "height": 1907,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Abdelali Bentarki",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/yassir-zabiri.jpg"
+      }
+    },
+    {
+      "slug": "ayoub-el-kaabi",
+      "display_name": "Ayoub El Kaabi",
+      "shirt_no": 20,
+      "position_code": "FW",
+      "dob": "1993-06-25",
+      "age": 32,
+      "caps": 55,
+      "goals": 20,
+      "club_from_squad_table": "Olympiacos",
+      "wikipedia_title": "Ayoub El Kaabi",
+      "date_of_birth": "1993-06-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Olympiacos",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q42948040",
+      "qid": "Q42948040",
+      "name": "Ayoub El Kaabi",
+      "description": "Moroccan footballer",
+      "place_of_birth_qid": "Q7903",
+      "citizenship_qids": [
+        "Q1028"
+      ],
+      "height_cm": 1.82,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1906329",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q3424751",
+          "start": "2017-07-01",
+          "end": "2018-07-11"
+        },
+        {
+          "team_qid": "Q402038",
+          "start": "2018-07-11",
+          "end": "2020-08-20"
+        },
+        {
+          "team_qid": "Q1139095",
+          "start": "2019-07-28",
+          "end": "2019-12-31"
+        },
+        {
+          "team_qid": "Q207337",
+          "start": "2018-03-23",
+          "end": null
+        },
+        {
+          "team_qid": "Q19060379",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1906329",
+      "image_filename": "Ayoub El Kaabi vs Niger (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ayoub_El_Kaabi",
+      "transfermarkt_id": "521127",
+      "fifa_player_id": "411678",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Morocco"
+      ],
+      "place_of_birth": "Casablanca",
+      "wikidata_current_club": "Racing de Casablanca",
+      "wikidata_current_club_qid": "Q1906329",
+      "photo": {
+        "filename": "Ayoub El Kaabi vs Niger (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ayoub_El_Kaabi_vs_Niger_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ayoub_El_Kaabi_vs_Niger_%28cropped%29.jpg/960px-Ayoub_El_Kaabi_vs_Niger_%28cropped%29.jpg",
+        "width": 1195,
+        "height": 2310,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Laloumance",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ayoub-el-kaabi.jpg"
+      }
+    },
+    {
+      "slug": "amine-adli",
+      "display_name": "Amine Adli",
+      "shirt_no": 21,
+      "position_code": "FW",
+      "dob": "2000-05-10",
+      "age": 26,
+      "caps": 17,
+      "goals": 1,
+      "club_from_squad_table": "Bournemouth",
+      "wikipedia_title": "Amine Adli",
+      "date_of_birth": "2000-05-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bournemouth",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q66586702",
+      "qid": "Q66586702",
+      "name": "Amine Adli",
+      "description": "Moroccan footballer (born 2000)",
+      "place_of_birth_qid": "Q174019",
+      "citizenship_qids": [
+        "Q142",
+        "Q1028"
+      ],
+      "height_cm": 174.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q104761",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q19518",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q56150474",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        }
+      ],
+      "current_club_qid": "Q104761",
+      "image_filename": "Amine Adli.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Amine_Adli",
+      "transfermarkt_id": "532776",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France",
+        "Morocco"
+      ],
+      "place_of_birth": "B\u00e9ziers",
+      "wikidata_current_club": "Bayer 04 Leverkusen",
+      "wikidata_current_club_qid": "Q104761",
+      "photo": {
+        "filename": "Amine Adli.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Amine_Adli.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Amine_Adli.jpg/960px-Amine_Adli.jpg",
+        "width": 1214,
+        "height": 1495,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Nebuno&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Nebuno (page does not exist)\">Nebuno</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/amine-adli.jpg"
+      }
+    }
+  ]
+}

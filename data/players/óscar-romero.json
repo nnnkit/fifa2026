@@ -1,0 +1,78 @@
+{
+  "slug": "óscar-romero",
+  "display_name": "Óscar Romero",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1992-07-04",
+  "age": 33,
+  "caps": 55,
+  "goals": 4,
+  "club_from_squad_table": "Huracán",
+  "wikipedia_title": "Óscar Romero (footballer)",
+  "date_of_birth": "1992-07-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Huracán",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q15960512",
+  "qid": "Q15960512",
+  "name": "Óscar Romero",
+  "description": "Paraguayan association football player",
+  "place_of_birth_qid": "Q47062",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 176.0,
+  "weight_kg": 74.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q914086",
+      "start": "2011-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q276533",
+      "start": "2015-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q172020",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q223620",
+      "start": "2017-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q223620",
+  "image_filename": "Óscar Romero 20180612 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%93scar_Romero_(footballer)",
+  "transfermarkt_id": "217886",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Fernando de la Mora",
+  "wikidata_current_club": "Deportivo Alavés",
+  "wikidata_current_club_qid": "Q223620",
+  "photo": {
+    "filename": "Óscar Romero 20180612 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/%C3%93scar_Romero_20180612_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/%C3%93scar_Romero_20180612_%28cropped%29.jpg",
+    "width": 395,
+    "height": 618,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Lokomotive74\" title=\"User:Lokomotive74\">El Loko</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/óscar-romero.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

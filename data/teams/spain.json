@@ -1,0 +1,2496 @@
+{
+  "slug": "spain",
+  "country": "Spain",
+  "wikidata_qid": "Q42267",
+  "fetched_at": "2026-05-24T16:56:51+00:00",
+  "source": {
+    "kind": "national-team",
+    "title": "Spain national football team",
+    "url": "https://en.wikipedia.org/wiki/Spain_national_football_team"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "david-raya",
+      "display_name": "David Raya",
+      "shirt_no": 1,
+      "position_code": "GK",
+      "dob": "1995-09-15",
+      "age": 30,
+      "caps": 12,
+      "goals": 0,
+      "club_from_squad_table": "Arsenal",
+      "wikipedia_title": "David Raya",
+      "date_of_birth": "1995-09-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Arsenal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19665907",
+      "qid": "Q19665907",
+      "name": "David Raya",
+      "description": "Spanish association football player",
+      "place_of_birth_qid": "Q1492",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 184.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19446",
+          "start": "2014-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q18525",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q19571",
+          "start": "2019-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9617",
+      "image_filename": "David Raya in 2025 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Raya",
+      "transfermarkt_id": "262749",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Barcelona",
+      "wikidata_current_club": "Arsenal F.C.",
+      "wikidata_current_club_qid": "Q9617",
+      "photo": {
+        "filename": "David Raya in 2025 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/David_Raya_in_2025_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/David_Raya_in_2025_%28cropped%29.jpg/960px-David_Raya_in_2025_%28cropped%29.jpg",
+        "width": 1186,
+        "height": 1560,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Biso\" title=\"User:Biso\">Biso</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/david-raya.jpg"
+      }
+    },
+    {
+      "slug": "álex-remiro",
+      "display_name": "Álex Remiro",
+      "shirt_no": 13,
+      "position_code": "GK",
+      "dob": "1995-03-24",
+      "age": 31,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Real Sociedad",
+      "wikipedia_title": "Álex Remiro",
+      "date_of_birth": "1995-03-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Sociedad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20492591",
+      "qid": "Q20492591",
+      "name": "Alejandro Remiro",
+      "description": "Spanish association football player",
+      "place_of_birth_qid": "Q986089",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 1.92,
+      "weight_kg": 79.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q794970",
+          "start": "2014-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q727093",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q8687",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q8823",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q11971",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q10315",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q5010036",
+          "start": null,
+          "end": "2009-00-00"
+        },
+        {
+          "team_qid": "Q8687",
+          "start": "2009-00-00",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q10315",
+      "image_filename": "DSC 2448 (51300097850) (Alex Remiro).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lex_Remiro",
+      "transfermarkt_id": "212862",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Cascante",
+      "photo": {
+        "filename": "DSC 2448 (51300097850) (Alex Remiro).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/DSC_2448_%2851300097850%29_%28Alex_Remiro%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/DSC_2448_%2851300097850%29_%28Alex_Remiro%29.jpg",
+        "width": 634,
+        "height": 836,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/129346400@N03\">Giovanni Batista Rodriguez</a> from San Sebastian-Donostia, España",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/álex-remiro.jpg"
+      }
+    },
+    {
+      "slug": "joan-garcia",
+      "display_name": "Joan Garcia",
+      "shirt_no": 18,
+      "position_code": "GK",
+      "dob": "2001-05-04",
+      "age": 25,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Barcelona",
+      "wikipedia_title": "Joan Garcia",
+      "date_of_birth": "2001-05-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barcelona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110258306",
+      "qid": "Q110258306",
+      "name": "Joan Garcia",
+      "description": "Spanish footballer (born 2001)",
+      "place_of_birth_qid": "Q16728",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 194.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q32537",
+          "start": "2019-09-00",
+          "end": "2021-05-00"
+        },
+        {
+          "team_qid": "Q8780",
+          "start": "2022-01-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q2310295",
+          "start": "2018-01-00",
+          "end": "2018-02-00"
+        },
+        {
+          "team_qid": "Q3589784",
+          "start": "2018-11-00",
+          "end": "2019-05-00"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2019-06-00",
+          "end": "2019-10-00"
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": "2021-11-00",
+          "end": "2022-03-00"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q17228",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q7156",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joan_Garcia",
+      "transfermarkt_id": "561613",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Sallent de Llobregat",
+      "wikidata_current_club": "Futbol Club Barcelona",
+      "wikidata_current_club_qid": "Q7156",
+      "image_filename": "CE_Manresa_Aleví_A,_amb_el_porter_Joan_Garcia,_abril_de_2012_(cropped).jpg",
+      "photo": {
+        "filename": "CE_Manresa_Aleví_A,_amb_el_porter_Joan_Garcia,_abril_de_2012_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/CE_Manresa_Alev%C3%AD_A%2C_amb_el_porter_Joan_Garcia%2C_abril_de_2012_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/CE_Manresa_Alev%C3%AD_A%2C_amb_el_porter_Joan_Garcia%2C_abril_de_2012_%28cropped%29.jpg",
+        "width": 389,
+        "height": 700,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Catiusca12&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Catiusca12 (page does not exist)\">Catiusca12</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/joan-garcia.jpg"
+      }
+    },
+    {
+      "slug": "unai-simón",
+      "display_name": "Unai Simón",
+      "shirt_no": 23,
+      "position_code": "GK",
+      "dob": "1997-06-11",
+      "age": 28,
+      "caps": 57,
+      "goals": 0,
+      "club_from_squad_table": "Athletic Bilbao",
+      "wikipedia_title": "Unai Simón",
+      "date_of_birth": "1997-06-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Athletic Bilbao",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q23908113",
+      "qid": "Q23908113",
+      "name": "Unai Simón",
+      "description": "Spanish association football player (born 1997)",
+      "place_of_birth_qid": "Q14318",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 1.92,
+      "weight_kg": 86.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q727093",
+          "start": "2014-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q794970",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q8687",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873503",
+          "start": "2013-00-00",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q3589784",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q2637337",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        }
+      ],
+      "current_club_qid": "Q8687",
+      "image_filename": "Unai Simón Mendibil.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Unai_Sim%C3%B3n",
+      "transfermarkt_id": "262396",
+      "fifa_player_id": "201402994",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Vitoria-Gasteiz",
+      "wikidata_current_club": "Athletic Club",
+      "wikidata_current_club_qid": "Q8687",
+      "photo": {
+        "filename": "Unai Simón Mendibil.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Unai_Sim%C3%B3n_Mendibil.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Unai_Sim%C3%B3n_Mendibil.jpg",
+        "width": 806,
+        "height": 734,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/80502676@N00\">Tam Tam</a> from Shizuoka, JAPAN",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/unai-simón.jpg"
+      }
+    },
+    {
+      "slug": "cristhian-mosquera",
+      "display_name": "Cristhian Mosquera",
+      "shirt_no": 2,
+      "position_code": "DF",
+      "dob": "2004-06-27",
+      "age": 21,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Arsenal",
+      "wikipedia_title": "Cristhian Mosquera",
+      "date_of_birth": "2004-06-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Arsenal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110458872",
+      "qid": "Q110458872",
+      "name": "Cristhian Mosquera",
+      "description": "Spanish footballer (born 2004)",
+      "place_of_birth_qid": "Q11959",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 191.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q10333",
+          "start": "2021-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q1481307",
+          "start": "2024-07-00",
+          "end": "2024-07-00"
+        },
+        {
+          "team_qid": "Q6124177",
+          "start": "2018-12-00",
+          "end": "2019-02-00"
+        },
+        {
+          "team_qid": "Q3873503",
+          "start": "2019-04-00",
+          "end": "2019-12-00"
+        },
+        {
+          "team_qid": "Q3589784",
+          "start": "2021-10-00",
+          "end": "2022-06-00"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2022-02-00",
+          "end": "2023-05-00"
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": "2024-03-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q918044",
+          "start": "2022-09-00",
+          "end": "2023-05-00"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9617",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cristhian_Mosquera",
+      "transfermarkt_id": "646750",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Alicante",
+      "wikidata_current_club": "Arsenal F.C.",
+      "wikidata_current_club_qid": "Q9617",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "álex-grimaldo",
+      "display_name": "Álex Grimaldo",
+      "shirt_no": 3,
+      "position_code": "DF",
+      "dob": "1995-09-20",
+      "age": 30,
+      "caps": 12,
+      "goals": 0,
+      "club_from_squad_table": "Bayer Leverkusen",
+      "wikipedia_title": "Álex Grimaldo",
+      "date_of_birth": "1995-09-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayer Leverkusen",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q921324",
+      "qid": "Q921324",
+      "name": "Álex Grimaldo",
+      "description": "Spanish association football player (born 1995)",
+      "place_of_birth_qid": "Q8818",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 170.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q918044",
+          "start": "2006-00-00",
+          "end": "2008-00-00"
+        },
+        {
+          "team_qid": "Q13562063",
+          "start": "2008-00-00",
+          "end": "2012-00-00"
+        },
+        {
+          "team_qid": "Q10467",
+          "start": "2011-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2016-01-01",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q3873503",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q2310295",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": "2013-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q104761",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q104761",
+      "image_filename": "Alex Grimaldo 2020.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lex_Grimaldo",
+      "transfermarkt_id": "193082",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Valencia",
+      "wikidata_current_club": "Bayer 04 Leverkusen",
+      "wikidata_current_club_qid": "Q104761",
+      "photo": {
+        "filename": "Alex Grimaldo 2020.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Alex_Grimaldo_2020.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Alex_Grimaldo_2020.png",
+        "width": 693,
+        "height": 772,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Sport Lisboa e Benfica",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/álex-grimaldo.png"
+      }
+    },
+    {
+      "slug": "pau-cubarsí",
+      "display_name": "Pau Cubarsí",
+      "shirt_no": 4,
+      "position_code": "DF",
+      "dob": "2007-01-22",
+      "age": 19,
+      "caps": 11,
+      "goals": 0,
+      "club_from_squad_table": "Barcelona",
+      "wikipedia_title": "Pau Cubarsí",
+      "date_of_birth": "2007-01-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barcelona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q118473161",
+      "qid": "Q118473161",
+      "name": "Pau Cubarsí",
+      "description": "Spanish footballer (born 2007)",
+      "place_of_birth_qid": "Q20103929",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 184.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7156",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q6124177",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q3873503",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q2310295",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q10467",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        }
+      ],
+      "current_club_qid": "Q7156",
+      "image_filename": "Pau Cubarsí.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pau_Cubars%C3%AD",
+      "transfermarkt_id": "962110",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Estanyol",
+      "wikidata_current_club": "Futbol Club Barcelona",
+      "wikidata_current_club_qid": "Q7156",
+      "photo": {
+        "filename": "Pau Cubarsí.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pau_Cubars%C3%AD.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pau_Cubars%C3%AD.jpg/960px-Pau_Cubars%C3%AD.jpg",
+        "width": 1291,
+        "height": 2188,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Biso\" title=\"User:Biso\">Biso</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/pau-cubarsí.jpg"
+      }
+    },
+    {
+      "slug": "marcos-llorente",
+      "display_name": "Marcos Llorente",
+      "shirt_no": 5,
+      "position_code": "DF",
+      "dob": "1995-01-30",
+      "age": 31,
+      "caps": 23,
+      "goals": 0,
+      "club_from_squad_table": "Atlético Madrid",
+      "wikipedia_title": "Marcos Llorente",
+      "date_of_birth": "1995-01-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlético Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21130285",
+      "qid": "Q21130285",
+      "name": "Marcos Llorente",
+      "description": "Spanish association football player",
+      "place_of_birth_qid": "Q1492",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 71.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q12217",
+          "start": "2014-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2015-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q223620",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8701",
+      "image_filename": "Marcos Llorente 2019.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marcos_Llorente",
+      "transfermarkt_id": "282411",
+      "fifa_player_id": "382739",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Barcelona",
+      "photo": {
+        "filename": "Marcos Llorente 2019.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Marcos_Llorente_2019.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Marcos_Llorente_2019.jpg",
+        "width": 932,
+        "height": 1176,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Анна Нэсси",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marcos-llorente.jpg"
+      }
+    },
+    {
+      "slug": "dean-huijsen",
+      "display_name": "Dean Huijsen",
+      "shirt_no": 6,
+      "position_code": "DF",
+      "dob": "2005-04-14",
+      "age": 21,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Real Madrid",
+      "wikipedia_title": "Dean Huijsen",
+      "date_of_birth": "2005-04-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q112184628",
+      "qid": "Q112184628",
+      "name": "Dean Huijsen",
+      "description": "Dutch association football player",
+      "place_of_birth_qid": "Q727",
+      "citizenship_qids": [
+        "Q29999",
+        "Q29"
+      ],
+      "height_cm": 197.0,
+      "weight_kg": 87.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q56025745",
+          "start": "2023-01-01",
+          "end": "2023-11-07"
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2023-11-07",
+          "end": "2024-07-30"
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2024-01-06",
+          "end": "2024-07-30"
+        },
+        {
+          "team_qid": "Q19568",
+          "start": "2024-07-30",
+          "end": "2025-06-01"
+        },
+        {
+          "team_qid": "Q601723",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q16854907",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q514714",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2026-04-24",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8682",
+      "image_filename": "Dean Huijsen 2024.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dean_Huijsen",
+      "transfermarkt_id": "890290",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands",
+        "Spain"
+      ],
+      "place_of_birth": "Amsterdam",
+      "wikidata_current_club": "Real Madrid Club de Fútbol",
+      "wikidata_current_club_qid": "Q8682",
+      "photo": {
+        "filename": "Dean Huijsen 2024.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dean_Huijsen_2024.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dean_Huijsen_2024.jpg/960px-Dean_Huijsen_2024.jpg",
+        "width": 1270,
+        "height": 1843,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "AFC Bournemouth",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dean-huijsen.jpg"
+      }
+    },
+    {
+      "slug": "pedro-porro",
+      "display_name": "Pedro Porro",
+      "shirt_no": 12,
+      "position_code": "DF",
+      "dob": "1999-09-13",
+      "age": 26,
+      "caps": 16,
+      "goals": 0,
+      "club_from_squad_table": "Tottenham Hotspur",
+      "wikipedia_title": "Pedro Porro",
+      "date_of_birth": "1999-09-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Tottenham Hotspur",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q44080929",
+      "qid": "Q44080929",
+      "name": "Pedro Porrero",
+      "description": "Spanish association football player (born 1999)",
+      "place_of_birth_qid": "Q636120",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 1.76,
+      "weight_kg": 71.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7156",
+          "start": "2010-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q11945",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q10319",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q75729",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q75729",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q18741",
+          "start": "2023-01-00",
+          "end": "2023-06-00"
+        },
+        {
+          "team_qid": "Q18741",
+          "start": "2023-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18741",
+      "image_filename": "Pedro Porro 2021.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Porro",
+      "transfermarkt_id": "553875",
+      "fifa_player_id": "201733703",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Don Benito",
+      "wikidata_current_club": "Tottenham Hotspur F.C.",
+      "wikidata_current_club_qid": "Q18741",
+      "photo": {
+        "filename": "Pedro Porro 2021.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pedro_Porro_2021.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pedro_Porro_2021.png",
+        "width": 270,
+        "height": 385,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCnJj6L93JX3Jrhzv81ayywA\">Sporting Clube de Portugal</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/pedro-porro.png"
+      }
+    },
+    {
+      "slug": "aymeric-laporte",
+      "display_name": "Aymeric Laporte",
+      "shirt_no": 14,
+      "position_code": "DF",
+      "dob": "1994-05-27",
+      "age": 31,
+      "caps": 44,
+      "goals": 2,
+      "club_from_squad_table": "Athletic Bilbao",
+      "wikipedia_title": "Aymeric Laporte",
+      "date_of_birth": "1994-05-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Athletic Bilbao",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q3855340",
+      "qid": "Q3855340",
+      "name": "Aymeric Laporte",
+      "description": "Spanish-French footballer (born 1994)",
+      "place_of_birth_qid": "Q6625",
+      "citizenship_qids": [
+        "Q142",
+        "Q29"
+      ],
+      "height_cm": 1.91,
+      "weight_kg": 85.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q727093",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q2701714",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q1277549",
+          "start": "2013-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q794970",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q8687",
+          "start": "2012-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2018-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q482764",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q3494142",
+          "start": "2000-00-00",
+          "end": "2009-00-00"
+        },
+        {
+          "team_qid": "Q791128",
+          "start": "2009-00-00",
+          "end": "2010-00-00"
+        },
+        {
+          "team_qid": "Q8687",
+          "start": "2010-00-00",
+          "end": "2011-00-00"
+        },
+        {
+          "team_qid": "Q8687",
+          "start": "2025-09-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8687",
+      "image_filename": "Aymeric Laporte 2023 (cropped) 2.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aymeric_Laporte",
+      "transfermarkt_id": "176553",
+      "fifa_player_id": "335999",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "France",
+        "Spain"
+      ],
+      "place_of_birth": "Agen",
+      "wikidata_current_club": "Athletic Club",
+      "wikidata_current_club_qid": "Q8687",
+      "photo": {
+        "filename": "Aymeric Laporte 2023 (cropped) 2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Aymeric_Laporte_2023_%28cropped%29_2.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Aymeric_Laporte_2023_%28cropped%29_2.jpg",
+        "width": 239,
+        "height": 352,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Mohammadreza Abbasi",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/aymeric-laporte.jpg"
+      }
+    },
+    {
+      "slug": "marc-cucurella",
+      "display_name": "Marc Cucurella",
+      "shirt_no": 24,
+      "position_code": "DF",
+      "dob": "1998-07-22",
+      "age": 27,
+      "caps": 23,
+      "goals": 1,
+      "club_from_squad_table": "Chelsea",
+      "wikipedia_title": "Marc Cucurella",
+      "date_of_birth": "1998-07-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Chelsea",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q22082505",
+      "qid": "Q22082505",
+      "name": "Marc Cucurella",
+      "description": "Spanish association football player",
+      "place_of_birth_qid": "Q12034",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 169.0,
+      "weight_kg": 67.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q10467",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q770740",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q3873503",
+          "start": "2014-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q2310295",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q3589784",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q2356290",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q8806",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q8806",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q2637337",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9616",
+      "image_filename": "Marc Cucurella.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marc_Cucurella",
+      "transfermarkt_id": "284857",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Alella",
+      "wikidata_current_club": "Chelsea F.C.",
+      "wikidata_current_club_qid": "Q9616",
+      "photo": {
+        "filename": "Marc Cucurella.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Marc_Cucurella.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Marc_Cucurella.jpg",
+        "width": 294,
+        "height": 421,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Soccer.ru",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marc-cucurella.jpg"
+      }
+    },
+    {
+      "slug": "carlos-soler",
+      "display_name": "Carlos Soler",
+      "shirt_no": 8,
+      "position_code": "MF",
+      "dob": "1997-01-02",
+      "age": 29,
+      "caps": 15,
+      "goals": 4,
+      "club_from_squad_table": "Real Sociedad",
+      "wikipedia_title": "Carlos Soler",
+      "date_of_birth": "1997-01-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Sociedad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26707913",
+      "qid": "Q26707913",
+      "name": "Carlos Soler",
+      "description": "Spanish association football player (born 1997)",
+      "place_of_birth_qid": "Q8818",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q10333",
+          "start": "2016-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2022-00-00",
+          "end": "2025-09-01"
+        },
+        {
+          "team_qid": "Q18747",
+          "start": "2024-08-30",
+          "end": "2025-06-00"
+        },
+        {
+          "team_qid": "Q10315",
+          "start": "2025-09-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q10315",
+      "image_filename": "Carlos Soler 2020.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Soler",
+      "transfermarkt_id": "372246",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Valencia",
+      "photo": {
+        "filename": "Carlos Soler 2020.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Carlos_Soler_2020.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Carlos_Soler_2020.png/960px-Carlos_Soler_2020.png",
+        "width": 1217,
+        "height": 1076,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Valencia CF",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/carlos-soler.png"
+      }
+    },
+    {
+      "slug": "dani-olmo",
+      "display_name": "Dani Olmo",
+      "shirt_no": 10,
+      "position_code": "MF",
+      "dob": "1998-05-07",
+      "age": 28,
+      "caps": 48,
+      "goals": 12,
+      "club_from_squad_table": "Barcelona",
+      "wikipedia_title": "Dani Olmo",
+      "date_of_birth": "1998-05-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barcelona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19560313",
+      "qid": "Q19560313",
+      "name": "Dani Olmo",
+      "description": "Spanish association football player",
+      "place_of_birth_qid": "Q13939",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 176.0,
+      "weight_kg": 68.0,
+      "position_qids": [
+        "Q90326494",
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q172803",
+          "start": "2015-01-01",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q3873503",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q2310295",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3589784",
+          "start": "2016-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2007-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q8780",
+          "start": "2006-00-00",
+          "end": "2007-00-00"
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q5513963",
+          "start": "2015-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2020-00-00",
+          "end": "2024-08-00"
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2024-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q7156",
+      "image_filename": "Dani Olmo 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dani_Olmo",
+      "transfermarkt_id": "293385",
+      "fifa_player_id": "201385503",
+      "positions": [
+        "attacking midfielder",
+        "midfielder"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Terrassa",
+      "wikidata_current_club": "Futbol Club Barcelona",
+      "wikidata_current_club_qid": "Q7156",
+      "photo": {
+        "filename": "Dani Olmo 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Dani_Olmo_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Dani_Olmo_2022.jpg",
+        "width": 777,
+        "height": 1036,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "crop by <a href=\"//commons.wikimedia.org/w/index.php?title=User:M-B&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:M-B (page does not exist)\">M-B</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dani-olmo.jpg"
+      }
+    },
+    {
+      "slug": "rodri",
+      "display_name": "Rodri",
+      "shirt_no": 16,
+      "position_code": "MF",
+      "dob": "1996-06-22",
+      "age": 29,
+      "caps": 61,
+      "goals": 4,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "Rodri (footballer, born 1996)",
+      "date_of_birth": "1996-06-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20994118",
+      "qid": "Q20994118",
+      "name": "Rodri",
+      "description": "Spanish association football player",
+      "place_of_birth_qid": "Q2807",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q18691898"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1094113",
+          "start": "2015-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2015-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q3873503",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "RODRI - SWE vs ESP - UEFA EURO 2020 QUALIFIERS - 2019.10.15 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rodri_(footballer,_born_1996)",
+      "transfermarkt_id": "357565",
+      "fifa_player_id": "201403002",
+      "positions": [
+        "defensive midfielder"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Madrid",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "RODRI - SWE vs ESP - UEFA EURO 2020 QUALIFIERS - 2019.10.15 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/RODRI_-_SWE_vs_ESP_-_UEFA_EURO_2020_QUALIFIERS_-_2019.10.15_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/RODRI_-_SWE_vs_ESP_-_UEFA_EURO_2020_QUALIFIERS_-_2019.10.15_%28cropped%29.jpg",
+        "width": 675,
+        "height": 864,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Rolandhino1\" title=\"User:Rolandhino1\">Rolandhino1</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/rodri.jpg"
+      }
+    },
+    {
+      "slug": "pablo-fornals",
+      "display_name": "Pablo Fornals",
+      "shirt_no": 17,
+      "position_code": "MF",
+      "dob": "1996-02-22",
+      "age": 30,
+      "caps": 9,
+      "goals": 1,
+      "club_from_squad_table": "Betis",
+      "wikipedia_title": "Pablo Fornals",
+      "date_of_birth": "1996-02-22",
+      "date_of_birth_source": "uefa+laliga+enwiki+wikidata-verified",
+      "current_club": "Betis",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21027331",
+      "qid": "Q21027331",
+      "name": "Pablo Fornals",
+      "description": "Spanish association football player",
+      "place_of_birth_qid": "Q15092",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 160.0,
+      "weight_kg": 67.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8857",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q780509",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q12297",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q18747",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8857",
+      "image_filename": "Pablo Fornals.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pablo_Fornals",
+      "transfermarkt_id": "357885",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Castellón de la Plana",
+      "wikidata_current_club": "Málaga CF",
+      "wikidata_current_club_qid": "Q8857",
+      "photo": {
+        "filename": "Pablo Fornals.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pablo_Fornals.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pablo_Fornals.jpg",
+        "width": 572,
+        "height": 908,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Антон Зайцев",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/pablo-fornals.jpg"
+      },
+      "squad_table_date_of_birth": "1996-02-02"
+    },
+    {
+      "slug": "pedri",
+      "display_name": "Pedri",
+      "shirt_no": 20,
+      "position_code": "MF",
+      "dob": "2002-11-25",
+      "age": 23,
+      "caps": 40,
+      "goals": 5,
+      "club_from_squad_table": "Barcelona",
+      "wikipedia_title": "Pedri",
+      "date_of_birth": "2002-11-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barcelona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q66606355",
+      "qid": "Q66606355",
+      "name": "Pedri",
+      "description": "Spanish association football player",
+      "place_of_birth_qid": "Q985603",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 174.0,
+      "weight_kg": 61.0,
+      "position_qids": [
+        "Q1109563"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q11979",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2310295",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q3589784",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q2637337",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q7156",
+      "image_filename": "Pedri.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pedri",
+      "transfermarkt_id": "683840",
+      "fifa_player_id": "400128950",
+      "positions": [
+        "centerhalf"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Tegueste",
+      "wikidata_current_club": "Futbol Club Barcelona",
+      "wikidata_current_club_qid": "Q7156",
+      "photo": {
+        "filename": "Pedri.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Pedri.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pedri.jpg/960px-Pedri.jpg",
+        "width": 1227,
+        "height": 1788,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Biso\" title=\"User:Biso\">Biso</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/pedri.jpg"
+      }
+    },
+    {
+      "slug": "fermín-lópez",
+      "display_name": "Fermín López",
+      "shirt_no": 22,
+      "position_code": "MF",
+      "dob": "2003-05-11",
+      "age": 23,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Barcelona",
+      "wikipedia_title": "Fermín López",
+      "date_of_birth": "2003-05-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barcelona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117312887",
+      "qid": "Q117312887",
+      "name": "Fermín López",
+      "description": "Spanish association football player",
+      "place_of_birth_qid": "Q1645087",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 176.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q10467",
+          "start": "2022-07-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q5976634",
+          "start": "2022-08-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q2637337",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q7156",
+      "image_filename": "Fermín López.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ferm%C3%ADn_L%C3%B3pez",
+      "transfermarkt_id": "636703",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "El Campillo",
+      "wikidata_current_club": "Futbol Club Barcelona",
+      "wikidata_current_club_qid": "Q7156",
+      "photo": {
+        "filename": "Fermín López.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Ferm%C3%ADn_L%C3%B3pez.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ferm%C3%ADn_L%C3%B3pez.jpg/960px-Ferm%C3%ADn_L%C3%B3pez.jpg",
+        "width": 1534,
+        "height": 2657,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Biso\" title=\"User:Biso\">Biso</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/fermín-lópez.jpg"
+      }
+    },
+    {
+      "slug": "ferran-torres",
+      "display_name": "Ferran Torres",
+      "shirt_no": 7,
+      "position_code": "FW",
+      "dob": "2000-02-29",
+      "age": 26,
+      "caps": 55,
+      "goals": 23,
+      "club_from_squad_table": "Barcelona",
+      "wikipedia_title": "Ferran Torres",
+      "date_of_birth": "2000-02-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barcelona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q44297797",
+      "qid": "Q44297797",
+      "name": "Ferran Torres",
+      "description": "Spanish association football player",
+      "place_of_birth_qid": "Q668117",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 184.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q918044",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q10333",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q2310295",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q7156",
+      "image_filename": "Ferran Torres 2019.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ferran_Torres",
+      "transfermarkt_id": "398184",
+      "fifa_player_id": "201653449",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Foios",
+      "wikidata_current_club": "Futbol Club Barcelona",
+      "wikidata_current_club_qid": "Q7156",
+      "photo": {
+        "filename": "Ferran Torres 2019.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ferran_Torres_2019.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ferran_Torres_2019.png/960px-Ferran_Torres_2019.png",
+        "width": 1025,
+        "height": 1079,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Valencia CF",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ferran-torres.png"
+      }
+    },
+    {
+      "slug": "borja-iglesias",
+      "display_name": "Borja Iglesias",
+      "shirt_no": 9,
+      "position_code": "FW",
+      "dob": "1993-01-17",
+      "age": 33,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Celta Vigo",
+      "wikipedia_title": "Borja Iglesias",
+      "date_of_birth": "1993-01-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Celta Vigo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18719485",
+      "qid": "Q18719485",
+      "name": "Borja Iglesias",
+      "description": "Spanish footballer",
+      "place_of_birth_qid": "Q14314",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 1.87,
+      "weight_kg": 86.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2311865",
+          "start": "2013-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q8749",
+          "start": "2014-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q3321644",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q8780",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q10333",
+          "start": "2007-00-00",
+          "end": "2010-00-00"
+        },
+        {
+          "team_qid": "Q48845901",
+          "start": "2010-00-00",
+          "end": "2011-00-00"
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2011-00-00",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q10308",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q8723",
+          "start": "2019-00-00",
+          "end": "2025-08-00"
+        },
+        {
+          "team_qid": "Q104761",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q8749",
+          "start": "2024-00-00",
+          "end": "2025-06-00"
+        },
+        {
+          "team_qid": "Q8749",
+          "start": "2025-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8749",
+      "image_filename": "Borja iglesias 2019001 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Borja_Iglesias",
+      "transfermarkt_id": "278359",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Santiago de Compostela",
+      "wikidata_current_club": "RC Celta de Vigo",
+      "wikidata_current_club_qid": "Q8749",
+      "photo": {
+        "filename": "Borja iglesias 2019001 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Borja_iglesias_2019001_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Borja_iglesias_2019001_%28cropped%29.jpg",
+        "width": 495,
+        "height": 701,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "CorreoTelevisión Santiago de Compostela",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/borja-iglesias.jpg"
+      }
+    },
+    {
+      "slug": "yéremy-pino",
+      "display_name": "Yéremy Pino",
+      "shirt_no": 11,
+      "position_code": "FW",
+      "dob": "2002-10-20",
+      "age": 23,
+      "caps": 21,
+      "goals": 4,
+      "club_from_squad_table": "Crystal Palace",
+      "wikipedia_title": "Yéremy Pino",
+      "date_of_birth": "2002-10-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Crystal Palace",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q100735281",
+      "qid": "Q100735281",
+      "name": "Yéremy Pino",
+      "description": "Spanish association football player (born 2002)",
+      "place_of_birth_qid": "Q11974",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 1.72,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q12297",
+          "start": "2020-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19467",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19467",
+      "image_filename": "Manchester United v Villarreal CF, 29 September 2021 (07) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Y%C3%A9remy_Pino",
+      "transfermarkt_id": "568157",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Las Palmas de Gran Canaria",
+      "wikidata_current_club": "Crystal Palace F.C.",
+      "wikidata_current_club_qid": "Q19467",
+      "photo": {
+        "filename": "Manchester United v Villarreal CF, 29 September 2021 (07) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Manchester_United_v_Villarreal_CF%2C_29_September_2021_%2807%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Manchester_United_v_Villarreal_CF%2C_29_September_2021_%2807%29_%28cropped%29.jpg",
+        "width": 232,
+        "height": 352,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/yéremy-pino.jpg"
+      }
+    },
+    {
+      "slug": "álex-baena",
+      "display_name": "Álex Baena",
+      "shirt_no": 15,
+      "position_code": "FW",
+      "dob": "2001-07-20",
+      "age": 24,
+      "caps": 15,
+      "goals": 2,
+      "club_from_squad_table": "Atlético Madrid",
+      "wikipedia_title": "Álex Baena",
+      "date_of_birth": "2001-07-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlético Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q97404267",
+      "qid": "Q97404267",
+      "name": "Álex Baena",
+      "description": "Spanish association football player",
+      "place_of_birth_qid": "Q499184",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 1.74,
+      "teams": [
+        {
+          "team_qid": "Q3321644",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1094113",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2020-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q11945",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2025-07-02",
+          "end": null
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8701",
+      "image_filename": "Álex Baena 2019.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lex_Baena",
+      "transfermarkt_id": "548111",
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Roquetas de Mar",
+      "photo": {
+        "filename": "Álex Baena 2019.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/%C3%81lex_Baena_2019.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%C3%81lex_Baena_2019.jpg/960px-%C3%81lex_Baena_2019.jpg",
+        "width": 1792,
+        "height": 3240,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Pedro  Semitiel",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/álex-baena.jpg"
+      }
+    },
+    {
+      "slug": "lamine-yamal",
+      "display_name": "Lamine Yamal",
+      "shirt_no": 19,
+      "position_code": "FW",
+      "dob": "2007-07-13",
+      "age": 18,
+      "caps": 25,
+      "goals": 6,
+      "club_from_squad_table": "Barcelona",
+      "wikipedia_title": "Lamine Yamal",
+      "date_of_birth": "2007-07-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barcelona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q113704154",
+      "qid": "Q113704154",
+      "name": "Lamine Yamal",
+      "description": "Spanish footballer",
+      "place_of_birth_qid": "Q15621",
+      "citizenship_qids": [
+        "Q29",
+        "Q983"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q6124177",
+          "start": "2022-02-01",
+          "end": "2022-05-05"
+        },
+        {
+          "team_qid": "Q3873503",
+          "start": "2021-09-21",
+          "end": "2021-11-26"
+        },
+        {
+          "team_qid": "Q2310295",
+          "start": "2022-10-16",
+          "end": "2023-05-30"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2022-10-25",
+          "end": "2022-10-25"
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2023-09-08",
+          "end": null
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2023-07-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q7156",
+      "image_filename": "Lamine Yamal in 2025 (cropped2).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lamine_Yamal",
+      "transfermarkt_id": "937958",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "Spain",
+        "Equatorial Guinea"
+      ],
+      "place_of_birth": "Esplugues de Llobregat",
+      "wikidata_current_club": "Futbol Club Barcelona",
+      "wikidata_current_club_qid": "Q7156",
+      "photo": {
+        "filename": "Lamine Yamal in 2025 (cropped2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lamine_Yamal_in_2025_%28cropped2%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lamine_Yamal_in_2025_%28cropped2%29.jpg/960px-Lamine_Yamal_in_2025_%28cropped2%29.jpg",
+        "width": 1988,
+        "height": 2653,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Biso\" title=\"User:Biso\">Biso</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lamine-yamal.jpg"
+      }
+    },
+    {
+      "slug": "mikel-oyarzabal",
+      "display_name": "Mikel Oyarzabal",
+      "shirt_no": 21,
+      "position_code": "FW",
+      "dob": "1997-04-21",
+      "age": 29,
+      "caps": 52,
+      "goals": 24,
+      "club_from_squad_table": "Real Sociedad",
+      "wikipedia_title": "Mikel Oyarzabal",
+      "date_of_birth": "1997-04-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Sociedad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21195147",
+      "qid": "Q21195147",
+      "name": "Mikel Oyarzabal",
+      "description": "Spanish association football player (born 1997)",
+      "place_of_birth_qid": "Q496567",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 1.81,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q6037916"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1067750",
+          "start": "2013-00-00",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q10315",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3589784",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2016-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q738846",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q770740",
+          "start": null,
+          "end": "2011-00-00"
+        },
+        {
+          "team_qid": "Q10315",
+          "start": "2011-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q770740",
+          "start": "2013-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q2637337",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        }
+      ],
+      "current_club_qid": "Q10315",
+      "image_filename": "Oyarzabal Spain football team in 2025 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mikel_Oyarzabal",
+      "transfermarkt_id": "351478",
+      "fifa_player_id": "201447843",
+      "positions": [
+        "inside forward"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Eibar",
+      "photo": {
+        "filename": "Oyarzabal Spain football team in 2025 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Oyarzabal_Spain_football_team_in_2025_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Oyarzabal_Spain_football_team_in_2025_%28cropped%29.jpg/960px-Oyarzabal_Spain_football_team_in_2025_%28cropped%29.jpg",
+        "width": 1086,
+        "height": 1449,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Biso\" title=\"User:Biso\">Biso</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mikel-oyarzabal.jpg"
+      }
+    },
+    {
+      "slug": "víctor-muñoz",
+      "display_name": "Víctor Muñoz",
+      "shirt_no": 25,
+      "position_code": "FW",
+      "dob": "2003-07-13",
+      "age": 22,
+      "caps": 2,
+      "goals": 1,
+      "club_from_squad_table": "Osasuna",
+      "wikipedia_title": "Víctor Muñoz (footballer, born 2003)",
+      "date_of_birth": "2003-07-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Osasuna",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q121422889",
+      "qid": "Q121422889",
+      "name": "Víctor Muñoz Villanueva",
+      "description": "Spanish footballer (born 2003)",
+      "place_of_birth_qid": "Q1492",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 1.73,
+      "position_qids": [
+        "Q193592",
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q12217",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q12217",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%ADctor_Mu%C3%B1oz_(footballer,_born_2003)",
+      "transfermarkt_id": "935231",
+      "positions": [
+        "midfielder",
+        "forward"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Barcelona",
+      "wikidata_current_club": "Real Madrid Castilla",
+      "wikidata_current_club_qid": "Q12217",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ander-barrenetxea",
+      "display_name": "Ander Barrenetxea",
+      "shirt_no": 26,
+      "position_code": "FW",
+      "dob": "2001-12-27",
+      "age": 24,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Real Sociedad",
+      "wikipedia_title": "Ander Barrenetxea (footballer)",
+      "date_of_birth": "2001-12-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Sociedad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q59823403",
+      "qid": "Q59823403",
+      "name": "Ander Barrenetxea Muguruza",
+      "description": "Spanish association football player",
+      "place_of_birth_qid": "Q10313",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q10315",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q8246700",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1067750",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1967477",
+          "start": "2011-00-00",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q10315",
+          "start": "2013-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q3589784",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1129595",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q42267",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q10315",
+      "image_filename": "Ander Barrenetxea 2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ander_Barrenetxea_(footballer)",
+      "transfermarkt_id": "616369",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "San Sebastián",
+      "photo": {
+        "filename": "Ander Barrenetxea 2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ander_Barrenetxea_2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ander_Barrenetxea_2018.jpg",
+        "width": 332,
+        "height": 408,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/129346400@N03\">Giovanni Batista Rodriguez</a> from San Sebastian-Donostia, España",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ander-barrenetxea.jpg"
+      }
+    }
+  ],
+  "notes": [
+    "Spain row/QID/photo audit 2026-05-24: no public Spain 2026 World Cup final/provisional squad table was found; RFEF says Luis de la Fuente will announce the 26-player World Cup list on 2026-05-25 at 12:30. The local file therefore uses the Spain national-team current-squad fallback, cross-checked against RFEF March 2026 call-up context where available. Verifier confirmed all 26 local rows and QID identities under that fallback caveat. Pablo Fornals DOB corrected to 1996-02-22 from UEFA/LaLiga/enwiki/Wikidata agreement while preserving the fallback-table DOB conflict. Cristhian Mosquera and Víctor Muñoz had no clean Wikimedia portrait, P18 image, or pageimage and are marked reviewed-none."
+  ]
+}

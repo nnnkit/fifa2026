@@ -1,0 +1,93 @@
+{
+  "slug": "johan-mojica",
+  "display_name": "Johan Mojica",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1992-08-21",
+  "age": 33,
+  "caps": 43,
+  "goals": 1,
+  "club_from_squad_table": "Mallorca",
+  "wikipedia_title": "Johan Mojica",
+  "date_of_birth": "1992-08-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Mallorca",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q5932872",
+  "qid": "Q5932872",
+  "name": "Johan Mojica",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q51103",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q663400",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q10319",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q10300",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q4671072",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q6661327",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q10300",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q212564",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q10319",
+  "image_filename": "FWC 2018 - Round of 16 - COL v ENG - Photo 102 (cropped) 2.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johan_Mojica",
+  "transfermarkt_id": "262939",
+  "fifa_player_id": "394500",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Cali",
+  "wikidata_current_club": "Real Valladolid",
+  "wikidata_current_club_qid": "Q10319",
+  "photo": {
+    "filename": "FWC 2018 - Round of 16 - COL v ENG - Photo 102 (cropped) 2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_102_%28cropped%29_2.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_102_%28cropped%29_2.jpg",
+    "width": 545,
+    "height": 905,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Voltmetro\" title=\"User:Voltmetro\">Oleg Bkhambri (Voltmetro)</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/johan-mojica.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

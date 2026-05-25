@@ -1,0 +1,64 @@
+{
+  "slug": "hussein-ali",
+  "display_name": "Hussein Ali",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2002-03-01",
+  "age": 24,
+  "caps": 25,
+  "goals": 1,
+  "club_from_squad_table": "Pogo\u0144 Szczecin",
+  "wikipedia_title": "Hussein Ali (footballer, born 2002)",
+  "date_of_birth": "2002-03-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Pogo\u0144 Szczecin",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q85767808",
+  "qid": "Q85767808",
+  "name": "Hussein Ali",
+  "description": "Swedish-Iraqi footballer",
+  "place_of_birth_qid": "Q2211",
+  "citizenship_qids": [
+    "Q34",
+    "Q796"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q260559",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q260559",
+  "image_filename": "GAE - SC Heerenveen -Hussein Ali.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hussein_Ali_(footballer,_born_2002)",
+  "transfermarkt_id": "585325",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Sweden",
+    "Iraq"
+  ],
+  "place_of_birth": "Malm\u00f6",
+  "wikidata_current_club": "\u00d6rebro SK",
+  "wikidata_current_club_qid": "Q260559",
+  "photo": {
+    "filename": "GAE - SC Heerenveen -Hussein Ali.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/GAE_-_SC_Heerenveen_-Hussein_Ali.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/GAE_-_SC_Heerenveen_-Hussein_Ali.jpg",
+    "width": 587,
+    "height": 1024,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Carlo Bruil Fotografie",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/hussein-ali.jpg"
+  },
+  "team_slug": "iraq",
+  "team_country": "Iraq"
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "ali-olwan",
+  "display_name": "Ali Olwan",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-03-26",
+  "age": 26,
+  "caps": 64,
+  "goals": 29,
+  "club_from_squad_table": "Al-Sailiya",
+  "wikipedia_title": "Ali Olwan",
+  "date_of_birth": "2000-03-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Sailiya",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q107130635",
+  "qid": "Q107130635",
+  "name": "Ali Olwan",
+  "description": "Jordanian footballer",
+  "place_of_birth_qid": "Q3805",
+  "citizenship_qids": [
+    "Q810"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q4702627",
+      "start": "2018-07-00",
+      "end": "2021-12-00"
+    },
+    {
+      "team_qid": "Q812760",
+      "start": "2022-01-00",
+      "end": "2024-08-00"
+    },
+    {
+      "team_qid": "Q283981",
+      "start": "2024-02-00",
+      "end": "2024-06-00"
+    },
+    {
+      "team_qid": "Q1835695",
+      "start": "2024-08-00",
+      "end": "2025-07-00"
+    },
+    {
+      "team_qid": "Q118900487",
+      "start": "2025-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q11144859",
+      "start": "2020-01-00",
+      "end": "2021-10-00"
+    },
+    {
+      "team_qid": "Q275940",
+      "start": "2020-11-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q118900487",
+  "image_filename": "Ali Olwan.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Olwan",
+  "transfermarkt_id": "664057",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Jordan"
+  ],
+  "place_of_birth": "Amman",
+  "wikidata_current_club": "Al-Karma SC",
+  "wikidata_current_club_qid": "Q118900487",
+  "photo": {
+    "filename": "Ali Olwan.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Ali_Olwan.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Ali_Olwan.png",
+    "width": 720,
+    "height": 1130,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "M.Sadegh Nikgostar",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ali-olwan.png"
+  },
+  "team_slug": "jordan",
+  "team_country": "Jordan"
+}

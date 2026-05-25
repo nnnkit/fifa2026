@@ -1,0 +1,108 @@
+{
+  "slug": "hwang-hee-chan",
+  "display_name": "Hwang Hee-chan",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-01-26",
+  "age": 30,
+  "caps": 77,
+  "goals": 16,
+  "club_from_squad_table": "Wolverhampton Wanderers",
+  "wikipedia_title": "Hwang Hee-chan",
+  "wikidata_qid": "Q18551518",
+  "qid": "Q18551518",
+  "name": "Hwang Hee-chan",
+  "description": "South Korean association football player (born 1996)",
+  "date_of_birth": "1996-01-26",
+  "place_of_birth_qid": "Q42148",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 177.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1387293",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q994811",
+      "start": "2015-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q493401",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q495929",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q488454",
+      "start": "2015-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q543842",
+      "start": "2016-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q702455",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q19500",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q51974",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q19500",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    }
+  ],
+  "current_club_qid": "Q19500",
+  "image_filename": "240622 황희찬 풋볼 페스티벌.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hwang_Hee-chan",
+  "transfermarkt_id": "292246",
+  "fifa_player_id": "395083",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Wolverhampton Wanderers",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "Chuncheon",
+  "wikidata_current_club": "Wolverhampton Wanderers F.C.",
+  "wikidata_current_club_qid": "Q19500",
+  "photo": {
+    "filename": "240622 황희찬 풋볼 페스티벌.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/240622_%ED%99%A9%ED%9D%AC%EC%B0%AC_%ED%92%8B%EB%B3%BC_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/240622_%ED%99%A9%ED%9D%AC%EC%B0%AC_%ED%92%8B%EB%B3%BC_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C.jpg/960px-240622_%ED%99%A9%ED%9D%AC%EC%B0%AC_%ED%92%8B%EB%B3%BC_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C.jpg",
+    "width": 1600,
+    "height": 2000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/hwang-hee-chan.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

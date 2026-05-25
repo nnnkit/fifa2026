@@ -1,0 +1,58 @@
+{
+  "slug": "ahmed-al-ganehi",
+  "display_name": "Ahmed Al-Ganehi",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-09-22",
+  "age": 25,
+  "caps": 13,
+  "goals": 1,
+  "club_from_squad_table": "Al-Gharafa",
+  "wikipedia_title": "Ahmed Al-Ganehi",
+  "date_of_birth": "2000-09-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Gharafa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q61983513",
+  "qid": "Q61983513",
+  "name": "Ahmed Al-Ganehi",
+  "description": "Qatari footballer",
+  "place_of_birth_qid": "Q3861",
+  "citizenship_qids": [
+    "Q846"
+  ],
+  "height_cm": 1.78,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q428211",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q428211",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_Al-Ganehi",
+  "transfermarkt_id": "670659",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Qatar"
+  ],
+  "place_of_birth": "Doha",
+  "wikidata_current_club": "Al-Gharafa SC",
+  "wikidata_current_club_qid": "Q428211",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "carlos-soler",
+  "display_name": "Carlos Soler",
+  "shirt_no": 8,
+  "position_code": "MF",
+  "dob": "1997-01-02",
+  "age": 29,
+  "caps": 15,
+  "goals": 4,
+  "club_from_squad_table": "Real Sociedad",
+  "wikipedia_title": "Carlos Soler",
+  "date_of_birth": "1997-01-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Sociedad",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26707913",
+  "qid": "Q26707913",
+  "name": "Carlos Soler",
+  "description": "Spanish association football player (born 1997)",
+  "place_of_birth_qid": "Q8818",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q10333",
+      "start": "2016-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1129595",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2022-00-00",
+      "end": "2025-09-01"
+    },
+    {
+      "team_qid": "Q18747",
+      "start": "2024-08-30",
+      "end": "2025-06-00"
+    },
+    {
+      "team_qid": "Q10315",
+      "start": "2025-09-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q10315",
+  "image_filename": "Carlos Soler 2020.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Soler",
+  "transfermarkt_id": "372246",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Valencia",
+  "photo": {
+    "filename": "Carlos Soler 2020.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Carlos_Soler_2020.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Carlos_Soler_2020.png/960px-Carlos_Soler_2020.png",
+    "width": 1217,
+    "height": 1076,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Valencia CF",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/carlos-soler.png"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain"
+}

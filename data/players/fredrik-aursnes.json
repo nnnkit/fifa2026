@@ -1,0 +1,77 @@
+{
+  "slug": "fredrik-aursnes",
+  "display_name": "Fredrik Aursnes",
+  "shirt_no": 14,
+  "position_code": "MF",
+  "dob": "1995-12-10",
+  "age": 30,
+  "caps": 20,
+  "goals": 1,
+  "club_from_squad_table": "Benfica",
+  "wikipedia_title": "Fredrik Aursnes",
+  "date_of_birth": "1995-12-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Benfica",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20090180",
+  "qid": "Q20090180",
+  "name": "Fredrik Aursnes",
+  "description": "Norwegian association football player (born 1995)",
+  "place_of_birth_qid": "Q494029",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 179.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q208552",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q129565",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q2446294",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873512",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    }
+  ],
+  "current_club_qid": "Q208552",
+  "image_filename": "Zenit-Mo;de (6) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fredrik_Aursnes",
+  "transfermarkt_id": "223367",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "Hareid",
+  "wikidata_current_club": "Molde FK",
+  "wikidata_current_club_qid": "Q208552",
+  "photo": {
+    "filename": "Zenit-Mo;de (6) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Zenit-Mo%3Bde_%286%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Zenit-Mo%3Bde_%286%29_%28cropped%29.jpg",
+    "width": 482,
+    "height": 799,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u041a\u0438\u0440\u0438\u043b\u043b \u0412\u0435\u043d\u0435\u0434\u0438\u043a\u0442\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/fredrik-aursnes.jpg"
+  },
+  "team_slug": "norway",
+  "team_country": "Norway"
+}

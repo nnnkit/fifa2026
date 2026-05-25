@@ -1,0 +1,62 @@
+{
+  "slug": "aribim-pepple",
+  "display_name": "Aribim Pepple",
+  "shirt_no": 14,
+  "position_code": "FW",
+  "dob": "2002-12-25",
+  "age": 23,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Plymouth Argyle",
+  "wikipedia_title": "Aribim Pepple",
+  "wikidata_qid": "Q66363762",
+  "qid": "Q66363762",
+  "name": "Aribim Pepple",
+  "description": "English association football player (born 2002)",
+  "date_of_birth": "2002-12-25",
+  "place_of_birth_qid": "Q984613",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19876568",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19876568",
+  "image_filename": "Aribim Pepple of Cavalry FC.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aribim_Pepple",
+  "transfermarkt_id": "696502",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Plymouth Argyle",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Kettering",
+  "wikidata_current_club": "Calgary Foothills FC",
+  "wikidata_current_club_qid": "Q19876568",
+  "photo": {
+    "filename": "Aribim Pepple of Cavalry FC.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Aribim_Pepple_of_Cavalry_FC.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Aribim_Pepple_of_Cavalry_FC.jpg",
+    "width": 334,
+    "height": 379,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/29442760@N00\">A Disappearing Act</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/aribim-pepple.jpg"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

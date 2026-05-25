@@ -1,0 +1,62 @@
+{
+  "slug": "kevin-felida",
+  "display_name": "Kevin Felida",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1999-11-11",
+  "age": 26,
+  "caps": 19,
+  "goals": 1,
+  "club_from_squad_table": "Den Bosch",
+  "wikipedia_title": "Kevin Felida",
+  "date_of_birth": "1999-11-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Den Bosch",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q46709013",
+  "qid": "Q46709013",
+  "name": "Kevin Felida",
+  "description": "Curacaoan footballer",
+  "place_of_birth_qid": "Q488545",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 172.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q875169",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q875169",
+  "image_filename": "Kevin felida-1571753982.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Felida",
+  "transfermarkt_id": "433933",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Spijkenisse",
+  "wikidata_current_club": "FC Den Bosch",
+  "wikidata_current_club_qid": "Q875169",
+  "photo": {
+    "filename": "Kevin felida-1571753982.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kevin_felida-1571753982.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kevin_felida-1571753982.jpg",
+    "width": 674,
+    "height": 674,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Pascal Juinen",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kevin-felida.jpg"
+  },
+  "team_slug": "curaçao",
+  "team_country": "Curaçao"
+}

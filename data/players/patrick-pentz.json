@@ -1,0 +1,83 @@
+{
+  "slug": "patrick-pentz",
+  "display_name": "Patrick Pentz",
+  "shirt_no": 13,
+  "position_code": "GK",
+  "dob": "1997-01-02",
+  "age": 29,
+  "caps": 18,
+  "goals": 0,
+  "club_from_squad_table": "Br\u00f8ndby",
+  "wikipedia_title": "Patrick Pentz",
+  "date_of_birth": "1997-01-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Br\u00f8ndby",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q24068400",
+  "qid": "Q24068400",
+  "name": "Patrick Pentz",
+  "description": "Austrian association football player",
+  "place_of_birth_qid": "Q34713",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 1.86,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q131209",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q131209",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q4825450",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q302954",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q303033",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q131209",
+  "image_filename": "Pentz (2024).png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Pentz",
+  "transfermarkt_id": "223972",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Salzburg",
+  "wikidata_current_club": "FK Austria Wien",
+  "wikidata_current_club_qid": "Q131209",
+  "photo": {
+    "filename": "Pentz (2024).png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pentz_%282024%29.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pentz_%282024%29.png",
+    "width": 706,
+    "height": 622,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "3point.dk",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/patrick-pentz.png"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

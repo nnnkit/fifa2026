@@ -1,0 +1,92 @@
+{
+  "slug": "ben-old",
+  "display_name": "Ben Old",
+  "shirt_no": 19,
+  "position_code": "MF",
+  "dob": "2002-08-13",
+  "age": 23,
+  "caps": 22,
+  "goals": 2,
+  "club_from_squad_table": "Saint-\u00c9tienne",
+  "wikipedia_title": "Ben Old",
+  "date_of_birth": "2002-08-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Saint-\u00c9tienne",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q106939313",
+  "qid": "Q106939313",
+  "name": "Ben Old",
+  "description": "New Zealand footballer",
+  "place_of_birth_qid": "Q37100",
+  "citizenship_qids": [
+    "Q664"
+  ],
+  "height_cm": 173.0,
+  "position_qids": [
+    "Q1369558"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18397899",
+      "start": "2019-07-00",
+      "end": "2021-02-00"
+    },
+    {
+      "team_qid": "Q2744301",
+      "start": "2021-03-00",
+      "end": "2021-09-00"
+    },
+    {
+      "team_qid": "Q815890",
+      "start": "2021-09-00",
+      "end": "2024-07-00"
+    },
+    {
+      "team_qid": "Q19521",
+      "start": "2024-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590285",
+      "start": "2018-09-00",
+      "end": "2019-11-00"
+    },
+    {
+      "team_qid": "Q20993912",
+      "start": "2023-03-00",
+      "end": "2023-03-00"
+    },
+    {
+      "team_qid": "Q175315",
+      "start": "2022-03-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19521",
+  "image_filename": "Ben Old playing for Wellington v Perth, March 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ben_Old",
+  "transfermarkt_id": "617021",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "New Zealand"
+  ],
+  "place_of_birth": "Auckland",
+  "wikidata_current_club": "AS Saint-\u00c9tienne",
+  "wikidata_current_club_qid": "Q19521",
+  "photo": {
+    "filename": "Ben Old playing for Wellington v Perth, March 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Ben_Old_playing_for_Wellington_v_Perth%2C_March_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ben_Old_playing_for_Wellington_v_Perth%2C_March_2022.jpg/960px-Ben_Old_playing_for_Wellington_v_Perth%2C_March_2022.jpg",
+    "width": 1621,
+    "height": 3363,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Macosal&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Macosal (page does not exist)\">Macosal</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ben-old.jpg"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand"
+}

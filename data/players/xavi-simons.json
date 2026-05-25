@@ -1,0 +1,117 @@
+{
+  "slug": "xavi-simons",
+  "display_name": "Xavi Simons",
+  "shirt_no": 7,
+  "position_code": "MF",
+  "dob": "2003-04-21",
+  "age": 23,
+  "caps": 34,
+  "goals": 6,
+  "club_from_squad_table": "Tottenham Hotspur",
+  "wikipedia_title": "Xavi Simons",
+  "date_of_birth": "2003-04-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Tottenham Hotspur",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q65925174",
+  "qid": "Q65925174",
+  "name": "Xavi Simons",
+  "description": "Dutch association football player (born 2003)",
+  "place_of_birth_qid": "Q727",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 179.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q483020",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q11938",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2023-07-18",
+      "end": "2025-01-30"
+    },
+    {
+      "team_qid": "Q702455",
+      "start": "2023-07-19",
+      "end": "2025-01-30"
+    },
+    {
+      "team_qid": "Q61768534",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q29526205",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q601723",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q514714",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2022-12-03",
+      "end": null
+    },
+    {
+      "team_qid": "Q702455",
+      "start": "2025-01-30",
+      "end": "2025-08-00"
+    },
+    {
+      "team_qid": "Q18741",
+      "start": "2025-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18741",
+  "image_filename": "Xavi Simons, Nick Verhagen in duel met Xavi Simons.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Xavi_Simons",
+  "transfermarkt_id": "566931",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Amsterdam",
+  "wikidata_current_club": "Tottenham Hotspur F.C.",
+  "wikidata_current_club_qid": "Q18741",
+  "photo": {
+    "filename": "Xavi Simons, Nick Verhagen in duel met Xavi Simons.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Xavi_Simons%2C_Nick_Verhagen_in_duel_met_Xavi_Simons.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Xavi_Simons%2C_Nick_Verhagen_in_duel_met_Xavi_Simons.jpg",
+    "width": 547,
+    "height": 996,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Graafdegraaf&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Graafdegraaf (page does not exist)\">Graafdegraaf</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/xavi-simons.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

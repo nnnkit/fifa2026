@@ -1,0 +1,78 @@
+{
+  "slug": "kr\u00e9pin-diatta",
+  "display_name": "Kr\u00e9pin Diatta",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-02-25",
+  "age": 27,
+  "caps": 59,
+  "goals": 2,
+  "club_from_squad_table": "Monaco",
+  "wikipedia_title": "Kr\u00e9pin Diatta",
+  "date_of_birth": "1999-02-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Monaco",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q29168109",
+  "qid": "Q29168109",
+  "name": "Krepin Diatta",
+  "description": "Senegalese association football player",
+  "place_of_birth_qid": "Q3718",
+  "citizenship_qids": [
+    "Q1041"
+  ],
+  "height_cm": 1.75,
+  "weight_kg": 68.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1151909",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q190916",
+      "start": "2018-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q180305",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q207441",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q180305",
+  "image_filename": "Diatta asse asm 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kr%C3%A9pin_Diatta",
+  "transfermarkt_id": "490426",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Senegal"
+  ],
+  "place_of_birth": "Dakar",
+  "wikidata_current_club": "AS Monaco FC",
+  "wikidata_current_club_qid": "Q180305",
+  "photo": {
+    "filename": "Diatta asse asm 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Diatta_asse_asm_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Diatta_asse_asm_2425.png",
+    "width": 668,
+    "height": 850,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kr\u00e9pin-diatta.png"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

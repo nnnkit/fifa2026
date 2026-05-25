@@ -1,0 +1,75 @@
+{
+  "slug": "walter-benítez",
+  "display_name": "Walter Benítez",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1993-01-19",
+  "age": 33,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Crystal Palace",
+  "wikipedia_title": "Walter Benítez (footballer)",
+  "wikidata_qid": "Q17064018",
+  "qid": "Q17064018",
+  "name": "Walter Benítez",
+  "description": "Argentine association football player (born 1993)",
+  "date_of_birth": "1993-01-19",
+  "place_of_birth_qid": "Q781245",
+  "citizenship_qids": [
+    "Q414",
+    "Q142"
+  ],
+  "height_cm": 191.0,
+  "weight_kg": 91.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1187790",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q775966",
+      "start": "2012-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q185163",
+      "start": "2016-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q185163",
+  "image_filename": "Walter benitez 2016.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Ben%C3%ADtez_(footballer)",
+  "transfermarkt_id": "296802",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Crystal Palace",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Argentina",
+    "France"
+  ],
+  "place_of_birth": "General San Martín",
+  "wikidata_current_club": "OGC Nice",
+  "wikidata_current_club_qid": "Q185163",
+  "photo": {
+    "filename": "Walter benitez 2016.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Walter_benitez_2016.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Walter_benitez_2016.jpg",
+    "width": 740,
+    "height": 1250,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:FedeQKC\" title=\"User:FedeQKC\">FedeQKC</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/walter-benítez.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

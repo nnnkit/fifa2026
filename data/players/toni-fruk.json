@@ -1,0 +1,44 @@
+{
+  "slug": "toni-fruk",
+  "display_name": "Toni Fruk",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2001-04-09",
+  "age": 25,
+  "caps": 7,
+  "goals": 1,
+  "club_from_squad_table": "Rijeka",
+  "wikipedia_title": "Toni Fruk",
+  "date_of_birth": "2001-04-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Rijeka",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q109587383",
+  "qid": "Q109587383",
+  "name": "Toni Fruk",
+  "description": "Croatian association football player (born 2001)",
+  "place_of_birth_qid": "Q397652",
+  "citizenship_qids": [
+    "Q224"
+  ],
+  "height_cm": 174.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Toni_Fruk",
+  "transfermarkt_id": "432758",
+  "wikidata_date_of_birth": "2001-03-09",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Croatia"
+  ],
+  "place_of_birth": "Na\u0161ice",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+  },
+  "team_slug": "croatia",
+  "team_country": "Croatia"
+}

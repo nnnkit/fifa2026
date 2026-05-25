@@ -1,0 +1,83 @@
+{
+  "slug": "willian-pacho",
+  "display_name": "Willian Pacho",
+  "shirt_no": 6,
+  "position_code": "DF",
+  "dob": "2001-10-16",
+  "age": 24,
+  "caps": 34,
+  "goals": 2,
+  "club_from_squad_table": "Paris Saint-Germain",
+  "wikipedia_title": "Willian Pacho",
+  "date_of_birth": "2001-10-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Paris Saint-Germain",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q87767569",
+  "qid": "Q87767569",
+  "name": "Willian Pacho",
+  "description": "Ecuadorian association football player",
+  "place_of_birth_qid": "Q7367138",
+  "citizenship_qids": [
+    "Q736"
+  ],
+  "height_cm": 1.87,
+  "weight_kg": 81.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q249648",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q732002",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q38245",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2024-08-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q987584",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q483020",
+  "image_filename": "Pacho asse psg 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Willian_Pacho",
+  "transfermarkt_id": "661171",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Ecuador"
+  ],
+  "place_of_birth": "Rosa Z\u00e1rate",
+  "wikidata_current_club": "Paris Saint-Germain FC",
+  "wikidata_current_club_qid": "Q483020",
+  "photo": {
+    "filename": "Pacho asse psg 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pacho_asse_psg_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pacho_asse_psg_2425.png",
+    "width": 500,
+    "height": 772,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/willian-pacho.png"
+  },
+  "team_slug": "ecuador",
+  "team_country": "Ecuador"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "antonio-nusa",
+  "display_name": "Antonio Nusa",
+  "shirt_no": 20,
+  "position_code": "MF",
+  "dob": "2005-04-17",
+  "age": 21,
+  "caps": 22,
+  "goals": 7,
+  "club_from_squad_table": "RB Leipzig",
+  "wikipedia_title": "Antonio Nusa",
+  "date_of_birth": "2005-04-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "RB Leipzig",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q107357509",
+  "qid": "Q107357509",
+  "name": "Antonio Nusa",
+  "description": "Norwegian association football player",
+  "place_of_birth_qid": "Q6486124",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q217233",
+      "start": "2021-05-06",
+      "end": "2021-08-30"
+    },
+    {
+      "team_qid": "Q190916",
+      "start": "2021-08-31",
+      "end": "2024-08-12"
+    },
+    {
+      "team_qid": "Q702455",
+      "start": "2024-08-13",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q702455",
+  "image_filename": "Norway Italy - June 2025 C 23.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_Nusa",
+  "transfermarkt_id": "894914",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "Langhus",
+  "photo": {
+    "filename": "Norway Italy - June 2025 C 23.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Norway_Italy_-_June_2025_C_23.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Norway_Italy_-_June_2025_C_23.jpg/960px-Norway_Italy_-_June_2025_C_23.jpg",
+    "width": 2686,
+    "height": 4029,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/antonio-nusa.jpg"
+  },
+  "team_slug": "norway",
+  "team_country": "Norway"
+}

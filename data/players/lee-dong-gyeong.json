@@ -1,0 +1,77 @@
+{
+  "slug": "lee-dong-gyeong",
+  "display_name": "Lee Dong-gyeong",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-09-20",
+  "age": 28,
+  "caps": 16,
+  "goals": 3,
+  "club_from_squad_table": "Ulsan HD",
+  "wikipedia_title": "Lee Dong-gyeong",
+  "wikidata_qid": "Q62961021",
+  "qid": "Q62961021",
+  "name": "Lee Dong-gyeong",
+  "description": "South Korean footballer (1997-)",
+  "date_of_birth": "1997-09-20",
+  "place_of_birth_qid": "Q884",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 175.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q129673",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1833814",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q32494",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q142005",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q142005",
+  "image_filename": "250303 FC 서울 vs 김천 (이동경).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Dong-gyeong",
+  "transfermarkt_id": "558086",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Ulsan HD",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "South Korea",
+  "wikidata_current_club": "F.C. Hansa Rostock",
+  "wikidata_current_club_qid": "Q142005",
+  "photo": {
+    "filename": "250303 FC 서울 vs 김천 (이동경).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/250303_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B9%80%EC%B2%9C_%28%EC%9D%B4%EB%8F%99%EA%B2%BD%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/250303_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B9%80%EC%B2%9C_%28%EC%9D%B4%EB%8F%99%EA%B2%BD%29.jpg/960px-250303_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B9%80%EC%B2%9C_%28%EC%9D%B4%EB%8F%99%EA%B2%BD%29.jpg",
+    "width": 1600,
+    "height": 2000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lee-dong-gyeong.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

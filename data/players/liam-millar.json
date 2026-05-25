@@ -1,0 +1,67 @@
+{
+  "slug": "liam-millar",
+  "display_name": "Liam Millar",
+  "shirt_no": 11,
+  "position_code": "MF",
+  "dob": "1999-09-27",
+  "age": 26,
+  "caps": 39,
+  "goals": 1,
+  "club_from_squad_table": "Hull City",
+  "wikipedia_title": "Liam Millar",
+  "wikidata_qid": "Q50505969",
+  "qid": "Q50505969",
+  "name": "Liam Millar",
+  "description": "Canadian soccer player",
+  "date_of_birth": "1999-09-27",
+  "place_of_birth_qid": "Q172",
+  "citizenship_qids": [
+    "Q16"
+  ],
+  "height_cm": 1.81,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q208635",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q18708",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18708",
+  "image_filename": "Liam Millar.jpeg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Liam_Millar",
+  "transfermarkt_id": "487417",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Hull City",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Canada"
+  ],
+  "place_of_birth": "Toronto",
+  "wikidata_current_club": "Fulham F.C.",
+  "wikidata_current_club_qid": "Q18708",
+  "photo": {
+    "filename": "Liam Millar.jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Liam_Millar.jpeg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Liam_Millar.jpeg",
+    "width": 637,
+    "height": 1016,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/143707741@N04\">Kane Brooker</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/liam-millar.jpeg"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

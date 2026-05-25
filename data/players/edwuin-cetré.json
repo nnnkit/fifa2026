@@ -1,0 +1,53 @@
+{
+  "slug": "edwuin-cetr\u00e9",
+  "display_name": "Edwuin Cetr\u00e9",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1998-01-01",
+  "age": 28,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Estudiantes",
+  "wikipedia_title": "Edwuin Cetr\u00e9",
+  "date_of_birth": "1998-01-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Estudiantes",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q30186091",
+  "qid": "Q30186091",
+  "name": "Edwuin Cetr\u00e9",
+  "description": "association football player",
+  "place_of_birth_qid": "Q51103",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 179.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q745246",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q745246",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Edwuin_Cetr%C3%A9",
+  "transfermarkt_id": "470390",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Cali",
+  "wikidata_current_club": "Santos Laguna",
+  "wikidata_current_club_qid": "Q745246",
+  "team_slug": "colombia",
+  "team_country": "Colombia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

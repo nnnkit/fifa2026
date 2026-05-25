@@ -1,0 +1,73 @@
+{
+  "slug": "brandley-kuwas",
+  "display_name": "Brandley Kuwas",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1992-09-19",
+  "age": 33,
+  "caps": 34,
+  "goals": 2,
+  "club_from_squad_table": "Volendam",
+  "wikipedia_title": "Brandley Kuwas",
+  "date_of_birth": "1992-09-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Volendam",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q13546781",
+  "qid": "Q13546781",
+  "name": "Brandley Kuwas",
+  "description": "Curaçaoan footballer",
+  "place_of_birth_qid": "Q9938",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q738060",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q370712",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q11961",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q370712",
+  "image_filename": "Brandley Kuwas.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brandley_Kuwas",
+  "transfermarkt_id": "232219",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Hoorn",
+  "wikidata_current_club": "Excelsior Rotterdam",
+  "wikidata_current_club_qid": "Q370712",
+  "photo": {
+    "filename": "Brandley Kuwas.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Brandley_Kuwas.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Brandley_Kuwas.png",
+    "width": 750,
+    "height": 1334,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Harry Nijkamp",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/brandley-kuwas.png"
+  },
+  "team_slug": "curaçao",
+  "team_country": "Curaçao"
+}

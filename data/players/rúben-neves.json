@@ -1,0 +1,94 @@
+{
+  "slug": "r\u00faben-neves",
+  "display_name": "R\u00faben Neves",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-03-13",
+  "age": 29,
+  "caps": 65,
+  "goals": 1,
+  "club_from_squad_table": "Al-Hilal",
+  "wikipedia_title": "R\u00faben Neves",
+  "date_of_birth": "1997-03-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Hilal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q17486599",
+  "qid": "Q17486599",
+  "name": "R\u00faben Neves",
+  "description": "Portuguese association football player (born 1997)",
+  "place_of_birth_qid": "Q278925",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q6008848"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q128446",
+      "start": "2014-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q7232579",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q3590754",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q3873511",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1630430",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q3590758",
+      "start": "2016-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q267245",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q128446",
+  "image_filename": "R\u00faben Neves.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%BAben_Neves",
+  "transfermarkt_id": "225161",
+  "fifa_player_id": "395216",
+  "positions": [
+    "central midfielder"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Mozelos",
+  "wikidata_current_club": "FC Porto",
+  "wikidata_current_club_qid": "Q128446",
+  "photo": {
+    "filename": "R\u00faben Neves.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/R%C3%BAben_Neves.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/R%C3%BAben_Neves.png",
+    "width": 461,
+    "height": 533,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCaeIrxQE847rt-9KJHrPbZw\">Porto Tourism Official Portal</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/r\u00faben-neves.png"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

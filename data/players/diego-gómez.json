@@ -1,0 +1,87 @@
+{
+  "slug": "diego-gómez",
+  "display_name": "Diego Gómez",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2003-03-27",
+  "age": 23,
+  "caps": 23,
+  "goals": 3,
+  "club_from_squad_table": "Brighton & Hove Albion",
+  "wikipedia_title": "Diego Gómez (Paraguayan footballer)",
+  "date_of_birth": "2003-03-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Brighton & Hove Albion",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q115978703",
+  "qid": "Q115978703",
+  "name": "Diego Gómez",
+  "description": "Paraguayan association football player (born 2003)",
+  "place_of_birth_qid": "Q530895",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q848642",
+      "start": "2022-05-00",
+      "end": "2023-07-00"
+    },
+    {
+      "team_qid": "Q16844931",
+      "start": "2023-07-00",
+      "end": "2024-12-00"
+    },
+    {
+      "team_qid": "Q3328932",
+      "start": "2022-06-00",
+      "end": "2023-02-00"
+    },
+    {
+      "team_qid": "Q16847286",
+      "start": "2023-12-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q172020",
+      "start": "2022-08-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19453",
+      "start": "2025-01-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19453",
+  "image_filename": "Diego Gomez 2023 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_G%C3%B3mez_(Paraguayan_footballer)",
+  "transfermarkt_id": "996897",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "San Juan Bautista",
+  "wikidata_current_club": "Brighton & Hove Albion F.C.",
+  "wikidata_current_club_qid": "Q19453",
+  "photo": {
+    "filename": "Diego Gomez 2023 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Diego_Gomez_2023_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Diego_Gomez_2023_%28cropped%29.jpg",
+    "width": 675,
+    "height": 929,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:TheSoccerBoy\" title=\"User:TheSoccerBoy\">TheSoccerBoy</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/diego-gómez.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

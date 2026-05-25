@@ -1,0 +1,62 @@
+{
+  "slug": "yunus-akgün",
+  "display_name": "Yunus Akgün",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-07-07",
+  "age": 25,
+  "caps": 17,
+  "goals": 3,
+  "club_from_squad_table": "Galatasaray",
+  "wikipedia_title": "Yunus Akgün",
+  "date_of_birth": "2000-07-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Galatasaray",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q56043430",
+  "qid": "Q56043430",
+  "name": "Yunus Akgün",
+  "description": "Turkish association football player (born 2000)",
+  "place_of_birth_qid": "Q639240",
+  "citizenship_qids": [
+    "Q43"
+  ],
+  "height_cm": 1.73,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q495299",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q495299",
+  "image_filename": "Yunus Akgün 20220225 7 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yunus_Akg%C3%BCn",
+  "transfermarkt_id": "396908",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Turkey"
+  ],
+  "place_of_birth": "Küçükçekmece",
+  "wikidata_current_club": "Galatasaray S.K.",
+  "wikidata_current_club_qid": "Q495299",
+  "photo": {
+    "filename": "Yunus Akgün 20220225 7 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Yunus_Akg%C3%BCn_20220225_7_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Yunus_Akg%C3%BCn_20220225_7_%28cropped%29.jpg/960px-Yunus_Akg%C3%BCn_20220225_7_%28cropped%29.jpg",
+    "width": 962,
+    "height": 1435,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/194383345@N04\">Antalyaspor A.Ş.</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/yunus-akgün.jpg"
+  },
+  "team_slug": "turkey",
+  "team_country": "Turkey"
+}

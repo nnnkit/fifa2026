@@ -1,0 +1,43 @@
+{
+  "slug": "ronaldo-martínez",
+  "display_name": "Ronaldo Martínez",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1996-04-25",
+  "age": 30,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Talleres",
+  "wikipedia_title": "Ronaldo Martínez (footballer)",
+  "date_of_birth": "1996-04-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Talleres",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q118189132",
+  "qid": "Q118189132",
+  "name": "Ronaldo Martínez",
+  "description": "Paraguayan footballer",
+  "place_of_birth_qid": "Q2377309",
+  "citizenship_qids": [
+    "Q717"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ronaldo_Mart%C3%ADnez_(footballer)",
+  "transfermarkt_id": "567736",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Venezuela"
+  ],
+  "place_of_birth": "Eusebio Ayala",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

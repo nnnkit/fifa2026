@@ -1,0 +1,98 @@
+{
+  "slug": "gabriel-magalhães",
+  "display_name": "Gabriel Magalhães",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-12-19",
+  "age": 28,
+  "caps": 17,
+  "goals": 1,
+  "club_from_squad_table": "Arsenal",
+  "wikipedia_title": "Gabriel Magalhães",
+  "date_of_birth": "1997-12-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Arsenal",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q25175970",
+  "qid": "Q25175970",
+  "name": "Gabriel Magalhães",
+  "description": "Brazilian association football player",
+  "place_of_birth_qid": "Q174",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q9617",
+      "start": "2020-09-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q374069",
+      "start": "2016-00-00",
+      "end": "2017-01-00"
+    },
+    {
+      "team_qid": "Q19516",
+      "start": "2017-01-00",
+      "end": "2020-08-30"
+    },
+    {
+      "team_qid": "Q501693",
+      "start": "2017-07-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q172803",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q2308235",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q899189",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q9617",
+  "image_filename": "GabrielLille2019.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel_Magalh%C3%A3es",
+  "transfermarkt_id": "435338",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "São Paulo",
+  "wikidata_current_club": "Arsenal F.C.",
+  "wikidata_current_club_qid": "Q9617",
+  "photo": {
+    "filename": "GabrielLille2019.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/GabrielLille2019.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/GabrielLille2019.png",
+    "width": 468,
+    "height": 561,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Valencia CF",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/gabriel-magalhães.png"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "andr\u00e9s-g\u00f3mez",
+  "display_name": "Andr\u00e9s G\u00f3mez",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2002-09-12",
+  "age": 23,
+  "caps": 6,
+  "goals": 2,
+  "club_from_squad_table": "Vasco da Gama",
+  "wikipedia_title": "Andr\u00e9s G\u00f3mez (footballer)",
+  "date_of_birth": "2002-09-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Vasco da Gama",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q116215934",
+  "qid": "Q116215934",
+  "name": "Carlos G\u00f3mez",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q816420",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 1.71,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19509",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q5014111",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q391353",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q391984",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19509",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_G%C3%B3mez_(footballer)",
+  "transfermarkt_id": "957461",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Quibd\u00f3",
+  "wikidata_current_club": "Stade Rennais F.C.",
+  "wikidata_current_club_qid": "Q19509",
+  "image_filename": "IMCF_vs._RSL_25_(cropped)_(cropped).jpg",
+  "photo": {
+    "filename": "IMCF_vs._RSL_25_(cropped)_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/IMCF_vs._RSL_25_%28cropped%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/IMCF_vs._RSL_25_%28cropped%29_%28cropped%29.jpg",
+    "width": 141,
+    "height": 212,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:TheSoccerBoy\" title=\"User:TheSoccerBoy\">TheSoccerBoy</a>",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/andr\u00e9s-g\u00f3mez.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

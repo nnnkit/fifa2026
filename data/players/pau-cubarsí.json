@@ -1,0 +1,87 @@
+{
+  "slug": "pau-cubars\u00ed",
+  "display_name": "Pau Cubars\u00ed",
+  "shirt_no": 4,
+  "position_code": "DF",
+  "dob": "2007-01-22",
+  "age": 19,
+  "caps": 11,
+  "goals": 0,
+  "club_from_squad_table": "Barcelona",
+  "wikipedia_title": "Pau Cubars\u00ed",
+  "date_of_birth": "2007-01-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Barcelona",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q118473161",
+  "qid": "Q118473161",
+  "name": "Pau Cubars\u00ed",
+  "description": "Spanish footballer (born 2007)",
+  "place_of_birth_qid": "Q20103929",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 184.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q7156",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q6124177",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q3873503",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q2310295",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q42267",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q10467",
+      "start": "2023-00-00",
+      "end": "2024-00-00"
+    }
+  ],
+  "current_club_qid": "Q7156",
+  "image_filename": "Pau Cubars\u00ed.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pau_Cubars%C3%AD",
+  "transfermarkt_id": "962110",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Estanyol",
+  "wikidata_current_club": "Futbol Club Barcelona",
+  "wikidata_current_club_qid": "Q7156",
+  "photo": {
+    "filename": "Pau Cubars\u00ed.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pau_Cubars%C3%AD.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pau_Cubars%C3%AD.jpg/960px-Pau_Cubars%C3%AD.jpg",
+    "width": 1291,
+    "height": 2188,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Biso\" title=\"User:Biso\">Biso</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/pau-cubars\u00ed.jpg"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain"
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "mario-pa\u0161ali\u0107",
+  "display_name": "Mario Pa\u0161ali\u0107",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1995-02-09",
+  "age": 31,
+  "caps": 83,
+  "goals": 11,
+  "club_from_squad_table": "Atalanta",
+  "wikipedia_title": "Mario Pa\u0161ali\u0107",
+  "date_of_birth": "1995-02-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atalanta",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q14625183",
+  "qid": "Q14625183",
+  "name": "Mario Pa\u0161ali\u0107",
+  "description": "Croatian footballer",
+  "place_of_birth_qid": "Q1720",
+  "citizenship_qids": [
+    "Q224"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 82.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q181216",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2014-01-01",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q3589940",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q2331381",
+      "start": "2014-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q134479",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q180305",
+      "start": "2015-07-03",
+      "end": "2016-06-30"
+    },
+    {
+      "team_qid": "Q3446766",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2018-07-25",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q10512",
+      "start": "2014-07-21",
+      "end": "2015-06-30"
+    },
+    {
+      "team_qid": "Q1543",
+      "start": "2016-08-27",
+      "end": "2017-06-30"
+    },
+    {
+      "team_qid": "Q29112",
+      "start": "2017-08-02",
+      "end": "2018-06-30"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1886",
+  "image_filename": "Pasalic 6459 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mario_Pa%C5%A1ali%C4%87",
+  "transfermarkt_id": "205938",
+  "fifa_player_id": "380005",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Croatia"
+  ],
+  "place_of_birth": "Mainz",
+  "wikidata_current_club": "Atalanta BC",
+  "wikidata_current_club_qid": "Q1886",
+  "photo": {
+    "filename": "Pasalic 6459 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Pasalic_6459_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Pasalic_6459_%28cropped%29.jpg",
+    "width": 318,
+    "height": 488,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0421\u0430\u0434\u043e\u0432\u043d\u0438\u043a\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mario-pa\u0161ali\u0107.jpg"
+  },
+  "team_slug": "croatia",
+  "team_country": "Croatia"
+}

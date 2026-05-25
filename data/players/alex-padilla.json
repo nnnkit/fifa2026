@@ -1,0 +1,97 @@
+{
+  "slug": "alex-padilla",
+  "display_name": "Alex Padilla",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2003-09-01",
+  "age": 22,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Athletic Bilbao",
+  "wikipedia_title": "Alex Padilla (footballer)",
+  "wikidata_qid": "Q114271394",
+  "qid": "Q114271394",
+  "name": "Álex Padilla",
+  "description": "Mexican footballer (born 2003)",
+  "date_of_birth": "2003-09-01",
+  "place_of_birth_qid": "Q147774",
+  "citizenship_qids": [
+    "Q96",
+    "Q29"
+  ],
+  "height_cm": 1.9,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q727093",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q794970",
+      "start": "2022-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q2713491",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q913112",
+      "start": null,
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q8687",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q1926260",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q8687",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1143000",
+      "start": "2025-00-00",
+      "end": "2025-00-00"
+    }
+  ],
+  "current_club_qid": "Q8687",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Padilla_(footballer)",
+  "transfermarkt_id": "834483",
+  "current_club": "Athletic Bilbao",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Mexico",
+    "Spain"
+  ],
+  "place_of_birth": "Zarautz",
+  "wikidata_current_club": "Athletic Club",
+  "wikidata_current_club_qid": "Q8687",
+  "photo": {
+    "filename": "Álex Padilla Athletic Bilbao.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%C3%81lex_Padilla_Athletic_Bilbao.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%C3%81lex_Padilla_Athletic_Bilbao.jpg",
+    "width": 484,
+    "height": 742,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Harold9595959\" title=\"User:Harold9595959\">Harold9595959</a>",
+    "source": "manual-commons-verifier",
+    "local_path": "data/photos/alex-padilla.jpg"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

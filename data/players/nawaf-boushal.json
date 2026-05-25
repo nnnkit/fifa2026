@@ -1,0 +1,70 @@
+{
+  "slug": "nawaf-boushal",
+  "display_name": "Nawaf Boushal",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-09-16",
+  "age": 26,
+  "caps": 23,
+  "goals": 0,
+  "club_from_squad_table": "Al-Nassr",
+  "wikipedia_title": "Nawaf Boushal",
+  "date_of_birth": "1999-09-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Nassr",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q78459310",
+  "qid": "Q78459310",
+  "name": "Nawaf Boushal",
+  "description": "Saudi Arabian football player",
+  "place_of_birth_qid": "Q12191403",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2701659",
+      "start": "2018-00-00",
+      "end": "2023-01-20"
+    },
+    {
+      "team_qid": "Q189723",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q482764",
+      "start": "2023-01-21",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q482764",
+  "image_filename": "Esteghlal 0 - 0 Al Nassr, round of 16 of the AFC Elite League, Azadi Stadium, 3 March 2025, Nawaf Boushal.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nawaf_Boushal",
+  "transfermarkt_id": "821377",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Qatif",
+  "photo": {
+    "filename": "Esteghlal 0 - 0 Al Nassr, round of 16 of the AFC Elite League, Azadi Stadium, 3 March 2025, Nawaf Boushal.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Esteghlal_0_-_0_Al_Nassr%2C_round_of_16_of_the_AFC_Elite_League%2C_Azadi_Stadium%2C_3_March_2025%2C_Nawaf_Boushal.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Esteghlal_0_-_0_Al_Nassr%2C_round_of_16_of_the_AFC_Elite_League%2C_Azadi_Stadium%2C_3_March_2025%2C_Nawaf_Boushal.jpg",
+    "width": 153,
+    "height": 227,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Tasnim News Agency",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nawaf-boushal.jpg"
+  },
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia"
+}

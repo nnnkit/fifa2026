@@ -1,0 +1,77 @@
+{
+  "slug": "umarali-rakhmonaliev",
+  "display_name": "Umarali Rakhmonaliev",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2003-08-18",
+  "age": 22,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Sabah",
+  "wikipedia_title": "Umarali Rakhmonaliev",
+  "date_of_birth": "2003-08-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sabah",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q116008479",
+  "qid": "Q116008479",
+  "name": "Umarali Rakhmonaliev",
+  "description": "Uzbekistani association football player",
+  "place_of_birth_qid": "Q492552",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "height_cm": 170.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q170040",
+      "start": "2023-01-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q628763",
+      "start": "2022-01-00",
+      "end": "2022-12-00"
+    },
+    {
+      "team_qid": "Q3328961",
+      "start": "2022-09-08",
+      "end": "2023-05-00"
+    },
+    {
+      "team_qid": "Q3247955",
+      "start": "2023-06-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q170040",
+  "image_filename": "Umarali Rahmonaliyev.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Umarali_Rakhmonaliev",
+  "transfermarkt_id": "837432",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Namangan",
+  "wikidata_current_club": "Rubin Kazan",
+  "wikidata_current_club_qid": "Q170040",
+  "photo": {
+    "filename": "Umarali Rahmonaliyev.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Umarali_Rahmonaliyev.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Umarali_Rahmonaliyev.jpg",
+    "width": 205,
+    "height": 251,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "NOC of Uzbekistan",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/umarali-rakhmonaliev.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

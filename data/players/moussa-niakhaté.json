@@ -1,0 +1,85 @@
+{
+  "slug": "moussa-niakhat\u00e9",
+  "display_name": "Moussa Niakhat\u00e9",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-03-08",
+  "age": 30,
+  "caps": 29,
+  "goals": 0,
+  "club_from_squad_table": "Lyon",
+  "wikipedia_title": "Moussa Niakhat\u00e9",
+  "date_of_birth": "1996-03-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lyon",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18637804",
+  "qid": "Q18637804",
+  "name": "Moussa Niakhate",
+  "description": "French association football player",
+  "place_of_birth_qid": "Q34001",
+  "citizenship_qids": [
+    "Q1041",
+    "Q142"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 82.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q212269",
+      "start": "2014-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q1344163",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q2701714",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q221525",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q221525",
+  "image_filename": "Niakhat\u00e9 asse ol 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Moussa_Niakhat%C3%A9",
+  "transfermarkt_id": "291200",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Senegal",
+    "France"
+  ],
+  "place_of_birth": "Roubaix",
+  "wikidata_current_club": "FC Metz",
+  "wikidata_current_club_qid": "Q221525",
+  "photo": {
+    "filename": "Niakhat\u00e9 asse ol 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Niakhat%C3%A9_asse_ol_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Niakhat%C3%A9_asse_ol_2425.png",
+    "width": 525,
+    "height": 841,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/moussa-niakhat\u00e9.png"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

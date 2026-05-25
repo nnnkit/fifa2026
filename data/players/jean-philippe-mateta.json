@@ -1,0 +1,98 @@
+{
+  "slug": "jean-philippe-mateta",
+  "display_name": "Jean-Philippe Mateta",
+  "shirt_no": 22,
+  "position_code": "FW",
+  "dob": "1997-06-28",
+  "age": 28,
+  "caps": 3,
+  "goals": 2,
+  "club_from_squad_table": "Crystal Palace",
+  "wikipedia_title": "Jean-Philippe Mateta",
+  "date_of_birth": "1997-06-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Crystal Palace",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26964668",
+  "qid": "Q26964668",
+  "name": "Jean-Philippe Mateta",
+  "description": "French footballer (born 1997)",
+  "place_of_birth_qid": "Q387630",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 192.0,
+  "weight_kg": 84.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q704",
+      "start": "2016-09-16",
+      "end": "2018-07-01"
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q328658",
+      "start": "2017-07-01",
+      "end": "2018-06-30"
+    },
+    {
+      "team_qid": "Q105254",
+      "start": "2018-07-01",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q19467",
+      "start": "2021-01-21",
+      "end": null
+    },
+    {
+      "team_qid": "Q845067",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q3924852",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q3590215",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19467",
+  "image_filename": "Jean-Philippe Mateta (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Philippe_Mateta",
+  "transfermarkt_id": "420002",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "Sevran",
+  "wikidata_current_club": "Crystal Palace F.C.",
+  "wikidata_current_club_qid": "Q19467",
+  "photo": {
+    "filename": "Jean-Philippe Mateta (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jean-Philippe_Mateta_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jean-Philippe_Mateta_%28cropped%29.jpg/960px-Jean-Philippe_Mateta_%28cropped%29.jpg",
+    "width": 1681,
+    "height": 2241,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Bex Walton",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jean-philippe-mateta.jpg"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

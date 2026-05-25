@@ -1,0 +1,63 @@
+{
+  "slug": "ramón-juárez",
+  "display_name": "Ramón Juárez",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-05-03",
+  "age": 25,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "América",
+  "wikipedia_title": "Ramón Juárez",
+  "wikidata_qid": "Q95696937",
+  "qid": "Q95696937",
+  "name": "Ramón Juárez",
+  "description": "Mexican footballer",
+  "date_of_birth": "2001-05-09",
+  "place_of_birth_qid": "Q1925390",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q459090",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q459090",
+  "image_filename": "Ramón Juárez.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Ju%C3%A1rez",
+  "transfermarkt_id": "699797",
+  "current_club": "América",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Rioverde",
+  "wikidata_current_club": "Club América",
+  "wikidata_current_club_qid": "Q459090",
+  "photo": {
+    "filename": "Ramón Juárez.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ram%C3%B3n_Ju%C3%A1rez.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ram%C3%B3n_Ju%C3%A1rez.png",
+    "width": 454,
+    "height": 605,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@elpelucheenelestuche\">PelucheEn ElEstuche</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ramón-juárez.png"
+  },
+  "squad_table_date_of_birth": "2001-05-03",
+  "date_of_birth_source": "verified-wikipedia-player-page",
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

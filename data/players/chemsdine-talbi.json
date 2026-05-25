@@ -1,0 +1,56 @@
+{
+  "slug": "chemsdine-talbi",
+  "display_name": "Chemsdine Talbi",
+  "shirt_no": 7,
+  "position_code": "FW",
+  "dob": "2005-05-09",
+  "age": 21,
+  "caps": 5,
+  "goals": 0,
+  "club_from_squad_table": "Sunderland",
+  "wikipedia_title": "Chemsdine Talbi",
+  "date_of_birth": "2005-05-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sunderland",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q113510254",
+  "qid": "Q113510254",
+  "name": "Chemsdine Talbi",
+  "description": "Belgian footballer",
+  "place_of_birth_qid": "Q650185",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 1.75,
+  "teams": [
+    {
+      "team_qid": "Q190916",
+      "start": "2023-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q190916",
+  "image_filename": "Chemsdine Talbi (Morocco v Niger) 12 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chemsdine_Talbi",
+  "transfermarkt_id": "743384",
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Sambreville",
+  "wikidata_current_club": "Club Brugge K.V.",
+  "wikidata_current_club_qid": "Q190916",
+  "photo": {
+    "filename": "Chemsdine Talbi (Morocco v Niger) 12 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chemsdine_Talbi_%28Morocco_v_Niger%29_12_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chemsdine_Talbi_%28Morocco_v_Niger%29_12_%28cropped%29.jpg",
+    "width": 371,
+    "height": 625,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Reda_benkhadra\" title=\"User:Reda benkhadra\">Reda benkhadra</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/chemsdine-talbi.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

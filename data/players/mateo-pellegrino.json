@@ -1,0 +1,58 @@
+{
+  "slug": "mateo-pellegrino",
+  "display_name": "Mateo Pellegrino",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-10-22",
+  "age": 24,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Parma",
+  "wikipedia_title": "Mateo Pellegrino",
+  "wikidata_qid": "Q106308522",
+  "qid": "Q106308522",
+  "name": "Mateo Pellegrino",
+  "description": "Argentine professional footballer",
+  "date_of_birth": "2001-10-22",
+  "place_of_birth_qid": "Q8818",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 192.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q215163",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q214940",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q214940",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mateo_Pellegrino",
+  "transfermarkt_id": "856530",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Parma",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Valencia",
+  "wikidata_current_club": "Estudiantes de La Plata",
+  "wikidata_current_club_qid": "Q214940",
+  "team_slug": "argentina",
+  "team_country": "Argentina",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "alan-minda",
+  "display_name": "Alan Minda",
+  "shirt_no": 14,
+  "position_code": "MF",
+  "dob": "2003-05-14",
+  "age": 23,
+  "caps": 19,
+  "goals": 2,
+  "club_from_squad_table": "Atlético Mineiro",
+  "wikipedia_title": "Alan Minda",
+  "date_of_birth": "2003-05-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atlético Mineiro",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q116054089",
+  "qid": "Q116054089",
+  "name": "Alan Minda",
+  "description": "Ecuadorian association football player",
+  "place_of_birth_qid": "Q149955",
+  "citizenship_qids": [
+    "Q736"
+  ],
+  "height_cm": 170.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q364698",
+      "start": "2023-07-12",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q364698",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alan_Minda",
+  "transfermarkt_id": "897051",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Ecuador"
+  ],
+  "place_of_birth": "Esmeraldas",
+  "wikidata_current_club": "Cercle Brugge K.S.V.",
+  "wikidata_current_club_qid": "Q364698",
+  "team_slug": "ecuador",
+  "team_country": "Ecuador",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

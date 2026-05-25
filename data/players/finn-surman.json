@@ -1,0 +1,85 @@
+{
+  "slug": "finn-surman",
+  "display_name": "Finn Surman",
+  "shirt_no": 16,
+  "position_code": "DF",
+  "dob": "2003-09-23",
+  "age": 22,
+  "caps": 17,
+  "goals": 2,
+  "club_from_squad_table": "Portland Timbers",
+  "wikipedia_title": "Finn Surman",
+  "date_of_birth": "2003-09-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Portland Timbers",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q109968695",
+  "qid": "Q109968695",
+  "name": "Finn Surman",
+  "description": "New Zealand footballer",
+  "place_of_birth_qid": "Q79990",
+  "citizenship_qids": [
+    "Q664"
+  ],
+  "height_cm": 190.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q107564181",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q175315",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q18397899",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q2744301",
+      "start": "2021-01-00",
+      "end": "2021-06-00"
+    },
+    {
+      "team_qid": "Q815890",
+      "start": "2021-07-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q1031200",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1031200",
+  "image_filename": "Finn Surman.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Finn_Surman",
+  "transfermarkt_id": "724809",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "New Zealand"
+  ],
+  "place_of_birth": "Christchurch",
+  "photo": {
+    "filename": "Finn Surman.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Finn_Surman.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Finn_Surman.jpg/960px-Finn_Surman.jpg",
+    "width": 1693,
+    "height": 2324,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Macosal&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Macosal (page does not exist)\">Macosal</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/finn-surman.jpg"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand"
+}

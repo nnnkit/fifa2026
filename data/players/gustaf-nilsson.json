@@ -1,0 +1,118 @@
+{
+  "slug": "gustaf-nilsson",
+  "display_name": "Gustaf Nilsson",
+  "shirt_no": 25,
+  "position_code": "FW",
+  "dob": "1997-05-23",
+  "age": 29,
+  "caps": 8,
+  "goals": 3,
+  "club_from_squad_table": "Club Brugge",
+  "wikipedia_title": "Gustaf Nilsson (footballer, born 1997)",
+  "date_of_birth": "1997-05-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Club Brugge",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18011169",
+  "qid": "Q18011169",
+  "name": "Gustaf Nilsson",
+  "description": "Swedish association football player (born 1997)",
+  "place_of_birth_qid": "Q34",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 197.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q211906",
+      "start": "2016-07-01",
+      "end": "2018-07-09"
+    },
+    {
+      "team_qid": "Q1394197",
+      "start": "2014-01-01",
+      "end": "2016-06-30"
+    },
+    {
+      "team_qid": "Q2255212",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2255267",
+      "start": "2015-01-01",
+      "end": "2018-10-16"
+    },
+    {
+      "team_qid": "Q723489",
+      "start": "2017-07-10",
+      "end": "2018-06-30"
+    },
+    {
+      "team_qid": "Q737936",
+      "start": "2018-07-10",
+      "end": "2019-08-12"
+    },
+    {
+      "team_qid": "Q639723",
+      "start": "2019-08-13",
+      "end": "2021-01-04"
+    },
+    {
+      "team_qid": "Q1394197",
+      "start": "2020-08-14",
+      "end": "2020-11-30"
+    },
+    {
+      "team_qid": "Q310621",
+      "start": "2021-01-05",
+      "end": "2022-07-26"
+    },
+    {
+      "team_qid": "Q196160",
+      "start": "2022-07-27",
+      "end": "2024-07-11"
+    },
+    {
+      "team_qid": "Q190916",
+      "start": "2024-07-12",
+      "end": null
+    },
+    {
+      "team_qid": "Q160826",
+      "start": "2018-01-07",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q190916",
+  "image_filename": "Gustaf Nilsson USG 2023.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gustaf_Nilsson_(footballer,_born_1997)",
+  "transfermarkt_id": "320440",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Sweden",
+  "wikidata_current_club": "Club Brugge K.V.",
+  "wikidata_current_club_qid": "Q190916",
+  "photo": {
+    "filename": "Gustaf Nilsson USG 2023.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Gustaf_Nilsson_USG_2023.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Gustaf_Nilsson_USG_2023.jpg/960px-Gustaf_Nilsson_USG_2023.jpg",
+    "width": 3024,
+    "height": 3615,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sidney.Cortez&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sidney.Cortez (page does not exist)\">Sidney.Cortez</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/gustaf-nilsson.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

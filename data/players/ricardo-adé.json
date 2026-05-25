@@ -1,0 +1,54 @@
+{
+  "slug": "ricardo-adé",
+  "display_name": "Ricardo Adé",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1990-05-21",
+  "age": 36,
+  "caps": 57,
+  "goals": 2,
+  "club_from_squad_table": "LDU Quito",
+  "wikipedia_title": "Ricardo Adé",
+  "date_of_birth": "1990-05-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "LDU Quito",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28801770",
+  "qid": "Q28801770",
+  "name": "Ricardo Adé",
+  "description": "association football player",
+  "place_of_birth_qid": "Q132189",
+  "citizenship_qids": [
+    "Q790"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 83.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q515425",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q515425",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ricardo_Ad%C3%A9",
+  "transfermarkt_id": "278145",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Haiti"
+  ],
+  "place_of_birth": "Saint-Marc",
+  "wikidata_current_club": "Club Deportivo Magallanes",
+  "wikidata_current_club_qid": "Q515425",
+  "team_slug": "haiti",
+  "team_country": "Haiti",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

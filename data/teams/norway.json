@@ -1,0 +1,2021 @@
+{
+  "slug": "norway",
+  "country": "Norway",
+  "wikidata_qid": "Q184387",
+  "fetched_at": "2026-05-24T17:10:41+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "ørjan-nyland",
+      "display_name": "Ørjan Nyland",
+      "shirt_no": 1,
+      "position_code": "GK",
+      "dob": "1990-09-10",
+      "age": 35,
+      "caps": 69,
+      "goals": 0,
+      "club_from_squad_table": "Sevilla",
+      "wikipedia_title": "Ørjan Nyland",
+      "date_of_birth": "1990-09-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sevilla",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q869214",
+      "qid": "Q869214",
+      "name": "Ørjan Nyland",
+      "description": "Norwegian association football player",
+      "place_of_birth_qid": "Q488445",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 192.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q170117",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q129565",
+          "start": "2007-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q208552",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q2446294",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q184387",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873500",
+          "start": "2006-01-01",
+          "end": "2006-01-01"
+        },
+        {
+          "team_qid": "Q3590274",
+          "start": "2007-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q3873512",
+          "start": "2008-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q11992086",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q18711",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q170117",
+      "image_filename": "Norway Italy - June 2025 A 10 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%98rjan_Nyland",
+      "transfermarkt_id": "73517",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Volda Municipality",
+      "wikidata_current_club": "FC Ingolstadt 04",
+      "wikidata_current_club_qid": "Q170117",
+      "photo": {
+        "filename": "Norway Italy - June 2025 A 10 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Norway_Italy_-_June_2025_A_10_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Norway_Italy_-_June_2025_A_10_%28cropped%29.jpg/960px-Norway_Italy_-_June_2025_A_10_%28cropped%29.jpg",
+        "width": 2491,
+        "height": 3116,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ørjan-nyland.jpg"
+      }
+    },
+    {
+      "slug": "morten-thorsby",
+      "display_name": "Morten Thorsby",
+      "shirt_no": 2,
+      "position_code": "MF",
+      "dob": "1996-05-05",
+      "age": 30,
+      "caps": 30,
+      "goals": 0,
+      "club_from_squad_table": "Cremonese",
+      "wikipedia_title": "Morten Thorsby",
+      "date_of_birth": "1996-05-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Cremonese",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16852194",
+      "qid": "Q16852194",
+      "name": "Morten Thorsby",
+      "description": "Norwegian association football player",
+      "place_of_birth_qid": "Q585",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q200321",
+          "start": "2014-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q217233",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q3590274",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3873528",
+          "start": "2014-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q2446294",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873500",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q3873512",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1457",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q141971",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q2074",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q184387",
+          "start": "2017-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2074",
+      "image_filename": "Norway Italy - June 2025 E 24 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Morten_Thorsby",
+      "transfermarkt_id": "226524",
+      "fifa_player_id": "201162560",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Oslo",
+      "wikidata_current_club": "Genoa CFC",
+      "wikidata_current_club_qid": "Q2074",
+      "photo": {
+        "filename": "Norway Italy - June 2025 E 24 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Norway_Italy_-_June_2025_E_24_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Norway_Italy_-_June_2025_E_24_%28cropped%29.jpg/960px-Norway_Italy_-_June_2025_E_24_%28cropped%29.jpg",
+        "width": 2959,
+        "height": 3553,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/morten-thorsby.jpg"
+      }
+    },
+    {
+      "slug": "kristoffer-ajer",
+      "display_name": "Kristoffer Ajer",
+      "shirt_no": 3,
+      "position_code": "DF",
+      "dob": "1998-04-17",
+      "age": 28,
+      "caps": 50,
+      "goals": 2,
+      "club_from_squad_table": "Brentford",
+      "wikipedia_title": "Kristoffer Ajer",
+      "date_of_birth": "1998-04-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Brentford",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18157457",
+      "qid": "Q18157457",
+      "name": "Kristoffer Ajer",
+      "description": "Norwegian association football player (born 1998)",
+      "place_of_birth_qid": "Q57870",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 198.0,
+      "weight_kg": 93.5,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q737947",
+          "start": "2014-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q19593",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590274",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873528",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2446294",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q210961",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19593",
+      "image_filename": "Norway Italy - June 2025 E 21 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kristoffer_Ajer",
+      "transfermarkt_id": "328658",
+      "fifa_player_id": "201514479",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Rælingen",
+      "wikidata_current_club": "Celtic F.C.",
+      "wikidata_current_club_qid": "Q19593",
+      "photo": {
+        "filename": "Norway Italy - June 2025 E 21 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Norway_Italy_-_June_2025_E_21_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Norway_Italy_-_June_2025_E_21_%28cropped%29.jpg/960px-Norway_Italy_-_June_2025_E_21_%28cropped%29.jpg",
+        "width": 3091,
+        "height": 3712,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kristoffer-ajer.jpg"
+      }
+    },
+    {
+      "slug": "leo-østigård",
+      "display_name": "Leo Østigård",
+      "shirt_no": 4,
+      "position_code": "DF",
+      "dob": "1999-11-28",
+      "age": 26,
+      "caps": 36,
+      "goals": 1,
+      "club_from_squad_table": "Genoa",
+      "wikipedia_title": "Leo Østigård",
+      "date_of_birth": "1999-11-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Genoa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30330390",
+      "qid": "Q30330390",
+      "name": "Leo Østigård",
+      "description": "Norwegian association football player",
+      "place_of_birth_qid": "Q104095",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 182.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q208552",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q211177",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2446294",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q2641",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q19509",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q22707",
+          "start": "2025-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q2074",
+          "start": "2025-07-29",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2074",
+      "image_filename": "Norway Italy - June 2025 A 06 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leo_%C3%98stig%C3%A5rd",
+      "transfermarkt_id": "367284",
+      "fifa_player_id": "201656290",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Molde Municipality",
+      "wikidata_current_club": "Genoa CFC",
+      "wikidata_current_club_qid": "Q2074",
+      "photo": {
+        "filename": "Norway Italy - June 2025 A 06 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Norway_Italy_-_June_2025_A_06_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Norway_Italy_-_June_2025_A_06_%28cropped%29.jpg/960px-Norway_Italy_-_June_2025_A_06_%28cropped%29.jpg",
+        "width": 2079,
+        "height": 2650,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/leo-østigård.jpg"
+      }
+    },
+    {
+      "slug": "david-møller-wolfe",
+      "display_name": "David Møller Wolfe",
+      "shirt_no": 5,
+      "position_code": "DF",
+      "dob": "2002-04-23",
+      "age": 24,
+      "caps": 20,
+      "goals": 1,
+      "club_from_squad_table": "Wolverhampton Wanderers",
+      "wikipedia_title": "David Møller Wolfe",
+      "date_of_birth": "2002-04-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Wolverhampton Wanderers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q101095985",
+      "qid": "Q101095985",
+      "name": "David Møller Wolfe",
+      "description": "Norwegian association football player",
+      "place_of_birth_qid": "Q26793",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q217607",
+          "start": "2020-07-13",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q217607",
+      "image_filename": "David Møller Wolfe.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_M%C3%B8ller_Wolfe",
+      "transfermarkt_id": "661427",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Bergen",
+      "wikidata_current_club": "Åsane Fotball",
+      "wikidata_current_club_qid": "Q217607",
+      "photo": {
+        "filename": "David Møller Wolfe.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/David_M%C3%B8ller_Wolfe.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/David_M%C3%B8ller_Wolfe.jpg/960px-David_M%C3%B8ller_Wolfe.jpg",
+        "width": 1012,
+        "height": 1025,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Carlo Bruil Fotografie",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/david-møller-wolfe.jpg"
+      }
+    },
+    {
+      "slug": "patrick-berg",
+      "display_name": "Patrick Berg",
+      "shirt_no": 6,
+      "position_code": "MF",
+      "dob": "1997-11-24",
+      "age": 28,
+      "caps": 41,
+      "goals": 0,
+      "club_from_squad_table": "Bodø/Glimt",
+      "wikipedia_title": "Patrick Berg",
+      "date_of_birth": "1997-11-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bodø/Glimt",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18066870",
+      "qid": "Q18066870",
+      "name": "Patrick Berg",
+      "description": "Norwegian footballer",
+      "place_of_birth_qid": "Q39383",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q478167",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3590274",
+          "start": "2014-01-01",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q3873528",
+          "start": "2016-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q3873512",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        }
+      ],
+      "current_club_qid": "Q478167",
+      "image_filename": "Norway Italy - June 2025 A 14 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Berg",
+      "transfermarkt_id": "308439",
+      "fifa_player_id": "201264012",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Bodø",
+      "wikidata_current_club": "FK Bodø/Glimt",
+      "wikidata_current_club_qid": "Q478167",
+      "photo": {
+        "filename": "Norway Italy - June 2025 A 14 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Norway_Italy_-_June_2025_A_14_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Norway_Italy_-_June_2025_A_14_%28cropped%29.jpg/960px-Norway_Italy_-_June_2025_A_14_%28cropped%29.jpg",
+        "width": 1402,
+        "height": 1682,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/patrick-berg.jpg"
+      }
+    },
+    {
+      "slug": "alexander-sørloth",
+      "display_name": "Alexander Sørloth",
+      "shirt_no": 7,
+      "position_code": "FW",
+      "dob": "1995-12-05",
+      "age": 30,
+      "caps": 70,
+      "goals": 26,
+      "club_from_squad_table": "Atlético Madrid",
+      "wikipedia_title": "Alexander Sørloth",
+      "date_of_birth": "1995-12-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlético Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q13784739",
+      "qid": "Q13784739",
+      "name": "Alexander Sørloth",
+      "description": "Norwegian association football player (born 1995)",
+      "place_of_birth_qid": "Q25804",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 194.0,
+      "weight_kg": 90.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q186785",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q478167",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q24711",
+          "start": "2016-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q2446294",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q3873500",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q3590274",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q3873512",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3873528",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q184387",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q618520",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q19467",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q18232",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q192641",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q10315",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8701",
+      "image_filename": "Norway Italy - June 2025 E 10.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_S%C3%B8rloth",
+      "transfermarkt_id": "238407",
+      "fifa_player_id": "398588",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Trondheim",
+      "photo": {
+        "filename": "Norway Italy - June 2025 E 10.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Norway_Italy_-_June_2025_E_10.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Norway_Italy_-_June_2025_E_10.jpg/960px-Norway_Italy_-_June_2025_E_10.jpg",
+        "width": 2629,
+        "height": 3944,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alexander-sørloth.jpg"
+      }
+    },
+    {
+      "slug": "sander-berge",
+      "display_name": "Sander Berge",
+      "shirt_no": 8,
+      "position_code": "MF",
+      "dob": "1998-02-14",
+      "age": 28,
+      "caps": 64,
+      "goals": 1,
+      "club_from_squad_table": "Fulham",
+      "wikipedia_title": "Sander Berge",
+      "date_of_birth": "1998-02-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fulham",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20675980",
+      "qid": "Q20675980",
+      "name": "Sander Berge",
+      "description": "Norwegian association football player (born 1998)",
+      "place_of_birth_qid": "Q57076",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 195.0,
+      "weight_kg": 97.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q212819",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q731372",
+          "start": "2013-00-00",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q2446294",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q216032",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q184387",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19607",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q19458",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q18708",
+          "start": "2024-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18708",
+      "image_filename": "Norway Italy - June 2025 E 25 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sander_Berge",
+      "transfermarkt_id": "333014",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Bærum Municipality",
+      "wikidata_current_club": "Fulham F.C.",
+      "wikidata_current_club_qid": "Q18708",
+      "photo": {
+        "filename": "Norway Italy - June 2025 E 25 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Norway_Italy_-_June_2025_E_25_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Norway_Italy_-_June_2025_E_25_%28cropped%29.jpg/960px-Norway_Italy_-_June_2025_E_25_%28cropped%29.jpg",
+        "width": 3339,
+        "height": 4009,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/sander-berge.jpg"
+      }
+    },
+    {
+      "slug": "erling-haaland",
+      "display_name": "Erling Haaland",
+      "shirt_no": 9,
+      "position_code": "FW",
+      "dob": "2000-07-21",
+      "age": 25,
+      "caps": 49,
+      "goals": 55,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "Erling Haaland",
+      "date_of_birth": "2000-07-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28967995",
+      "qid": "Q28967995",
+      "name": "Erling Haaland",
+      "description": "Norwegian association football player (born 2000)",
+      "place_of_birth_qid": "Q39121",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 194.0,
+      "weight_kg": 87.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q995313",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q208552",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q994811",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873545",
+          "start": "2019-03-23",
+          "end": "2019-05-30"
+        },
+        {
+          "team_qid": "Q2446294",
+          "start": "2018-09-11",
+          "end": "2018-10-16"
+        },
+        {
+          "team_qid": "Q184387",
+          "start": "2019-09-05",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "Erling Haaland June 2025.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Erling_Haaland",
+      "transfermarkt_id": "418560",
+      "fifa_player_id": "201486226",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Leeds",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "Erling Haaland June 2025.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Erling_Haaland_June_2025.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Erling_Haaland_June_2025.jpg/960px-Erling_Haaland_June_2025.jpg",
+        "width": 3087,
+        "height": 4172,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/erling-haaland.jpg"
+      }
+    },
+    {
+      "slug": "martin-ødegaard",
+      "display_name": "Martin Ødegaard",
+      "shirt_no": 10,
+      "position_code": "MF",
+      "dob": "1998-12-17",
+      "age": 27,
+      "caps": 67,
+      "goals": 4,
+      "club_from_squad_table": "Arsenal",
+      "wikipedia_title": "Martin Ødegaard",
+      "date_of_birth": "1998-12-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Arsenal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16902219",
+      "qid": "Q16902219",
+      "name": "Martin Ødegaard",
+      "description": "Norwegian association football player (born 1998)",
+      "place_of_birth_qid": "Q26525",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 68.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8682",
+          "start": "2015-01-00",
+          "end": "2021-08-19"
+        },
+        {
+          "team_qid": "Q3590274",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q2446294",
+          "start": "2014-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q184387",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q638288",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q121599275",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3873500",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q200321",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q219233",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q10315",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2021-08-20",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9617",
+      "image_filename": "Norway Italy - June 2025 E 04.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_%C3%98degaard",
+      "transfermarkt_id": "316264",
+      "fifa_player_id": "201256045",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Drammen",
+      "wikidata_current_club": "Arsenal F.C.",
+      "wikidata_current_club_qid": "Q9617",
+      "photo": {
+        "filename": "Norway Italy - June 2025 E 04.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Norway_Italy_-_June_2025_E_04.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Norway_Italy_-_June_2025_E_04.jpg/960px-Norway_Italy_-_June_2025_E_04.jpg",
+        "width": 3093,
+        "height": 4640,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/martin-ødegaard.jpg"
+      }
+    },
+    {
+      "slug": "jørgen-strand-larsen",
+      "display_name": "Jørgen Strand Larsen",
+      "shirt_no": 11,
+      "position_code": "FW",
+      "dob": "2000-02-06",
+      "age": 26,
+      "caps": 26,
+      "goals": 4,
+      "club_from_squad_table": "Crystal Palace",
+      "wikipedia_title": "Jørgen Strand Larsen",
+      "date_of_birth": "2000-02-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Crystal Palace",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28933132",
+      "qid": "Q28933132",
+      "name": "Jørgen Strand Larsen",
+      "description": "Norwegian association football player",
+      "place_of_birth_qid": "Q109042",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 1.93,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8749",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q184387",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19500",
+      "image_filename": "Jørgen Strand Larsen 2019, Zen-Sarp (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/J%C3%B8rgen_Strand_Larsen",
+      "transfermarkt_id": "429983",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Halden",
+      "wikidata_current_club": "Wolverhampton Wanderers F.C.",
+      "wikidata_current_club_qid": "Q19500",
+      "photo": {
+        "filename": "Jørgen Strand Larsen 2019, Zen-Sarp (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/J%C3%B8rgen_Strand_Larsen_2019%2C_Zen-Sarp_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/J%C3%B8rgen_Strand_Larsen_2019%2C_Zen-Sarp_%28cropped%29.jpg",
+        "width": 150,
+        "height": 180,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Вячеслав Евдокимов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jørgen-strand-larsen.jpg"
+      }
+    },
+    {
+      "slug": "sander-tangvik",
+      "display_name": "Sander Tangvik",
+      "shirt_no": 12,
+      "position_code": "GK",
+      "dob": "2002-11-29",
+      "age": 23,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Hamburger SV",
+      "wikipedia_title": "Sander Tangvik",
+      "date_of_birth": "2002-11-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Hamburger SV",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q105754161",
+      "qid": "Q105754161",
+      "name": "Sander Tangvik",
+      "description": "Norwegian association football player",
+      "place_of_birth_qid": "Q25804",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 193.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q186785",
+          "start": "2020-00-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q2446294",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q3873545",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q3873512",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q3590274",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q3873500",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q51974",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q51974",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sander_Tangvik",
+      "transfermarkt_id": "549378",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Trondheim",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "egil-selvik",
+      "display_name": "Egil Selvik",
+      "shirt_no": 13,
+      "position_code": "GK",
+      "dob": "1997-07-30",
+      "age": 28,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Watford",
+      "wikipedia_title": "Egil Selvik",
+      "date_of_birth": "1997-07-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Watford",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q62617279",
+      "qid": "Q62617279",
+      "name": "Egil Selvik",
+      "description": "Norwegian association football player",
+      "place_of_birth_qid": "Q27587",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 187.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q215302",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q215302",
+      "image_filename": "Norway Italy - June 2025 A 07 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Egil_Selvik",
+      "transfermarkt_id": "380744",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Sandnes Municipality",
+      "wikidata_current_club": "Odds BK",
+      "wikidata_current_club_qid": "Q215302",
+      "photo": {
+        "filename": "Norway Italy - June 2025 A 07 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Norway_Italy_-_June_2025_A_07_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Norway_Italy_-_June_2025_A_07_%28cropped%29.jpg/960px-Norway_Italy_-_June_2025_A_07_%28cropped%29.jpg",
+        "width": 1760,
+        "height": 2201,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/egil-selvik.jpg"
+      }
+    },
+    {
+      "slug": "fredrik-aursnes",
+      "display_name": "Fredrik Aursnes",
+      "shirt_no": 14,
+      "position_code": "MF",
+      "dob": "1995-12-10",
+      "age": 30,
+      "caps": 20,
+      "goals": 1,
+      "club_from_squad_table": "Benfica",
+      "wikipedia_title": "Fredrik Aursnes",
+      "date_of_birth": "1995-12-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Benfica",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20090180",
+      "qid": "Q20090180",
+      "name": "Fredrik Aursnes",
+      "description": "Norwegian association football player (born 1995)",
+      "place_of_birth_qid": "Q494029",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q208552",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q129565",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q2446294",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873512",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        }
+      ],
+      "current_club_qid": "Q208552",
+      "image_filename": "Zenit-Mo;de (6) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fredrik_Aursnes",
+      "transfermarkt_id": "223367",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Hareid",
+      "wikidata_current_club": "Molde FK",
+      "wikidata_current_club_qid": "Q208552",
+      "photo": {
+        "filename": "Zenit-Mo;de (6) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Zenit-Mo%3Bde_%286%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Zenit-Mo%3Bde_%286%29_%28cropped%29.jpg",
+        "width": 482,
+        "height": 799,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Кирилл Венедиктов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/fredrik-aursnes.jpg"
+      }
+    },
+    {
+      "slug": "fredrik-andré-bjørkan",
+      "display_name": "Fredrik André Bjørkan",
+      "shirt_no": 15,
+      "position_code": "DF",
+      "dob": "1998-08-21",
+      "age": 27,
+      "caps": 19,
+      "goals": 1,
+      "club_from_squad_table": "Bodø/Glimt",
+      "wikipedia_title": "Fredrik André Bjørkan",
+      "date_of_birth": "1998-08-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bodø/Glimt",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q24007315",
+      "qid": "Q24007315",
+      "name": "Fredrik Bjørkan",
+      "description": "Norwegian association football player",
+      "place_of_birth_qid": "Q221119",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q478167",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q478167",
+      "image_filename": "F Bjørkan.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fredrik_Andr%C3%A9_Bj%C3%B8rkan",
+      "transfermarkt_id": "364938",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Bodø Municipality",
+      "wikidata_current_club": "FK Bodø/Glimt",
+      "wikidata_current_club_qid": "Q478167",
+      "photo": {
+        "filename": "F Bjørkan.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/F_Bj%C3%B8rkan.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/F_Bj%C3%B8rkan.jpg/960px-F_Bj%C3%B8rkan.jpg",
+        "width": 1183,
+        "height": 1878,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ectoras&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ectoras (page does not exist)\">Jørn Sund-Henriksen</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/fredrik-andré-bjørkan.jpg"
+      }
+    },
+    {
+      "slug": "marcus-holmgren-pedersen",
+      "display_name": "Marcus Holmgren Pedersen",
+      "shirt_no": 16,
+      "position_code": "DF",
+      "dob": "2000-07-16",
+      "age": 25,
+      "caps": 31,
+      "goals": 0,
+      "club_from_squad_table": "Torino",
+      "wikipedia_title": "Marcus Holmgren Pedersen",
+      "date_of_birth": "2000-07-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Torino",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q59268631",
+      "qid": "Q59268631",
+      "name": "Marcus Holmgren Pedersen",
+      "description": "Norwegian footballer",
+      "place_of_birth_qid": "Q721374",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 1.84,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q212490",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q212490",
+      "image_filename": "Marcus Holmgren Pedersen 2022 FC RB Salzburg gegen Feyenoord Rotterdam (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Holmgren_Pedersen",
+      "transfermarkt_id": "583404",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Hammerfest",
+      "wikidata_current_club": "Tromsø IL",
+      "wikidata_current_club_qid": "Q212490",
+      "photo": {
+        "filename": "Marcus Holmgren Pedersen 2022 FC RB Salzburg gegen Feyenoord Rotterdam (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Marcus_Holmgren_Pedersen_2022_FC_RB_Salzburg_gegen_Feyenoord_Rotterdam_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Marcus_Holmgren_Pedersen_2022_FC_RB_Salzburg_gegen_Feyenoord_Rotterdam_%28cropped%29.jpg",
+        "width": 806,
+        "height": 1197,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marcus-holmgren-pedersen.jpg"
+      }
+    },
+    {
+      "slug": "torbjørn-heggem",
+      "display_name": "Torbjørn Heggem",
+      "shirt_no": 17,
+      "position_code": "DF",
+      "dob": "1999-01-12",
+      "age": 27,
+      "caps": 13,
+      "goals": 0,
+      "club_from_squad_table": "Bologna",
+      "wikipedia_title": "Torbjørn Heggem",
+      "date_of_birth": "1999-01-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bologna",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q63968167",
+      "qid": "Q63968167",
+      "name": "Torbjørn Lysaker Heggem",
+      "description": "Norwegian football player",
+      "place_of_birth_qid": "Q25804",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 192.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1112784",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1112784",
+      "image_filename": "Norway Italy - June 2025 D 05 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Torbj%C3%B8rn_Heggem",
+      "transfermarkt_id": "464469",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Trondheim",
+      "wikidata_current_club": "Ranheim Fotball",
+      "wikidata_current_club_qid": "Q1112784",
+      "photo": {
+        "filename": "Norway Italy - June 2025 D 05 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Norway_Italy_-_June_2025_D_05_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Norway_Italy_-_June_2025_D_05_%28cropped%29.jpg/960px-Norway_Italy_-_June_2025_D_05_%28cropped%29.jpg",
+        "width": 1250,
+        "height": 1501,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/torbjørn-heggem.jpg"
+      }
+    },
+    {
+      "slug": "kristian-thorstvedt",
+      "display_name": "Kristian Thorstvedt",
+      "shirt_no": 18,
+      "position_code": "MF",
+      "dob": "1999-03-13",
+      "age": 27,
+      "caps": 35,
+      "goals": 4,
+      "club_from_squad_table": "Sassuolo",
+      "wikipedia_title": "Kristian Thorstvedt",
+      "date_of_birth": "1999-03-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sassuolo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q61721648",
+      "qid": "Q61721648",
+      "name": "Kristian Thorstvedt",
+      "description": "Norwegian footballer",
+      "place_of_birth_qid": "Q25416",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q211177",
+          "start": "2018-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q211177",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kristian_Thorstvedt",
+      "transfermarkt_id": "564785",
+      "fifa_player_id": "400015289",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Stavanger",
+      "wikidata_current_club": "Viking FK",
+      "wikidata_current_club_qid": "Q211177",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "thelo-aasgaard",
+      "display_name": "Thelo Aasgaard",
+      "shirt_no": 19,
+      "position_code": "MF",
+      "dob": "2002-05-02",
+      "age": 24,
+      "caps": 6,
+      "goals": 5,
+      "club_from_squad_table": "Rangers",
+      "wikipedia_title": "Thelo Aasgaard",
+      "date_of_birth": "2002-05-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rangers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q100711783",
+      "qid": "Q100711783",
+      "name": "Thelo Aasgaard",
+      "description": "Norwegian association football player",
+      "place_of_birth_qid": "Q24826",
+      "citizenship_qids": [
+        "Q20",
+        "Q145"
+      ],
+      "height_cm": 188.0,
+      "teams": [
+        {
+          "team_qid": "Q19597",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19597",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thelo_Aasgaard",
+      "transfermarkt_id": "647384",
+      "citizenship": [
+        "Norway",
+        "United Kingdom"
+      ],
+      "place_of_birth": "Liverpool",
+      "wikidata_current_club": "Rangers F.C.",
+      "wikidata_current_club_qid": "Q19597",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "antonio-nusa",
+      "display_name": "Antonio Nusa",
+      "shirt_no": 20,
+      "position_code": "MF",
+      "dob": "2005-04-17",
+      "age": 21,
+      "caps": 22,
+      "goals": 7,
+      "club_from_squad_table": "RB Leipzig",
+      "wikipedia_title": "Antonio Nusa",
+      "date_of_birth": "2005-04-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "RB Leipzig",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107357509",
+      "qid": "Q107357509",
+      "name": "Antonio Nusa",
+      "description": "Norwegian association football player",
+      "place_of_birth_qid": "Q6486124",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q217233",
+          "start": "2021-05-06",
+          "end": "2021-08-30"
+        },
+        {
+          "team_qid": "Q190916",
+          "start": "2021-08-31",
+          "end": "2024-08-12"
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2024-08-13",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q702455",
+      "image_filename": "Norway Italy - June 2025 C 23.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_Nusa",
+      "transfermarkt_id": "894914",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Langhus",
+      "photo": {
+        "filename": "Norway Italy - June 2025 C 23.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Norway_Italy_-_June_2025_C_23.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Norway_Italy_-_June_2025_C_23.jpg/960px-Norway_Italy_-_June_2025_C_23.jpg",
+        "width": 2686,
+        "height": 4029,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/antonio-nusa.jpg"
+      }
+    },
+    {
+      "slug": "andreas-schjelderup",
+      "display_name": "Andreas Schjelderup",
+      "shirt_no": 21,
+      "position_code": "MF",
+      "dob": "2004-06-01",
+      "age": 22,
+      "caps": 10,
+      "goals": 1,
+      "club_from_squad_table": "Benfica",
+      "wikipedia_title": "Andreas Schjelderup",
+      "date_of_birth": "2004-06-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Benfica",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q106099213",
+      "qid": "Q106099213",
+      "name": "Andreas Schjelderup",
+      "description": "Norwegian professional footballer",
+      "place_of_birth_qid": "Q221119",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 1.76,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q478167",
+          "start": null,
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q210025",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q210025",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Andreas_Schjelderup",
+      "transfermarkt_id": "670103",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Bodø Municipality",
+      "wikidata_current_club": "FC Nordsjælland",
+      "wikidata_current_club_qid": "Q210025",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "oscar-bobb",
+      "display_name": "Oscar Bobb",
+      "shirt_no": 22,
+      "position_code": "MF",
+      "dob": "2003-07-12",
+      "age": 22,
+      "caps": 18,
+      "goals": 2,
+      "club_from_squad_table": "Fulham",
+      "wikipedia_title": "Oscar Bobb",
+      "date_of_birth": "2003-07-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fulham",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110466658",
+      "qid": "Q110466658",
+      "name": "Oscar Bobb",
+      "description": "Norwegian association football player (born 2003)",
+      "place_of_birth_qid": "Q585",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 169.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "image_filename": "ManCity20240722-050 (Oscar Bobb2).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oscar_Bobb",
+      "transfermarkt_id": "661207",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Oslo",
+      "photo": {
+        "filename": "ManCity20240722-050 (Oscar Bobb2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/ManCity20240722-050_%28Oscar_Bobb2%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ManCity20240722-050_%28Oscar_Bobb2%29.jpg/960px-ManCity20240722-050_%28Oscar_Bobb2%29.jpg",
+        "width": 1623,
+        "height": 2043,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Hameltion\" title=\"User:Hameltion\">Hameltion</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/oscar-bobb.jpg"
+      }
+    },
+    {
+      "slug": "jens-petter-hauge",
+      "display_name": "Jens Petter Hauge",
+      "shirt_no": 23,
+      "position_code": "MF",
+      "dob": "1999-10-12",
+      "age": 26,
+      "caps": 14,
+      "goals": 1,
+      "club_from_squad_table": "Bodø/Glimt",
+      "wikipedia_title": "Jens Petter Hauge",
+      "date_of_birth": "1999-10-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bodø/Glimt",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q24007299",
+      "qid": "Q24007299",
+      "name": "Jens Petter Hauge",
+      "description": "Norwegian association football player",
+      "place_of_birth_qid": "Q39383",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q336286",
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q478167",
+          "start": "2016-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q214992",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q478167",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q478167",
+      "image_filename": "2022128171253 2022-05-08 Fussball Eintracht Frankfurt vs Borussia Mönchengladbach - Sven - 1D X MK II - 2064 - B70I8175 (Jens Petter Hauge cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jens_Petter_Hauge",
+      "transfermarkt_id": "422355",
+      "fifa_player_id": "201493817",
+      "positions": [
+        "defender",
+        "midfielder"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Bodø",
+      "wikidata_current_club": "FK Bodø/Glimt",
+      "wikidata_current_club_qid": "Q478167",
+      "photo": {
+        "filename": "2022128171253 2022-05-08 Fussball Eintracht Frankfurt vs Borussia Mönchengladbach - Sven - 1D X MK II - 2064 - B70I8175 (Jens Petter Hauge cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/2022128171253_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2064_-_B70I8175_%28Jens_Petter_Hauge_cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/2022128171253_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2064_-_B70I8175_%28Jens_Petter_Hauge_cropped%29.jpg",
+        "width": 873,
+        "height": 1165,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Sven Mandel",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jens-petter-hauge.jpg"
+      }
+    },
+    {
+      "slug": "sondre-langås",
+      "display_name": "Sondre Langås",
+      "shirt_no": 24,
+      "position_code": "DF",
+      "dob": "2001-02-02",
+      "age": 25,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Derby County",
+      "wikipedia_title": "Sondre Langås",
+      "date_of_birth": "2001-02-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Derby County",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q102330606",
+      "qid": "Q102330606",
+      "name": "Sondre Langås",
+      "description": "Norwegian association football player",
+      "place_of_birth_qid": "Q6962086",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q5971873",
+          "start": "2020-11-03",
+          "end": null
+        },
+        {
+          "team_qid": "Q1112784",
+          "start": "2020-01-17",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q5971873",
+      "image_filename": "Sondre Langås 25042026 (1).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sondre_Lang%C3%A5s",
+      "transfermarkt_id": "737837",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Namsos",
+      "wikidata_current_club": "IL Stjørdals-Blink",
+      "wikidata_current_club_qid": "Q5971873",
+      "photo": {
+        "filename": "Sondre Langås 25042026 (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sondre_Lang%C3%A5s_25042026_%281%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sondre_Lang%C3%A5s_25042026_%281%29.jpg/960px-Sondre_Lang%C3%A5s_25042026_%281%29.jpg",
+        "width": 1878,
+        "height": 2126,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/sondre-langås.jpg"
+      }
+    },
+    {
+      "slug": "henrik-falchener",
+      "display_name": "Henrik Falchener",
+      "shirt_no": 25,
+      "position_code": "DF",
+      "dob": "2003-05-08",
+      "age": 23,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Viking",
+      "wikipedia_title": "Henrik Falchener",
+      "date_of_birth": "2003-05-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Viking",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q108990482",
+      "qid": "Q108990482",
+      "name": "Henrik Falchener",
+      "description": "Norwegian association football player",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 194.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "image_filename": "Henrik Falchener 25 Viking FK UECL 20250813 (5).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Henrik_Falchener",
+      "transfermarkt_id": "743088",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "photo": {
+        "filename": "Henrik Falchener 25 Viking FK UECL 20250813 (5).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Henrik_Falchener_25_Viking_FK_UECL_20250813_%285%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Henrik_Falchener_25_Viking_FK_UECL_20250813_%285%29.jpg/960px-Henrik_Falchener_25_Viking_FK_UECL_20250813_%285%29.jpg",
+        "width": 5152,
+        "height": 7728,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/User:Zafer\" title=\"User:Zafer\">Zafer</a></div>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/henrik-falchener.jpg"
+      }
+    },
+    {
+      "slug": "julian-ryerson",
+      "display_name": "Julian Ryerson",
+      "shirt_no": 26,
+      "position_code": "DF",
+      "dob": "1997-11-17",
+      "age": 28,
+      "caps": 41,
+      "goals": 1,
+      "club_from_squad_table": "Borussia Dortmund",
+      "wikipedia_title": "Julian Ryerson",
+      "date_of_birth": "1997-11-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Borussia Dortmund",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28717698",
+      "qid": "Q28717698",
+      "name": "Julian Ryerson",
+      "description": "Norwegian footballer (born 1997)",
+      "place_of_birth_qid": "Q505952",
+      "citizenship_qids": [
+        "Q20"
+      ],
+      "height_cm": 1.83,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q211177",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2446294",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q141971",
+          "start": "2018-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q3873528",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q3873512",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q184387",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q41420",
+      "image_filename": "2023-08-12 TSV Schott Mainz gegen Borussia Dortmund (DFB-Pokal 2023-24) by Sandro Halank–102.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Julian_Ryerson",
+      "transfermarkt_id": "370789",
+      "fifa_player_id": "201413894",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Norway"
+      ],
+      "place_of_birth": "Lyngdal Municipality",
+      "photo": {
+        "filename": "2023-08-12 TSV Schott Mainz gegen Borussia Dortmund (DFB-Pokal 2023-24) by Sandro Halank–102.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93102.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93102.jpg/960px-2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93102.jpg",
+        "width": 2079,
+        "height": 2297,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sandro_Halank\" title=\"User:Sandro Halank\">Sandro Halank, Wikimedia Commons</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/julian-ryerson.jpg"
+      }
+    }
+  ],
+  "notes": [
+    "Norway row/QID/photo audit 2026-05-24: verifier confirmed all 26 rows match the Wikipedia 2026 squad table, and NFF official announcement independently confirms squad list, positions, clubs, caps, and goals. All QIDs resolve to the intended Norwegian footballers. Sander Tangvik had only a side/profile field-shot Commons candidate requiring a tight crop, so it was rejected under the clean-portrait policy. Sander Tangvik, Kristian Thorstvedt, Thelo Aasgaard, and Andreas Schjelderup had no clean Wikimedia portrait/P18/pageimage and are marked reviewed-none."
+  ]
+}

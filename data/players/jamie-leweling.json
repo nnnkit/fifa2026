@@ -1,0 +1,64 @@
+{
+  "slug": "jamie-leweling",
+  "display_name": "Jamie Leweling",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2001-02-26",
+  "age": 25,
+  "caps": 4,
+  "goals": 1,
+  "club_from_squad_table": "VfB Stuttgart",
+  "wikipedia_title": "Jamie Leweling",
+  "date_of_birth": "2001-02-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "VfB Stuttgart",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q65964628",
+  "qid": "Q65964628",
+  "name": "Jamie Leweling",
+  "description": "German association football player",
+  "place_of_birth_qid": "Q183",
+  "citizenship_qids": [
+    "Q183",
+    "Q117"
+  ],
+  "height_cm": 1.84,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q153539",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q153539",
+  "image_filename": "Jamie leweling.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jamie_Leweling",
+  "transfermarkt_id": "518505",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Germany",
+    "Ghana"
+  ],
+  "place_of_birth": "Germany",
+  "wikidata_current_club": "SpVgg Greuther Fürth",
+  "wikidata_current_club_qid": "Q153539",
+  "photo": {
+    "filename": "Jamie leweling.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jamie_leweling.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jamie_leweling.jpg",
+    "width": 640,
+    "height": 800,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">Jeollo von VfB-exklusiv.de</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jamie-leweling.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

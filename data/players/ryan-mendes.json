@@ -1,0 +1,80 @@
+{
+  "slug": "ryan-mendes",
+  "display_name": "Ryan Mendes",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1990-01-08",
+  "age": 36,
+  "caps": 94,
+  "goals": 22,
+  "club_from_squad_table": "I\u011fd\u0131r",
+  "wikipedia_title": "Ryan Mendes",
+  "date_of_birth": "1990-01-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "I\u011fd\u0131r",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q1392925",
+  "qid": "Q1392925",
+  "name": "Ryan Mendes da Gra\u00e7a",
+  "description": "Cape Verdean footballer",
+  "place_of_birth_qid": "Q495547",
+  "citizenship_qids": [
+    "Q142",
+    "Q1011"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19516",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q328658",
+      "start": "2008-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q19490",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q330039",
+      "start": "2010-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19490",
+  "image_filename": "Ryan Mendes (LOSC Lille).JPG",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Mendes",
+  "transfermarkt_id": "111627",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "France",
+    "Cape Verde"
+  ],
+  "place_of_birth": "Mindelo",
+  "wikidata_current_club": "Nottingham Forest F.C.",
+  "wikidata_current_club_qid": "Q19490",
+  "photo": {
+    "filename": "Ryan Mendes (LOSC Lille).JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ryan_Mendes_%28LOSC_Lille%29.JPG",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ryan_Mendes_%28LOSC_Lille%29.JPG/960px-Ryan_Mendes_%28LOSC_Lille%29.JPG",
+    "width": 1320,
+    "height": 1694,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Liondartois\" title=\"User:Liondartois\">Liondartois</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ryan-mendes.JPG"
+  },
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde"
+}

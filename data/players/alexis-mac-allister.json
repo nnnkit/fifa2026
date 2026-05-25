@@ -1,0 +1,93 @@
+{
+  "slug": "alexis-mac-allister",
+  "display_name": "Alexis Mac Allister",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1998-12-24",
+  "age": 27,
+  "caps": 44,
+  "goals": 6,
+  "club_from_squad_table": "Liverpool",
+  "wikipedia_title": "Alexis Mac Allister",
+  "wikidata_qid": "Q33297140",
+  "qid": "Q33297140",
+  "name": "Alexis Mac Allister",
+  "description": "Argentine association football player (born 1998)",
+  "date_of_birth": "1998-12-24",
+  "place_of_birth_qid": "Q44215",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 176.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q220621",
+      "start": "2016-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q19453",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q220621",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q170703",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q1130849",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2462207",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1130849",
+  "image_filename": "Alexis Mac Allister WC 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Mac_Allister",
+  "transfermarkt_id": "534033",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Liverpool",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Santa Rosa",
+  "wikidata_current_club": "Liverpool F.C.",
+  "wikidata_current_club_qid": "Q1130849",
+  "photo": {
+    "filename": "Alexis Mac Allister WC 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alexis_Mac_Allister_WC_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alexis_Mac_Allister_WC_2022.jpg",
+    "width": 720,
+    "height": 1222,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/alexis-mac-allister.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

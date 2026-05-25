@@ -1,0 +1,69 @@
+{
+  "slug": "jean-ricner-bellegarde",
+  "display_name": "Jean-Ricner Bellegarde",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1998-06-27",
+  "age": 27,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "Wolverhampton Wanderers",
+  "wikipedia_title": "Jean-Ricner Bellegarde",
+  "date_of_birth": "1998-06-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Wolverhampton Wanderers",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26251607",
+  "qid": "Q26251607",
+  "name": "Jean-Ricner Bellegarde",
+  "description": "French footballer (born 1998)",
+  "place_of_birth_qid": "Q174002",
+  "citizenship_qids": [
+    "Q142",
+    "Q790"
+  ],
+  "height_cm": 1.72,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q191843",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q126334",
+      "start": "2019-07-02",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q126334",
+  "image_filename": "Lens B - AC Amiens (12-09-2015) 64.JPG",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Ricner_Bellegarde",
+  "transfermarkt_id": "450050",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "France",
+    "Haiti"
+  ],
+  "place_of_birth": "Colombes",
+  "wikidata_current_club": "RC Strasbourg Alsace",
+  "wikidata_current_club_qid": "Q126334",
+  "photo": {
+    "filename": "Lens B - AC Amiens (12-09-2015) 64.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Lens_B_-_AC_Amiens_%2812-09-2015%29_64.JPG",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Lens_B_-_AC_Amiens_%2812-09-2015%29_64.JPG/960px-Lens_B_-_AC_Amiens_%2812-09-2015%29_64.JPG",
+    "width": 1880,
+    "height": 1408,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterhéninois (page does not exist)\">Supporterhéninois</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jean-ricner-bellegarde.JPG"
+  },
+  "team_slug": "haiti",
+  "team_country": "Haiti"
+}

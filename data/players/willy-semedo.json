@@ -1,0 +1,79 @@
+{
+  "slug": "willy-semedo",
+  "display_name": "Willy Semedo",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1994-04-27",
+  "age": 32,
+  "caps": 36,
+  "goals": 2,
+  "club_from_squad_table": "Omonia",
+  "wikipedia_title": "Willy Semedo",
+  "date_of_birth": "1994-04-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Omonia",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q44821118",
+  "qid": "Q44821118",
+  "name": "Willy Semedo",
+  "description": "French and Cape Verdean association football player",
+  "place_of_birth_qid": "Q237367",
+  "citizenship_qids": [
+    "Q142",
+    "Q1011"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19585",
+      "start": "2018-01-31",
+      "end": "2019-02-04"
+    },
+    {
+      "team_qid": "Q1053917",
+      "start": "2018-08-30",
+      "end": "2019-01-30"
+    },
+    {
+      "team_qid": "Q1024390",
+      "start": "2019-02-04",
+      "end": "2019-07-00"
+    },
+    {
+      "team_qid": "Q209509",
+      "start": "2019-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q209509",
+  "image_filename": "RC Lens - Grenoble Foot 38 (10-02-2020) 70.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Willy_Semedo",
+  "transfermarkt_id": "531450",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "France",
+    "Cape Verde"
+  ],
+  "place_of_birth": "Montfermeil",
+  "wikidata_current_club": "Grenoble Foot 38",
+  "wikidata_current_club_qid": "Q209509",
+  "photo": {
+    "filename": "RC Lens - Grenoble Foot 38 (10-02-2020) 70.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/RC_Lens_-_Grenoble_Foot_38_%2810-02-2020%29_70.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/RC_Lens_-_Grenoble_Foot_38_%2810-02-2020%29_70.jpg/960px-RC_Lens_-_Grenoble_Foot_38_%2810-02-2020%29_70.jpg",
+    "width": 2190,
+    "height": 2921,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterh\u00e9ninois (page does not exist)\">Supporterh\u00e9ninois</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/willy-semedo.jpg"
+  },
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde"
+}

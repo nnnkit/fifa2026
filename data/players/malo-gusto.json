@@ -1,0 +1,72 @@
+{
+  "slug": "malo-gusto",
+  "display_name": "Malo Gusto",
+  "shirt_no": 2,
+  "position_code": "DF",
+  "dob": "2003-05-19",
+  "age": 23,
+  "caps": 9,
+  "goals": 0,
+  "club_from_squad_table": "Chelsea",
+  "wikipedia_title": "Malo Gusto",
+  "date_of_birth": "2003-05-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Chelsea",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q78752401",
+  "qid": "Q78752401",
+  "name": "Malo Gusto",
+  "description": "French footballer (born 2003)",
+  "place_of_birth_qid": "Q1056120",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 1.79,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q704",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q47774",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q9616",
+  "image_filename": "Olympique lyonnais - ES Troyes AC L1 19-08-2022 - Malo Gusto.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Malo_Gusto",
+  "transfermarkt_id": "620322",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "D\u00e9cines-Charpieu",
+  "wikidata_current_club": "Chelsea F.C.",
+  "wikidata_current_club_qid": "Q9616",
+  "photo": {
+    "filename": "Olympique lyonnais - ES Troyes AC L1 19-08-2022 - Malo Gusto.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Olympique_lyonnais_-_ES_Troyes_AC_L1_19-08-2022_-_Malo_Gusto.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Olympique_lyonnais_-_ES_Troyes_AC_L1_19-08-2022_-_Malo_Gusto.jpg/960px-Olympique_lyonnais_-_ES_Troyes_AC_L1_19-08-2022_-_Malo_Gusto.jpg",
+    "width": 1853,
+    "height": 3073,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sebleouf\" title=\"User:Sebleouf\">Sebleouf</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/malo-gusto.jpg"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

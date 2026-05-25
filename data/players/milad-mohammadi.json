@@ -1,0 +1,79 @@
+{
+  "slug": "milad-mohammadi",
+  "display_name": "Milad Mohammadi",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1993-09-29",
+  "age": 32,
+  "caps": 75,
+  "goals": 1,
+  "club_from_squad_table": "Persepolis",
+  "wikipedia_title": "Milad Mohammadi",
+  "date_of_birth": "1993-09-29",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Persepolis",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q17523896",
+  "qid": "Q17523896",
+  "name": "Milad Mohammadi",
+  "description": "footballer",
+  "place_of_birth_qid": "Q3616",
+  "citizenship_qids": [
+    "Q794"
+  ],
+  "height_cm": 1.78,
+  "weight_kg": 79.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q240444",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q864754",
+      "start": "2014-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q3277524",
+      "start": "2015-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q184602",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q240444",
+  "image_filename": "Milad Mohammadi.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Milad_Mohammadi",
+  "transfermarkt_id": "333355",
+  "fifa_player_id": "390537",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Iran"
+  ],
+  "place_of_birth": "Tehran",
+  "wikidata_current_club": "FC Akhmat Grozny",
+  "wikidata_current_club_qid": "Q240444",
+  "photo": {
+    "filename": "Milad Mohammadi.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Milad_Mohammadi.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Milad_Mohammadi.jpg",
+    "width": 265,
+    "height": 440,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Foad Ashtari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/milad-mohammadi.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

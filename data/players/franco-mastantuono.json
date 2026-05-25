@@ -1,0 +1,84 @@
+{
+  "slug": "franco-mastantuono",
+  "display_name": "Franco Mastantuono",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2007-08-14",
+  "age": 18,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Real Madrid",
+  "wikipedia_title": "Franco Mastantuono",
+  "wikidata_qid": "Q123289726",
+  "qid": "Q123289726",
+  "name": "Franco Mastantuono",
+  "description": "Argentine association football player (born 2007)",
+  "date_of_birth": "2007-08-14",
+  "place_of_birth_qid": "Q54118",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 1.77,
+  "position_qids": [
+    "Q193592",
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2902690",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": "2024-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q15799",
+      "start": "2024-00-00",
+      "end": "2025-08-14"
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2026-03-28",
+      "end": null
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2026-04-22",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8682",
+  "image_filename": "Franco Mastantuono in 2025 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Franco_Mastantuono",
+  "transfermarkt_id": "1057316",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder",
+    "forward"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Azul",
+  "wikidata_current_club": "Real Madrid Club de Fútbol",
+  "wikidata_current_club_qid": "Q8682",
+  "photo": {
+    "filename": "Franco Mastantuono in 2025 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Franco_Mastantuono_in_2025_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Franco_Mastantuono_in_2025_%28cropped%29.jpg",
+    "width": 541,
+    "height": 785,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Crispybeatle\" title=\"User:Crispybeatle\">Crispybeatle</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/franco-mastantuono.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

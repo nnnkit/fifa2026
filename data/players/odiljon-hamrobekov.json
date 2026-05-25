@@ -1,0 +1,62 @@
+{
+  "slug": "odiljon-hamrobekov",
+  "display_name": "Odiljon Hamrobekov",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-02-13",
+  "age": 30,
+  "caps": 71,
+  "goals": 1,
+  "club_from_squad_table": "Tractor",
+  "wikipedia_title": "Odiljon Hamrobekov",
+  "date_of_birth": "1996-02-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Tractor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q47501392",
+  "qid": "Q47501392",
+  "name": "Odiljon Hamrobekov",
+  "description": "association football player",
+  "place_of_birth_qid": "Q265",
+  "citizenship_qids": [
+    "Q265"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1150723",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1150723",
+  "image_filename": "Odiljon Hamrobekov 2020.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Odiljon_Hamrobekov",
+  "transfermarkt_id": "288915",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Uzbekistan"
+  ],
+  "place_of_birth": "Uzbekistan",
+  "wikidata_current_club": "Nasaf Qarshi",
+  "wikidata_current_club_qid": "Q1150723",
+  "photo": {
+    "filename": "Odiljon Hamrobekov 2020.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Odiljon_Hamrobekov_2020.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Odiljon_Hamrobekov_2020.jpg",
+    "width": 819,
+    "height": 1167,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u043d\u0430 \u041d\u044d\u0441\u0441\u0438",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/odiljon-hamrobekov.jpg"
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

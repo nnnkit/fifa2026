@@ -1,0 +1,68 @@
+{
+  "slug": "cristian-borja",
+  "display_name": "Cristian Borja",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1993-02-18",
+  "age": 33,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "Am\u00e9rica",
+  "wikipedia_title": "Cristian Borja (footballer, born 1993)",
+  "date_of_birth": "1993-02-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Am\u00e9rica",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21710667",
+  "qid": "Q21710667",
+  "name": "Cristian Borja",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q51103",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 179.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q75729",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q212564",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q75729",
+  "image_filename": "Cristian Alexis Borja - beIN-Sports-Reklam (2021) (cropped).png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cristian_Borja_(footballer,_born_1993)",
+  "transfermarkt_id": "356099",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Cali",
+  "wikidata_current_club": "Sporting CP",
+  "wikidata_current_club_qid": "Q75729",
+  "photo": {
+    "filename": "Cristian Alexis Borja - beIN-Sports-Reklam (2021) (cropped).png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Cristian_Alexis_Borja_-_beIN-Sports-Reklam_%282021%29_%28cropped%29.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Cristian_Alexis_Borja_-_beIN-Sports-Reklam_%282021%29_%28cropped%29.png",
+    "width": 414,
+    "height": 566,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "beIN SPORTS T\u00fcrkiye",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/cristian-borja.png"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

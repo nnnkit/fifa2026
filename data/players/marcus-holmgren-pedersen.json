@@ -1,0 +1,62 @@
+{
+  "slug": "marcus-holmgren-pedersen",
+  "display_name": "Marcus Holmgren Pedersen",
+  "shirt_no": 16,
+  "position_code": "DF",
+  "dob": "2000-07-16",
+  "age": 25,
+  "caps": 31,
+  "goals": 0,
+  "club_from_squad_table": "Torino",
+  "wikipedia_title": "Marcus Holmgren Pedersen",
+  "date_of_birth": "2000-07-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Torino",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q59268631",
+  "qid": "Q59268631",
+  "name": "Marcus Holmgren Pedersen",
+  "description": "Norwegian footballer",
+  "place_of_birth_qid": "Q721374",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 1.84,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q212490",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q212490",
+  "image_filename": "Marcus Holmgren Pedersen 2022 FC RB Salzburg gegen Feyenoord Rotterdam (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Holmgren_Pedersen",
+  "transfermarkt_id": "583404",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "Hammerfest",
+  "wikidata_current_club": "Troms\u00f8 IL",
+  "wikidata_current_club_qid": "Q212490",
+  "photo": {
+    "filename": "Marcus Holmgren Pedersen 2022 FC RB Salzburg gegen Feyenoord Rotterdam (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Marcus_Holmgren_Pedersen_2022_FC_RB_Salzburg_gegen_Feyenoord_Rotterdam_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Marcus_Holmgren_Pedersen_2022_FC_RB_Salzburg_gegen_Feyenoord_Rotterdam_%28cropped%29.jpg",
+    "width": 806,
+    "height": 1197,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/marcus-holmgren-pedersen.jpg"
+  },
+  "team_slug": "norway",
+  "team_country": "Norway"
+}

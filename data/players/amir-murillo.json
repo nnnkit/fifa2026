@@ -1,0 +1,99 @@
+{
+  "slug": "amir-murillo",
+  "display_name": "Amir Murillo",
+  "shirt_no": 23,
+  "position_code": "DF",
+  "dob": "1996-02-11",
+  "age": 30,
+  "caps": 91,
+  "goals": 9,
+  "club_from_squad_table": "Be\u015fikta\u015f",
+  "wikipedia_title": "Michael Amir Murillo",
+  "date_of_birth": "1996-02-11",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Be\u015fikta\u015f",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27805413",
+  "qid": "Q27805413",
+  "name": "Michael Amir Murillo",
+  "description": "Panamanian footballer",
+  "place_of_birth_qid": "Q3306",
+  "citizenship_qids": [
+    "Q804"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2060037",
+      "start": "2014-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q223748",
+      "start": "2016-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q204220",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q18913672",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q204220",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q187528",
+      "start": "2020-01-01",
+      "end": "2023-08-30"
+    },
+    {
+      "team_qid": "Q132885",
+      "start": "2023-08-30",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q172567",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q172567",
+  "image_filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 63.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Amir_Murillo",
+  "transfermarkt_id": "354482",
+  "fifa_player_id": "385031",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Panama"
+  ],
+  "place_of_birth": "Panama City",
+  "wikidata_current_club": "Be\u015fikta\u015f J.K.",
+  "wikidata_current_club_qid": "Q172567",
+  "photo": {
+    "filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 63.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_63.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_63.jpg/960px-Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_63.jpg",
+    "width": 2308,
+    "height": 3200,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/amir-murillo.jpg"
+  },
+  "team_slug": "panama",
+  "team_country": "Panama"
+}

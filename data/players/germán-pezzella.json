@@ -1,0 +1,88 @@
+{
+  "slug": "germán-pezzella",
+  "display_name": "Germán Pezzella",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1991-06-27",
+  "age": 34,
+  "caps": 42,
+  "goals": 3,
+  "club_from_squad_table": "River Plate",
+  "wikipedia_title": "Germán Pezzella",
+  "wikidata_qid": "Q3761173",
+  "qid": "Q3761173",
+  "name": "Germán Pezzella",
+  "description": "Argentine footballer",
+  "date_of_birth": "1991-06-27",
+  "place_of_birth_qid": "Q54108",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 187.0,
+  "weight_kg": 82.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q15799",
+      "start": "2009-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q8723",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": "2009-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q2462207",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q2052",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q79800",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8723",
+  "image_filename": "Germán Pezella en los premios Jorge Newbery 2024 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Germ%C3%A1n_Pezzella",
+  "transfermarkt_id": "113133",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "River Plate",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Bahía Blanca",
+  "wikidata_current_club": "Real Betis Balompié",
+  "wikidata_current_club_qid": "Q8723",
+  "photo": {
+    "filename": "Germán Pezella en los premios Jorge Newbery 2024 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Germ%C3%A1n_Pezella_en_los_premios_Jorge_Newbery_2024_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Germ%C3%A1n_Pezella_en_los_premios_Jorge_Newbery_2024_%28cropped%29.jpg",
+    "width": 304,
+    "height": 367,
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "attribution": "GCBA",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/germán-pezzella.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

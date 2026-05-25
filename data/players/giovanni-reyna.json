@@ -1,0 +1,89 @@
+{
+  "slug": "giovanni-reyna",
+  "display_name": "Giovanni Reyna",
+  "shirt_no": 7,
+  "position_code": "MF",
+  "dob": "2002-11-13",
+  "age": 23,
+  "caps": 36,
+  "goals": 9,
+  "club_from_squad_table": "Borussia M\u00f6nchengladbach",
+  "wikipedia_title": "Giovanni Reyna",
+  "date_of_birth": "2002-11-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Borussia M\u00f6nchengladbach",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q75019636",
+  "qid": "Q75019636",
+  "name": "Giovanni Reyna",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q188304",
+  "citizenship_qids": [
+    "Q145",
+    "Q45",
+    "Q30"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3590570",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2019-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q48854677",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q164134",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19490",
+      "start": "2024-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q101959",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q101959",
+  "image_filename": "Giovanni Reyna 2020.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Reyna",
+  "transfermarkt_id": "504215",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United Kingdom",
+    "Portugal",
+    "United States"
+  ],
+  "place_of_birth": "Sunderland",
+  "photo": {
+    "filename": "Giovanni Reyna 2020.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Giovanni_Reyna_2020.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Giovanni_Reyna_2020.jpg",
+    "width": 260,
+    "height": 410,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Vyacheslav Evdokimov",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/giovanni-reyna.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

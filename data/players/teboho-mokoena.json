@@ -1,0 +1,53 @@
+{
+  "slug": "teboho-mokoena",
+  "display_name": "Teboho Mokoena",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-01-24",
+  "age": 29,
+  "caps": 51,
+  "goals": 9,
+  "club_from_squad_table": "Mamelodi Sundowns",
+  "wikipedia_title": "Teboho Mokoena (soccer, born 1997)",
+  "wikidata_qid": "Q58790870",
+  "qid": "Q58790870",
+  "name": "Teboho Mokoena",
+  "description": "football player",
+  "date_of_birth": "1997-01-24",
+  "place_of_birth_qid": "Q831326",
+  "citizenship_qids": [
+    "Q258"
+  ],
+  "height_cm": 176.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q170327",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q170327",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Teboho_Mokoena_(soccer,_born_1997)",
+  "transfermarkt_id": "436372",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Mamelodi Sundowns",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "South Africa"
+  ],
+  "place_of_birth": "Bethlehem",
+  "wikidata_current_club": "South Africa men's national association football team",
+  "wikidata_current_club_qid": "Q170327",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "south-africa",
+  "team_country": "South Africa"
+}

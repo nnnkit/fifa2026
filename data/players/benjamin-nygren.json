@@ -1,0 +1,82 @@
+{
+  "slug": "benjamin-nygren",
+  "display_name": "Benjamin Nygren",
+  "shirt_no": 10,
+  "position_code": "FW",
+  "dob": "2001-07-08",
+  "age": 24,
+  "caps": 9,
+  "goals": 3,
+  "club_from_squad_table": "Celtic",
+  "wikipedia_title": "Benjamin Nygren",
+  "date_of_birth": "2001-07-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Celtic",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q60677561",
+  "qid": "Q60677561",
+  "name": "Benjamin Nygren",
+  "description": "Swedish association football player",
+  "place_of_birth_qid": "Q25287",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 1.84,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q201567",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q2255267",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q3590410",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q210025",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q160826",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q201567",
+  "image_filename": "Benjamin Nygren (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Nygren",
+  "transfermarkt_id": "475949",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Gothenburg",
+  "wikidata_current_club": "IFK G\u00f6teborg",
+  "wikidata_current_club_qid": "Q201567",
+  "photo": {
+    "filename": "Benjamin Nygren (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Benjamin_Nygren_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Benjamin_Nygren_%28cropped%29.jpg",
+    "width": 534,
+    "height": 677,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/benjamin-nygren.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

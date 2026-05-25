@@ -1,0 +1,72 @@
+{
+  "slug": "seol-young-woo",
+  "display_name": "Seol Young-woo",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-12-05",
+  "age": 27,
+  "caps": 32,
+  "goals": 0,
+  "club_from_squad_table": "Red Star Belgrade",
+  "wikipedia_title": "Seol Young-woo",
+  "wikidata_qid": "Q97205258",
+  "qid": "Q97205258",
+  "name": "Seol Young-woo",
+  "description": "South Korean footballer",
+  "date_of_birth": "1998-12-05",
+  "place_of_birth_qid": "Q41278",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q129673",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q488454",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q543842",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q129673",
+  "image_filename": "(추꾸미) '울산 합류' 설영우.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Seol_Young-woo",
+  "transfermarkt_id": "639414",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Red Star Belgrade",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "Ulsan",
+  "wikidata_current_club": "Ulsan HD FC",
+  "wikidata_current_club_qid": "Q129673",
+  "photo": {
+    "filename": "(추꾸미) '울산 합류' 설영우.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/%28%EC%B6%94%EA%BE%B8%EB%AF%B8%29_%27%EC%9A%B8%EC%82%B0_%ED%95%A9%EB%A5%98%27_%EC%84%A4%EC%98%81%EC%9A%B0.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%28%EC%B6%94%EA%BE%B8%EB%AF%B8%29_%27%EC%9A%B8%EC%82%B0_%ED%95%A9%EB%A5%98%27_%EC%84%A4%EC%98%81%EC%9A%B0.jpg/960px-%28%EC%B6%94%EA%BE%B8%EB%AF%B8%29_%27%EC%9A%B8%EC%82%B0_%ED%95%A9%EB%A5%98%27_%EC%84%A4%EC%98%81%EC%9A%B0.jpg",
+    "width": 1337,
+    "height": 1672,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@osensports7666\">OSEN SPORTS</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/seol-young-woo.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

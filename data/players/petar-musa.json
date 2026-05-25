@@ -1,0 +1,67 @@
+{
+  "slug": "petar-musa",
+  "display_name": "Petar Musa",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1998-03-04",
+  "age": 28,
+  "caps": 10,
+  "goals": 1,
+  "club_from_squad_table": "FC Dallas",
+  "wikipedia_title": "Petar Musa",
+  "date_of_birth": "1998-03-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "FC Dallas",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q84810924",
+  "qid": "Q84810924",
+  "name": "Petar Musa",
+  "description": "Croatian association football player",
+  "place_of_birth_qid": "Q1435",
+  "citizenship_qids": [
+    "Q224"
+  ],
+  "height_cm": 190.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q194393",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q219703",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q194393",
+  "image_filename": "Petar Musa NY Red Bulls v FC Dallas 2 May 2026-53 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Petar_Musa",
+  "transfermarkt_id": "387110",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Croatia"
+  ],
+  "place_of_birth": "Zagreb",
+  "wikidata_current_club": "SK Slavia Prague",
+  "wikidata_current_club_qid": "Q194393",
+  "photo": {
+    "filename": "Petar Musa NY Red Bulls v FC Dallas 2 May 2026-53 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Petar_Musa_NY_Red_Bulls_v_FC_Dallas_2_May_2026-53_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Petar_Musa_NY_Red_Bulls_v_FC_Dallas_2_May_2026-53_%28cropped%29.jpg/960px-Petar_Musa_NY_Red_Bulls_v_FC_Dallas_2_May_2026-53_%28cropped%29.jpg",
+    "width": 2697,
+    "height": 4043,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/petar-musa.jpg"
+  },
+  "team_slug": "croatia",
+  "team_country": "Croatia"
+}

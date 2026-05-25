@@ -1,0 +1,53 @@
+{
+  "slug": "brian-gutiérrez",
+  "display_name": "Brian Gutiérrez",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2003-06-17",
+  "age": 22,
+  "caps": 6,
+  "goals": 2,
+  "club_from_squad_table": "Guadalajara",
+  "wikipedia_title": "Brian Gutiérrez",
+  "wikidata_qid": "Q98536293",
+  "qid": "Q98536293",
+  "name": "Brian Gutiérrez",
+  "description": "Mexican-American soccer player",
+  "date_of_birth": "2003-06-17",
+  "place_of_birth_qid": "Q578072",
+  "citizenship_qids": [
+    "Q30",
+    "Q96"
+  ],
+  "height_cm": 1.78,
+  "position_qids": [
+    "Q193592"
+  ],
+  "image_filename": "Brian Gutiérrez Philadelphia Chicago 10.26.25-126 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Guti%C3%A9rrez",
+  "transfermarkt_id": "724443",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United States",
+    "Mexico"
+  ],
+  "place_of_birth": "Berwyn",
+  "current_club": "Guadalajara",
+  "current_club_source": "wikipedia-squad-table",
+  "photo": {
+    "filename": "Brian Gutiérrez Philadelphia Chicago 10.26.25-126 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Brian_Guti%C3%A9rrez_Philadelphia_Chicago_10.26.25-126_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Brian_Guti%C3%A9rrez_Philadelphia_Chicago_10.26.25-126_%28cropped%29.jpg/960px-Brian_Guti%C3%A9rrez_Philadelphia_Chicago_10.26.25-126_%28cropped%29.jpg",
+    "width": 2295,
+    "height": 3059,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/brian-gutiérrez.jpg"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

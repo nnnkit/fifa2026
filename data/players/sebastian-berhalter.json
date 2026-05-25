@@ -1,0 +1,77 @@
+{
+  "slug": "sebastian-berhalter",
+  "display_name": "Sebastian Berhalter",
+  "shirt_no": 14,
+  "position_code": "MF",
+  "dob": "2001-05-10",
+  "age": 25,
+  "caps": 11,
+  "goals": 1,
+  "club_from_squad_table": "Vancouver Whitecaps",
+  "wikipedia_title": "Sebastian Berhalter",
+  "date_of_birth": "2001-05-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Vancouver Whitecaps",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q86301356",
+  "qid": "Q86301356",
+  "name": "Sebastian Berhalter",
+  "description": "American association football player (born 2001)",
+  "place_of_birth_qid": "Q84",
+  "citizenship_qids": [
+    "Q145",
+    "Q27",
+    "Q30"
+  ],
+  "height_cm": 175.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q457163",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19564744",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q196107",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q457163",
+  "image_filename": "Sebastian Berhalter, 2025 CONCACAF Gold Cup, 01 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sebastian_Berhalter",
+  "transfermarkt_id": "734761",
+  "wikidata_date_of_birth": "2001-05-17",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United Kingdom",
+    "Ireland",
+    "United States"
+  ],
+  "place_of_birth": "London",
+  "wikidata_current_club": "Columbus Crew",
+  "wikidata_current_club_qid": "Q457163",
+  "photo": {
+    "filename": "Sebastian Berhalter, 2025 CONCACAF Gold Cup, 01 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Sebastian_Berhalter%2C_2025_CONCACAF_Gold_Cup%2C_01_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Sebastian_Berhalter%2C_2025_CONCACAF_Gold_Cup%2C_01_%28cropped%29.jpg",
+    "width": 689,
+    "height": 1084,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://old.reddit.com/user/reepers_hellcat\">u/reepers_hellcat</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/sebastian-berhalter.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

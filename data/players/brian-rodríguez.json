@@ -1,0 +1,82 @@
+{
+  "slug": "brian-rodr\u00edguez",
+  "display_name": "Brian Rodr\u00edguez",
+  "shirt_no": 18,
+  "position_code": "FW",
+  "dob": "2000-05-20",
+  "age": 26,
+  "caps": 32,
+  "goals": 4,
+  "club_from_squad_table": "Am\u00e9rica",
+  "wikipedia_title": "Brian Rodr\u00edguez",
+  "date_of_birth": "2000-05-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Am\u00e9rica",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q60736591",
+  "qid": "Q60736591",
+  "name": "Brian Rodr\u00edguezF",
+  "description": "Uruguayan footballer",
+  "place_of_birth_qid": "Q1784710",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 174.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q16320",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q2442864",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q18380286",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q10407",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q459090",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q459090",
+  "image_filename": "Brian Rodriguez.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Rodr%C3%ADguez",
+  "transfermarkt_id": "465818",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Tranqueras",
+  "wikidata_current_club": "Club Am\u00e9rica",
+  "wikidata_current_club_qid": "Q459090",
+  "photo": {
+    "filename": "Brian Rodriguez.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Brian_Rodriguez.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Brian_Rodriguez.png",
+    "width": 547,
+    "height": 687,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@lalata\">LA LATA</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/brian-rodr\u00edguez.png"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

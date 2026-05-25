@@ -1,0 +1,51 @@
+{
+  "slug": "alaa-al-hejji",
+  "display_name": "Alaa Al-Hejji",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1995-12-03",
+  "age": 30,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Neom",
+  "wikipedia_title": "Alaa Al-Hejji",
+  "date_of_birth": "1995-12-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Neom",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q22812486",
+  "qid": "Q22812486",
+  "name": "Alaa Al Hejji",
+  "description": "association football player",
+  "place_of_birth_qid": "Q27469",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2027718",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2027718",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alaa_Al-Hejji",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Sakakah",
+  "wikidata_current_club": "Al-Khaleej FC",
+  "wikidata_current_club_qid": "Q2027718",
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

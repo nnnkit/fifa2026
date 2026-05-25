@@ -1,0 +1,79 @@
+{
+  "slug": "denzel-dumfries",
+  "display_name": "Denzel Dumfries",
+  "shirt_no": 22,
+  "position_code": "DF",
+  "dob": "1996-04-18",
+  "age": 30,
+  "caps": 71,
+  "goals": 11,
+  "club_from_squad_table": "Internazionale",
+  "wikipedia_title": "Denzel Dumfries",
+  "date_of_birth": "1996-04-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Internazionale",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19882816",
+  "qid": "Q19882816",
+  "name": "Denzel Dumfries",
+  "description": "Dutch association football player (born 1996)",
+  "place_of_birth_qid": "Q34370",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q209895",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q459101",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q200321",
+      "start": "2017-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q200321",
+  "image_filename": "Edison ndreca inter egnati (cropped Denzel Dumfries).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Denzel_Dumfries",
+  "transfermarkt_id": "321528",
+  "fifa_player_id": "201324444",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Rotterdam",
+  "wikidata_current_club": "SC Heerenveen",
+  "wikidata_current_club_qid": "Q200321",
+  "photo": {
+    "filename": "Edison ndreca inter egnati (cropped Denzel Dumfries).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Edison_ndreca_inter_egnati_%28cropped_Denzel_Dumfries%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Edison_ndreca_inter_egnati_%28cropped_Denzel_Dumfries%29.jpg",
+    "width": 313,
+    "height": 390,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Erjonallaraj&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Erjonallaraj (page does not exist)\">Erjonallaraj</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/denzel-dumfries.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

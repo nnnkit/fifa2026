@@ -1,0 +1,63 @@
+{
+  "slug": "mo-abualnadi",
+  "display_name": "Mo Abualnadi",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-02-08",
+  "age": 25,
+  "caps": 16,
+  "goals": 0,
+  "club_from_squad_table": "Selangor",
+  "wikipedia_title": "Mo Abualnadi",
+  "date_of_birth": "2001-02-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Selangor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q62364798",
+  "qid": "Q62364798",
+  "name": "Mo Abualnadi",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q500481",
+  "citizenship_qids": [
+    "Q30",
+    "Q810"
+  ],
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q21189793",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q21189793",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q19599118",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q21189793",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mo_Abualnadi",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "United States",
+    "Jordan"
+  ],
+  "place_of_birth": "Overland Park",
+  "wikidata_current_club": "Sporting Kansas City II",
+  "wikidata_current_club_qid": "Q21189793",
+  "team_slug": "jordan",
+  "team_country": "Jordan",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

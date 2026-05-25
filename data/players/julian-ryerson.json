@@ -1,0 +1,91 @@
+{
+  "slug": "julian-ryerson",
+  "display_name": "Julian Ryerson",
+  "shirt_no": 26,
+  "position_code": "DF",
+  "dob": "1997-11-17",
+  "age": 28,
+  "caps": 41,
+  "goals": 1,
+  "club_from_squad_table": "Borussia Dortmund",
+  "wikipedia_title": "Julian Ryerson",
+  "date_of_birth": "1997-11-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Borussia Dortmund",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28717698",
+  "qid": "Q28717698",
+  "name": "Julian Ryerson",
+  "description": "Norwegian footballer (born 1997)",
+  "place_of_birth_qid": "Q505952",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 1.83,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q211177",
+      "start": "2015-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q2446294",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q141971",
+      "start": "2018-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q3873528",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q3873512",
+      "start": "2015-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q184387",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q41420",
+  "image_filename": "2023-08-12 TSV Schott Mainz gegen Borussia Dortmund (DFB-Pokal 2023-24) by Sandro Halank\u2013102.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Julian_Ryerson",
+  "transfermarkt_id": "370789",
+  "fifa_player_id": "201413894",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "Lyngdal Municipality",
+  "photo": {
+    "filename": "2023-08-12 TSV Schott Mainz gegen Borussia Dortmund (DFB-Pokal 2023-24) by Sandro Halank\u2013102.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93102.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93102.jpg/960px-2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_%28DFB-Pokal_2023-24%29_by_Sandro_Halank%E2%80%93102.jpg",
+    "width": 2079,
+    "height": 2297,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sandro_Halank\" title=\"User:Sandro Halank\">Sandro Halank, Wikimedia Commons</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/julian-ryerson.jpg"
+  },
+  "team_slug": "norway",
+  "team_country": "Norway"
+}

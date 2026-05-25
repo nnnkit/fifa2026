@@ -1,0 +1,84 @@
+{
+  "slug": "alejandro-garnacho",
+  "display_name": "Alejandro Garnacho",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2004-07-01",
+  "age": 21,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "Chelsea",
+  "wikipedia_title": "Alejandro Garnacho",
+  "wikidata_qid": "Q111366053",
+  "qid": "Q111366053",
+  "name": "Alejandro Garnacho",
+  "description": "Spanish-Argentine association football player",
+  "date_of_birth": "2004-07-01",
+  "place_of_birth_qid": "Q24012779",
+  "citizenship_qids": [
+    "Q29",
+    "Q414"
+  ],
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18656",
+      "start": "2022-00-00",
+      "end": "2025-08-00"
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": "2022-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q2902690",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2025-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q9616",
+  "image_filename": "Alejandro Garnacho 7 August 2022 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alejandro_Garnacho",
+  "transfermarkt_id": "811779",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Chelsea",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Spain",
+    "Argentina"
+  ],
+  "place_of_birth": "Arroyomolinos",
+  "wikidata_current_club": "Chelsea F.C.",
+  "wikidata_current_club_qid": "Q9616",
+  "photo": {
+    "filename": "Alejandro Garnacho 7 August 2022 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Alejandro_Garnacho_7_August_2022_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Alejandro_Garnacho_7_August_2022_%28cropped%29.jpg",
+    "width": 729,
+    "height": 1166,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/alejandro-garnacho.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "abdulaziz-hatem",
+  "display_name": "Abdulaziz Hatem",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1990-10-28",
+  "age": 35,
+  "caps": 116,
+  "goals": 11,
+  "club_from_squad_table": "Al-Rayyan",
+  "wikipedia_title": "Abdulaziz Hatem",
+  "date_of_birth": "1990-10-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Rayyan",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q4665805",
+  "qid": "Q4665805",
+  "name": "Abdulaziz Hatem",
+  "description": "Qatari association football player",
+  "place_of_birth_qid": "Q3861",
+  "citizenship_qids": [
+    "Q846"
+  ],
+  "height_cm": 179.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q283760",
+      "start": "2007-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q428211",
+      "start": "2015-01-01",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2009-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q311268",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q311268",
+  "image_filename": "Abdulaziz Hatem 2012 2.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abdulaziz_Hatem",
+  "transfermarkt_id": "113915",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Qatar"
+  ],
+  "place_of_birth": "Doha",
+  "photo": {
+    "filename": "Abdulaziz Hatem 2012 2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Abdulaziz_Hatem_2012_2.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Abdulaziz_Hatem_2012_2.jpg/960px-Abdulaziz_Hatem_2012_2.jpg",
+    "width": 1800,
+    "height": 2250,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a href=\"//www.flickr.com/people/66463488@N06\" class=\"extiw\" title=\"flickruser:66463488@N06\">Doha Stadium Plus Qatar</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/abdulaziz-hatem.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "shojae-khalilzadeh",
+  "display_name": "Shojae Khalilzadeh",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1989-05-14",
+  "age": 37,
+  "caps": 56,
+  "goals": 2,
+  "club_from_squad_table": "Tractor",
+  "wikipedia_title": "Shojae Khalilzadeh",
+  "date_of_birth": "1989-05-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Tractor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q7500146",
+  "qid": "Q7500146",
+  "name": "Shoja' Khalilzadeh",
+  "description": "footballer",
+  "place_of_birth_qid": "Q2633273",
+  "citizenship_qids": [
+    "Q794"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q32358",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q6417082",
+      "start": "2008-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q1149041",
+      "start": "2010-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q31660",
+      "start": "2013-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q6587944",
+      "start": "2007-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q3277524",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q184602",
+      "start": "2009-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q242260",
+      "start": "2017-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q311268",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q284452",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q284452",
+  "image_filename": "Shoja Khalilzadeh3.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Shojae_Khalilzadeh",
+  "transfermarkt_id": "213715",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Iran"
+  ],
+  "place_of_birth": "Bahnemir",
+  "wikidata_current_club": "Al Ahli SC",
+  "wikidata_current_club_qid": "Q284452",
+  "photo": {
+    "filename": "Shoja Khalilzadeh3.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Shoja_Khalilzadeh3.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Shoja_Khalilzadeh3.jpg",
+    "width": 555,
+    "height": 663,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mojtaba Saleh/Fars News Agency",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/shojae-khalilzadeh.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

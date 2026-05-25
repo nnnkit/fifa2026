@@ -1,0 +1,67 @@
+{
+  "slug": "aníbal-moreno",
+  "display_name": "Aníbal Moreno",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1999-05-13",
+  "age": 27,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "River Plate",
+  "wikipedia_title": "Aníbal Moreno",
+  "wikidata_qid": "Q60842143",
+  "qid": "Q60842143",
+  "name": "Aníbal Moreno",
+  "description": "Argentine footballer",
+  "date_of_birth": "1999-05-13",
+  "place_of_birth_qid": "Q44162",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 177.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q221882",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q221882",
+  "image_filename": "Anibal-Moreno-Palmeiras-Liverpool-abr24-2.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/An%C3%ADbal_Moreno",
+  "transfermarkt_id": "642758",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "River Plate",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "San Fernando del Valle de Catamarca",
+  "wikidata_current_club": "Newell's Old Boys",
+  "wikidata_current_club_qid": "Q221882",
+  "photo": {
+    "filename": "Anibal-Moreno-Palmeiras-Liverpool-abr24-2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Anibal-Moreno-Palmeiras-Liverpool-abr24-2.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Anibal-Moreno-Palmeiras-Liverpool-abr24-2.jpg/960px-Anibal-Moreno-Palmeiras-Liverpool-abr24-2.jpg",
+    "width": 1306,
+    "height": 1743,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:NullReason\" title=\"User:NullReason\">NullReason</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/aníbal-moreno.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

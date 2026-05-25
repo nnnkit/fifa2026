@@ -1,0 +1,55 @@
+{
+  "slug": "dailon-livramento",
+  "display_name": "Dailon Livramento",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-05-04",
+  "age": 25,
+  "caps": 20,
+  "goals": 7,
+  "club_from_squad_table": "Casa Pia",
+  "wikipedia_title": "Dailon Livramento",
+  "date_of_birth": "2001-05-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Casa Pia",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q110943455",
+  "qid": "Q110943455",
+  "name": "Dailon Livramento",
+  "description": "Dutch association football player",
+  "place_of_birth_qid": "Q34370",
+  "citizenship_qids": [
+    "Q29999",
+    "Q1011"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q24719",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q24719",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dailon_Livramento",
+  "transfermarkt_id": "676411",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands",
+    "Cape Verde"
+  ],
+  "place_of_birth": "Rotterdam",
+  "wikidata_current_club": "Roda JC Kerkrade",
+  "wikidata_current_club_qid": "Q24719",
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

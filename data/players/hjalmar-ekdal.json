@@ -1,0 +1,92 @@
+{
+  "slug": "hjalmar-ekdal",
+  "display_name": "Hjalmar Ekdal",
+  "shirt_no": 14,
+  "position_code": "DF",
+  "dob": "1998-10-21",
+  "age": 27,
+  "caps": 11,
+  "goals": 0,
+  "club_from_squad_table": "Burnley",
+  "wikipedia_title": "Hjalmar Ekdal",
+  "date_of_birth": "1998-10-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Burnley",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q56641379",
+  "qid": "Q56641379",
+  "name": "Hjalmar Ekdal",
+  "description": "Swedish footballer (born 1998)",
+  "place_of_birth_qid": "Q1754",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 188.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1162813",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q622430",
+      "start": "2021-03-00",
+      "end": "2023-01-21"
+    },
+    {
+      "team_qid": "Q19458",
+      "start": "2023-01-21",
+      "end": null
+    },
+    {
+      "team_qid": "Q1471336",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q460724",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q746046",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q754339",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19458",
+  "image_filename": "Hjalmar Ekdal (Sirius, 2020, cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hjalmar_Ekdal",
+  "transfermarkt_id": "392179",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Stockholm",
+  "wikidata_current_club": "Burnley F.C.",
+  "wikidata_current_club_qid": "Q19458",
+  "photo": {
+    "filename": "Hjalmar Ekdal (Sirius, 2020, cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Hjalmar_Ekdal_%28Sirius%2C_2020%2C_cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hjalmar_Ekdal_%28Sirius%2C_2020%2C_cropped%29.jpg/960px-Hjalmar_Ekdal_%28Sirius%2C_2020%2C_cropped%29.jpg",
+    "width": 1029,
+    "height": 1187,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Backeman\" title=\"User:Backeman\">Jens Backeman</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/hjalmar-ekdal.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

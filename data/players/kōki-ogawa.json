@@ -1,0 +1,85 @@
+{
+  "slug": "k\u014dki-ogawa",
+  "display_name": "K\u014dki Ogawa",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1997-08-08",
+  "age": 28,
+  "caps": 14,
+  "goals": 10,
+  "club_from_squad_table": "NEC",
+  "wikipedia_title": "K\u014dki Ogawa (footballer)",
+  "date_of_birth": "1997-08-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "NEC",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q22127681",
+  "qid": "Q22127681",
+  "name": "Koki Ogawa",
+  "description": "Japanese association football player",
+  "place_of_birth_qid": "Q38283",
+  "citizenship_qids": [
+    "Q17"
+  ],
+  "height_cm": 186.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q855401",
+      "start": "2016-00-00",
+      "end": "2021-12-00"
+    },
+    {
+      "team_qid": "Q1060184",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q170566",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1062259",
+      "start": "2022-01-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q318348",
+      "start": "2023-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q318348",
+  "image_filename": "GAE - NEC - 53493888105 (Koki Ogawa).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/K%C5%8Dki_Ogawa_(footballer)",
+  "transfermarkt_id": "351567",
+  "fifa_player_id": "403293",
+  "uefa_player_id": "19169",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Japan"
+  ],
+  "place_of_birth": "Yokohama",
+  "wikidata_current_club": "N.E.C.",
+  "wikidata_current_club_qid": "Q318348",
+  "photo": {
+    "filename": "GAE - NEC - 53493888105 (Koki Ogawa).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/GAE_-_NEC_-_53493888105_%28Koki_Ogawa%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/GAE_-_NEC_-_53493888105_%28Koki_Ogawa%29.jpg/960px-GAE_-_NEC_-_53493888105_%28Koki_Ogawa%29.jpg",
+    "width": 1603,
+    "height": 2564,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Carlo Bruil Fotografie",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/k\u014dki-ogawa.jpg"
+  },
+  "team_slug": "japan",
+  "team_country": "Japan"
+}

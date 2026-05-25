@@ -1,0 +1,84 @@
+{
+  "slug": "anis-ben-slimane",
+  "display_name": "Anis Ben Slimane",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2001-03-16",
+  "age": 25,
+  "caps": 39,
+  "goals": 4,
+  "club_from_squad_table": "Norwich City",
+  "wikipedia_title": "Anis Ben Slimane",
+  "date_of_birth": "2001-03-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Norwich City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q85410990",
+  "qid": "Q85410990",
+  "name": "Anis Ben Slimane",
+  "description": "Tunisian and Danish association football player",
+  "place_of_birth_qid": "Q1748",
+  "citizenship_qids": [
+    "Q948",
+    "Q756617"
+  ],
+  "height_cm": 188.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q17482142",
+      "start": "2019-01-01",
+      "end": "2019-07-01"
+    },
+    {
+      "team_qid": "Q211906",
+      "start": "2019-07-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873525",
+      "start": "2019-09-06",
+      "end": "2020-09-06"
+    },
+    {
+      "team_qid": "Q3590437",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q27971",
+      "start": "2020-10-09",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q211906",
+  "image_filename": "Echauffement Tunisie (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anis_Ben_Slimane",
+  "transfermarkt_id": "546712",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Tunisia",
+    "Kingdom of Denmark"
+  ],
+  "place_of_birth": "Copenhagen",
+  "wikidata_current_club": "Br\u00f8ndby IF",
+  "wikidata_current_club_qid": "Q211906",
+  "photo": {
+    "filename": "Echauffement Tunisie (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Echauffement_Tunisie_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Echauffement_Tunisie_%28cropped%29.jpg",
+    "width": 636,
+    "height": 987,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Happiraphael\" title=\"User:Happiraphael\">Happiraphael</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/anis-ben-slimane.jpg"
+  },
+  "team_slug": "tunisia",
+  "team_country": "Tunisia"
+}

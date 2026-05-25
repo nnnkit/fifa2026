@@ -1,0 +1,99 @@
+{
+  "slug": "pedro-porro",
+  "display_name": "Pedro Porro",
+  "shirt_no": 12,
+  "position_code": "DF",
+  "dob": "1999-09-13",
+  "age": 26,
+  "caps": 16,
+  "goals": 0,
+  "club_from_squad_table": "Tottenham Hotspur",
+  "wikipedia_title": "Pedro Porro",
+  "date_of_birth": "1999-09-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Tottenham Hotspur",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q44080929",
+  "qid": "Q44080929",
+  "name": "Pedro Porrero",
+  "description": "Spanish association football player (born 1999)",
+  "place_of_birth_qid": "Q636120",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 1.76,
+  "weight_kg": 71.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q7156",
+      "start": "2010-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q11945",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q10319",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q75729",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q75729",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q18741",
+      "start": "2023-01-00",
+      "end": "2023-06-00"
+    },
+    {
+      "team_qid": "Q18741",
+      "start": "2023-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18741",
+  "image_filename": "Pedro Porro 2021.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Porro",
+  "transfermarkt_id": "553875",
+  "fifa_player_id": "201733703",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Don Benito",
+  "wikidata_current_club": "Tottenham Hotspur F.C.",
+  "wikidata_current_club_qid": "Q18741",
+  "photo": {
+    "filename": "Pedro Porro 2021.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pedro_Porro_2021.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pedro_Porro_2021.png",
+    "width": 270,
+    "height": 385,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCnJj6L93JX3Jrhzv81ayywA\">Sporting Clube de Portugal</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/pedro-porro.png"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain"
+}

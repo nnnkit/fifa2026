@@ -1,0 +1,82 @@
+{
+  "slug": "yusuf-abdurisag",
+  "display_name": "Yusuf Abdurisag",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1999-08-06",
+  "age": 26,
+  "caps": 37,
+  "goals": 3,
+  "club_from_squad_table": "Al-Wakrah",
+  "wikipedia_title": "Yusuf Abdurisag",
+  "date_of_birth": "1999-08-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Wakrah",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q64211871",
+  "qid": "Q64211871",
+  "name": "Yusuf Abdurisag",
+  "description": "Qatari footballer",
+  "place_of_birth_qid": "Q846",
+  "citizenship_qids": [
+    "Q846"
+  ],
+  "height_cm": 1.77,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q283545",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q283760",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q232731",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873543",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q963238",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q283545",
+  "image_filename": "Asian Nations Cup Iran - Qatar (22) (cropped1).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yusuf_Abdurisag",
+  "transfermarkt_id": "589099",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Qatar"
+  ],
+  "place_of_birth": "Qatar",
+  "wikidata_current_club": "Al Sadd Sports Club",
+  "wikidata_current_club_qid": "Q283545",
+  "photo": {
+    "filename": "Asian Nations Cup Iran - Qatar (22) (cropped1).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Asian_Nations_Cup_Iran_-_Qatar_%2822%29_%28cropped1%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Asian_Nations_Cup_Iran_-_Qatar_%2822%29_%28cropped1%29.jpg",
+    "width": 187,
+    "height": 370,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "M.Sadegh Nikgostar",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/yusuf-abdurisag.jpg"
+  },
+  "team_slug": "qatar",
+  "team_country": "Qatar"
+}

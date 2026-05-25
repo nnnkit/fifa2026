@@ -1,0 +1,1736 @@
+{
+  "slug": "egypt",
+  "country": "Egypt",
+  "wikidata_qid": "Q28089",
+  "fetched_at": "2026-05-24T16:38:02+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 27,
+  "players": [
+    {
+      "slug": "mohamed-el-shenawy",
+      "display_name": "Mohamed El Shenawy",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1988-12-18",
+      "age": 37,
+      "caps": 75,
+      "goals": 0,
+      "club_from_squad_table": "Al Ahly",
+      "wikipedia_title": "Mohamed El Shenawy",
+      "date_of_birth": "1988-12-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al Ahly",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17151209",
+      "qid": "Q17151209",
+      "name": "Mohamed El-Shenawy",
+      "description": "Egyptian assiciation football player",
+      "place_of_birth_qid": "Q328176",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 191.0,
+      "weight_kg": 89.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2274233",
+          "start": "2013-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q2541016",
+          "start": "2009-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2274220",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q223566",
+          "start": "2008-00-00",
+          "end": "2009-00-00"
+        },
+        {
+          "team_qid": "Q28089",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q223566",
+          "start": "2016-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q223566",
+      "image_filename": "Mohamed El Shenawy.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_El_Shenawy",
+      "transfermarkt_id": "134573",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Kafr el-Sheikh",
+      "wikidata_current_club": "Al Ahly SC",
+      "wikidata_current_club_qid": "Q223566",
+      "photo": {
+        "filename": "Mohamed El Shenawy.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Mohamed_El_Shenawy.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Mohamed_El_Shenawy.jpg",
+        "width": 433,
+        "height": 537,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Кирилл Венедиктов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mohamed-el-shenawy.jpg"
+      }
+    },
+    {
+      "slug": "mostafa-shobeir",
+      "display_name": "Mostafa Shobeir",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2000-03-17",
+      "age": 26,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Al Ahly",
+      "wikipedia_title": "Mostafa Shobeir",
+      "date_of_birth": "2000-03-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al Ahly",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110263543",
+      "qid": "Q110263543",
+      "name": "Mostafa Shobeir",
+      "description": "Egyptian association football player",
+      "place_of_birth_qid": "Q81788",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q201330"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mostafa_Shobeir",
+      "transfermarkt_id": "661455",
+      "wikidata_date_of_birth": "2000-03-01",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Giza",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "mohamed-alaa",
+      "display_name": "Mohamed Alaa",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1999-01-09",
+      "age": 27,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "El Gouna",
+      "wikipedia_title": null,
+      "date_of_birth": "1999-01-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "El Gouna",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      },
+      "wikidata_review": {
+        "status": "no-confirmed-qid",
+        "reviewed_at": "2026-05-24",
+        "note": "Verifier found no confirmed Wikidata item for this squad-table player."
+      },
+      "identity_review": {
+        "status": "no-unambiguous-wikidata-qid",
+        "reviewed_at": "2026-05-25",
+        "reason": "Exact-label Wikidata hits are non-football people; no matching item found for the El Gouna goalkeeper."
+      }
+    },
+    {
+      "slug": "el-mahdy-soliman",
+      "display_name": "El Mahdy Soliman",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1987-06-08",
+      "age": 39,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Zamalek",
+      "wikipedia_title": "El Mahdy Soliman",
+      "date_of_birth": "1987-06-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Zamalek",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q4702779",
+      "qid": "Q4702779",
+      "name": "Al-Mahdy Soliman",
+      "description": "Egyptian association football player",
+      "place_of_birth_qid": "Q85",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3048741",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1877396",
+          "start": "2007-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q2073915",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q2274233",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q2274233",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q968592",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        }
+      ],
+      "current_club_qid": "Q3048741",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/El_Mahdy_Soliman",
+      "wikidata_date_of_birth": "1986-11-30",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Cairo",
+      "wikidata_current_club": "Smouha SC",
+      "wikidata_current_club_qid": "Q3048741",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "hamdy-fathy",
+      "display_name": "Hamdy Fathy",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1994-09-29",
+      "age": 31,
+      "caps": 62,
+      "goals": 3,
+      "club_from_squad_table": "Al-Wakrah",
+      "wikipedia_title": "Hamdy Fathy",
+      "date_of_birth": "1994-09-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Wakrah",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q35841433",
+      "qid": "Q35841433",
+      "name": "Hamdi Fathi",
+      "description": "Egyptian association football player",
+      "place_of_birth_qid": "Q30630",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1877396",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1877396",
+      "image_filename": "Hamdy Fathy.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hamdy_Fathy",
+      "transfermarkt_id": "340303",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Beheira Governorate",
+      "wikidata_current_club": "ENPPI SC",
+      "wikidata_current_club_qid": "Q1877396",
+      "photo": {
+        "filename": "Hamdy Fathy.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Hamdy_Fathy.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Hamdy_Fathy.png",
+        "width": 352,
+        "height": 391,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Al AHLY TV",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/hamdy-fathy.png"
+      }
+    },
+    {
+      "slug": "ramy-rabia",
+      "display_name": "Ramy Rabia",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1993-05-20",
+      "age": 33,
+      "caps": 43,
+      "goals": 5,
+      "club_from_squad_table": "Al Ain",
+      "wikipedia_title": "Ramy Rabia",
+      "date_of_birth": "1993-05-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al Ain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q501274",
+      "qid": "Q501274",
+      "name": "Ramy Rabia",
+      "description": "Egyptian association football player",
+      "place_of_birth_qid": "Q85",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 156.0,
+      "weight_kg": 86.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q75729",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q223566",
+          "start": "2010-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q3494112",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q223566",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3589884",
+          "start": "2009-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q28089",
+          "start": "2013-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q223566",
+      "image_filename": "RamiRabea2020.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ramy_Rabia",
+      "transfermarkt_id": "172623",
+      "fifa_player_id": "344661",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Cairo",
+      "wikidata_current_club": "Al Ahly SC",
+      "wikidata_current_club_qid": "Q223566",
+      "photo": {
+        "filename": "RamiRabea2020.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/RamiRabea2020.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/RamiRabea2020.jpg",
+        "width": 950,
+        "height": 950,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Al Ahly TV",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ramy-rabia.jpg"
+      }
+    },
+    {
+      "slug": "mohamed-hany",
+      "display_name": "Mohamed Hany",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-01-25",
+      "age": 30,
+      "caps": 40,
+      "goals": 0,
+      "club_from_squad_table": "Al Ahly",
+      "wikipedia_title": "Mohamed Hany",
+      "date_of_birth": "1996-01-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al Ahly",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18705249",
+      "qid": "Q18705249",
+      "name": "Mohamed Hany",
+      "description": "Egyptian association football player",
+      "place_of_birth_qid": "Q85",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 175.0,
+      "weight_kg": 69.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q223566",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3589884",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1723220",
+          "start": "2014-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q223566",
+      "image_filename": "Mohamed Hany in 2021 FIFA Club World Cup.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Hany",
+      "transfermarkt_id": "343974",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Cairo",
+      "wikidata_current_club": "Al Ahly SC",
+      "wikidata_current_club_qid": "Q223566",
+      "photo": {
+        "filename": "Mohamed Hany in 2021 FIFA Club World Cup.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mohamed_Hany_in_2021_FIFA_Club_World_Cup.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mohamed_Hany_in_2021_FIFA_Club_World_Cup.jpg",
+        "width": 422,
+        "height": 477,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Mohammad Amin Ansari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mohamed-hany.jpg"
+      }
+    },
+    {
+      "slug": "ahmed-abou-el-fotouh",
+      "display_name": "Ahmed Abou El Fotouh",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-03-22",
+      "age": 28,
+      "caps": 38,
+      "goals": 1,
+      "club_from_squad_table": "Zamalek",
+      "wikipedia_title": "Ahmed Abou El Fotouh",
+      "date_of_birth": "1998-03-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Zamalek",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q27585643",
+      "qid": "Q27585643",
+      "name": "Ahmed Aboul Fotouh",
+      "description": "Egyptian association football player",
+      "place_of_birth_qid": "Q85",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q286504",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q286504",
+      "image_filename": "Elfotouh.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_Abou_El_Fotouh",
+      "transfermarkt_id": "465966",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Cairo",
+      "wikidata_current_club": "Zamalek SC",
+      "wikidata_current_club_qid": "Q286504",
+      "photo": {
+        "filename": "Elfotouh.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Elfotouh.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Elfotouh.jpg",
+        "width": 153,
+        "height": 383,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Franco237",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ahmed-abou-el-fotouh.jpg"
+      }
+    },
+    {
+      "slug": "mohamed-abdelmonem",
+      "display_name": "Mohamed Abdelmonem",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-02-01",
+      "age": 27,
+      "caps": 34,
+      "goals": 3,
+      "club_from_squad_table": "Nice",
+      "wikipedia_title": "Mohamed Abdelmonem",
+      "date_of_birth": "1999-02-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nice",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110244202",
+      "qid": "Q110244202",
+      "name": "Mohamed Abdel Monem",
+      "description": "Egyptian association football player",
+      "place_of_birth_qid": "Q140304",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 184.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "image_filename": "Abdelmonem asse ogcn 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Abdelmonem",
+      "transfermarkt_id": "566025",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Zagazig",
+      "photo": {
+        "filename": "Abdelmonem asse ogcn 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Abdelmonem_asse_ogcn_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Abdelmonem_asse_ogcn_2425.png",
+        "width": 697,
+        "height": 838,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mohamed-abdelmonem.png"
+      }
+    },
+    {
+      "slug": "yasser-ibrahim",
+      "display_name": "Yasser Ibrahim",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1993-02-10",
+      "age": 33,
+      "caps": 15,
+      "goals": 1,
+      "club_from_squad_table": "Al Ahly",
+      "wikipedia_title": "Yasser Ibrahim",
+      "date_of_birth": "1993-02-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al Ahly",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17386078",
+      "qid": "Q17386078",
+      "name": "Yasser Ibrahim",
+      "description": "Egyptian association football player",
+      "place_of_birth_qid": "Q223587",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3048741",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1751138",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q286504",
+          "start": "2013-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q3048741",
+      "image_filename": "Yasser Ibrahim in FIFA Club World Cup.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yasser_Ibrahim",
+      "transfermarkt_id": "237425",
+      "wikidata_date_of_birth": "1989-05-08",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Mansoura",
+      "wikidata_current_club": "Smouha SC",
+      "wikidata_current_club_qid": "Q3048741",
+      "photo": {
+        "filename": "Yasser Ibrahim in FIFA Club World Cup.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Yasser_Ibrahim_in_FIFA_Club_World_Cup.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Yasser_Ibrahim_in_FIFA_Club_World_Cup.jpg",
+        "width": 780,
+        "height": 1176,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Mohammad Amin Ansari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/yasser-ibrahim.jpg"
+      }
+    },
+    {
+      "slug": "hossam-abdelmaguid",
+      "display_name": "Hossam Abdelmaguid",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-04-30",
+      "age": 25,
+      "caps": 12,
+      "goals": 0,
+      "club_from_squad_table": "Zamalek",
+      "wikipedia_title": "Hossam Abdelmaguid",
+      "date_of_birth": "2001-04-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Zamalek",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q98937753",
+      "qid": "Q98937753",
+      "name": "Hossam Abdelmaguid",
+      "description": "Egyptian association football player",
+      "place_of_birth_qid": "Q79",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 1.93,
+      "image_filename": "Hossam Abdel Maguid.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hossam_Abdelmaguid",
+      "transfermarkt_id": "737524",
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Egypt",
+      "photo": {
+        "filename": "Hossam Abdel Maguid.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hossam_Abdel_Maguid.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hossam_Abdel_Maguid.jpg/960px-Hossam_Abdel_Maguid.jpg",
+        "width": 1170,
+        "height": 1686,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "MFonzatti",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/hossam-abdelmaguid.jpg"
+      }
+    },
+    {
+      "slug": "karim-hafez",
+      "display_name": "Karim Hafez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-03-12",
+      "age": 30,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Pyramids",
+      "wikipedia_title": "Karim Hafez",
+      "date_of_birth": "1996-03-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Pyramids",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18225149",
+      "qid": "Q18225149",
+      "name": "Karim Hafez",
+      "description": "Egyptian association football player",
+      "place_of_birth_qid": "Q85",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 175.0,
+      "weight_kg": 73.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q240783",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q725018",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q28089",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q191843",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q240783",
+      "image_filename": "Karim Hafez (RC Lens).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Karim_Hafez",
+      "transfermarkt_id": "333004",
+      "wikidata_date_of_birth": "1995-03-12",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Cairo",
+      "wikidata_current_club": "AC Omonia",
+      "wikidata_current_club_qid": "Q240783",
+      "photo": {
+        "filename": "Karim Hafez (RC Lens).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Karim_Hafez_%28RC_Lens%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Karim_Hafez_%28RC_Lens%29.jpg",
+        "width": 599,
+        "height": 1106,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Liondartois\" title=\"User:Liondartois\">Liondartois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/karim-hafez.jpg"
+      }
+    },
+    {
+      "slug": "tarek-alaa",
+      "display_name": "Tarek Alaa",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-01-05",
+      "age": 24,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "ZED",
+      "wikipedia_title": "Tarek Alaa",
+      "date_of_birth": "2002-01-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "ZED",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q114630417",
+      "qid": "Q114630417",
+      "name": "Tarek Alaa",
+      "description": "Egyptian association football player",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tarek_Alaa",
+      "wikidata_date_of_birth": "2003-00-00",
+      "citizenship": [
+        "Egypt"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "marwan-attia",
+      "display_name": "Marwan Attia",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-08-12",
+      "age": 27,
+      "caps": 32,
+      "goals": 1,
+      "club_from_squad_table": "Al Ahly",
+      "wikipedia_title": "Marwan Attia",
+      "date_of_birth": "1998-08-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al Ahly",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q116621640",
+      "qid": "Q116621640",
+      "name": "Marwan Attia",
+      "description": "Egyptian association football player",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 176.0,
+      "image_filename": "Marwan Attia.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marwan_Attia",
+      "transfermarkt_id": "734542",
+      "citizenship": [
+        "Egypt"
+      ],
+      "photo": {
+        "filename": "Marwan Attia.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Marwan_Attia.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Marwan_Attia.jpg",
+        "width": 453,
+        "height": 690,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mokhtar_JR&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mokhtar JR (page does not exist)\">Mokhtar JR</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marwan-attia.jpg"
+      }
+    },
+    {
+      "slug": "emam-ashour",
+      "display_name": "Emam Ashour",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-02-20",
+      "age": 28,
+      "caps": 27,
+      "goals": 0,
+      "club_from_squad_table": "Al Ahly",
+      "wikipedia_title": "Emam Ashour",
+      "date_of_birth": "1998-02-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al Ahly",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64681287",
+      "qid": "Q64681287",
+      "name": "Emam Ashour",
+      "description": "Egyptian association football player",
+      "place_of_birth_qid": "Q223587",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q6008848",
+        "Q9731197"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2274220",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q286504",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q618520",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q286504",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q223566",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q286504",
+      "image_filename": "Emam Ashour (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Emam_Ashour",
+      "transfermarkt_id": "604008",
+      "positions": [
+        "central midfielder",
+        "centre-forward"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Mansoura",
+      "wikidata_current_club": "Zamalek SC",
+      "wikidata_current_club_qid": "Q286504",
+      "photo": {
+        "filename": "Emam Ashour (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Emam_Ashour_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Emam_Ashour_%28cropped%29.jpg/960px-Emam_Ashour_%28cropped%29.jpg",
+        "width": 963,
+        "height": 1162,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mokhtar_JR&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mokhtar JR (page does not exist)\">Mokhtar JR</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/emam-ashour.jpg"
+      }
+    },
+    {
+      "slug": "mohanad-lasheen",
+      "display_name": "Mohanad Lasheen",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-05-29",
+      "age": 30,
+      "caps": 21,
+      "goals": 0,
+      "club_from_squad_table": "Pyramids",
+      "wikipedia_title": "Mohanad Lasheen",
+      "date_of_birth": "1996-05-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Pyramids",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q41023561",
+      "qid": "Q41023561",
+      "name": "Mohanad Lasheen",
+      "description": "Egyptian association football player",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1329368",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1329368",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohanad_Lasheen",
+      "transfermarkt_id": "479682",
+      "wikidata_date_of_birth": "1996-01-01",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "wikidata_current_club": "Ismaily SC",
+      "wikidata_current_club_qid": "Q1329368",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "mahmoud-saber",
+      "display_name": "Mahmoud Saber",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-07-30",
+      "age": 24,
+      "caps": 14,
+      "goals": 1,
+      "club_from_squad_table": "ZED",
+      "wikipedia_title": "Mahmoud Saber",
+      "date_of_birth": "2001-07-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "ZED",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117035133",
+      "qid": "Q117035133",
+      "name": "Mahmoud Saber",
+      "description": "Egyptian association football player",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 170.0,
+      "image_filename": "Egypt vs. Morocco 2024 Summer Olympics men's association football 02 (cropped4).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mahmoud_Saber",
+      "transfermarkt_id": "729390",
+      "citizenship": [
+        "Egypt"
+      ],
+      "photo": {
+        "filename": "Egypt vs. Morocco 2024 Summer Olympics men's association football 02 (cropped4).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Egypt_vs._Morocco_2024_Summer_Olympics_men%27s_association_football_02_%28cropped4%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Egypt_vs._Morocco_2024_Summer_Olympics_men%27s_association_football_02_%28cropped4%29.jpg",
+        "width": 375,
+        "height": 1058,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:MFonzatti\" title=\"User:MFonzatti\">MFonzatti</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mahmoud-saber.jpg"
+      }
+    },
+    {
+      "slug": "nabil-emad",
+      "display_name": "Nabil Emad",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-04-06",
+      "age": 30,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Al-Najma",
+      "wikipedia_title": "Nabil Emad",
+      "date_of_birth": "1996-04-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Najma",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q41187975",
+      "qid": "Q41187975",
+      "name": "Nabil Emad",
+      "description": "Egyptian association football player",
+      "place_of_birth_qid": "Q312723",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18207291",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q28089",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18207291",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nabil_Emad",
+      "transfermarkt_id": "479683",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "El Mahalla El Kubra",
+      "wikidata_current_club": "Pyramids FC",
+      "wikidata_current_club_qid": "Q18207291",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "mostafa-ziko",
+      "display_name": "Mostafa Ziko",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-04-27",
+      "age": 29,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Pyramids",
+      "wikipedia_title": null,
+      "date_of_birth": "1997-04-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Pyramids",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q121537482",
+      "qid": "Q121537482",
+      "name": "Mostafa Ziko",
+      "description": "Egyptian association football player",
+      "transfermarkt_id": "896616",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "mohamed-salah",
+      "display_name": "Mohamed Salah",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1992-06-15",
+      "age": 33,
+      "caps": 116,
+      "goals": 67,
+      "club_from_squad_table": "Liverpool",
+      "wikipedia_title": "Mohamed Salah",
+      "date_of_birth": "1992-06-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Liverpool",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q1354960",
+      "qid": "Q1354960",
+      "name": "Mohamed Salah",
+      "description": "Egyptian association football player (born 1992)",
+      "place_of_birth_qid": "Q55624552",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 175.0,
+      "weight_kg": 71.0,
+      "position_qids": [
+        "Q8025128",
+        "Q280658",
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2052",
+          "start": "2015-02-02",
+          "end": "2015-06-30"
+        },
+        {
+          "team_qid": "Q2073915",
+          "start": "2010-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q28089",
+          "start": "2011-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2015-08-06",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q189671",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        }
+      ],
+      "current_club_qid": "Q1130849",
+      "image_filename": "Mohamed Salah 2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Salah",
+      "transfermarkt_id": "148455",
+      "fifa_player_id": "344654",
+      "positions": [
+        "wing half",
+        "forward",
+        "winger"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Nagrig",
+      "wikidata_current_club": "Liverpool F.C.",
+      "wikidata_current_club_qid": "Q1130849",
+      "photo": {
+        "filename": "Mohamed Salah 2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mohamed_Salah_2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mohamed_Salah_2018.jpg",
+        "width": 540,
+        "height": 810,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Анна Нэсси",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mohamed-salah.jpg"
+      }
+    },
+    {
+      "slug": "trézéguet",
+      "display_name": "Trézéguet",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-10-01",
+      "age": 29,
+      "caps": 94,
+      "goals": 23,
+      "club_from_squad_table": "Al Ahly",
+      "wikipedia_title": "Trézéguet (Egyptian footballer)",
+      "date_of_birth": "1996-10-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al Ahly",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q6734350",
+      "qid": "Q6734350",
+      "name": "Trézéguet",
+      "description": "Egyptian association football player",
+      "place_of_birth_qid": "Q328176",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 68.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q187528",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q223566",
+          "start": "2012-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q3589884",
+          "start": "2012-01-01",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q1723220",
+          "start": "2014-01-01",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q28089",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q187528",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q18711",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q138230",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2195773",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q138230",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q857938",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q192641",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q192641",
+      "image_filename": "Mahmoud Trézéguet in world cup 2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tr%C3%A9z%C3%A9guet_(Egyptian_footballer)",
+      "transfermarkt_id": "234189",
+      "fifa_player_id": "363863",
+      "wikidata_date_of_birth": "1994-10-01",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Kafr el-Sheikh",
+      "wikidata_current_club": "Trabzonspor",
+      "wikidata_current_club_qid": "Q192641",
+      "photo": {
+        "filename": "Mahmoud Trézéguet in world cup 2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Mahmoud_Tr%C3%A9z%C3%A9guet_in_world_cup_2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Mahmoud_Tr%C3%A9z%C3%A9guet_in_world_cup_2018.jpg",
+        "width": 512,
+        "height": 717,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Анна Нэсси",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/trézéguet.jpg"
+      }
+    },
+    {
+      "slug": "zizo",
+      "display_name": "Zizo",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-01-10",
+      "age": 30,
+      "caps": 61,
+      "goals": 5,
+      "club_from_squad_table": "Al Ahly",
+      "wikipedia_title": "Zizo (footballer)",
+      "date_of_birth": "1996-01-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al Ahly",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17429290",
+      "qid": "Q17429290",
+      "name": "Ahmed Sayed",
+      "description": "Egyptian association football",
+      "place_of_birth_qid": "Q79",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 67.5,
+      "position_qids": [
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q725018",
+          "start": "2014-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1346314",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q216459",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q286504",
+          "start": "2019-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q223566",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q223566",
+      "image_filename": "Zizo zsc.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zizo_(footballer)",
+      "transfermarkt_id": "320722",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Egypt",
+      "wikidata_current_club": "Al Ahly SC",
+      "wikidata_current_club_qid": "Q223566",
+      "photo": {
+        "filename": "Zizo zsc.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Zizo_zsc.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Zizo_zsc.jpg/960px-Zizo_zsc.jpg",
+        "width": 1323,
+        "height": 1820,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mokhtar_JR&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mokhtar JR (page does not exist)\">Mokhtar JR</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/zizo.jpg"
+      }
+    },
+    {
+      "slug": "omar-marmoush",
+      "display_name": "Omar Marmoush",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-02-07",
+      "age": 27,
+      "caps": 47,
+      "goals": 11,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "Omar Marmoush",
+      "date_of_birth": "1999-02-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28065104",
+      "qid": "Q28065104",
+      "name": "Omar Marmoush",
+      "description": "Egyptian association football player (born 1999)",
+      "place_of_birth_qid": "Q85",
+      "citizenship_qids": [
+        "Q79",
+        "Q16"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 81.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q101859",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q16645947",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q6463",
+          "start": "2021-01-00",
+          "end": "2021-06-00"
+        },
+        {
+          "team_qid": "Q3589884",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q2608474",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1966238",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q4512",
+          "start": "2021-08-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q38245",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q28089",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2025-01-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "OmarMarmoush.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Omar_Marmoush",
+      "transfermarkt_id": "445939",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Egypt",
+        "Canada"
+      ],
+      "place_of_birth": "Cairo",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "OmarMarmoush.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/OmarMarmoush.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/OmarMarmoush.png",
+        "width": 910,
+        "height": 1076,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Yallakora",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/omar-marmoush.png"
+      }
+    },
+    {
+      "slug": "ibrahim-adel",
+      "display_name": "Ibrahim Adel",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-04-23",
+      "age": 25,
+      "caps": 22,
+      "goals": 3,
+      "club_from_squad_table": "Nordsjælland",
+      "wikipedia_title": "Ibrahim Adel",
+      "date_of_birth": "2001-04-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nordsjælland",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q90916422",
+      "qid": "Q90916422",
+      "name": "Ibrahim Adel",
+      "description": "Egyptian association football player",
+      "place_of_birth_qid": "Q134509",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18207291",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q28089",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1723220",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q3589884",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        }
+      ],
+      "current_club_qid": "Q18207291",
+      "image_filename": "Ibrahim Adel 2025.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ibrahim_Adel",
+      "transfermarkt_id": "677278",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "place_of_birth": "Port Said",
+      "wikidata_current_club": "Pyramids FC",
+      "wikidata_current_club_qid": "Q18207291",
+      "photo": {
+        "filename": "Ibrahim Adel 2025.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ibrahim_Adel_2025.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ibrahim_Adel_2025.jpg/960px-Ibrahim_Adel_2025.jpg",
+        "width": 1179,
+        "height": 1860,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "Botolat",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ibrahim-adel.jpg"
+      }
+    },
+    {
+      "slug": "haissem-hassan",
+      "display_name": "Haissem Hassan",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2002-02-08",
+      "age": 24,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Oviedo",
+      "wikipedia_title": "Haissem Hassan",
+      "date_of_birth": "2002-02-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Oviedo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q58303188",
+      "qid": "Q58303188",
+      "name": "Haissem Hassan",
+      "description": "French-Egyptian-Tunisian association football player",
+      "place_of_birth_qid": "Q90",
+      "citizenship_qids": [
+        "Q79",
+        "Q142"
+      ],
+      "height_cm": 1.73,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q845067",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q271574",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1094113",
+          "start": "2020-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q11997",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q12278",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        }
+      ],
+      "current_club_qid": "Q271574",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Haissem_Hassan",
+      "transfermarkt_id": "620164",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Egypt",
+        "France"
+      ],
+      "place_of_birth": "Paris",
+      "wikidata_current_club": "Real Oviedo",
+      "wikidata_current_club_qid": "Q271574",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "aqtay-abdallah",
+      "display_name": "Aqtay Abdallah",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2003-06-01",
+      "age": 23,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "ENPPI",
+      "wikipedia_title": null,
+      "date_of_birth": "2003-06-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "ENPPI",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      },
+      "wikidata_review": {
+        "status": "no-confirmed-qid",
+        "reviewed_at": "2026-05-24",
+        "note": "Verifier found no confirmed Wikidata item for this squad-table player."
+      },
+      "identity_review": {
+        "status": "no-unambiguous-wikidata-qid",
+        "reviewed_at": "2026-05-25",
+        "reason": "No Wikidata exact-label or Transfermarkt-ID item found for the ENPPI forward."
+      }
+    },
+    {
+      "slug": "hamza-abdelkarim",
+      "display_name": "Hamza Abdelkarim",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2008-01-01",
+      "age": 18,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Barcelona B",
+      "wikipedia_title": "Hamza Abdelkarim",
+      "date_of_birth": "2008-01-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barcelona B",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q134513932",
+      "qid": "Q134513932",
+      "name": "Hamza Abdelkarim",
+      "description": "Egyptian footballer",
+      "citizenship_qids": [
+        "Q79"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hamza_Abdelkarim",
+      "transfermarkt_id": "1259085",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Egypt"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      },
+      "wikidata_label_conflict": "Ahmed Magdy Ali",
+      "wikidata_description_conflict": "Egyptian footballer (born 2010)",
+      "wikidata_review": {
+        "status": "intended-item-with-bad-en-metadata",
+        "reviewed_at": "2026-05-24",
+        "note": "Q134513932 has the Hamza Abdelkarim sitelinks/IDs, but its English label/description are incorrect in Wikidata."
+      }
+    }
+  ],
+  "notes": [
+    "Egypt row/QID/photo audit 2026-05-24: verifier confirmed the local rows match the Wikipedia Egypt squad table, a 27-player preliminary squad announced May 20 with final squad due May 29. No clean Wikimedia photo was found for Mostafa Shobeir, Mohamed Alaa, El Mahdy Soliman, Tarek Alaa, Mohanad Lasheen, Nabil Emad, Mostafa Ziko, Haissem Hassan, Aqtay Abdallah, or Hamza Abdelkarim; these rows are marked reviewed-none. No confirmed Wikidata QID was found for Mohamed Alaa, Mostafa Ziko, or Aqtay Abdallah. Hamza Abdelkarim Q134513932 is the intended sitelink/ID item, but its Wikidata English label/description are bad, so local display metadata was corrected while preserving the QID caveat. Existing DOB/current-club conflicts are Wikidata or third-party conflicts; squad-table values remain canonical unless a stronger official source is adopted later.",
+    "Egypt QID follow-up 2026-05-25: confirmed Mostafa Ziko as Wikidata Q121537482 via the matching footballer item and Transfermarkt ID 896616; Mohamed Alaa and Aqtay Abdallah remain without unambiguous Wikidata QIDs and have identity_review notes."
+  ]
+}

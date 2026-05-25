@@ -1,0 +1,106 @@
+{
+  "slug": "grant-hanley",
+  "display_name": "Grant Hanley",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1991-11-20",
+  "age": 34,
+  "caps": 66,
+  "goals": 2,
+  "club_from_squad_table": "Hibernian",
+  "wikipedia_title": "Grant Hanley",
+  "date_of_birth": "1991-11-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Hibernian",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q1362064",
+  "qid": "Q1362064",
+  "name": "Grant Hanley",
+  "description": "Scottish association football player (born 1991)",
+  "place_of_birth_qid": "Q652035",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 85.0,
+  "position_qids": [
+    "Q336286",
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19446",
+      "start": "2010-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q854890",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q4140015",
+      "start": "2009-00-00",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q1812121",
+      "start": "2010-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q34044",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q18716",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q18721",
+      "start": "2017-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q19444",
+      "start": "2025-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q192597",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q192597",
+  "image_filename": "Grant Hanley (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Grant_Hanley",
+  "transfermarkt_id": "121385",
+  "fifa_player_id": "359634",
+  "positions": [
+    "defender",
+    "centre-back"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Dumfries",
+  "wikidata_current_club": "Hibernian F.C.",
+  "wikidata_current_club_qid": "Q192597",
+  "photo": {
+    "filename": "Grant Hanley (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Grant_Hanley_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Grant_Hanley_%28cropped%29.jpg",
+    "width": 226,
+    "height": 521,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/22125559@N07\">Clare Nolan</a> from Coppull",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/grant-hanley.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

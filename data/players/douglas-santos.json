@@ -1,0 +1,113 @@
+{
+  "slug": "douglas-santos",
+  "display_name": "Douglas Santos",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1994-03-22",
+  "age": 32,
+  "caps": 5,
+  "goals": 0,
+  "club_from_squad_table": "Zenit Saint Petersburg",
+  "wikipedia_title": "Douglas Santos (footballer, born 1994)",
+  "date_of_birth": "1994-03-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Zenit Saint Petersburg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q10268484",
+  "qid": "Q10268484",
+  "name": "Douglas Santos",
+  "description": "Brazilian association football player (born 1994)",
+  "place_of_birth_qid": "Q167436",
+  "citizenship_qids": [
+    "Q155",
+    "Q159"
+  ],
+  "height_cm": 173.0,
+  "weight_kg": 69.0,
+  "position_qids": [
+    "Q336286",
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q8812",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q73971",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2798",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q2798",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q270995",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q270995",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2308235",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q899189",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q29108",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q270995",
+  "image_filename": "Brasil estreia contra a África do Sul no Mané Garrincha — копия (7).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Douglas_Santos_(footballer,_born_1994)",
+  "transfermarkt_id": "220793",
+  "fifa_player_id": "367981",
+  "positions": [
+    "defender",
+    "full-back"
+  ],
+  "citizenship": [
+    "Brazil",
+    "Russia"
+  ],
+  "place_of_birth": "João Pessoa",
+  "wikidata_current_club": "Clube Atlético Mineiro",
+  "wikidata_current_club_qid": "Q270995",
+  "photo": {
+    "filename": "Brasil estreia contra a África do Sul no Mané Garrincha — копия (7).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Brasil_estreia_contra_a_%C3%81frica_do_Sul_no_Man%C3%A9_Garrincha_%E2%80%94_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_%287%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Brasil_estreia_contra_a_%C3%81frica_do_Sul_no_Man%C3%A9_Garrincha_%E2%80%94_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_%287%29.jpg",
+    "width": 496,
+    "height": 913,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/fotosagenciabrasil/\">Agência Brasil Fotografias</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/douglas-santos.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

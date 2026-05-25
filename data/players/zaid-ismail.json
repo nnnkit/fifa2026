@@ -1,0 +1,64 @@
+{
+  "slug": "zaid-ismail",
+  "display_name": "Zaid Ismail",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2002-01-03",
+  "age": 24,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "Al-Talaba",
+  "wikipedia_title": "Zaid Ismail",
+  "date_of_birth": "2002-01-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Talaba",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q138863253",
+  "qid": "Q138863253",
+  "name": "Zaid Ismail",
+  "description": "Iraqi footballer (born 2002)",
+  "citizenship_qids": [
+    "Q796"
+  ],
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2829384",
+      "start": "2017-01-07",
+      "end": "2020-01-07"
+    },
+    {
+      "team_qid": "Q5285016",
+      "start": "2020-01-07",
+      "end": "2022-01-08"
+    },
+    {
+      "team_qid": "Q4311440",
+      "start": "2022-01-08",
+      "end": "2024-01-27"
+    },
+    {
+      "team_qid": "Q310830",
+      "start": "2024-01-27",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q310830",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Zaid_Ismail",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Iraq"
+  ],
+  "wikidata_current_club": "Talaba SC",
+  "wikidata_current_club_qid": "Q310830",
+  "team_slug": "iraq",
+  "team_country": "Iraq",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

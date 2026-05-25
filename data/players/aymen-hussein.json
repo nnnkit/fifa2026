@@ -1,0 +1,117 @@
+{
+  "slug": "aymen-hussein",
+  "display_name": "Aymen Hussein",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1996-03-22",
+  "age": 30,
+  "caps": 93,
+  "goals": 33,
+  "club_from_squad_table": "Al-Karma",
+  "wikipedia_title": "Aymen Hussein",
+  "date_of_birth": "1996-03-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Karma",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21066439",
+  "qid": "Q21066439",
+  "name": "Aymen Hussein",
+  "description": "Iraqi footballer",
+  "place_of_birth_qid": "Q5684772",
+  "citizenship_qids": [
+    "Q796"
+  ],
+  "height_cm": 189.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2829384",
+      "start": "2015-01-00",
+      "end": "2017-08-00"
+    },
+    {
+      "team_qid": "Q195932",
+      "start": "2015-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q186243",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q117996",
+      "start": "2017-08-00",
+      "end": "2018-02-00"
+    },
+    {
+      "team_qid": "Q2829384",
+      "start": "2018-02-00",
+      "end": "2018-09-00"
+    },
+    {
+      "team_qid": "Q1024482",
+      "start": "2018-09-00",
+      "end": "2019-06-00"
+    },
+    {
+      "team_qid": "Q285510",
+      "start": "2019-07-00",
+      "end": "2021-08-00"
+    },
+    {
+      "team_qid": "Q958008",
+      "start": "2021-08-00",
+      "end": "2022-06-00"
+    },
+    {
+      "team_qid": "Q4702847",
+      "start": "2022-07-00",
+      "end": "2023-02-00"
+    },
+    {
+      "team_qid": "Q429630",
+      "start": "2023-02-00",
+      "end": "2023-08-00"
+    },
+    {
+      "team_qid": "Q1051514",
+      "start": "2023-08-00",
+      "end": "2023-10-00"
+    },
+    {
+      "team_qid": "Q285510",
+      "start": "2023-10-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q285510",
+  "image_filename": "4822953 AE7I9053 (cropped2).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aymen_Hussein",
+  "transfermarkt_id": "401054",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Iraq"
+  ],
+  "place_of_birth": "Hawija",
+  "wikidata_current_club": "Al-Quwa Al-Jawiya",
+  "wikidata_current_club_qid": "Q285510",
+  "photo": {
+    "filename": "4822953 AE7I9053 (cropped2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/4822953_AE7I9053_%28cropped2%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/4822953_AE7I9053_%28cropped2%29.jpg",
+    "width": 293,
+    "height": 465,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Foad Ashtari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/aymen-hussein.jpg"
+  },
+  "team_slug": "iraq",
+  "team_country": "Iraq"
+}

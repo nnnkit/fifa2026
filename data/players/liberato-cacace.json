@@ -1,0 +1,63 @@
+{
+  "slug": "liberato-cacace",
+  "display_name": "Liberato Cacace",
+  "shirt_no": 13,
+  "position_code": "DF",
+  "dob": "2000-09-27",
+  "age": 25,
+  "caps": 35,
+  "goals": 1,
+  "club_from_squad_table": "Wrexham",
+  "wikipedia_title": "Liberato Cacace",
+  "date_of_birth": "2000-09-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Wrexham",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q47544166",
+  "qid": "Q47544166",
+  "name": "Liberato Cacace",
+  "description": "New Zealand association football player",
+  "place_of_birth_qid": "Q23661",
+  "citizenship_qids": [
+    "Q664"
+  ],
+  "height_cm": 1.83,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q815890",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q815890",
+  "image_filename": "Liberato Cacace 30082025 (1).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Liberato_Cacace",
+  "transfermarkt_id": "469211",
+  "fifa_player_id": "405469",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "New Zealand"
+  ],
+  "place_of_birth": "Wellington",
+  "wikidata_current_club": "Wellington Phoenix FC",
+  "wikidata_current_club_qid": "Q815890",
+  "photo": {
+    "filename": "Liberato Cacace 30082025 (1).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Liberato_Cacace_30082025_%281%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Liberato_Cacace_30082025_%281%29.jpg/960px-Liberato_Cacace_30082025_%281%29.jpg",
+    "width": 2205,
+    "height": 4520,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/liberato-cacace.jpg"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand"
+}

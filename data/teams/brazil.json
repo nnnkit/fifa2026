@@ -1,0 +1,2244 @@
+{
+  "slug": "brazil",
+  "country": "Brazil",
+  "wikidata_qid": "Q83459",
+  "fetched_at": "2026-05-24T14:47:45+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "alisson",
+      "display_name": "Alisson",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1992-10-02",
+      "age": 33,
+      "caps": 76,
+      "goals": 0,
+      "club_from_squad_table": "Liverpool",
+      "wikipedia_title": "Alisson Becker",
+      "date_of_birth": "1992-10-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Liverpool",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18237361",
+      "qid": "Q18237361",
+      "name": "Alisson Becker",
+      "description": "Brazilian association football player",
+      "place_of_birth_qid": "Q321331",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 193.0,
+      "weight_kg": 91.0,
+      "position_qids": [
+        "Q30857181"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q185088",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q80845",
+          "start": "2013-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q2402747",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q2308235",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        }
+      ],
+      "current_club_qid": "Q185088",
+      "image_filename": "20180610 FIFA Friendly Match Austria vs. Brazil 850 1625.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alisson_Becker",
+      "transfermarkt_id": "105470",
+      "fifa_player_id": "308370",
+      "positions": [
+        "delantero"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Novo Hamburgo",
+      "wikidata_current_club": "People's Party",
+      "wikidata_current_club_qid": "Q185088",
+      "photo": {
+        "filename": "20180610 FIFA Friendly Match Austria vs. Brazil 850 1625.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_850_1625.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_850_1625.jpg/960px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_850_1625.jpg",
+        "width": 2862,
+        "height": 4125,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alisson.jpg"
+      }
+    },
+    {
+      "slug": "ederson",
+      "display_name": "Ederson",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1993-08-17",
+      "age": 32,
+      "caps": 31,
+      "goals": 0,
+      "club_from_squad_table": "Fenerbahçe",
+      "wikipedia_title": "Ederson (footballer, born 1993)",
+      "date_of_birth": "1993-08-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fenerbahçe",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17074511",
+      "qid": "Q17074511",
+      "name": "Ederson Santana de Moraes",
+      "description": "Brazilian goalkeeper (1993-)",
+      "place_of_birth_qid": "Q4035",
+      "citizenship_qids": [
+        "Q155",
+        "Q45"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 89.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q131499",
+          "start": "2015-01-01",
+          "end": "2017-06-01"
+        },
+        {
+          "team_qid": "Q622432",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q3084434",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q7387221",
+          "start": "2015-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q2308235",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2017-07-01",
+          "end": "2025-09-02"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q6601875",
+          "start": "2025-09-02",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q6601875",
+      "image_filename": "Ederson (cropped).png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ederson_(footballer,_born_1993)",
+      "transfermarkt_id": "238223",
+      "fifa_player_id": "395427",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Brazil",
+        "Portugal"
+      ],
+      "place_of_birth": null,
+      "wikidata_current_club": "Fenerbahçe Istanbul",
+      "wikidata_current_club_qid": "Q6601875",
+      "photo": {
+        "filename": "Ederson (cropped).png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ederson_%28cropped%29.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ederson_%28cropped%29.png",
+        "width": 246,
+        "height": 353,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Кирилл Венедиктов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ederson.png"
+      }
+    },
+    {
+      "slug": "weverton",
+      "display_name": "Weverton",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1987-12-13",
+      "age": 38,
+      "caps": 10,
+      "goals": 0,
+      "club_from_squad_table": "Grêmio",
+      "wikipedia_title": "Weverton (footballer, born 1987)",
+      "date_of_birth": "1987-12-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Grêmio",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q8040741",
+      "qid": "Q8040741",
+      "name": "Weverton Pereira da Silva",
+      "description": "Brazilian footballer",
+      "place_of_birth_qid": "Q171612",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 91.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q204675",
+          "start": "2010-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q2552872",
+          "start": "2006-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q482262",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q966183",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q2332493",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q35933",
+          "start": "2007-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q506832",
+          "start": "2012-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q506832",
+      "image_filename": "Weverton-Palmeiras-Athletico-jul-2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Weverton_(footballer,_born_1987)",
+      "transfermarkt_id": "69400",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Rio Branco",
+      "wikidata_current_club": "Club Athletico Paranaense",
+      "wikidata_current_club_qid": "Q506832",
+      "photo": {
+        "filename": "Weverton-Palmeiras-Athletico-jul-2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Weverton-Palmeiras-Athletico-jul-2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Weverton-Palmeiras-Athletico-jul-2022.jpg/960px-Weverton-Palmeiras-Athletico-jul-2022.jpg",
+        "width": 2232,
+        "height": 3192,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "SOCCER DIGITAL",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/weverton.jpg"
+      }
+    },
+    {
+      "slug": "marquinhos",
+      "display_name": "Marquinhos",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1994-05-14",
+      "age": 32,
+      "caps": 104,
+      "goals": 7,
+      "club_from_squad_table": "Paris Saint-Germain",
+      "wikipedia_title": "Marquinhos",
+      "date_of_birth": "1994-05-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris Saint-Germain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q39230",
+      "qid": "Q39230",
+      "name": "Marquinhos",
+      "description": "Brazilian association football player",
+      "place_of_birth_qid": "Q174",
+      "citizenship_qids": [
+        "Q155",
+        "Q45"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2739",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q35933",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2402747",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q2308235",
+          "start": "2014-00-00",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q899189",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        }
+      ],
+      "current_club_qid": "Q483020",
+      "image_filename": "FC Salzburg gegen Paris Saint-Germain UEFA Champions League 49 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marquinhos",
+      "transfermarkt_id": "181767",
+      "fifa_player_id": "332946",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Brazil",
+        "Portugal"
+      ],
+      "place_of_birth": "São Paulo",
+      "wikidata_current_club": "Paris Saint-Germain FC",
+      "wikidata_current_club_qid": "Q483020",
+      "photo": {
+        "filename": "FC Salzburg gegen Paris Saint-Germain UEFA Champions League 49 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/FC_Salzburg_gegen_Paris_Saint-Germain_UEFA_Champions_League_49_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/FC_Salzburg_gegen_Paris_Saint-Germain_UEFA_Champions_League_49_%28cropped%29.jpg/960px-FC_Salzburg_gegen_Paris_Saint-Germain_UEFA_Champions_League_49_%28cropped%29.jpg",
+        "width": 1198,
+        "height": 1504,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marquinhos.jpg"
+      }
+    },
+    {
+      "slug": "danilo-luiz",
+      "display_name": "Danilo Luiz",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1991-07-15",
+      "age": 34,
+      "caps": 68,
+      "goals": 1,
+      "club_from_squad_table": "Flamengo",
+      "wikipedia_title": "Danilo (footballer, born July 1991)",
+      "date_of_birth": "1991-07-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Flamengo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q437329",
+      "qid": "Q437329",
+      "name": "Danilo",
+      "description": "Brazilian association football player (born 1991)",
+      "place_of_birth_qid": "Q1792282",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q80955",
+          "start": "2010-01-01",
+          "end": "2012-00-00"
+        },
+        {
+          "team_qid": "Q338285",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q128446",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2017-00-00",
+          "end": "2019-08-00"
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2019-08-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q17479",
+          "start": "2025-01-29",
+          "end": null
+        },
+        {
+          "team_qid": "Q2308235",
+          "start": "2011-00-00",
+          "end": "2011-00-00"
+        },
+        {
+          "team_qid": "Q899189",
+          "start": "2012-00-00",
+          "end": "2012-00-00"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2011-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q17479",
+      "image_filename": "20180610 FIFA Friendly Match Austria vs. Brazil Danilo Luiz 850 1591 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Danilo_(footballer,_born_July_1991)",
+      "transfermarkt_id": "145707",
+      "fifa_player_id": "335656",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Bicas",
+      "wikidata_current_club": "Clube de Regatas do Flamengo",
+      "wikidata_current_club_qid": "Q17479",
+      "photo": {
+        "filename": "20180610 FIFA Friendly Match Austria vs. Brazil Danilo Luiz 850 1591 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Danilo_Luiz_850_1591_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Danilo_Luiz_850_1591_%28cropped%29.jpg/960px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Danilo_Luiz_850_1591_%28cropped%29.jpg",
+        "width": 2739,
+        "height": 3789,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/danilo-luiz.jpg"
+      }
+    },
+    {
+      "slug": "alex-sandro",
+      "display_name": "Alex Sandro",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1991-01-26",
+      "age": 35,
+      "caps": 43,
+      "goals": 2,
+      "club_from_squad_table": "Flamengo",
+      "wikipedia_title": "Alex Sandro",
+      "date_of_birth": "1991-01-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Flamengo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q551192",
+      "qid": "Q551192",
+      "name": "Alex Sandro",
+      "description": "Brazilian footballer (born 1991)",
+      "place_of_birth_qid": "Q983683",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1422",
+          "start": "2015-01-01",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q80955",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q506832",
+          "start": "2008-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q128446",
+          "start": "2011-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q2308235",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q899189",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1023199",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q17479",
+          "start": "2024-08-26",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q17479",
+      "image_filename": "FC Zenit Saint Petersburg vs. Juventus, 20 October 2021 28 - Alex Sandro (cropped2).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Sandro",
+      "transfermarkt_id": "79960",
+      "fifa_player_id": "335658",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Catanduva",
+      "wikidata_current_club": "Clube de Regatas do Flamengo",
+      "wikidata_current_club_qid": "Q17479",
+      "photo": {
+        "filename": "FC Zenit Saint Petersburg vs. Juventus, 20 October 2021 28 - Alex Sandro (cropped2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/FC_Zenit_Saint_Petersburg_vs._Juventus%2C_20_October_2021_28_-_Alex_Sandro_%28cropped2%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/FC_Zenit_Saint_Petersburg_vs._Juventus%2C_20_October_2021_28_-_Alex_Sandro_%28cropped2%29.jpg",
+        "width": 409,
+        "height": 550,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Kirill Venediktov",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alex-sandro.jpg"
+      }
+    },
+    {
+      "slug": "gabriel-magalhães",
+      "display_name": "Gabriel Magalhães",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-12-19",
+      "age": 28,
+      "caps": 17,
+      "goals": 1,
+      "club_from_squad_table": "Arsenal",
+      "wikipedia_title": "Gabriel Magalhães",
+      "date_of_birth": "1997-12-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Arsenal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q25175970",
+      "qid": "Q25175970",
+      "name": "Gabriel Magalhães",
+      "description": "Brazilian association football player",
+      "place_of_birth_qid": "Q174",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q9617",
+          "start": "2020-09-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q374069",
+          "start": "2016-00-00",
+          "end": "2017-01-00"
+        },
+        {
+          "team_qid": "Q19516",
+          "start": "2017-01-00",
+          "end": "2020-08-30"
+        },
+        {
+          "team_qid": "Q501693",
+          "start": "2017-07-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q172803",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2308235",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q899189",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9617",
+      "image_filename": "GabrielLille2019.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel_Magalh%C3%A3es",
+      "transfermarkt_id": "435338",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "São Paulo",
+      "wikidata_current_club": "Arsenal F.C.",
+      "wikidata_current_club_qid": "Q9617",
+      "photo": {
+        "filename": "GabrielLille2019.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/GabrielLille2019.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/GabrielLille2019.png",
+        "width": 468,
+        "height": 561,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Valencia CF",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/gabriel-magalhães.png"
+      }
+    },
+    {
+      "slug": "bremer",
+      "display_name": "Bremer",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-03-18",
+      "age": 29,
+      "caps": 6,
+      "goals": 1,
+      "club_from_squad_table": "Juventus",
+      "wikipedia_title": "Gleison Bremer",
+      "date_of_birth": "1997-03-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Juventus",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q38693097",
+      "qid": "Q38693097",
+      "name": "Bremer",
+      "description": "Brazilian association football player",
+      "place_of_birth_qid": "Q583180",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q270995",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2768",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1422",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gleison_Bremer",
+      "transfermarkt_id": "516716",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Itapitanga",
+      "wikidata_current_club": "Juventus FC",
+      "wikidata_current_club_qid": "Q1422",
+      "image_filename": "Gleison_Bremer_with_Juventus_in_2024.webp",
+      "photo": {
+        "filename": "Gleison_Bremer_with_Juventus_in_2024.webp",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Gleison_Bremer_with_Juventus_in_2024.webp",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gleison_Bremer_with_Juventus_in_2024.webp/960px-Gleison_Bremer_with_Juventus_in_2024.webp.png",
+        "width": 1920,
+        "height": 1080,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "Getty Images",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/bremer.webp"
+      }
+    },
+    {
+      "slug": "wesley",
+      "display_name": "Wesley",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-09-06",
+      "age": 22,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Roma",
+      "wikipedia_title": "Wesley França",
+      "date_of_birth": "2003-09-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Roma",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110882542",
+      "qid": "Q110882542",
+      "name": "Wesley França",
+      "description": "Brazilian footballer",
+      "place_of_birth_qid": "Q1763534",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 1.73,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wesley_Fran%C3%A7a",
+      "transfermarkt_id": "964580",
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Açailândia",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "roger-ibañez",
+      "display_name": "Roger Ibañez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-11-23",
+      "age": 27,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Al-Ahli",
+      "wikipedia_title": "Roger Ibañez",
+      "date_of_birth": "1998-11-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Ahli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q55363875",
+      "qid": "Q55363875",
+      "name": "Roger Ibañez da Silva",
+      "description": "Brazilian association football player",
+      "place_of_birth_qid": "Q995318",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 1.87,
+      "weight_kg": 73.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2280399",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q80987",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1886",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2609",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2609",
+      "image_filename": "Roger Ibañez da Silva.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Roger_Iba%C3%B1ez",
+      "transfermarkt_id": "524481",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Canela",
+      "wikidata_current_club": "SS Lazio",
+      "wikidata_current_club_qid": "Q2609",
+      "photo": {
+        "filename": "Roger Ibañez da Silva.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Roger_Iba%C3%B1ez_da_Silva.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Roger_Iba%C3%B1ez_da_Silva.jpg/960px-Roger_Iba%C3%B1ez_da_Silva.jpg",
+        "width": 1497,
+        "height": 1996,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ago76\" title=\"User:Ago76\">Ago76</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/roger-ibañez.jpg"
+      }
+    },
+    {
+      "slug": "douglas-santos",
+      "display_name": "Douglas Santos",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1994-03-22",
+      "age": 32,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Zenit Saint Petersburg",
+      "wikipedia_title": "Douglas Santos (footballer, born 1994)",
+      "date_of_birth": "1994-03-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Zenit Saint Petersburg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q10268484",
+      "qid": "Q10268484",
+      "name": "Douglas Santos",
+      "description": "Brazilian association football player (born 1994)",
+      "place_of_birth_qid": "Q167436",
+      "citizenship_qids": [
+        "Q155",
+        "Q159"
+      ],
+      "height_cm": 173.0,
+      "weight_kg": 69.0,
+      "position_qids": [
+        "Q336286",
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8812",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q73971",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2798",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q2798",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q270995",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q270995",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2308235",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q899189",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q29108",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q270995",
+      "image_filename": "Brasil estreia contra a África do Sul no Mané Garrincha — копия (7).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Douglas_Santos_(footballer,_born_1994)",
+      "transfermarkt_id": "220793",
+      "fifa_player_id": "367981",
+      "positions": [
+        "defender",
+        "full-back"
+      ],
+      "citizenship": [
+        "Brazil",
+        "Russia"
+      ],
+      "place_of_birth": "João Pessoa",
+      "wikidata_current_club": "Clube Atlético Mineiro",
+      "wikidata_current_club_qid": "Q270995",
+      "photo": {
+        "filename": "Brasil estreia contra a África do Sul no Mané Garrincha — копия (7).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Brasil_estreia_contra_a_%C3%81frica_do_Sul_no_Man%C3%A9_Garrincha_%E2%80%94_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_%287%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Brasil_estreia_contra_a_%C3%81frica_do_Sul_no_Man%C3%A9_Garrincha_%E2%80%94_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_%287%29.jpg",
+        "width": 496,
+        "height": 913,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/fotosagenciabrasil/\">Agência Brasil Fotografias</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/douglas-santos.jpg"
+      }
+    },
+    {
+      "slug": "léo-pereira",
+      "display_name": "Léo Pereira",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-01-31",
+      "age": 30,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Flamengo",
+      "wikipedia_title": "Léo Pereira (footballer, born 1996)",
+      "date_of_birth": "1996-01-31",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Flamengo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18199184",
+      "qid": "Q18199184",
+      "name": "Léo Pereira",
+      "description": "Brazilian footballer",
+      "place_of_birth_qid": "Q4361",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 76.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q506832",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2590133",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q2402747",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2308235",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q506832",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q506832",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q506832",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/L%C3%A9o_Pereira_(footballer,_born_1996)",
+      "transfermarkt_id": "288431",
+      "fifa_player_id": "371956",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Curitiba",
+      "wikidata_current_club": "Club Athletico Paranaense",
+      "wikidata_current_club_qid": "Q506832",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "casemiro",
+      "display_name": "Casemiro",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1992-02-23",
+      "age": 34,
+      "caps": 84,
+      "goals": 8,
+      "club_from_squad_table": "Manchester United",
+      "wikipedia_title": "Casemiro",
+      "date_of_birth": "1992-02-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q616664",
+      "qid": "Q616664",
+      "name": "Casemiro",
+      "description": "Brazilian association football player",
+      "place_of_birth_qid": "Q191642",
+      "citizenship_qids": [
+        "Q155",
+        "Q29",
+        "Q145"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 85.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8682",
+          "start": "2013-01-00",
+          "end": "2013-06-00"
+        },
+        {
+          "team_qid": "Q128446",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q38568",
+          "start": "2010-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q12217",
+          "start": "2013-01-00",
+          "end": "2013-06-00"
+        },
+        {
+          "team_qid": "Q2402747",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q2308235",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2022-00-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2013-07-00",
+          "end": "2022-00-00"
+        }
+      ],
+      "current_club_qid": "Q18656",
+      "image_filename": "20180610 FIFA Friendly Match Austria vs. Brazil Casemiro 850 1575.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Casemiro",
+      "transfermarkt_id": "16306",
+      "fifa_player_id": "308386",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Brazil",
+        "Spain",
+        "United Kingdom"
+      ],
+      "place_of_birth": "São José dos Campos",
+      "wikidata_current_club": "Manchester United F.C.",
+      "wikidata_current_club_qid": "Q18656",
+      "photo": {
+        "filename": "20180610 FIFA Friendly Match Austria vs. Brazil Casemiro 850 1575.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Casemiro_850_1575.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Casemiro_850_1575.jpg/960px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Casemiro_850_1575.jpg",
+        "width": 2669,
+        "height": 4003,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/casemiro.jpg"
+      }
+    },
+    {
+      "slug": "lucas-paquetá",
+      "display_name": "Lucas Paquetá",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-08-27",
+      "age": 28,
+      "caps": 61,
+      "goals": 12,
+      "club_from_squad_table": "Flamengo",
+      "wikipedia_title": "Lucas Paquetá",
+      "date_of_birth": "1997-08-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Flamengo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30089624",
+      "qid": "Q30089624",
+      "name": "Lucas Paquetá",
+      "description": "Brazilian association football player",
+      "place_of_birth_qid": "Q8678",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1543",
+          "start": "2019-01-04",
+          "end": "2020-09-30"
+        },
+        {
+          "team_qid": "Q17479",
+          "start": "2016-00-00",
+          "end": "2019-01-04"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q704",
+          "start": "2020-09-30",
+          "end": "2022-08-00"
+        },
+        {
+          "team_qid": "Q18747",
+          "start": "2022-08-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q17479",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q17479",
+      "image_filename": "Lucas Paquetá of West Ham (cropped).jpeg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_Paquet%C3%A1",
+      "transfermarkt_id": "444523",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Rio de Janeiro",
+      "wikidata_current_club": "Clube de Regatas do Flamengo",
+      "wikidata_current_club_qid": "Q17479",
+      "photo": {
+        "filename": "Lucas Paquetá of West Ham (cropped).jpeg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Lucas_Paquet%C3%A1_of_West_Ham_%28cropped%29.jpeg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Lucas_Paquet%C3%A1_of_West_Ham_%28cropped%29.jpeg",
+        "width": 404,
+        "height": 521,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Egghead06\" title=\"User:Egghead06\">Egghead06</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lucas-paquetá.jpeg"
+      }
+    },
+    {
+      "slug": "bruno-guimarães",
+      "display_name": "Bruno Guimarães",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-11-16",
+      "age": 28,
+      "caps": 41,
+      "goals": 2,
+      "club_from_squad_table": "Newcastle United",
+      "wikipedia_title": "Bruno Guimarães",
+      "date_of_birth": "1997-11-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Newcastle United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q58323172",
+      "qid": "Q58323172",
+      "name": "Bruno Guimarães",
+      "description": "Brazilian association football player",
+      "place_of_birth_qid": "Q8678",
+      "citizenship_qids": [
+        "Q155",
+        "Q29"
+      ],
+      "height_cm": 182.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q506832",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q704",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q43899915",
+          "start": "2015-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q18716",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q899189",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18716",
+      "image_filename": "Bruno Guimarães.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bruno_Guimar%C3%A3es",
+      "transfermarkt_id": "520624",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Brazil",
+        "Spain"
+      ],
+      "place_of_birth": "Rio de Janeiro",
+      "wikidata_current_club": "Newcastle United F.C.",
+      "wikidata_current_club_qid": "Q18716",
+      "photo": {
+        "filename": "Bruno Guimarães.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bruno_Guimar%C3%A3es.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bruno_Guimar%C3%A3es.png",
+        "width": 804,
+        "height": 758,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Clubhouse TV",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/bruno-guimarães.png"
+      }
+    },
+    {
+      "slug": "fabinho",
+      "display_name": "Fabinho",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1993-10-23",
+      "age": 32,
+      "caps": 31,
+      "goals": 0,
+      "club_from_squad_table": "Al-Ittihad",
+      "wikipedia_title": "Fabinho (footballer, born 1993)",
+      "date_of_birth": "1993-10-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Ittihad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q641425",
+      "qid": "Q641425",
+      "name": "Fabinho",
+      "description": "Brazilian association football player (born 1995)",
+      "place_of_birth_qid": "Q171617",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q18691898"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8682",
+          "start": "2013-00-00",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q180305",
+          "start": "2013-07-19",
+          "end": "2015-06-30"
+        },
+        {
+          "team_qid": "Q622432",
+          "start": "2012-06-08",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q12217",
+          "start": "2012-07-19",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q180305",
+          "start": "2015-07-01",
+          "end": "2018-07-01"
+        },
+        {
+          "team_qid": "Q899189",
+          "start": "2015-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2308235",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2018-07-01",
+          "end": "2023-07-31"
+        },
+        {
+          "team_qid": "Q309480",
+          "start": "2023-07-31",
+          "end": null
+        },
+        {
+          "team_qid": "Q80987",
+          "start": "2012-00-00",
+          "end": "2012-06-08"
+        }
+      ],
+      "current_club_qid": "Q309480",
+      "image_filename": "Fabinho (43934382122) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fabinho_(footballer,_born_1993)",
+      "transfermarkt_id": "225693",
+      "positions": [
+        "defensive midfielder"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Campinas",
+      "wikidata_current_club": "Al Ittihad FC",
+      "wikidata_current_club_qid": "Q309480",
+      "photo": {
+        "filename": "Fabinho (43934382122) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Fabinho_%2843934382122%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fabinho_%2843934382122%29_%28cropped%29.jpg/960px-Fabinho_%2843934382122%29_%28cropped%29.jpg",
+        "width": 1735,
+        "height": 2477,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/86624586@N00\">Kevin Walsh</a> from Preston Brook, England",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/fabinho.jpg"
+      }
+    },
+    {
+      "slug": "danilo-santos",
+      "display_name": "Danilo Santos",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-04-29",
+      "age": 25,
+      "caps": 2,
+      "goals": 1,
+      "club_from_squad_table": "Botafogo",
+      "wikipedia_title": "Danilo (footballer, born 2001)",
+      "date_of_birth": "2001-04-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Botafogo",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q99557093",
+      "qid": "Q99557093",
+      "name": "Danilo",
+      "description": "Brazilian footballer",
+      "place_of_birth_qid": "Q36947",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q80964",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q80964",
+      "image_filename": "Danilo-palmeiras-2022.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Danilo_(footballer,_born_2001)",
+      "transfermarkt_id": "808509",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Salvador",
+      "wikidata_current_club": "Sociedade Esportiva Palmeiras",
+      "wikidata_current_club_qid": "Q80964",
+      "photo": {
+        "filename": "Danilo-palmeiras-2022.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Danilo-palmeiras-2022.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Danilo-palmeiras-2022.png",
+        "width": 247,
+        "height": 363,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/c/tvalviverde\">TV Alviverde</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/danilo-santos.png"
+      }
+    },
+    {
+      "slug": "neymar",
+      "display_name": "Neymar",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1992-02-05",
+      "age": 34,
+      "caps": 128,
+      "goals": 79,
+      "club_from_squad_table": "Santos",
+      "wikipedia_title": "Neymar",
+      "date_of_birth": "1992-02-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Santos",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q142794",
+      "qid": "Q142794",
+      "name": "Neymar",
+      "description": "Brazilian association football player",
+      "place_of_birth_qid": "Q194332",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 175.0,
+      "weight_kg": 69.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7156",
+          "start": "2013-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q80955",
+          "start": "2009-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2402747",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q2308235",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q899189",
+          "start": "2012-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2010-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2017-00-00",
+          "end": "2023-08-15"
+        },
+        {
+          "team_qid": "Q73965",
+          "start": "2023-08-15",
+          "end": "2025-01-00"
+        },
+        {
+          "team_qid": "Q80955",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q80955",
+      "image_filename": "20180610 FIFA Friendly Match Austria vs. Brazil Neymar 850 1705.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Neymar",
+      "transfermarkt_id": "68290",
+      "fifa_player_id": "314197",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Mogi das Cruzes",
+      "wikidata_current_club": "Santos F.C.",
+      "wikidata_current_club_qid": "Q80955",
+      "photo": {
+        "filename": "20180610 FIFA Friendly Match Austria vs. Brazil Neymar 850 1705.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg/960px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg",
+        "width": 2739,
+        "height": 4108,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/neymar.jpg"
+      }
+    },
+    {
+      "slug": "vinícius-júnior",
+      "display_name": "Vinícius Júnior",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-07-12",
+      "age": 25,
+      "caps": 47,
+      "goals": 8,
+      "club_from_squad_table": "Real Madrid",
+      "wikipedia_title": "Vinícius Júnior",
+      "date_of_birth": "2000-07-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28973866",
+      "qid": "Q28973866",
+      "name": "Vinícius Júnior",
+      "description": "Brazilian association football player (born 2000)",
+      "place_of_birth_qid": "Q83114",
+      "citizenship_qids": [
+        "Q155",
+        "Q29"
+      ],
+      "height_cm": 176.0,
+      "weight_kg": 73.0,
+      "position_qids": [
+        "Q8025128",
+        "Q193592",
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8682",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q17479",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8682",
+      "image_filename": "Vinicius Jr 2021.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior",
+      "transfermarkt_id": "371998",
+      "positions": [
+        "wing half",
+        "midfielder",
+        "forward"
+      ],
+      "citizenship": [
+        "Brazil",
+        "Spain"
+      ],
+      "place_of_birth": "São Gonçalo",
+      "wikidata_current_club": "Real Madrid Club de Fútbol",
+      "wikidata_current_club_qid": "Q8682",
+      "photo": {
+        "filename": "Vinicius Jr 2021.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Vinicius_Jr_2021.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Vinicius_Jr_2021.jpg",
+        "width": 680,
+        "height": 808,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Real Madrid",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/vinícius-júnior.jpg"
+      }
+    },
+    {
+      "slug": "raphinha",
+      "display_name": "Raphinha",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-12-14",
+      "age": 29,
+      "caps": 37,
+      "goals": 11,
+      "club_from_squad_table": "Barcelona",
+      "wikipedia_title": "Raphinha",
+      "date_of_birth": "1996-12-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Barcelona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28861547",
+      "qid": "Q28861547",
+      "name": "Raphinha papá de Mbappe",
+      "description": "que chingue a su madre mbappe",
+      "place_of_birth_qid": "Q40269",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 177.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q7156",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q223450",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q75729",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q19509",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1128631",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q17518847",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q374069",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        }
+      ],
+      "current_club_qid": "Q7156",
+      "image_filename": "Raphael Dias Belloli 2023.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Raphinha",
+      "transfermarkt_id": "411295",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Porto Alegre",
+      "wikidata_current_club": "Futbol Club Barcelona",
+      "wikidata_current_club_qid": "Q7156",
+      "photo": {
+        "filename": "Raphael Dias Belloli 2023.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Raphael_Dias_Belloli_2023.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Raphael_Dias_Belloli_2023.jpg",
+        "width": 719,
+        "height": 811,
+        "license": "Attribution",
+        "license_url": null,
+        "attribution": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Executive_Council_of_Catalonia\" class=\"extiw\" title=\"w:en:Executive Council of Catalonia\"><span title=\"Main institution in Catalonia\">Government of Catalonia</span></a>\n</bdi>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/raphinha.jpg"
+      }
+    },
+    {
+      "slug": "gabriel-martinelli",
+      "display_name": "Gabriel Martinelli",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-06-18",
+      "age": 24,
+      "caps": 22,
+      "goals": 4,
+      "club_from_squad_table": "Arsenal",
+      "wikipedia_title": "Gabriel Martinelli",
+      "date_of_birth": "2001-06-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Arsenal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q61460651",
+      "qid": "Q61460651",
+      "name": "Gabriel Martinelli",
+      "description": "Brazilian footballer (born 2001)",
+      "place_of_birth_qid": "Q184409",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1675351",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q899189",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9617",
+      "image_filename": "1 Gabriel Martinelli arsenal 2025 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel_Martinelli",
+      "transfermarkt_id": "655488",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Guarulhos",
+      "wikidata_current_club": "Arsenal F.C.",
+      "wikidata_current_club_qid": "Q9617",
+      "photo": {
+        "filename": "1 Gabriel Martinelli arsenal 2025 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/1_Gabriel_Martinelli_arsenal_2025_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/1_Gabriel_Martinelli_arsenal_2025_%28cropped%29.jpg/960px-1_Gabriel_Martinelli_arsenal_2025_%28cropped%29.jpg",
+        "width": 1378,
+        "height": 1878,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\">Chensiyuan</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/gabriel-martinelli.jpg"
+      }
+    },
+    {
+      "slug": "matheus-cunha",
+      "display_name": "Matheus Cunha",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-05-27",
+      "age": 27,
+      "caps": 21,
+      "goals": 1,
+      "club_from_squad_table": "Manchester United",
+      "wikipedia_title": "Matheus Cunha",
+      "date_of_birth": "1999-05-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q35831063",
+      "qid": "Q35831063",
+      "name": "Matheus Cunha",
+      "description": "Brazilian association football player (born 1999)",
+      "place_of_birth_qid": "Q167436",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 1.84,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q3446915"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q321061",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q102720",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q899189",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2025-06-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18656",
+      "image_filename": "Matheus Cunha (cropped) 20180920 Fussball, UEFA Europa League, RB Leipzig - FC Salzburg by Stepro StP 7968 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Matheus_Cunha",
+      "transfermarkt_id": "517894",
+      "positions": [
+        "attacker"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "João Pessoa",
+      "wikidata_current_club": "Manchester United F.C.",
+      "wikidata_current_club_qid": "Q18656",
+      "photo": {
+        "filename": "Matheus Cunha (cropped) 20180920 Fussball, UEFA Europa League, RB Leipzig - FC Salzburg by Stepro StP 7968 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Matheus_Cunha_%28cropped%29_20180920_Fussball%2C_UEFA_Europa_League%2C_RB_Leipzig_-_FC_Salzburg_by_Stepro_StP_7968_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Matheus_Cunha_%28cropped%29_20180920_Fussball%2C_UEFA_Europa_League%2C_RB_Leipzig_-_FC_Salzburg_by_Stepro_StP_7968_%28cropped%29.jpg",
+        "width": 467,
+        "height": 623,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "crop by <a href=\"//commons.wikimedia.org/wiki/User:Ugogames\" class=\"mw-redirect\" title=\"User:Ugogames\">Ugogames</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/matheus-cunha.jpg"
+      }
+    },
+    {
+      "slug": "endrick",
+      "display_name": "Endrick",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2006-07-21",
+      "age": 19,
+      "caps": 15,
+      "goals": 3,
+      "club_from_squad_table": "Lyon",
+      "wikipedia_title": "Endrick (footballer, born 2006)",
+      "date_of_birth": "2006-07-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lyon",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110644260",
+      "qid": "Q110644260",
+      "name": "Endrick Quispe Mamani",
+      "description": "Brazilian association football player",
+      "place_of_birth_qid": "Q734609",
+      "citizenship_qids": [
+        "Q120039352"
+      ],
+      "height_cm": 173.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q80964",
+          "start": "2022-00-00",
+          "end": "2024-06-00"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2024-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2402747",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q899189",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q704",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q704",
+      "image_filename": "Endrick seleção vs inglaterra.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Endrick_(footballer,_born_2006)",
+      "transfermarkt_id": "971570",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Eygptian Scene"
+      ],
+      "place_of_birth": "Taguatinga",
+      "wikidata_current_club": "Olympique Lyonnais",
+      "wikidata_current_club_qid": "Q704",
+      "photo": {
+        "filename": "Endrick seleção vs inglaterra.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Endrick_sele%C3%A7%C3%A3o_vs_inglaterra.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Endrick_sele%C3%A7%C3%A3o_vs_inglaterra.jpg/960px-Endrick_sele%C3%A7%C3%A3o_vs_inglaterra.jpg",
+        "width": 1080,
+        "height": 1172,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Thiago Arantes",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/endrick.jpg"
+      }
+    },
+    {
+      "slug": "luiz-henrique",
+      "display_name": "Luiz Henrique",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-01-02",
+      "age": 25,
+      "caps": 13,
+      "goals": 2,
+      "club_from_squad_table": "Zenit Saint Petersburg",
+      "wikipedia_title": "Luiz Henrique (footballer, born 2001)",
+      "date_of_birth": "2001-01-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Zenit Saint Petersburg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q101764291",
+      "qid": "Q101764291",
+      "name": "Luiz Henrique",
+      "description": "Brazilian soccer player (born 2001)",
+      "place_of_birth_qid": "Q189043",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "image_filename": "Luiz Henrique in Zenit 2025.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luiz_Henrique_(footballer,_born_2001)",
+      "transfermarkt_id": "800175",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Petrópolis",
+      "photo": {
+        "filename": "Luiz Henrique in Zenit 2025.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Luiz_Henrique_in_Zenit_2025.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Luiz_Henrique_in_Zenit_2025.jpg",
+        "width": 632,
+        "height": 948,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Вячеслав Евдокимов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/luiz-henrique.jpg"
+      }
+    },
+    {
+      "slug": "igor-thiago",
+      "display_name": "Igor Thiago",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-06-26",
+      "age": 24,
+      "caps": 2,
+      "goals": 1,
+      "club_from_squad_table": "Brentford",
+      "wikipedia_title": "Igor Thiago",
+      "date_of_birth": "2001-06-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Brentford",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q83639138",
+      "qid": "Q83639138",
+      "name": "Igor Thiago",
+      "description": "Brazilian association football player",
+      "place_of_birth_qid": "Q93572",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 1.93,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q188277",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1339086",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q190916",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q19571",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q83459",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19571",
+      "image_filename": "Brentford Players 27122025 (4) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Igor_Thiago",
+      "transfermarkt_id": "739443",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Gama",
+      "wikidata_current_club": "Brentford F.C.",
+      "wikidata_current_club_qid": "Q19571",
+      "photo": {
+        "filename": "Brentford Players 27122025 (4) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Brentford_Players_27122025_%284%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brentford_Players_27122025_%284%29_%28cropped%29.jpg/960px-Brentford_Players_27122025_%284%29_%28cropped%29.jpg",
+        "width": 1222,
+        "height": 1779,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/igor-thiago.jpg"
+      }
+    },
+    {
+      "slug": "rayan",
+      "display_name": "Rayan",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2006-08-03",
+      "age": 19,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Bournemouth",
+      "wikipedia_title": "Rayan (footballer, born 2006)",
+      "date_of_birth": "2006-08-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bournemouth",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q115937989",
+      "qid": "Q115937989",
+      "name": "Rayan",
+      "description": "Brazilian football player",
+      "place_of_birth_qid": "Q8678",
+      "citizenship_qids": [
+        "Q155"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q5014111",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q5014111",
+      "image_filename": "Rayan 2026.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rayan_(footballer,_born_2006)",
+      "transfermarkt_id": "1012564",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Brazil"
+      ],
+      "place_of_birth": "Rio de Janeiro",
+      "wikidata_current_club": "CR Vasco da Gama",
+      "wikidata_current_club_qid": "Q5014111",
+      "photo": {
+        "filename": "Rayan 2026.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Rayan_2026.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Rayan_2026.png",
+        "width": 545,
+        "height": 645,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "AFC Bournemouth",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/rayan.png"
+      }
+    }
+  ]
+}

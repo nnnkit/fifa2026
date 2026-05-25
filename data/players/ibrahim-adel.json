@@ -1,0 +1,77 @@
+{
+  "slug": "ibrahim-adel",
+  "display_name": "Ibrahim Adel",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-04-23",
+  "age": 25,
+  "caps": 22,
+  "goals": 3,
+  "club_from_squad_table": "Nordsj\u00e6lland",
+  "wikipedia_title": "Ibrahim Adel",
+  "date_of_birth": "2001-04-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Nordsj\u00e6lland",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q90916422",
+  "qid": "Q90916422",
+  "name": "Ibrahim Adel",
+  "description": "Egyptian association football player",
+  "place_of_birth_qid": "Q134509",
+  "citizenship_qids": [
+    "Q79"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18207291",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q28089",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1723220",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q3589884",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    }
+  ],
+  "current_club_qid": "Q18207291",
+  "image_filename": "Ibrahim Adel 2025.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ibrahim_Adel",
+  "transfermarkt_id": "677278",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Egypt"
+  ],
+  "place_of_birth": "Port Said",
+  "wikidata_current_club": "Pyramids FC",
+  "wikidata_current_club_qid": "Q18207291",
+  "photo": {
+    "filename": "Ibrahim Adel 2025.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ibrahim_Adel_2025.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ibrahim_Adel_2025.jpg/960px-Ibrahim_Adel_2025.jpg",
+    "width": 1179,
+    "height": 1860,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Botolat",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ibrahim-adel.jpg"
+  },
+  "team_slug": "egypt",
+  "team_country": "Egypt"
+}

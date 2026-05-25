@@ -1,0 +1,93 @@
+{
+  "slug": "jerdy-schouten",
+  "display_name": "Jerdy Schouten",
+  "shirt_no": 16,
+  "position_code": "MF",
+  "dob": "1997-01-12",
+  "age": 29,
+  "caps": 17,
+  "goals": 0,
+  "club_from_squad_table": "PSV",
+  "wikipedia_title": "Jerdy Schouten",
+  "date_of_birth": "1997-01-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "PSV",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28038574",
+  "qid": "Q28038574",
+  "name": "Jerdy Schouten",
+  "description": "Dutch association football player (born 1997)",
+  "place_of_birth_qid": "Q33444372",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q370712",
+      "start": "2018-07-00",
+      "end": "2019-07-00"
+    },
+    {
+      "team_qid": "Q1893",
+      "start": "2019-07-05",
+      "end": "2023-08-00"
+    },
+    {
+      "team_qid": "Q24904",
+      "start": "2016-07-00",
+      "end": "2017-06-00"
+    },
+    {
+      "team_qid": "Q1071713",
+      "start": "2017-07-00",
+      "end": "2018-06-00"
+    },
+    {
+      "team_qid": "Q11938",
+      "start": "2023-08-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q92627933",
+      "start": "2014-00-00",
+      "end": "2017-00-00"
+    }
+  ],
+  "current_club_qid": "Q11938",
+  "image_filename": "Jerdy schouten-1772637173 (cropped).JPG",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jerdy_Schouten",
+  "transfermarkt_id": "347900",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Hellevoetsluis",
+  "wikidata_current_club": "PSV Eindhoven",
+  "wikidata_current_club_qid": "Q11938",
+  "photo": {
+    "filename": "Jerdy schouten-1772637173 (cropped).JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Jerdy_schouten-1772637173_%28cropped%29.JPG",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jerdy_schouten-1772637173_%28cropped%29.JPG/960px-Jerdy_schouten-1772637173_%28cropped%29.JPG",
+    "width": 2961,
+    "height": 5464,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Hans Reefman",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jerdy-schouten.JPG"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

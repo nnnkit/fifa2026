@@ -1,0 +1,61 @@
+{
+  "slug": "abdallah-al-fakhouri",
+  "display_name": "Abdallah Al-Fakhouri",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2000-01-22",
+  "age": 26,
+  "caps": 11,
+  "goals": 0,
+  "club_from_squad_table": "Al-Wehdat",
+  "wikipedia_title": "Abdallah Al-Fakhouri",
+  "date_of_birth": "2000-01-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Wehdat",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q60048828",
+  "qid": "Q60048828",
+  "name": "Abdallah Al-Fakhouri",
+  "description": "Jordanian professional footballer",
+  "place_of_birth_qid": "Q2361176",
+  "citizenship_qids": [
+    "Q810"
+  ],
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q285649",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q285649",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abdallah_Al-Fakhouri",
+  "transfermarkt_id": "658805",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Jordan"
+  ],
+  "place_of_birth": "Russeifa",
+  "wikidata_current_club": "Al-Wehdat SC",
+  "wikidata_current_club_qid": "Q285649",
+  "image_filename": "Week_3_of_the_second_level_of_the_AFC_Champions_League;_Esteghlal_2_-_0_Al-Wehdat_Avash_27_(cropped).jpg",
+  "photo": {
+    "filename": "Week_3_of_the_second_level_of_the_AFC_Champions_League;_Esteghlal_2_-_0_Al-Wehdat_Avash_27_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Week_3_of_the_second_level_of_the_AFC_Champions_League%3B_Esteghlal_2_-_0_Al-Wehdat_Avash_27_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Week_3_of_the_second_level_of_the_AFC_Champions_League%3B_Esteghlal_2_-_0_Al-Wehdat_Avash_27_%28cropped%29.jpg",
+    "width": 744,
+    "height": 871,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mohammadreza Abbasi",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/abdallah-al-fakhouri.jpg"
+  },
+  "team_slug": "jordan",
+  "team_country": "Jordan"
+}

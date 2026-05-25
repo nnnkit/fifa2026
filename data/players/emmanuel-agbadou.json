@@ -1,0 +1,63 @@
+{
+  "slug": "emmanuel-agbadou",
+  "display_name": "Emmanuel Agbadou",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-06-07",
+  "age": 29,
+  "caps": 19,
+  "goals": 2,
+  "club_from_squad_table": "Beşiktaş",
+  "wikipedia_title": "Emmanuel Agbadou",
+  "date_of_birth": "1997-06-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Beşiktaş",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q69523791",
+  "qid": "Q69523791",
+  "name": "Emmanuel Agbadou",
+  "description": "Ivorian footballer (born 1997)",
+  "place_of_birth_qid": "Q1008",
+  "citizenship_qids": [
+    "Q1008"
+  ],
+  "height_cm": 192.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2145744",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2145744",
+  "image_filename": "Emmanuel Agbadou.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Emmanuel_Agbadou",
+  "transfermarkt_id": "683895",
+  "wikidata_date_of_birth": "1997-06-17",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Ivory Coast"
+  ],
+  "place_of_birth": "Ivory Coast",
+  "wikidata_current_club": "US Monastir",
+  "wikidata_current_club_qid": "Q2145744",
+  "photo": {
+    "filename": "Emmanuel Agbadou.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Emmanuel_Agbadou.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emmanuel_Agbadou.jpg/960px-Emmanuel_Agbadou.jpg",
+    "width": 1260,
+    "height": 1676,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:G%C3%A9rald_Garitan\" title=\"User:Gérald Garitan\">G.Garitan</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/emmanuel-agbadou.jpg"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

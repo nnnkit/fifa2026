@@ -1,0 +1,95 @@
+{
+  "slug": "saman-ghoddos",
+  "display_name": "Saman Ghoddos",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1993-09-06",
+  "age": 32,
+  "caps": 67,
+  "goals": 3,
+  "club_from_squad_table": "Kalba",
+  "wikipedia_title": "Saman Ghoddos",
+  "date_of_birth": "1993-09-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Kalba",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16632974",
+  "qid": "Q16632974",
+  "name": "Saman Ghoddos",
+  "description": "Iranian footballer (born 1993)",
+  "place_of_birth_qid": "Q17000558",
+  "citizenship_qids": [
+    "Q34",
+    "Q794"
+  ],
+  "height_cm": 176.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q306797",
+      "start": "2016-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1540765",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q818624",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q683351",
+      "start": "2014-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q184602",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q866884",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q19571",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19571",
+  "image_filename": "Saman Ghoddos - 2018 FIFA World Cup.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Saman_Ghoddos",
+  "transfermarkt_id": "204294",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Sweden",
+    "Iran"
+  ],
+  "place_of_birth": "Piranshahr Sugar Factory",
+  "wikidata_current_club": "Brentford F.C.",
+  "wikidata_current_club_qid": "Q19571",
+  "photo": {
+    "filename": "Saman Ghoddos - 2018 FIFA World Cup.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Saman_Ghoddos_-_2018_FIFA_World_Cup.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Saman_Ghoddos_-_2018_FIFA_World_Cup.jpg",
+    "width": 326,
+    "height": 460,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Meghdad Madadi",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/saman-ghoddos.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

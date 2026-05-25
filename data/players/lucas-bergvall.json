@@ -1,0 +1,66 @@
+{
+  "slug": "lucas-bergvall",
+  "display_name": "Lucas Bergvall",
+  "shirt_no": 7,
+  "position_code": "MF",
+  "dob": "2006-02-02",
+  "age": 20,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "Tottenham Hotspur",
+  "wikipedia_title": "Lucas Bergvall",
+  "date_of_birth": "2006-02-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Tottenham Hotspur",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q115371638",
+  "qid": "Q115371638",
+  "name": "Lucas Bergvall",
+  "description": "Swedish association football player (born 2006)",
+  "place_of_birth_qid": "Q1754",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 187.0,
+  "teams": [
+    {
+      "team_qid": "Q754339",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q622430",
+      "start": "2022-12-09",
+      "end": "2024-06-30"
+    },
+    {
+      "team_qid": "Q18741",
+      "start": "2024-07-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18741",
+  "image_filename": "Lucas Bergvall (Sweden U21 vs Moldova U21, 13 October 2023).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_Bergvall",
+  "transfermarkt_id": "866246",
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Stockholm",
+  "wikidata_current_club": "Tottenham Hotspur F.C.",
+  "wikidata_current_club_qid": "Q18741",
+  "photo": {
+    "filename": "Lucas Bergvall (Sweden U21 vs Moldova U21, 13 October 2023).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lucas_Bergvall_%28Sweden_U21_vs_Moldova_U21%2C_13_October_2023%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lucas_Bergvall_%28Sweden_U21_vs_Moldova_U21%2C_13_October_2023%29.jpg/960px-Lucas_Bergvall_%28Sweden_U21_vs_Moldova_U21%2C_13_October_2023%29.jpg",
+    "width": 2320,
+    "height": 2624,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/198658015@N03\">Amanda Aikioniemi</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lucas-bergvall.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

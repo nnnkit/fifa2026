@@ -1,0 +1,68 @@
+{
+  "slug": "yassin-fortuné",
+  "display_name": "Yassin Fortuné",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1999-01-30",
+  "age": 27,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Vizela",
+  "wikipedia_title": "Yassin Fortuné",
+  "date_of_birth": "1999-01-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Vizela",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q23772079",
+  "qid": "Q23772079",
+  "name": "Yassin Fortuné",
+  "description": "French association football player",
+  "place_of_birth_qid": "Q205632",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 184.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q9617",
+      "start": "2015-01-01",
+      "end": "2018-06-12"
+    },
+    {
+      "team_qid": "Q3590033",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q321061",
+      "start": "2018-06-12",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q321061",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yassin_Fortun%C3%A9",
+  "transfermarkt_id": "342878",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "Aubervilliers",
+  "wikidata_current_club": "FC Sion",
+  "wikidata_current_club_qid": "Q321061",
+  "team_slug": "haiti",
+  "team_country": "Haiti",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

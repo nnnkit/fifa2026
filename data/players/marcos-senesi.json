@@ -1,0 +1,63 @@
+{
+  "slug": "marcos-senesi",
+  "display_name": "Marcos Senesi",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-05-10",
+  "age": 29,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Bournemouth",
+  "wikipedia_title": "Marcos Senesi",
+  "wikidata_qid": "Q23413053",
+  "qid": "Q23413053",
+  "name": "Marcos Senesi",
+  "description": "Argentine association football player (born 1997)",
+  "date_of_birth": "1997-05-10",
+  "place_of_birth_qid": "Q52578",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 184.0,
+  "weight_kg": 79.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q218282",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q218282",
+  "image_filename": "Marcos Senesi 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marcos_Senesi",
+  "transfermarkt_id": "469781",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bournemouth",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Concordia",
+  "wikidata_current_club": "San Lorenzo de Almagro",
+  "wikidata_current_club_qid": "Q218282",
+  "photo": {
+    "filename": "Marcos Senesi 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Marcos_Senesi_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Marcos_Senesi_2022.jpg",
+    "width": 747,
+    "height": 977,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "AFC Bournemouth",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/marcos-senesi.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

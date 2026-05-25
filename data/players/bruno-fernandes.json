@@ -1,0 +1,109 @@
+{
+  "slug": "bruno-fernandes",
+  "display_name": "Bruno Fernandes",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1994-09-08",
+  "age": 31,
+  "caps": 87,
+  "goals": 28,
+  "club_from_squad_table": "Manchester United",
+  "wikipedia_title": "Bruno Fernandes",
+  "date_of_birth": "1994-09-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q4979316",
+  "qid": "Q4979316",
+  "name": "Bruno Fernandes",
+  "description": "Portuguese association football player (born 1994)",
+  "place_of_birth_qid": "Q990403",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 179.0,
+  "weight_kg": 65.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q8416",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2798",
+      "start": "2013-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q3873524",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q1772776",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1630430",
+      "start": "2014-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q3590758",
+      "start": "2016-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q1457",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q75729",
+      "start": "2017-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q267245",
+      "start": "2017-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18656",
+  "image_filename": "Bruno Fernandes USMNT v Portugal Mar 31 2026-27 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bruno_Fernandes",
+  "transfermarkt_id": "240306",
+  "fifa_player_id": "395206",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Maia",
+  "wikidata_current_club": "Manchester United F.C.",
+  "wikidata_current_club_qid": "Q18656",
+  "photo": {
+    "filename": "Bruno Fernandes USMNT v Portugal Mar 31 2026-27 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_%28cropped%29.jpg/960px-Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_%28cropped%29.jpg",
+    "width": 2816,
+    "height": 4222,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/bruno-fernandes.jpg"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

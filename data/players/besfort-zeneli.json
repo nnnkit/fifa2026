@@ -1,0 +1,61 @@
+{
+  "slug": "besfort-zeneli",
+  "display_name": "Besfort Zeneli",
+  "shirt_no": 22,
+  "position_code": "MF",
+  "dob": "2002-11-21",
+  "age": 23,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "Union Saint-Gilloise",
+  "wikipedia_title": "Besfort Zeneli",
+  "date_of_birth": "2002-11-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Union Saint-Gilloise",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q113952820",
+  "qid": "Q113952820",
+  "name": "Besfort Zeneli",
+  "description": "Kosovan footballer",
+  "citizenship_qids": [
+    "Q34",
+    "Q1246"
+  ],
+  "height_cm": 187.0,
+  "teams": [
+    {
+      "team_qid": "Q211753",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q196160",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q211753",
+  "image_filename": "Besfort Zeneli Union Saint-Gilloise 2026.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Besfort_Zeneli",
+  "transfermarkt_id": "715653",
+  "citizenship": [
+    "Sweden",
+    "Kosovo"
+  ],
+  "wikidata_current_club": "IF Elfsborg",
+  "wikidata_current_club_qid": "Q211753",
+  "photo": {
+    "filename": "Besfort Zeneli Union Saint-Gilloise 2026.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Besfort_Zeneli_Union_Saint-Gilloise_2026.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Besfort_Zeneli_Union_Saint-Gilloise_2026.jpg/960px-Besfort_Zeneli_Union_Saint-Gilloise_2026.jpg",
+    "width": 1727,
+    "height": 2499,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sidney.Cortez&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sidney.Cortez (page does not exist)\">Sidney.Cortez</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/besfort-zeneli.jpg"
+  },
+  "team_slug": "sweden",
+  "team_country": "Sweden"
+}

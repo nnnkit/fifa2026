@@ -1,0 +1,127 @@
+{
+  "slug": "edin-džeko",
+  "display_name": "Edin Džeko",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1986-03-17",
+  "age": 40,
+  "caps": 148,
+  "goals": 73,
+  "club_from_squad_table": "Schalke 04",
+  "wikipedia_title": "Edin Džeko",
+  "wikidata_qid": "Q153786",
+  "qid": "Q153786",
+  "name": "Edin Džeko",
+  "description": "Bosnian association football player",
+  "date_of_birth": "1986-03-17",
+  "place_of_birth_qid": "Q11194",
+  "citizenship_qids": [
+    "Q225"
+  ],
+  "height_cm": 193.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q101859",
+      "start": "2007-07-00",
+      "end": "2011-01-00"
+    },
+    {
+      "team_qid": "Q738886",
+      "start": "2005-07-00",
+      "end": "2007-07-00"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2011-01-00",
+      "end": "2016-07-00"
+    },
+    {
+      "team_qid": "Q220928",
+      "start": "2005-08-00",
+      "end": "2005-12-00"
+    },
+    {
+      "team_qid": "Q219929",
+      "start": "2003-07-00",
+      "end": "2005-07-00"
+    },
+    {
+      "team_qid": "Q844509",
+      "start": "2003-09-00",
+      "end": "2004-10-00"
+    },
+    {
+      "team_qid": "Q769512",
+      "start": "2006-08-00",
+      "end": "2006-10-00"
+    },
+    {
+      "team_qid": "Q181190",
+      "start": "2007-06-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2739",
+      "start": "2015-08-12",
+      "end": "2016-06-30"
+    },
+    {
+      "team_qid": "Q631",
+      "start": "2021-08-00",
+      "end": "2023-06-00"
+    },
+    {
+      "team_qid": "Q6601875",
+      "start": "2023-06-00",
+      "end": "2025-07-00"
+    },
+    {
+      "team_qid": "Q2739",
+      "start": "2016-07-00",
+      "end": "2021-08-00"
+    },
+    {
+      "team_qid": "Q2052",
+      "start": "2025-07-00",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q32494",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q32494",
+  "image_filename": "20150331 2026 AUT BIH 2177 Edin Džeko (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Edin_D%C5%BEeko",
+  "transfermarkt_id": "28396",
+  "fifa_player_id": "300409",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Schalke 04",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Bosnia and Herzegovina"
+  ],
+  "place_of_birth": "Sarajevo",
+  "photo": {
+    "filename": "20150331 2026 AUT BIH 2177 Edin Džeko (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/20150331_2026_AUT_BIH_2177_Edin_D%C5%BEeko_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/20150331_2026_AUT_BIH_2177_Edin_D%C5%BEeko_%28cropped%29.jpg",
+    "width": 528,
+    "height": 792,
+    "license": "CC BY-SA 3.0 at",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ailura\" title=\"User:Ailura\">Ailura</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/edin-džeko.jpg"
+  },
+  "team_slug": "bosnia-and-herzegovina",
+  "team_country": "Bosnia and Herzegovina"
+}

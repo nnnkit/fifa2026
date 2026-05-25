@@ -1,0 +1,114 @@
+{
+  "slug": "harry-kane",
+  "display_name": "Harry Kane",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1993-07-28",
+  "age": 32,
+  "caps": 112,
+  "goals": 78,
+  "club_from_squad_table": "Bayern Munich",
+  "wikipedia_title": "Harry Kane",
+  "date_of_birth": "1993-07-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayern Munich",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q969725",
+  "qid": "Q969725",
+  "name": "Harry Kane",
+  "description": "English association football player (born 1993)",
+  "place_of_birth_qid": "Q2321784",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 86.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18741",
+      "start": "2009-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q19595",
+      "start": "2011-00-00",
+      "end": "2011-00-00"
+    },
+    {
+      "team_qid": "Q19487",
+      "start": "2012-01-00",
+      "end": "2012-05-00"
+    },
+    {
+      "team_qid": "Q18721",
+      "start": "2012-08-00",
+      "end": "2013-00-00"
+    },
+    {
+      "team_qid": "Q19481",
+      "start": "2013-00-00",
+      "end": "2013-00-00"
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2752922",
+      "start": "2010-00-00",
+      "end": "2010-00-00"
+    },
+    {
+      "team_qid": "Q2358861",
+      "start": "2010-00-00",
+      "end": "2012-00-00"
+    },
+    {
+      "team_qid": "Q1049176",
+      "start": "2013-00-00",
+      "end": "2013-00-00"
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2013-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q47762",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q15789",
+  "image_filename": "Harry Kane 2023.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Harry_Kane",
+  "transfermarkt_id": "132098",
+  "fifa_player_id": "369419",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Walthamstow",
+  "wikidata_current_club": "FC Bayern Munich",
+  "wikidata_current_club_qid": "Q15789",
+  "photo": {
+    "filename": "Harry Kane 2023.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Harry_Kane_2023.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Harry_Kane_2023.jpg",
+    "width": 880,
+    "height": 1416,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/number10gov/\">Number 10</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/harry-kane.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

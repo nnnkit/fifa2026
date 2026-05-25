@@ -1,0 +1,84 @@
+{
+  "slug": "jo-hyeon-woo",
+  "display_name": "Jo Hyeon-woo",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1991-09-25",
+  "age": 34,
+  "caps": 47,
+  "goals": 0,
+  "club_from_squad_table": "Ulsan HD",
+  "wikipedia_title": "Jo Hyeon-woo",
+  "wikidata_qid": "Q15622446",
+  "qid": "Q15622446",
+  "name": "Jo Hyeon-woo",
+  "description": "South Korean footballer",
+  "date_of_birth": "1991-09-25",
+  "place_of_birth_qid": "Q8684",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 73.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q483044",
+      "start": "2013-01-01",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q495929",
+      "start": "2010-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q488454",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q543842",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q129673",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q129673",
+  "image_filename": "Jo Hyeon-woo.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jo_Hyeon-woo",
+  "transfermarkt_id": "260171",
+  "fifa_player_id": "397753",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Ulsan HD",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "Seoul",
+  "wikidata_current_club": "Ulsan HD FC",
+  "wikidata_current_club_qid": "Q129673",
+  "photo": {
+    "filename": "Jo Hyeon-woo.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Jo_Hyeon-woo.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Jo_Hyeon-woo.jpg",
+    "width": 269,
+    "height": 356,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Светлана Бекетова",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jo-hyeon-woo.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

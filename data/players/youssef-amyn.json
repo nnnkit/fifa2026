@@ -1,0 +1,63 @@
+{
+  "slug": "youssef-amyn",
+  "display_name": "Youssef Amyn",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2003-08-21",
+  "age": 22,
+  "caps": 25,
+  "goals": 2,
+  "club_from_squad_table": "AEK Larnaca",
+  "wikipedia_title": "Youssef Amyn",
+  "date_of_birth": "2003-08-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "AEK Larnaca",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q106372614",
+  "qid": "Q106372614",
+  "name": "Youssef Amyn",
+  "description": "Iraq association football player",
+  "place_of_birth_qid": "Q2066",
+  "citizenship_qids": [
+    "Q183",
+    "Q796"
+  ],
+  "height_cm": 175.0,
+  "teams": [
+    {
+      "team_qid": "Q695008",
+      "start": "2021-07-01",
+      "end": "2022-08-31"
+    },
+    {
+      "team_qid": "Q1818407",
+      "start": "2022-09-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1818407",
+  "image_filename": "4822944 AE7I9304 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Youssef_Amyn",
+  "transfermarkt_id": "684307",
+  "citizenship": [
+    "Germany",
+    "Iraq"
+  ],
+  "place_of_birth": "Essen",
+  "wikidata_current_club": "Feyenoord Academy",
+  "wikidata_current_club_qid": "Q1818407",
+  "photo": {
+    "filename": "4822944 AE7I9304 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/4822944_AE7I9304_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/4822944_AE7I9304_%28cropped%29.jpg",
+    "width": 417,
+    "height": 542,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Foad Ashtari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/youssef-amyn.jpg"
+  },
+  "team_slug": "iraq",
+  "team_country": "Iraq"
+}

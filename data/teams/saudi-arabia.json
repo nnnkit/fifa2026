@@ -1,0 +1,2086 @@
+{
+  "slug": "saudi-arabia",
+  "country": "Saudi Arabia",
+  "wikidata_qid": "Q189723",
+  "fetched_at": "2026-05-24T16:54:53+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 30,
+  "players": [
+    {
+      "slug": "mohammed-al-owais",
+      "display_name": "Mohammed Al-Owais",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1991-10-10",
+      "age": 34,
+      "caps": 62,
+      "goals": 0,
+      "club_from_squad_table": "Al-Ula",
+      "wikipedia_title": "Mohammed Al-Owais",
+      "date_of_birth": "1991-10-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Ula",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q22677970",
+      "qid": "Q22677970",
+      "name": "Mohammed Al-Owais",
+      "description": "Saudi Arabian football player",
+      "place_of_birth_qid": "Q311341",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2636005",
+          "start": "2012-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q44441",
+          "start": "2017-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q73965",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q73965",
+      "image_filename": "Mohammed Al-Owais 2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammed_Al-Owais",
+      "transfermarkt_id": "262845",
+      "fifa_player_id": "396885",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Al-Ahsa Oasis",
+      "wikidata_current_club": "Al Hilal SFC",
+      "wikidata_current_club_qid": "Q73965",
+      "photo": {
+        "filename": "Mohammed Al-Owais 2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mohammed_Al-Owais_2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mohammed_Al-Owais_2018.jpg",
+        "width": 684,
+        "height": 924,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Кирилл Венедиктов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mohammed-al-owais.jpg"
+      }
+    },
+    {
+      "slug": "nawaf-al-aqidi",
+      "display_name": "Nawaf Al-Aqidi",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2000-05-10",
+      "age": 26,
+      "caps": 22,
+      "goals": 0,
+      "club_from_squad_table": "Al-Nassr",
+      "wikipedia_title": "Nawaf Al-Aqidi",
+      "date_of_birth": "2000-05-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Nassr",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q82251502",
+      "qid": "Q82251502",
+      "name": "Nawaf Al-Aqidi",
+      "description": "Saudi association football player",
+      "place_of_birth_qid": "Q3692",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q482764",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2470164",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q2756148",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q482764",
+      "image_filename": "Nawaf Al-Aqidi 2023 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nawaf_Al-Aqidi",
+      "transfermarkt_id": "886183",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Riyadh",
+      "photo": {
+        "filename": "Nawaf Al-Aqidi 2023 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Nawaf_Al-Aqidi_2023_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Nawaf_Al-Aqidi_2023_%28cropped%29.jpg",
+        "width": 370,
+        "height": 524,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Mohammad Hossein Movahedi Nejad",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nawaf-al-aqidi.jpg"
+      }
+    },
+    {
+      "slug": "ahmed-al-kassar",
+      "display_name": "Ahmed Al-Kassar",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1991-05-08",
+      "age": 35,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Al-Qadsiah",
+      "wikipedia_title": "Ahmed Al-Kassar",
+      "date_of_birth": "1991-05-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Qadsiah",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q23712857",
+      "qid": "Q23712857",
+      "name": "Ahmed Al-Kassar",
+      "description": "association football player",
+      "place_of_birth_qid": "Q847660",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2986998",
+          "start": "2009-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q72844",
+          "start": "2015-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2829334",
+          "start": "2018-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q20081435",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q20081435",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_Al-Kassar",
+      "transfermarkt_id": "177956",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Qatif governorate",
+      "wikidata_current_club": "Al-Feiha FC",
+      "wikidata_current_club_qid": "Q20081435",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "abdulquddus-atiah",
+      "display_name": "Abdulquddus Atiah",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1997-03-01",
+      "age": 29,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Al-Taawoun",
+      "wikipedia_title": "Abdulquddus Atiah",
+      "date_of_birth": "1997-03-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Taawoun",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q54861492",
+      "qid": "Q54861492",
+      "name": "Abdulquddus Atiah",
+      "description": "Saudi Arabian footballer",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q20081435",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q20081435",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abdulquddus_Atiah",
+      "transfermarkt_id": "564006",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "wikidata_current_club": "Al-Feiha FC",
+      "wikidata_current_club_qid": "Q20081435",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "saud-abdulhamid",
+      "display_name": "Saud Abdulhamid",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-07-18",
+      "age": 26,
+      "caps": 53,
+      "goals": 1,
+      "club_from_squad_table": "Lens",
+      "wikipedia_title": "Saud Abdulhamid",
+      "date_of_birth": "1999-07-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lens",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60407856",
+      "qid": "Q60407856",
+      "name": "Saud Abdulhamid",
+      "description": "Saudi association football player",
+      "place_of_birth_qid": "Q374365",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q309480",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873541",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q2756148",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q23848735",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q73965",
+          "start": "2022-00-00",
+          "end": "2024-08-27"
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2024-08-27",
+          "end": null
+        },
+        {
+          "team_qid": "Q191843",
+          "start": "2025-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q191843",
+      "image_filename": "Saudi Arabia v Oman (2) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saud_Abdulhamid",
+      "transfermarkt_id": "631927",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Jeddah",
+      "wikidata_current_club": "R.C. Lens",
+      "wikidata_current_club_qid": "Q191843",
+      "photo": {
+        "filename": "Saudi Arabia v Oman (2) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Saudi_Arabia_v_Oman_%282%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Saudi_Arabia_v_Oman_%282%29_%28cropped%29.jpg",
+        "width": 547,
+        "height": 799,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Foad Ashtari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/saud-abdulhamid.jpg"
+      }
+    },
+    {
+      "slug": "hassan-al-tambakti",
+      "display_name": "Hassan Al-Tambakti",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-02-09",
+      "age": 27,
+      "caps": 50,
+      "goals": 0,
+      "club_from_squad_table": "Al-Hilal",
+      "wikipedia_title": "Hassan Al-Tambakti",
+      "date_of_birth": "1999-02-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Hilal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q45108287",
+      "qid": "Q45108287",
+      "name": "Hassan Tombakti",
+      "description": "association football Saudi player",
+      "place_of_birth_qid": "Q3692",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q812713",
+          "start": "2019-00-00",
+          "end": "2020-10-00"
+        },
+        {
+          "team_qid": "Q2636005",
+          "start": "2018-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2756148",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873541",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q73965",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q73965",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hassan_Al-Tambakti",
+      "transfermarkt_id": "509897",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Riyadh",
+      "wikidata_current_club": "Al Hilal SFC",
+      "wikidata_current_club_qid": "Q73965",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "abdulelah-al-amri",
+      "display_name": "Abdulelah Al-Amri",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-01-15",
+      "age": 29,
+      "caps": 40,
+      "goals": 1,
+      "club_from_squad_table": "Al-Nassr",
+      "wikipedia_title": "Abdulelah Al-Amri",
+      "date_of_birth": "1997-01-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Nassr",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30308980",
+      "qid": "Q30308980",
+      "name": "Abdulelah Al-Amri",
+      "description": "Saudi footballer",
+      "place_of_birth_qid": "Q182640",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q812713",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q482764",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873541",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q2756148",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q23848735",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q309480",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q482764",
+      "image_filename": "Abdulelah Al-Amri 2023 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abdulelah_Al-Amri",
+      "transfermarkt_id": "509894",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Ta'if",
+      "photo": {
+        "filename": "Abdulelah Al-Amri 2023 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Abdulelah_Al-Amri_2023_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Abdulelah_Al-Amri_2023_%28cropped%29.jpg",
+        "width": 152,
+        "height": 197,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "M.Reza Abbasi/Foad Ashtari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/abdulelah-al-amri.jpg"
+      }
+    },
+    {
+      "slug": "nawaf-boushal",
+      "display_name": "Nawaf Boushal",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-09-16",
+      "age": 26,
+      "caps": 23,
+      "goals": 0,
+      "club_from_squad_table": "Al-Nassr",
+      "wikipedia_title": "Nawaf Boushal",
+      "date_of_birth": "1999-09-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Nassr",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q78459310",
+      "qid": "Q78459310",
+      "name": "Nawaf Boushal",
+      "description": "Saudi Arabian football player",
+      "place_of_birth_qid": "Q12191403",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2701659",
+          "start": "2018-00-00",
+          "end": "2023-01-20"
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q482764",
+          "start": "2023-01-21",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q482764",
+      "image_filename": "Esteghlal 0 - 0 Al Nassr, round of 16 of the AFC Elite League, Azadi Stadium, 3 March 2025, Nawaf Boushal.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nawaf_Boushal",
+      "transfermarkt_id": "821377",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Qatif",
+      "photo": {
+        "filename": "Esteghlal 0 - 0 Al Nassr, round of 16 of the AFC Elite League, Azadi Stadium, 3 March 2025, Nawaf Boushal.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Esteghlal_0_-_0_Al_Nassr%2C_round_of_16_of_the_AFC_Elite_League%2C_Azadi_Stadium%2C_3_March_2025%2C_Nawaf_Boushal.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Esteghlal_0_-_0_Al_Nassr%2C_round_of_16_of_the_AFC_Elite_League%2C_Azadi_Stadium%2C_3_March_2025%2C_Nawaf_Boushal.jpg",
+        "width": 153,
+        "height": 227,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Tasnim News Agency",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nawaf-boushal.jpg"
+      }
+    },
+    {
+      "slug": "ali-majrashi",
+      "display_name": "Ali Majrashi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-10-02",
+      "age": 26,
+      "caps": 20,
+      "goals": 0,
+      "club_from_squad_table": "Al-Ahli",
+      "wikipedia_title": "Ali Majrashi",
+      "date_of_birth": "1999-10-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Ahli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q47499724",
+      "qid": "Q47499724",
+      "name": "Ali Majrashi",
+      "description": "association football player",
+      "place_of_birth_qid": "Q851",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q193592",
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2636005",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q2829334",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q44441",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q44441",
+      "image_filename": "Ali Majrashi, 2025 CONCACAF Gold Cup (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Majrashi",
+      "transfermarkt_id": "672391",
+      "wikidata_date_of_birth": "1999-10-01",
+      "positions": [
+        "midfielder",
+        "full-back"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Saudi Arabia",
+      "wikidata_current_club": "Al Ahli FC",
+      "wikidata_current_club_qid": "Q44441",
+      "photo": {
+        "filename": "Ali Majrashi, 2025 CONCACAF Gold Cup (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Ali_Majrashi%2C_2025_CONCACAF_Gold_Cup_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Ali_Majrashi%2C_2025_CONCACAF_Gold_Cup_%28cropped%29.jpg",
+        "width": 518,
+        "height": 705,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://old.reddit.com/user/reepers_hellcat\">u/reepers_hellcat</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ali-majrashi.jpg"
+      }
+    },
+    {
+      "slug": "ali-lajami",
+      "display_name": "Ali Lajami",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-04-24",
+      "age": 30,
+      "caps": 19,
+      "goals": 1,
+      "club_from_squad_table": "Al-Hilal",
+      "wikipedia_title": "Ali Lajami",
+      "date_of_birth": "1996-04-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Hilal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q22812479",
+      "qid": "Q22812479",
+      "name": "Ali Lajami",
+      "description": "Saudi Arabian footballer",
+      "place_of_birth_qid": "Q847660",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2027718",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2701659",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q482764",
+          "start": "2020-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q73965",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q73965",
+      "image_filename": "AFC Elite League Western, Azadi Stadium, Persepolis 0-0 Al Nassr, 17 February 2025, Ali Lajami.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Lajami",
+      "transfermarkt_id": "264909",
+      "wikidata_date_of_birth": "1996-04-25",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Qatif governorate",
+      "wikidata_current_club": "Al Hilal SFC",
+      "wikidata_current_club_qid": "Q73965",
+      "photo": {
+        "filename": "AFC Elite League Western, Azadi Stadium, Persepolis 0-0 Al Nassr, 17 February 2025, Ali Lajami.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/AFC_Elite_League_Western%2C_Azadi_Stadium%2C_Persepolis_0-0_Al_Nassr%2C_17_February_2025%2C_Ali_Lajami.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/AFC_Elite_League_Western%2C_Azadi_Stadium%2C_Persepolis_0-0_Al_Nassr%2C_17_February_2025%2C_Ali_Lajami.jpg",
+        "width": 136,
+        "height": 256,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Meghdad Madadi",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ali-lajami.jpg"
+      }
+    },
+    {
+      "slug": "hassan-kadesh",
+      "display_name": "Hassan Kadesh",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1992-09-26",
+      "age": 33,
+      "caps": 18,
+      "goals": 2,
+      "club_from_squad_table": "Al-Ittihad",
+      "wikipedia_title": "Hassan Kadesh",
+      "date_of_birth": "1992-09-26",
+      "date_of_birth_source": "saudi-pro-league-official-verified",
+      "current_club": "Al-Ittihad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q23712679",
+      "qid": "Q23712679",
+      "name": "Hassan Kadesh",
+      "description": "association football player",
+      "place_of_birth_qid": "Q851",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q72844",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q73965",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q72844",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hassan_Kadesh",
+      "transfermarkt_id": "260859",
+      "wikidata_date_of_birth": "1992-09-06",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Saudi Arabia",
+      "wikidata_current_club": "Al-Ettifaq FC",
+      "wikidata_current_club_qid": "Q72844",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      },
+      "squad_table_date_of_birth": "1992-09-27"
+    },
+    {
+      "slug": "moteb-al-harbi",
+      "display_name": "Moteb Al-Harbi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-02-19",
+      "age": 26,
+      "caps": 10,
+      "goals": 0,
+      "club_from_squad_table": "Al-Hilal",
+      "wikipedia_title": "Moteb Al-Harbi",
+      "date_of_birth": "2000-02-19",
+      "date_of_birth_source": "saudi-pro-league-official-verified",
+      "current_club": "Al-Hilal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q97698786",
+      "qid": "Q97698786",
+      "name": "Moteb Al-Harbi",
+      "description": "Saudi Arabian association football player",
+      "place_of_birth_qid": "Q851",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 173.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2636005",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2636005",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Moteb_Al-Harbi",
+      "transfermarkt_id": "869509",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Saudi Arabia",
+      "wikidata_current_club": "Al-Shabab Football Club",
+      "wikidata_current_club_qid": "Q2636005",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      },
+      "squad_table_date_of_birth": "2000-02-20"
+    },
+    {
+      "slug": "jehad-thakri",
+      "display_name": "Jehad Thakri",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-07-21",
+      "age": 24,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Al-Qadsiah",
+      "wikipedia_title": "Jehad Thakri",
+      "date_of_birth": "2001-07-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Qadsiah",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q105658245",
+      "qid": "Q105658245",
+      "name": "Jehad Zekri",
+      "description": "Saudi Arabian footballer",
+      "place_of_birth_qid": "Q311266",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 1.83,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q286191",
+          "start": "2021-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2756148",
+          "start": "2024-04-00",
+          "end": "2024-04-00"
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2025-03-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q286191",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jehad_Thakri",
+      "transfermarkt_id": "901334",
+      "wikidata_date_of_birth": "2002-01-01",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Khobar",
+      "wikidata_current_club": "Al Qadsiah FC",
+      "wikidata_current_club_qid": "Q286191",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "mohammed-abu-al-shamat",
+      "display_name": "Mohammed Abu Al-Shamat",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-08-11",
+      "age": 23,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Al-Qadsiah",
+      "wikipedia_title": "Mohammed Abu Al-Shamat",
+      "date_of_birth": "2002-08-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Qadsiah",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q136399691",
+      "qid": "Q136399691",
+      "name": "Mohammed Abu Al-Shamat",
+      "description": "Saudi footballer",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammed_Abu_Al-Shamat",
+      "transfermarkt_id": "1181852",
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "zakaria-hawsawi",
+      "display_name": "Zakaria Hawsawi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-01-12",
+      "age": 25,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Al-Ahli",
+      "wikipedia_title": "Zakaria Hawsawi",
+      "date_of_birth": "2001-01-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Ahli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q113690029",
+      "qid": "Q113690029",
+      "name": "Zakaria Hawsawi",
+      "description": "Saudi Arabian association football player",
+      "place_of_birth_qid": "Q35484",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 173.0,
+      "weight_kg": 70.0,
+      "teams": [
+        {
+          "team_qid": "Q2027736",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q309480",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q189723",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2027736",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zakaria_Hawsawi",
+      "transfermarkt_id": "1057849",
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Medina",
+      "wikidata_current_club": "Ohod Club",
+      "wikidata_current_club_qid": "Q2027736",
+      "image_filename": "Zakaria_Hawsawi.png",
+      "photo": {
+        "filename": "Zakaria_Hawsawi.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Zakaria_Hawsawi.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zakaria_Hawsawi.png/960px-Zakaria_Hawsawi.png",
+        "width": 1016,
+        "height": 1548,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:OmarZi64&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:OmarZi64 (page does not exist)\">OmarZi64</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/zakaria-hawsawi.png"
+      }
+    },
+    {
+      "slug": "salem-al-dawsari",
+      "display_name": "Salem Al-Dawsari",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1991-08-19",
+      "age": 34,
+      "caps": 107,
+      "goals": 26,
+      "club_from_squad_table": "Al-Hilal",
+      "wikipedia_title": "Salem Al-Dawsari",
+      "date_of_birth": "1991-08-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Hilal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q3945419",
+      "qid": "Q3945419",
+      "name": "Salem Al-Dawsari",
+      "description": "Saudi Arabian footballer",
+      "place_of_birth_qid": "Q3692",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 171.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q21707087"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q73965",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873541",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q23848735",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        }
+      ],
+      "current_club_qid": "Q73965",
+      "image_filename": "Salem Al-Dawsari.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Salem_Al-Dawsari",
+      "transfermarkt_id": "195332",
+      "fifa_player_id": "339745",
+      "positions": [
+        "inverted winger"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Riyadh",
+      "wikidata_current_club": "Al Hilal SFC",
+      "wikidata_current_club_qid": "Q73965",
+      "photo": {
+        "filename": "Salem Al-Dawsari.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Salem_Al-Dawsari.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Salem_Al-Dawsari.jpg",
+        "width": 242,
+        "height": 396,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Дмитрий Садовников",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/salem-al-dawsari.jpg"
+      }
+    },
+    {
+      "slug": "mohamed-kanno",
+      "display_name": "Mohamed Kanno",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-09-22",
+      "age": 31,
+      "caps": 74,
+      "goals": 8,
+      "club_from_squad_table": "Al-Hilal",
+      "wikipedia_title": "Mohamed Kanno",
+      "date_of_birth": "1994-09-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Hilal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q22278509",
+      "qid": "Q22278509",
+      "name": "Mohamed Kanno",
+      "description": "Saudi Arabian association football player",
+      "place_of_birth_qid": "Q851",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 1.92,
+      "weight_kg": 71.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q72844",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2756148",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q189723",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q72844",
+      "image_filename": "Group photographs of Al Hilal, Al Hilal SFC vs Chelsea F.C., 9 February 2022 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Kanno",
+      "transfermarkt_id": "308120",
+      "fifa_player_id": "407993",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Saudi Arabia",
+      "wikidata_current_club": "Al-Ettifaq FC",
+      "wikidata_current_club_qid": "Q72844",
+      "photo": {
+        "filename": "Group photographs of Al Hilal, Al Hilal SFC vs Chelsea F.C., 9 February 2022 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Group_photographs_of_Al_Hilal%2C_Al_Hilal_SFC_vs_Chelsea_F.C.%2C_9_February_2022_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Group_photographs_of_Al_Hilal%2C_Al_Hilal_SFC_vs_Chelsea_F.C.%2C_9_February_2022_%28cropped%29.jpg",
+        "width": 147,
+        "height": 110,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "محمد امین انصاری",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mohamed-kanno.jpg"
+      }
+    },
+    {
+      "slug": "nasser-al-dawsari",
+      "display_name": "Nasser Al-Dawsari",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-12-19",
+      "age": 27,
+      "caps": 41,
+      "goals": 0,
+      "club_from_squad_table": "Al-Hilal",
+      "wikipedia_title": "Nasser Al-Dawsari",
+      "date_of_birth": "1998-12-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Hilal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q47074246",
+      "qid": "Q47074246",
+      "name": "Nasser Al-Dawsari",
+      "description": "association football player",
+      "place_of_birth_qid": "Q851",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q73965",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q73965",
+      "image_filename": "Saudi Arabia v Oman (9) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nasser_Al-Dawsari",
+      "transfermarkt_id": "509911",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Saudi Arabia",
+      "wikidata_current_club": "Al Hilal SFC",
+      "wikidata_current_club_qid": "Q73965",
+      "photo": {
+        "filename": "Saudi Arabia v Oman (9) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Saudi_Arabia_v_Oman_%289%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Saudi_Arabia_v_Oman_%289%29_%28cropped%29.jpg",
+        "width": 352,
+        "height": 599,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Foad Ashtari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nasser-al-dawsari.jpg"
+      }
+    },
+    {
+      "slug": "abdullah-al-khaibari",
+      "display_name": "Abdullah Al-Khaibari",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-08-16",
+      "age": 29,
+      "caps": 37,
+      "goals": 0,
+      "club_from_squad_table": "Al-Nassr",
+      "wikipedia_title": "Abdullah Al-Khaibari",
+      "date_of_birth": "1996-08-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Nassr",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28716544",
+      "qid": "Q28716544",
+      "name": "Abdullah Al-Khaibari",
+      "description": "Saudi Arabian footballer",
+      "place_of_birth_qid": "Q851",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 66.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q189723",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2636005",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q482764",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q482764",
+      "image_filename": "Abdullah Al-Khaibari 2023 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abdullah_Al-Khaibari",
+      "transfermarkt_id": "437903",
+      "fifa_player_id": "411624",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Saudi Arabia",
+      "photo": {
+        "filename": "Abdullah Al-Khaibari 2023 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Abdullah_Al-Khaibari_2023_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Abdullah_Al-Khaibari_2023_%28cropped%29.jpg",
+        "width": 277,
+        "height": 449,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "M.Reza Abbasi/Foad Ashtari",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/abdullah-al-khaibari.jpg"
+      }
+    },
+    {
+      "slug": "musab-al-juwayr",
+      "display_name": "Musab Al-Juwayr",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-06-20",
+      "age": 22,
+      "caps": 32,
+      "goals": 6,
+      "club_from_squad_table": "Al-Qadsiah",
+      "wikipedia_title": "Musab Al-Juwayr",
+      "date_of_birth": "2003-06-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Qadsiah",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q105834415",
+      "qid": "Q105834415",
+      "name": "Musab Al-Juwayr",
+      "description": "Saudi association football player",
+      "place_of_birth_qid": "Q3692",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q73965",
+          "start": "2021-07-00",
+          "end": "2025-08-00"
+        },
+        {
+          "team_qid": "Q2636005",
+          "start": "2024-01-00",
+          "end": "2024-06-00"
+        },
+        {
+          "team_qid": "Q2636005",
+          "start": "2024-09-00",
+          "end": "2025-05-00"
+        },
+        {
+          "team_qid": "Q286191",
+          "start": "2025-08-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873541",
+          "start": "2022-09-00",
+          "end": "2023-03-00"
+        },
+        {
+          "team_qid": "Q2756148",
+          "start": "2023-03-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2023-01-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q286191",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Musab_Al-Juwayr",
+      "transfermarkt_id": "901181",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Riyadh",
+      "wikidata_current_club": "Al Qadsiah FC",
+      "wikidata_current_club_qid": "Q286191",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ayman-yahya",
+      "display_name": "Ayman Yahya",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-05-14",
+      "age": 25,
+      "caps": 25,
+      "goals": 0,
+      "club_from_squad_table": "Al-Nassr",
+      "wikipedia_title": "Ayman Yahya",
+      "date_of_birth": "2001-05-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Nassr",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q68168547",
+      "qid": "Q68168547",
+      "name": "Ayman Yahya",
+      "description": "Saudi Arabian association football player",
+      "place_of_birth_qid": "Q3692",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 1.68,
+      "position_qids": [
+        "Q11681748"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q482764",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2020-11-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2756148",
+          "start": "2020-01-00",
+          "end": "2020-01-00"
+        },
+        {
+          "team_qid": "Q23848735",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q44441",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        }
+      ],
+      "current_club_qid": "Q482764",
+      "image_filename": "Ayman Yahya, 2025 CONCACAF Gold Cup (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ayman_Yahya",
+      "transfermarkt_id": "735815",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Riyadh",
+      "photo": {
+        "filename": "Ayman Yahya, 2025 CONCACAF Gold Cup (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ayman_Yahya%2C_2025_CONCACAF_Gold_Cup_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ayman_Yahya%2C_2025_CONCACAF_Gold_Cup_%28cropped%29.jpg",
+        "width": 640,
+        "height": 836,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Peadara\" title=\"User:Peadara\">Peadara</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ayman-yahya.jpg"
+      }
+    },
+    {
+      "slug": "ziyad-al-johani",
+      "display_name": "Ziyad Al-Johani",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-11-11",
+      "age": 24,
+      "caps": 11,
+      "goals": 0,
+      "club_from_squad_table": "Al-Ahli",
+      "wikipedia_title": "Ziyad Al-Johani",
+      "date_of_birth": "2001-11-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Ahli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q98191389",
+      "qid": "Q98191389",
+      "name": "Ziyad Al-Johani",
+      "description": "Saudi Arabian association football player",
+      "place_of_birth_qid": "Q374365",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q44441",
+          "start": "2020-08-08",
+          "end": null
+        },
+        {
+          "team_qid": "Q2756148",
+          "start": "2021-10-00",
+          "end": "2024-04-00"
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2025-03-00",
+          "end": "2025-10-00"
+        }
+      ],
+      "current_club_qid": "Q44441",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ziyad_Al-Johani",
+      "transfermarkt_id": "901079",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Jeddah",
+      "wikidata_current_club": "Al Ahli FC",
+      "wikidata_current_club_qid": "Q44441",
+      "image_filename": "Ziyad_Al-Johani.jpg",
+      "photo": {
+        "filename": "Ziyad_Al-Johani.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ziyad_Al-Johani.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ziyad_Al-Johani.jpg",
+        "width": 879,
+        "height": 1165,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:OmarZi64&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:OmarZi64 (page does not exist)\">OmarZi64</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/ziyad-al-johani.jpg"
+      }
+    },
+    {
+      "slug": "saleh-abu-al-shamat",
+      "display_name": "Saleh Abu Al-Shamat",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-08-11",
+      "age": 23,
+      "caps": 10,
+      "goals": 2,
+      "club_from_squad_table": "Al-Ahli",
+      "wikipedia_title": "Saleh Abu Al-Shamat",
+      "date_of_birth": "2002-08-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Ahli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q106687210",
+      "qid": "Q106687210",
+      "name": "Saleh Aboulshamat",
+      "description": "Saudi Arabian footballer",
+      "place_of_birth_qid": "Q374365",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 171.0,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saleh_Abu_Al-Shamat",
+      "transfermarkt_id": "901129",
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Jeddah",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "sultan-mandash",
+      "display_name": "Sultan Mandash",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-10-17",
+      "age": 31,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Al-Hilal",
+      "wikipedia_title": "Sultan Mandash",
+      "date_of_birth": "1994-10-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Hilal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q22340706",
+      "qid": "Q22340706",
+      "name": "Sultan Mendash",
+      "description": "Saudi Arabian association football player",
+      "place_of_birth_qid": "Q374365",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 172.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1963926",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q44441",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q44441",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sultan_Mandash",
+      "transfermarkt_id": "210349",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Jeddah",
+      "wikidata_current_club": "Al Ahli FC",
+      "wikidata_current_club_qid": "Q44441",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "alaa-al-hejji",
+      "display_name": "Alaa Al-Hejji",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1995-12-03",
+      "age": 30,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Neom",
+      "wikipedia_title": "Alaa Al-Hejji",
+      "date_of_birth": "1995-12-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Neom",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q22812486",
+      "qid": "Q22812486",
+      "name": "Alaa Al Hejji",
+      "description": "association football player",
+      "place_of_birth_qid": "Q27469",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2027718",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2027718",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alaa_Al-Hejji",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Sakakah",
+      "wikidata_current_club": "Al-Khaleej FC",
+      "wikidata_current_club_qid": "Q2027718",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "firas-al-buraikan",
+      "display_name": "Firas Al-Buraikan",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-05-14",
+      "age": 26,
+      "caps": 68,
+      "goals": 15,
+      "club_from_squad_table": "Al-Ahli",
+      "wikipedia_title": "Firas Al-Buraikan",
+      "date_of_birth": "2000-05-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Ahli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30082508",
+      "qid": "Q30082508",
+      "name": "Firas Al-Buraikan",
+      "description": "association saudi football player",
+      "place_of_birth_qid": "Q3692",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 181.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q482764",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q2701659",
+          "start": "2021-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q3873541",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q2756148",
+          "start": "2020-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q23848735",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q44441",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q44441",
+      "image_filename": "Feras Albrikan, 2025 CONCACAF Gold Cup (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Firas_Al-Buraikan",
+      "transfermarkt_id": "631922",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Riyadh",
+      "wikidata_current_club": "Al Ahli FC",
+      "wikidata_current_club_qid": "Q44441",
+      "photo": {
+        "filename": "Feras Albrikan, 2025 CONCACAF Gold Cup (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Feras_Albrikan%2C_2025_CONCACAF_Gold_Cup_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Feras_Albrikan%2C_2025_CONCACAF_Gold_Cup_%28cropped%29.jpg",
+        "width": 546,
+        "height": 848,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://old.reddit.com/user/reepers_hellcat\">u/reepers_hellcat</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/firas-al-buraikan.jpg"
+      }
+    },
+    {
+      "slug": "saleh-al-shehri",
+      "display_name": "Saleh Al-Shehri",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1993-11-01",
+      "age": 32,
+      "caps": 55,
+      "goals": 18,
+      "club_from_squad_table": "Al-Ittihad",
+      "wikipedia_title": "Saleh Al-Shehri",
+      "date_of_birth": "1993-11-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Ittihad",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q7403894",
+      "qid": "Q7403894",
+      "name": "Saleh Al-Shehri",
+      "description": "Saudi Arabian footballer",
+      "place_of_birth_qid": "Q374365",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2986998",
+          "start": "2015-01-01",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q44441",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q688300",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3873541",
+          "start": "2011-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2756148",
+          "start": "2012-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q73965",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q73965",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q73965",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saleh_Al-Shehri",
+      "transfermarkt_id": "242267",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Jeddah",
+      "wikidata_current_club": "Al Hilal SFC",
+      "wikidata_current_club_qid": "Q73965",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "abdullah-al-hamdan",
+      "display_name": "Abdullah Al-Hamdan",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-09-12",
+      "age": 26,
+      "caps": 47,
+      "goals": 11,
+      "club_from_squad_table": "Al-Nassr",
+      "wikipedia_title": "Abdullah Al-Hamdan",
+      "date_of_birth": "1999-09-12",
+      "date_of_birth_source": "saudi-pro-league-official-verified",
+      "current_club": "Al-Nassr",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q47499719",
+      "qid": "Q47499719",
+      "name": "Abdullah Al-Hamdan",
+      "description": "association football Saudi player",
+      "place_of_birth_qid": "Q3692",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 1.84,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q73965",
+          "start": "2021-00-00",
+          "end": "2026-00-00"
+        },
+        {
+          "team_qid": "Q2636005",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q3873541",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q189723",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q482764",
+          "start": "2026-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2756148",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        }
+      ],
+      "current_club_qid": "Q482764",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abdullah_Al-Hamdan",
+      "transfermarkt_id": "68626",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Riyadh",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      },
+      "squad_table_date_of_birth": "1999-09-13"
+    },
+    {
+      "slug": "khalid-al-ghannam",
+      "display_name": "Khalid Al-Ghannam",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-11-07",
+      "age": 25,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Al-Ettifaq",
+      "wikipedia_title": "Khalid Al-Ghannam",
+      "date_of_birth": "2000-11-07",
+      "date_of_birth_source": "saudi-pro-league-official-verified",
+      "current_club": "Al-Ettifaq",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64147458",
+      "qid": "Q64147458",
+      "name": "Khalid Al-Ghannam",
+      "description": "Saudi Arabian association football player",
+      "place_of_birth_qid": "Q311266",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "height_cm": 171.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q286191",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q482764",
+          "start": "2020-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q2756148",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873541",
+          "start": "2020-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q23848735",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q2701659",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q72844",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q72844",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Khalid_Al-Ghannam",
+      "transfermarkt_id": "631923",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Khobar",
+      "wikidata_current_club": "Al-Ettifaq FC",
+      "wikidata_current_club_qid": "Q72844",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      },
+      "squad_table_date_of_birth": "2000-11-08"
+    },
+    {
+      "slug": "abdullah-al-salem",
+      "display_name": "Abdullah Al-Salem",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1992-12-19",
+      "age": 33,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Al-Qadsiah",
+      "wikipedia_title": "Abdullah Al-Salem (footballer)",
+      "date_of_birth": "1992-12-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al-Qadsiah",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q22812678",
+      "qid": "Q22812678",
+      "name": "Abdulla Al Salem",
+      "description": "association football player",
+      "place_of_birth_qid": "Q847660",
+      "citizenship_qids": [
+        "Q851"
+      ],
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2027718",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q72844",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        }
+      ],
+      "current_club_qid": "Q2027718",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abdullah_Al-Salem_(footballer)",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Saudi Arabia"
+      ],
+      "place_of_birth": "Qatif governorate",
+      "wikidata_current_club": "Al-Khaleej FC",
+      "wikidata_current_club_qid": "Q2027718",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    }
+  ],
+  "notes": [
+    "Saudi Arabia row/QID/photo audit 2026-05-24: verifier confirmed all 30 local rows match the Wikipedia 30-player preliminary squad table and QID identities; Saudi Pro League official squad/profile sources independently confirm the call-up and clubs. Official SPL profiles support DOB corrections for Hassan Kadesh (1992-09-26), Moteb Al-Harbi (2000-02-19), Abdullah Al-Hamdan (1999-09-12), and Khalid Al-Ghannam (2000-11-07), so those override the Wikipedia table while squad_table_date_of_birth preserves the table value. No clean Wikimedia portrait/P18/pageimage was found for 15 no-photo rows, which are marked reviewed-none; rejected Saleh Al-Shehri-looking Commons trails were wrong-person or copyright-deleted."
+  ]
+}

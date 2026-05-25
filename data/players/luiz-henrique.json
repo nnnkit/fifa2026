@@ -1,0 +1,52 @@
+{
+  "slug": "luiz-henrique",
+  "display_name": "Luiz Henrique",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-01-02",
+  "age": 25,
+  "caps": 13,
+  "goals": 2,
+  "club_from_squad_table": "Zenit Saint Petersburg",
+  "wikipedia_title": "Luiz Henrique (footballer, born 2001)",
+  "date_of_birth": "2001-01-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Zenit Saint Petersburg",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q101764291",
+  "qid": "Q101764291",
+  "name": "Luiz Henrique",
+  "description": "Brazilian soccer player (born 2001)",
+  "place_of_birth_qid": "Q189043",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "image_filename": "Luiz Henrique in Zenit 2025.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luiz_Henrique_(footballer,_born_2001)",
+  "transfermarkt_id": "800175",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "Petrópolis",
+  "photo": {
+    "filename": "Luiz Henrique in Zenit 2025.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Luiz_Henrique_in_Zenit_2025.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Luiz_Henrique_in_Zenit_2025.jpg",
+    "width": 632,
+    "height": 948,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Вячеслав Евдокимов",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/luiz-henrique.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

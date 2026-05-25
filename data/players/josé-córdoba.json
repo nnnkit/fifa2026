@@ -1,0 +1,72 @@
+{
+  "slug": "jos\u00e9-c\u00f3rdoba",
+  "display_name": "Jos\u00e9 C\u00f3rdoba",
+  "shirt_no": 3,
+  "position_code": "DF",
+  "dob": "2001-06-03",
+  "age": 24,
+  "caps": 30,
+  "goals": 1,
+  "club_from_squad_table": "Norwich City",
+  "wikipedia_title": "Jos\u00e9 C\u00f3rdoba",
+  "date_of_birth": "2001-06-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Norwich City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q108543955",
+  "qid": "Q108543955",
+  "name": "Jos\u00e9 C\u00f3rdoba",
+  "description": "Panamanian footballer",
+  "place_of_birth_qid": "Q3306",
+  "height_cm": 185.0,
+  "teams": [
+    {
+      "team_qid": "Q2979808",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q108865196",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q16837310",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q144190",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18721",
+  "image_filename": "Jos\u00e9 C\u00f3rdoba.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_C%C3%B3rdoba",
+  "transfermarkt_id": "698415",
+  "wikidata_date_of_birth": "2001-03-06",
+  "place_of_birth": "Panama City",
+  "wikidata_current_club": "Club Atl\u00e9tico Independiente de La Chorrera",
+  "wikidata_current_club_qid": "Q2979808",
+  "photo": {
+    "filename": "Jos\u00e9 C\u00f3rdoba.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Jos%C3%A9_C%C3%B3rdoba.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jos%C3%A9_C%C3%B3rdoba.jpg/960px-Jos%C3%A9_C%C3%B3rdoba.jpg",
+    "width": 2056,
+    "height": 3197,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Biso\" title=\"User:Biso\">Biser Todorov</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jos\u00e9-c\u00f3rdoba.jpg"
+  },
+  "team_slug": "panama",
+  "team_country": "Panama",
+  "positions": [
+    "defender"
+  ],
+  "position_qids": [
+    "Q336286"
+  ]
+}

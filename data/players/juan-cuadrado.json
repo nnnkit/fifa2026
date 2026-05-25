@@ -1,0 +1,114 @@
+{
+  "slug": "juan-cuadrado",
+  "display_name": "Juan Cuadrado",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1988-05-26",
+  "age": 38,
+  "caps": 116,
+  "goals": 11,
+  "club_from_squad_table": "Pisa",
+  "wikipedia_title": "Juan Cuadrado",
+  "date_of_birth": "1988-05-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Pisa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q509374",
+  "qid": "Q509374",
+  "name": "Juan Cuadrado",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q976938",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 71.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2798",
+      "start": "2009-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q2052",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q332527",
+      "start": "2008-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q13391",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2015-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q212564",
+      "start": "2010-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1422",
+      "start": "2015-08-25",
+      "end": "2017-06-30"
+    },
+    {
+      "team_qid": "Q1422",
+      "start": "2017-07-00",
+      "end": "2023-06-30"
+    },
+    {
+      "team_qid": "Q631",
+      "start": "2023-07-19",
+      "end": "2024-06-30"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2024-08-26",
+      "end": "2025-07-01"
+    },
+    {
+      "team_qid": "Q289613",
+      "start": "2025-08-06",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q289613",
+  "image_filename": "Juan Cuadrado 2019 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Cuadrado",
+  "transfermarkt_id": "91970",
+  "fifa_player_id": "309714",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Necocl\u00ed",
+  "wikidata_current_club": "Pisa SC",
+  "wikidata_current_club_qid": "Q289613",
+  "photo": {
+    "filename": "Juan Cuadrado 2019 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Juan_Cuadrado_2019_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Juan_Cuadrado_2019_%28cropped%29.jpg",
+    "width": 254,
+    "height": 381,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/juan-cuadrado.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "claudio-echeverri",
+  "display_name": "Claudio Echeverri",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2006-01-02",
+  "age": 20,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Girona",
+  "wikipedia_title": "Claudio Echeverri",
+  "wikidata_qid": "Q116463164",
+  "qid": "Q116463164",
+  "name": "Claudio Echeverri",
+  "description": "Argentine association football player",
+  "date_of_birth": "2006-01-02",
+  "place_of_birth_qid": "Q44206",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 171.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "image_filename": "Claudio Echeverri in 2017 vs Juventus.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Claudio_Echeverri",
+  "transfermarkt_id": "994536",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Resistencia",
+  "current_club": "Girona",
+  "current_club_source": "wikipedia-squad-table",
+  "photo": {
+    "filename": "Claudio Echeverri in 2017 vs Juventus.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Claudio_Echeverri_in_2017_vs_Juventus.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Claudio_Echeverri_in_2017_vs_Juventus.png",
+    "width": 597,
+    "height": 660,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Venice Champions Trophy 2017",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/claudio-echeverri.png"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

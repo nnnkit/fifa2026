@@ -1,0 +1,119 @@
+{
+  "slug": "cristiano-ronaldo",
+  "display_name": "Cristiano Ronaldo",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1985-02-05",
+  "age": 41,
+  "caps": 226,
+  "goals": 143,
+  "club_from_squad_table": "Al-Nassr",
+  "wikipedia_title": "Cristiano Ronaldo",
+  "date_of_birth": "1985-02-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Nassr",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q11571",
+  "qid": "Q11571",
+  "name": "Cristiano Ronaldo",
+  "description": "Portuguese association football player (born 1985)",
+  "place_of_birth_qid": "Q25444",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 85.0,
+  "position_qids": [
+    "Q8025128",
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18656",
+      "start": "2003-00-00",
+      "end": "2009-00-00"
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2009-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q75729",
+      "start": "2002-00-00",
+      "end": "2003-00-00"
+    },
+    {
+      "team_qid": "Q267245",
+      "start": "2003-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1630430",
+      "start": "2002-00-00",
+      "end": "2003-00-00"
+    },
+    {
+      "team_qid": "Q3590758",
+      "start": "2004-00-00",
+      "end": "2004-00-00"
+    },
+    {
+      "team_qid": "Q1772776",
+      "start": "2003-00-00",
+      "end": "2003-00-00"
+    },
+    {
+      "team_qid": "Q3590754",
+      "start": "2001-00-00",
+      "end": "2002-00-00"
+    },
+    {
+      "team_qid": "Q21079208",
+      "start": "2001-00-00",
+      "end": "2001-00-00"
+    },
+    {
+      "team_qid": "Q1422",
+      "start": "2018-00-00",
+      "end": "2021-08-26"
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2021-08-27",
+      "end": "2022-11-22"
+    },
+    {
+      "team_qid": "Q482764",
+      "start": "2023-01-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q482764",
+  "image_filename": "2025 Cristiano Ronaldo (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+  "transfermarkt_id": "8198",
+  "fifa_player_id": "201200",
+  "positions": [
+    "wing half",
+    "forward"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Funchal",
+  "photo": {
+    "filename": "2025 Cristiano Ronaldo (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/2025_Cristiano_Ronaldo_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/2025_Cristiano_Ronaldo_%28cropped%29.jpg",
+    "width": 466,
+    "height": 616,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "The White House",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/cristiano-ronaldo.jpg"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "mohammed-al-owais",
+  "display_name": "Mohammed Al-Owais",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1991-10-10",
+  "age": 34,
+  "caps": 62,
+  "goals": 0,
+  "club_from_squad_table": "Al-Ula",
+  "wikipedia_title": "Mohammed Al-Owais",
+  "date_of_birth": "1991-10-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Ula",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q22677970",
+  "qid": "Q22677970",
+  "name": "Mohammed Al-Owais",
+  "description": "Saudi Arabian football player",
+  "place_of_birth_qid": "Q311341",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2636005",
+      "start": "2012-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q189723",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q44441",
+      "start": "2017-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q73965",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q73965",
+  "image_filename": "Mohammed Al-Owais 2018.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammed_Al-Owais",
+  "transfermarkt_id": "262845",
+  "fifa_player_id": "396885",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Al-Ahsa Oasis",
+  "wikidata_current_club": "Al Hilal SFC",
+  "wikidata_current_club_qid": "Q73965",
+  "photo": {
+    "filename": "Mohammed Al-Owais 2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mohammed_Al-Owais_2018.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mohammed_Al-Owais_2018.jpg",
+    "width": 684,
+    "height": 924,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u041a\u0438\u0440\u0438\u043b\u043b \u0412\u0435\u043d\u0435\u0434\u0438\u043a\u0442\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mohammed-al-owais.jpg"
+  },
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia"
+}

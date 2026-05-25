@@ -1,0 +1,68 @@
+{
+  "slug": "zakaria-el-ouahdi",
+  "display_name": "Zakaria El Ouahdi",
+  "shirt_no": 13,
+  "position_code": "DF",
+  "dob": "2001-12-31",
+  "age": 24,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Genk",
+  "wikipedia_title": "Zakaria El Ouahdi",
+  "date_of_birth": "2001-12-31",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Genk",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q108156269",
+  "qid": "Q108156269",
+  "name": "Zakaria El Ouahdi",
+  "description": "Moroccan soccer player",
+  "place_of_birth_qid": "Q267663",
+  "citizenship_qids": [
+    "Q31",
+    "Q1028"
+  ],
+  "height_cm": 175.0,
+  "teams": [
+    {
+      "team_qid": "Q20979061",
+      "start": "2021-07-01",
+      "end": "2023-09-04"
+    },
+    {
+      "team_qid": "Q216032",
+      "start": "2023-09-05",
+      "end": null
+    },
+    {
+      "team_qid": "Q2686567",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q216032",
+  "image_filename": "Zakaria el ouahdi-1629238150.jpeg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Zakaria_El_Ouahdi",
+  "transfermarkt_id": "820474",
+  "citizenship": [
+    "Belgium",
+    "Morocco"
+  ],
+  "place_of_birth": "Hoboken",
+  "wikidata_current_club": "K.R.C. Genk",
+  "wikidata_current_club_qid": "Q216032",
+  "photo": {
+    "filename": "Zakaria el ouahdi-1629238150.jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Zakaria_el_ouahdi-1629238150.jpeg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Zakaria_el_ouahdi-1629238150.jpeg/960px-Zakaria_el_ouahdi-1629238150.jpeg",
+    "width": 3024,
+    "height": 4032,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Mohamed Achahbar",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/zakaria-el-ouahdi.jpeg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

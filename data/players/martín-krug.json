@@ -1,0 +1,55 @@
+{
+  "slug": "mart\u00edn-krug",
+  "display_name": "Mart\u00edn Krug",
+  "shirt_no": 4,
+  "position_code": "DF",
+  "dob": "2006-07-09",
+  "age": 19,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Atl\u00e9tico Levante",
+  "wikipedia_title": "Mart\u00edn Krug",
+  "date_of_birth": "2006-07-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atl\u00e9tico Levante",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q126970592",
+  "qid": "Q126970592",
+  "name": "Mart\u00edn Krug",
+  "description": "Panamanian footballer",
+  "place_of_birth_qid": "Q1297",
+  "citizenship_qids": [
+    "Q804",
+    "Q30"
+  ],
+  "position_qids": [
+    "Q268258"
+  ],
+  "image_filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 126 (Mart\u00edn Krug).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mart%C3%ADn_Krug",
+  "transfermarkt_id": "1105075",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Panama",
+    "United States"
+  ],
+  "place_of_birth": "Chicago",
+  "photo": {
+    "filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 126 (Mart\u00edn Krug).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_126_%28Mart%C3%ADn_Krug%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_126_%28Mart%C3%ADn_Krug%29.jpg",
+    "width": 300,
+    "height": 483,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mart\u00edn-krug.jpg"
+  },
+  "team_slug": "panama",
+  "team_country": "Panama",
+  "current_club_qid": "Q32538",
+  "height_cm": 192.0
+}

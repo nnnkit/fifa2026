@@ -1,0 +1,106 @@
+{
+  "slug": "\u00e1lex-remiro",
+  "display_name": "\u00c1lex Remiro",
+  "shirt_no": 13,
+  "position_code": "GK",
+  "dob": "1995-03-24",
+  "age": 31,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Real Sociedad",
+  "wikipedia_title": "\u00c1lex Remiro",
+  "date_of_birth": "1995-03-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Sociedad",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20492591",
+  "qid": "Q20492591",
+  "name": "Alejandro Remiro",
+  "description": "Spanish association football player",
+  "place_of_birth_qid": "Q986089",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 1.92,
+  "weight_kg": 79.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q794970",
+      "start": "2014-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q727093",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q2713491",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q8687",
+      "start": "2016-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q8823",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q11971",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q10315",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q5010036",
+      "start": null,
+      "end": "2009-00-00"
+    },
+    {
+      "team_qid": "Q8687",
+      "start": "2009-00-00",
+      "end": "2013-00-00"
+    },
+    {
+      "team_qid": "Q42267",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q10315",
+  "image_filename": "DSC 2448 (51300097850) (Alex Remiro).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lex_Remiro",
+  "transfermarkt_id": "212862",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Cascante",
+  "photo": {
+    "filename": "DSC 2448 (51300097850) (Alex Remiro).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/DSC_2448_%2851300097850%29_%28Alex_Remiro%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/DSC_2448_%2851300097850%29_%28Alex_Remiro%29.jpg",
+    "width": 634,
+    "height": 836,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/129346400@N03\">Giovanni Batista Rodriguez</a> from San Sebastian-Donostia, Espa\u00f1a",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/\u00e1lex-remiro.jpg"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain"
+}

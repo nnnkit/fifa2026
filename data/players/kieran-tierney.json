@@ -1,0 +1,86 @@
+{
+  "slug": "kieran-tierney",
+  "display_name": "Kieran Tierney",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-06-05",
+  "age": 29,
+  "caps": 55,
+  "goals": 2,
+  "club_from_squad_table": "Celtic",
+  "wikipedia_title": "Kieran Tierney",
+  "date_of_birth": "1997-06-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Celtic",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q19888012",
+  "qid": "Q19888012",
+  "name": "Kieran Tierney",
+  "description": "Scottish association football player (born 1997)",
+  "place_of_birth_qid": "Q18569",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q90173132",
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q4140015",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q34044",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q19593",
+      "start": "2015-01-01",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q5549552",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q5549552",
+  "image_filename": "Kieran Tierney (26938128442) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kieran_Tierney",
+  "transfermarkt_id": "300716",
+  "fifa_player_id": "401712",
+  "positions": [
+    "full-back",
+    "centre-back"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Douglas",
+  "wikidata_current_club": "Real Sociedad",
+  "wikidata_current_club_qid": "Q5549552",
+  "photo": {
+    "filename": "Kieran Tierney (26938128442) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Kieran_Tierney_%2826938128442%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Kieran_Tierney_%2826938128442%29_%28cropped%29.jpg",
+    "width": 325,
+    "height": 441,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/77027791@N08\">Graham</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kieran-tierney.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

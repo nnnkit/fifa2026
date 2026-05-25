@@ -1,0 +1,109 @@
+{
+  "slug": "nathan-ak\u00e9",
+  "display_name": "Nathan Ak\u00e9",
+  "shirt_no": 5,
+  "position_code": "DF",
+  "dob": "1995-02-18",
+  "age": 31,
+  "caps": 58,
+  "goals": 5,
+  "club_from_squad_table": "Manchester City",
+  "wikipedia_title": "Nathan Ak\u00e9",
+  "date_of_birth": "1995-02-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q1755683",
+  "qid": "Q1755683",
+  "name": "Nathan Ak\u00e9",
+  "description": "Dutch association football player (born 1995)",
+  "place_of_birth_qid": "Q36600",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q9616",
+      "start": "2012-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q601723",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q514714",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q18729",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q2714",
+      "start": "2015-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": "2013-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q19568",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q19568",
+      "start": "2017-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2020-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2017-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q50602",
+  "image_filename": "Yokohama F. Marinos - Manchester City (3-5) - 53075276224 (Nathan Ake).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nathan_Ak%C3%A9",
+  "transfermarkt_id": "177476",
+  "fifa_player_id": "336088",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "The Hague",
+  "wikidata_current_club": "Manchester City F.C.",
+  "wikidata_current_club_qid": "Q50602",
+  "photo": {
+    "filename": "Yokohama F. Marinos - Manchester City (3-5) - 53075276224 (Nathan Ake).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Yokohama_F._Marinos_-_Manchester_City_%283-5%29_-_53075276224_%28Nathan_Ake%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Yokohama_F._Marinos_-_Manchester_City_%283-5%29_-_53075276224_%28Nathan_Ake%29.jpg",
+    "width": 900,
+    "height": 1169,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "pantkiewicz",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nathan-ak\u00e9.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

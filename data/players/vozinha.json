@@ -1,0 +1,79 @@
+{
+  "slug": "vozinha",
+  "display_name": "Vozinha",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1986-06-03",
+  "age": 40,
+  "caps": 85,
+  "goals": 0,
+  "club_from_squad_table": "Chaves",
+  "wikipedia_title": "Vozinha",
+  "date_of_birth": "1986-06-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Chaves",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q3018091",
+  "qid": "Q3018091",
+  "name": "Vozinha",
+  "description": "Cape Verdean international association football goalkeeper",
+  "place_of_birth_qid": "Q495547",
+  "citizenship_qids": [
+    "Q1011"
+  ],
+  "height_cm": 189.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q203513",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3063074",
+      "start": "2009-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q2417530",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q3298176",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q2417530",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q330039",
+      "start": "2012-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q203513",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vozinha",
+  "transfermarkt_id": "242277",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Cape Verde"
+  ],
+  "place_of_birth": "Mindelo",
+  "wikidata_current_club": "FC Zimbru Chișinău",
+  "wikidata_current_club_qid": "Q203513",
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

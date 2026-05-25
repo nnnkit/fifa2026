@@ -1,0 +1,71 @@
+{
+  "slug": "luis-chávez",
+  "display_name": "Luis Chávez",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-01-15",
+  "age": 30,
+  "caps": 43,
+  "goals": 4,
+  "club_from_squad_table": "Dynamo Moscow",
+  "wikipedia_title": "Luis Chávez (footballer)",
+  "wikidata_qid": "Q22092264",
+  "qid": "Q22092264",
+  "name": "Luis Chávez",
+  "description": "Mexican association football player",
+  "date_of_birth": "1996-01-15",
+  "place_of_birth_qid": "Q2972384",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 1.77,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1103168",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q736937",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q17497",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1103168",
+  "image_filename": "Luis Chávez WC 2022 - 01.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Ch%C3%A1vez_(footballer)",
+  "transfermarkt_id": "331059",
+  "current_club": "Dynamo Moscow",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Cihuatlán",
+  "wikidata_current_club": "Club Tijuana",
+  "wikidata_current_club_qid": "Q1103168",
+  "photo": {
+    "filename": "Luis Chávez WC 2022 - 01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Luis_Ch%C3%A1vez_WC_2022_-_01.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Luis_Ch%C3%A1vez_WC_2022_-_01.jpg",
+    "width": 720,
+    "height": 1165,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/luis-chávez.jpg"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "carlens-arcus",
+  "display_name": "Carlens Arcus",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1996-06-28",
+  "age": 29,
+  "caps": 51,
+  "goals": 1,
+  "club_from_squad_table": "Angers",
+  "wikipedia_title": "Carlens Arcus",
+  "date_of_birth": "1996-06-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Angers",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20740578",
+  "qid": "Q20740578",
+  "name": "Carlens Arcus",
+  "description": "Haitian footballer",
+  "place_of_birth_qid": "Q34261",
+  "citizenship_qids": [
+    "Q790"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q236006",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q501693",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q638657",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q501693",
+  "image_filename": "Lens B - Troyes B (13-02-2016) 48.JPG",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Carlens_Arcus",
+  "transfermarkt_id": "371686",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Haiti"
+  ],
+  "place_of_birth": "Port-au-Prince",
+  "wikidata_current_club": "ES Troyes AC",
+  "wikidata_current_club_qid": "Q501693",
+  "photo": {
+    "filename": "Lens B - Troyes B (13-02-2016) 48.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lens_B_-_Troyes_B_%2813-02-2016%29_48.JPG",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lens_B_-_Troyes_B_%2813-02-2016%29_48.JPG",
+    "width": 693,
+    "height": 914,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterhéninois (page does not exist)\">Supporterhéninois</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/carlens-arcus.JPG"
+  },
+  "team_slug": "haiti",
+  "team_country": "Haiti"
+}

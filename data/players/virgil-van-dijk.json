@@ -1,0 +1,93 @@
+{
+  "slug": "virgil-van-dijk",
+  "display_name": "Virgil van Dijk",
+  "shirt_no": 4,
+  "position_code": "DF",
+  "dob": "1991-07-08",
+  "age": 34,
+  "caps": 90,
+  "goals": 12,
+  "club_from_squad_table": "Liverpool",
+  "wikipedia_title": "Virgil van Dijk",
+  "date_of_birth": "1991-07-08",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Liverpool",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q133903",
+  "qid": "Q133903",
+  "name": "Virgil van Dijk",
+  "description": "Dutch association football player (born 1991)",
+  "place_of_birth_qid": "Q40844",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 195.0,
+  "weight_kg": 92.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q24711",
+      "start": "2011-00-00",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q19593",
+      "start": "2013-00-00",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q514714",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q18732",
+      "start": "2015-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1130849",
+      "start": "2018-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1130849",
+  "image_filename": "20160604 AUT NED 8876 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Virgil_van_Dijk",
+  "transfermarkt_id": "139208",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Breda",
+  "wikidata_current_club": "Liverpool F.C.",
+  "wikidata_current_club_qid": "Q1130849",
+  "photo": {
+    "filename": "20160604 AUT NED 8876 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/20160604_AUT_NED_8876_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/20160604_AUT_NED_8876_%28cropped%29.jpg",
+    "width": 916,
+    "height": 1112,
+    "license": "CC BY-SA 3.0 at",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ailura\" title=\"User:Ailura\">Ailura</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/virgil-van-dijk.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

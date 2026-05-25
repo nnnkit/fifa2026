@@ -1,0 +1,33 @@
+{
+  "slug": "paul-reverson",
+  "display_name": "Paul Reverson",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2005-06-20",
+  "age": 20,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Jong Ajax",
+  "wikipedia_title": "Paul Reverson",
+  "date_of_birth": "2005-06-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Jong Ajax",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q132303559",
+  "qid": "Q132303559",
+  "name": "Paul Reverson",
+  "description": "Ghanaian association football player (born 2005)",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Reverson",
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "team_slug": "ghana",
+  "team_country": "Ghana",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

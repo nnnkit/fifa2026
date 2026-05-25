@@ -1,0 +1,69 @@
+{
+  "slug": "ismail-jakobs",
+  "display_name": "Ismail Jakobs",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-08-17",
+  "age": 26,
+  "caps": 28,
+  "goals": 0,
+  "club_from_squad_table": "Galatasaray",
+  "wikipedia_title": "Ismail Jakobs",
+  "date_of_birth": "1999-08-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Galatasaray",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q74178822",
+  "qid": "Q74178822",
+  "name": "Ismail Jakobs",
+  "description": "Senegalese-German association football player",
+  "place_of_birth_qid": "Q365",
+  "citizenship_qids": [
+    "Q183",
+    "Q1041"
+  ],
+  "height_cm": 1.84,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q104770",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q180305",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q104770",
+  "image_filename": "Ismail Jakobs.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ismail_Jakobs",
+  "transfermarkt_id": "375137",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Germany",
+    "Senegal"
+  ],
+  "place_of_birth": "Cologne",
+  "wikidata_current_club": "1. FC K\u00f6ln",
+  "wikidata_current_club_qid": "Q104770",
+  "photo": {
+    "filename": "Ismail Jakobs.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Ismail_Jakobs.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ismail_Jakobs.jpg/960px-Ismail_Jakobs.jpg",
+    "width": 1055,
+    "height": 2033,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "feguifoot",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ismail-jakobs.jpg"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

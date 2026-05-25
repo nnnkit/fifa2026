@@ -1,0 +1,97 @@
+{
+  "slug": "dayne-st-clair",
+  "display_name": "Dayne St. Clair",
+  "shirt_no": 1,
+  "position_code": "GK",
+  "dob": "1997-05-09",
+  "age": 29,
+  "caps": 19,
+  "goals": 0,
+  "club_from_squad_table": "Inter Miami",
+  "wikipedia_title": "Dayne St. Clair",
+  "wikidata_qid": "Q60583915",
+  "qid": "Q60583915",
+  "name": "Dayne St. Clair",
+  "description": "Canadian soccer player",
+  "date_of_birth": "1997-05-09",
+  "place_of_birth_qid": "Q386626",
+  "citizenship_qids": [
+    "Q16"
+  ],
+  "height_cm": 191.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q6781513",
+      "start": "2015-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q16842434",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q7013918",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q19828435",
+      "start": "2019-00-00",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q60745055",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q22025437",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q208635",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q16844931",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q16844931",
+  "image_filename": "Dayne St. Clair - MNUFC - May 2025.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dayne_St._Clair",
+  "transfermarkt_id": "439750",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Inter Miami",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Canada"
+  ],
+  "place_of_birth": "Pickering",
+  "wikidata_current_club": "Inter Miami CF",
+  "wikidata_current_club_qid": "Q16844931",
+  "photo": {
+    "filename": "Dayne St. Clair - MNUFC - May 2025.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dayne_St._Clair_-_MNUFC_-_May_2025.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dayne_St._Clair_-_MNUFC_-_May_2025.jpg/960px-Dayne_St._Clair_-_MNUFC_-_May_2025.jpg",
+    "width": 3887,
+    "height": 4735,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Andy Witchger",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/dayne-st-clair.jpg"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

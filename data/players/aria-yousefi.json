@@ -1,0 +1,44 @@
+{
+  "slug": "aria-yousefi",
+  "display_name": "Aria Yousefi",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2002-04-22",
+  "age": 24,
+  "caps": 12,
+  "goals": 0,
+  "club_from_squad_table": "Sepahan",
+  "wikipedia_title": "Aria Yousefi",
+  "date_of_birth": "2002-04-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sepahan",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q109548002",
+  "qid": "Q109548002",
+  "name": "Aria Yousefi",
+  "description": "Iranian footballer",
+  "citizenship_qids": [
+    "Q794"
+  ],
+  "height_cm": 1.81,
+  "image_filename": "YousefiCropped.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aria_Yousefi",
+  "transfermarkt_id": "932724",
+  "citizenship": [
+    "Iran"
+  ],
+  "photo": {
+    "filename": "YousefiCropped.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/YousefiCropped.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/YousefiCropped.jpg",
+    "width": 500,
+    "height": 639,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Hanfth",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/aria-yousefi.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

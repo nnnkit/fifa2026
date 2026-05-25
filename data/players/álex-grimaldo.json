@@ -1,0 +1,108 @@
+{
+  "slug": "\u00e1lex-grimaldo",
+  "display_name": "\u00c1lex Grimaldo",
+  "shirt_no": 3,
+  "position_code": "DF",
+  "dob": "1995-09-20",
+  "age": 30,
+  "caps": 12,
+  "goals": 0,
+  "club_from_squad_table": "Bayer Leverkusen",
+  "wikipedia_title": "\u00c1lex Grimaldo",
+  "date_of_birth": "1995-09-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayer Leverkusen",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q921324",
+  "qid": "Q921324",
+  "name": "\u00c1lex Grimaldo",
+  "description": "Spanish association football player (born 1995)",
+  "place_of_birth_qid": "Q8818",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 170.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q918044",
+      "start": "2006-00-00",
+      "end": "2008-00-00"
+    },
+    {
+      "team_qid": "Q13562063",
+      "start": "2008-00-00",
+      "end": "2012-00-00"
+    },
+    {
+      "team_qid": "Q10467",
+      "start": "2011-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q131499",
+      "start": "2016-01-01",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q3873503",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q2310295",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q2713491",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1129595",
+      "start": "2013-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q104761",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q42267",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q104761",
+  "image_filename": "Alex Grimaldo 2020.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lex_Grimaldo",
+  "transfermarkt_id": "193082",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Valencia",
+  "wikidata_current_club": "Bayer 04 Leverkusen",
+  "wikidata_current_club_qid": "Q104761",
+  "photo": {
+    "filename": "Alex Grimaldo 2020.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Alex_Grimaldo_2020.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Alex_Grimaldo_2020.png",
+    "width": 693,
+    "height": 772,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Sport Lisboa e Benfica",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/\u00e1lex-grimaldo.png"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain"
+}

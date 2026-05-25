@@ -1,0 +1,79 @@
+{
+  "slug": "rui-silva",
+  "display_name": "Rui Silva",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1994-02-07",
+  "age": 32,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Sporting CP",
+  "wikipedia_title": "Rui Silva (footballer, born 1994)",
+  "date_of_birth": "1994-02-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sporting CP",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16236537",
+  "qid": "Q16236537",
+  "name": "Rui Silva",
+  "description": "Portuguese footballer",
+  "place_of_birth_qid": "Q990403",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 189.0,
+  "weight_kg": 87.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q216459",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q3873524",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1772776",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1630430",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    }
+  ],
+  "current_club_qid": "Q216459",
+  "image_filename": "Rui Silva USMNT v Portugal Mar 31 2026-14.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rui_Silva_(footballer,_born_1994)",
+  "transfermarkt_id": "234811",
+  "fifa_player_id": "400074635",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Maia",
+  "wikidata_current_club": "C.D. Nacional",
+  "wikidata_current_club_qid": "Q216459",
+  "photo": {
+    "filename": "Rui Silva USMNT v Portugal Mar 31 2026-14.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Rui_Silva_USMNT_v_Portugal_Mar_31_2026-14.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Rui_Silva_USMNT_v_Portugal_Mar_31_2026-14.jpg/960px-Rui_Silva_USMNT_v_Portugal_Mar_31_2026-14.jpg",
+    "width": 3333,
+    "height": 5000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/rui-silva.jpg"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

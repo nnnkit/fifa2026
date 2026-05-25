@@ -1,0 +1,94 @@
+{
+  "slug": "santiago-mele",
+  "display_name": "Santiago Mele",
+  "shirt_no": 12,
+  "position_code": "GK",
+  "dob": "1997-09-06",
+  "age": 28,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "Monterrey",
+  "wikipedia_title": "Santiago Mele",
+  "date_of_birth": "1997-09-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Monterrey",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27921765",
+  "qid": "Q27921765",
+  "name": "Santiago Mele",
+  "description": "association football player",
+  "place_of_birth_qid": "Q1335",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 1.85,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q16320",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q978110",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q556570",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1103101",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q80899",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q332524",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q768253",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q16320",
+  "image_filename": "Santiago Mele.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Santiago_Mele",
+  "transfermarkt_id": "320739",
+  "fifa_player_id": "402897",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Montevideo",
+  "wikidata_current_club": "Club Atl\u00e9tico Pe\u00f1arol",
+  "wikidata_current_club_qid": "Q16320",
+  "photo": {
+    "filename": "Santiago Mele.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Santiago_Mele.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Santiago_Mele.jpg",
+    "width": 762,
+    "height": 1451,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/agenciaandes_ec/\">Agencia de Noticias ANDES</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/santiago-mele.jpg"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "\u00f8rjan-nyland",
+  "display_name": "\u00d8rjan Nyland",
+  "shirt_no": 1,
+  "position_code": "GK",
+  "dob": "1990-09-10",
+  "age": 35,
+  "caps": 69,
+  "goals": 0,
+  "club_from_squad_table": "Sevilla",
+  "wikipedia_title": "\u00d8rjan Nyland",
+  "date_of_birth": "1990-09-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sevilla",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q869214",
+  "qid": "Q869214",
+  "name": "\u00d8rjan Nyland",
+  "description": "Norwegian association football player",
+  "place_of_birth_qid": "Q488445",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 192.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q170117",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q129565",
+      "start": "2007-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q208552",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q2446294",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q184387",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873500",
+      "start": "2006-01-01",
+      "end": "2006-01-01"
+    },
+    {
+      "team_qid": "Q3590274",
+      "start": "2007-01-01",
+      "end": "2007-01-01"
+    },
+    {
+      "team_qid": "Q3873512",
+      "start": "2008-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q11992086",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q18711",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q170117",
+  "image_filename": "Norway Italy - June 2025 A 10 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%98rjan_Nyland",
+  "transfermarkt_id": "73517",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "Volda Municipality",
+  "wikidata_current_club": "FC Ingolstadt 04",
+  "wikidata_current_club_qid": "Q170117",
+  "photo": {
+    "filename": "Norway Italy - June 2025 A 10 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Norway_Italy_-_June_2025_A_10_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Norway_Italy_-_June_2025_A_10_%28cropped%29.jpg/960px-Norway_Italy_-_June_2025_A_10_%28cropped%29.jpg",
+    "width": 2491,
+    "height": 3116,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/\u00f8rjan-nyland.jpg"
+  },
+  "team_slug": "norway",
+  "team_country": "Norway"
+}

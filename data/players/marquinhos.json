@@ -1,0 +1,96 @@
+{
+  "slug": "marquinhos",
+  "display_name": "Marquinhos",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1994-05-14",
+  "age": 32,
+  "caps": 104,
+  "goals": 7,
+  "club_from_squad_table": "Paris Saint-Germain",
+  "wikipedia_title": "Marquinhos",
+  "date_of_birth": "1994-05-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Paris Saint-Germain",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q39230",
+  "qid": "Q39230",
+  "name": "Marquinhos",
+  "description": "Brazilian association football player",
+  "place_of_birth_qid": "Q174",
+  "citizenship_qids": [
+    "Q155",
+    "Q45"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2739",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q35933",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2402747",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q2308235",
+      "start": "2014-00-00",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q83459",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q899189",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    }
+  ],
+  "current_club_qid": "Q483020",
+  "image_filename": "FC Salzburg gegen Paris Saint-Germain UEFA Champions League 49 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marquinhos",
+  "transfermarkt_id": "181767",
+  "fifa_player_id": "332946",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Brazil",
+    "Portugal"
+  ],
+  "place_of_birth": "São Paulo",
+  "wikidata_current_club": "Paris Saint-Germain FC",
+  "wikidata_current_club_qid": "Q483020",
+  "photo": {
+    "filename": "FC Salzburg gegen Paris Saint-Germain UEFA Champions League 49 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/FC_Salzburg_gegen_Paris_Saint-Germain_UEFA_Champions_League_49_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/FC_Salzburg_gegen_Paris_Saint-Germain_UEFA_Champions_League_49_%28cropped%29.jpg/960px-FC_Salzburg_gegen_Paris_Saint-Germain_UEFA_Champions_League_49_%28cropped%29.jpg",
+    "width": 1198,
+    "height": 1504,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/marquinhos.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

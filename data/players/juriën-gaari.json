@@ -1,0 +1,72 @@
+{
+  "slug": "juriën-gaari",
+  "display_name": "Juriën Gaari",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1993-12-23",
+  "age": 32,
+  "caps": 58,
+  "goals": 1,
+  "club_from_squad_table": "Abha",
+  "wikipedia_title": "Juriën Gaari",
+  "date_of_birth": "1993-12-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Abha",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q32666318",
+  "qid": "Q32666318",
+  "name": "Juriën Gaari",
+  "description": "Curaçaoan association football player",
+  "place_of_birth_qid": "Q9796",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 181.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2097336",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q729640",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q24699",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2097336",
+  "image_filename": "Go Ahead Eagles - RKC Waalwijk - 52830811567 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Juri%C3%ABn_Gaari",
+  "transfermarkt_id": "328455",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Kerkrade",
+  "wikidata_current_club": "Kozakken Boys",
+  "wikidata_current_club_qid": "Q2097336",
+  "photo": {
+    "filename": "Go Ahead Eagles - RKC Waalwijk - 52830811567 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Go_Ahead_Eagles_-_RKC_Waalwijk_-_52830811567_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Go_Ahead_Eagles_-_RKC_Waalwijk_-_52830811567_%28cropped%29.jpg/960px-Go_Ahead_Eagles_-_RKC_Waalwijk_-_52830811567_%28cropped%29.jpg",
+    "width": 1248,
+    "height": 2158,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Carlo Bruil Fotografie",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/juriën-gaari.jpg"
+  },
+  "team_slug": "curaçao",
+  "team_country": "Curaçao"
+}

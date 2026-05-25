@@ -1,0 +1,100 @@
+{
+  "slug": "seko-fofana",
+  "display_name": "Seko Fofana",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1995-05-07",
+  "age": 31,
+  "caps": 31,
+  "goals": 7,
+  "club_from_squad_table": "Porto",
+  "wikipedia_title": "Seko Fofana",
+  "date_of_birth": "1995-05-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Porto",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18635274",
+  "qid": "Q18635274",
+  "name": "Seko Fofana",
+  "description": "Ivorian-French association football player",
+  "place_of_birth_qid": "Q90",
+  "citizenship_qids": [
+    "Q142",
+    "Q1008"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 74.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18708",
+      "start": "2014-11-28",
+      "end": "2015-05-03"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2013-01-31",
+      "end": "2016-07-01"
+    },
+    {
+      "team_qid": "Q208399",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590033",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q1450557",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2701714",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q2798",
+      "start": "2016-07-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2798",
+  "image_filename": "Seko Fofana.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Seko_Fofana",
+  "transfermarkt_id": "182893",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "France",
+    "Ivory Coast"
+  ],
+  "place_of_birth": "Paris",
+  "wikidata_current_club": "Udinese Calcio",
+  "wikidata_current_club_qid": "Q2798",
+  "photo": {
+    "filename": "Seko Fofana.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Seko_Fofana.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Seko_Fofana.jpg/960px-Seko_Fofana.jpg",
+    "width": 1181,
+    "height": 1772,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Adjoumani512",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/seko-fofana.jpg"
+  },
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "kylian-mbapp\u00e9",
+  "display_name": "Kylian Mbapp\u00e9",
+  "shirt_no": 10,
+  "position_code": "FW",
+  "dob": "1998-12-20",
+  "age": 27,
+  "caps": 96,
+  "goals": 56,
+  "club_from_squad_table": "Real Madrid",
+  "wikipedia_title": "Kylian Mbapp\u00e9",
+  "date_of_birth": "1998-12-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21621995",
+  "qid": "Q21621995",
+  "name": "Kylian Mbapp\u00e9",
+  "description": "French association football player",
+  "place_of_birth_qid": "Q90",
+  "citizenship_qids": [
+    "Q142",
+    "Q1009"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q109500422",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q180305",
+      "start": "2015-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2018-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": "2014-00-00",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q2701714",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q47774",
+      "start": "2017-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8682",
+  "image_filename": "2019-07-17 SG Dynamo Dresden vs. Paris Saint-Germain by Sandro Halank\u2013129 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9",
+  "transfermarkt_id": "342229",
+  "fifa_player_id": "389867",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "France",
+    "Cameroon"
+  ],
+  "place_of_birth": "Paris",
+  "wikidata_current_club": "Real Madrid Club de F\u00fatbol",
+  "wikidata_current_club_qid": "Q8682",
+  "photo": {
+    "filename": "2019-07-17 SG Dynamo Dresden vs. Paris Saint-Germain by Sandro Halank\u2013129 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_%28cropped%29.jpg/960px-2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_%28cropped%29.jpg",
+    "width": 1750,
+    "height": 2206,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Carlo Bruil Fotografie",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/kylian-mbapp\u00e9.jpg"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

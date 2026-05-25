@@ -1,0 +1,69 @@
+{
+  "slug": "nestory-irankunda",
+  "display_name": "Nestory Irankunda",
+  "shirt_no": 7,
+  "position_code": "FW",
+  "dob": "2006-02-09",
+  "age": 20,
+  "caps": 13,
+  "goals": 5,
+  "club_from_squad_table": "Watford",
+  "wikipedia_title": "Nestory Irankunda",
+  "date_of_birth": "2006-02-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Watford",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q110486192",
+  "qid": "Q110486192",
+  "name": "Nestor Irankunda",
+  "description": "Australian association football player (born 2006)",
+  "place_of_birth_qid": "Q244509",
+  "citizenship_qids": [
+    "Q408"
+  ],
+  "height_cm": 1.75,
+  "position_qids": [
+    "Q280658",
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q15789",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q201360",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q201360",
+  "image_filename": "Nestory Irankunda and Kwadwo Baah 09082025 (1) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nestory_Irankunda",
+  "transfermarkt_id": "956920",
+  "positions": [
+    "forward",
+    "winger"
+  ],
+  "citizenship": [
+    "Australia"
+  ],
+  "place_of_birth": "Kigoma",
+  "wikidata_current_club": "Grasshopper Club Z\u00fcrich",
+  "wikidata_current_club_qid": "Q201360",
+  "photo": {
+    "filename": "Nestory Irankunda and Kwadwo Baah 09082025 (1) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Nestory_Irankunda_and_Kwadwo_Baah_09082025_%281%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Nestory_Irankunda_and_Kwadwo_Baah_09082025_%281%29_%28cropped%29.jpg",
+    "width": 460,
+    "height": 745,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nestory-irankunda.jpg"
+  },
+  "team_slug": "australia",
+  "team_country": "Australia"
+}

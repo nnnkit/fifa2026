@@ -1,0 +1,112 @@
+{
+  "slug": "mikel-oyarzabal",
+  "display_name": "Mikel Oyarzabal",
+  "shirt_no": 21,
+  "position_code": "FW",
+  "dob": "1997-04-21",
+  "age": 29,
+  "caps": 52,
+  "goals": 24,
+  "club_from_squad_table": "Real Sociedad",
+  "wikipedia_title": "Mikel Oyarzabal",
+  "date_of_birth": "1997-04-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Sociedad",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21195147",
+  "qid": "Q21195147",
+  "name": "Mikel Oyarzabal",
+  "description": "Spanish association football player (born 1997)",
+  "place_of_birth_qid": "Q496567",
+  "citizenship_qids": [
+    "Q29"
+  ],
+  "height_cm": 1.81,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q6037916"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1067750",
+      "start": "2013-00-00",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q10315",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q3589784",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q2713491",
+      "start": "2016-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q42267",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1129595",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q738846",
+      "start": "2016-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q770740",
+      "start": null,
+      "end": "2011-00-00"
+    },
+    {
+      "team_qid": "Q10315",
+      "start": "2011-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q770740",
+      "start": "2013-00-00",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q2637337",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    }
+  ],
+  "current_club_qid": "Q10315",
+  "image_filename": "Oyarzabal Spain football team in 2025 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mikel_Oyarzabal",
+  "transfermarkt_id": "351478",
+  "fifa_player_id": "201447843",
+  "positions": [
+    "inside forward"
+  ],
+  "citizenship": [
+    "Spain"
+  ],
+  "place_of_birth": "Eibar",
+  "photo": {
+    "filename": "Oyarzabal Spain football team in 2025 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Oyarzabal_Spain_football_team_in_2025_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Oyarzabal_Spain_football_team_in_2025_%28cropped%29.jpg/960px-Oyarzabal_Spain_football_team_in_2025_%28cropped%29.jpg",
+    "width": 1086,
+    "height": 1449,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Biso\" title=\"User:Biso\">Biso</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mikel-oyarzabal.jpg"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain"
+}

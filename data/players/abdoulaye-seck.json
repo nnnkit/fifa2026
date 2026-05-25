@@ -1,0 +1,92 @@
+{
+  "slug": "abdoulaye-seck",
+  "display_name": "Abdoulaye Seck",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1992-06-04",
+  "age": 34,
+  "caps": 21,
+  "goals": 4,
+  "club_from_squad_table": "Maccabi Haifa",
+  "wikipedia_title": "Abdoulaye Seck (footballer, born 1992)",
+  "date_of_birth": "1992-06-04",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Maccabi Haifa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q17494543",
+  "qid": "Q17494543",
+  "name": "Abdoulaye Seck",
+  "description": "Senegalese association footballer (b. 1992)",
+  "place_of_birth_qid": "Q1019431",
+  "citizenship_qids": [
+    "Q801"
+  ],
+  "height_cm": 192.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2940765",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q657883",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q304060",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q861524",
+      "start": "2016-03-05",
+      "end": "2018-08-28"
+    },
+    {
+      "team_qid": "Q207441",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q732002",
+      "start": "2018-08-29",
+      "end": "2022-08-31"
+    },
+    {
+      "team_qid": "Q2129100",
+      "start": "2022-09-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2129100",
+  "image_filename": "Abdoulaye Seck.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abdoulaye_Seck_(footballer,_born_1992)",
+  "transfermarkt_id": "265383",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Israel"
+  ],
+  "place_of_birth": "M'Bour",
+  "wikidata_current_club": "Maccabi Haifa F.C.",
+  "wikidata_current_club_qid": "Q2129100",
+  "photo": {
+    "filename": "Abdoulaye Seck.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Abdoulaye_Seck.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Abdoulaye_Seck.jpg/960px-Abdoulaye_Seck.jpg",
+    "width": 2240,
+    "height": 1982,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "feguifoot",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/abdoulaye-seck.jpg"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}

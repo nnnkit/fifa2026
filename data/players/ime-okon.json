@@ -1,0 +1,43 @@
+{
+  "slug": "ime-okon",
+  "display_name": "Ime Okon",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2004-02-20",
+  "age": 22,
+  "caps": 7,
+  "goals": 1,
+  "club_from_squad_table": "Hannover 96",
+  "wikipedia_title": "Ime Okon",
+  "wikidata_qid": "Q127514195",
+  "qid": "Q127514195",
+  "name": "Ime Okon",
+  "description": "South African soccer player",
+  "date_of_birth": "2004-02-20",
+  "place_of_birth_qid": "Q258",
+  "citizenship_qids": [
+    "Q258"
+  ],
+  "height_cm": 1.87,
+  "position_qids": [
+    "Q268258"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ime_Okon",
+  "transfermarkt_id": "1107265",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "South Africa"
+  ],
+  "place_of_birth": "South Africa",
+  "current_club": "Hannover 96",
+  "current_club_source": "wikipedia-squad-table",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "south-africa",
+  "team_country": "South Africa"
+}

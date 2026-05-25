@@ -1,0 +1,98 @@
+{
+  "slug": "justin-bijlow",
+  "display_name": "Justin Bijlow",
+  "shirt_no": 13,
+  "position_code": "GK",
+  "dob": "1998-01-22",
+  "age": 28,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "Genoa",
+  "wikipedia_title": "Justin Bijlow",
+  "date_of_birth": "1998-01-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Genoa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q36318897",
+  "qid": "Q36318897",
+  "name": "Justin Bijlow",
+  "description": "Dutch association football player (born 1998)",
+  "place_of_birth_qid": "Q34370",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 84.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q134241",
+      "start": "2016-00-00",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q29526205",
+      "start": "2014-00-00",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q601723",
+      "start": "2014-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q514714",
+      "start": "2015-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q13882315",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": "2017-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q2074",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2074",
+  "image_filename": "Go Ahead Eagles - Feyenoord - 53679350950 (Justin Bijlow).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Justin_Bijlow",
+  "transfermarkt_id": "315121",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Rotterdam",
+  "wikidata_current_club": "Genoa CFC",
+  "wikidata_current_club_qid": "Q2074",
+  "photo": {
+    "filename": "Go Ahead Eagles - Feyenoord - 53679350950 (Justin Bijlow).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Go_Ahead_Eagles_-_Feyenoord_-_53679350950_%28Justin_Bijlow%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Go_Ahead_Eagles_-_Feyenoord_-_53679350950_%28Justin_Bijlow%29.jpg/960px-Go_Ahead_Eagles_-_Feyenoord_-_53679350950_%28Justin_Bijlow%29.jpg",
+    "width": 1781,
+    "height": 1882,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Carlo Bruil Fotografie",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/justin-bijlow.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

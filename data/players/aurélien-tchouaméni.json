@@ -1,0 +1,109 @@
+{
+  "slug": "aur\u00e9lien-tchouam\u00e9ni",
+  "display_name": "Aur\u00e9lien Tchouam\u00e9ni",
+  "shirt_no": 8,
+  "position_code": "MF",
+  "dob": "2000-01-27",
+  "age": 26,
+  "caps": 44,
+  "goals": 3,
+  "club_from_squad_table": "Real Madrid",
+  "wikipedia_title": "Aur\u00e9lien Tchouam\u00e9ni",
+  "date_of_birth": "2000-01-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q46951844",
+  "qid": "Q46951844",
+  "name": "Aur\u00e9lien Tchouam\u00e9ni",
+  "description": "French footballer (born 2000)",
+  "place_of_birth_qid": "Q30974",
+  "citizenship_qids": [
+    "Q142",
+    "Q1009"
+  ],
+  "height_cm": 187.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q172476",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q180305",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590033",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q1450557",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q2701714",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1344163",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q47774",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8682",
+  "image_filename": "Aur\u00e9lien Tchouam\u00e9ni.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aur%C3%A9lien_Tchouam%C3%A9ni",
+  "transfermarkt_id": "413112",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "France",
+    "Cameroon"
+  ],
+  "place_of_birth": "Rouen",
+  "wikidata_current_club": "Real Madrid Club de F\u00fatbol",
+  "wikidata_current_club_qid": "Q8682",
+  "photo": {
+    "filename": "Aur\u00e9lien Tchouam\u00e9ni.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Aur%C3%A9lien_Tchouam%C3%A9ni.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Aur%C3%A9lien_Tchouam%C3%A9ni.jpg",
+    "width": 600,
+    "height": 904,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u041a\u0438\u0440\u0438\u043b\u043b \u0412\u0435\u043d\u0435\u0434\u0438\u043a\u0442\u043e\u0432",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/aur\u00e9lien-tchouam\u00e9ni.jpg"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

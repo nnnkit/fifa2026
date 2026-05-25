@@ -1,0 +1,52 @@
+{
+  "slug": "azizjon-ganiev",
+  "display_name": "Azizjon Ganiev",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1998-02-22",
+  "age": 28,
+  "caps": 18,
+  "goals": 0,
+  "club_from_squad_table": "Al Bataeh",
+  "wikipedia_title": "Azizjon Ganiev",
+  "date_of_birth": "1998-02-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al Bataeh",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28098786",
+  "qid": "Q28098786",
+  "name": "Azizjon Ganiev",
+  "description": "association football player",
+  "place_of_birth_qid": "Q265",
+  "height_cm": 180.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1150723",
+      "start": "2016-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q487321",
+      "start": "2017-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1150723",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Azizjon_Ganiev",
+  "transfermarkt_id": "431911",
+  "positions": [
+    "midfielder"
+  ],
+  "place_of_birth": "Uzbekistan",
+  "wikidata_current_club": "Nasaf Qarshi",
+  "wikidata_current_club_qid": "Q1150723",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+  },
+  "team_slug": "uzbekistan",
+  "team_country": "Uzbekistan"
+}

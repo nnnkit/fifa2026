@@ -1,0 +1,99 @@
+{
+  "slug": "timothy-castagne",
+  "display_name": "Timothy Castagne",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1995-12-05",
+  "age": 30,
+  "caps": 62,
+  "goals": 2,
+  "club_from_squad_table": "Fulham",
+  "wikipedia_title": "Timothy Castagne",
+  "date_of_birth": "1995-12-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Fulham",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q18041089",
+  "qid": "Q18041089",
+  "name": "Timothy Castagne",
+  "description": "Belgian association football player (born 1995)",
+  "place_of_birth_qid": "Q675960",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q216032",
+      "start": "2014-07-01",
+      "end": "2017-07-07"
+    },
+    {
+      "team_qid": "Q15224541",
+      "start": "2013-03-05",
+      "end": "2013-04-12"
+    },
+    {
+      "team_qid": "Q3589896",
+      "start": "2013-05-24",
+      "end": "2014-06-02"
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2014-11-12",
+      "end": "2016-10-11"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2017-07-07",
+      "end": "2020-09-03"
+    },
+    {
+      "team_qid": "Q19481",
+      "start": "2020-09-03",
+      "end": "2023-08-29"
+    },
+    {
+      "team_qid": "Q166776",
+      "start": "2018-09-07",
+      "end": null
+    },
+    {
+      "team_qid": "Q18708",
+      "start": "2023-08-29",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18708",
+  "image_filename": "Timothy Castagne 01.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Timothy_Castagne",
+  "transfermarkt_id": "262226",
+  "fifa_player_id": "201213227",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Arlon",
+  "wikidata_current_club": "Fulham F.C.",
+  "wikidata_current_club_qid": "Q18708",
+  "photo": {
+    "filename": "Timothy Castagne 01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Timothy_Castagne_01.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Timothy_Castagne_01.jpg/960px-Timothy_Castagne_01.jpg",
+    "width": 1020,
+    "height": 1360,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ago76\" title=\"User:Ago76\">Ago76</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/timothy-castagne.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

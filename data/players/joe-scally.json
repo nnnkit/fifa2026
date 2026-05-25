@@ -1,0 +1,70 @@
+{
+  "slug": "joe-scally",
+  "display_name": "Joe Scally",
+  "shirt_no": 19,
+  "position_code": "DF",
+  "dob": "2002-12-31",
+  "age": 23,
+  "caps": 24,
+  "goals": 0,
+  "club_from_squad_table": "Borussia M\u00f6nchengladbach",
+  "wikipedia_title": "Joe Scally",
+  "date_of_birth": "2002-12-31",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Borussia M\u00f6nchengladbach",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q54861644",
+  "qid": "Q54861644",
+  "name": "Joe Scally",
+  "description": "American soccer player",
+  "place_of_birth_qid": "Q1442569",
+  "citizenship_qids": [
+    "Q30"
+  ],
+  "height_cm": 1.84,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q13361030",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q3590570",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q101959",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q101959",
+  "image_filename": "Joe Scally USMNT v Belgium Mar 28 2026-51 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Scally",
+  "transfermarkt_id": "504153",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "United States"
+  ],
+  "place_of_birth": "Lake Grove",
+  "photo": {
+    "filename": "Joe Scally USMNT v Belgium Mar 28 2026-51 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Joe_Scally_USMNT_v_Belgium_Mar_28_2026-51_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Joe_Scally_USMNT_v_Belgium_Mar_28_2026-51_%28cropped%29.jpg/960px-Joe_Scally_USMNT_v_Belgium_Mar_28_2026-51_%28cropped%29.jpg",
+    "width": 3151,
+    "height": 4199,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/joe-scally.jpg"
+  },
+  "team_slug": "united-states",
+  "team_country": "United States"
+}

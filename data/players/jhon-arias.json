@@ -1,0 +1,97 @@
+{
+  "slug": "jhon-arias",
+  "display_name": "Jhon Arias",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-09-21",
+  "age": 28,
+  "caps": 36,
+  "goals": 4,
+  "club_from_squad_table": "Palmeiras",
+  "wikipedia_title": "Jhon Arias (footballer)",
+  "date_of_birth": "1997-09-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Palmeiras",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q65378670",
+  "qid": "Q65378670",
+  "name": "Jhon Arias",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q816420",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 168.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q6661327",
+      "start": "2018-01-00",
+      "end": "2018-12-00"
+    },
+    {
+      "team_qid": "Q391600",
+      "start": "2017-04-00",
+      "end": "2020-03-00"
+    },
+    {
+      "team_qid": "Q391987",
+      "start": "2020-03-00",
+      "end": "2020-12-00"
+    },
+    {
+      "team_qid": "Q1424072",
+      "start": "2021-01-00",
+      "end": "2021-08-00"
+    },
+    {
+      "team_qid": "Q80987",
+      "start": "2021-08-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q212564",
+      "start": "2022-06-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19500",
+      "start": "2025-00-00",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q80964",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q80964",
+  "image_filename": "Jhon Arias.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jhon_Arias_(footballer)",
+  "transfermarkt_id": "588989",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Quibd\u00f3",
+  "wikidata_current_club": "Sociedade Esportiva Palmeiras",
+  "wikidata_current_club_qid": "Q80964",
+  "photo": {
+    "filename": "Jhon Arias.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Jhon_Arias.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Jhon_Arias.jpg",
+    "width": 888,
+    "height": 2222,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:F.edeeee1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:F.edeeee1 (page does not exist)\">F.edeeee1</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jhon-arias.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

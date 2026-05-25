@@ -1,0 +1,90 @@
+{
+  "slug": "aaron-wan-bissaka",
+  "display_name": "Aaron Wan-Bissaka",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-11-26",
+  "age": 28,
+  "caps": 10,
+  "goals": 0,
+  "club_from_squad_table": "West Ham United",
+  "wikipedia_title": "Aaron Wan-Bissaka",
+  "date_of_birth": "1997-11-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "West Ham United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q50137347",
+  "qid": "Q50137347",
+  "name": "Aaron Wan-Bissaka",
+  "description": "DR Congo footballer (born 1997)",
+  "place_of_birth_qid": "Q2213391",
+  "citizenship_qids": [
+    "Q145",
+    "Q974"
+  ],
+  "height_cm": 183.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19467",
+      "start": "2016-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q18656",
+      "start": "2019-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q5255801",
+      "start": "2015-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q1049176",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q18747",
+      "start": "2024-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18747",
+  "image_filename": "Aaron Wan-Bissaka of West Ham United.jpeg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aaron_Wan-Bissaka",
+  "transfermarkt_id": "477758",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "United Kingdom",
+    "Democratic Republic of the Congo"
+  ],
+  "place_of_birth": "Croydon",
+  "wikidata_current_club": "West Ham United F.C.",
+  "wikidata_current_club_qid": "Q18747",
+  "photo": {
+    "filename": "Aaron Wan-Bissaka of West Ham United.jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Aaron_Wan-Bissaka_of_West_Ham_United.jpeg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Aaron_Wan-Bissaka_of_West_Ham_United.jpeg/960px-Aaron_Wan-Bissaka_of_West_Ham_United.jpeg",
+    "width": 2163,
+    "height": 2942,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Egghead06\" title=\"User:Egghead06\">Egghead06</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/aaron-wan-bissaka.jpeg"
+  },
+  "team_slug": "dr-congo",
+  "team_country": "DR Congo"
+}

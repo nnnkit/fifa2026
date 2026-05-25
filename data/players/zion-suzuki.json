@@ -1,0 +1,73 @@
+{
+  "slug": "zion-suzuki",
+  "display_name": "Zion Suzuki",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2002-08-21",
+  "age": 23,
+  "caps": 23,
+  "goals": 0,
+  "club_from_squad_table": "Parma",
+  "wikipedia_title": "Zion Suzuki",
+  "date_of_birth": "2002-08-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Parma",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q67498669",
+  "qid": "Q67498669",
+  "name": "Zion Suzuki",
+  "description": "American-Japanese association football player",
+  "place_of_birth_qid": "Q25395",
+  "citizenship_qids": [
+    "Q17",
+    "Q30",
+    "Q117"
+  ],
+  "height_cm": 1.9,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q218883",
+      "start": "2019-08-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q138248",
+      "start": "2023-08-06",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q138248",
+  "image_filename": "ZION SUZUKI - JPN vs THA - Friendly Match - 2024.01.01.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Zion_Suzuki",
+  "transfermarkt_id": "432298",
+  "fifa_player_id": "405530",
+  "uefa_player_id": "32694",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Japan",
+    "United States",
+    "Ghana"
+  ],
+  "place_of_birth": "Newark",
+  "wikidata_current_club": "Sint-Truidense V.V.",
+  "wikidata_current_club_qid": "Q138248",
+  "photo": {
+    "filename": "ZION SUZUKI - JPN vs THA - Friendly Match - 2024.01.01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg",
+    "width": 489,
+    "height": 667,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:RuinDig\" title=\"User:RuinDig\">RuinDig/Yuki Uchida</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/zion-suzuki.jpg"
+  },
+  "team_slug": "japan",
+  "team_country": "Japan"
+}

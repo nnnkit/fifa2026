@@ -1,0 +1,109 @@
+{
+  "slug": "lee-kang-in",
+  "display_name": "Lee Kang-in",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2001-02-19",
+  "age": 25,
+  "caps": 46,
+  "goals": 11,
+  "club_from_squad_table": "Paris Saint-Germain",
+  "wikipedia_title": "Lee Kang-in",
+  "wikidata_qid": "Q16174734",
+  "qid": "Q16174734",
+  "name": "Lee Kang-in",
+  "description": "South Korean association football player (born 2001)",
+  "date_of_birth": "2001-02-19",
+  "place_of_birth_qid": "Q20934",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 1.73,
+  "position_qids": [
+    "Q90326494",
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q10333",
+      "start": "2019-01-30",
+      "end": "2021-08-30"
+    },
+    {
+      "team_qid": "Q918044",
+      "start": "2017-12-21",
+      "end": "2019-01-30"
+    },
+    {
+      "team_qid": "Q8835",
+      "start": "2021-08-30",
+      "end": "2023-07-08"
+    },
+    {
+      "team_qid": "Q493401",
+      "start": "2018-05-27",
+      "end": "2018-06-02"
+    },
+    {
+      "team_qid": "Q495929",
+      "start": "2019-05-11",
+      "end": "2019-06-15"
+    },
+    {
+      "team_qid": "Q488454",
+      "start": "2021-06-12",
+      "end": "2022-06-12"
+    },
+    {
+      "team_qid": "Q543842",
+      "start": "2019-03-22",
+      "end": null
+    },
+    {
+      "team_qid": "Q1418509",
+      "start": "2021-07-22",
+      "end": "2021-07-31"
+    },
+    {
+      "team_qid": "Q483020",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q601613",
+      "start": "2012-00-00",
+      "end": "2018-00-00"
+    }
+  ],
+  "current_club_qid": "Q483020",
+  "image_filename": "Lee Kang-in - 2022 (52551771501) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Kang-in",
+  "transfermarkt_id": "557149",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Paris Saint-Germain",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "attacking midfielder",
+    "winger"
+  ],
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "Incheon",
+  "wikidata_current_club": "Paris Saint-Germain FC",
+  "wikidata_current_club_qid": "Q483020",
+  "photo": {
+    "filename": "Lee Kang-in - 2022 (52551771501) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Lee_Kang-in_-_2022_%2852551771501%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lee_Kang-in_-_2022_%2852551771501%29_%28cropped%29.jpg/960px-Lee_Kang-in_-_2022_%2852551771501%29_%28cropped%29.jpg",
+    "width": 1088,
+    "height": 1632,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/42438955@N05\">Republic of  Korea</a> from Seoul, Republic of Korea",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lee-kang-in.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

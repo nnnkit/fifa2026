@@ -1,0 +1,2227 @@
+{
+  "slug": "belgium",
+  "country": "Belgium",
+  "wikidata_qid": "Q166776",
+  "fetched_at": "2026-05-24T15:56:51+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "thibaut-courtois",
+      "display_name": "Thibaut Courtois",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1992-05-11",
+      "age": 34,
+      "caps": 107,
+      "goals": 0,
+      "club_from_squad_table": "Real Madrid",
+      "wikipedia_title": "Thibaut Courtois",
+      "date_of_birth": "1992-05-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q73360",
+      "qid": "Q73360",
+      "name": "Thibaut Courtois",
+      "description": "Belgian association football player (born 1992)",
+      "place_of_birth_qid": "Q275863",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 200.0,
+      "weight_kg": 96.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8701",
+          "start": "2011-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2011-00-00",
+          "end": "2018-08-00"
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q15224541",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2018-08-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q216032",
+          "start": "2009-00-00",
+          "end": "2011-06-30"
+        }
+      ],
+      "current_club_qid": "Q8682",
+      "image_filename": "Courtois 2018 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thibaut_Courtois",
+      "transfermarkt_id": "108390",
+      "fifa_player_id": "358106",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Bree",
+      "wikidata_current_club": "Real Madrid Club de Fútbol",
+      "wikidata_current_club_qid": "Q8682",
+      "photo": {
+        "filename": "Courtois 2018 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Courtois_2018_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Courtois_2018_%28cropped%29.jpg",
+        "width": 455,
+        "height": 569,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Кирилл Венедиктов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/thibaut-courtois.jpg"
+      }
+    },
+    {
+      "slug": "senne-lammens",
+      "display_name": "Senne Lammens",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2002-07-07",
+      "age": 23,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Manchester United",
+      "wikipedia_title": "Senne Lammens",
+      "date_of_birth": "2002-07-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester United",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q98100512",
+      "qid": "Q98100512",
+      "name": "Senne Lammens",
+      "description": "Belgian association football player (born 2002)",
+      "place_of_birth_qid": "Q300813",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 1.93,
+      "teams": [
+        {
+          "team_qid": "Q190916",
+          "start": "2020-07-01",
+          "end": "2023-06-30"
+        },
+        {
+          "team_qid": "Q732002",
+          "start": "2023-07-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q732002",
+      "image_filename": "Senne Lammens USMNT v Belgium Mar 28 2026-98 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Senne_Lammens",
+      "transfermarkt_id": "503883",
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Aaigem",
+      "wikidata_current_club": "Royal Antwerp F.C.",
+      "wikidata_current_club_qid": "Q732002",
+      "photo": {
+        "filename": "Senne Lammens USMNT v Belgium Mar 28 2026-98 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Senne_Lammens_USMNT_v_Belgium_Mar_28_2026-98_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Senne_Lammens_USMNT_v_Belgium_Mar_28_2026-98_%28cropped%29.jpg/960px-Senne_Lammens_USMNT_v_Belgium_Mar_28_2026-98_%28cropped%29.jpg",
+        "width": 2871,
+        "height": 3826,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/senne-lammens.jpg"
+      }
+    },
+    {
+      "slug": "mike-penders",
+      "display_name": "Mike Penders",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2005-07-31",
+      "age": 20,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Strasbourg",
+      "wikipedia_title": "Mike Penders",
+      "date_of_birth": "2005-07-31",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Strasbourg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q113515002",
+      "qid": "Q113515002",
+      "name": "Mike Penders",
+      "description": "Belgian footballer (born 2005)",
+      "place_of_birth_qid": "Q329633",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 200.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3589895",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q15224541",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q3589896",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q113884742",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q216032",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2024-08-27",
+          "end": null
+        },
+        {
+          "team_qid": "Q216032",
+          "start": "2024-08-28",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q216032",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Penders",
+      "transfermarkt_id": "834397",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Maasmechelen",
+      "wikidata_current_club": "K.R.C. Genk",
+      "wikidata_current_club_qid": "Q216032",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "thomas-meunier",
+      "display_name": "Thomas Meunier",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1991-09-12",
+      "age": 34,
+      "caps": 78,
+      "goals": 10,
+      "club_from_squad_table": "Lille",
+      "wikipedia_title": "Thomas Meunier",
+      "date_of_birth": "1991-09-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lille",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q2036160",
+      "qid": "Q2036160",
+      "name": "Thomas Meunier",
+      "description": "Belgian association football player (born 1991)",
+      "place_of_birth_qid": "Q713708",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 88.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q190916",
+          "start": "2011-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q650917",
+          "start": "2009-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q30743865",
+          "start": "2006-01-01",
+          "end": "2006-01-01"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2016-07-03",
+          "end": "2020-06-00"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2020-07-00",
+          "end": "2024-02-07"
+        },
+        {
+          "team_qid": "Q192641",
+          "start": "2024-02-07",
+          "end": "2024-07-19"
+        },
+        {
+          "team_qid": "Q865720",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q19516",
+          "start": "2024-07-19",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19516",
+      "image_filename": "2019-07-17 SG Dynamo Dresden vs. Paris Saint-Germain by Sandro Halank–121.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Meunier",
+      "transfermarkt_id": "100986",
+      "fifa_player_id": "358122",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Sainte-Ode",
+      "wikidata_current_club": "Lille OSC",
+      "wikidata_current_club_qid": "Q19516",
+      "photo": {
+        "filename": "2019-07-17 SG Dynamo Dresden vs. Paris Saint-Germain by Sandro Halank–121.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93121.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93121.jpg/960px-2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93121.jpg",
+        "width": 3155,
+        "height": 3893,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sandro_Halank\" title=\"User:Sandro Halank\">Sandro Halank</a>, Wikimedia Commons",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/thomas-meunier.jpg"
+      }
+    },
+    {
+      "slug": "timothy-castagne",
+      "display_name": "Timothy Castagne",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1995-12-05",
+      "age": 30,
+      "caps": 62,
+      "goals": 2,
+      "club_from_squad_table": "Fulham",
+      "wikipedia_title": "Timothy Castagne",
+      "date_of_birth": "1995-12-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Fulham",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18041089",
+      "qid": "Q18041089",
+      "name": "Timothy Castagne",
+      "description": "Belgian association football player (born 1995)",
+      "place_of_birth_qid": "Q675960",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q216032",
+          "start": "2014-07-01",
+          "end": "2017-07-07"
+        },
+        {
+          "team_qid": "Q15224541",
+          "start": "2013-03-05",
+          "end": "2013-04-12"
+        },
+        {
+          "team_qid": "Q3589896",
+          "start": "2013-05-24",
+          "end": "2014-06-02"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2014-11-12",
+          "end": "2016-10-11"
+        },
+        {
+          "team_qid": "Q1886",
+          "start": "2017-07-07",
+          "end": "2020-09-03"
+        },
+        {
+          "team_qid": "Q19481",
+          "start": "2020-09-03",
+          "end": "2023-08-29"
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2018-09-07",
+          "end": null
+        },
+        {
+          "team_qid": "Q18708",
+          "start": "2023-08-29",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18708",
+      "image_filename": "Timothy Castagne 01.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Timothy_Castagne",
+      "transfermarkt_id": "262226",
+      "fifa_player_id": "201213227",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Arlon",
+      "wikidata_current_club": "Fulham F.C.",
+      "wikidata_current_club_qid": "Q18708",
+      "photo": {
+        "filename": "Timothy Castagne 01.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Timothy_Castagne_01.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Timothy_Castagne_01.jpg/960px-Timothy_Castagne_01.jpg",
+        "width": 1020,
+        "height": 1360,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ago76\" title=\"User:Ago76\">Ago76</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/timothy-castagne.jpg"
+      }
+    },
+    {
+      "slug": "arthur-theate",
+      "display_name": "Arthur Theate",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-05-25",
+      "age": 26,
+      "caps": 32,
+      "goals": 1,
+      "club_from_squad_table": "Eintracht Frankfurt",
+      "wikipedia_title": "Arthur Theate",
+      "date_of_birth": "2000-05-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Eintracht Frankfurt",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q97724521",
+      "qid": "Q97724521",
+      "name": "Arthur Theate",
+      "description": "Belgian footballer (born 2000)",
+      "place_of_birth_qid": "Q3992",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 1.86,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q370206",
+          "start": "2020-07-13",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1893",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q19509",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q38245",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q38245",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q15224541",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q3589896",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q38245",
+      "image_filename": "Arthur Theate USMNT v Belgium Mar 28 2026-22 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Theate",
+      "transfermarkt_id": "368891",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Liège",
+      "photo": {
+        "filename": "Arthur Theate USMNT v Belgium Mar 28 2026-22 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Arthur_Theate_USMNT_v_Belgium_Mar_28_2026-22_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Arthur_Theate_USMNT_v_Belgium_Mar_28_2026-22_%28cropped%29.jpg/960px-Arthur_Theate_USMNT_v_Belgium_Mar_28_2026-22_%28cropped%29.jpg",
+        "width": 2773,
+        "height": 3695,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/arthur-theate.jpg"
+      }
+    },
+    {
+      "slug": "zeno-debast",
+      "display_name": "Zeno Debast",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-10-24",
+      "age": 22,
+      "caps": 26,
+      "goals": 1,
+      "club_from_squad_table": "Sporting CP",
+      "wikipedia_title": "Zeno Debast",
+      "date_of_birth": "2003-10-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sporting CP",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q106686485",
+      "qid": "Q106686485",
+      "name": "Zeno Debast",
+      "description": "Belgian association football player (born 2003)",
+      "place_of_birth_qid": "Q210003",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 191.0,
+      "teams": [
+        {
+          "team_qid": "Q187528",
+          "start": "2021-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q75729",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3589895",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q3589896",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2023-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q75729",
+      "image_filename": "Zeno Debast USMNT v Belgium Mar 28 2026-80 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zeno_Debast",
+      "transfermarkt_id": "548193",
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Halle",
+      "photo": {
+        "filename": "Zeno Debast USMNT v Belgium Mar 28 2026-80 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Zeno_Debast_USMNT_v_Belgium_Mar_28_2026-80_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Zeno_Debast_USMNT_v_Belgium_Mar_28_2026-80_%28cropped%29.jpg/960px-Zeno_Debast_USMNT_v_Belgium_Mar_28_2026-80_%28cropped%29.jpg",
+        "width": 3330,
+        "height": 4438,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/zeno-debast.jpg"
+      }
+    },
+    {
+      "slug": "maxim-de-cuyper",
+      "display_name": "Maxim De Cuyper",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-12-22",
+      "age": 25,
+      "caps": 17,
+      "goals": 4,
+      "club_from_squad_table": "Brighton & Hove Albion",
+      "wikipedia_title": "Maxim De Cuyper",
+      "date_of_birth": "2000-12-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Brighton & Hove Albion",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q85928265",
+      "qid": "Q85928265",
+      "name": "Maxim De Cuyper",
+      "description": "Belgian association football player (born 2000)",
+      "place_of_birth_qid": "Q12988",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 1.82,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q190916",
+          "start": "2020-01-01",
+          "end": "2025-07-05"
+        },
+        {
+          "team_qid": "Q849544",
+          "start": "2021-08-02",
+          "end": "2023-06-30"
+        },
+        {
+          "team_qid": "Q23674710",
+          "start": "2016-04-00",
+          "end": "2016-04-00"
+        },
+        {
+          "team_qid": "Q3589896",
+          "start": "2018-10-00",
+          "end": "2018-10-00"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2022-09-00",
+          "end": "2023-06-27"
+        },
+        {
+          "team_qid": "Q101625593",
+          "start": "2020-07-01",
+          "end": "2021-04-24"
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2024-06-05",
+          "end": null
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2025-07-05",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19453",
+      "image_filename": "Maxim De Cuyper USMNT v Belgium Mar 28 2026-79 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maxim_De_Cuyper",
+      "transfermarkt_id": "429915",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Knokke-Heist",
+      "wikidata_current_club": "Brighton & Hove Albion F.C.",
+      "wikidata_current_club_qid": "Q19453",
+      "photo": {
+        "filename": "Maxim De Cuyper USMNT v Belgium Mar 28 2026-79 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Maxim_De_Cuyper_USMNT_v_Belgium_Mar_28_2026-79_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Maxim_De_Cuyper_USMNT_v_Belgium_Mar_28_2026-79_%28cropped%29.jpg/960px-Maxim_De_Cuyper_USMNT_v_Belgium_Mar_28_2026-79_%28cropped%29.jpg",
+        "width": 3331,
+        "height": 4439,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/maxim-de-cuyper.jpg"
+      }
+    },
+    {
+      "slug": "brandon-mechele",
+      "display_name": "Brandon Mechele",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1993-01-28",
+      "age": 33,
+      "caps": 7,
+      "goals": 1,
+      "club_from_squad_table": "Club Brugge",
+      "wikipedia_title": "Brandon Mechele",
+      "date_of_birth": "1993-01-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Club Brugge",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q13444905",
+      "qid": "Q13444905",
+      "name": "Brandon Mechele",
+      "description": "Belgian association football player",
+      "place_of_birth_qid": "Q742920",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 81.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q190916",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        }
+      ],
+      "current_club_qid": "Q190916",
+      "image_filename": "Brandon Mechele Club Brugge.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brandon_Mechele",
+      "transfermarkt_id": "236168",
+      "fifa_player_id": "201131328",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Bredene",
+      "wikidata_current_club": "Club Brugge K.V.",
+      "wikidata_current_club_qid": "Q190916",
+      "photo": {
+        "filename": "Brandon Mechele Club Brugge.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Brandon_Mechele_Club_Brugge.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Brandon_Mechele_Club_Brugge.jpg",
+        "width": 380,
+        "height": 800,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:IndaloBlue&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:IndaloBlue (page does not exist)\">Michel Berix</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/brandon-mechele.jpg"
+      }
+    },
+    {
+      "slug": "koni-de-winter",
+      "display_name": "Koni De Winter",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2002-06-12",
+      "age": 23,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Milan",
+      "wikipedia_title": "Koni De Winter",
+      "date_of_birth": "2002-06-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Milan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q108200391",
+      "qid": "Q108200391",
+      "name": "Koni De Winter",
+      "description": "Belgian association football player",
+      "place_of_birth_qid": "Q12892",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 1.91,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1422",
+          "start": "2021-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q6703",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q2074",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q2074",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2025-08-13",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1543",
+      "image_filename": "Koni De Winter USMNT v Belgium Mar 28 2026-36 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Koni_De_Winter",
+      "transfermarkt_id": "490384",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Antwerp",
+      "wikidata_current_club": "AC Milan",
+      "wikidata_current_club_qid": "Q1543",
+      "photo": {
+        "filename": "Koni De Winter USMNT v Belgium Mar 28 2026-36 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Koni_De_Winter_USMNT_v_Belgium_Mar_28_2026-36_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Koni_De_Winter_USMNT_v_Belgium_Mar_28_2026-36_%28cropped%29.jpg/960px-Koni_De_Winter_USMNT_v_Belgium_Mar_28_2026-36_%28cropped%29.jpg",
+        "width": 3077,
+        "height": 4100,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/koni-de-winter.jpg"
+      }
+    },
+    {
+      "slug": "joaquin-seys",
+      "display_name": "Joaquin Seys",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2005-03-28",
+      "age": 21,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Club Brugge",
+      "wikipedia_title": "Joaquin Seys",
+      "date_of_birth": "2005-03-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Club Brugge",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q113510252",
+      "qid": "Q113510252",
+      "name": "Joaquin Seys",
+      "description": "Belgian footballer (born 2005)",
+      "place_of_birth_qid": "Q12996",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 1.78,
+      "image_filename": "FC Salzburg gegen Club Brügge (2025-08-06 Championsleague Qualifikation Dritte Runde) 63 (Joaquin Seys).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joaquin_Seys",
+      "transfermarkt_id": "981196",
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Ostend",
+      "photo": {
+        "filename": "FC Salzburg gegen Club Brügge (2025-08-06 Championsleague Qualifikation Dritte Runde) 63 (Joaquin Seys).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/FC_Salzburg_gegen_Club_Br%C3%BCgge_%282025-08-06_Championsleague_Qualifikation_Dritte_Runde%29_63_%28Joaquin_Seys%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/FC_Salzburg_gegen_Club_Br%C3%BCgge_%282025-08-06_Championsleague_Qualifikation_Dritte_Runde%29_63_%28Joaquin_Seys%29.jpg",
+        "width": 913,
+        "height": 1113,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/joaquin-seys.jpg"
+      }
+    },
+    {
+      "slug": "nathan-ngoy",
+      "display_name": "Nathan Ngoy",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-06-10",
+      "age": 23,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Lille",
+      "wikipedia_title": "Nathan Ngoy",
+      "date_of_birth": "2003-06-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lille",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107094087",
+      "qid": "Q107094087",
+      "name": "Nathan Ngoy",
+      "description": "Belgian association football player",
+      "place_of_birth_qid": "Q31",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 1.83,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nathan_Ngoy",
+      "transfermarkt_id": "548254",
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Belgium",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "axel-witsel",
+      "display_name": "Axel Witsel",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1989-01-12",
+      "age": 37,
+      "caps": 136,
+      "goals": 12,
+      "club_from_squad_table": "Girona",
+      "wikipedia_title": "Axel Witsel",
+      "date_of_birth": "1989-01-12",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Girona",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q151838",
+      "qid": "Q151838",
+      "name": "Axel Witsel",
+      "description": "Belgian association football player (born 1989)",
+      "place_of_birth_qid": "Q3992",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 81.0,
+      "position_qids": [
+        "Q18691898",
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q29108",
+          "start": "2012-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2011-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q190561",
+          "start": "2006-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2008-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3589895",
+          "start": "2005-01-01",
+          "end": "2006-01-01"
+        },
+        {
+          "team_qid": "Q15224541",
+          "start": "2006-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q3589896",
+          "start": "2006-01-01",
+          "end": "2006-01-01"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2007-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q30743865",
+          "start": "2004-01-01",
+          "end": "2004-01-01"
+        },
+        {
+          "team_qid": "Q23674710",
+          "start": "2005-01-01",
+          "end": "2005-01-01"
+        },
+        {
+          "team_qid": "Q552880",
+          "start": "2017-00-00",
+          "end": "2018-08-00"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2018-08-00",
+          "end": "2022-06-00"
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2022-07-00",
+          "end": "2025-07-00"
+        },
+        {
+          "team_qid": "Q11945",
+          "start": "2025-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q11945",
+      "image_filename": "Witsel celebrating bronze (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Axel_Witsel",
+      "transfermarkt_id": "35047",
+      "fifa_player_id": "290821",
+      "positions": [
+        "defensive midfielder",
+        "centre-back"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Liège",
+      "wikidata_current_club": "Girona FC",
+      "wikidata_current_club_qid": "Q11945",
+      "photo": {
+        "filename": "Witsel celebrating bronze (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Witsel_celebrating_bronze_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Witsel_celebrating_bronze_%28cropped%29.jpg",
+        "width": 459,
+        "height": 668,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Кирилл Венедиктов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/axel-witsel.jpg"
+      }
+    },
+    {
+      "slug": "kevin-de-bruyne",
+      "display_name": "Kevin De Bruyne",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1991-06-28",
+      "age": 34,
+      "caps": 117,
+      "goals": 36,
+      "club_from_squad_table": "Napoli",
+      "wikipedia_title": "Kevin De Bruyne",
+      "date_of_birth": "1991-06-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Napoli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q357984",
+      "qid": "Q357984",
+      "name": "Kevin De Bruyne",
+      "description": "Belgian association football player (born 1991)",
+      "place_of_birth_qid": "Q1260195",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 181.0,
+      "weight_kg": 76.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q216032",
+          "start": "2008-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2015-01-01",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q51976",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q101859",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2010-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q15224541",
+          "start": "2008-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q3589896",
+          "start": "2009-01-01",
+          "end": "2009-00-00"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2011-00-00",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q2641",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2641",
+      "image_filename": "Kevin De Bruyne USMNT v Belgium Mar 28 2026-64 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne",
+      "transfermarkt_id": "88755",
+      "fifa_player_id": "358120",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Drongen",
+      "wikidata_current_club": "SSC Napoli",
+      "wikidata_current_club_qid": "Q2641",
+      "photo": {
+        "filename": "Kevin De Bruyne USMNT v Belgium Mar 28 2026-64 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/960px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+        "width": 3093,
+        "height": 4122,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kevin-de-bruyne.jpg"
+      }
+    },
+    {
+      "slug": "youri-tielemans",
+      "display_name": "Youri Tielemans",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1997-05-07",
+      "age": 29,
+      "caps": 83,
+      "goals": 12,
+      "club_from_squad_table": "Aston Villa",
+      "wikipedia_title": "Youri Tielemans",
+      "date_of_birth": "1997-05-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Aston Villa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q14327453",
+      "qid": "Q14327453",
+      "name": "Youri Tielemans",
+      "description": "Belgian footballer (born 1997)",
+      "place_of_birth_qid": "Q688790",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 176.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q187528",
+          "start": "2013-07-01",
+          "end": "2017-07-01"
+        },
+        {
+          "team_qid": "Q4965058",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2013-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2016-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q180305",
+          "start": "2017-07-01",
+          "end": "2019-07-01"
+        },
+        {
+          "team_qid": "Q19481",
+          "start": "2019-01-31",
+          "end": "2019-06-30"
+        },
+        {
+          "team_qid": "Q19481",
+          "start": "2019-07-01",
+          "end": "2023-06-10"
+        },
+        {
+          "team_qid": "Q18711",
+          "start": "2023-06-10",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18711",
+      "image_filename": "Youri Tielemans 2019.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Youri_Tielemans",
+      "transfermarkt_id": "249565",
+      "fifa_player_id": "401444",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Sint-Pieters-Leeuw",
+      "wikidata_current_club": "Aston Villa F.C.",
+      "wikidata_current_club_qid": "Q18711",
+      "photo": {
+        "filename": "Youri Tielemans 2019.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Youri_Tielemans_2019.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Youri_Tielemans_2019.jpg",
+        "width": 666,
+        "height": 1000,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Кирилл Венедиктов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/youri-tielemans.jpg"
+      }
+    },
+    {
+      "slug": "hans-vanaken",
+      "display_name": "Hans Vanaken",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1992-08-24",
+      "age": 33,
+      "caps": 32,
+      "goals": 7,
+      "club_from_squad_table": "Club Brugge",
+      "wikipedia_title": "Hans Vanaken",
+      "date_of_birth": "1992-08-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Club Brugge",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q2359678",
+      "qid": "Q2359678",
+      "name": "Hans Vanaken",
+      "description": "Belgian footballer (born 1992)",
+      "place_of_birth_qid": "Q16481661",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 194.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1668203",
+          "start": "2010-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q221940",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q190916",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2018-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q190916",
+      "image_filename": "Hans Vanaken Lommel United.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hans_Vanaken",
+      "transfermarkt_id": "137576",
+      "fifa_player_id": "201194322",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Neerpelt",
+      "wikidata_current_club": "Club Brugge K.V.",
+      "wikidata_current_club_qid": "Q190916",
+      "photo": {
+        "filename": "Hans Vanaken Lommel United.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Hans_Vanaken_Lommel_United.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hans_Vanaken_Lommel_United.jpg/960px-Hans_Vanaken_Lommel_United.jpg",
+        "width": 1369,
+        "height": 2048,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sjepolleke02&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sjepolleke02 (page does not exist)\">Sjepolleke02</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/hans-vanaken.jpg"
+      }
+    },
+    {
+      "slug": "amadou-onana",
+      "display_name": "Amadou Onana",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-08-16",
+      "age": 24,
+      "caps": 27,
+      "goals": 1,
+      "club_from_squad_table": "Aston Villa",
+      "wikipedia_title": "Amadou Onana",
+      "date_of_birth": "2001-08-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Aston Villa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q99328435",
+      "qid": "Q99328435",
+      "name": "Amadou Onana",
+      "description": "Belgian association football player (born 2001)",
+      "place_of_birth_qid": "Q3718",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 192.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q51974",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q3589895",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q15224541",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q3589896",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19516",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q5794",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q18711",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18711",
+      "image_filename": "RC Lens - Lille OSC (17-09-2021) 9 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Amadou_Onana",
+      "transfermarkt_id": "485706",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Dakar",
+      "wikidata_current_club": "Aston Villa F.C.",
+      "wikidata_current_club_qid": "Q18711",
+      "photo": {
+        "filename": "RC Lens - Lille OSC (17-09-2021) 9 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/RC_Lens_-_Lille_OSC_%2817-09-2021%29_9_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/RC_Lens_-_Lille_OSC_%2817-09-2021%29_9_%28cropped%29.jpg/960px-RC_Lens_-_Lille_OSC_%2817-09-2021%29_9_%28cropped%29.jpg",
+        "width": 1500,
+        "height": 3136,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterhéninois (page does not exist)\">Supporterhéninois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/amadou-onana.jpg"
+      }
+    },
+    {
+      "slug": "nicolas-raskin",
+      "display_name": "Nicolas Raskin",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-02-23",
+      "age": 25,
+      "caps": 11,
+      "goals": 1,
+      "club_from_squad_table": "Rangers",
+      "wikipedia_title": "Nicolas Raskin",
+      "date_of_birth": "2001-02-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Rangers",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q48525779",
+      "qid": "Q48525779",
+      "name": "Nicolas Raskin",
+      "description": "Belgian association football player",
+      "place_of_birth_qid": "Q204547",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18232",
+          "start": "2017-07-01",
+          "end": "2019-01-22"
+        },
+        {
+          "team_qid": "Q190561",
+          "start": "2019-01-23",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q190561",
+      "image_filename": "Nicolas Raskin 2023.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas_Raskin",
+      "transfermarkt_id": "422763",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Waregem",
+      "wikidata_current_club": "Standard Liège",
+      "wikidata_current_club_qid": "Q190561",
+      "photo": {
+        "filename": "Nicolas Raskin 2023.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nicolas_Raskin_2023.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nicolas_Raskin_2023.jpg/960px-Nicolas_Raskin_2023.jpg",
+        "width": 2318,
+        "height": 3391,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Jim Easton",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nicolas-raskin.jpg"
+      }
+    },
+    {
+      "slug": "romelu-lukaku",
+      "display_name": "Romelu Lukaku",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1993-05-13",
+      "age": 33,
+      "caps": 124,
+      "goals": 89,
+      "club_from_squad_table": "Napoli",
+      "wikipedia_title": "Romelu Lukaku",
+      "date_of_birth": "1993-05-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Napoli",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q313316",
+      "qid": "Q313316",
+      "name": "Romelu Lukaku",
+      "description": "Belgian footballer (born 1993)",
+      "place_of_birth_qid": "Q12892",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 191.0,
+      "weight_kg": 93.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q187528",
+          "start": "2009-00-00",
+          "end": "2011-00-00"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2011-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q18744",
+          "start": "2012-00-00",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q5794",
+          "start": "2014-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2010-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2021-08-12",
+          "end": "2024-08-00"
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2022-06-00",
+          "end": "2023-06-30"
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2023-08-31",
+          "end": "2024-07-00"
+        },
+        {
+          "team_qid": "Q5794",
+          "start": "2013-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q2641",
+          "start": "2024-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q2641",
+      "image_filename": "Romelu Lukaku 2021.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Romelu_Lukaku",
+      "transfermarkt_id": "96341",
+      "fifa_player_id": "358112",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Antwerp",
+      "wikidata_current_club": "SSC Napoli",
+      "wikidata_current_club_qid": "Q2641",
+      "photo": {
+        "filename": "Romelu Lukaku 2021.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Romelu_Lukaku_2021.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Romelu_Lukaku_2021.jpg",
+        "width": 599,
+        "height": 879,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Vyacheslav Evdokimov",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/romelu-lukaku.jpg"
+      }
+    },
+    {
+      "slug": "leandro-trossard",
+      "display_name": "Leandro Trossard",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1994-12-04",
+      "age": 31,
+      "caps": 50,
+      "goals": 11,
+      "club_from_squad_table": "Arsenal",
+      "wikipedia_title": "Leandro Trossard",
+      "date_of_birth": "1994-12-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Arsenal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q6509762",
+      "qid": "Q6509762",
+      "name": "Leandro Trossard",
+      "description": "Belgian association football player (born 1994)",
+      "place_of_birth_qid": "Q329633",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 172.0,
+      "weight_kg": 61.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q216032",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1668203",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q849544",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1668203",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q916199",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3589895",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q3589896",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2020-09-05",
+          "end": null
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9617",
+      "image_filename": "Leandro Trossard 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leandro_Trossard",
+      "transfermarkt_id": "144028",
+      "fifa_player_id": "201048681",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Maasmechelen",
+      "wikidata_current_club": "Arsenal F.C.",
+      "wikidata_current_club_qid": "Q9617",
+      "photo": {
+        "filename": "Leandro Trossard 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Leandro_Trossard_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Leandro_Trossard_2022.jpg/960px-Leandro_Trossard_2022.jpg",
+        "width": 1766,
+        "height": 2842,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "jamesboyes",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/leandro-trossard.jpg"
+      }
+    },
+    {
+      "slug": "jérémy-doku",
+      "display_name": "Jérémy Doku",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2002-05-27",
+      "age": 24,
+      "caps": 41,
+      "goals": 7,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "Jérémy Doku",
+      "date_of_birth": "2002-05-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q59209505",
+      "qid": "Q59209505",
+      "name": "Jérémy Doku",
+      "description": "Belgian association football player (born 2002)",
+      "place_of_birth_qid": "Q12892",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 173.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q187528",
+          "start": "2019-07-01",
+          "end": "2020-10-04"
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2020-09-05",
+          "end": null
+        },
+        {
+          "team_qid": "Q19509",
+          "start": "2020-10-05",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q50602",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q30743865",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q23674710",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q3589895",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        }
+      ],
+      "current_club_qid": "Q50602",
+      "image_filename": "Jérémy Doku USMNT v Belgium Mar 28 2026-27 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9my_Doku",
+      "transfermarkt_id": "486049",
+      "fifa_player_id": "201791158",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Antwerp",
+      "wikidata_current_club": "Manchester City F.C.",
+      "wikidata_current_club_qid": "Q50602",
+      "photo": {
+        "filename": "Jérémy Doku USMNT v Belgium Mar 28 2026-27 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/J%C3%A9r%C3%A9my_Doku_USMNT_v_Belgium_Mar_28_2026-27_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/J%C3%A9r%C3%A9my_Doku_USMNT_v_Belgium_Mar_28_2026-27_%28cropped%29.jpg/960px-J%C3%A9r%C3%A9my_Doku_USMNT_v_Belgium_Mar_28_2026-27_%28cropped%29.jpg",
+        "width": 2763,
+        "height": 3683,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jérémy-doku.jpg"
+      }
+    },
+    {
+      "slug": "dodi-lukébakio",
+      "display_name": "Dodi Lukébakio",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1997-09-24",
+      "age": 28,
+      "caps": 29,
+      "goals": 5,
+      "club_from_squad_table": "Benfica",
+      "wikipedia_title": "Dodi Lukébakio",
+      "date_of_birth": "1997-09-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Benfica",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q21281344",
+      "qid": "Q21281344",
+      "name": "Dodi Lukebakio",
+      "description": "Belgian association football player (born 1997)",
+      "place_of_birth_qid": "Q515710",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q187528",
+          "start": "2015-10-25",
+          "end": "2018-01-29"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q19518",
+          "start": "2016-08-31",
+          "end": "2017-06-30"
+        },
+        {
+          "team_qid": "Q19585",
+          "start": "2017-07-02",
+          "end": "2018-01-28"
+        },
+        {
+          "team_qid": "Q19585",
+          "start": "2018-01-29",
+          "end": "2018-01-30"
+        },
+        {
+          "team_qid": "Q2714",
+          "start": "2018-01-30",
+          "end": null
+        },
+        {
+          "team_qid": "Q151747",
+          "start": "2018-07-22",
+          "end": "2019-06-30"
+        }
+      ],
+      "current_club_qid": "Q2714",
+      "image_filename": "Dodi Lukebakio 2021.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dodi_Luk%C3%A9bakio",
+      "transfermarkt_id": "303259",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Asse",
+      "wikidata_current_club": "Watford F.C.",
+      "wikidata_current_club_qid": "Q2714",
+      "photo": {
+        "filename": "Dodi Lukebakio 2021.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Dodi_Lukebakio_2021.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Dodi_Lukebakio_2021.jpg",
+        "width": 945,
+        "height": 2043,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dodi-lukébakio.jpg"
+      }
+    },
+    {
+      "slug": "charles-de-ketelaere",
+      "display_name": "Charles De Ketelaere",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-03-10",
+      "age": 25,
+      "caps": 28,
+      "goals": 5,
+      "club_from_squad_table": "Atalanta",
+      "wikipedia_title": "Charles De Ketelaere",
+      "date_of_birth": "2001-03-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atalanta",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q68607008",
+      "qid": "Q68607008",
+      "name": "Charles De Ketelaere",
+      "description": "Belgian association football player (born 2001)",
+      "place_of_birth_qid": "Q12994",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 1.92,
+      "position_qids": [
+        "Q1642283"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1543",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q23674710",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q190916",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1886",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q1886",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3589895",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q3589896",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1886",
+      "image_filename": "Charles De Ketelaere 2022 Salzburg vs AC Milan 2022-09-06.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_De_Ketelaere",
+      "transfermarkt_id": "435772",
+      "positions": [
+        "second striker"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Bruges",
+      "wikidata_current_club": "Atalanta BC",
+      "wikidata_current_club_qid": "Q1886",
+      "photo": {
+        "filename": "Charles De Ketelaere 2022 Salzburg vs AC Milan 2022-09-06.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Charles_De_Ketelaere_2022_Salzburg_vs_AC_Milan_2022-09-06.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Charles_De_Ketelaere_2022_Salzburg_vs_AC_Milan_2022-09-06.jpg",
+        "width": 424,
+        "height": 530,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Werner100359",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/charles-de-ketelaere.jpg"
+      }
+    },
+    {
+      "slug": "alexis-saelemaekers",
+      "display_name": "Alexis Saelemaekers",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-06-27",
+      "age": 26,
+      "caps": 23,
+      "goals": 2,
+      "club_from_squad_table": "Milan",
+      "wikipedia_title": "Alexis Saelemaekers",
+      "date_of_birth": "1999-06-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Milan",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q49166190",
+      "qid": "Q49166190",
+      "name": "Alexis Saelemaekers",
+      "description": "Belgian association football player",
+      "place_of_birth_qid": "Q272272",
+      "citizenship_qids": [
+        "Q31"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q187528",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q815515",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2020-01-31",
+          "end": "2020-06-30"
+        },
+        {
+          "team_qid": "Q1543",
+          "start": "2020-07-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1893",
+          "start": "2023-08-30",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q166776",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q3589896",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        }
+      ],
+      "current_club_qid": "Q1543",
+      "image_filename": "Alexis Saelemaekers USMNT v Belgium Mar 28 2026-13 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Saelemaekers",
+      "transfermarkt_id": "381950",
+      "fifa_player_id": "201771720",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Belgium"
+      ],
+      "place_of_birth": "Berchem-Sainte-Agathe",
+      "wikidata_current_club": "AC Milan",
+      "wikidata_current_club_qid": "Q1543",
+      "photo": {
+        "filename": "Alexis Saelemaekers USMNT v Belgium Mar 28 2026-13 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Alexis_Saelemaekers_USMNT_v_Belgium_Mar_28_2026-13_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alexis_Saelemaekers_USMNT_v_Belgium_Mar_28_2026-13_%28cropped%29.jpg/960px-Alexis_Saelemaekers_USMNT_v_Belgium_Mar_28_2026-13_%28cropped%29.jpg",
+        "width": 2756,
+        "height": 3672,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alexis-saelemaekers.jpg"
+      }
+    },
+    {
+      "slug": "diego-moreira",
+      "display_name": "Diego Moreira",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2004-08-06",
+      "age": 21,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Strasbourg",
+      "wikipedia_title": "Diego Moreira",
+      "date_of_birth": "2004-08-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Strasbourg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110616805",
+      "qid": "Q110616805",
+      "name": "Diego Moreira",
+      "description": "Belgian association football player (born 2004)",
+      "place_of_birth_qid": "Q3992",
+      "citizenship_qids": [
+        "Q31",
+        "Q45"
+      ],
+      "height_cm": 1.79,
+      "image_filename": "Diego Moreira.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_Moreira",
+      "transfermarkt_id": "655006",
+      "citizenship": [
+        "Belgium",
+        "Portugal"
+      ],
+      "place_of_birth": "Liège",
+      "photo": {
+        "filename": "Diego Moreira.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Diego_Moreira.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Diego_Moreira.jpg",
+        "width": 639,
+        "height": 728,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Sport Lisboa e Benfica",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/diego-moreira.jpg"
+      }
+    },
+    {
+      "slug": "matias-fernandez-pardo",
+      "display_name": "Matias Fernandez-Pardo",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2005-02-03",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Lille",
+      "wikipedia_title": "Matias Fernandez-Pardo",
+      "date_of_birth": "2005-02-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lille",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117041294",
+      "qid": "Q117041294",
+      "name": "Matias Fernandez-Pardo",
+      "description": "Belgian association football player (born 2005)",
+      "place_of_birth_qid": "Q239",
+      "citizenship_qids": [
+        "Q31",
+        "Q29"
+      ],
+      "height_cm": 1.88,
+      "image_filename": "Pardo asselosc 2425 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Matias_Fernandez-Pardo",
+      "transfermarkt_id": "724129",
+      "citizenship": [
+        "Belgium",
+        "Spain"
+      ],
+      "place_of_birth": "Brussels",
+      "photo": {
+        "filename": "Pardo asselosc 2425 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Pardo_asselosc_2425_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Pardo_asselosc_2425_%28cropped%29.jpg",
+        "width": 554,
+        "height": 733,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/matias-fernandez-pardo.jpg"
+      }
+    }
+  ],
+  "notes": [
+    "Belgium row/QID/photo audit 2026-05-24: verifier confirmed all 26 squad-table rows and QID identities. Mike Penders and Nathan Ngoy had no clean Wikimedia portrait, P18 image, or pageimage and are marked reviewed-none; Wikidata-only club conflicts are stale/alias data while squad-table clubs remain canonical."
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "c\u00e9sar-blackman",
+  "display_name": "C\u00e9sar Blackman",
+  "shirt_no": 2,
+  "position_code": "DF",
+  "dob": "1998-04-02",
+  "age": 28,
+  "caps": 37,
+  "goals": 3,
+  "club_from_squad_table": "Slovan Bratislava",
+  "wikipedia_title": "C\u00e9sar Blackman",
+  "date_of_birth": "1998-04-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Slovan Bratislava",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q51331558",
+  "qid": "Q51331558",
+  "name": "Cesar Blackman",
+  "description": "association football player",
+  "place_of_birth_qid": "Q3306",
+  "citizenship_qids": [
+    "Q804"
+  ],
+  "height_cm": 174.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q841378",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q192253",
+  "image_filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 153.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Blackman",
+  "transfermarkt_id": "440383",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Panama"
+  ],
+  "place_of_birth": "Panama City",
+  "wikidata_current_club": "FC DAC 1904 Dunajsk\u00e1 Streda",
+  "wikidata_current_club_qid": "Q841378",
+  "photo": {
+    "filename": "Partido Galicia - Panam\u00e1 en Bala\u00eddos 153.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_153.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_153.jpg/960px-Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_153.jpg",
+    "width": 1906,
+    "height": 3336,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Estevoaei\" title=\"User:Estevoaei\">Estevoaei</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/c\u00e9sar-blackman.jpg"
+  },
+  "team_slug": "panama",
+  "team_country": "Panama"
+}

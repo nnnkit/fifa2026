@@ -1,0 +1,56 @@
+{
+  "slug": "willer-ditta",
+  "display_name": "Willer Ditta",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-01-23",
+  "age": 29,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Cruz Azul",
+  "wikipedia_title": "Willer Ditta",
+  "date_of_birth": "1997-01-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Cruz Azul",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q79880395",
+  "qid": "Q79880395",
+  "name": "Willer Ditta",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q950053",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 180.0,
+  "teams": [
+    {
+      "team_qid": "Q332524",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q332524",
+  "image_filename": "Willer Ditta en Newell's Old Boys.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Willer_Ditta",
+  "transfermarkt_id": "609255",
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "La Jagua de Ibirico",
+  "wikidata_current_club": "Junior de Barranquilla",
+  "wikidata_current_club_qid": "Q332524",
+  "photo": {
+    "filename": "Willer Ditta en Newell's Old Boys.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Willer_Ditta_en_Newell%27s_Old_Boys.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Willer_Ditta_en_Newell%27s_Old_Boys.jpg",
+    "width": 681,
+    "height": 720,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCezBCgae0PUa3JS9uG0ah3Q\">Newell's Old Boys</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/willer-ditta.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

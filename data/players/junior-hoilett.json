@@ -1,0 +1,114 @@
+{
+  "slug": "junior-hoilett",
+  "display_name": "Junior Hoilett",
+  "shirt_no": 10,
+  "position_code": "MF",
+  "dob": "1990-06-05",
+  "age": 35,
+  "caps": 69,
+  "goals": 17,
+  "club_from_squad_table": "Swindon Town",
+  "wikipedia_title": "Junior Hoilett",
+  "wikidata_qid": "Q376313",
+  "qid": "Q376313",
+  "name": "Junior Hoilett",
+  "description": "Canadian soccer player",
+  "date_of_birth": "1990-06-05",
+  "place_of_birth_qid": "Q44198",
+  "citizenship_qids": [
+    "Q16"
+  ],
+  "height_cm": 174.0,
+  "weight_kg": 67.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19446",
+      "start": "2007-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q160532",
+      "start": "2007-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "team_qid": "Q6463",
+      "start": "2008-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q18723",
+      "start": "2012-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q208635",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q18662",
+      "start": "2016-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q18729",
+      "start": "2021-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q196107",
+      "start": "2023-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q187326",
+      "start": "2024-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q192597",
+      "start": "2024-00-00",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q19634",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19634",
+  "image_filename": "David Hoilett WC2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Junior_Hoilett",
+  "transfermarkt_id": "58993",
+  "fifa_player_id": "392850",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Swindon Town",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Canada"
+  ],
+  "place_of_birth": "Brampton",
+  "wikidata_current_club": "Swindon Town F.C.",
+  "wikidata_current_club_qid": "Q19634",
+  "photo": {
+    "filename": "David Hoilett WC2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/David_Hoilett_WC2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/David_Hoilett_WC2022.jpg",
+    "width": 720,
+    "height": 993,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/junior-hoilett.jpg"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

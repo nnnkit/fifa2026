@@ -1,0 +1,94 @@
+{
+  "slug": "florian-wirtz",
+  "display_name": "Florian Wirtz",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2003-05-03",
+  "age": 23,
+  "caps": 39,
+  "goals": 10,
+  "club_from_squad_table": "Liverpool",
+  "wikipedia_title": "Florian Wirtz",
+  "date_of_birth": "2003-05-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Liverpool",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q94699949",
+  "qid": "Q94699949",
+  "name": "Florian Wirtz",
+  "description": "German association football player (born 2003)",
+  "place_of_birth_qid": "Q4113",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 176.0,
+  "weight_kg": 71.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q104761",
+      "start": "2020-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q113136",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1202759",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q319699",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q314851",
+      "start": "2020-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q43310",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1130849",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1130849",
+  "image_filename": "Florian Wirtz 04012026 (3) (extracted).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Florian_Wirtz",
+  "transfermarkt_id": "598577",
+  "fifa_player_id": "400125062",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Pulheim",
+  "wikidata_current_club": "Liverpool F.C.",
+  "wikidata_current_club_qid": "Q1130849",
+  "photo": {
+    "filename": "Florian Wirtz 04012026 (3) (extracted).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Florian_Wirtz_04012026_%283%29_%28extracted%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Florian_Wirtz_04012026_%283%29_%28extracted%29.jpg/960px-Florian_Wirtz_04012026_%283%29_%28extracted%29.jpg",
+    "width": 1204,
+    "height": 1801,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/florian-wirtz.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

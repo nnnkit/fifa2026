@@ -1,0 +1,99 @@
+{
+  "slug": "erling-haaland",
+  "display_name": "Erling Haaland",
+  "shirt_no": 9,
+  "position_code": "FW",
+  "dob": "2000-07-21",
+  "age": 25,
+  "caps": 49,
+  "goals": 55,
+  "club_from_squad_table": "Manchester City",
+  "wikipedia_title": "Erling Haaland",
+  "date_of_birth": "2000-07-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28967995",
+  "qid": "Q28967995",
+  "name": "Erling Haaland",
+  "description": "Norwegian association football player (born 2000)",
+  "place_of_birth_qid": "Q39121",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 194.0,
+  "weight_kg": 87.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q995313",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q208552",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q994811",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q41420",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873545",
+      "start": "2019-03-23",
+      "end": "2019-05-30"
+    },
+    {
+      "team_qid": "Q2446294",
+      "start": "2018-09-11",
+      "end": "2018-10-16"
+    },
+    {
+      "team_qid": "Q184387",
+      "start": "2019-09-05",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q50602",
+  "image_filename": "Erling Haaland June 2025.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Erling_Haaland",
+  "transfermarkt_id": "418560",
+  "fifa_player_id": "201486226",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "Leeds",
+  "wikidata_current_club": "Manchester City F.C.",
+  "wikidata_current_club_qid": "Q50602",
+  "photo": {
+    "filename": "Erling Haaland June 2025.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Erling_Haaland_June_2025.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Erling_Haaland_June_2025.jpg/960px-Erling_Haaland_June_2025.jpg",
+    "width": 3087,
+    "height": 4172,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/erling-haaland.jpg"
+  },
+  "team_slug": "norway",
+  "team_country": "Norway"
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "carlos-acevedo",
+  "display_name": "Carlos Acevedo",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1996-04-19",
+  "age": 30,
+  "caps": 7,
+  "goals": 0,
+  "club_from_squad_table": "Santos Laguna",
+  "wikipedia_title": "Carlos Acevedo",
+  "wikidata_qid": "Q26707107",
+  "qid": "Q26707107",
+  "name": "Carlos Acevedo",
+  "description": "Mexican association football player (b. 1996)",
+  "date_of_birth": "1996-04-19",
+  "place_of_birth_qid": "Q386991",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q745246",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q745246",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Acevedo",
+  "transfermarkt_id": "356042",
+  "current_club": "Santos Laguna",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Torreón",
+  "image_filename": "Carlos_Acevedo.png",
+  "photo": {
+    "filename": "Carlos_Acevedo.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Carlos_Acevedo.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Carlos_Acevedo.png",
+    "width": 498,
+    "height": 622,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/carlos-acevedo.png"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

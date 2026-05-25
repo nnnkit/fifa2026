@@ -1,0 +1,125 @@
+{
+  "slug": "milo\u0161-degenek",
+  "display_name": "Milo\u0161 Degenek",
+  "shirt_no": 2,
+  "position_code": "DF",
+  "dob": "1994-04-28",
+  "age": 32,
+  "caps": 56,
+  "goals": 1,
+  "club_from_squad_table": "APOEL",
+  "wikipedia_title": "Milo\u0161 Degenek",
+  "date_of_birth": "1994-04-28",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "APOEL",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q14309492",
+  "qid": "Q14309492",
+  "name": "Milo\u0161 Degenek",
+  "description": "Australian association football player",
+  "place_of_birth_qid": "Q208514",
+  "citizenship_qids": [
+    "Q408"
+  ],
+  "height_cm": 187.0,
+  "weight_kg": 80.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q4512",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q107421",
+      "start": "2013-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q131603",
+      "start": "2015-01-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q3589754",
+      "start": "2009-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q953632",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q3589775",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q268208",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q854932",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q173009",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q73965",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q173009",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q457163",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q173009",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q173009",
+  "image_filename": "Milos degenek.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Milo%C5%A1_Degenek",
+  "transfermarkt_id": "187353",
+  "fifa_player_id": "331149",
+  "uefa_player_id": "23278",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Australia"
+  ],
+  "place_of_birth": "Knin",
+  "wikidata_current_club": "FK Crvena zvezda",
+  "wikidata_current_club_qid": "Q173009",
+  "photo": {
+    "filename": "Milos degenek.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Milos_degenek.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Milos_degenek.jpg",
+    "width": 441,
+    "height": 600,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">jeollo von http://www.vfb-exklusiv.de</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/milo\u0161-degenek.jpg"
+  },
+  "team_slug": "australia",
+  "team_country": "Australia"
+}

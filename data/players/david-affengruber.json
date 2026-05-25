@@ -1,0 +1,62 @@
+{
+  "slug": "david-affengruber",
+  "display_name": "David Affengruber",
+  "shirt_no": 2,
+  "position_code": "DF",
+  "dob": "2001-03-19",
+  "age": 25,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Elche",
+  "wikipedia_title": "David Affengruber (footballer, born 2001)",
+  "date_of_birth": "2001-03-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Elche",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q65948590",
+  "qid": "Q65948590",
+  "name": "David Affengruber",
+  "description": "Austrian footballer",
+  "place_of_birth_qid": "Q280450",
+  "citizenship_qids": [
+    "Q40"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1387293",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1387293",
+  "image_filename": "FC Liefering versus Young Violets Austria Wien (30. August 2019) 28.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_Affengruber_(footballer,_born_2001)",
+  "transfermarkt_id": "452483",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Austria"
+  ],
+  "place_of_birth": "Scheibbs",
+  "wikidata_current_club": "FC Liefering",
+  "wikidata_current_club_qid": "Q1387293",
+  "photo": {
+    "filename": "FC Liefering versus Young Violets Austria Wien (30. August 2019) 28.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FC_Liefering_versus_Young_Violets_Austria_Wien_%2830._August_2019%29_28.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FC_Liefering_versus_Young_Violets_Austria_Wien_%2830._August_2019%29_28.jpg/960px-FC_Liefering_versus_Young_Violets_Austria_Wien_%2830._August_2019%29_28.jpg",
+    "width": 2081,
+    "height": 2424,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/david-affengruber.jpg"
+  },
+  "team_slug": "austria",
+  "team_country": "Austria"
+}

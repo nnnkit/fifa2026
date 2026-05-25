@@ -1,0 +1,45 @@
+{
+  "slug": "mohamed-koné",
+  "display_name": "Mohamed Koné",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2002-03-07",
+  "age": 24,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Charleroi",
+  "wikipedia_title": "Mohamed Koné (footballer, born 2002)",
+  "date_of_birth": "2002-03-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Charleroi",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q126365092",
+  "qid": "Q126365092",
+  "name": "Mohamed Koné",
+  "description": "Ivorian footballer (born 2002)",
+  "place_of_birth_qid": "Q357695",
+  "citizenship_qids": [
+    "Q1008",
+    "Q142"
+  ],
+  "height_cm": 186.0,
+  "position_qids": [
+    "Q172964"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Kon%C3%A9_(footballer,_born_2002)",
+  "transfermarkt_id": "911985",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Ivory Coast",
+    "France"
+  ],
+  "place_of_birth": "Adjamé",
+  "team_slug": "ivory-coast",
+  "team_country": "Ivory Coast",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

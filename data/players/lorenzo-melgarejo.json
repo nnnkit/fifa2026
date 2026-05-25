@@ -1,0 +1,119 @@
+{
+  "slug": "lorenzo-melgarejo",
+  "display_name": "Lorenzo Melgarejo",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1990-08-10",
+  "age": 35,
+  "caps": 5,
+  "goals": 0,
+  "club_from_squad_table": "Libertad",
+  "wikipedia_title": "Lorenzo Melgarejo",
+  "date_of_birth": "1990-08-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Libertad",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q963953",
+  "qid": "Q963953",
+  "name": "Lorenzo Melgarejo",
+  "description": "Paraguayan footballer",
+  "place_of_birth_qid": "Q2411023",
+  "citizenship_qids": [
+    "Q733"
+  ],
+  "height_cm": 171.0,
+  "weight_kg": 61.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q29103",
+      "start": "2013-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q1900225",
+      "start": "2009-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q604589",
+      "start": "2010-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q602815",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q131499",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q371136",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q7387221",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q29112",
+      "start": "2016-02-08",
+      "end": null
+    },
+    {
+      "team_qid": "Q3328932",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q172020",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q131499",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q3328932",
+      "start": "2009-01-01",
+      "end": "2009-01-01"
+    }
+  ],
+  "current_club_qid": "Q29112",
+  "image_filename": "Lorenzo Melgarejo 2012.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lorenzo_Melgarejo",
+  "transfermarkt_id": "127822",
+  "fifa_player_id": "314107",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Paraguay"
+  ],
+  "place_of_birth": "Loma Grande District",
+  "wikidata_current_club": "Spartak Moscow",
+  "wikidata_current_club_qid": "Q29112",
+  "photo": {
+    "filename": "Lorenzo Melgarejo 2012.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lorenzo_Melgarejo_2012.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lorenzo_Melgarejo_2012.jpg",
+    "width": 758,
+    "height": 666,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Садовников Дмитрий",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lorenzo-melgarejo.jpg"
+  },
+  "team_slug": "paraguay",
+  "team_country": "Paraguay"
+}

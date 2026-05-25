@@ -1,0 +1,1698 @@
+{
+  "slug": "tunisia",
+  "country": "Tunisia",
+  "wikidata_qid": "Q27971",
+  "fetched_at": "2026-05-24T15:43:43+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "aymen-dahmen",
+      "display_name": "Aymen Dahmen",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1997-01-28",
+      "age": 29,
+      "caps": 37,
+      "goals": 0,
+      "club_from_squad_table": "CS Sfaxien",
+      "wikipedia_title": "Aymen Dahmen",
+      "date_of_birth": "1997-01-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "CS Sfaxien",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64520753",
+      "qid": "Q64520753",
+      "name": "Aymen Dahmen",
+      "description": "Tunisian association football player",
+      "place_of_birth_qid": "Q46325",
+      "citizenship_qids": [
+        "Q948"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1024482",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q27971",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1024482",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aymen_Dahmen",
+      "transfermarkt_id": "569433",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Tunisia"
+      ],
+      "place_of_birth": "Sfax",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "sabri-ben-hessen",
+      "display_name": "Sabri Ben Hessen",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1996-06-13",
+      "age": 29,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Étoile du Sahel",
+      "wikipedia_title": "Sabri Ben Hessen",
+      "date_of_birth": "1996-06-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Étoile du Sahel",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q139815184",
+      "qid": "Q139815184",
+      "name": "Sabri Ben Hessen",
+      "description": "Tunisian footballer (born 1996)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sabri_Ben_Hessen",
+      "photo": {
+        "filename": "Sab16.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sab16.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sab16.png",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:GrzMohamed&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:GrzMohamed (page does not exist)\">GrzMohamed</a>",
+        "source": "commons-verifier-found",
+        "local_path": "data/photos/sabri-ben-hessen.png",
+        "identity_note": "Commons description uses variant spelling Sabri Ben Hassen; verifier matched to Sabri Ben Hessen on 2026-05-24."
+      }
+    },
+    {
+      "slug": "mouhib-chamakh",
+      "display_name": "Mouhib Chamakh",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2001-08-25",
+      "age": 24,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Club Africain",
+      "wikipedia_title": "Mouhib Chamakh",
+      "date_of_birth": "2001-08-25",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Club Africain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q139815346",
+      "qid": "Q139815346",
+      "name": "Mouhib Chamakh",
+      "description": "Tunisian footballer (born 2001)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mouhib_Chamakh",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "montassar-talbi",
+      "display_name": "Montassar Talbi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-05-26",
+      "age": 28,
+      "caps": 62,
+      "goals": 4,
+      "club_from_squad_table": "Lorient",
+      "wikipedia_title": "Montassar Talbi",
+      "date_of_birth": "1998-05-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lorient",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30118244",
+      "qid": "Q30118244",
+      "name": "Montassar Talbi",
+      "description": "Tunisian association football player",
+      "place_of_birth_qid": "Q90",
+      "citizenship_qids": [
+        "Q142",
+        "Q948"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q44897",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q272712",
+          "start": "2018-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q652516",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q170040",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q48911",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q27971",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q48911",
+      "image_filename": "Montassar Talbi 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Montassar_Talbi",
+      "transfermarkt_id": "496706",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "France",
+        "Tunisia"
+      ],
+      "place_of_birth": "Paris",
+      "wikidata_current_club": "F.C. Lorient",
+      "wikidata_current_club_qid": "Q48911",
+      "photo": {
+        "filename": "Montassar Talbi 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Montassar_Talbi_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Montassar_Talbi_2022.jpg",
+        "width": 472,
+        "height": 777,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Антон Зайцев",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/montassar-talbi.jpg"
+      }
+    },
+    {
+      "slug": "dylan-bronn",
+      "display_name": "Dylan Bronn",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1995-06-19",
+      "age": 30,
+      "caps": 52,
+      "goals": 2,
+      "club_from_squad_table": "Servette",
+      "wikipedia_title": "Dylan Bronn",
+      "date_of_birth": "1995-06-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Servette",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26405549",
+      "qid": "Q26405549",
+      "name": "Dylan Bronn",
+      "description": "Tunisian and French association football player",
+      "place_of_birth_qid": "Q39984",
+      "citizenship_qids": [
+        "Q948",
+        "Q142"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 76.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q27971",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q18232",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18232",
+      "image_filename": "Dylan Bronn.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dylan_Bronn",
+      "transfermarkt_id": "450417",
+      "fifa_player_id": "411653",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Tunisia",
+        "France"
+      ],
+      "place_of_birth": "Cannes",
+      "wikidata_current_club": "KAA Gent",
+      "wikidata_current_club_qid": "Q18232",
+      "photo": {
+        "filename": "Dylan Bronn.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Dylan_Bronn.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Dylan_Bronn.jpg",
+        "width": 221,
+        "height": 246,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Дмитрий Садовников",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dylan-bronn.jpg"
+      }
+    },
+    {
+      "slug": "ali-abdi",
+      "display_name": "Ali Abdi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1993-12-20",
+      "age": 32,
+      "caps": 45,
+      "goals": 7,
+      "club_from_squad_table": "Nice",
+      "wikipedia_title": "Ali Abdi (footballer)",
+      "date_of_birth": "1993-12-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nice",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q17350507",
+      "qid": "Q17350507",
+      "name": "Ali Abdi",
+      "description": "Tunisian association football player",
+      "place_of_birth_qid": "Q46325",
+      "citizenship_qids": [
+        "Q948"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q44897",
+          "start": "2012-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q1851954",
+          "start": "2014-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q374632",
+          "start": null,
+          "end": "2011-00-00"
+        },
+        {
+          "team_qid": "Q1688574",
+          "start": "2011-00-00",
+          "end": "2012-00-00"
+        },
+        {
+          "team_qid": "Q1102938",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1051013",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q193377",
+          "start": "2021-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q27971",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q109506285",
+          "start": "2021-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q185163",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q185163",
+      "image_filename": "Abdi asse ogcn 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Abdi_(footballer)",
+      "transfermarkt_id": "211474",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Tunisia"
+      ],
+      "place_of_birth": "Sfax",
+      "wikidata_current_club": "OGC Nice",
+      "wikidata_current_club_qid": "Q185163",
+      "photo": {
+        "filename": "Abdi asse ogcn 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Abdi_asse_ogcn_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Abdi_asse_ogcn_2425.png",
+        "width": 574,
+        "height": 895,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ali-abdi.png"
+      }
+    },
+    {
+      "slug": "yan-valery",
+      "display_name": "Yan Valery",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-02-22",
+      "age": 27,
+      "caps": 21,
+      "goals": 0,
+      "club_from_squad_table": "Young Boys",
+      "wikipedia_title": "Yan Valery",
+      "date_of_birth": "1999-02-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Young Boys",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q59268317",
+      "qid": "Q59268317",
+      "name": "Yan Valery",
+      "description": "Tunisian-French footballer (born 1999)",
+      "place_of_birth_qid": "Q192378",
+      "citizenship_qids": [
+        "Q142",
+        "Q948"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18732",
+          "start": "2018-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18732",
+      "image_filename": "Sheffield Wednesday's Starting Eleven 18102025 (1) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yan_Valery",
+      "transfermarkt_id": "406008",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "France",
+        "Tunisia"
+      ],
+      "place_of_birth": "Champigny-sur-Marne",
+      "wikidata_current_club": "Southampton F.C.",
+      "wikidata_current_club_qid": "Q18732",
+      "photo": {
+        "filename": "Sheffield Wednesday's Starting Eleven 18102025 (1) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sheffield_Wednesday%27s_Starting_Eleven_18102025_%281%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sheffield_Wednesday%27s_Starting_Eleven_18102025_%281%29_%28cropped%29.jpg",
+        "width": 457,
+        "height": 673,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/yan-valery.jpg"
+      }
+    },
+    {
+      "slug": "mohamed-amine-ben-hamida",
+      "display_name": "Mohamed Amine Ben Hamida",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1995-12-15",
+      "age": 30,
+      "caps": 12,
+      "goals": 0,
+      "club_from_squad_table": "Espérance de Tunis",
+      "wikipedia_title": "Mohamed Amine Ben Hamida",
+      "date_of_birth": "1995-12-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Espérance de Tunis",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q101064617",
+      "qid": "Q101064617",
+      "name": "Mohamed Amine Ben Hmida",
+      "description": "Tunisian association football player",
+      "place_of_birth_qid": "Q3572",
+      "citizenship_qids": [
+        "Q948"
+      ],
+      "height_cm": 181.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q44897",
+          "start": "2016-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1530211",
+          "start": "2016-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q56301186",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q27971",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q44897",
+      "image_filename": "Mohamed Amine Ben Hmida.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Amine_Ben_Hamida",
+      "transfermarkt_id": "454495",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Tunisia"
+      ],
+      "place_of_birth": "Tunis",
+      "wikidata_current_club": "Espérance Sportive de Tunis",
+      "wikidata_current_club_qid": "Q44897",
+      "photo": {
+        "filename": "Mohamed Amine Ben Hmida.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Mohamed_Amine_Ben_Hmida.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Mohamed_Amine_Ben_Hmida.jpg",
+        "width": 717,
+        "height": 709,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Bahbouhe\" title=\"User:Bahbouhe\">Bahbouhe</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mohamed-amine-ben-hamida.jpg"
+      }
+    },
+    {
+      "slug": "moutaz-neffati",
+      "display_name": "Moutaz Neffati",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-09-04",
+      "age": 21,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "IFK Norrköping",
+      "wikipedia_title": "Moutaz Neffati",
+      "date_of_birth": "2004-09-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "IFK Norrköping",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q123436577",
+      "qid": "Q123436577",
+      "name": "Moutaz Neffati",
+      "description": "Swedish association football player",
+      "citizenship_qids": [
+        "Q948",
+        "Q34"
+      ],
+      "height_cm": 175.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q108001798",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q115578065",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q108001798",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Moutaz_Neffati",
+      "transfermarkt_id": "1034598",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Tunisia",
+        "Sweden"
+      ],
+      "wikidata_current_club": "IFK Norrköping FK",
+      "wikidata_current_club_qid": "Q108001798",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "omar-rekik",
+      "display_name": "Omar Rekik",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-12-20",
+      "age": 24,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Maribor",
+      "wikipedia_title": "Omar Rekik",
+      "date_of_birth": "2001-12-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Maribor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q96678415",
+      "qid": "Q96678415",
+      "name": "Omar Rekik",
+      "description": "Dutch-Tunisian association football player",
+      "place_of_birth_qid": "Q9844",
+      "citizenship_qids": [
+        "Q29999",
+        "Q948"
+      ],
+      "height_cm": 186.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q920263",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2021-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q209895",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q27971",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18750",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q219235",
+          "start": "2024-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q210530",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q210530",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Omar_Rekik",
+      "transfermarkt_id": "578292",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Kingdom of the Netherlands",
+        "Tunisia"
+      ],
+      "place_of_birth": "Helmond",
+      "wikidata_current_club": "NK Maribor",
+      "wikidata_current_club_qid": "Q210530",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "adem-arous",
+      "display_name": "Adem Arous",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-07-17",
+      "age": 21,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Kasımpaşa",
+      "wikipedia_title": "Adem Arous",
+      "date_of_birth": "2004-07-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Kasımpaşa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q136092007",
+      "qid": "Q136092007",
+      "name": "Adem Arous",
+      "description": "Tunisian association football player (born 2004)",
+      "place_of_birth_qid": "Q35484",
+      "citizenship_qids": [
+        "Q948"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Adem_Arous",
+      "transfermarkt_id": "1071742",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Tunisia"
+      ],
+      "place_of_birth": "Medina",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "raed-chikhaoui",
+      "display_name": "Raed Chikhaoui",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-06-09",
+      "age": 22,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "US Monastir",
+      "wikipedia_title": "Raed Chikhaoui",
+      "date_of_birth": "2004-06-09",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "US Monastir",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q139816192",
+      "qid": "Q139816192",
+      "name": "Raed Chikhaoui",
+      "description": "Tunisian footballer (born 2001)",
+      "place_of_birth_qid": "Q3100259",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Raed_Chikhaoui",
+      "transfermarkt_id": "1075790",
+      "place_of_birth": "Sakiet Ezzit",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "ellyes-skhiri",
+      "display_name": "Ellyes Skhiri",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1995-05-10",
+      "age": 31,
+      "caps": 81,
+      "goals": 4,
+      "club_from_squad_table": "Eintracht Frankfurt",
+      "wikipedia_title": "Ellyes Skhiri",
+      "date_of_birth": "1995-05-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Eintracht Frankfurt",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20641500",
+      "qid": "Q20641500",
+      "name": "Ellyes Skhiri",
+      "description": "Tunisian and French association football player",
+      "place_of_birth_qid": "Q318082",
+      "citizenship_qids": [
+        "Q142",
+        "Q948"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 69.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19513",
+          "start": "2015-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q11898577",
+          "start": "2014-01-01",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q27971",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q109502769",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q104770",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q38245",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q38245",
+      "image_filename": "2021-08-08 FC Carl Zeiss Jena gegen 1. FC Köln (DFB-Pokal) by Sandro Halank–182.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ellyes_Skhiri",
+      "transfermarkt_id": "290587",
+      "fifa_player_id": "411658",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France",
+        "Tunisia"
+      ],
+      "place_of_birth": "Lunel",
+      "photo": {
+        "filename": "2021-08-08 FC Carl Zeiss Jena gegen 1. FC Köln (DFB-Pokal) by Sandro Halank–182.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/2021-08-08_FC_Carl_Zeiss_Jena_gegen_1._FC_K%C3%B6ln_%28DFB-Pokal%29_by_Sandro_Halank%E2%80%93182.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2021-08-08_FC_Carl_Zeiss_Jena_gegen_1._FC_K%C3%B6ln_%28DFB-Pokal%29_by_Sandro_Halank%E2%80%93182.jpg/960px-2021-08-08_FC_Carl_Zeiss_Jena_gegen_1._FC_K%C3%B6ln_%28DFB-Pokal%29_by_Sandro_Halank%E2%80%93182.jpg",
+        "width": 3234,
+        "height": 2734,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sandro_Halank\" title=\"User:Sandro Halank\">Sandro Halank</a>, Wikimedia Commons",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ellyes-skhiri.jpg"
+      }
+    },
+    {
+      "slug": "hannibal-mejbri",
+      "display_name": "Hannibal Mejbri",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-01-21",
+      "age": 23,
+      "caps": 44,
+      "goals": 1,
+      "club_from_squad_table": "Burnley",
+      "wikipedia_title": "Hannibal Mejbri",
+      "date_of_birth": "2003-01-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Burnley",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q96755704",
+      "qid": "Q96755704",
+      "name": "Hannibal Mejbri",
+      "description": "Tunisian-French footballer (born 2003)",
+      "place_of_birth_qid": "Q193877",
+      "citizenship_qids": [
+        "Q142",
+        "Q948"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18656",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q19444",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q3590033",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1450568",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q27971",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18656",
+      "image_filename": "Hannibal Mejbri 26042025 (1).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hannibal_Mejbri",
+      "transfermarkt_id": "607224",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France",
+        "Tunisia"
+      ],
+      "place_of_birth": "Ivry-sur-Seine",
+      "wikidata_current_club": "Manchester United F.C.",
+      "wikidata_current_club_qid": "Q18656",
+      "photo": {
+        "filename": "Hannibal Mejbri 26042025 (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hannibal_Mejbri_26042025_%281%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hannibal_Mejbri_26042025_%281%29.jpg/960px-Hannibal_Mejbri_26042025_%281%29.jpg",
+        "width": 1009,
+        "height": 1559,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Timmy96\" title=\"User:Timmy96\">Timmy96</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/hannibal-mejbri.jpg"
+      }
+    },
+    {
+      "slug": "anis-ben-slimane",
+      "display_name": "Anis Ben Slimane",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-03-16",
+      "age": 25,
+      "caps": 39,
+      "goals": 4,
+      "club_from_squad_table": "Norwich City",
+      "wikipedia_title": "Anis Ben Slimane",
+      "date_of_birth": "2001-03-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Norwich City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q85410990",
+      "qid": "Q85410990",
+      "name": "Anis Ben Slimane",
+      "description": "Tunisian and Danish association football player",
+      "place_of_birth_qid": "Q1748",
+      "citizenship_qids": [
+        "Q948",
+        "Q756617"
+      ],
+      "height_cm": 188.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q17482142",
+          "start": "2019-01-01",
+          "end": "2019-07-01"
+        },
+        {
+          "team_qid": "Q211906",
+          "start": "2019-07-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3873525",
+          "start": "2019-09-06",
+          "end": "2020-09-06"
+        },
+        {
+          "team_qid": "Q3590437",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q27971",
+          "start": "2020-10-09",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q211906",
+      "image_filename": "Echauffement Tunisie (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anis_Ben_Slimane",
+      "transfermarkt_id": "546712",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Tunisia",
+        "Kingdom of Denmark"
+      ],
+      "place_of_birth": "Copenhagen",
+      "wikidata_current_club": "Brøndby IF",
+      "wikidata_current_club_qid": "Q211906",
+      "photo": {
+        "filename": "Echauffement Tunisie (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Echauffement_Tunisie_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Echauffement_Tunisie_%28cropped%29.jpg",
+        "width": 636,
+        "height": 987,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Happiraphael\" title=\"User:Happiraphael\">Happiraphael</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/anis-ben-slimane.jpg"
+      }
+    },
+    {
+      "slug": "mortadha-ben-ouanes",
+      "display_name": "Mortadha Ben Ouanes",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-07-02",
+      "age": 31,
+      "caps": 17,
+      "goals": 0,
+      "club_from_squad_table": "Kasımpaşa",
+      "wikipedia_title": "Mortadha Ben Ouanes",
+      "date_of_birth": "1994-07-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Kasımpaşa",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q105082472",
+      "qid": "Q105082472",
+      "name": "Mortadha Ben Ouanes",
+      "description": "Tunisian association football player",
+      "place_of_birth_qid": "Q180717",
+      "citizenship_qids": [
+        "Q948"
+      ],
+      "height_cm": 182.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q290540",
+          "start": "2013-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q27971",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1102961",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q290540",
+          "start": "2018-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q138230",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2145744",
+          "start": "2014-00-00",
+          "end": "2015-00-00"
+        }
+      ],
+      "current_club_qid": "Q138230",
+      "image_filename": "Mortadha Ben Ouanes.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mortadha_Ben_Ouanes",
+      "transfermarkt_id": "230921",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Tunisia"
+      ],
+      "place_of_birth": "Sousse",
+      "wikidata_current_club": "Kasımpaşa S.K.",
+      "wikidata_current_club_qid": "Q138230",
+      "photo": {
+        "filename": "Mortadha Ben Ouanes.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Mortadha_Ben_Ouanes.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mortadha_Ben_Ouanes.jpg/960px-Mortadha_Ben_Ouanes.jpg",
+        "width": 2720,
+        "height": 3999,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kacemph&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kacemph (page does not exist)\">Kacemph</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mortadha-ben-ouanes.jpg"
+      }
+    },
+    {
+      "slug": "ismaël-gharbi",
+      "display_name": "Ismaël Gharbi",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-04-10",
+      "age": 22,
+      "caps": 15,
+      "goals": 2,
+      "club_from_squad_table": "FC Augsburg",
+      "wikipedia_title": "Ismaël Gharbi",
+      "date_of_birth": "2004-04-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "FC Augsburg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q107746612",
+      "qid": "Q107746612",
+      "name": "Ismaël Gharbi",
+      "description": "Tunisian association football player (born 2004)",
+      "place_of_birth_qid": "Q90",
+      "citizenship_qids": [
+        "Q142",
+        "Q29",
+        "Q948"
+      ],
+      "height_cm": 173.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q483020",
+          "start": "2021-00-00",
+          "end": "2024-08-31"
+        },
+        {
+          "team_qid": "Q869907",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q75684",
+          "start": "2024-08-31",
+          "end": null
+        },
+        {
+          "team_qid": "Q1450557",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q3589784",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        }
+      ],
+      "current_club_qid": "Q75684",
+      "image_filename": "Ismaël Gharbi at the PSG-VAFC game (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Isma%C3%ABl_Gharbi",
+      "transfermarkt_id": "810096",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "France",
+        "Spain",
+        "Tunisia"
+      ],
+      "place_of_birth": "Paris",
+      "wikidata_current_club": "S.C. Braga",
+      "wikidata_current_club_qid": "Q75684",
+      "photo": {
+        "filename": "Ismaël Gharbi at the PSG-VAFC game (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Isma%C3%ABl_Gharbi_at_the_PSG-VAFC_game_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Isma%C3%ABl_Gharbi_at_the_PSG-VAFC_game_%28cropped%29.jpg/960px-Isma%C3%ABl_Gharbi_at_the_PSG-VAFC_game_%28cropped%29.jpg",
+        "width": 2396,
+        "height": 3460,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Juju12mrn&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Juju12mrn (page does not exist)\">Juju12mrn</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ismaël-gharbi.jpg"
+      }
+    },
+    {
+      "slug": "hadj-mahmoud",
+      "display_name": "Hadj Mahmoud",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2000-04-24",
+      "age": 26,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Lugano",
+      "wikipedia_title": "Hadj Mahmoud",
+      "date_of_birth": "2000-04-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lugano",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q108653548",
+      "qid": "Q108653548",
+      "name": "Mohamed Belhadj Mahmoud",
+      "description": "Tunisian association football player",
+      "place_of_birth_qid": "Q180717",
+      "citizenship_qids": [
+        "Q948"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q18691898"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hadj_Mahmoud",
+      "transfermarkt_id": "673513",
+      "positions": [
+        "defensive midfielder"
+      ],
+      "citizenship": [
+        "Tunisia"
+      ],
+      "place_of_birth": "Sousse",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "rani-khedira",
+      "display_name": "Rani Khedira",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-01-27",
+      "age": 32,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Union Berlin",
+      "wikipedia_title": "Rani Khedira",
+      "date_of_birth": "1994-01-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Union Berlin",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q86312",
+      "qid": "Q86312",
+      "name": "Rani Khedira",
+      "description": "Tunisian association football player (born 1994)",
+      "place_of_birth_qid": "Q1022",
+      "citizenship_qids": [
+        "Q183",
+        "Q948"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q4512",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q107421",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q113136",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q1202759",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q319699",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q324854",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q4512",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q314851",
+          "start": "2014-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q702455",
+      "image_filename": "2022-04-20 Fußball, Männer, DFB-Pokal, RB Leipzig - 1. FC Union Berlin 1DX 8299 by Stepro.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rani_Khedira",
+      "transfermarkt_id": "124410",
+      "fifa_player_id": "336459",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Germany",
+        "Tunisia"
+      ],
+      "place_of_birth": "Stuttgart",
+      "wikidata_current_club": "RB Leipzig",
+      "wikidata_current_club_qid": "Q702455",
+      "photo": {
+        "filename": "2022-04-20 Fußball, Männer, DFB-Pokal, RB Leipzig - 1. FC Union Berlin 1DX 8299 by Stepro.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2022-04-20_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFB-Pokal%2C_RB_Leipzig_-_1._FC_Union_Berlin_1DX_8299_by_Stepro.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2022-04-20_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFB-Pokal%2C_RB_Leipzig_-_1._FC_Union_Berlin_1DX_8299_by_Stepro.jpg/960px-2022-04-20_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFB-Pokal%2C_RB_Leipzig_-_1._FC_Union_Berlin_1DX_8299_by_Stepro.jpg",
+        "width": 2236,
+        "height": 3354,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/rani-khedira.jpg"
+      }
+    },
+    {
+      "slug": "elias-achouri",
+      "display_name": "Elias Achouri",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-02-10",
+      "age": 27,
+      "caps": 29,
+      "goals": 4,
+      "club_from_squad_table": "Copenhagen",
+      "wikipedia_title": "Elias Achouri",
+      "date_of_birth": "1999-02-10",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Copenhagen",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64740426",
+      "qid": "Q64740426",
+      "name": "Elias Achouri",
+      "description": "Tunisian and French association football player",
+      "place_of_birth_qid": "Q47045",
+      "citizenship_qids": [
+        "Q142",
+        "Q948",
+        "Q262"
+      ],
+      "height_cm": 1.77,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19521",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19521",
+      "image_filename": "Elias Achouri, Vejle Boldklub - FC København, 29. July 2023 - opvarmning FCK's 1. hold (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Elias_Achouri",
+      "transfermarkt_id": "645589",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "France",
+        "Tunisia",
+        "Algeria"
+      ],
+      "place_of_birth": "Saint-Denis",
+      "wikidata_current_club": "AS Saint-Étienne",
+      "wikidata_current_club_qid": "Q19521",
+      "photo": {
+        "filename": "Elias Achouri, Vejle Boldklub - FC København, 29. July 2023 - opvarmning FCK's 1. hold (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Elias_Achouri%2C_Vejle_Boldklub_-_FC_K%C3%B8benhavn%2C_29._July_2023_-_opvarmning_FCK%27s_1._hold_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Elias_Achouri%2C_Vejle_Boldklub_-_FC_K%C3%B8benhavn%2C_29._July_2023_-_opvarmning_FCK%27s_1._hold_%28cropped%29.jpg",
+        "width": 401,
+        "height": 590,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Tdn70\" title=\"User:Tdn70\">Thomas Dahlstrøm Nielsen</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/elias-achouri.jpg"
+      }
+    },
+    {
+      "slug": "firas-chaouat",
+      "display_name": "Firas Chaouat",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-05-08",
+      "age": 30,
+      "caps": 28,
+      "goals": 6,
+      "club_from_squad_table": "Club Africain",
+      "wikipedia_title": "Firas Chaouat",
+      "date_of_birth": "1996-05-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Club Africain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q58815643",
+      "qid": "Q58815643",
+      "name": "Firas Chaouat",
+      "description": "Tunisian association football player",
+      "place_of_birth_qid": "Q46325",
+      "citizenship_qids": [
+        "Q948"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1024482",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1024482",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Firas_Chaouat",
+      "transfermarkt_id": "402087",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Tunisia"
+      ],
+      "place_of_birth": "Sfax",
+      "wikidata_current_club": "CS Sfaxien",
+      "wikidata_current_club_qid": "Q1024482",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "hazem-mastouri",
+      "display_name": "Hazem Mastouri",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1997-06-18",
+      "age": 28,
+      "caps": 18,
+      "goals": 4,
+      "club_from_squad_table": "Dynamo Makhachkala",
+      "wikipedia_title": "Hazem Mastouri",
+      "date_of_birth": "1997-06-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Dynamo Makhachkala",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q134699960",
+      "qid": "Q134699960",
+      "name": "Hazem Mastouri",
+      "description": "Tunisian association football player",
+      "place_of_birth_qid": "Q3572",
+      "citizenship_qids": [
+        "Q948"
+      ],
+      "height_cm": 191.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "image_filename": "Hazem Mastouri 2026.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hazem_Mastouri",
+      "transfermarkt_id": "953150",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Tunisia"
+      ],
+      "place_of_birth": "Tunis",
+      "photo": {
+        "filename": "Hazem Mastouri 2026.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Hazem_Mastouri_2026.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Hazem_Mastouri_2026.jpg",
+        "width": 738,
+        "height": 989,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Анна Мейер",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/hazem-mastouri.jpg"
+      }
+    },
+    {
+      "slug": "elias-saad",
+      "display_name": "Elias Saad",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1999-12-27",
+      "age": 26,
+      "caps": 14,
+      "goals": 4,
+      "club_from_squad_table": "Hannover 96",
+      "wikipedia_title": "Elias Saad",
+      "date_of_birth": "1999-12-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Hannover 96",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q115803591",
+      "qid": "Q115803591",
+      "name": "Elias Saad",
+      "description": "German-Tunisian association football player",
+      "place_of_birth_qid": "Q1055",
+      "citizenship_qids": [
+        "Q183",
+        "Q948"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q114358158"
+      ],
+      "image_filename": "2025-04-23 - FC St Pauli - Elias Saad.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Elias_Saad",
+      "transfermarkt_id": "526466",
+      "positions": [
+        "left winger"
+      ],
+      "citizenship": [
+        "Germany",
+        "Tunisia"
+      ],
+      "place_of_birth": "Hamburg",
+      "photo": {
+        "filename": "2025-04-23 - FC St Pauli - Elias Saad.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/2025-04-23_-_FC_St_Pauli_-_Elias_Saad.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2025-04-23_-_FC_St_Pauli_-_Elias_Saad.jpg/960px-2025-04-23_-_FC_St_Pauli_-_Elias_Saad.jpg",
+        "width": 1116,
+        "height": 1300,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lanthan2003&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lanthan2003 (page does not exist)\">Lanthan2003</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/elias-saad.jpg"
+      }
+    },
+    {
+      "slug": "sebastian-tounekti",
+      "display_name": "Sebastian Tounekti",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2002-07-13",
+      "age": 23,
+      "caps": 10,
+      "goals": 1,
+      "club_from_squad_table": "Celtic",
+      "wikipedia_title": "Sebastian Tounekti",
+      "date_of_birth": "2002-07-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Celtic",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q96337717",
+      "qid": "Q96337717",
+      "name": "Sebastian Tounekti",
+      "description": "Norwegian-Tunisian association football player",
+      "place_of_birth_qid": "Q26087",
+      "citizenship_qids": [
+        "Q20",
+        "Q948"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q478167",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q2705645",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q24711",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q750097",
+          "start": "2022-00-00",
+          "end": "2025-02-00"
+        },
+        {
+          "team_qid": "Q27971",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1112784",
+          "start": "2023-06-00",
+          "end": "2023-08-00"
+        },
+        {
+          "team_qid": "Q460724",
+          "start": "2025-02-00",
+          "end": "2025-09-00"
+        },
+        {
+          "team_qid": "Q19593",
+          "start": "2025-09-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q19593",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sebastian_Tounekti",
+      "transfermarkt_id": "539677",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Norway",
+        "Tunisia"
+      ],
+      "place_of_birth": "Tromsø Municipality",
+      "wikidata_current_club": "Celtic F.C.",
+      "wikidata_current_club_qid": "Q19593",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "khalil-ayari",
+      "display_name": "Khalil Ayari",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2005-02-02",
+      "age": 21,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Paris Saint-Germain",
+      "wikipedia_title": "Khalil Ayari",
+      "date_of_birth": "2005-02-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Paris Saint-Germain",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q134711363",
+      "qid": "Q134711363",
+      "name": "Khalil Ayari",
+      "description": "Tunisian association football player",
+      "place_of_birth_qid": "Q3572",
+      "citizenship_qids": [
+        "Q948"
+      ],
+      "height_cm": 174.0,
+      "position_qids": [
+        "Q114358150"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Khalil_Ayari",
+      "transfermarkt_id": "1198342",
+      "positions": [
+        "right winger"
+      ],
+      "citizenship": [
+        "Tunisia"
+      ],
+      "place_of_birth": "Tunis",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    },
+    {
+      "slug": "rayan-elloumi",
+      "display_name": "Rayan Elloumi",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2007-09-17",
+      "age": 18,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Vancouver Whitecaps FC",
+      "wikipedia_title": "Rayan Elloumi",
+      "date_of_birth": "2007-09-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Vancouver Whitecaps FC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q134932034",
+      "qid": "Q134932034",
+      "name": "Rayan Elloumi",
+      "description": "Tunisian-Canadian soccer player",
+      "place_of_birth_qid": "Q939127",
+      "citizenship_qids": [
+        "Q16",
+        "Q948"
+      ],
+      "position_qids": [
+        "Q9731197"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rayan_Elloumi",
+      "transfermarkt_id": "1273985",
+      "positions": [
+        "centre-forward"
+      ],
+      "citizenship": [
+        "Canada",
+        "Tunisia"
+      ],
+      "place_of_birth": "St. Albert",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+      }
+    }
+  ],
+  "notes": [
+    "Tunisia photo/field audit 2026-05-24: verifier confirmed all 26 squad-table rows and QID identities. Sabri Ben Hessen received verified Commons file Sab16.png (variant description Sabri Ben Hassen); the other 11 no-photo rows had no clean Wikimedia portrait and are marked reviewed-none."
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "angus-gunn",
+  "display_name": "Angus Gunn",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1996-01-22",
+  "age": 30,
+  "caps": 21,
+  "goals": 0,
+  "club_from_squad_table": "Nottingham Forest",
+  "wikipedia_title": "Angus Gunn",
+  "date_of_birth": "1996-01-22",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Nottingham Forest",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20807705",
+  "qid": "Q20807705",
+  "name": "Angus Gunn",
+  "description": "Scottish-English association football player",
+  "place_of_birth_qid": "Q130191",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 196.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q50602",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q18721",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q204238",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q34044",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q50602",
+  "image_filename": "Angus.gunn.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Angus_Gunn",
+  "transfermarkt_id": "201574",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Norwich",
+  "wikidata_current_club": "Manchester City F.C.",
+  "wikidata_current_club_qid": "Q50602",
+  "photo": {
+    "filename": "Angus.gunn.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Angus.gunn.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Angus.gunn.jpg",
+    "width": 286,
+    "height": 450,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Cherzo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cherzo (page does not exist)\">Me</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/angus-gunn.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

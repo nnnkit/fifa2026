@@ -1,0 +1,84 @@
+{
+  "slug": "alex-rufer",
+  "display_name": "Alex Rufer",
+  "shirt_no": 14,
+  "position_code": "MF",
+  "dob": "1996-06-12",
+  "age": 29,
+  "caps": 24,
+  "goals": 0,
+  "club_from_squad_table": "Wellington Phoenix",
+  "wikipedia_title": "Alex Rufer",
+  "date_of_birth": "1996-06-12",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Wellington Phoenix",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q16239766",
+  "qid": "Q16239766",
+  "name": "Alex Rufer",
+  "description": "New Zealand footballer",
+  "place_of_birth_qid": "Q23661",
+  "citizenship_qids": [
+    "Q664"
+  ],
+  "height_cm": 184.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q815890",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1811079",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q3565169",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q18397899",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q175315",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18397899",
+  "image_filename": "Alex Rufer.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Rufer",
+  "transfermarkt_id": "256019",
+  "fifa_player_id": "371142",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "New Zealand"
+  ],
+  "place_of_birth": "Wellington",
+  "wikidata_current_club": "Wellington Phoenix FC Reserves",
+  "wikidata_current_club_qid": "Q18397899",
+  "photo": {
+    "filename": "Alex Rufer.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Alex_Rufer.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Alex_Rufer.jpg",
+    "width": 818,
+    "height": 1701,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:JaumeBG\" title=\"User:JaumeBG\">JaumeBG</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/alex-rufer.jpg"
+  },
+  "team_slug": "new-zealand",
+  "team_country": "New Zealand"
+}

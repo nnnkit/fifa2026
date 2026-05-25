@@ -1,0 +1,116 @@
+{
+  "slug": "antonio-rüdiger",
+  "display_name": "Antonio Rüdiger",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1993-03-03",
+  "age": 33,
+  "caps": 82,
+  "goals": 3,
+  "club_from_squad_table": "Real Madrid",
+  "wikipedia_title": "Antonio Rüdiger",
+  "date_of_birth": "1993-03-03",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q96755",
+  "qid": "Q96755",
+  "name": "Antonio Rüdiger",
+  "description": "German association football player (born 1993)",
+  "place_of_birth_qid": "Q64",
+  "citizenship_qids": [
+    "Q183"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 85.0,
+  "position_qids": [
+    "Q268258",
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q107421",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q4512",
+      "start": "2012-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q43310",
+      "start": "2014-05-13",
+      "end": null
+    },
+    {
+      "team_qid": "Q2739",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q2016992",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q324854",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q316497",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q314851",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q9616",
+      "start": "2017-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q8682",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2739",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    }
+  ],
+  "current_club_qid": "Q8682",
+  "image_filename": "20180602 FIFA Friendly Match Austria vs. Germany Antonio Rüdiger 850 0711.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_R%C3%BCdiger",
+  "transfermarkt_id": "86202",
+  "fifa_player_id": "379955",
+  "positions": [
+    "centre-back",
+    "defender"
+  ],
+  "citizenship": [
+    "Germany"
+  ],
+  "place_of_birth": "Berlin",
+  "wikidata_current_club": "Real Madrid Club de Fútbol",
+  "wikidata_current_club_qid": "Q8682",
+  "photo": {
+    "filename": "20180602 FIFA Friendly Match Austria vs. Germany Antonio Rüdiger 850 0711.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Antonio_R%C3%BCdiger_850_0711.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Antonio_R%C3%BCdiger_850_0711.jpg/960px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Antonio_R%C3%BCdiger_850_0711.jpg",
+    "width": 2167,
+    "height": 3250,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/antonio-rüdiger.jpg"
+  },
+  "team_slug": "germany",
+  "team_country": "Germany"
+}

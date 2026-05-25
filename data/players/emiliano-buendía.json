@@ -1,0 +1,77 @@
+{
+  "slug": "emiliano-buendía",
+  "display_name": "Emiliano Buendía",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-12-25",
+  "age": 29,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Aston Villa",
+  "wikipedia_title": "Emiliano Buendía",
+  "wikidata_qid": "Q18637343",
+  "qid": "Q18637343",
+  "name": "Emiliano Buendía",
+  "description": "Argentine association football player",
+  "date_of_birth": "1996-12-25",
+  "place_of_birth_qid": "Q52607",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 172.0,
+  "position_qids": [
+    "Q90326494"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q8806",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2349507",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q2713491",
+      "start": "2014-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": "2015-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8806",
+  "image_filename": "Emiliano Buendía 2022.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Emiliano_Buend%C3%ADa",
+  "transfermarkt_id": "321247",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Aston Villa",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "attacking midfielder"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Mar del Plata",
+  "wikidata_current_club": "Getafe CF",
+  "wikidata_current_club_qid": "Q8806",
+  "photo": {
+    "filename": "Emiliano Buendía 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Emiliano_Buend%C3%ADa_2022.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Emiliano_Buend%C3%ADa_2022.jpg/960px-Emiliano_Buend%C3%ADa_2022.jpg",
+    "width": 1865,
+    "height": 3453,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Jmmuguerza\" title=\"User:Jmmuguerza\">jmmuguerza</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/emiliano-buendía.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

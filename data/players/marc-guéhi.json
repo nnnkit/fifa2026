@@ -1,0 +1,117 @@
+{
+  "slug": "marc-gu\u00e9hi",
+  "display_name": "Marc Gu\u00e9hi",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-07-13",
+  "age": 25,
+  "caps": 27,
+  "goals": 1,
+  "club_from_squad_table": "Manchester City",
+  "wikipedia_title": "Marc Gu\u00e9hi",
+  "date_of_birth": "2000-07-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester City",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q44737396",
+  "qid": "Q44737396",
+  "name": "Marc Gu\u00e9hi",
+  "description": "English association football player (born 2000)",
+  "place_of_birth_qid": "Q1515",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 182.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q9616",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q18659",
+      "start": "2020-01-10",
+      "end": "2020-07-31"
+    },
+    {
+      "team_qid": "Q18659",
+      "start": "2020-08-26",
+      "end": "2021-05-31"
+    },
+    {
+      "team_qid": "Q19467",
+      "start": "2021-00-00",
+      "end": "2026-00-00"
+    },
+    {
+      "team_qid": "Q4201740",
+      "start": "2015-00-00",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q2752922",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q1049171",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q2358861",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q1049176",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q204238",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q47762",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2026-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q50602",
+  "image_filename": "Marc Guehi December 2018.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marc_Gu%C3%A9hi",
+  "transfermarkt_id": "392757",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Abidjan",
+  "wikidata_current_club": "Manchester City F.C.",
+  "wikidata_current_club_qid": "Q50602",
+  "photo": {
+    "filename": "Marc Guehi December 2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Marc_Guehi_December_2018.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Marc_Guehi_December_2018.jpg/960px-Marc_Guehi_December_2018.jpg",
+    "width": 1399,
+    "height": 1867,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/121676765@N07\">@cfcunofficial (Chelsea Debs) London</a> from London, UK",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/marc-gu\u00e9hi.jpg"
+  },
+  "team_slug": "england",
+  "team_country": "England"
+}

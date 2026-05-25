@@ -1,0 +1,90 @@
+{
+  "slug": "takehiro-tomiyasu",
+  "display_name": "Takehiro Tomiyasu",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-11-05",
+  "age": 27,
+  "caps": 42,
+  "goals": 1,
+  "club_from_squad_table": "Ajax",
+  "wikipedia_title": "Takehiro Tomiyasu",
+  "date_of_birth": "1998-11-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Ajax",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21286402",
+  "qid": "Q21286402",
+  "name": "Takehiro Tomiyasu",
+  "description": "Japanese association football player",
+  "place_of_birth_qid": "Q123258",
+  "citizenship_qids": [
+    "Q17"
+  ],
+  "height_cm": 188.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q791164",
+      "start": "2015-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q170566",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q138248",
+      "start": "2018-01-00",
+      "end": "2019-07-00"
+    },
+    {
+      "team_qid": "Q1893",
+      "start": "2019-07-00",
+      "end": "2021-08-31"
+    },
+    {
+      "team_qid": "Q9617",
+      "start": "2021-09-01",
+      "end": "2025-07-00"
+    },
+    {
+      "team_qid": "Q81888",
+      "start": "2025-12-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q81888",
+  "image_filename": "Takehiro Tomiyasu, 2019 AFC Asian Cup 1.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Takehiro_Tomiyasu",
+  "transfermarkt_id": "331560",
+  "fifa_player_id": "403289",
+  "uefa_player_id": "15907",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Japan"
+  ],
+  "place_of_birth": "Fukuoka Prefecture",
+  "wikidata_current_club": "AFC Ajax",
+  "wikidata_current_club_qid": "Q81888",
+  "photo": {
+    "filename": "Takehiro Tomiyasu, 2019 AFC Asian Cup 1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Takehiro_Tomiyasu%2C_2019_AFC_Asian_Cup_1.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Takehiro_Tomiyasu%2C_2019_AFC_Asian_Cup_1.jpg",
+    "width": 378,
+    "height": 509,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Amir Ostovari",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/takehiro-tomiyasu.jpg"
+  },
+  "team_slug": "japan",
+  "team_country": "Japan"
+}

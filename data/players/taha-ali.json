@@ -1,0 +1,71 @@
+{
+  "slug": "taha-ali",
+  "display_name": "Taha Ali",
+  "shirt_no": 26,
+  "position_code": "FW",
+  "dob": "1998-07-01",
+  "age": 27,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Malmö FF",
+  "wikipedia_title": "Taha Ali",
+  "date_of_birth": "1998-07-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Malmö FF",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q109906009",
+  "qid": "Q109906009",
+  "name": "Taha Ali",
+  "description": "Swedish association football player",
+  "place_of_birth_qid": "Q10676706",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q10673259",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1680249",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q204881",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q207503",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q260559",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q765616",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q10673259",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Taha_Ali",
+  "transfermarkt_id": "731771",
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Spånga-Kista församling",
+  "wikidata_current_club": "Sollentuna FK",
+  "wikidata_current_club_qid": "Q10673259",
+  "team_slug": "sweden",
+  "team_country": "Sweden",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

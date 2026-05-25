@@ -1,0 +1,65 @@
+{
+  "slug": "kevin-mier",
+  "display_name": "Kevin Mier",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "2000-05-18",
+  "age": 26,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Cruz Azul",
+  "wikipedia_title": "Kevin Mier",
+  "date_of_birth": "2000-05-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Cruz Azul",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q60617604",
+  "qid": "Q60617604",
+  "name": "Kevin Mier",
+  "description": "Colombian footballer",
+  "place_of_birth_qid": "Q808830",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q7911914",
+      "start": "2020-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q332605",
+      "start": "2019-00-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q845859",
+      "start": "2024-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1424072",
+      "start": "2019-00-00",
+      "end": "2019-00-00"
+    }
+  ],
+  "current_club_qid": "Q845859",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Mier",
+  "transfermarkt_id": "491542",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Barrancabermeja",
+  "team_slug": "colombia",
+  "team_country": "Colombia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

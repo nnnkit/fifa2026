@@ -1,0 +1,131 @@
+{
+  "slug": "aymeric-laporte",
+  "display_name": "Aymeric Laporte",
+  "shirt_no": 14,
+  "position_code": "DF",
+  "dob": "1994-05-27",
+  "age": 31,
+  "caps": 44,
+  "goals": 2,
+  "club_from_squad_table": "Athletic Bilbao",
+  "wikipedia_title": "Aymeric Laporte",
+  "date_of_birth": "1994-05-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Athletic Bilbao",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q3855340",
+  "qid": "Q3855340",
+  "name": "Aymeric Laporte",
+  "description": "Spanish-French footballer (born 1994)",
+  "place_of_birth_qid": "Q6625",
+  "citizenship_qids": [
+    "Q142",
+    "Q29"
+  ],
+  "height_cm": 1.91,
+  "weight_kg": 85.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q727093",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q1450568",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q1450557",
+      "start": "2011-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q2701714",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1277549",
+      "start": "2013-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q794970",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q8687",
+      "start": "2012-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q50602",
+      "start": "2018-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q42267",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q482764",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q3494142",
+      "start": "2000-00-00",
+      "end": "2009-00-00"
+    },
+    {
+      "team_qid": "Q791128",
+      "start": "2009-00-00",
+      "end": "2010-00-00"
+    },
+    {
+      "team_qid": "Q8687",
+      "start": "2010-00-00",
+      "end": "2011-00-00"
+    },
+    {
+      "team_qid": "Q8687",
+      "start": "2025-09-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8687",
+  "image_filename": "Aymeric Laporte 2023 (cropped) 2.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aymeric_Laporte",
+  "transfermarkt_id": "176553",
+  "fifa_player_id": "335999",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "France",
+    "Spain"
+  ],
+  "place_of_birth": "Agen",
+  "wikidata_current_club": "Athletic Club",
+  "wikidata_current_club_qid": "Q8687",
+  "photo": {
+    "filename": "Aymeric Laporte 2023 (cropped) 2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Aymeric_Laporte_2023_%28cropped%29_2.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Aymeric_Laporte_2023_%28cropped%29_2.jpg",
+    "width": 239,
+    "height": 352,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mohammadreza Abbasi",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/aymeric-laporte.jpg"
+  },
+  "team_slug": "spain",
+  "team_country": "Spain"
+}

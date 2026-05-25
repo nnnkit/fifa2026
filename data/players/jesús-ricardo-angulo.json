@@ -1,0 +1,52 @@
+{
+  "slug": "jesús-ricardo-angulo",
+  "display_name": "Jesús Ricardo Angulo",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1997-02-20",
+  "age": 29,
+  "caps": 3,
+  "goals": 1,
+  "club_from_squad_table": "Toluca",
+  "wikipedia_title": "Jesús Ricardo Angulo",
+  "wikidata_qid": "Q28925116",
+  "qid": "Q28925116",
+  "name": "Jesús Angulo",
+  "description": "Mexican association football player",
+  "date_of_birth": "1997-02-20",
+  "place_of_birth_qid": "Q211760",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 165.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1243720",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1243720",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Ricardo_Angulo",
+  "transfermarkt_id": "411709",
+  "current_club": "Toluca",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Culiacán",
+  "wikidata_current_club": "Dorados de Sinaloa",
+  "wikidata_current_club_qid": "Q1243720",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

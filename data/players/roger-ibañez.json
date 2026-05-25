@@ -1,0 +1,78 @@
+{
+  "slug": "roger-ibañez",
+  "display_name": "Roger Ibañez",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1998-11-23",
+  "age": 27,
+  "caps": 5,
+  "goals": 0,
+  "club_from_squad_table": "Al-Ahli",
+  "wikipedia_title": "Roger Ibañez",
+  "date_of_birth": "1998-11-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Ahli",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q55363875",
+  "qid": "Q55363875",
+  "name": "Roger Ibañez da Silva",
+  "description": "Brazilian association football player",
+  "place_of_birth_qid": "Q995318",
+  "citizenship_qids": [
+    "Q155"
+  ],
+  "height_cm": 1.87,
+  "weight_kg": 73.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2280399",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q80987",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q2609",
+      "start": "2020-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2609",
+  "image_filename": "Roger Ibañez da Silva.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Roger_Iba%C3%B1ez",
+  "transfermarkt_id": "524481",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Brazil"
+  ],
+  "place_of_birth": "Canela",
+  "wikidata_current_club": "SS Lazio",
+  "wikidata_current_club_qid": "Q2609",
+  "photo": {
+    "filename": "Roger Ibañez da Silva.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Roger_Iba%C3%B1ez_da_Silva.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Roger_Iba%C3%B1ez_da_Silva.jpg/960px-Roger_Iba%C3%B1ez_da_Silva.jpg",
+    "width": 1497,
+    "height": 1996,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ago76\" title=\"User:Ago76\">Ago76</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/roger-ibañez.jpg"
+  },
+  "team_slug": "brazil",
+  "team_country": "Brazil"
+}

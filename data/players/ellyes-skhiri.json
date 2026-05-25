@@ -1,0 +1,89 @@
+{
+  "slug": "ellyes-skhiri",
+  "display_name": "Ellyes Skhiri",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1995-05-10",
+  "age": 31,
+  "caps": 81,
+  "goals": 4,
+  "club_from_squad_table": "Eintracht Frankfurt",
+  "wikipedia_title": "Ellyes Skhiri",
+  "date_of_birth": "1995-05-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Eintracht Frankfurt",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20641500",
+  "qid": "Q20641500",
+  "name": "Ellyes Skhiri",
+  "description": "Tunisian and French association football player",
+  "place_of_birth_qid": "Q318082",
+  "citizenship_qids": [
+    "Q142",
+    "Q948"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 69.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19513",
+      "start": "2015-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q11898577",
+      "start": "2014-01-01",
+      "end": "2014-00-00"
+    },
+    {
+      "team_qid": "Q27971",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q109502769",
+      "start": "2014-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q104770",
+      "start": "2019-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q38245",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q38245",
+  "image_filename": "2021-08-08 FC Carl Zeiss Jena gegen 1. FC K\u00f6ln (DFB-Pokal) by Sandro Halank\u2013182.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ellyes_Skhiri",
+  "transfermarkt_id": "290587",
+  "fifa_player_id": "411658",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "France",
+    "Tunisia"
+  ],
+  "place_of_birth": "Lunel",
+  "photo": {
+    "filename": "2021-08-08 FC Carl Zeiss Jena gegen 1. FC K\u00f6ln (DFB-Pokal) by Sandro Halank\u2013182.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/2021-08-08_FC_Carl_Zeiss_Jena_gegen_1._FC_K%C3%B6ln_%28DFB-Pokal%29_by_Sandro_Halank%E2%80%93182.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2021-08-08_FC_Carl_Zeiss_Jena_gegen_1._FC_K%C3%B6ln_%28DFB-Pokal%29_by_Sandro_Halank%E2%80%93182.jpg/960px-2021-08-08_FC_Carl_Zeiss_Jena_gegen_1._FC_K%C3%B6ln_%28DFB-Pokal%29_by_Sandro_Halank%E2%80%93182.jpg",
+    "width": 3234,
+    "height": 2734,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sandro_Halank\" title=\"User:Sandro Halank\">Sandro Halank</a>, Wikimedia Commons",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ellyes-skhiri.jpg"
+  },
+  "team_slug": "tunisia",
+  "team_country": "Tunisia"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "ebenezer-adade",
+  "display_name": "Ebenezer Adade",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2002-05-26",
+  "age": 23,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Dreams",
+  "wikipedia_title": null,
+  "date_of_birth": "2002-05-26",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Dreams",
+  "current_club_source": "wikipedia-squad-table",
+  "team_slug": "ghana",
+  "team_country": "Ghana",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "identity_review": {
+    "status": "no-unambiguous-wikidata-qid",
+    "reviewed_at": "2026-05-25",
+    "reason": "No Wikidata exact-label or Transfermarkt-ID item found for the Dreams defender."
+  }
+}

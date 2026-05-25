@@ -1,0 +1,89 @@
+{
+  "slug": "john-mcginn",
+  "display_name": "John McGinn",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1994-10-18",
+  "age": 31,
+  "caps": 85,
+  "goals": 20,
+  "club_from_squad_table": "Aston Villa",
+  "wikipedia_title": "John McGinn",
+  "date_of_birth": "1994-10-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Aston Villa",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q10547335",
+  "qid": "Q10547335",
+  "name": "John McGinn",
+  "description": "Scottish association football player (born 1994)",
+  "place_of_birth_qid": "Q4093",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "height_cm": 178.0,
+  "weight_kg": 66.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q319136",
+      "start": "2012-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q192597",
+      "start": "2015-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q4140015",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q1812121",
+      "start": "2014-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q34044",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q18711",
+      "start": "2018-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18711",
+  "image_filename": "First Minister meets with Scottish National Football Team (2) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_McGinn",
+  "transfermarkt_id": "193116",
+  "fifa_player_id": "401334",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Glasgow",
+  "wikidata_current_club": "Aston Villa F.C.",
+  "wikidata_current_club_qid": "Q18711",
+  "photo": {
+    "filename": "First Minister meets with Scottish National Football Team (2) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/First_Minister_meets_with_Scottish_National_Football_Team_%282%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/First_Minister_meets_with_Scottish_National_Football_Team_%282%29_%28cropped%29.jpg/960px-First_Minister_meets_with_Scottish_National_Football_Team_%282%29_%28cropped%29.jpg",
+    "width": 1348,
+    "height": 1620,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Scottish Government",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/john-mcginn.jpg"
+  },
+  "team_slug": "scotland",
+  "team_country": "Scotland"
+}

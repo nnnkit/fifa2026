@@ -1,0 +1,133 @@
+{
+  "slug": "garry-rodrigues",
+  "display_name": "Garry Rodrigues",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1990-11-27",
+  "age": 35,
+  "caps": 59,
+  "goals": 9,
+  "club_from_squad_table": "Apollon Limassol",
+  "wikipedia_title": "Garry Rodrigues",
+  "date_of_birth": "1990-11-27",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Apollon Limassol",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q4621784",
+  "qid": "Q4621784",
+  "name": "Garry Mendes Rodrigues",
+  "description": "Dutch-born Cape Verdean footballer",
+  "place_of_birth_qid": "Q34370",
+  "citizenship_qids": [
+    "Q1011"
+  ],
+  "height_cm": 173.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2219963",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q2311621",
+      "start": "2010-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q24904",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q1045811",
+      "start": "2012-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q144190",
+      "start": "2013-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q10512",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q144190",
+      "start": "2013-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q10512",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q204888",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q330039",
+      "start": "2013-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q144190",
+      "start": "2012-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q10512",
+      "start": "2014-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q204888",
+      "start": "2015-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q495299",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q309480",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    }
+  ],
+  "current_club_qid": "Q204888",
+  "image_filename": "Garry Rodrigues 2013 Catalonia.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Garry_Rodrigues",
+  "transfermarkt_id": "170895",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Cape Verde"
+  ],
+  "place_of_birth": "Rotterdam",
+  "wikidata_current_club": "PAOK FC",
+  "wikidata_current_club_qid": "Q204888",
+  "photo": {
+    "filename": "Garry Rodrigues 2013 Catalonia.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Garry_Rodrigues_2013_Catalonia.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Garry_Rodrigues_2013_Catalonia.jpg/960px-Garry_Rodrigues_2013_Catalonia.jpg",
+    "width": 982,
+    "height": 1421,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a href=\"//www.flickr.com/people/64346837@N06\" class=\"extiw\" title=\"flickruser:64346837@N06\">Xavier Rond\u00f3n Medina</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/garry-rodrigues.jpg"
+  },
+  "team_slug": "cape-verde",
+  "team_country": "Cape Verde"
+}

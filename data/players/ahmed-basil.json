@@ -1,0 +1,39 @@
+{
+  "slug": "ahmed-basil",
+  "display_name": "Ahmed Basil",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1996-08-19",
+  "age": 29,
+  "caps": 14,
+  "goals": 0,
+  "club_from_squad_table": "Al-Shorta",
+  "wikipedia_title": "Ahmed Basil",
+  "date_of_birth": "1996-08-19",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Shorta",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q116060296",
+  "qid": "Q116060296",
+  "name": "Ahmed Basil Fadhil",
+  "description": "Iraqi footballer (born 1994)",
+  "citizenship_qids": [
+    "Q796"
+  ],
+  "position_qids": [
+    "Q201330"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_Basil",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Iraq"
+  ],
+  "team_slug": "iraq",
+  "team_country": "Iraq",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

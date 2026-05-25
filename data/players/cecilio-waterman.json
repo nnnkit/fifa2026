@@ -1,0 +1,83 @@
+{
+  "slug": "cecilio-waterman",
+  "display_name": "Cecilio Waterman",
+  "shirt_no": 18,
+  "position_code": "FW",
+  "dob": "1991-04-13",
+  "age": 35,
+  "caps": 52,
+  "goals": 14,
+  "club_from_squad_table": "Universidad de Concepci\u00f3n",
+  "wikipedia_title": "Cecilio Waterman",
+  "date_of_birth": "1991-04-13",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Universidad de Concepci\u00f3n",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q969014",
+  "qid": "Q969014",
+  "name": "Cecilio Waterman",
+  "description": "Panamanian professional association football striker",
+  "place_of_birth_qid": "Q3306",
+  "citizenship_qids": [
+    "Q804"
+  ],
+  "height_cm": 181.0,
+  "position_qids": [
+    "Q8025128"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q978110",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2979908",
+      "start": "2010-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q7129942",
+      "start": "2011-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q223748",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q223748",
+      "start": "2010-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q721560",
+  "image_filename": "Cecilio Waterman Everton v Cobresal 20230828 02.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cecilio_Waterman",
+  "transfermarkt_id": "177064",
+  "fifa_player_id": "337251",
+  "positions": [
+    "wing half"
+  ],
+  "citizenship": [
+    "Panama"
+  ],
+  "place_of_birth": "Panama City",
+  "wikidata_current_club": "Centro Atl\u00e9tico F\u00e9nix",
+  "wikidata_current_club_qid": "Q978110",
+  "photo": {
+    "filename": "Cecilio Waterman Everton v Cobresal 20230828 02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cecilio_Waterman_Everton_v_Cobresal_20230828_02.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cecilio_Waterman_Everton_v_Cobresal_20230828_02.jpg/960px-Cecilio_Waterman_Everton_v_Cobresal_20230828_02.jpg",
+    "width": 2192,
+    "height": 3081,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Carlos_yo\" title=\"User:Carlos yo\">Carlos yo</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/cecilio-waterman.jpg"
+  },
+  "team_slug": "panama",
+  "team_country": "Panama"
+}

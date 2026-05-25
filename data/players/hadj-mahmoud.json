@@ -1,0 +1,43 @@
+{
+  "slug": "hadj-mahmoud",
+  "display_name": "Hadj Mahmoud",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2000-04-24",
+  "age": 26,
+  "caps": 7,
+  "goals": 0,
+  "club_from_squad_table": "Lugano",
+  "wikipedia_title": "Hadj Mahmoud",
+  "date_of_birth": "2000-04-24",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lugano",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q108653548",
+  "qid": "Q108653548",
+  "name": "Mohamed Belhadj Mahmoud",
+  "description": "Tunisian association football player",
+  "place_of_birth_qid": "Q180717",
+  "citizenship_qids": [
+    "Q948"
+  ],
+  "height_cm": 179.0,
+  "position_qids": [
+    "Q18691898"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hadj_Mahmoud",
+  "transfermarkt_id": "673513",
+  "positions": [
+    "defensive midfielder"
+  ],
+  "citizenship": [
+    "Tunisia"
+  ],
+  "place_of_birth": "Sousse",
+  "team_slug": "tunisia",
+  "team_country": "Tunisia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

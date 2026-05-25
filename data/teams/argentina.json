@@ -1,0 +1,4060 @@
+{
+  "slug": "argentina",
+  "country": "Argentina",
+  "wikidata_qid": "Q79800",
+  "fetched_at": "2026-05-24T13:12:20+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 55,
+  "players": [
+    {
+      "slug": "emiliano-martínez",
+      "display_name": "Emiliano Martínez",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1992-09-02",
+      "age": 33,
+      "caps": 59,
+      "goals": 0,
+      "club_from_squad_table": "Aston Villa",
+      "wikipedia_title": "Emiliano Martínez",
+      "wikidata_qid": "Q3275904",
+      "qid": "Q3275904",
+      "name": "Emiliano Martínez",
+      "description": "Argentine association football player (born 1992)",
+      "date_of_birth": "1992-09-02",
+      "place_of_birth_qid": "Q52607",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 195.0,
+      "weight_kg": 85.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q19498",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q48946",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q48950",
+          "start": "2015-00-00",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q19500",
+          "start": "2015-08-10",
+          "end": "2016-06-30"
+        },
+        {
+          "team_qid": "Q2902690",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2009-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q9617",
+          "start": "2010-00-00",
+          "end": "2020-09-16"
+        },
+        {
+          "team_qid": "Q18729",
+          "start": "2019-01-23",
+          "end": "2019-05-30"
+        },
+        {
+          "team_qid": "Q8806",
+          "start": "2017-08-00",
+          "end": "2018-05-30"
+        },
+        {
+          "team_qid": "Q18711",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18711",
+      "image_filename": "St. Louis City vs Aston Villa (Jul 2025) 14 (Emiliano Martínez).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Emiliano_Mart%C3%ADnez",
+      "transfermarkt_id": "111873",
+      "wikidata_date_of_birth": "1992-09-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Aston Villa",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Mar del Plata",
+      "wikidata_current_club": "Aston Villa F.C.",
+      "wikidata_current_club_qid": "Q18711",
+      "photo": {
+        "filename": "St. Louis City vs Aston Villa (Jul 2025) 14 (Emiliano Martínez).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/St._Louis_City_vs_Aston_Villa_%28Jul_2025%29_14_%28Emiliano_Mart%C3%ADnez%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/St._Louis_City_vs_Aston_Villa_%28Jul_2025%29_14_%28Emiliano_Mart%C3%ADnez%29.jpg",
+        "width": 593,
+        "height": 934,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://old.reddit.com/user/reepers_hellcat\">u/reepers_hellcat</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/emiliano-martínez.jpg"
+      }
+    },
+    {
+      "slug": "gerónimo-rulli",
+      "display_name": "Gerónimo Rulli",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1992-05-20",
+      "age": 34,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Marseille",
+      "wikipedia_title": "Gerónimo Rulli",
+      "wikidata_qid": "Q5879014",
+      "qid": "Q5879014",
+      "name": "Gerónimo Rulli",
+      "description": "Argentine association football player",
+      "date_of_birth": "1992-05-20",
+      "place_of_birth_qid": "Q44059",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 189.0,
+      "weight_kg": 84.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q10315",
+          "start": "2014-01-01",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q214940",
+          "start": "2011-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q19513",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q81888",
+          "start": "2023-01-06",
+          "end": "2024-08-00"
+        },
+        {
+          "team_qid": "Q2462207",
+          "start": "2016-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q132885",
+          "start": "2024-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q132885",
+      "image_filename": "Rulli asse om 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ger%C3%B3nimo_Rulli",
+      "transfermarkt_id": "229604",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Marseille",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "La Plata",
+      "wikidata_current_club": "Olympique de Marseille",
+      "wikidata_current_club_qid": "Q132885",
+      "photo": {
+        "filename": "Rulli asse om 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Rulli_asse_om_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Rulli_asse_om_2425.png",
+        "width": 434,
+        "height": 753,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/gerónimo-rulli.png"
+      }
+    },
+    {
+      "slug": "juan-musso",
+      "display_name": "Juan Musso",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1994-05-06",
+      "age": 32,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Atlético Madrid",
+      "wikipedia_title": "Juan Musso",
+      "wikidata_qid": "Q5951550",
+      "qid": "Q5951550",
+      "name": "Juan Musso",
+      "description": "Argentine footballer (born 1994)",
+      "date_of_birth": "1994-05-06",
+      "place_of_birth_qid": "Q377965",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 1.91,
+      "weight_kg": 93.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q276533",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1886",
+          "start": "2021-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2012-00-00",
+          "end": "2012-00-00"
+        },
+        {
+          "team_qid": "Q2798",
+          "start": "2018-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2024-08-27",
+          "end": "2025-06-30"
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2025-06-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8701",
+      "image_filename": "Musso Udinese.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Musso",
+      "transfermarkt_id": "242359",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlético Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "San Nicolás de los Arroyos",
+      "photo": {
+        "filename": "Musso Udinese.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Musso_Udinese.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Musso_Udinese.png",
+        "width": 899,
+        "height": 1225,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Fuarceudin1896&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Fuarceudin1896 (page does not exist)\">Fuarceudin1896</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/juan-musso.png"
+      }
+    },
+    {
+      "slug": "walter-benítez",
+      "display_name": "Walter Benítez",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1993-01-19",
+      "age": 33,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Crystal Palace",
+      "wikipedia_title": "Walter Benítez (footballer)",
+      "wikidata_qid": "Q17064018",
+      "qid": "Q17064018",
+      "name": "Walter Benítez",
+      "description": "Argentine association football player (born 1993)",
+      "date_of_birth": "1993-01-19",
+      "place_of_birth_qid": "Q781245",
+      "citizenship_qids": [
+        "Q414",
+        "Q142"
+      ],
+      "height_cm": 191.0,
+      "weight_kg": 91.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1187790",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q775966",
+          "start": "2012-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q185163",
+          "start": "2016-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q185163",
+      "image_filename": "Walter benitez 2016.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Ben%C3%ADtez_(footballer)",
+      "transfermarkt_id": "296802",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Crystal Palace",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Argentina",
+        "France"
+      ],
+      "place_of_birth": "General San Martín",
+      "wikidata_current_club": "OGC Nice",
+      "wikidata_current_club_qid": "Q185163",
+      "photo": {
+        "filename": "Walter benitez 2016.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Walter_benitez_2016.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Walter_benitez_2016.jpg",
+        "width": 740,
+        "height": 1250,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:FedeQKC\" title=\"User:FedeQKC\">FedeQKC</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/walter-benítez.jpg"
+      }
+    },
+    {
+      "slug": "facundo-cambeses",
+      "display_name": "Facundo Cambeses",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1997-04-09",
+      "age": 29,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Racing",
+      "wikipedia_title": "Facundo Cambeses",
+      "wikidata_qid": "Q30881099",
+      "qid": "Q30881099",
+      "name": "Facundo Cambeses",
+      "description": "association football player",
+      "date_of_birth": "1997-04-09",
+      "place_of_birth_qid": "Q649510",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q692646",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q692646",
+      "image_filename": "Facundo Cambeses (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Facundo_Cambeses",
+      "transfermarkt_id": "435001",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Racing",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Longchamps",
+      "wikidata_current_club": "Club Atlético Banfield",
+      "wikidata_current_club_qid": "Q692646",
+      "photo": {
+        "filename": "Facundo Cambeses (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Facundo_Cambeses_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Facundo_Cambeses_%28cropped%29.jpg",
+        "width": 923,
+        "height": 1086,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/75116651@N03\">Agencia de Noticias ANDES</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/facundo-cambeses.jpg"
+      }
+    },
+    {
+      "slug": "santiago-beltrán",
+      "display_name": "Santiago Beltrán",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2004-10-04",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "River Plate",
+      "wikipedia_title": "Santiago Beltrán",
+      "wikidata_qid": "Q137882031",
+      "qid": "Q137882031",
+      "name": "Santiago Beltrán",
+      "description": "Argentine footballer",
+      "date_of_birth": "2004-10-04",
+      "place_of_birth_qid": "Q1486",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Santiago_Beltr%C3%A1n",
+      "transfermarkt_id": "1138089",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Buenos Aires",
+      "current_club": "River Plate",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Santiago Beltran entrenando en River Camp.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Santiago_Beltran_entrenando_en_River_Camp.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Santiago_Beltran_entrenando_en_River_Camp.jpg",
+        "width": 783,
+        "height": 929,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Liaancho&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Liaancho (page does not exist)\">Liaancho</a>",
+        "source": "commons-verifier-found",
+        "local_path": "data/photos/santiago-beltrán.jpg"
+      }
+    },
+    {
+      "slug": "nicolás-otamendi",
+      "display_name": "Nicolás Otamendi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1988-02-12",
+      "age": 38,
+      "caps": 130,
+      "goals": 8,
+      "club_from_squad_table": "Benfica",
+      "wikipedia_title": "Nicolás Otamendi",
+      "wikidata_qid": "Q182063",
+      "qid": "Q182063",
+      "name": "Nicolás Otamendi",
+      "description": "Argentine association football player",
+      "date_of_birth": "1988-02-12",
+      "place_of_birth_qid": "Q1486",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 183.0,
+      "weight_kg": 81.0,
+      "position_qids": [
+        "Q268258",
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q50602",
+          "start": "2015-01-01",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q215163",
+          "start": "2007-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q128446",
+          "start": "2010-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q10333",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q270995",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2009-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q131499",
+      "image_filename": "Argentina team in St. Petersburg (cropped) Otamendi.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Otamendi",
+      "transfermarkt_id": "54781",
+      "fifa_player_id": "310116",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Benfica",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "centre-back",
+        "full-back"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Buenos Aires",
+      "wikidata_current_club": "S.L. Benfica",
+      "wikidata_current_club_qid": "Q131499",
+      "photo": {
+        "filename": "Argentina team in St. Petersburg (cropped) Otamendi.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Argentina_team_in_St._Petersburg_%28cropped%29_Otamendi.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Argentina_team_in_St._Petersburg_%28cropped%29_Otamendi.jpg",
+        "width": 237,
+        "height": 346,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Кирилл Венедиктов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nicolás-otamendi.jpg"
+      }
+    },
+    {
+      "slug": "nicolás-tagliafico",
+      "display_name": "Nicolás Tagliafico",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1992-08-31",
+      "age": 33,
+      "caps": 75,
+      "goals": 1,
+      "club_from_squad_table": "Lyon",
+      "wikipedia_title": "Nicolás Tagliafico",
+      "wikidata_qid": "Q3876530",
+      "qid": "Q3876530",
+      "name": "Nicolás Tagliafico",
+      "description": "Argentine association football player",
+      "date_of_birth": "1992-08-31",
+      "place_of_birth_qid": "Q2195778",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 172.0,
+      "weight_kg": 65.0,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q214978",
+          "start": "2015-01-01",
+          "end": "2017-12-00"
+        },
+        {
+          "team_qid": "Q692646",
+          "start": "2010-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q12230",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q2902690",
+          "start": "2009-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q81888",
+          "start": "2018-01-00",
+          "end": "2022-07-00"
+        },
+        {
+          "team_qid": "Q704",
+          "start": "2022-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2017-06-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q704",
+      "image_filename": "Argentina team in St. Petersburg (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Tagliafico",
+      "transfermarkt_id": "131225",
+      "fifa_player_id": "308322",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Lyon",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Rafael Calzada",
+      "wikidata_current_club": "Olympique Lyonnais",
+      "wikidata_current_club_qid": "Q704",
+      "photo": {
+        "filename": "Argentina team in St. Petersburg (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Argentina_team_in_St._Petersburg_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Argentina_team_in_St._Petersburg_%28cropped%29.jpg",
+        "width": 187,
+        "height": 300,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Кирилл Венедиктов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nicolás-tagliafico.jpg"
+      }
+    },
+    {
+      "slug": "marcos-acuña",
+      "display_name": "Marcos Acuña",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1991-10-28",
+      "age": 34,
+      "caps": 62,
+      "goals": 0,
+      "club_from_squad_table": "River Plate",
+      "wikipedia_title": "Marcos Acuña",
+      "wikidata_qid": "Q17462635",
+      "qid": "Q17462635",
+      "name": "Marcos Acuña",
+      "description": "Argentine association football player",
+      "date_of_birth": "1991-10-28",
+      "place_of_birth_qid": "Q147196",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 172.0,
+      "weight_kg": 73.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q910444",
+          "start": "2011-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q276533",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q79800",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q170703",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q75729",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q10329",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q170703",
+      "image_filename": "Argentina - Colombia 2022 (52) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marcos_Acu%C3%B1a",
+      "transfermarkt_id": "60410",
+      "fifa_player_id": "401204",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "River Plate",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Zapala",
+      "wikidata_current_club": "Boca Juniors",
+      "wikidata_current_club_qid": "Q170703",
+      "photo": {
+        "filename": "Argentina - Colombia 2022 (52) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Argentina_-_Colombia_2022_%2852%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Argentina_-_Colombia_2022_%2852%29_%28cropped%29.jpg",
+        "width": 774,
+        "height": 903,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Jmmuguerza\" title=\"User:Jmmuguerza\">jmmuguerza</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marcos-acuña.jpg"
+      }
+    },
+    {
+      "slug": "nahuel-molina",
+      "display_name": "Nahuel Molina",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-04-06",
+      "age": 28,
+      "caps": 58,
+      "goals": 1,
+      "club_from_squad_table": "Atlético Madrid",
+      "wikipedia_title": "Nahuel Molina",
+      "wikidata_qid": "Q22082590",
+      "qid": "Q22082590",
+      "name": "Nahuel Molina",
+      "description": "Argentine association football player",
+      "date_of_birth": "1998-04-06",
+      "place_of_birth_qid": "Q1011693",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 175.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q318307",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q170703",
+          "start": "2016-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1024338",
+          "start": "2018-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2798",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8701",
+      "image_filename": "Nahuel Molina WC2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nahuel_Molina",
+      "transfermarkt_id": "424042",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlético Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Embalse",
+      "photo": {
+        "filename": "Nahuel Molina WC2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Nahuel_Molina_WC2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Nahuel_Molina_WC2022.jpg",
+        "width": 309,
+        "height": 413,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Hossein Zohrevand",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nahuel-molina.jpg"
+      }
+    },
+    {
+      "slug": "cristian-romero",
+      "display_name": "Cristian Romero",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-04-27",
+      "age": 28,
+      "caps": 49,
+      "goals": 3,
+      "club_from_squad_table": "Tottenham Hotspur",
+      "wikipedia_title": "Cristian Romero",
+      "wikidata_qid": "Q28058687",
+      "qid": "Q28058687",
+      "name": "Cristian Romero",
+      "description": "Argentine association football player (born 1998)",
+      "date_of_birth": "1998-04-27",
+      "place_of_birth_qid": "Q44210",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 188.0,
+      "weight_kg": 85.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q59962",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2074",
+          "start": "2018-07-00",
+          "end": "2019-07-12"
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2019-07-12",
+          "end": "2021-08-06"
+        },
+        {
+          "team_qid": "Q2074",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1886",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q1886",
+          "start": "2021-08-06",
+          "end": "2022-08-30"
+        },
+        {
+          "team_qid": "Q18741",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q18741",
+          "start": "2022-08-30",
+          "end": null
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2021-06-03",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18741",
+      "image_filename": "Cristian Romero WC2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cristian_Romero",
+      "transfermarkt_id": "355915",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Tottenham Hotspur",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Córdoba",
+      "wikidata_current_club": "Tottenham Hotspur F.C.",
+      "wikidata_current_club_qid": "Q18741",
+      "photo": {
+        "filename": "Cristian Romero WC2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cristian_Romero_WC2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cristian_Romero_WC2022.jpg",
+        "width": 668,
+        "height": 1058,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Hossein Zohrevand",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/cristian-romero.jpg"
+      }
+    },
+    {
+      "slug": "germán-pezzella",
+      "display_name": "Germán Pezzella",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1991-06-27",
+      "age": 34,
+      "caps": 42,
+      "goals": 3,
+      "club_from_squad_table": "River Plate",
+      "wikipedia_title": "Germán Pezzella",
+      "wikidata_qid": "Q3761173",
+      "qid": "Q3761173",
+      "name": "Germán Pezzella",
+      "description": "Argentine footballer",
+      "date_of_birth": "1991-06-27",
+      "place_of_birth_qid": "Q54108",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 187.0,
+      "weight_kg": 82.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15799",
+          "start": "2009-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q8723",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2009-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q2462207",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q2052",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q79800",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8723",
+      "image_filename": "Germán Pezella en los premios Jorge Newbery 2024 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Germ%C3%A1n_Pezzella",
+      "transfermarkt_id": "113133",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "River Plate",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Bahía Blanca",
+      "wikidata_current_club": "Real Betis Balompié",
+      "wikidata_current_club_qid": "Q8723",
+      "photo": {
+        "filename": "Germán Pezella en los premios Jorge Newbery 2024 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Germ%C3%A1n_Pezella_en_los_premios_Jorge_Newbery_2024_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Germ%C3%A1n_Pezella_en_los_premios_Jorge_Newbery_2024_%28cropped%29.jpg",
+        "width": 304,
+        "height": 367,
+        "license": "CC BY 2.5",
+        "license_url": "https://creativecommons.org/licenses/by/2.5",
+        "attribution": "GCBA",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/germán-pezzella.jpg"
+      }
+    },
+    {
+      "slug": "gonzalo-montiel",
+      "display_name": "Gonzalo Montiel",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-01-01",
+      "age": 29,
+      "caps": 38,
+      "goals": 2,
+      "club_from_squad_table": "River Plate",
+      "wikipedia_title": "Gonzalo Montiel",
+      "wikidata_qid": "Q26255087",
+      "qid": "Q26255087",
+      "name": "Gonzalo Montiel",
+      "description": "Argentinian association football player",
+      "date_of_birth": "1997-01-01",
+      "place_of_birth_qid": "Q6163801",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 175.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15799",
+          "start": "2016-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q10329",
+          "start": "2021-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q19490",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q15799",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15799",
+      "image_filename": "Palestino - River Plate 20190424 05.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gonzalo_Montiel",
+      "transfermarkt_id": "402733",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "River Plate",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Virrey del Pino",
+      "wikidata_current_club": "Club Atlético River Plate",
+      "wikidata_current_club_qid": "Q15799",
+      "photo": {
+        "filename": "Palestino - River Plate 20190424 05.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Palestino_-_River_Plate_20190424_05.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Palestino_-_River_Plate_20190424_05.jpg/960px-Palestino_-_River_Plate_20190424_05.jpg",
+        "width": 1785,
+        "height": 1786,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Carlos_yo\" title=\"User:Carlos yo\">Carlos Figueroa Rojas</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/gonzalo-montiel.jpg"
+      }
+    },
+    {
+      "slug": "lisandro-martínez",
+      "display_name": "Lisandro Martínez",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-01-18",
+      "age": 28,
+      "caps": 26,
+      "goals": 1,
+      "club_from_squad_table": "Manchester United",
+      "wikipedia_title": "Lisandro Martínez",
+      "wikidata_qid": "Q30881092",
+      "qid": "Q30881092",
+      "name": "Lisandro Martínez",
+      "description": "Argentine association football player",
+      "date_of_birth": "1998-01-18",
+      "place_of_birth_qid": "Q52602",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 175.0,
+      "weight_kg": 77.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q221882",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1024338",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q1024338",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q2462207",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q81888",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18656",
+      "image_filename": "Lisandro Martinez 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lisandro_Mart%C3%ADnez",
+      "transfermarkt_id": "480762",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester United",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Gualeguay",
+      "wikidata_current_club": "Manchester United F.C.",
+      "wikidata_current_club_qid": "Q18656",
+      "photo": {
+        "filename": "Lisandro Martinez 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lisandro_Martinez_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lisandro_Martinez_2022.jpg",
+        "width": 672,
+        "height": 1008,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lisandro-martínez.jpg"
+      }
+    },
+    {
+      "slug": "lucas-martínez-quarta",
+      "display_name": "Lucas Martínez Quarta",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-05-10",
+      "age": 30,
+      "caps": 16,
+      "goals": 0,
+      "club_from_squad_table": "River Plate",
+      "wikipedia_title": "Lucas Martínez Quarta",
+      "wikidata_qid": "Q20669464",
+      "qid": "Q20669464",
+      "name": "Lucas Martínez Quarta",
+      "description": "Argentina association football player",
+      "date_of_birth": "1996-05-10",
+      "place_of_birth_qid": "Q52607",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 181.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q336286",
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15799",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q2052",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15799",
+      "image_filename": "Lucas Martínez Quarta 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_Mart%C3%ADnez_Quarta",
+      "transfermarkt_id": "373373",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "River Plate",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender",
+        "midfielder"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Mar del Plata",
+      "wikidata_current_club": "Club Atlético River Plate",
+      "wikidata_current_club_qid": "Q15799",
+      "photo": {
+        "filename": "Lucas Martínez Quarta 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Lucas_Mart%C3%ADnez_Quarta_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lucas_Mart%C3%ADnez_Quarta_2022.jpg/960px-Lucas_Mart%C3%ADnez_Quarta_2022.jpg",
+        "width": 1337,
+        "height": 2046,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Jmmuguerza\" title=\"User:Jmmuguerza\">jmmuguerza</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lucas-martínez-quarta.jpg"
+      }
+    },
+    {
+      "slug": "leonardo-balerdi",
+      "display_name": "Leonardo Balerdi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-01-26",
+      "age": 27,
+      "caps": 11,
+      "goals": 0,
+      "club_from_squad_table": "Marseille",
+      "wikipedia_title": "Leonardo Balerdi",
+      "wikidata_qid": "Q50233588",
+      "qid": "Q50233588",
+      "name": "Leonardo Balerdi",
+      "description": "Argentine-Italian footballer",
+      "date_of_birth": "1999-01-26",
+      "place_of_birth_qid": "Q1756745",
+      "citizenship_qids": [
+        "Q414",
+        "Q38"
+      ],
+      "height_cm": 187.0,
+      "weight_kg": 85.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q170703",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q132885",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q132885",
+      "image_filename": "Leonardo Balerdi OM (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leonardo_Balerdi",
+      "transfermarkt_id": "575998",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Marseille",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Argentina",
+        "Italy"
+      ],
+      "place_of_birth": "Villa Mercedes",
+      "wikidata_current_club": "Olympique de Marseille",
+      "wikidata_current_club_qid": "Q132885",
+      "photo": {
+        "filename": "Leonardo Balerdi OM (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Leonardo_Balerdi_OM_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Leonardo_Balerdi_OM_%28cropped%29.jpg",
+        "width": 874,
+        "height": 1120,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bigmatbasket&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bigmatbasket (page does not exist)\">Bigmatbasket</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/leonardo-balerdi.jpg"
+      }
+    },
+    {
+      "slug": "facundo-medina",
+      "display_name": "Facundo Medina",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-05-28",
+      "age": 27,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Marseille",
+      "wikipedia_title": "Facundo Medina",
+      "wikidata_qid": "Q28056787",
+      "qid": "Q28056787",
+      "name": "Facundo Medina",
+      "description": "Argentinian association football player",
+      "date_of_birth": "1999-05-28",
+      "place_of_birth_qid": "Q1486",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 1.84,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q336286",
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1022939",
+          "start": "2018-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q191843",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q191843",
+      "image_filename": "Entraînement du RC Lens - 15 juillet 2020 21.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Facundo_Medina",
+      "transfermarkt_id": "474800",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Marseille",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender",
+        "full-back"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Buenos Aires",
+      "wikidata_current_club": "R.C. Lens",
+      "wikidata_current_club_qid": "Q191843",
+      "photo": {
+        "filename": "Entraînement du RC Lens - 15 juillet 2020 21.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Entra%C3%AEnement_du_RC_Lens_-_15_juillet_2020_21.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Entra%C3%AEnement_du_RC_Lens_-_15_juillet_2020_21.jpg/960px-Entra%C3%AEnement_du_RC_Lens_-_15_juillet_2020_21.jpg",
+        "width": 2592,
+        "height": 3456,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterhéninois (page does not exist)\">Supporterhéninois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/facundo-medina.jpg"
+      }
+    },
+    {
+      "slug": "marcos-senesi",
+      "display_name": "Marcos Senesi",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-05-10",
+      "age": 29,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Bournemouth",
+      "wikipedia_title": "Marcos Senesi",
+      "wikidata_qid": "Q23413053",
+      "qid": "Q23413053",
+      "name": "Marcos Senesi",
+      "description": "Argentine association football player (born 1997)",
+      "date_of_birth": "1997-05-10",
+      "place_of_birth_qid": "Q52578",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 79.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q218282",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q218282",
+      "image_filename": "Marcos Senesi 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marcos_Senesi",
+      "transfermarkt_id": "469781",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bournemouth",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Concordia",
+      "wikidata_current_club": "San Lorenzo de Almagro",
+      "wikidata_current_club_qid": "Q218282",
+      "photo": {
+        "filename": "Marcos Senesi 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Marcos_Senesi_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Marcos_Senesi_2022.jpg",
+        "width": 747,
+        "height": 977,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "AFC Bournemouth",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marcos-senesi.jpg"
+      }
+    },
+    {
+      "slug": "agustín-giay",
+      "display_name": "Agustín Giay",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-01-16",
+      "age": 22,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Palmeiras",
+      "wikipedia_title": "Agustín Giay",
+      "wikidata_qid": "Q112854266",
+      "qid": "Q112854266",
+      "name": "Agustín Giay",
+      "description": "Argentine footballer",
+      "date_of_birth": "2004-01-16",
+      "place_of_birth_qid": "Q2261100",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Entrenamiento Argentina Sub20 previo al mundial - BugWarp (36).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Giay",
+      "transfermarkt_id": "849582",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "San Carlos Centro",
+      "current_club": "Palmeiras",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Entrenamiento Argentina Sub20 previo al mundial - BugWarp (36).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Entrenamiento_Argentina_Sub20_previo_al_mundial_-_BugWarp_%2836%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Entrenamiento_Argentina_Sub20_previo_al_mundial_-_BugWarp_%2836%29.jpg/960px-Entrenamiento_Argentina_Sub20_previo_al_mundial_-_BugWarp_%2836%29.jpg",
+        "width": 3728,
+        "height": 5600,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:BugWarp\" title=\"User:BugWarp\">BugWarp</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/agustín-giay.jpg"
+      }
+    },
+    {
+      "slug": "kevin-mac-allister",
+      "display_name": "Kevin Mac Allister",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-11-07",
+      "age": 28,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Union Saint-Gilloise",
+      "wikipedia_title": "Kevin Mac Allister",
+      "wikidata_qid": "Q26838763",
+      "qid": "Q26838763",
+      "name": "Kevin Mac Allister",
+      "description": "Argentine association football player",
+      "date_of_birth": "1997-11-07",
+      "place_of_birth_qid": "Q1486",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 1.75,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q220621",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q196160",
+          "start": "2023-07-12",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q196160",
+      "image_filename": "Go Ahead Eagles - Royale Union Saint-Gillloise - 53852891619 (Kevin Mac Allister).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Mac_Allister",
+      "transfermarkt_id": "428920",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Union Saint-Gilloise",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Buenos Aires",
+      "wikidata_current_club": "Royale Union Saint-Gilloise",
+      "wikidata_current_club_qid": "Q196160",
+      "photo": {
+        "filename": "Go Ahead Eagles - Royale Union Saint-Gillloise - 53852891619 (Kevin Mac Allister).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Go_Ahead_Eagles_-_Royale_Union_Saint-Gillloise_-_53852891619_%28Kevin_Mac_Allister%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Go_Ahead_Eagles_-_Royale_Union_Saint-Gillloise_-_53852891619_%28Kevin_Mac_Allister%29.jpg",
+        "width": 653,
+        "height": 997,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "Carlo Bruil Fotografie",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kevin-mac-allister.jpg"
+      }
+    },
+    {
+      "slug": "gabriel-rojas",
+      "display_name": "Gabriel Rojas",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-06-22",
+      "age": 28,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Racing",
+      "wikipedia_title": "Gabriel Rojas (footballer, born 1997)",
+      "wikidata_qid": "Q26263573",
+      "qid": "Q26263573",
+      "name": "Gabriel Rojas",
+      "description": "Argentinian association footballer",
+      "date_of_birth": "1997-06-22",
+      "place_of_birth_qid": "Q1399432",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 68.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q218282",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q218282",
+      "image_filename": "Gabriel Rojas 2017.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel_Rojas_(footballer,_born_1997)",
+      "transfermarkt_id": "471639",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Racing",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Almirante Brown Partido",
+      "wikidata_current_club": "San Lorenzo de Almagro",
+      "wikidata_current_club_qid": "Q218282",
+      "photo": {
+        "filename": "Gabriel Rojas 2017.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gabriel_Rojas_2017.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gabriel_Rojas_2017.jpg",
+        "width": 955,
+        "height": 1326,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/75116651@N03\">Agencia de Noticias ANDES</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/gabriel-rojas.jpg"
+      }
+    },
+    {
+      "slug": "nicolás-capaldo",
+      "display_name": "Nicolás Capaldo",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-09-14",
+      "age": 27,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Hamburger SV",
+      "wikipedia_title": "Nicolás Capaldo",
+      "wikidata_qid": "Q60842498",
+      "qid": "Q60842498",
+      "name": "Nicolás Capaldo",
+      "description": "Argentine association football player",
+      "date_of_birth": "1998-09-14",
+      "place_of_birth_qid": "Q44215",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 1.77,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q170703",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q170703",
+      "image_filename": "RB Salzburg gegen DAC Dunajská Streda (Testspiel 25. Juni 2021) 10.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Capaldo",
+      "transfermarkt_id": "649672",
+      "wikidata_date_of_birth": "1997-09-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Hamburger SV",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Santa Rosa",
+      "wikidata_current_club": "Boca Juniors",
+      "wikidata_current_club_qid": "Q170703",
+      "photo": {
+        "filename": "RB Salzburg gegen DAC Dunajská Streda (Testspiel 25. Juni 2021) 10.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/RB_Salzburg_gegen_DAC_Dunajsk%C3%A1_Streda_%28Testspiel_25._Juni_2021%29_10.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RB_Salzburg_gegen_DAC_Dunajsk%C3%A1_Streda_%28Testspiel_25._Juni_2021%29_10.jpg/960px-RB_Salzburg_gegen_DAC_Dunajsk%C3%A1_Streda_%28Testspiel_25._Juni_2021%29_10.jpg",
+        "width": 3251,
+        "height": 3874,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nicolás-capaldo.jpg"
+      }
+    },
+    {
+      "slug": "lautaro-di-lollo",
+      "display_name": "Lautaro Di Lollo",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-03-10",
+      "age": 22,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Boca Juniors",
+      "wikipedia_title": "Lautaro Di Lollo",
+      "wikidata_qid": "Q116196701",
+      "qid": "Q116196701",
+      "name": "Lautaro Di Lollo",
+      "description": "Argentine professional footballer",
+      "date_of_birth": "2004-03-10",
+      "place_of_birth_qid": "Q1486",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 1.87,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q170703",
+          "start": "2024-05-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2022-05-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q170703",
+      "image_filename": "Lautaro Di Lollo (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lautaro_Di_Lollo",
+      "transfermarkt_id": "1019744",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Boca Juniors",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Buenos Aires",
+      "photo": {
+        "filename": "Lautaro Di Lollo (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Lautaro_Di_Lollo_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Lautaro_Di_Lollo_%28cropped%29.jpg",
+        "width": 952,
+        "height": 1527,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:BugWarp\" title=\"User:BugWarp\">BugWarp</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lautaro-di-lollo.jpg"
+      }
+    },
+    {
+      "slug": "zaid-romero",
+      "display_name": "Zaid Romero",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1999-12-15",
+      "age": 26,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Getafe",
+      "wikipedia_title": "Zaid Romero",
+      "wikidata_qid": "Q92550871",
+      "qid": "Q92550871",
+      "name": "Zaid Romero",
+      "description": "Argentine association football player",
+      "date_of_birth": "1999-12-15",
+      "place_of_birth_qid": "Q44237",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 195.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q80882",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q80882",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Zaid_Romero",
+      "transfermarkt_id": "741142",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Getafe",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Mendoza",
+      "wikidata_current_club": "Godoy Cruz Antonio Tomba",
+      "wikidata_current_club_qid": "Q80882",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "rodrigo-de-paul",
+      "display_name": "Rodrigo De Paul",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-05-24",
+      "age": 32,
+      "caps": 85,
+      "goals": 2,
+      "club_from_squad_table": "Inter Miami CF",
+      "wikipedia_title": "Rodrigo De Paul",
+      "wikidata_qid": "Q6110670",
+      "qid": "Q6110670",
+      "name": "Rodrigo De Paul",
+      "description": "Argentine association football player",
+      "date_of_birth": "1994-05-24",
+      "place_of_birth_qid": "Q2488555",
+      "citizenship_qids": [
+        "Q414",
+        "Q38"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q276533",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q10333",
+          "start": "2014-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q276533",
+          "start": "2016-02-00",
+          "end": "2016-06-00"
+        },
+        {
+          "team_qid": "Q2798",
+          "start": "2016-07-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q16844931",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q16844931",
+      "image_filename": "Rodrigo De Paul NYCFC Miami 24 Sep 2025-018 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rodrigo_De_Paul",
+      "transfermarkt_id": "255901",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Inter Miami CF",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Argentina",
+        "Italy"
+      ],
+      "place_of_birth": "Sarandí",
+      "photo": {
+        "filename": "Rodrigo De Paul NYCFC Miami 24 Sep 2025-018 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Rodrigo_De_Paul_NYCFC_Miami_24_Sep_2025-018_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rodrigo_De_Paul_NYCFC_Miami_24_Sep_2025-018_%28cropped%29.jpg/960px-Rodrigo_De_Paul_NYCFC_Miami_24_Sep_2025-018_%28cropped%29.jpg",
+        "width": 2697,
+        "height": 3594,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/rodrigo-de-paul.jpg"
+      }
+    },
+    {
+      "slug": "leandro-paredes",
+      "display_name": "Leandro Paredes",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-06-29",
+      "age": 31,
+      "caps": 77,
+      "goals": 5,
+      "club_from_squad_table": "Boca Juniors",
+      "wikipedia_title": "Leandro Paredes",
+      "wikidata_qid": "Q630170",
+      "qid": "Q630170",
+      "name": "Leandro Paredes",
+      "description": "Argentine footballer",
+      "date_of_birth": "1994-06-29",
+      "place_of_birth_qid": "Q2466841",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 184.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2739",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q170703",
+          "start": "2010-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q2037",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q6703",
+          "start": "2015-07-00",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q2902690",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2015-06-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q29108",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2019-00-00",
+          "end": "2023-08-16"
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q2739",
+          "start": "2023-08-16",
+          "end": "2025-07-00"
+        },
+        {
+          "team_qid": "Q170703",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q170703",
+      "image_filename": "Leandro Paredes 2018 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leandro_Paredes",
+      "transfermarkt_id": "166237",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Boca Juniors",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "San Justo",
+      "photo": {
+        "filename": "Leandro Paredes 2018 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Leandro_Paredes_2018_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Leandro_Paredes_2018_%28cropped%29.jpg",
+        "width": 628,
+        "height": 916,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Вячеслав Евдокимов",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/leandro-paredes.jpg"
+      }
+    },
+    {
+      "slug": "giovani-lo-celso",
+      "display_name": "Giovani Lo Celso",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-04-09",
+      "age": 30,
+      "caps": 65,
+      "goals": 4,
+      "club_from_squad_table": "Real Betis",
+      "wikipedia_title": "Giovani Lo Celso",
+      "wikidata_qid": "Q20743436",
+      "qid": "Q20743436",
+      "name": "Giovani Lo Celso",
+      "description": "Argentine association football player",
+      "date_of_birth": "1996-04-09",
+      "place_of_birth_qid": "Q52535",
+      "citizenship_qids": [
+        "Q414",
+        "Q38"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q318307",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q8723",
+          "start": "2018-08-00",
+          "end": "2019-06-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2016-07-00",
+          "end": "2019-07-00"
+        },
+        {
+          "team_qid": "Q318307",
+          "start": "2016-07-00",
+          "end": "2016-12-00"
+        },
+        {
+          "team_qid": "Q8723",
+          "start": "2019-07-00",
+          "end": "2020-07-00"
+        },
+        {
+          "team_qid": "Q18741",
+          "start": "2019-08-00",
+          "end": "2020-06-30"
+        },
+        {
+          "team_qid": "Q18741",
+          "start": "2020-07-01",
+          "end": "2024-08-30"
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2022-01-00",
+          "end": "2022-06-30"
+        },
+        {
+          "team_qid": "Q12297",
+          "start": "2022-08-00",
+          "end": "2023-06-30"
+        },
+        {
+          "team_qid": "Q2462207",
+          "start": "2016-00-00",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q8723",
+          "start": "2024-08-30",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8723",
+      "image_filename": "2020-03-10 Fußball, Männer, UEFA Champions League Achtelfinale, RB Leipzig - Tottenham Hotspur 1DX 3705 by Stepro.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giovani_Lo_Celso",
+      "transfermarkt_id": "348795",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Betis",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Argentina",
+        "Italy"
+      ],
+      "place_of_birth": "Rosario",
+      "wikidata_current_club": "Real Betis Balompié",
+      "wikidata_current_club_qid": "Q8723",
+      "photo": {
+        "filename": "2020-03-10 Fußball, Männer, UEFA Champions League Achtelfinale, RB Leipzig - Tottenham Hotspur 1DX 3705 by Stepro.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/2020-03-10_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League_Achtelfinale%2C_RB_Leipzig_-_Tottenham_Hotspur_1DX_3705_by_Stepro.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2020-03-10_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League_Achtelfinale%2C_RB_Leipzig_-_Tottenham_Hotspur_1DX_3705_by_Stepro.jpg/960px-2020-03-10_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League_Achtelfinale%2C_RB_Leipzig_-_Tottenham_Hotspur_1DX_3705_by_Stepro.jpg",
+        "width": 2738,
+        "height": 2738,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/giovani-lo-celso.jpg"
+      }
+    },
+    {
+      "slug": "alexis-mac-allister",
+      "display_name": "Alexis Mac Allister",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-12-24",
+      "age": 27,
+      "caps": 44,
+      "goals": 6,
+      "club_from_squad_table": "Liverpool",
+      "wikipedia_title": "Alexis Mac Allister",
+      "wikidata_qid": "Q33297140",
+      "qid": "Q33297140",
+      "name": "Alexis Mac Allister",
+      "description": "Argentine association football player (born 1998)",
+      "date_of_birth": "1998-12-24",
+      "place_of_birth_qid": "Q44215",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 176.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q220621",
+          "start": "2016-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q19453",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q220621",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q170703",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q1130849",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2462207",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1130849",
+      "image_filename": "Alexis Mac Allister WC 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Mac_Allister",
+      "transfermarkt_id": "534033",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Liverpool",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Santa Rosa",
+      "wikidata_current_club": "Liverpool F.C.",
+      "wikidata_current_club_qid": "Q1130849",
+      "photo": {
+        "filename": "Alexis Mac Allister WC 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alexis_Mac_Allister_WC_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alexis_Mac_Allister_WC_2022.jpg",
+        "width": 720,
+        "height": 1222,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<bdi><a href=\"https://www.wikidata.org/wiki/Q117457017\" class=\"extiw\" title=\"d:Q117457017\"><span title=\"Iranian Photographer\">Hossein Zohrevand</span></a></bdi>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alexis-mac-allister.jpg"
+      }
+    },
+    {
+      "slug": "enzo-fernández",
+      "display_name": "Enzo Fernández",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-01-17",
+      "age": 25,
+      "caps": 40,
+      "goals": 6,
+      "club_from_squad_table": "Chelsea",
+      "wikipedia_title": "Enzo Fernández",
+      "wikidata_qid": "Q96105248",
+      "qid": "Q96105248",
+      "name": "Enzo Fernández",
+      "description": "Argentine footballer (born 2001)",
+      "date_of_birth": "2001-01-17",
+      "place_of_birth_qid": "Q781245",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15799",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1024338",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q131499",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9616",
+      "image_filename": "Enzo Fernández 2025 FIFA Club World Cup Final.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Enzo_Fern%C3%A1ndez",
+      "transfermarkt_id": "648195",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Chelsea",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "General San Martín",
+      "wikidata_current_club": "Chelsea F.C.",
+      "wikidata_current_club_qid": "Q9616",
+      "photo": {
+        "filename": "Enzo Fernández 2025 FIFA Club World Cup Final.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Enzo_Fern%C3%A1ndez_2025_FIFA_Club_World_Cup_Final.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Enzo_Fern%C3%A1ndez_2025_FIFA_Club_World_Cup_Final.jpg",
+        "width": 459,
+        "height": 670,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "The White House",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/enzo-fernández.jpg"
+      }
+    },
+    {
+      "slug": "exequiel-palacios",
+      "display_name": "Exequiel Palacios",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-10-05",
+      "age": 27,
+      "caps": 38,
+      "goals": 0,
+      "club_from_squad_table": "Bayer Leverkusen",
+      "wikipedia_title": "Exequiel Palacios",
+      "wikidata_qid": "Q19345715",
+      "qid": "Q19345715",
+      "name": "Exequiel Palacios",
+      "description": "Argentine association football player",
+      "date_of_birth": "1998-10-05",
+      "place_of_birth_qid": "Q1395079",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 177.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15799",
+          "start": "2015-01-01",
+          "end": "2019-12-31"
+        },
+        {
+          "team_qid": "Q104761",
+          "start": "2020-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2902690",
+          "start": "2015-00-00",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2017-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2018-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q104761",
+      "image_filename": "Palestino - River Plate 20190424 16.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Exequiel_Palacios",
+      "transfermarkt_id": "401578",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayer Leverkusen",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Famaillá",
+      "wikidata_current_club": "Bayer 04 Leverkusen",
+      "wikidata_current_club_qid": "Q104761",
+      "photo": {
+        "filename": "Palestino - River Plate 20190424 16.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Palestino_-_River_Plate_20190424_16.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Palestino_-_River_Plate_20190424_16.jpg/960px-Palestino_-_River_Plate_20190424_16.jpg",
+        "width": 2140,
+        "height": 3144,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Carlos_yo\" title=\"User:Carlos yo\">Carlos Figueroa Rojas</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/exequiel-palacios.jpg"
+      }
+    },
+    {
+      "slug": "guido-rodríguez",
+      "display_name": "Guido Rodríguez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-04-12",
+      "age": 32,
+      "caps": 30,
+      "goals": 1,
+      "club_from_squad_table": "Valencia",
+      "wikipedia_title": "Guido Rodríguez",
+      "wikidata_qid": "Q18224850",
+      "qid": "Q18224850",
+      "name": "Guido Rodríguez",
+      "description": "Argentine association footballer",
+      "date_of_birth": "1994-04-12",
+      "place_of_birth_qid": "Q7665215",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 185.0,
+      "weight_kg": 78.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15799",
+          "start": "2014-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q1024338",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1103168",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q79800",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q459090",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q8723",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1024338",
+      "image_filename": "Guido Rodríguez.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Guido_Rodr%C3%ADguez",
+      "transfermarkt_id": "342385",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Valencia",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Sáenz Peña",
+      "wikidata_current_club": "Defensa y Justicia",
+      "wikidata_current_club_qid": "Q1024338",
+      "photo": {
+        "filename": "Guido Rodríguez.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Guido_Rodr%C3%ADguez.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Guido_Rodr%C3%ADguez.png",
+        "width": 636,
+        "height": 830,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCeRqf2vsTNvrQdqaoqjU9rA\">Los Doble 7</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/guido-rodríguez.png"
+      }
+    },
+    {
+      "slug": "thiago-almada",
+      "display_name": "Thiago Almada",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-04-26",
+      "age": 25,
+      "caps": 14,
+      "goals": 4,
+      "club_from_squad_table": "Atlético Madrid",
+      "wikipedia_title": "Thiago Almada",
+      "wikidata_qid": "Q57293140",
+      "qid": "Q57293140",
+      "name": "Thiago Almada",
+      "description": "Argentine footballer",
+      "date_of_birth": "2001-04-26",
+      "place_of_birth_qid": "Q388695",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 1.71,
+      "weight_kg": 63.0,
+      "position_qids": [
+        "Q193592",
+        "Q6037916"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q215163",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q1886",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q80958",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        }
+      ],
+      "current_club_qid": "Q80958",
+      "image_filename": "Almada asse ol 2425.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thiago_Almada",
+      "transfermarkt_id": "576028",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlético Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder",
+        "inside forward"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Fuerte Apache",
+      "wikidata_current_club": "Botafogo F.R.",
+      "wikidata_current_club_qid": "Q80958",
+      "photo": {
+        "filename": "Almada asse ol 2425.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Almada_asse_ol_2425.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Almada_asse_ol_2425.png",
+        "width": 473,
+        "height": 777,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Paté kroute\">Paté kroute</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/thiago-almada.png"
+      }
+    },
+    {
+      "slug": "nicolás-domínguez",
+      "display_name": "Nicolás Domínguez",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-06-28",
+      "age": 27,
+      "caps": 11,
+      "goals": 1,
+      "club_from_squad_table": "Nottingham Forest",
+      "wikipedia_title": "Nicolás Domínguez",
+      "wikidata_qid": "Q29419531",
+      "qid": "Q29419531",
+      "name": "Nicolás Domínguez",
+      "description": "Argentinian association football player",
+      "date_of_birth": "1998-06-28",
+      "place_of_birth_qid": "Q635862",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 1.79,
+      "weight_kg": 73.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q215163",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q215163",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Dom%C3%ADnguez",
+      "transfermarkt_id": "497291",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nottingham Forest",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Haedo",
+      "wikidata_current_club": "Club Atlético Vélez Sarsfield",
+      "wikidata_current_club_qid": "Q215163",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "giuliano-simeone",
+      "display_name": "Giuliano Simeone",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-12-18",
+      "age": 23,
+      "caps": 11,
+      "goals": 1,
+      "club_from_squad_table": "Atlético Madrid",
+      "wikipedia_title": "Giuliano Simeone",
+      "wikidata_qid": "Q111672750",
+      "qid": "Q111672750",
+      "name": "Giuliano Simeone",
+      "description": "Argentine footballer (born 2002)",
+      "date_of_birth": "2002-12-18",
+      "place_of_birth_qid": "Q220",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 1.73,
+      "teams": [
+        {
+          "team_qid": "Q780539",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2022-07-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q10308",
+          "start": "2022-07-04",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q223620",
+          "start": "2023-07-21",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q2462207",
+          "start": "2024-06-08",
+          "end": null
+        },
+        {
+          "team_qid": "Q23881840",
+          "start": "2024-07-19",
+          "end": "2024-08-02"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2024-11-20",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8701",
+      "image_filename": "Giuliano Simeone, FC Salzburg vs. Atletico Madrid (2025-01-29 UEFA Championsleague) 53 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giuliano_Simeone",
+      "transfermarkt_id": "742201",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlético Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Rome",
+      "photo": {
+        "filename": "Giuliano Simeone, FC Salzburg vs. Atletico Madrid (2025-01-29 UEFA Championsleague) 53 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Giuliano_Simeone%2C_FC_Salzburg_vs._Atletico_Madrid_%282025-01-29_UEFA_Championsleague%29_53_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Giuliano_Simeone%2C_FC_Salzburg_vs._Atletico_Madrid_%282025-01-29_UEFA_Championsleague%29_53_%28cropped%29.jpg",
+        "width": 686,
+        "height": 1048,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/giuliano-simeone.jpg"
+      }
+    },
+    {
+      "slug": "nico-paz",
+      "display_name": "Nico Paz",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-09-08",
+      "age": 21,
+      "caps": 8,
+      "goals": 1,
+      "club_from_squad_table": "Como",
+      "wikipedia_title": "Nico Paz",
+      "wikidata_qid": "Q111336539",
+      "qid": "Q111336539",
+      "name": "Nico Paz",
+      "description": "Spanish-Argentine football player",
+      "date_of_birth": "2004-09-08",
+      "place_of_birth_qid": "Q14328",
+      "citizenship_qids": [
+        "Q414",
+        "Q29"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q90326494"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8682",
+          "start": "2023-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q12217",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q1120838",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1120838",
+      "image_filename": "Nico Paz Como 2025.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nico_Paz",
+      "transfermarkt_id": "948294",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Como",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "attacking midfielder"
+      ],
+      "citizenship": [
+        "Argentina",
+        "Spain"
+      ],
+      "place_of_birth": "Santa Cruz de Tenerife",
+      "wikidata_current_club": "Como 1907",
+      "wikidata_current_club_qid": "Q1120838",
+      "photo": {
+        "filename": "Nico Paz Como 2025.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Nico_Paz_Como_2025.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Nico_Paz_Como_2025.jpg",
+        "width": 387,
+        "height": 721,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Fra_Casa\" title=\"User:Fra Casa\">Fra Casa</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nico-paz.jpg"
+      }
+    },
+    {
+      "slug": "valentín-barco",
+      "display_name": "Valentín Barco",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-07-23",
+      "age": 21,
+      "caps": 2,
+      "goals": 1,
+      "club_from_squad_table": "Strasbourg",
+      "wikipedia_title": "Valentín Barco",
+      "wikidata_qid": "Q107542811",
+      "qid": "Q107542811",
+      "name": "Valentín Barco",
+      "description": "Argentine asociation football player",
+      "date_of_birth": "2004-07-23",
+      "place_of_birth_qid": "Q1486",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 1.72,
+      "image_filename": "Entrenamiento Argentina Sub20 previo al mundial - BugWarp (13) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Valent%C3%ADn_Barco",
+      "transfermarkt_id": "849410",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Buenos Aires",
+      "current_club": "Strasbourg",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Entrenamiento Argentina Sub20 previo al mundial - BugWarp (13) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Entrenamiento_Argentina_Sub20_previo_al_mundial_-_BugWarp_%2813%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Entrenamiento_Argentina_Sub20_previo_al_mundial_-_BugWarp_%2813%29_%28cropped%29.jpg/960px-Entrenamiento_Argentina_Sub20_previo_al_mundial_-_BugWarp_%2813%29_%28cropped%29.jpg",
+        "width": 1671,
+        "height": 3356,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:BugWarp\" title=\"User:BugWarp\">BugWarp</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/valentín-barco.jpg"
+      }
+    },
+    {
+      "slug": "emiliano-buendía",
+      "display_name": "Emiliano Buendía",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-12-25",
+      "age": 29,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Aston Villa",
+      "wikipedia_title": "Emiliano Buendía",
+      "wikidata_qid": "Q18637343",
+      "qid": "Q18637343",
+      "name": "Emiliano Buendía",
+      "description": "Argentine association football player",
+      "date_of_birth": "1996-12-25",
+      "place_of_birth_qid": "Q52607",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 172.0,
+      "position_qids": [
+        "Q90326494"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q8806",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2349507",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q2713491",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2015-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8806",
+      "image_filename": "Emiliano Buendía 2022.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Emiliano_Buend%C3%ADa",
+      "transfermarkt_id": "321247",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Aston Villa",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "attacking midfielder"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Mar del Plata",
+      "wikidata_current_club": "Getafe CF",
+      "wikidata_current_club_qid": "Q8806",
+      "photo": {
+        "filename": "Emiliano Buendía 2022.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Emiliano_Buend%C3%ADa_2022.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Emiliano_Buend%C3%ADa_2022.jpg/960px-Emiliano_Buend%C3%ADa_2022.jpg",
+        "width": 1865,
+        "height": 3453,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Jmmuguerza\" title=\"User:Jmmuguerza\">jmmuguerza</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/emiliano-buendía.jpg"
+      }
+    },
+    {
+      "slug": "máximo-perrone",
+      "display_name": "Máximo Perrone",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-01-07",
+      "age": 23,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Como",
+      "wikipedia_title": "Máximo Perrone",
+      "wikidata_qid": "Q112338635",
+      "qid": "Q112338635",
+      "name": "Máximo Perrone",
+      "description": "Argentinian football player",
+      "date_of_birth": "2003-01-07",
+      "place_of_birth_qid": "Q1486",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 178.0,
+      "image_filename": "Entrenamiento Argentina Sub20 previo al mundial - BugWarp (14) (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%A1ximo_Perrone",
+      "transfermarkt_id": "668547",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Buenos Aires",
+      "current_club": "Como",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Entrenamiento Argentina Sub20 previo al mundial - BugWarp (14) (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Entrenamiento_Argentina_Sub20_previo_al_mundial_-_BugWarp_%2814%29_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Entrenamiento_Argentina_Sub20_previo_al_mundial_-_BugWarp_%2814%29_%28cropped%29.jpg/960px-Entrenamiento_Argentina_Sub20_previo_al_mundial_-_BugWarp_%2814%29_%28cropped%29.jpg",
+        "width": 2433,
+        "height": 4189,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:BugWarp\" title=\"User:BugWarp\">BugWarp</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/máximo-perrone.jpg"
+      }
+    },
+    {
+      "slug": "aníbal-moreno",
+      "display_name": "Aníbal Moreno",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1999-05-13",
+      "age": 27,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "River Plate",
+      "wikipedia_title": "Aníbal Moreno",
+      "wikidata_qid": "Q60842143",
+      "qid": "Q60842143",
+      "name": "Aníbal Moreno",
+      "description": "Argentine footballer",
+      "date_of_birth": "1999-05-13",
+      "place_of_birth_qid": "Q44162",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 177.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q221882",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q221882",
+      "image_filename": "Anibal-Moreno-Palmeiras-Liverpool-abr24-2.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/An%C3%ADbal_Moreno",
+      "transfermarkt_id": "642758",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "River Plate",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "San Fernando del Valle de Catamarca",
+      "wikidata_current_club": "Newell's Old Boys",
+      "wikidata_current_club_qid": "Q221882",
+      "photo": {
+        "filename": "Anibal-Moreno-Palmeiras-Liverpool-abr24-2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Anibal-Moreno-Palmeiras-Liverpool-abr24-2.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Anibal-Moreno-Palmeiras-Liverpool-abr24-2.jpg/960px-Anibal-Moreno-Palmeiras-Liverpool-abr24-2.jpg",
+        "width": 1306,
+        "height": 1743,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:NullReason\" title=\"User:NullReason\">NullReason</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/aníbal-moreno.jpg"
+      }
+    },
+    {
+      "slug": "milton-delgado",
+      "display_name": "Milton Delgado",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2005-06-16",
+      "age": 20,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Boca Juniors",
+      "wikipedia_title": "Milton Delgado",
+      "wikidata_qid": "Q126672677",
+      "qid": "Q126672677",
+      "name": "Milton Delgado",
+      "description": "Argentine footballer",
+      "date_of_birth": "2005-06-16",
+      "place_of_birth_qid": "Q2471226",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q18691898"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Milton_Delgado",
+      "transfermarkt_id": "1236677",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "positions": [
+        "defensive midfielder"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Rafael Castillo",
+      "current_club": "Boca Juniors",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "equi-fernández",
+      "display_name": "Equi Fernández",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-07-25",
+      "age": 23,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Bayer Leverkusen",
+      "wikipedia_title": "Equi Fernández",
+      "wikidata_qid": "Q83750159",
+      "qid": "Q83750159",
+      "name": "Ezequiel Fernández",
+      "description": "Argentine association football player (b. 2002)",
+      "date_of_birth": "2002-07-25",
+      "place_of_birth_qid": "Q1486",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 170.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q170703",
+          "start": "2021-07-00",
+          "end": "2024-07-00"
+        },
+        {
+          "team_qid": "Q80886",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q2902690",
+          "start": "2019-03-00",
+          "end": "2019-11-00"
+        },
+        {
+          "team_qid": "Q2462207",
+          "start": "2023-12-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q286191",
+          "start": "2024-08-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q104761",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q104761",
+      "image_filename": "Equi-Fernández-2025.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Equi_Fern%C3%A1ndez",
+      "transfermarkt_id": "664708",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayer Leverkusen",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Buenos Aires",
+      "wikidata_current_club": "Bayer 04 Leverkusen",
+      "wikidata_current_club_qid": "Q104761",
+      "photo": {
+        "filename": "Equi-Fernández-2025.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Equi-Fern%C3%A1ndez-2025.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Equi-Fern%C3%A1ndez-2025.jpg",
+        "width": 825,
+        "height": 1100,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Fuguito\" title=\"User:Fuguito\">Fuguito</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/equi-fernández.jpg"
+      }
+    },
+    {
+      "slug": "alan-varela",
+      "display_name": "Alan Varela",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-07-04",
+      "age": 24,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Porto",
+      "wikipedia_title": "Alan Varela",
+      "wikidata_qid": "Q104375627",
+      "qid": "Q104375627",
+      "name": "Alan Varela",
+      "description": "Argentine association football player",
+      "date_of_birth": "2001-07-04",
+      "place_of_birth_qid": "Q1308616",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 1.77,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alan_Varela",
+      "transfermarkt_id": "756990",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "La Matanza Partido",
+      "current_club": "Porto",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "FC Salzburg gegen FC Porto (2025-09-25 UEFA Euro League ) 63.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/FC_Salzburg_gegen_FC_Porto_%282025-09-25_UEFA_Euro_League_%29_63.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/FC_Salzburg_gegen_FC_Porto_%282025-09-25_UEFA_Euro_League_%29_63.jpg/960px-FC_Salzburg_gegen_FC_Porto_%282025-09-25_UEFA_Euro_League_%29_63.jpg",
+        "width": 2607,
+        "height": 2376,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "commons-category-search",
+        "local_path": "data/photos/alan-varela.jpg"
+      }
+    },
+    {
+      "slug": "lionel-messi",
+      "display_name": "Lionel Messi",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1987-06-24",
+      "age": 38,
+      "caps": 198,
+      "goals": 116,
+      "club_from_squad_table": "Inter Miami CF",
+      "wikipedia_title": "Lionel Messi",
+      "wikidata_qid": "Q615",
+      "qid": "Q615",
+      "name": "Lionel Messi",
+      "description": "Argentine association football player (born 1987)",
+      "date_of_birth": "1987-06-24",
+      "place_of_birth_qid": "Q52535",
+      "citizenship_qids": [
+        "Q414",
+        "Q29",
+        "Q38"
+      ],
+      "height_cm": 169.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q280658",
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q221882",
+          "start": "1995-00-00",
+          "end": "2000-00-00"
+        },
+        {
+          "team_qid": "Q13562063",
+          "start": "2003-00-00",
+          "end": "2004-00-00"
+        },
+        {
+          "team_qid": "Q2346842",
+          "start": "2003-00-00",
+          "end": "2004-00-00"
+        },
+        {
+          "team_qid": "Q10467",
+          "start": "2004-00-00",
+          "end": "2005-00-00"
+        },
+        {
+          "team_qid": "Q7156",
+          "start": "2004-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q483020",
+          "start": "2021-08-00",
+          "end": "2023-06-30"
+        },
+        {
+          "team_qid": "Q16844931",
+          "start": "2023-07-15",
+          "end": null
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2004-00-00",
+          "end": "2005-00-00"
+        },
+        {
+          "team_qid": "Q2462207",
+          "start": "2008-01-01",
+          "end": "2008-01-01"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2005-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q16844931",
+      "image_filename": "Lionel Messi White House 2026 (3x4 cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lionel_Messi",
+      "transfermarkt_id": "28003",
+      "fifa_player_id": "229397",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Inter Miami CF",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward",
+        "midfielder"
+      ],
+      "citizenship": [
+        "Argentina",
+        "Spain",
+        "Italy"
+      ],
+      "place_of_birth": "Rosario",
+      "photo": {
+        "filename": "Lionel Messi White House 2026 (3x4 cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg/960px-Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg",
+        "width": 1021,
+        "height": 1365,
+        "license": "Public domain",
+        "license_url": null,
+        "attribution": "The White House",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lionel-messi.jpg"
+      }
+    },
+    {
+      "slug": "lautaro-martínez",
+      "display_name": "Lautaro Martínez",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1997-08-22",
+      "age": 28,
+      "caps": 75,
+      "goals": 36,
+      "club_from_squad_table": "Inter Milan",
+      "wikipedia_title": "Lautaro Martínez",
+      "wikidata_qid": "Q21484126",
+      "qid": "Q21484126",
+      "name": "Lautaro Martínez",
+      "description": "Argentine association football player (born 1997)",
+      "date_of_birth": "1997-08-22",
+      "place_of_birth_qid": "Q54108",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 174.0,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q79800",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q276533",
+          "start": "2015-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2018-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q631",
+      "image_filename": "Lautaro Martínez (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lautaro_Mart%C3%ADnez",
+      "transfermarkt_id": "406625",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Inter Milan",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Bahía Blanca",
+      "photo": {
+        "filename": "Lautaro Martínez (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lautaro_Mart%C3%ADnez_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lautaro_Mart%C3%ADnez_%28cropped%29.jpg/960px-Lautaro_Mart%C3%ADnez_%28cropped%29.jpg",
+        "width": 1381,
+        "height": 2168,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/75116651@N03\">Agencia de Noticias ANDES</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/lautaro-martínez.jpg"
+      }
+    },
+    {
+      "slug": "julián-alvarez",
+      "display_name": "Julián Alvarez",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-01-31",
+      "age": 26,
+      "caps": 51,
+      "goals": 14,
+      "club_from_squad_table": "Atlético Madrid",
+      "wikipedia_title": "Julián Alvarez",
+      "wikidata_qid": "Q59381180",
+      "qid": "Q59381180",
+      "name": "Julián Alvarez",
+      "description": "Argentine footballer (born 2000)",
+      "date_of_birth": "2000-01-31",
+      "place_of_birth_qid": "Q5739796",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 169.0,
+      "weight_kg": 71.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q50602",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q15799",
+          "start": "2018-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q15799",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q2462207",
+          "start": "2019-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q8701",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8701",
+      "image_filename": "Julián Álvarez (footballer) 2023.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Juli%C3%A1n_Alvarez",
+      "transfermarkt_id": "576024",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlético Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Calchín",
+      "photo": {
+        "filename": "Julián Álvarez (footballer) 2023.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Juli%C3%A1n_%C3%81lvarez_%28footballer%29_2023.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Juli%C3%A1n_%C3%81lvarez_%28footballer%29_2023.jpg",
+        "width": 503,
+        "height": 735,
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "pantkiewicz",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/julián-alvarez.jpg"
+      }
+    },
+    {
+      "slug": "nicolás-gonzález",
+      "display_name": "Nicolás González",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1998-04-06",
+      "age": 28,
+      "caps": 50,
+      "goals": 6,
+      "club_from_squad_table": "Atlético Madrid",
+      "wikipedia_title": "Nicolás González (footballer, born 1998)",
+      "wikidata_qid": "Q43381082",
+      "qid": "Q43381082",
+      "name": "Nicolás González",
+      "description": "Argentine association football player (born 1998)",
+      "date_of_birth": "1998-04-06",
+      "place_of_birth_qid": "Q816341",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q4512",
+          "start": "2018-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q220621",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q2052",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q2462207",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1422",
+          "start": "2024-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1422",
+      "image_filename": "Nicolas Gonzalez (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Gonz%C3%A1lez_(footballer,_born_1998)",
+      "transfermarkt_id": "486031",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Atlético Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Belén de Escobar",
+      "wikidata_current_club": "Juventus FC",
+      "wikidata_current_club_qid": "Q1422",
+      "photo": {
+        "filename": "Nicolas Gonzalez (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Nicolas_Gonzalez_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Nicolas_Gonzalez_%28cropped%29.jpg",
+        "width": 493,
+        "height": 672,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Silesia711\" title=\"User:Silesia711\">Silesia711</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nicolás-gonzález.jpg"
+      }
+    },
+    {
+      "slug": "alejandro-garnacho",
+      "display_name": "Alejandro Garnacho",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2004-07-01",
+      "age": 21,
+      "caps": 8,
+      "goals": 0,
+      "club_from_squad_table": "Chelsea",
+      "wikipedia_title": "Alejandro Garnacho",
+      "wikidata_qid": "Q111366053",
+      "qid": "Q111366053",
+      "name": "Alejandro Garnacho",
+      "description": "Spanish-Argentine association football player",
+      "date_of_birth": "2004-07-01",
+      "place_of_birth_qid": "Q24012779",
+      "citizenship_qids": [
+        "Q29",
+        "Q414"
+      ],
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18656",
+          "start": "2022-00-00",
+          "end": "2025-08-00"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2022-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q2902690",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2025-08-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q9616",
+      "image_filename": "Alejandro Garnacho 7 August 2022 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alejandro_Garnacho",
+      "transfermarkt_id": "811779",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Chelsea",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Spain",
+        "Argentina"
+      ],
+      "place_of_birth": "Arroyomolinos",
+      "wikidata_current_club": "Chelsea F.C.",
+      "wikidata_current_club_qid": "Q9616",
+      "photo": {
+        "filename": "Alejandro Garnacho 7 August 2022 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Alejandro_Garnacho_7_August_2022_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Alejandro_Garnacho_7_August_2022_%28cropped%29.jpg",
+        "width": 729,
+        "height": 1166,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alejandro-garnacho.jpg"
+      }
+    },
+    {
+      "slug": "franco-mastantuono",
+      "display_name": "Franco Mastantuono",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2007-08-14",
+      "age": 18,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Real Madrid",
+      "wikipedia_title": "Franco Mastantuono",
+      "wikidata_qid": "Q123289726",
+      "qid": "Q123289726",
+      "name": "Franco Mastantuono",
+      "description": "Argentine association football player (born 2007)",
+      "date_of_birth": "2007-08-14",
+      "place_of_birth_qid": "Q54118",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 1.77,
+      "position_qids": [
+        "Q193592",
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q2902690",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2024-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q15799",
+          "start": "2024-00-00",
+          "end": "2025-08-14"
+        },
+        {
+          "team_qid": "Q79800",
+          "start": "2026-03-28",
+          "end": null
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2026-04-22",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8682",
+      "image_filename": "Franco Mastantuono in 2025 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Franco_Mastantuono",
+      "transfermarkt_id": "1057316",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "midfielder",
+        "forward"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Azul",
+      "wikidata_current_club": "Real Madrid Club de Fútbol",
+      "wikidata_current_club_qid": "Q8682",
+      "photo": {
+        "filename": "Franco Mastantuono in 2025 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Franco_Mastantuono_in_2025_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Franco_Mastantuono_in_2025_%28cropped%29.jpg",
+        "width": 541,
+        "height": 785,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Crispybeatle\" title=\"User:Crispybeatle\">Crispybeatle</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/franco-mastantuono.jpg"
+      }
+    },
+    {
+      "slug": "josé-manuel-lópez",
+      "display_name": "José Manuel López",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-12-06",
+      "age": 25,
+      "caps": 3,
+      "goals": 0,
+      "club_from_squad_table": "Palmeiras",
+      "wikipedia_title": "José Manuel López (footballer)",
+      "wikidata_qid": "Q104903216",
+      "qid": "Q104903216",
+      "name": "José Manuel López",
+      "description": "Argentine association football player (born 2000)",
+      "date_of_birth": "2000-12-06",
+      "place_of_birth_qid": "Q52546",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 190.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "image_filename": "Flaco-Lopez-Palmeiras-Cuiaba-abr2023-03.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_L%C3%B3pez_(footballer)",
+      "transfermarkt_id": "844797",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "San Lorenzo",
+      "current_club": "Palmeiras",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Flaco-Lopez-Palmeiras-Cuiaba-abr2023-03.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flaco-Lopez-Palmeiras-Cuiaba-abr2023-03.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flaco-Lopez-Palmeiras-Cuiaba-abr2023-03.jpg",
+        "width": 196,
+        "height": 261,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Sepguilherme\" class=\"mw-redirect\" title=\"User:Sepguilherme\">Sepguilherme</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/josé-manuel-lópez.jpg"
+      }
+    },
+    {
+      "slug": "gianluca-prestianni",
+      "display_name": "Gianluca Prestianni",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2006-01-31",
+      "age": 20,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Benfica",
+      "wikipedia_title": "Gianluca Prestianni",
+      "wikidata_qid": "Q112128716",
+      "qid": "Q112128716",
+      "name": "Gianluca Prestianni",
+      "description": "Argentinian footballer",
+      "date_of_birth": "2006-01-31",
+      "place_of_birth_qid": "Q1328458",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 165.0,
+      "position_qids": [
+        "Q11681748"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gianluca_Prestianni",
+      "transfermarkt_id": "1000674",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "positions": [
+        "winger"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Ciudadela",
+      "current_club": "Benfica",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "tomás-aranda",
+      "display_name": "Tomás Aranda",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2007-05-09",
+      "age": 19,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Boca Juniors",
+      "wikipedia_title": "Tomás Aranda",
+      "wikidata_qid": "Q138091687",
+      "qid": "Q138091687",
+      "name": null,
+      "description": "Argentine footballer (born 2007)",
+      "date_of_birth": "2007-05-09",
+      "place_of_birth_qid": "Q1328458",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_Aranda",
+      "transfermarkt_id": "1322355",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Ciudadela",
+      "current_club": "Boca Juniors",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "santiago-castro",
+      "display_name": "Santiago Castro",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2004-09-18",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Bologna",
+      "wikipedia_title": "Santiago Castro (footballer, born 2004)",
+      "wikidata_qid": "Q108114747",
+      "qid": "Q108114747",
+      "name": "Santiago Castro",
+      "description": "Argentine association football player",
+      "date_of_birth": "2004-09-18",
+      "place_of_birth_qid": "Q781245",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 1.79,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q215163",
+          "start": "2021-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q1893",
+          "start": "2024-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q1187790",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q2462207",
+          "start": "2023-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1893",
+      "image_filename": "Santiago Castro.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Santiago_Castro_(footballer,_born_2004)",
+      "transfermarkt_id": "849520",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bologna",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "General San Martín",
+      "wikidata_current_club": "Bologna F.C. 1909",
+      "wikidata_current_club_qid": "Q1893",
+      "photo": {
+        "filename": "Santiago Castro.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Santiago_Castro.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Santiago_Castro.jpg",
+        "width": 822,
+        "height": 776,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:HartemLijn\" title=\"User:HartemLijn\">Pietro Luca Cassarino</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/santiago-castro.jpg"
+      }
+    },
+    {
+      "slug": "claudio-echeverri",
+      "display_name": "Claudio Echeverri",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2006-01-02",
+      "age": 20,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Girona",
+      "wikipedia_title": "Claudio Echeverri",
+      "wikidata_qid": "Q116463164",
+      "qid": "Q116463164",
+      "name": "Claudio Echeverri",
+      "description": "Argentine association football player",
+      "date_of_birth": "2006-01-02",
+      "place_of_birth_qid": "Q44206",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 171.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "image_filename": "Claudio Echeverri in 2017 vs Juventus.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Claudio_Echeverri",
+      "transfermarkt_id": "994536",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Resistencia",
+      "current_club": "Girona",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Claudio Echeverri in 2017 vs Juventus.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Claudio_Echeverri_in_2017_vs_Juventus.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Claudio_Echeverri_in_2017_vs_Juventus.png",
+        "width": 597,
+        "height": 660,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Venice Champions Trophy 2017",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/claudio-echeverri.png"
+      }
+    },
+    {
+      "slug": "mateo-pellegrino",
+      "display_name": "Mateo Pellegrino",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-10-22",
+      "age": 24,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Parma",
+      "wikipedia_title": "Mateo Pellegrino",
+      "wikidata_qid": "Q106308522",
+      "qid": "Q106308522",
+      "name": "Mateo Pellegrino",
+      "description": "Argentine professional footballer",
+      "date_of_birth": "2001-10-22",
+      "place_of_birth_qid": "Q8818",
+      "citizenship_qids": [
+        "Q29"
+      ],
+      "height_cm": 192.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q215163",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q214940",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q214940",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mateo_Pellegrino",
+      "transfermarkt_id": "856530",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Parma",
+      "current_club_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Spain"
+      ],
+      "place_of_birth": "Valencia",
+      "wikidata_current_club": "Estudiantes de La Plata",
+      "wikidata_current_club_qid": "Q214940",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "matías-soulé",
+      "display_name": "Matías Soulé",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2003-04-15",
+      "age": 23,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Roma",
+      "wikipedia_title": "Matías Soulé",
+      "wikidata_qid": "Q107075915",
+      "qid": "Q107075915",
+      "name": "Matías Soulé",
+      "description": "Argentine association football player",
+      "date_of_birth": "2003-04-15",
+      "place_of_birth_qid": "Q52607",
+      "citizenship_qids": [
+        "Q414"
+      ],
+      "height_cm": 1.82,
+      "position_qids": [
+        "Q280658"
+      ],
+      "image_filename": "Entrenamiento Argentina Sub20 previo al mundial - BugWarp (49) - Matías Soulé (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mat%C3%ADas_Soul%C3%A9",
+      "transfermarkt_id": "668951",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Argentina"
+      ],
+      "place_of_birth": "Mar del Plata",
+      "current_club": "Roma",
+      "current_club_source": "wikipedia-squad-table",
+      "photo": {
+        "filename": "Entrenamiento Argentina Sub20 previo al mundial - BugWarp (49) - Matías Soulé (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Entrenamiento_Argentina_Sub20_previo_al_mundial_-_BugWarp_%2849%29_-_Mat%C3%ADas_Soul%C3%A9_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Entrenamiento_Argentina_Sub20_previo_al_mundial_-_BugWarp_%2849%29_-_Mat%C3%ADas_Soul%C3%A9_%28cropped%29.jpg",
+        "width": 768,
+        "height": 1024,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<b>Original: </b> <a href=\"//commons.wikimedia.org/wiki/User:BugWarp\" title=\"User:BugWarp\">BugWarp</a> / <b>Derivative work: </b> <a href=\"//commons.wikimedia.org/w/index.php?title=User:Danuele&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Danuele (page does not exist)\">Danuele</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/matías-soulé.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "carlos-cuesta",
+  "display_name": "Carlos Cuesta",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-03-09",
+  "age": 27,
+  "caps": 24,
+  "goals": 0,
+  "club_from_squad_table": "Vasco da Gama",
+  "wikipedia_title": "Carlos Cuesta (footballer)",
+  "date_of_birth": "1999-03-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Vasco da Gama",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26838147",
+  "qid": "Q26838147",
+  "name": "Carlos Cuesta",
+  "description": "association football player",
+  "place_of_birth_qid": "Q816420",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 1.78,
+  "weight_kg": 67.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q332605",
+      "start": "2016-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q216032",
+      "start": "2019-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q495299",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q212564",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q5014111",
+      "start": "2025-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q495299",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Cuesta_(footballer)",
+  "transfermarkt_id": "474589",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Quibd\u00f3",
+  "wikidata_current_club": "Galatasaray S.K.",
+  "wikidata_current_club_qid": "Q495299",
+  "team_slug": "colombia",
+  "team_country": "Colombia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "axel-tuanzebe",
+  "display_name": "Axel Tuanzebe",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1997-11-14",
+  "age": 28,
+  "caps": 12,
+  "goals": 1,
+  "club_from_squad_table": "Burnley",
+  "wikipedia_title": "Axel Tuanzebe",
+  "date_of_birth": "1997-11-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Burnley",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27019988",
+  "qid": "Q27019988",
+  "name": "Axel Tuanzebe",
+  "description": "English association football player",
+  "place_of_birth_qid": "Q648298",
+  "citizenship_qids": [
+    "Q974"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18656",
+      "start": "2015-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q18711",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q204238",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q72009",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q18656",
+  "image_filename": "Manchester United v Wigan Athletic, January 2017 (33).JPG",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Axel_Tuanzebe",
+  "transfermarkt_id": "342046",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Democratic Republic of the Congo"
+  ],
+  "place_of_birth": "Bunia",
+  "wikidata_current_club": "Manchester United F.C.",
+  "wikidata_current_club_qid": "Q18656",
+  "photo": {
+    "filename": "Manchester United v Wigan Athletic, January 2017 (33).JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Manchester_United_v_Wigan_Athletic%2C_January_2017_%2833%29.JPG",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Manchester_United_v_Wigan_Athletic%2C_January_2017_%2833%29.JPG/960px-Manchester_United_v_Wigan_Athletic%2C_January_2017_%2833%29.JPG",
+    "width": 3672,
+    "height": 4896,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ardfern\" title=\"User:Ardfern\">Ardfern</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/axel-tuanzebe.JPG"
+  },
+  "team_slug": "dr-congo",
+  "team_country": "DR Congo"
+}

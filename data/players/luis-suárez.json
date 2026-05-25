@@ -1,0 +1,89 @@
+{
+  "slug": "luis-su\u00e1rez",
+  "display_name": "Luis Su\u00e1rez",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1997-12-02",
+  "age": 28,
+  "caps": 10,
+  "goals": 4,
+  "club_from_squad_table": "Sporting CP",
+  "wikipedia_title": "Luis Su\u00e1rez (footballer, born 1997)",
+  "date_of_birth": "1997-12-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sporting CP",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28736721",
+  "qid": "Q28736721",
+  "name": "Luis Su\u00e1rez",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q209016",
+  "citizenship_qids": [
+    "Q739",
+    "Q29"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2539776",
+      "start": "2016-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q8964927",
+      "start": "2016-03-01",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q2714",
+      "start": "2017-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q10319",
+      "start": "2017-06-17",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q257984",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q10308",
+      "start": "2019-00-00",
+      "end": "2020-00-00"
+    }
+  ],
+  "current_club_qid": "Q2714",
+  "image_filename": "Luis Javier Su\u00e1rez Charris.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(footballer,_born_1997)",
+  "transfermarkt_id": "424784",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Colombia",
+    "Spain"
+  ],
+  "place_of_birth": "Santa Marta",
+  "wikidata_current_club": "Watford F.C.",
+  "wikidata_current_club_qid": "Q2714",
+  "photo": {
+    "filename": "Luis Javier Su\u00e1rez Charris.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Luis_Javier_Su%C3%A1rez_Charris.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Luis_Javier_Su%C3%A1rez_Charris.jpg",
+    "width": 888,
+    "height": 1085,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Jmmuguerza\" title=\"User:Jmmuguerza\">jmmuguerza</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/luis-su\u00e1rez.jpg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

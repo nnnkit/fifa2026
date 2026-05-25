@@ -1,0 +1,83 @@
+{
+  "slug": "exequiel-palacios",
+  "display_name": "Exequiel Palacios",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1998-10-05",
+  "age": 27,
+  "caps": 38,
+  "goals": 0,
+  "club_from_squad_table": "Bayer Leverkusen",
+  "wikipedia_title": "Exequiel Palacios",
+  "wikidata_qid": "Q19345715",
+  "qid": "Q19345715",
+  "name": "Exequiel Palacios",
+  "description": "Argentine association football player",
+  "date_of_birth": "1998-10-05",
+  "place_of_birth_qid": "Q1395079",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 177.0,
+  "weight_kg": 70.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q15799",
+      "start": "2015-01-01",
+      "end": "2019-12-31"
+    },
+    {
+      "team_qid": "Q104761",
+      "start": "2020-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q2902690",
+      "start": "2015-00-00",
+      "end": "2015-00-00"
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2018-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q104761",
+  "image_filename": "Palestino - River Plate 20190424 16.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Exequiel_Palacios",
+  "transfermarkt_id": "401578",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayer Leverkusen",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Famaillá",
+  "wikidata_current_club": "Bayer 04 Leverkusen",
+  "wikidata_current_club_qid": "Q104761",
+  "photo": {
+    "filename": "Palestino - River Plate 20190424 16.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Palestino_-_River_Plate_20190424_16.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Palestino_-_River_Plate_20190424_16.jpg/960px-Palestino_-_River_Plate_20190424_16.jpg",
+    "width": 2140,
+    "height": 3144,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Carlos_yo\" title=\"User:Carlos yo\">Carlos Figueroa Rojas</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/exequiel-palacios.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "dan-agyei",
+  "display_name": "Dan Agyei",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1997-06-01",
+  "age": 28,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Kocaelispor",
+  "wikipedia_title": "Dan Agyei",
+  "date_of_birth": "1997-06-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Kocaelispor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26704485",
+  "qid": "Q26704485",
+  "name": "Dan Agyei",
+  "description": "association football player",
+  "place_of_birth_qid": "Q32508",
+  "citizenship_qids": [
+    "Q145"
+  ],
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q19449",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19449",
+  "image_filename": "Dan Agyei.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Agyei",
+  "transfermarkt_id": "367195",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "United Kingdom"
+  ],
+  "place_of_birth": "Royal Borough of Kingston upon Thames",
+  "wikidata_current_club": "Blackpool F.C.",
+  "wikidata_current_club_qid": "Q19449",
+  "photo": {
+    "filename": "Dan Agyei.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dan_Agyei.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dan_Agyei.jpg/960px-Dan_Agyei.jpg",
+    "width": 3028,
+    "height": 3812,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Paul_W\" title=\"User:Paul W\">Paul W</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/dan-agyei.jpg"
+  },
+  "team_slug": "ghana",
+  "team_country": "Ghana"
+}

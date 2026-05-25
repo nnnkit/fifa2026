@@ -1,0 +1,67 @@
+{
+  "slug": "armando-obispo",
+  "display_name": "Armando Obispo",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-03-05",
+  "age": 27,
+  "caps": 4,
+  "goals": 0,
+  "club_from_squad_table": "PSV Eindhoven",
+  "wikipedia_title": "Armando Obispo",
+  "date_of_birth": "1999-03-05",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "PSV Eindhoven",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27514541",
+  "qid": "Q27514541",
+  "name": "Armando Obispo",
+  "description": "Curaçaoan footballer",
+  "place_of_birth_qid": "Q9821",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 1.85,
+  "position_qids": [
+    "Q268258"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q11938",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q219233",
+      "start": "2019-07-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q219233",
+  "image_filename": "Austria U-18 vs. Netherlands U-18 2017-03-23 (060).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Armando_Obispo",
+  "transfermarkt_id": "339337",
+  "positions": [
+    "centre-back"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Boxtel",
+  "wikidata_current_club": "SBV Vitesse",
+  "wikidata_current_club_qid": "Q219233",
+  "photo": {
+    "filename": "Austria U-18 vs. Netherlands U-18 2017-03-23 (060).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28060%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28060%29.jpg/960px-Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28060%29.jpg",
+    "width": 2000,
+    "height": 3000,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 23:00, 30 March 2017 (UTC)",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/armando-obispo.jpg"
+  },
+  "team_slug": "curaçao",
+  "team_country": "Curaçao"
+}

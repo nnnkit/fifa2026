@@ -1,0 +1,91 @@
+{
+  "slug": "juan-musso",
+  "display_name": "Juan Musso",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1994-05-06",
+  "age": 32,
+  "caps": 3,
+  "goals": 0,
+  "club_from_squad_table": "Atlético Madrid",
+  "wikipedia_title": "Juan Musso",
+  "wikidata_qid": "Q5951550",
+  "qid": "Q5951550",
+  "name": "Juan Musso",
+  "description": "Argentine footballer (born 1994)",
+  "date_of_birth": "1994-05-06",
+  "place_of_birth_qid": "Q377965",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 1.91,
+  "weight_kg": 93.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q276533",
+      "start": "2016-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q1886",
+      "start": "2021-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q1187790",
+      "start": "2012-00-00",
+      "end": "2012-00-00"
+    },
+    {
+      "team_qid": "Q2798",
+      "start": "2018-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q79800",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q8701",
+      "start": "2024-08-27",
+      "end": "2025-06-30"
+    },
+    {
+      "team_qid": "Q8701",
+      "start": "2025-06-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8701",
+  "image_filename": "Musso Udinese.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Musso",
+  "transfermarkt_id": "242359",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atlético Madrid",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "San Nicolás de los Arroyos",
+  "photo": {
+    "filename": "Musso Udinese.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Musso_Udinese.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Musso_Udinese.png",
+    "width": 899,
+    "height": 1225,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Fuarceudin1896&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Fuarceudin1896 (page does not exist)\">Fuarceudin1896</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/juan-musso.png"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

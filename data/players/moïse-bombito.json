@@ -1,0 +1,82 @@
+{
+  "slug": "mo\u00efse-bombito",
+  "display_name": "Mo\u00efse Bombito",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-03-30",
+  "age": 26,
+  "caps": 19,
+  "goals": 0,
+  "club_from_squad_table": "Nice",
+  "wikipedia_title": "Mo\u00efse Bombito",
+  "wikidata_qid": "Q116146104",
+  "qid": "Q116146104",
+  "name": "Mo\u00efse Bombito",
+  "description": "Canadian soccer player",
+  "date_of_birth": "2000-03-30",
+  "place_of_birth_qid": "Q340",
+  "citizenship_qids": [
+    "Q16"
+  ],
+  "height_cm": 190.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q104422415",
+      "start": null,
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q642408",
+      "start": "2023-05-14",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q110764010",
+      "start": "2023-05-08",
+      "end": "2023-08-10"
+    },
+    {
+      "team_qid": "Q208635",
+      "start": "2023-06-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q185163",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q185163",
+  "image_filename": "Bombito asse ogcn 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mo%C3%AFse_Bombito",
+  "transfermarkt_id": "1089202",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Nice",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Canada"
+  ],
+  "place_of_birth": "Montreal",
+  "wikidata_current_club": "OGC Nice",
+  "wikidata_current_club_qid": "Q185163",
+  "photo": {
+    "filename": "Bombito asse ogcn 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bombito_asse_ogcn_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bombito_asse_ogcn_2425.png",
+    "width": 568,
+    "height": 882,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mo\u00efse-bombito.png"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

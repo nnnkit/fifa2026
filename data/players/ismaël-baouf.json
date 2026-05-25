@@ -1,0 +1,58 @@
+{
+  "slug": "isma\u00ebl-baouf",
+  "display_name": "Isma\u00ebl Baouf",
+  "shirt_no": 4,
+  "position_code": "DF",
+  "dob": "2006-09-17",
+  "age": 19,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Cambuur",
+  "wikipedia_title": "Isma\u00ebl Baouf",
+  "date_of_birth": "2006-09-17",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Cambuur",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q117838864",
+  "qid": "Q117838864",
+  "name": "Isma\u00ebl Baouf",
+  "description": "Moroccan association football player",
+  "place_of_birth_qid": "Q497549",
+  "citizenship_qids": [
+    "Q1028",
+    "Q31"
+  ],
+  "height_cm": 183.0,
+  "teams": [
+    {
+      "team_qid": "Q875120",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q875120",
+  "image_filename": "Ismael Baouf (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Isma%C3%ABl_Baouf",
+  "transfermarkt_id": "961050",
+  "citizenship": [
+    "Morocco",
+    "Belgium"
+  ],
+  "place_of_birth": "Tubize",
+  "wikidata_current_club": "SC Cambuur",
+  "wikidata_current_club_qid": "Q875120",
+  "photo": {
+    "filename": "Ismael Baouf (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Ismael_Baouf_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ismael_Baouf_%28cropped%29.jpg/960px-Ismael_Baouf_%28cropped%29.jpg",
+    "width": 1204,
+    "height": 1913,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Abdelali Bentarki",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/isma\u00ebl-baouf.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

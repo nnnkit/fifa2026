@@ -1,0 +1,53 @@
+{
+  "slug": "agustín-sández",
+  "display_name": "Agustín Sández",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2001-01-16",
+  "age": 25,
+  "caps": 5,
+  "goals": 0,
+  "club_from_squad_table": "Rosario Central",
+  "wikipedia_title": "Agustín Sández",
+  "date_of_birth": "2001-01-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Rosario Central",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q106589042",
+  "qid": "Q106589042",
+  "name": "Agustín Sández",
+  "description": "Argentine football player",
+  "place_of_birth_qid": "Q1622565",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 179.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q170703",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q170703",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_S%C3%A1ndez",
+  "transfermarkt_id": "847023",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Lanús",
+  "wikidata_current_club": "Boca Juniors",
+  "wikidata_current_club_qid": "Q170703",
+  "team_slug": "paraguay",
+  "team_country": "Paraguay",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

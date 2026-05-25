@@ -1,0 +1,72 @@
+{
+  "slug": "yassir-zabiri",
+  "display_name": "Yassir Zabiri",
+  "shirt_no": 19,
+  "position_code": "FW",
+  "dob": "2005-02-23",
+  "age": 21,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Rennes",
+  "wikipedia_title": "Yassir Zabiri",
+  "date_of_birth": "2005-02-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Rennes",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q130301496",
+  "qid": "Q130301496",
+  "name": "Yassir Zabiri",
+  "description": "Moroccan footballer",
+  "place_of_birth_qid": "Q101625",
+  "citizenship_qids": [
+    "Q1028"
+  ],
+  "height_cm": 1.77,
+  "position_qids": [
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3550032",
+      "start": "2024-01-00",
+      "end": "2024-00-00"
+    },
+    {
+      "team_qid": "Q1387105",
+      "start": "2024-08-26",
+      "end": null
+    },
+    {
+      "team_qid": "Q3590714",
+      "start": "2023-00-00",
+      "end": "2025-00-00"
+    }
+  ],
+  "current_club_qid": "Q1387105",
+  "image_filename": "Yassir Zabiri (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yassir_Zabiri",
+  "transfermarkt_id": "1153105",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "Morocco"
+  ],
+  "place_of_birth": "Marrakech",
+  "wikidata_current_club": "FC Famalic\u00e3o",
+  "wikidata_current_club_qid": "Q1387105",
+  "photo": {
+    "filename": "Yassir Zabiri (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Yassir_Zabiri_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Yassir_Zabiri_%28cropped%29.jpg/960px-Yassir_Zabiri_%28cropped%29.jpg",
+    "width": 1165,
+    "height": 1907,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Abdelali Bentarki",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/yassir-zabiri.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

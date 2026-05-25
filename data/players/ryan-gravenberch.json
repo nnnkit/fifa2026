@@ -1,0 +1,99 @@
+{
+  "slug": "ryan-gravenberch",
+  "display_name": "Ryan Gravenberch",
+  "shirt_no": 8,
+  "position_code": "MF",
+  "dob": "2002-05-16",
+  "age": 24,
+  "caps": 25,
+  "goals": 1,
+  "club_from_squad_table": "Liverpool",
+  "wikipedia_title": "Ryan Gravenberch",
+  "date_of_birth": "2002-05-16",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Liverpool",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q56257870",
+  "qid": "Q56257870",
+  "name": "Ryan Gravenberch",
+  "description": "Dutch association football player (born 2002)",
+  "place_of_birth_qid": "Q727",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 190.0,
+  "weight_kg": 77.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1770361",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q81888",
+      "start": "2020-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q601723",
+      "start": "2018-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q514714",
+      "start": "2018-00-00",
+      "end": "2020-00-00"
+    },
+    {
+      "team_qid": "Q1811026",
+      "start": "2020-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q15789",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q1130849",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1130849",
+  "image_filename": "2022-07-30 Fu\u00dfball, M\u00e4nner, DFL-Supercup, RB Leipzig - FC Bayern M\u00fcnchen 1DX 3342 by Stepro (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Gravenberch",
+  "transfermarkt_id": "478573",
+  "fifa_player_id": "201792459",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Amsterdam",
+  "wikidata_current_club": "Liverpool F.C.",
+  "wikidata_current_club_qid": "Q1130849",
+  "photo": {
+    "filename": "2022-07-30 Fu\u00dfball, M\u00e4nner, DFL-Supercup, RB Leipzig - FC Bayern M\u00fcnchen 1DX 3342 by Stepro (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3342_by_Stepro_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3342_by_Stepro_%28cropped%29.jpg",
+    "width": 589,
+    "height": 786,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "crop by <a href=\"//commons.wikimedia.org/wiki/User:Sepguilherme\" class=\"mw-redirect\" title=\"User:Sepguilherme\">Sepguilherme</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ryan-gravenberch.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

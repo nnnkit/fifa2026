@@ -1,0 +1,77 @@
+{
+  "slug": "robin-risser",
+  "display_name": "Robin Risser",
+  "shirt_no": 23,
+  "position_code": "GK",
+  "dob": "2004-12-02",
+  "age": 21,
+  "caps": 0,
+  "goals": 0,
+  "club_from_squad_table": "Lens",
+  "wikipedia_title": "Robin Risser",
+  "date_of_birth": "2004-12-02",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lens",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q124745247",
+  "qid": "Q124745247",
+  "name": "Robin Risser",
+  "description": "French footballer",
+  "place_of_birth_qid": "Q130994",
+  "citizenship_qids": [
+    "Q142"
+  ],
+  "height_cm": 193.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q126334",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q503317",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q522283",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q191843",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q126334",
+  "image_filename": "Montpellier-Strasbourg 18-08-24, Robin Risser (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Robin_Risser",
+  "transfermarkt_id": "743515",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "France"
+  ],
+  "place_of_birth": "Colmar",
+  "wikidata_current_club": "RC Strasbourg Alsace",
+  "wikidata_current_club_qid": "Q126334",
+  "photo": {
+    "filename": "Montpellier-Strasbourg 18-08-24, Robin Risser (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Montpellier-Strasbourg_18-08-24%2C_Robin_Risser_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Montpellier-Strasbourg_18-08-24%2C_Robin_Risser_%28cropped%29.jpg",
+    "width": 475,
+    "height": 546,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Paul_Vaurie\" title=\"User:Paul Vaurie\">Paul Vaurie</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/robin-risser.jpg"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

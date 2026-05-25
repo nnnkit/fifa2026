@@ -1,0 +1,99 @@
+{
+  "slug": "daizen-maeda",
+  "display_name": "Daizen Maeda",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1997-10-20",
+  "age": 28,
+  "caps": 27,
+  "goals": 4,
+  "club_from_squad_table": "Celtic",
+  "wikipedia_title": "Daizen Maeda",
+  "date_of_birth": "1997-10-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Celtic",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q27990906",
+  "qid": "Q27990906",
+  "name": "Daizen Maeda",
+  "description": "Japanese association football player",
+  "place_of_birth_qid": "Q1347173",
+  "citizenship_qids": [
+    "Q17"
+  ],
+  "height_cm": 173.0,
+  "weight_kg": 67.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1145693",
+      "start": "2016-00-00",
+      "end": "2020-12-00"
+    },
+    {
+      "team_qid": "Q170566",
+      "start": "2019-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1060184",
+      "start": "2017-00-00",
+      "end": "2017-00-00"
+    },
+    {
+      "team_qid": "Q216503",
+      "start": "2019-07-00",
+      "end": "2020-06-00"
+    },
+    {
+      "team_qid": "Q854932",
+      "start": "2020-08-00",
+      "end": "2020-12-00"
+    },
+    {
+      "team_qid": "Q854932",
+      "start": "2021-01-00",
+      "end": "2022-06-00"
+    },
+    {
+      "team_qid": "Q19593",
+      "start": "2022-01-00",
+      "end": "2022-06-00"
+    },
+    {
+      "team_qid": "Q19593",
+      "start": "2022-07-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19593",
+  "image_filename": "Celtic-20240722-018 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Daizen_Maeda",
+  "transfermarkt_id": "420931",
+  "uefa_player_id": "19175",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Japan"
+  ],
+  "place_of_birth": "Taishi",
+  "wikidata_current_club": "Celtic F.C.",
+  "wikidata_current_club_qid": "Q19593",
+  "photo": {
+    "filename": "Celtic-20240722-018 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Celtic-20240722-018_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Celtic-20240722-018_%28cropped%29.jpg",
+    "width": 685,
+    "height": 987,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Hameltion\" title=\"User:Hameltion\">Hameltion</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/daizen-maeda.jpg"
+  },
+  "team_slug": "japan",
+  "team_country": "Japan"
+}

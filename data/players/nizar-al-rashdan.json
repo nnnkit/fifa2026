@@ -1,0 +1,97 @@
+{
+  "slug": "nizar-al-rashdan",
+  "display_name": "Nizar Al-Rashdan",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1999-03-23",
+  "age": 27,
+  "caps": 45,
+  "goals": 4,
+  "club_from_squad_table": "Qatar SC",
+  "wikipedia_title": "Nizar Al-Rashdan",
+  "date_of_birth": "1999-03-23",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Qatar SC",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q124302622",
+  "qid": "Q124302622",
+  "name": "Nizar Al-Rashdan",
+  "description": "Jordanian professional footballer",
+  "place_of_birth_qid": "Q194165",
+  "citizenship_qids": [
+    "Q810"
+  ],
+  "height_cm": 185.0,
+  "position_qids": [
+    "Q18691898"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q2829355",
+      "start": "2019-07-00",
+      "end": "2021-03-00"
+    },
+    {
+      "team_qid": "Q285702",
+      "start": "2021-03-00",
+      "end": "2024-07-00"
+    },
+    {
+      "team_qid": "Q4311440",
+      "start": "2023-03-00",
+      "end": "2023-06-00"
+    },
+    {
+      "team_qid": "Q1191998",
+      "start": "2024-02-00",
+      "end": "2024-06-00"
+    },
+    {
+      "team_qid": "Q110269072",
+      "start": "2024-07-00",
+      "end": "2025-07-00"
+    },
+    {
+      "team_qid": "Q284668",
+      "start": "2025-07-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q11144859",
+      "start": "2021-10-00",
+      "end": "2022-06-00"
+    },
+    {
+      "team_qid": "Q275940",
+      "start": "2021-09-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q284668",
+  "image_filename": "Asian Nations Cup - Jordan and South Korea (74) (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nizar_Al-Rashdan",
+  "transfermarkt_id": "734751",
+  "positions": [
+    "defensive midfielder"
+  ],
+  "citizenship": [
+    "Jordan"
+  ],
+  "place_of_birth": "Irbid",
+  "wikidata_current_club": "Al-Zawra'a SC",
+  "wikidata_current_club_qid": "Q284668",
+  "photo": {
+    "filename": "Asian Nations Cup - Jordan and South Korea (74) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Asian_Nations_Cup_-_Jordan_and_South_Korea_%2874%29_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Asian_Nations_Cup_-_Jordan_and_South_Korea_%2874%29_%28cropped%29.jpg",
+    "width": 280,
+    "height": 447,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "M.Sadegh Nikgostar",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nizar-al-rashdan.jpg"
+  },
+  "team_slug": "jordan",
+  "team_country": "Jordan"
+}

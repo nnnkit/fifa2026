@@ -1,0 +1,78 @@
+{
+  "slug": "jacen-russell-rowe",
+  "display_name": "Jacen Russell-Rowe",
+  "shirt_no": 25,
+  "position_code": "FW",
+  "dob": "2002-09-13",
+  "age": 23,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "Toulouse",
+  "wikipedia_title": "Jacen Russell-Rowe",
+  "wikidata_qid": "Q78637933",
+  "qid": "Q78637933",
+  "name": "Jacen Russell-Rowe",
+  "description": "Canadian soccer player",
+  "date_of_birth": "2002-09-13",
+  "place_of_birth_qid": "Q172",
+  "citizenship_qids": [
+    "Q16"
+  ],
+  "height_cm": 183.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q457163",
+      "start": "2022-06-00",
+      "end": "2026-02-00"
+    },
+    {
+      "team_qid": "Q109973913",
+      "start": "2022-03-00",
+      "end": "2023-04-00"
+    },
+    {
+      "team_qid": "Q19931776",
+      "start": "2019-07-00",
+      "end": "2019-07-00"
+    },
+    {
+      "team_qid": "Q3590639",
+      "start": "2019-05-00",
+      "end": "2019-11-00"
+    },
+    {
+      "team_qid": "Q208635",
+      "start": "2023-06-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19518",
+      "start": "2026-02-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q19518",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jacen_Russell-Rowe",
+  "transfermarkt_id": "683625",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Toulouse",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Canada"
+  ],
+  "place_of_birth": "Toronto",
+  "wikidata_current_club": "Toulouse FC",
+  "wikidata_current_club_qid": "Q19518",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

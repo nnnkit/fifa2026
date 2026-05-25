@@ -1,0 +1,2434 @@
+{
+  "slug": "uzbekistan",
+  "country": "Uzbekistan",
+  "wikidata_qid": "Q487321",
+  "fetched_at": "2026-05-24T17:28:13+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 40,
+  "players": [
+    {
+      "slug": "utkir-yusupov",
+      "display_name": "Utkir Yusupov",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1991-01-04",
+      "age": 35,
+      "caps": 39,
+      "goals": 0,
+      "club_from_squad_table": "Navbahor",
+      "wikipedia_title": "Utkir Yusupov",
+      "date_of_birth": "1991-01-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Navbahor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q60298555",
+      "qid": "Q60298555",
+      "name": "Utkir Yusupov",
+      "description": "Uzbekistani association football player",
+      "place_of_birth_qid": "Q574555",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1150723",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1150723",
+      "image_filename": "O\u02bbtkir Yusupov (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Utkir_Yusupov",
+      "transfermarkt_id": "311958",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Sayram",
+      "wikidata_current_club": "Nasaf Qarshi",
+      "wikidata_current_club_qid": "Q1150723",
+      "photo": {
+        "filename": "O\u02bbtkir Yusupov (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/O%CA%BBtkir_Yusupov_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/O%CA%BBtkir_Yusupov_%28cropped%29.jpg/960px-O%CA%BBtkir_Yusupov_%28cropped%29.jpg",
+        "width": 1423,
+        "height": 1523,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:UmirovaDilshoda&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:UmirovaDilshoda (page does not exist)\">UmirovaDilshoda</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/utkir-yusupov.jpg"
+      }
+    },
+    {
+      "slug": "abduvohid-nematov",
+      "display_name": "Abduvohid Nematov",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2001-03-20",
+      "age": 25,
+      "caps": 7,
+      "goals": 0,
+      "club_from_squad_table": "Nasaf",
+      "wikipedia_title": "Abduvohid Nematov",
+      "date_of_birth": "2001-03-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nasaf",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q98887333",
+      "qid": "Q98887333",
+      "name": "Abduvohid Nematov",
+      "description": "Uzbekistani footballer",
+      "place_of_birth_qid": "Q572380",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 1.82,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1150723",
+          "start": "2018-01-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3328961",
+          "start": "2019-10-00",
+          "end": "2019-11-00"
+        },
+        {
+          "team_qid": "Q3247955",
+          "start": "2019-09-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q487321",
+          "start": "2020-09-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1150723",
+      "image_filename": "Abduvohid Nematov (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abduvohid_Nematov",
+      "transfermarkt_id": "527866",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Jizzakh",
+      "wikidata_current_club": "Nasaf Qarshi",
+      "wikidata_current_club_qid": "Q1150723",
+      "photo": {
+        "filename": "Abduvohid Nematov (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Abduvohid_Nematov_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Abduvohid_Nematov_%28cropped%29.jpg",
+        "width": 537,
+        "height": 582,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "NOC of Uzbekistan",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/abduvohid-nematov.jpg"
+      }
+    },
+    {
+      "slug": "botirali-ergashev",
+      "display_name": "Botirali Ergashev",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "1995-06-23",
+      "age": 30,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Neftchi",
+      "wikipedia_title": "Botirali Ergashev",
+      "date_of_birth": "1995-06-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Neftchi",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q51670751",
+      "qid": "Q51670751",
+      "name": "Botirali Ergashev",
+      "description": "association football player (1995-)",
+      "place_of_birth_qid": "Q723164",
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q732106",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q732106",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Botirali_Ergashev",
+      "transfermarkt_id": "312690",
+      "positions": [
+        "goalkeeper"
+      ],
+      "place_of_birth": "Pap",
+      "wikidata_current_club": "Pakhtakor Tashkent FK",
+      "wikidata_current_club_qid": "Q732106",
+      "image_filename": "Botirali_Ergashev_03.jpg",
+      "photo": {
+        "filename": "Botirali_Ergashev_03.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Botirali_Ergashev_03.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Botirali_Ergashev_03.jpg",
+        "width": 888,
+        "height": 1033,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Anvarkhoja&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Anvarkhoja (page does not exist)\">Anvarkhoja</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/botirali-ergashev.jpg"
+      }
+    },
+    {
+      "slug": "vladimir-nazarov",
+      "display_name": "Vladimir Nazarov",
+      "shirt_no": null,
+      "position_code": "GK",
+      "dob": "2002-06-03",
+      "age": 24,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Pakhtakor",
+      "wikipedia_title": "Vladimir Nazarov (footballer)",
+      "date_of_birth": "2002-06-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Pakhtakor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117356097",
+      "qid": "Q117356097",
+      "name": "Vladimir Nazarov",
+      "description": "Uzbekistani footballer",
+      "place_of_birth_qid": "Q269",
+      "citizenship_qids": [
+        "Q265",
+        "Q159"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q948182",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q4503858",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        }
+      ],
+      "current_club_qid": "Q4503858",
+      "image_filename": "Vladimir Nazarov in training.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vladimir_Nazarov_(footballer)",
+      "transfermarkt_id": "888630",
+      "wikidata_date_of_birth": "2002-06-08",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Uzbekistan",
+        "Russia"
+      ],
+      "place_of_birth": "Tashkent",
+      "wikidata_current_club": "FC Tsement Mikhaylovka",
+      "wikidata_current_club_qid": "Q4503858",
+      "photo": {
+        "filename": "Vladimir Nazarov in training.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Vladimir_Nazarov_in_training.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Vladimir_Nazarov_in_training.jpg/960px-Vladimir_Nazarov_in_training.jpg",
+        "width": 1136,
+        "height": 1280,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "NOC of Uzbekistan",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/vladimir-nazarov.jpg"
+      }
+    },
+    {
+      "slug": "rustam-ashurmatov",
+      "display_name": "Rustam Ashurmatov",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1996-07-07",
+      "age": 29,
+      "caps": 47,
+      "goals": 1,
+      "club_from_squad_table": "Esteghlal",
+      "wikipedia_title": "Rustam Ashurmatov",
+      "date_of_birth": "1996-07-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Esteghlal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q55138415",
+      "qid": "Q55138415",
+      "name": "Rustam Ashurmatov",
+      "description": "Uzbekistani association football player",
+      "place_of_birth_qid": "Q489890",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q628763",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q170040",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q628763",
+      "image_filename": "Rustamjon Ashurmatov (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rustam_Ashurmatov",
+      "transfermarkt_id": "288883",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Kokand",
+      "wikidata_current_club": "F.C. Bunyodkor",
+      "wikidata_current_club_qid": "Q628763",
+      "photo": {
+        "filename": "Rustamjon Ashurmatov (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Rustamjon_Ashurmatov_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rustamjon_Ashurmatov_%28cropped%29.jpg/960px-Rustamjon_Ashurmatov_%28cropped%29.jpg",
+        "width": 1559,
+        "height": 1634,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:UmirovaDilshoda&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:UmirovaDilshoda (page does not exist)\">UmirovaDilshoda</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/rustam-ashurmatov.jpg"
+      }
+    },
+    {
+      "slug": "farrukh-sayfiev",
+      "display_name": "Farrukh Sayfiev",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1991-01-17",
+      "age": 35,
+      "caps": 44,
+      "goals": 1,
+      "club_from_squad_table": "Neftchi",
+      "wikipedia_title": "Farrukh Sayfiev",
+      "date_of_birth": "1991-01-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Neftchi",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18753041",
+      "qid": "Q18753041",
+      "name": "Farrukh Sayfiev",
+      "description": "Uzbekistani professional footballer",
+      "place_of_birth_qid": "Q5753",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 183.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1150723",
+          "start": "2011-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q487321",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1388979",
+          "start": "2010-00-00",
+          "end": "2011-00-00"
+        },
+        {
+          "team_qid": "Q732106",
+          "start": "2018-00-00",
+          "end": "2024-01-00"
+        },
+        {
+          "team_qid": "Q1101346",
+          "start": "2024-01-00",
+          "end": "2025-01-00"
+        },
+        {
+          "team_qid": "Q870279",
+          "start": "2025-01-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q870279",
+      "image_filename": "Iran v Uzbekistan 2-2, 25 March 2025, Azadi Stadium, World Cup 2026 qualifier 32 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Farrukh_Sayfiev",
+      "transfermarkt_id": "212499",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Samarkand",
+      "wikidata_current_club": "FC Neftchi Fergana",
+      "wikidata_current_club_qid": "Q870279",
+      "photo": {
+        "filename": "Iran v Uzbekistan 2-2, 25 March 2025, Azadi Stadium, World Cup 2026 qualifier 32 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Iran_v_Uzbekistan_2-2%2C_25_March_2025%2C_Azadi_Stadium%2C_World_Cup_2026_qualifier_32_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Iran_v_Uzbekistan_2-2%2C_25_March_2025%2C_Azadi_Stadium%2C_World_Cup_2026_qualifier_32_%28cropped%29.jpg",
+        "width": 220,
+        "height": 323,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Meghdad Madadi",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/farrukh-sayfiev.jpg"
+      }
+    },
+    {
+      "slug": "khojiakbar-alijonov",
+      "display_name": "Khojiakbar Alijonov",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-04-19",
+      "age": 29,
+      "caps": 40,
+      "goals": 2,
+      "club_from_squad_table": "Pakhtakor",
+      "wikipedia_title": "Khojiakbar Alijonov",
+      "date_of_birth": "1997-04-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Pakhtakor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64853255",
+      "qid": "Q64853255",
+      "name": "Khojiakbar Alijonov",
+      "description": "Uzbekistani association football player",
+      "place_of_birth_qid": "Q269",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q732106",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q732106",
+      "image_filename": "FC Pakhtakor in March 2019 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Khojiakbar_Alijonov",
+      "transfermarkt_id": "492558",
+      "positions": [
+        "full-back"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Tashkent",
+      "wikidata_current_club": "Pakhtakor Tashkent FK",
+      "wikidata_current_club_qid": "Q732106",
+      "photo": {
+        "filename": "FC Pakhtakor in March 2019 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/FC_Pakhtakor_in_March_2019_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/FC_Pakhtakor_in_March_2019_%28cropped%29.jpg",
+        "width": 237,
+        "height": 444,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "Meysam Mah'abadi",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/khojiakbar-alijonov.jpg"
+      }
+    },
+    {
+      "slug": "sherzod-nasrullaev",
+      "display_name": "Sherzod Nasrullaev",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1998-07-23",
+      "age": 27,
+      "caps": 29,
+      "goals": 2,
+      "club_from_squad_table": "Nasaf",
+      "wikipedia_title": "Sherzod Nasrullaev",
+      "date_of_birth": "1998-07-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nasaf",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q124101458",
+      "qid": "Q124101458",
+      "name": "Sherzod Nasrullaev",
+      "description": "Uzbek footballer",
+      "place_of_birth_qid": "Q722982",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 1.83,
+      "image_filename": "Sherzod Nasrullayev.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sherzod_Nasrullaev",
+      "transfermarkt_id": "608537",
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Koson",
+      "photo": {
+        "filename": "Sherzod Nasrullayev.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sherzod_Nasrullayev.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sherzod_Nasrullayev.jpg",
+        "width": 216,
+        "height": 255,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "NOC of Uzbekistan",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/sherzod-nasrullaev.jpg"
+      }
+    },
+    {
+      "slug": "umar-eshmurodov",
+      "display_name": "Umar Eshmurodov",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1992-11-30",
+      "age": 33,
+      "caps": 29,
+      "goals": 0,
+      "club_from_squad_table": "Nasaf",
+      "wikipedia_title": "Umar Eshmurodov",
+      "date_of_birth": "1992-11-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nasaf",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q89047062",
+      "qid": "Q89047062",
+      "name": "Umar Eshmurodov",
+      "description": "Uzbekistani footballer",
+      "place_of_birth_qid": "Q722982",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q193592"
+      ],
+      "image_filename": "Umar Eshmurodov 2.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Umar_Eshmurodov",
+      "transfermarkt_id": "493725",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Koson",
+      "photo": {
+        "filename": "Umar Eshmurodov 2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Umar_Eshmurodov_2.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Umar_Eshmurodov_2.jpg",
+        "width": 842,
+        "height": 740,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Umarxon_III\" title=\"User:Umarxon III\">Umarxon III</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/umar-eshmurodov.jpg"
+      }
+    },
+    {
+      "slug": "abdukodir-khusanov",
+      "display_name": "Abdukodir Khusanov",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-02-29",
+      "age": 22,
+      "caps": 25,
+      "goals": 0,
+      "club_from_squad_table": "Manchester City",
+      "wikipedia_title": "Abdukodir Khusanov",
+      "date_of_birth": "2004-02-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Manchester City",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q111479885",
+      "qid": "Q111479885",
+      "name": "Abdukodir Khusanov",
+      "description": "Uzbek association football player",
+      "place_of_birth_qid": "Q269",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 1.86,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q3091283",
+          "start": "2022-03-00",
+          "end": "2023-07-00"
+        },
+        {
+          "team_qid": "Q191843",
+          "start": "2023-07-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q50602",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q191843",
+      "image_filename": "Abdukodir Khusanov (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abdukodir_Khusanov",
+      "transfermarkt_id": "763079",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Tashkent",
+      "wikidata_current_club": "R.C. Lens",
+      "wikidata_current_club_qid": "Q191843",
+      "photo": {
+        "filename": "Abdukodir Khusanov (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Abdukodir_Khusanov_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Abdukodir_Khusanov_%28cropped%29.jpg",
+        "width": 237,
+        "height": 354,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "olympic.uz",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/abdukodir-khusanov.jpg"
+      }
+    },
+    {
+      "slug": "ibrokhimkhalil-yuldoshev",
+      "display_name": "Ibrokhimkhalil Yuldoshev",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-02-14",
+      "age": 25,
+      "caps": 16,
+      "goals": 1,
+      "club_from_squad_table": "Neftchi",
+      "wikipedia_title": "Ibrokhimkhalil Yuldoshev",
+      "date_of_birth": "2001-02-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Neftchi",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q98878577",
+      "qid": "Q98878577",
+      "name": "Ibrokhimkhalil Yuldoshev",
+      "description": "Uzbekistani footballer",
+      "place_of_birth_qid": "Q1658420",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 170.0,
+      "image_filename": "Ibrokhimkhalil Yuldoshev 2021.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ibrokhimkhalil_Yuldoshev",
+      "transfermarkt_id": "704545",
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Yangiyer",
+      "photo": {
+        "filename": "Ibrokhimkhalil Yuldoshev 2021.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ibrokhimkhalil_Yuldoshev_2021.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ibrokhimkhalil_Yuldoshev_2021.jpg",
+        "width": 481,
+        "height": 921,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u043d\u0442\u043e\u043d \u0417\u0430\u0439\u0446\u0435\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ibrokhimkhalil-yuldoshev.jpg"
+      }
+    },
+    {
+      "slug": "abdulla-abdullaev",
+      "display_name": "Abdulla Abdullaev",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "1997-09-01",
+      "age": 28,
+      "caps": 16,
+      "goals": 0,
+      "club_from_squad_table": "Dibba Al Fujairah",
+      "wikipedia_title": "Abdulla Abdullaev",
+      "date_of_birth": "1997-09-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Dibba Al Fujairah",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q122152591",
+      "qid": "Q122152591",
+      "name": "Abdulla Abdullaev",
+      "description": "Uzbekistani footballer",
+      "place_of_birth_qid": "Q609368",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 1.83,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abdulla_Abdullaev",
+      "transfermarkt_id": "570272",
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "\u0136\u00fcrgontepa",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "bekhruz-karimov",
+      "display_name": "Bekhruz Karimov",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2007-07-08",
+      "age": 18,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Surkhon",
+      "wikipedia_title": "Behruz Karimov",
+      "date_of_birth": "2007-07-08",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Surkhon",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q131470768",
+      "qid": "Q131470768",
+      "name": "Bekhruz Karimov",
+      "description": "Uzbekistani footballer",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "image_filename": "Behruz Karimov.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Behruz_Karimov",
+      "wikidata_date_of_birth": "2007-08-07",
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "photo": {
+        "filename": "Behruz Karimov.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Behruz_Karimov.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Behruz_Karimov.jpg",
+        "width": 755,
+        "height": 710,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Umarxon_III\" title=\"User:Umarxon III\">Umarxon III</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/bekhruz-karimov.jpg"
+      }
+    },
+    {
+      "slug": "mukhammadkodir-khamraliev",
+      "display_name": "Mukhammadkodir Khamraliev",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2001-07-06",
+      "age": 24,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Pakhtakor",
+      "wikipedia_title": "Mukhammadkodir Khamraliev",
+      "date_of_birth": "2001-07-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Pakhtakor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q124129502",
+      "qid": "Q124129502",
+      "name": "Mukhammadkodir Khamraliev",
+      "description": "Uzbekistani footballer",
+      "place_of_birth_qid": "Q486329",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 185.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q770541",
+          "start": null,
+          "end": "2023-02-00"
+        },
+        {
+          "team_qid": "Q111244851",
+          "start": "2022-03-00",
+          "end": "2022-11-00"
+        },
+        {
+          "team_qid": "Q732106",
+          "start": "2023-02-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3247955",
+          "start": "2021-10-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q487321",
+          "start": "2023-12-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q732106",
+      "image_filename": "Muhammadqodir Hamroliyev.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mukhammadkodir_Khamraliev",
+      "transfermarkt_id": "883732",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Fergana",
+      "wikidata_current_club": "Pakhtakor Tashkent FK",
+      "wikidata_current_club_qid": "Q732106",
+      "photo": {
+        "filename": "Muhammadqodir Hamroliyev.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Muhammadqodir_Hamroliyev.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Muhammadqodir_Hamroliyev.jpg",
+        "width": 697,
+        "height": 936,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "\u0425\u0430\u0441\u0430\u043d \u041f\u0438\u0440\u043c\u0443\u0445\u0430\u043c\u0435\u0434\u043e\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/mukhammadkodir-khamraliev.jpg"
+      }
+    },
+    {
+      "slug": "jakhongir-urozov",
+      "display_name": "Jakhongir Urozov",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-01-18",
+      "age": 22,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Dinamo Samarqand",
+      "wikipedia_title": "Jakhongir Urozov",
+      "date_of_birth": "2004-01-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Dinamo Samarqand",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q122055800",
+      "qid": "Q122055800",
+      "name": "Jakhongir Urozov",
+      "description": "Uzbekistani association football player",
+      "place_of_birth_qid": "Q572380",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "image_filename": "Jahongir O\u02bbrozov.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jakhongir_Urozov",
+      "transfermarkt_id": "989069",
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Jizzakh",
+      "photo": {
+        "filename": "Jahongir O\u02bbrozov.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Jahongir_O%CA%BBrozov.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Jahongir_O%CA%BBrozov.jpg",
+        "width": 186,
+        "height": 243,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "NOC of Uzbekistan",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jakhongir-urozov.jpg"
+      }
+    },
+    {
+      "slug": "mukhammadrasul-abdumazhidov",
+      "display_name": "Mukhammadrasul Abdumazhidov",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2004-07-23",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Pakhtakor",
+      "wikipedia_title": null,
+      "date_of_birth": "2004-07-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Pakhtakor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q131572697",
+      "qid": "Q131572697",
+      "name": "Mukhammadrasul Abdumazhidov",
+      "description": "Uzbekistani footballer",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "diyor-ortikboev",
+      "display_name": "Diyor Ortikboev",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2003-01-06",
+      "age": 23,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Khorazm",
+      "wikipedia_title": "Diyor Ortikboev",
+      "date_of_birth": "2003-01-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Khorazm",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q123678260",
+      "qid": "Q123678260",
+      "name": "Diyor Ortiqboyev",
+      "description": "Uzbek footballer",
+      "place_of_birth_qid": "Q5764",
+      "image_filename": "Diyor Ortiqboyev.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diyor_Ortikboev",
+      "place_of_birth": "Bukhara",
+      "photo": {
+        "filename": "Diyor Ortiqboyev.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Diyor_Ortiqboyev.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Diyor_Ortiqboyev.jpg",
+        "width": 166,
+        "height": 212,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "NOC of Uzbekistan",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/diyor-ortikboev.jpg"
+      }
+    },
+    {
+      "slug": "avazbek-ulmasaliev",
+      "display_name": "Avazbek Ulmasaliev",
+      "shirt_no": null,
+      "position_code": "DF",
+      "dob": "2000-03-27",
+      "age": 26,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "AGMK",
+      "wikipedia_title": "Avazbek Ulmasaliev",
+      "date_of_birth": "2000-03-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "AGMK",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q123995807",
+      "qid": "Q123995807",
+      "name": "Avazbek Ulmasaliev",
+      "description": "Uzbekistani footballer",
+      "place_of_birth_qid": "Q487585",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q770528",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q770528",
+      "image_filename": "Avazbek O\u02bblmasaliyev.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Avazbek_Ulmasaliev",
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Tashkent Region",
+      "wikidata_current_club": "FC AGMK",
+      "wikidata_current_club_qid": "Q770528",
+      "photo": {
+        "filename": "Avazbek O\u02bblmasaliyev.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Avazbek_O%CA%BBlmasaliyev.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Avazbek_O%CA%BBlmasaliyev.jpg",
+        "width": 838,
+        "height": 757,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Umarxon_III\" title=\"User:Umarxon III\">Umarxon III</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/avazbek-ulmasaliev.jpg"
+      }
+    },
+    {
+      "slug": "otabek-shukurov",
+      "display_name": "Otabek Shukurov",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-06-22",
+      "age": 29,
+      "caps": 82,
+      "goals": 9,
+      "club_from_squad_table": "Baniyas",
+      "wikipedia_title": "Otabek Shukurov",
+      "date_of_birth": "1996-06-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Baniyas",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q26209536",
+      "qid": "Q26209536",
+      "name": "Otabek Shukurov",
+      "description": "association football player",
+      "place_of_birth_qid": "Q2631684",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 182.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q628763",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q628763",
+      "image_filename": "Otabek Shukurov.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Otabek_Shukurov",
+      "transfermarkt_id": "294525",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Chirakchi",
+      "wikidata_current_club": "F.C. Bunyodkor",
+      "wikidata_current_club_qid": "Q628763",
+      "photo": {
+        "filename": "Otabek Shukurov.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Otabek_Shukurov.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Otabek_Shukurov.jpg/960px-Otabek_Shukurov.jpg",
+        "width": 3072,
+        "height": 4080,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Laziz_Baxtiyorov\" title=\"User:Laziz Baxtiyorov\">Laziz Baxtiyorov</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/otabek-shukurov.jpg"
+      }
+    },
+    {
+      "slug": "odiljon-hamrobekov",
+      "display_name": "Odiljon Hamrobekov",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1996-02-13",
+      "age": 30,
+      "caps": 71,
+      "goals": 1,
+      "club_from_squad_table": "Tractor",
+      "wikipedia_title": "Odiljon Hamrobekov",
+      "date_of_birth": "1996-02-13",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Tractor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q47501392",
+      "qid": "Q47501392",
+      "name": "Odiljon Hamrobekov",
+      "description": "association football player",
+      "place_of_birth_qid": "Q265",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1150723",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1150723",
+      "image_filename": "Odiljon Hamrobekov 2020.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Odiljon_Hamrobekov",
+      "transfermarkt_id": "288915",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Uzbekistan",
+      "wikidata_current_club": "Nasaf Qarshi",
+      "wikidata_current_club_qid": "Q1150723",
+      "photo": {
+        "filename": "Odiljon Hamrobekov 2020.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Odiljon_Hamrobekov_2020.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Odiljon_Hamrobekov_2020.jpg",
+        "width": 819,
+        "height": 1167,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u043d\u043d\u0430 \u041d\u044d\u0441\u0441\u0438",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/odiljon-hamrobekov.jpg"
+      }
+    },
+    {
+      "slug": "jamshid-iskanderov",
+      "display_name": "Jamshid Iskanderov",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1993-10-16",
+      "age": 32,
+      "caps": 37,
+      "goals": 4,
+      "club_from_squad_table": "Neftchi",
+      "wikipedia_title": "Jamshid Iskanderov",
+      "date_of_birth": "1993-10-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Neftchi",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16235461",
+      "qid": "Q16235461",
+      "name": "Jamshid Iskanderov",
+      "description": "Uzbekistani footballer",
+      "place_of_birth_qid": "Q269",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 168.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q732106",
+          "start": "2012-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q770541",
+          "start": "2011-01-01",
+          "end": "2011-00-00"
+        },
+        {
+          "team_qid": "Q3328961",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q487321",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q609912",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q482540",
+          "start": "2020-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q1101346",
+          "start": "2022-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q870279",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3247955",
+          "start": "2013-00-00",
+          "end": "2013-00-00"
+        }
+      ],
+      "current_club_qid": "Q870279",
+      "image_filename": "Jamshid Iskanderov (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jamshid_Iskanderov",
+      "transfermarkt_id": "260857",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Tashkent",
+      "wikidata_current_club": "FC Neftchi Fergana",
+      "wikidata_current_club_qid": "Q870279",
+      "photo": {
+        "filename": "Jamshid Iskanderov (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Jamshid_Iskanderov_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jamshid_Iskanderov_%28cropped%29.jpg/960px-Jamshid_Iskanderov_%28cropped%29.jpg",
+        "width": 1239,
+        "height": 1329,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:UmirovaDilshoda&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:UmirovaDilshoda (page does not exist)\">UmirovaDilshoda</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jamshid-iskanderov.jpg"
+      }
+    },
+    {
+      "slug": "akmal-mozgovoy",
+      "display_name": "Akmal Mozgovoy",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1999-04-02",
+      "age": 27,
+      "caps": 23,
+      "goals": 1,
+      "club_from_squad_table": "Pakhtakor",
+      "wikipedia_title": "Akmal Mozgovoy",
+      "date_of_birth": "1999-04-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Pakhtakor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q99777968",
+      "qid": "Q99777968",
+      "name": "Akmal Mozgovoy",
+      "description": "Uzbekistani footballer",
+      "place_of_birth_qid": "Q644008",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 1.8,
+      "image_filename": "Akmal Mozgovoy 2.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Akmal_Mozgovoy",
+      "transfermarkt_id": "562022",
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Qarshi",
+      "photo": {
+        "filename": "Akmal Mozgovoy 2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Akmal_Mozgovoy_2.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Akmal_Mozgovoy_2.jpg/960px-Akmal_Mozgovoy_2.jpg",
+        "width": 4000,
+        "height": 6000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Umarxon_III\" title=\"User:Umarxon III\">Umarxon III</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/akmal-mozgovoy.jpg"
+      }
+    },
+    {
+      "slug": "azizjon-ganiev",
+      "display_name": "Azizjon Ganiev",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1998-02-22",
+      "age": 28,
+      "caps": 18,
+      "goals": 0,
+      "club_from_squad_table": "Al Bataeh",
+      "wikipedia_title": "Azizjon Ganiev",
+      "date_of_birth": "1998-02-22",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Al Bataeh",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28098786",
+      "qid": "Q28098786",
+      "name": "Azizjon Ganiev",
+      "description": "association football player",
+      "place_of_birth_qid": "Q265",
+      "height_cm": 180.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1150723",
+          "start": "2016-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q487321",
+          "start": "2017-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1150723",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Azizjon_Ganiev",
+      "transfermarkt_id": "431911",
+      "positions": [
+        "midfielder"
+      ],
+      "place_of_birth": "Uzbekistan",
+      "wikidata_current_club": "Nasaf Qarshi",
+      "wikidata_current_club_qid": "Q1150723",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "kuvondik-ruziev",
+      "display_name": "Kuvondik Ruziev",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "1994-10-06",
+      "age": 31,
+      "caps": 6,
+      "goals": 0,
+      "club_from_squad_table": "Neftchi",
+      "wikipedia_title": "Kuvondik Ruziev",
+      "date_of_birth": "1994-10-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Neftchi",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q65548520",
+      "qid": "Q65548520",
+      "name": "Kuvondik Ruziev",
+      "description": "Uzbekistani footballer",
+      "place_of_birth_qid": "Q866022",
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q609912",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q609912",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kuvondik_Ruziev",
+      "positions": [
+        "midfielder"
+      ],
+      "place_of_birth": "Jarkurghon",
+      "wikidata_current_club": "Lokomotiv Tashkent",
+      "wikidata_current_club_qid": "Q609912",
+      "image_filename": "Kuvondik Ruziev.jpg",
+      "photo": {
+        "filename": "Kuvondik Ruziev.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Kuvondik_Ruziev.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Kuvondik_Ruziev.jpg",
+        "width": 718,
+        "height": 955,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:AnvarxonM\" title=\"User:AnvarxonM\">AnvarxonM</a>",
+        "source": "wikimedia-commons-category",
+        "local_path": "data/photos/kuvondik-ruziev.jpg"
+      }
+    },
+    {
+      "slug": "alisher-odilov",
+      "display_name": "Alisher Odilov",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2001-07-15",
+      "age": 24,
+      "caps": 2,
+      "goals": 1,
+      "club_from_squad_table": "Neftchi",
+      "wikipedia_title": "Alisher Odilov",
+      "date_of_birth": "2001-07-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Neftchi",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q127230765",
+      "qid": "Q127230765",
+      "name": "Alisher Odilov",
+      "description": "Uzbekistani association football player",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "image_filename": "Alisher Odilov.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alisher_Odilov",
+      "transfermarkt_id": "630017",
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "photo": {
+        "filename": "Alisher Odilov.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Alisher_Odilov.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Alisher_Odilov.jpg/960px-Alisher_Odilov.jpg",
+        "width": 1280,
+        "height": 896,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "NOC of Uzbekistan",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alisher-odilov.jpg"
+      }
+    },
+    {
+      "slug": "jasurbek-jaloliddinov",
+      "display_name": "Jasurbek Jaloliddinov",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2002-05-15",
+      "age": 24,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Sogdiana",
+      "wikipedia_title": "Jasurbek Jaloliddinov",
+      "date_of_birth": "2002-05-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sogdiana",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q84081342",
+      "qid": "Q84081342",
+      "name": "Jasurbek Jaloliddinov",
+      "description": "Uzbekistani footballer",
+      "place_of_birth_qid": "Q763015",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 168.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q628763",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q487321",
+          "start": "2020-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q420594",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q609912",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q628763",
+      "image_filename": "Jasur Jaloliddinov.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jasurbek_Jaloliddinov",
+      "transfermarkt_id": "603416",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Navoiy",
+      "wikidata_current_club": "F.C. Bunyodkor",
+      "wikidata_current_club_qid": "Q628763",
+      "photo": {
+        "filename": "Jasur Jaloliddinov.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jasur_Jaloliddinov.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jasur_Jaloliddinov.jpg/960px-Jasur_Jaloliddinov.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "NOC of Uzbekistan",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jasurbek-jaloliddinov.jpg"
+      }
+    },
+    {
+      "slug": "umarali-rakhmonaliev",
+      "display_name": "Umarali Rakhmonaliev",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-08-18",
+      "age": 22,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Sabah",
+      "wikipedia_title": "Umarali Rakhmonaliev",
+      "date_of_birth": "2003-08-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Sabah",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q116008479",
+      "qid": "Q116008479",
+      "name": "Umarali Rakhmonaliev",
+      "description": "Uzbekistani association football player",
+      "place_of_birth_qid": "Q492552",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 170.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q170040",
+          "start": "2023-01-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q628763",
+          "start": "2022-01-00",
+          "end": "2022-12-00"
+        },
+        {
+          "team_qid": "Q3328961",
+          "start": "2022-09-08",
+          "end": "2023-05-00"
+        },
+        {
+          "team_qid": "Q3247955",
+          "start": "2023-06-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q170040",
+      "image_filename": "Umarali Rahmonaliyev.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Umarali_Rakhmonaliev",
+      "transfermarkt_id": "837432",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Namangan",
+      "wikidata_current_club": "Rubin Kazan",
+      "wikidata_current_club_qid": "Q170040",
+      "photo": {
+        "filename": "Umarali Rahmonaliyev.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Umarali_Rahmonaliyev.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Umarali_Rahmonaliyev.jpg",
+        "width": 205,
+        "height": 251,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "NOC of Uzbekistan",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/umarali-rakhmonaliev.jpg"
+      }
+    },
+    {
+      "slug": "nodirbek-abdurazzokov",
+      "display_name": "Nodirbek Abdurazzokov",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2004-05-26",
+      "age": 22,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "AGMK",
+      "wikipedia_title": null,
+      "date_of_birth": "2004-05-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "AGMK",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q131572636",
+      "qid": "Q131572636",
+      "name": "Nodirbek Abdurazzokov",
+      "description": "Uzbekistani footballer",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "image_filename": "Nodir Abdurazzoqov.jpg",
+      "wikidata_date_of_birth": "2004-05-27",
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "photo": {
+        "filename": "Nodir Abdurazzoqov.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Nodir_Abdurazzoqov.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Nodir_Abdurazzoqov.jpg",
+        "width": 184,
+        "height": 228,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "NOC of Uzbekistan",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nodirbek-abdurazzokov.jpg"
+      }
+    },
+    {
+      "slug": "sardorbek-bakhromov",
+      "display_name": "Sardorbek Bakhromov",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2005-02-16",
+      "age": 21,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Nasaf",
+      "wikipedia_title": null,
+      "date_of_birth": "2005-02-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Nasaf",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q133043082",
+      "qid": "Q133043082",
+      "name": "Sardorbek Bakhromov",
+      "description": "Uzbekistani footballer",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "image_filename": "Sardorbek Bahromov.jpg",
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "photo": {
+        "filename": "Sardorbek Bahromov.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Sardorbek_Bahromov.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Sardorbek_Bahromov.jpg",
+        "width": 696,
+        "height": 709,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Umarxon_III\" title=\"User:Umarxon III\">Umarxon III</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/sardorbek-bakhromov.jpg"
+      }
+    },
+    {
+      "slug": "sherzod-esanov",
+      "display_name": "Sherzod Esanov",
+      "shirt_no": null,
+      "position_code": "MF",
+      "dob": "2003-02-01",
+      "age": 23,
+      "caps": 0,
+      "goals": 0,
+      "club_from_squad_table": "Buxoro",
+      "wikipedia_title": "Sherzod Esanov",
+      "date_of_birth": "2003-02-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Buxoro",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q128133456",
+      "qid": "Q128133456",
+      "name": "Sherzod Esanov",
+      "description": "Uzbekistani footballer",
+      "place_of_birth_qid": "Q763015",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q125302749",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q1388791",
+          "start": "2022-01-00",
+          "end": "2024-07-00"
+        },
+        {
+          "team_qid": "Q111244851",
+          "start": "2023-07-00",
+          "end": "2023-12-00"
+        },
+        {
+          "team_qid": "Q65124755",
+          "start": "2024-07-00",
+          "end": "2025-07-00"
+        },
+        {
+          "team_qid": "Q772725",
+          "start": "2025-09-00",
+          "end": "2025-12-00"
+        },
+        {
+          "team_qid": "Q1263906",
+          "start": "2026-01-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1263906",
+      "image_filename": "Sherzod Esanov.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sherzod_Esanov",
+      "transfermarkt_id": "989068",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Navoiy",
+      "wikidata_current_club": "FK Buxoro",
+      "wikidata_current_club_qid": "Q1263906",
+      "photo": {
+        "filename": "Sherzod Esanov.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sherzod_Esanov.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sherzod_Esanov.jpg",
+        "width": 178,
+        "height": 233,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "NOC of Uzbekistan",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/sherzod-esanov.jpg"
+      }
+    },
+    {
+      "slug": "eldor-shomurodov",
+      "display_name": "Eldor Shomurodov",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1995-06-29",
+      "age": 30,
+      "caps": 90,
+      "goals": 44,
+      "club_from_squad_table": "\u0130stanbul Ba\u015fak\u015fehir",
+      "wikipedia_title": "Eldor Shomurodov",
+      "date_of_birth": "1995-06-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "\u0130stanbul Ba\u015fak\u015fehir",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20641483",
+      "qid": "Q20641483",
+      "name": "Eldor Shomurodov",
+      "description": "Uzbekistani association football player",
+      "place_of_birth_qid": "Q866022",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q628763",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1388979",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q3328961",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q3328961",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q487321",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q2739",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q628763",
+      "image_filename": "Rostov-DM18 (2).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eldor_Shomurodov",
+      "transfermarkt_id": "358166",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Jarkurghon",
+      "wikidata_current_club": "F.C. Bunyodkor",
+      "wikidata_current_club_qid": "Q628763",
+      "photo": {
+        "filename": "Rostov-DM18 (2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Rostov-DM18_%282%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Rostov-DM18_%282%29.jpg",
+        "width": 937,
+        "height": 1200,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u0440\u0442\u0435\u043c \u0413\u0443\u0441\u0435\u0432",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/eldor-shomurodov.jpg"
+      }
+    },
+    {
+      "slug": "igor-sergeev",
+      "display_name": "Igor Sergeev",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1993-04-30",
+      "age": 33,
+      "caps": 81,
+      "goals": 24,
+      "club_from_squad_table": "Persepolis",
+      "wikipedia_title": "Igor Sergeev",
+      "date_of_birth": "1993-04-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Persepolis",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q10549264",
+      "qid": "Q10549264",
+      "name": "Igor Sergeev",
+      "description": "footballer",
+      "place_of_birth_qid": "Q269",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 181.0,
+      "weight_kg": 74.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q732106",
+          "start": "2011-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3328961",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q3328961",
+          "start": "2012-01-01",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q3328961",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q487321",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q194170",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q477814",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q732106",
+      "image_filename": "Igor Sergeyev (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Igor_Sergeev",
+      "transfermarkt_id": "185372",
+      "fifa_player_id": "368546",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Tashkent",
+      "wikidata_current_club": "Pakhtakor Tashkent FK",
+      "wikidata_current_club_qid": "Q732106",
+      "photo": {
+        "filename": "Igor Sergeyev (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Igor_Sergeyev_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Igor_Sergeyev_%28cropped%29.jpg",
+        "width": 396,
+        "height": 373,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "NOC of Uzbekistan",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/igor-sergeev.jpg"
+      }
+    },
+    {
+      "slug": "jaloliddin-masharipov",
+      "display_name": "Jaloliddin Masharipov",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1993-09-01",
+      "age": 32,
+      "caps": 74,
+      "goals": 12,
+      "club_from_squad_table": "Esteghlal",
+      "wikipedia_title": "Jaloliddin Masharipov",
+      "date_of_birth": "1993-09-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Esteghlal",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q19831829",
+      "qid": "Q19831829",
+      "name": "Jaloliddin Masharipov",
+      "description": "Uzbekistani association football player",
+      "place_of_birth_qid": "Q472925",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q732106",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3328961",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q482764",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q732106",
+      "image_filename": "Jaloliddin Masharipov 2020.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jaloliddin_Masharipov",
+      "transfermarkt_id": "274536",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Urgench",
+      "wikidata_current_club": "Pakhtakor Tashkent FK",
+      "wikidata_current_club_qid": "Q732106",
+      "photo": {
+        "filename": "Jaloliddin Masharipov 2020.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jaloliddin_Masharipov_2020.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jaloliddin_Masharipov_2020.jpg",
+        "width": 673,
+        "height": 1097,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0410\u043d\u043d\u0430 \u041d\u044d\u0441\u0441\u0438",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/jaloliddin-masharipov.jpg"
+      }
+    },
+    {
+      "slug": "oston-urunov",
+      "display_name": "Oston Urunov",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2000-12-19",
+      "age": 25,
+      "caps": 40,
+      "goals": 10,
+      "club_from_squad_table": "Persepolis",
+      "wikipedia_title": "Oston Urunov",
+      "date_of_birth": "2000-12-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Persepolis",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q65030956",
+      "qid": "Q65030956",
+      "name": "Oston Urunov",
+      "description": "Uzbekistani association football player",
+      "place_of_birth_qid": "Q763015",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 181.0,
+      "weight_kg": 82.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1101346",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q609912",
+          "start": "2019-07-00",
+          "end": "2020-02-00"
+        },
+        {
+          "team_qid": "Q2137561",
+          "start": "2020-02-10",
+          "end": "2020-08-05"
+        },
+        {
+          "team_qid": "Q29112",
+          "start": "2020-08-05",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q29112",
+      "image_filename": "Oston Urunov 2020.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oston_Urunov",
+      "transfermarkt_id": "492556",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Navoiy",
+      "wikidata_current_club": "Spartak Moscow",
+      "wikidata_current_club_qid": "Q29112",
+      "photo": {
+        "filename": "Oston Urunov 2020.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Oston_Urunov_2020.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Oston_Urunov_2020.jpg",
+        "width": 945,
+        "height": 1267,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041f\u0443\u043a\u0430\u043b\u0438\u043a",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/oston-urunov.jpg"
+      }
+    },
+    {
+      "slug": "dostonbek-khamdamov",
+      "display_name": "Dostonbek Khamdamov",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1996-07-24",
+      "age": 29,
+      "caps": 33,
+      "goals": 5,
+      "club_from_squad_table": "Pakhtakor",
+      "wikipedia_title": "Dostonbek Khamdamov",
+      "date_of_birth": "1996-07-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Pakhtakor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20306806",
+      "qid": "Q20306806",
+      "name": "Dostonbek Khamdamov",
+      "description": "Uzbekistani association football player",
+      "place_of_birth_qid": "Q269",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 178.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q628763",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q3329262",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q3328961",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q3328961",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q487321",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q19353",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q628763",
+      "image_filename": "Dostonbek Khamdamov 2018.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dostonbek_Khamdamov",
+      "transfermarkt_id": "294502",
+      "fifa_player_id": "371393",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Tashkent",
+      "wikidata_current_club": "F.C. Bunyodkor",
+      "wikidata_current_club_qid": "Q628763",
+      "photo": {
+        "filename": "Dostonbek Khamdamov 2018.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dostonbek_Khamdamov_2018.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dostonbek_Khamdamov_2018.jpg",
+        "width": 363,
+        "height": 559,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u041b\u0430\u0443\u0442",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/dostonbek-khamdamov.jpg"
+      }
+    },
+    {
+      "slug": "abbosbek-fayzullaev",
+      "display_name": "Abbosbek Fayzullaev",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2003-10-03",
+      "age": 22,
+      "caps": 30,
+      "goals": 8,
+      "club_from_squad_table": "\u0130stanbul Ba\u015fak\u015fehir",
+      "wikipedia_title": "Abbosbek Fayzullaev",
+      "date_of_birth": "2003-10-03",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "\u0130stanbul Ba\u015fak\u015fehir",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117280421",
+      "qid": "Q117280421",
+      "name": "Abbosbek Fayzullaev",
+      "description": "Uzbek footballer (born 2003)",
+      "place_of_birth_qid": "Q500666",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 167.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q176371",
+          "start": "2023-08-00",
+          "end": "2025-07-30"
+        },
+        {
+          "team_qid": "Q732106",
+          "start": "2021-05-00",
+          "end": "2023-08-00"
+        },
+        {
+          "team_qid": "Q3328961",
+          "start": "2022-09-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3247955",
+          "start": "2021-10-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q487321",
+          "start": "2023-06-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q857938",
+          "start": "2025-07-30",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q857938",
+      "image_filename": "Abbosbek Fayzullaev Cska Moscow player.png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abbosbek_Fayzullaev",
+      "transfermarkt_id": "754037",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Sirdaryo",
+      "wikidata_current_club": "\u0130stanbul Ba\u015fak\u015fehir F.K.",
+      "wikidata_current_club_qid": "Q857938",
+      "photo": {
+        "filename": "Abbosbek Fayzullaev Cska Moscow player.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Abbosbek_Fayzullaev_Cska_Moscow_player.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Abbosbek_Fayzullaev_Cska_Moscow_player.png/960px-Abbosbek_Fayzullaev_Cska_Moscow_player.png",
+        "width": 1912,
+        "height": 2867,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Nazarxk&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Nazarxk (page does not exist)\">Nazarxk</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/abbosbek-fayzullaev.png"
+      }
+    },
+    {
+      "slug": "azizbek-amonov",
+      "display_name": "Azizbek Amonov",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1997-10-30",
+      "age": 28,
+      "caps": 11,
+      "goals": 2,
+      "club_from_squad_table": "Buxoro",
+      "wikipedia_title": "Azizbek Amonov",
+      "date_of_birth": "1997-10-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Buxoro",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110813058",
+      "qid": "Q110813058",
+      "name": "Azizbek Amonov",
+      "description": "Uzbek footballer",
+      "place_of_birth_qid": "Q147697",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 183.0,
+      "image_filename": "Esteghlal Celebrate IPL Title Win at Azadi Stadium - 145.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Azizbek_Amonov",
+      "transfermarkt_id": "517918",
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Zarafshon",
+      "photo": {
+        "filename": "Esteghlal Celebrate IPL Title Win at Azadi Stadium - 145.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Esteghlal_Celebrate_IPL_Title_Win_at_Azadi_Stadium_-_145.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Esteghlal_Celebrate_IPL_Title_Win_at_Azadi_Stadium_-_145.jpg",
+        "width": 542,
+        "height": 700,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "\u0645\u062d\u0645\u062f\u0635\u0627\u062f\u0642 \u0646\u06cc\u06a9 \u06af\u0633\u062a\u0631",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/azizbek-amonov.jpg"
+      }
+    },
+    {
+      "slug": "ruslanbek-jiyanov",
+      "display_name": "Ruslanbek Jiyanov",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2001-06-05",
+      "age": 25,
+      "caps": 5,
+      "goals": 0,
+      "club_from_squad_table": "Navbahor",
+      "wikipedia_title": "Ruslanbek Jiyanov",
+      "date_of_birth": "2001-06-05",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Navbahor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q117289729",
+      "qid": "Q117289729",
+      "name": "Ruslanbek Jiyanov",
+      "description": "Uzbekistani footballer",
+      "place_of_birth_qid": "Q269",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "height_cm": 1.8,
+      "image_filename": "Ruslanbek Jiyanov (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ruslanbek_Jiyanov",
+      "transfermarkt_id": "754040",
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Tashkent",
+      "photo": {
+        "filename": "Ruslanbek Jiyanov (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ruslanbek_Jiyanov_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ruslanbek_Jiyanov_%28cropped%29.jpg",
+        "width": 432,
+        "height": 388,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "NOC of Uzbekistan",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/ruslanbek-jiyanov.jpg"
+      }
+    },
+    {
+      "slug": "sherzod-temirov",
+      "display_name": "Sherzod Temirov",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "1998-10-27",
+      "age": 27,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "Erbil",
+      "wikipedia_title": "Sherzod Temirov",
+      "date_of_birth": "1998-10-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Erbil",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q111015325",
+      "qid": "Q111015325",
+      "name": "Sherzod Temirov",
+      "description": "Uzbekistani footballer",
+      "place_of_birth_qid": "Q2631365",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "image_filename": "Persepolis FC vs Esteghlal FC, 17 March 2022 - 097 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sherzod_Temirov",
+      "transfermarkt_id": "584376",
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "G\u2018uzor",
+      "photo": {
+        "filename": "Persepolis FC vs Esteghlal FC, 17 March 2022 - 097 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Persepolis_FC_vs_Esteghlal_FC%2C_17_March_2022_-_097_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Persepolis_FC_vs_Esteghlal_FC%2C_17_March_2022_-_097_%28cropped%29.jpg",
+        "width": 348,
+        "height": 554,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "mojnews",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/sherzod-temirov.jpg"
+      }
+    },
+    {
+      "slug": "khusayin-norchaev",
+      "display_name": "Khusayin Norchaev",
+      "shirt_no": null,
+      "position_code": "FW",
+      "dob": "2002-02-06",
+      "age": 24,
+      "caps": 1,
+      "goals": 1,
+      "club_from_squad_table": "Navbahor",
+      "wikipedia_title": "Khusayin Norchaev",
+      "date_of_birth": "2002-02-06",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Navbahor",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q111305124",
+      "qid": "Q111305124",
+      "name": "Khusayin Norchaev",
+      "description": "Uzbekistani footballer",
+      "place_of_birth_qid": "Q4536706",
+      "citizenship_qids": [
+        "Q265"
+      ],
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1150723",
+          "start": "2020-06-00",
+          "end": "2023-02-00"
+        },
+        {
+          "team_qid": "Q240438",
+          "start": "2023-02-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q870279",
+          "start": "2024-02-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q3328961",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q125775470",
+          "start": "2021-05-00",
+          "end": "2021-05-00"
+        },
+        {
+          "team_qid": "Q3247955",
+          "start": "2022-03-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q487321",
+          "start": "2021-10-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q870279",
+      "image_filename": "Khusayin Norchaev.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Khusayin_Norchaev",
+      "transfermarkt_id": "704549",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Uzbekistan"
+      ],
+      "place_of_birth": "Yakkabog",
+      "wikidata_current_club": "FC Neftchi Fergana",
+      "wikidata_current_club_qid": "Q870279",
+      "photo": {
+        "filename": "Khusayin Norchaev.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Khusayin_Norchaev.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Khusayin_Norchaev.jpg/960px-Khusayin_Norchaev.jpg",
+        "width": 1137,
+        "height": 1280,
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "NOC of Uzbekistan",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/khusayin-norchaev.jpg"
+      }
+    }
+  ]
+}

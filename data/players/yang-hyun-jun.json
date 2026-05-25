@@ -1,0 +1,61 @@
+{
+  "slug": "yang-hyun-jun",
+  "display_name": "Yang Hyun-jun",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2002-05-25",
+  "age": 24,
+  "caps": 8,
+  "goals": 0,
+  "club_from_squad_table": "Celtic",
+  "wikipedia_title": "Yang Hyun-jun",
+  "wikidata_qid": "Q113127167",
+  "qid": "Q113127167",
+  "name": "Yang Hyun-jun",
+  "description": "South Korean association football player",
+  "date_of_birth": "2002-05-25",
+  "place_of_birth_qid": "Q16520",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "height_cm": 179.0,
+  "teams": [
+    {
+      "team_qid": "Q484569",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q488454",
+      "start": "2022-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q484569",
+  "image_filename": "Celtic-20240722-062 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yang_Hyun-jun",
+  "transfermarkt_id": "853110",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Celtic",
+  "current_club_source": "wikipedia-squad-table",
+  "citizenship": [
+    "South Korea"
+  ],
+  "place_of_birth": "Busan",
+  "wikidata_current_club": "Gangwon FC",
+  "wikidata_current_club_qid": "Q484569",
+  "photo": {
+    "filename": "Celtic-20240722-062 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Celtic-20240722-062_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Celtic-20240722-062_%28cropped%29.jpg/960px-Celtic-20240722-062_%28cropped%29.jpg",
+    "width": 1161,
+    "height": 1746,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Hameltion\" title=\"User:Hameltion\">Hameltion</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/yang-hyun-jun.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

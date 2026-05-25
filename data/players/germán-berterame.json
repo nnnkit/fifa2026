@@ -1,0 +1,64 @@
+{
+  "slug": "germán-berterame",
+  "display_name": "Germán Berterame",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1998-11-13",
+  "age": 27,
+  "caps": 9,
+  "goals": 2,
+  "club_from_squad_table": "Inter Miami CF",
+  "wikipedia_title": "Germán Berterame",
+  "wikidata_qid": "Q19347095",
+  "qid": "Q19347095",
+  "name": "Germán Berterame",
+  "description": "Mexican footballer",
+  "date_of_birth": "1998-11-13",
+  "place_of_birth_qid": "Q2525523",
+  "citizenship_qids": [
+    "Q414",
+    "Q96"
+  ],
+  "height_cm": 1.76,
+  "weight_kg": 65.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q218282",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q218282",
+  "image_filename": "P20260305DT-0102 President Donald J. Trump hosts MLS Champions Inter Miami CF at the White House (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Germ%C3%A1n_Berterame",
+  "transfermarkt_id": "401572",
+  "current_club": "Inter Miami CF",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Argentina",
+    "Mexico"
+  ],
+  "place_of_birth": "Villa María",
+  "wikidata_current_club": "San Lorenzo de Almagro",
+  "wikidata_current_club_qid": "Q218282",
+  "photo": {
+    "filename": "P20260305DT-0102 President Donald J. Trump hosts MLS Champions Inter Miami CF at the White House (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/P20260305DT-0102_President_Donald_J._Trump_hosts_MLS_Champions_Inter_Miami_CF_at_the_White_House_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/P20260305DT-0102_President_Donald_J._Trump_hosts_MLS_Champions_Inter_Miami_CF_at_the_White_House_%28cropped%29.jpg",
+    "width": 323,
+    "height": 416,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "The White House",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/germán-berterame.jpg"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

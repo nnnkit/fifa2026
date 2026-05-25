@@ -1,0 +1,82 @@
+{
+  "slug": "mohammad-mohebi",
+  "display_name": "Mohammad Mohebi",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1998-12-20",
+  "age": 27,
+  "caps": 35,
+  "goals": 14,
+  "club_from_squad_table": "Rostov",
+  "wikipedia_title": "Mohammad Mohebi",
+  "date_of_birth": "1998-12-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Rostov",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q65515898",
+  "qid": "Q65515898",
+  "name": "Mohammad Mohebi",
+  "description": "Iranian footballer",
+  "place_of_birth_qid": "Q158928",
+  "citizenship_qids": [
+    "Q794"
+  ],
+  "height_cm": 176.0,
+  "position_qids": [
+    "Q2827965"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3119201",
+      "start": "2017-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q31660",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q740637",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q455971",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q184602",
+      "start": "2019-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q455971",
+  "image_filename": "Mohammad Mohebi, Esteghlal FC vs Gol Gohar Sirjan FC, 6 March 2023.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammad_Mohebi",
+  "transfermarkt_id": "603149",
+  "positions": [
+    "winger"
+  ],
+  "citizenship": [
+    "Iran"
+  ],
+  "place_of_birth": "Bushehr",
+  "wikidata_current_club": "Esteghlal F.C.",
+  "wikidata_current_club_qid": "Q455971",
+  "photo": {
+    "filename": "Mohammad Mohebi, Esteghlal FC vs Gol Gohar Sirjan FC, 6 March 2023.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Mohammad_Mohebi%2C_Esteghlal_FC_vs_Gol_Gohar_Sirjan_FC%2C_6_March_2023.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Mohammad_Mohebi%2C_Esteghlal_FC_vs_Gol_Gohar_Sirjan_FC%2C_6_March_2023.jpg",
+    "width": 264,
+    "height": 366,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "\u0645\u0648\u062c",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mohammad-mohebi.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

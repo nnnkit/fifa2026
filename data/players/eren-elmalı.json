@@ -1,0 +1,62 @@
+{
+  "slug": "eren-elmalı",
+  "display_name": "Eren Elmalı",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-07-07",
+  "age": 25,
+  "caps": 21,
+  "goals": 0,
+  "club_from_squad_table": "Galatasaray",
+  "wikipedia_title": "Eren Elmalı",
+  "date_of_birth": "2000-07-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Galatasaray",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q98262284",
+  "qid": "Q98262284",
+  "name": "Eren Elmalı",
+  "description": "Turkish association football player (born 2000)",
+  "place_of_birth_qid": "Q639014",
+  "citizenship_qids": [
+    "Q43"
+  ],
+  "height_cm": 1.8,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q138230",
+      "start": "2019-07-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q138230",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Eren_Elmal%C4%B1",
+  "transfermarkt_id": "616894",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Turkey"
+  ],
+  "place_of_birth": "Kartal",
+  "wikidata_current_club": "Kasımpaşa S.K.",
+  "wikidata_current_club_qid": "Q138230",
+  "image_filename": "Eren_Elmalı_20251019.jpg",
+  "photo": {
+    "filename": "Eren_Elmalı_20251019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Eren_Elmal%C4%B1_20251019.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eren_Elmal%C4%B1_20251019.jpg/960px-Eren_Elmal%C4%B1_20251019.jpg",
+    "width": 1069,
+    "height": 1717,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Zafer\" title=\"User:Zafer\">Zafer</a>",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/eren-elmalı.jpg"
+  },
+  "team_slug": "turkey",
+  "team_country": "Turkey"
+}

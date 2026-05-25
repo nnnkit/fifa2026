@@ -1,0 +1,67 @@
+{
+  "slug": "aimar-sher",
+  "display_name": "Aimar Sher",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2002-12-20",
+  "age": 23,
+  "caps": 5,
+  "goals": 0,
+  "club_from_squad_table": "Sarpsborg 08",
+  "wikipedia_title": "Aimar Sher",
+  "date_of_birth": "2002-12-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Sarpsborg 08",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q85040729",
+  "qid": "Q85040729",
+  "name": "Aimar Sher",
+  "description": "Swedish footballer",
+  "place_of_birth_qid": "Q796",
+  "citizenship_qids": [
+    "Q34"
+  ],
+  "height_cm": 175.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q460724",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1162813",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q460724",
+  "image_filename": "GAE - FC Groningen - 52878021366 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aimar_Sher",
+  "transfermarkt_id": "579294",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Sweden"
+  ],
+  "place_of_birth": "Iraq",
+  "wikidata_current_club": "Hammarby Fotboll",
+  "wikidata_current_club_qid": "Q460724",
+  "photo": {
+    "filename": "GAE - FC Groningen - 52878021366 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/GAE_-_FC_Groningen_-_52878021366_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/GAE_-_FC_Groningen_-_52878021366_%28cropped%29.jpg/960px-GAE_-_FC_Groningen_-_52878021366_%28cropped%29.jpg",
+    "width": 2623,
+    "height": 2664,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Carlo Bruil Fotografie",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/aimar-sher.jpg"
+  },
+  "team_slug": "iraq",
+  "team_country": "Iraq"
+}

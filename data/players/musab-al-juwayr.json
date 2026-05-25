@@ -1,0 +1,83 @@
+{
+  "slug": "musab-al-juwayr",
+  "display_name": "Musab Al-Juwayr",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "2003-06-20",
+  "age": 22,
+  "caps": 32,
+  "goals": 6,
+  "club_from_squad_table": "Al-Qadsiah",
+  "wikipedia_title": "Musab Al-Juwayr",
+  "date_of_birth": "2003-06-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Qadsiah",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q105834415",
+  "qid": "Q105834415",
+  "name": "Musab Al-Juwayr",
+  "description": "Saudi association football player",
+  "place_of_birth_qid": "Q3692",
+  "citizenship_qids": [
+    "Q851"
+  ],
+  "height_cm": 1.78,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q73965",
+      "start": "2021-07-00",
+      "end": "2025-08-00"
+    },
+    {
+      "team_qid": "Q2636005",
+      "start": "2024-01-00",
+      "end": "2024-06-00"
+    },
+    {
+      "team_qid": "Q2636005",
+      "start": "2024-09-00",
+      "end": "2025-05-00"
+    },
+    {
+      "team_qid": "Q286191",
+      "start": "2025-08-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q3873541",
+      "start": "2022-09-00",
+      "end": "2023-03-00"
+    },
+    {
+      "team_qid": "Q2756148",
+      "start": "2023-03-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q189723",
+      "start": "2023-01-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q286191",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Musab_Al-Juwayr",
+  "transfermarkt_id": "901181",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Saudi Arabia"
+  ],
+  "place_of_birth": "Riyadh",
+  "wikidata_current_club": "Al Qadsiah FC",
+  "wikidata_current_club_qid": "Q286191",
+  "team_slug": "saudi-arabia",
+  "team_country": "Saudi Arabia",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

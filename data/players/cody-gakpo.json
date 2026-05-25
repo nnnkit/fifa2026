@@ -1,0 +1,85 @@
+{
+  "slug": "cody-gakpo",
+  "display_name": "Cody Gakpo",
+  "shirt_no": 11,
+  "position_code": "FW",
+  "dob": "1999-05-07",
+  "age": 27,
+  "caps": 48,
+  "goals": 19,
+  "club_from_squad_table": "Liverpool",
+  "wikipedia_title": "Cody Gakpo",
+  "date_of_birth": "1999-05-07",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Liverpool",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q28801927",
+  "qid": "Q28801927",
+  "name": "Cody Gakpo",
+  "description": "Dutch association football player (born 1999)",
+  "place_of_birth_qid": "Q9832",
+  "citizenship_qids": [
+    "Q29999"
+  ],
+  "height_cm": 193.0,
+  "weight_kg": 76.0,
+  "position_qids": [
+    "Q114358158",
+    "Q9731197"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1811026",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q13534332",
+      "start": "2016-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q11938",
+      "start": "2018-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q47050",
+      "start": "2021-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q1130849",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1130849",
+  "image_filename": "Austria U-18 vs. Netherlands U-18 2017-03-23 (078).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cody_Gakpo",
+  "transfermarkt_id": "434675",
+  "positions": [
+    "left winger",
+    "centre-forward"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands"
+  ],
+  "place_of_birth": "Eindhoven",
+  "wikidata_current_club": "Liverpool F.C.",
+  "wikidata_current_club_qid": "Q1130849",
+  "photo": {
+    "filename": "Austria U-18 vs. Netherlands U-18 2017-03-23 (078).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28078%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28078%29.jpg/960px-Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28078%29.jpg",
+    "width": 2000,
+    "height": 3000,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 23:01, 30 March 2017 (UTC)",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/cody-gakpo.jpg"
+  },
+  "team_slug": "netherlands",
+  "team_country": "Netherlands"
+}

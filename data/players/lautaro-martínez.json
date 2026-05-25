@@ -1,0 +1,71 @@
+{
+  "slug": "lautaro-martínez",
+  "display_name": "Lautaro Martínez",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1997-08-22",
+  "age": 28,
+  "caps": 75,
+  "goals": 36,
+  "club_from_squad_table": "Inter Milan",
+  "wikipedia_title": "Lautaro Martínez",
+  "wikidata_qid": "Q21484126",
+  "qid": "Q21484126",
+  "name": "Lautaro Martínez",
+  "description": "Argentine association football player (born 1997)",
+  "date_of_birth": "1997-08-22",
+  "place_of_birth_qid": "Q54108",
+  "citizenship_qids": [
+    "Q414"
+  ],
+  "height_cm": 174.0,
+  "weight_kg": 72.0,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q79800",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q276533",
+      "start": "2015-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q631",
+      "start": "2018-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q631",
+  "image_filename": "Lautaro Martínez (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lautaro_Mart%C3%ADnez",
+  "transfermarkt_id": "406625",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Inter Milan",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Argentina"
+  ],
+  "place_of_birth": "Bahía Blanca",
+  "photo": {
+    "filename": "Lautaro Martínez (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lautaro_Mart%C3%ADnez_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lautaro_Mart%C3%ADnez_%28cropped%29.jpg/960px-Lautaro_Mart%C3%ADnez_%28cropped%29.jpg",
+    "width": 1381,
+    "height": 2168,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/75116651@N03\">Agencia de Noticias ANDES</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lautaro-martínez.jpg"
+  },
+  "team_slug": "argentina",
+  "team_country": "Argentina"
+}

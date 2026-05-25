@@ -1,0 +1,89 @@
+{
+  "slug": "camilo-vargas",
+  "display_name": "Camilo Vargas",
+  "shirt_no": null,
+  "position_code": "GK",
+  "dob": "1989-03-09",
+  "age": 37,
+  "caps": 40,
+  "goals": 0,
+  "club_from_squad_table": "Atlas",
+  "wikipedia_title": "Camilo Vargas",
+  "date_of_birth": "1989-03-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Atlas",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q5026758",
+  "qid": "Q5026758",
+  "name": "Camilo Vargas",
+  "description": "Colombian association football player",
+  "place_of_birth_qid": "Q2841",
+  "citizenship_qids": [
+    "Q739"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 81.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q1424072",
+      "start": "2009-01-01",
+      "end": "2014-01-01"
+    },
+    {
+      "team_qid": "Q332605",
+      "start": "2015-01-01",
+      "end": "2016-01-01"
+    },
+    {
+      "team_qid": "Q220621",
+      "start": "2016-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1641573",
+      "start": "2009-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q212564",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q1424072",
+      "start": "2007-01-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q220621",
+  "image_filename": "Camilo Vargas 2022.jpeg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Camilo_Vargas",
+  "transfermarkt_id": "74113",
+  "fifa_player_id": "360642",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Colombia"
+  ],
+  "place_of_birth": "Bogot\u00e1",
+  "wikidata_current_club": "Argentinos Juniors",
+  "wikidata_current_club_qid": "Q220621",
+  "photo": {
+    "filename": "Camilo Vargas 2022.jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Camilo_Vargas_2022.jpeg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Camilo_Vargas_2022.jpeg/960px-Camilo_Vargas_2022.jpeg",
+    "width": 1017,
+    "height": 2208,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Jmmuguerza\" title=\"User:Jmmuguerza\">jmmuguerza</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/camilo-vargas.jpeg"
+  },
+  "team_slug": "colombia",
+  "team_country": "Colombia"
+}

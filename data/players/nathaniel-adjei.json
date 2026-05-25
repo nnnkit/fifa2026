@@ -1,0 +1,52 @@
+{
+  "slug": "nathaniel-adjei",
+  "display_name": "Nathaniel Adjei",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2002-08-21",
+  "age": 23,
+  "caps": 2,
+  "goals": 0,
+  "club_from_squad_table": "Lorient",
+  "wikipedia_title": "Nathaniel Adjei",
+  "date_of_birth": "2002-08-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Lorient",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q114032443",
+  "qid": "Q114032443",
+  "name": "Nathaniel Adjei",
+  "description": "Ghanaian footballer",
+  "place_of_birth_qid": "Q1062602",
+  "citizenship_qids": [
+    "Q117"
+  ],
+  "height_cm": 1.91,
+  "teams": [
+    {
+      "team_qid": "Q1136967",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q460724",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1136967",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nathaniel_Adjei",
+  "transfermarkt_id": "646829",
+  "citizenship": [
+    "Ghana"
+  ],
+  "place_of_birth": "Teshie",
+  "wikidata_current_club": "Hammarby Talang FF",
+  "wikidata_current_club_qid": "Q1136967",
+  "team_slug": "ghana",
+  "team_country": "Ghana",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

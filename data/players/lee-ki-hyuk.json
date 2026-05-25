@@ -1,0 +1,58 @@
+{
+  "slug": "lee-ki-hyuk",
+  "display_name": "Lee Ki-hyuk",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-07-07",
+  "age": 25,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Gangwon FC",
+  "wikipedia_title": "Lee Ki-hyuk (footballer)",
+  "wikidata_qid": "Q113013535",
+  "qid": "Q113013535",
+  "name": "Lee Ki-hyuk",
+  "description": "South Korean association football player",
+  "date_of_birth": "2000-07-07",
+  "citizenship_qids": [
+    "Q884"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q3455793",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q482617",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q482617",
+  "image_filename": "250617 FC 서울 vs 강원 (이기혁) 1.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_Ki-hyuk_(footballer)",
+  "transfermarkt_id": "763349",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Gangwon FC",
+  "current_club_source": "wikipedia-squad-table",
+  "citizenship": [
+    "South Korea"
+  ],
+  "wikidata_current_club": "Jeju SK FC",
+  "wikidata_current_club_qid": "Q482617",
+  "photo": {
+    "filename": "250617 FC 서울 vs 강원 (이기혁) 1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/250617_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B0%95%EC%9B%90_%28%EC%9D%B4%EA%B8%B0%ED%98%81%29_1.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/250617_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B0%95%EC%9B%90_%28%EC%9D%B4%EA%B8%B0%ED%98%81%29_1.jpg/960px-250617_FC_%EC%84%9C%EC%9A%B8_vs_%EA%B0%95%EC%9B%90_%28%EC%9D%B4%EA%B8%B0%ED%98%81%29_1.jpg",
+    "width": 1600,
+    "height": 2000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Explicit\" title=\"User:Explicit\">Explicit</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/lee-ki-hyuk.jpg"
+  },
+  "team_slug": "south-korea",
+  "team_country": "South Korea"
+}

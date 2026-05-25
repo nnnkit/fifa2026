@@ -1,0 +1,94 @@
+{
+  "slug": "jason-geria",
+  "display_name": "Jason Geria",
+  "shirt_no": 19,
+  "position_code": "DF",
+  "dob": "1993-05-10",
+  "age": 33,
+  "caps": 13,
+  "goals": 0,
+  "club_from_squad_table": "Albirex Niigata",
+  "wikipedia_title": "Jason Geria",
+  "date_of_birth": "1993-05-10",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Albirex Niigata",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q10556049",
+  "qid": "Q10556049",
+  "name": "Jason Geria",
+  "description": "Australian association football player",
+  "place_of_birth_qid": "Q3114",
+  "citizenship_qids": [
+    "Q408"
+  ],
+  "height_cm": 184.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q839997",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q3873546",
+      "start": "2011-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "team_qid": "Q3589775",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q316789",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q646204",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q852033",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q383358",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q839997",
+  "image_filename": "Geria Victory Training May 2015.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jason_Geria",
+  "transfermarkt_id": "185175",
+  "fifa_player_id": "339112",
+  "uefa_player_id": "29427",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Australia"
+  ],
+  "place_of_birth": "Canberra",
+  "wikidata_current_club": "Brisbane Roar FC",
+  "wikidata_current_club_qid": "Q839997",
+  "photo": {
+    "filename": "Geria Victory Training May 2015.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Geria_Victory_Training_May_2015.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Geria_Victory_Training_May_2015.jpg/960px-Geria_Victory_Training_May_2015.jpg",
+    "width": 2728,
+    "height": 2888,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Paladisious&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Paladisious (page does not exist)\">Paladisious</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jason-geria.jpg"
+  },
+  "team_slug": "australia",
+  "team_country": "Australia"
+}

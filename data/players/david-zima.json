@@ -1,0 +1,39 @@
+{
+  "slug": "david-zima",
+  "display_name": "David Zima",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-11-08",
+  "age": 25,
+  "caps": 24,
+  "goals": 1,
+  "club_from_squad_table": "Slavia Prague",
+  "current_club": "Slavia Prague",
+  "current_club_source": "wikipedia-squad-table",
+  "wikipedia_title": "David Zima",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_Zima",
+  "wikidata_qid": "Q84312754",
+  "qid": "Q84312754",
+  "date_of_birth": "2000-11-08",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Czech Republic"
+  ],
+  "image_filename": "David_Zima_CZE-KUW_2021-11-11_(cropped).jpg",
+  "photo": {
+    "filename": "David_Zima_CZE-KUW_2021-11-11_(cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/David_Zima_CZE-KUW_2021-11-11_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/David_Zima_CZE-KUW_2021-11-11_%28cropped%29.jpg/960px-David_Zima_CZE-KUW_2021-11-11_%28cropped%29.jpg",
+    "width": 2401,
+    "height": 3120,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Tadeáš Bednarz",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/david-zima.jpg"
+  },
+  "team_slug": "czech-republic",
+  "team_country": "Czech Republic"
+}

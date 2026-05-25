@@ -1,0 +1,2302 @@
+{
+  "slug": "austria",
+  "country": "Austria",
+  "wikidata_qid": "Q163534",
+  "fetched_at": "2026-05-24T17:16:55+00:00",
+  "source": {
+    "kind": "tournament-central",
+    "title": "2026 FIFA World Cup squads",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads"
+  },
+  "squad_size": 26,
+  "players": [
+    {
+      "slug": "alexander-schlager",
+      "display_name": "Alexander Schlager",
+      "shirt_no": 1,
+      "position_code": "GK",
+      "dob": "1996-02-01",
+      "age": 30,
+      "caps": 25,
+      "goals": 0,
+      "club_from_squad_table": "Red Bull Salzburg",
+      "wikipedia_title": "Alexander Schlager",
+      "date_of_birth": "1996-02-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Red Bull Salzburg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20745286",
+      "qid": "Q20745286",
+      "name": "Alexander Schlager",
+      "description": "Austrian association football player",
+      "place_of_birth_qid": "Q34713",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 184.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1387293",
+          "start": "2012-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q994811",
+          "start": "2012-01-01",
+          "end": "2005-01-01"
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q696514",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q1387293",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q696514",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q4825450",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q302954",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q302977",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q303033",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q696514",
+      "image_filename": "Floridsdorfer AC 2016–17 – Alexander Schlager (01).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Schlager",
+      "transfermarkt_id": "186374",
+      "fifa_player_id": "201222392",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Salzburg",
+      "wikidata_current_club": "SV Grödig",
+      "wikidata_current_club_qid": "Q696514",
+      "photo": {
+        "filename": "Floridsdorfer AC 2016–17 – Alexander Schlager (01).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Floridsdorfer_AC_2016%E2%80%9317_%E2%80%93_Alexander_Schlager_%2801%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Floridsdorfer_AC_2016%E2%80%9317_%E2%80%93_Alexander_Schlager_%2801%29.jpg/960px-Floridsdorfer_AC_2016%E2%80%9317_%E2%80%93_Alexander_Schlager_%2801%29.jpg",
+        "width": 1200,
+        "height": 1800,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 19:48, 13 July 2016 (UTC)",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alexander-schlager.jpg"
+      }
+    },
+    {
+      "slug": "david-affengruber",
+      "display_name": "David Affengruber",
+      "shirt_no": 2,
+      "position_code": "DF",
+      "dob": "2001-03-19",
+      "age": 25,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Elche",
+      "wikipedia_title": "David Affengruber (footballer, born 2001)",
+      "date_of_birth": "2001-03-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Elche",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q65948590",
+      "qid": "Q65948590",
+      "name": "David Affengruber",
+      "description": "Austrian footballer",
+      "place_of_birth_qid": "Q280450",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1387293",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1387293",
+      "image_filename": "FC Liefering versus Young Violets Austria Wien (30. August 2019) 28.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Affengruber_(footballer,_born_2001)",
+      "transfermarkt_id": "452483",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Scheibbs",
+      "wikidata_current_club": "FC Liefering",
+      "wikidata_current_club_qid": "Q1387293",
+      "photo": {
+        "filename": "FC Liefering versus Young Violets Austria Wien (30. August 2019) 28.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FC_Liefering_versus_Young_Violets_Austria_Wien_%2830._August_2019%29_28.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FC_Liefering_versus_Young_Violets_Austria_Wien_%2830._August_2019%29_28.jpg/960px-FC_Liefering_versus_Young_Violets_Austria_Wien_%2830._August_2019%29_28.jpg",
+        "width": 2081,
+        "height": 2424,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/david-affengruber.jpg"
+      }
+    },
+    {
+      "slug": "kevin-danso",
+      "display_name": "Kevin Danso",
+      "shirt_no": 3,
+      "position_code": "DF",
+      "dob": "1998-09-19",
+      "age": 27,
+      "caps": 31,
+      "goals": 0,
+      "club_from_squad_table": "Tottenham Hotspur",
+      "wikipedia_title": "Kevin Danso",
+      "date_of_birth": "1998-09-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Tottenham Hotspur",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28868192",
+      "qid": "Q28868192",
+      "name": "Kevin Danso",
+      "description": "Austrian association football player (born 1998)",
+      "place_of_birth_qid": "Q660453",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 190.0,
+      "weight_kg": 80.0,
+      "position_qids": [
+        "Q193592",
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18729",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q303033",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q18729",
+      "image_filename": "RC Lens - Lille OSC (17-09-2021) 46.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Danso",
+      "transfermarkt_id": "263236",
+      "positions": [
+        "midfielder",
+        "defender"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Voitsberg",
+      "wikidata_current_club": "Reading F.C.",
+      "wikidata_current_club_qid": "Q18729",
+      "photo": {
+        "filename": "RC Lens - Lille OSC (17-09-2021) 46.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/RC_Lens_-_Lille_OSC_%2817-09-2021%29_46.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RC_Lens_-_Lille_OSC_%2817-09-2021%29_46.jpg/960px-RC_Lens_-_Lille_OSC_%2817-09-2021%29_46.jpg",
+        "width": 2236,
+        "height": 2981,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supporterh%C3%A9ninois&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supporterhéninois (page does not exist)\">Supporterhéninois</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/kevin-danso.jpg"
+      }
+    },
+    {
+      "slug": "xaver-schlager",
+      "display_name": "Xaver Schlager",
+      "shirt_no": 4,
+      "position_code": "MF",
+      "dob": "1997-09-28",
+      "age": 28,
+      "caps": 50,
+      "goals": 4,
+      "club_from_squad_table": "RB Leipzig",
+      "wikipedia_title": "Xaver Schlager",
+      "date_of_birth": "1997-09-28",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "RB Leipzig",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20190657",
+      "qid": "Q20190657",
+      "name": "Xaver Schlager",
+      "description": "Austrian association football player",
+      "place_of_birth_qid": "Q41329",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 1.74,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1387293",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q994811",
+          "start": "2016-01-01",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q4825450",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q302977",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q302967",
+          "start": "2015-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q163534",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q101859",
+          "start": "2019-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q702455",
+      "image_filename": "FC Liefering gegen Austria Lustenau SKY GO Liga 15.JPG",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Xaver_Schlager",
+      "transfermarkt_id": "223979",
+      "fifa_player_id": "201400643",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Linz",
+      "photo": {
+        "filename": "FC Liefering gegen Austria Lustenau SKY GO Liga 15.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/FC_Liefering_gegen_Austria_Lustenau_SKY_GO_Liga_15.JPG",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/FC_Liefering_gegen_Austria_Lustenau_SKY_GO_Liga_15.JPG/960px-FC_Liefering_gegen_Austria_Lustenau_SKY_GO_Liga_15.JPG",
+        "width": 1621,
+        "height": 1614,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/xaver-schlager.JPG"
+      }
+    },
+    {
+      "slug": "stefan-posch",
+      "display_name": "Stefan Posch",
+      "shirt_no": 5,
+      "position_code": "DF",
+      "dob": "1997-05-14",
+      "age": 29,
+      "caps": 51,
+      "goals": 5,
+      "club_from_squad_table": "Mainz 05",
+      "wikipedia_title": "Stefan Posch",
+      "date_of_birth": "1997-05-14",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mainz 05",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q41447930",
+      "qid": "Q41447930",
+      "name": "Stefan Posch",
+      "description": "Austrian association football player",
+      "place_of_birth_qid": "Q263107",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 1.89,
+      "weight_kg": 82.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q22707",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q303033",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q22707",
+      "image_filename": "Austria national under-21 football team - Teamcamp June 2017 (110).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stefan_Posch",
+      "transfermarkt_id": "223974",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Judenburg",
+      "wikidata_current_club": "TSG 1899 Hoffenheim",
+      "wikidata_current_club_qid": "Q22707",
+      "photo": {
+        "filename": "Austria national under-21 football team - Teamcamp June 2017 (110).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28110%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28110%29.jpg/960px-Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28110%29.jpg",
+        "width": 2000,
+        "height": 3000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 10:41, 30 June 2017 (UTC)",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/stefan-posch.jpg"
+      }
+    },
+    {
+      "slug": "nicolas-seiwald",
+      "display_name": "Nicolas Seiwald",
+      "shirt_no": 6,
+      "position_code": "MF",
+      "dob": "2001-05-04",
+      "age": 25,
+      "caps": 46,
+      "goals": 1,
+      "club_from_squad_table": "RB Leipzig",
+      "wikipedia_title": "Nicolas Seiwald",
+      "date_of_birth": "2001-05-04",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "RB Leipzig",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q64010197",
+      "qid": "Q64010197",
+      "name": "Nicolas Seiwald",
+      "description": "Austrian association football player",
+      "place_of_birth_qid": "Q40",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 179.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1387293",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q994811",
+          "start": "2020-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2021-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q163534",
+          "start": "2021-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q702455",
+      "image_filename": "FC Liefering versus WSG Wattens (24. Mai 2019) 04.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas_Seiwald",
+      "transfermarkt_id": "404950",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Austria",
+      "photo": {
+        "filename": "FC Liefering versus WSG Wattens (24. Mai 2019) 04.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/FC_Liefering_versus_WSG_Wattens_%2824._Mai_2019%29_04.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/FC_Liefering_versus_WSG_Wattens_%2824._Mai_2019%29_04.jpg/960px-FC_Liefering_versus_WSG_Wattens_%2824._Mai_2019%29_04.jpg",
+        "width": 2094,
+        "height": 2656,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/nicolas-seiwald.jpg"
+      }
+    },
+    {
+      "slug": "marko-arnautović",
+      "display_name": "Marko Arnautović",
+      "shirt_no": 7,
+      "position_code": "FW",
+      "dob": "1989-04-19",
+      "age": 37,
+      "caps": 132,
+      "goals": 47,
+      "club_from_squad_table": "Red Star Belgrade",
+      "wikipedia_title": "Marko Arnautović",
+      "date_of_birth": "1989-04-19",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Red Star Belgrade",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q313575",
+      "qid": "Q313575",
+      "name": "Marko Arnautović",
+      "description": "Austrian association football player (born 1989)",
+      "place_of_birth_qid": "Q1741",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 189.0,
+      "weight_kg": 83.0,
+      "position_qids": [
+        "Q8025128"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q51976",
+          "start": "2010-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q19603",
+          "start": "2006-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q18736",
+          "start": "2013-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q302977",
+          "start": "2007-01-01",
+          "end": "2007-01-01"
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2007-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q163534",
+          "start": "2008-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q696474",
+          "start": "2005-01-01",
+          "end": "2006-01-01"
+        },
+        {
+          "team_qid": "Q302954",
+          "start": "2006-01-01",
+          "end": "2006-01-01"
+        },
+        {
+          "team_qid": "Q18747",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q1893",
+          "start": "2021-00-00",
+          "end": "2024-00-00"
+        },
+        {
+          "team_qid": "Q564216",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2023-08-16",
+          "end": "2024-06-00"
+        },
+        {
+          "team_qid": "Q631",
+          "start": "2024-07-00",
+          "end": "2025-06-00"
+        },
+        {
+          "team_qid": "Q173009",
+          "start": "2025-07-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q173009",
+      "image_filename": "20180610 FIFA Friendly Match Austria vs. Brazil Marko Arnautović 850 1633.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marko_Arnautovi%C4%87",
+      "transfermarkt_id": "41384",
+      "fifa_player_id": "299200",
+      "positions": [
+        "wing half"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Vienna",
+      "wikidata_current_club": "FK Crvena zvezda",
+      "wikidata_current_club_qid": "Q173009",
+      "photo": {
+        "filename": "20180610 FIFA Friendly Match Austria vs. Brazil Marko Arnautović 850 1633.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Marko_Arnautovi%C4%87_850_1633.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Marko_Arnautovi%C4%87_850_1633.jpg/960px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Marko_Arnautovi%C4%87_850_1633.jpg",
+        "width": 1333,
+        "height": 2000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marko-arnautović.jpg"
+      }
+    },
+    {
+      "slug": "david-alaba",
+      "display_name": "David Alaba",
+      "shirt_no": 8,
+      "position_code": "DF",
+      "dob": "1992-06-24",
+      "age": 33,
+      "caps": 112,
+      "goals": 15,
+      "club_from_squad_table": "Real Madrid",
+      "wikipedia_title": "David Alaba",
+      "date_of_birth": "1992-06-24",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Real Madrid",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q31981",
+      "qid": "Q31981",
+      "name": "David Alaba",
+      "description": "Austrian footballer (born 1992)",
+      "place_of_birth_qid": "Q1741",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 180.0,
+      "weight_kg": 76.0,
+      "position_qids": [
+        "Q268258",
+        "Q193592",
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q131209",
+          "start": "2002-00-00",
+          "end": "2008-07-01"
+        },
+        {
+          "team_qid": "Q994701",
+          "start": "2009-07-01",
+          "end": "2010-07-01"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2010-07-01",
+          "end": "2021-07-01"
+        },
+        {
+          "team_qid": "Q22707",
+          "start": "2011-01-01",
+          "end": "2011-06-30"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2021-07-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q4825450",
+          "start": "2007-01-01",
+          "end": "2009-01-01"
+        },
+        {
+          "team_qid": "Q302977",
+          "start": "2010-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q163534",
+          "start": "2009-01-01",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q8682",
+      "image_filename": "20180610 FIFA Friendly Match Austria vs. Brazil David Alaba 850 1632.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Alaba",
+      "transfermarkt_id": "59016",
+      "fifa_player_id": "316002",
+      "positions": [
+        "centre-back",
+        "midfielder",
+        "full-back"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Vienna",
+      "wikidata_current_club": "Real Madrid Club de Fútbol",
+      "wikidata_current_club_qid": "Q8682",
+      "photo": {
+        "filename": "20180610 FIFA Friendly Match Austria vs. Brazil David Alaba 850 1632.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg/960px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg",
+        "width": 1333,
+        "height": 2000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Granada\" title=\"User:Granada\">Granada</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/david-alaba.jpg"
+      }
+    },
+    {
+      "slug": "marcel-sabitzer",
+      "display_name": "Marcel Sabitzer",
+      "shirt_no": 9,
+      "position_code": "MF",
+      "dob": "1994-03-17",
+      "age": 32,
+      "caps": 97,
+      "goals": 25,
+      "club_from_squad_table": "Borussia Dortmund",
+      "wikipedia_title": "Marcel Sabitzer",
+      "date_of_birth": "1994-03-17",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Borussia Dortmund",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q472300",
+      "qid": "Q472300",
+      "name": "Marcel Sabitzer",
+      "description": "Austrian footballer",
+      "place_of_birth_qid": "Q178582",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 176.0,
+      "weight_kg": 70.0,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q131215",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q698702",
+          "start": "2010-01-01",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2014-05-30",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q994811",
+          "start": "2014-07-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q24175101",
+          "start": "2009-01-01",
+          "end": "2010-01-01"
+        },
+        {
+          "team_qid": "Q4825450",
+          "start": "2010-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q302954",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q302977",
+          "start": "2012-04-11",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2012-09-07",
+          "end": "2013-00-00"
+        },
+        {
+          "team_qid": "Q163534",
+          "start": "2012-06-05",
+          "end": null
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2021-08-30",
+          "end": "2023-07-24"
+        },
+        {
+          "team_qid": "Q18656",
+          "start": "2023-02-01",
+          "end": "2023-06-30"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2023-07-24",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q41420",
+      "image_filename": "Marcel Sabitzer 2020 (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marcel_Sabitzer",
+      "transfermarkt_id": "106987",
+      "fifa_player_id": "358241",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Wels",
+      "photo": {
+        "filename": "Marcel Sabitzer 2020 (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Marcel_Sabitzer_2020_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Marcel_Sabitzer_2020_%28cropped%29.jpg/960px-Marcel_Sabitzer_2020_%28cropped%29.jpg",
+        "width": 1907,
+        "height": 2616,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marcel-sabitzer.jpg"
+      }
+    },
+    {
+      "slug": "florian-grillitsch",
+      "display_name": "Florian Grillitsch",
+      "shirt_no": 10,
+      "position_code": "MF",
+      "dob": "1995-08-07",
+      "age": 30,
+      "caps": 58,
+      "goals": 1,
+      "club_from_squad_table": "Braga",
+      "wikipedia_title": "Florian Grillitsch",
+      "date_of_birth": "1995-08-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Braga",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20752635",
+      "qid": "Q20752635",
+      "name": "Florian Grillitsch",
+      "description": "Austrian association football player",
+      "place_of_birth_qid": "Q265948",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 186.0,
+      "weight_kg": 73.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q51976",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q4107588",
+          "start": "2013-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q302977",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q302967",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2014-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q163534",
+          "start": "2017-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q22707",
+          "start": "2017-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q81888",
+          "start": "2022-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q22707",
+          "start": "2023-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q10319",
+          "start": "2025-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q75684",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q75684",
+      "image_filename": "20180602 AUTGER 4687 (cropped) Florian Grillitsch.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Florian_Grillitsch",
+      "transfermarkt_id": "195736",
+      "fifa_player_id": "385248",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Neunkirchen",
+      "wikidata_current_club": "S.C. Braga",
+      "wikidata_current_club_qid": "Q75684",
+      "photo": {
+        "filename": "20180602 AUTGER 4687 (cropped) Florian Grillitsch.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/20180602_AUTGER_4687_%28cropped%29_Florian_Grillitsch.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/20180602_AUTGER_4687_%28cropped%29_Florian_Grillitsch.jpg",
+        "width": 425,
+        "height": 425,
+        "license": "CC BY-SA 3.0 at",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ailura\" title=\"User:Ailura\">Ailura</a>, Derivative work by Bayernfan2003",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/florian-grillitsch.jpg"
+      }
+    },
+    {
+      "slug": "michael-gregoritsch",
+      "display_name": "Michael Gregoritsch",
+      "shirt_no": 11,
+      "position_code": "FW",
+      "dob": "1994-04-18",
+      "age": 32,
+      "caps": 74,
+      "goals": 24,
+      "club_from_squad_table": "FC Augsburg",
+      "wikipedia_title": "Michael Gregoritsch",
+      "date_of_birth": "1994-04-18",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "FC Augsburg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q699094",
+      "qid": "Q699094",
+      "name": "Michael Gregoritsch",
+      "description": "Austrian association football player (born 1994)",
+      "place_of_birth_qid": "Q13298",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 194.0,
+      "position_qids": [
+        "Q8025128",
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q741382",
+          "start": "2009-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q105861",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q22707",
+          "start": "2011-07-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q741382",
+          "start": "2011-07-03",
+          "end": "2012-01-01"
+        },
+        {
+          "team_qid": "Q16637410",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q6463",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q105861",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q51974",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q163534",
+          "start": "2016-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q4825450",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2011-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q15755",
+          "start": "2017-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q32494",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q106394",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q5424829",
+          "start": "2021-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q26944827",
+          "start": "2013-00-00",
+          "end": "2014-00-00"
+        },
+        {
+          "team_qid": "Q98399583",
+          "start": "2009-00-00",
+          "end": "2011-00-00"
+        },
+        {
+          "team_qid": "Q98399583",
+          "start": "2011-07-03",
+          "end": "2012-00-00"
+        },
+        {
+          "team_qid": "Q211906",
+          "start": "2025-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q15755",
+          "start": "2026-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15755",
+      "image_filename": "Michael Gregoritsch U21 Austria vs. Albania 2014-03-05 01.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Gregoritsch",
+      "transfermarkt_id": "120205",
+      "fifa_player_id": "401131",
+      "positions": [
+        "wing half",
+        "forward"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Graz",
+      "photo": {
+        "filename": "Michael Gregoritsch U21 Austria vs. Albania 2014-03-05 01.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Michael_Gregoritsch_U21_Austria_vs._Albania_2014-03-05_01.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Michael_Gregoritsch_U21_Austria_vs._Albania_2014-03-05_01.jpg/960px-Michael_Gregoritsch_U21_Austria_vs._Albania_2014-03-05_01.jpg",
+        "width": 1690,
+        "height": 2098,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Please report references to <span class=\"nowrap\">kulac<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"@\"><img alt=\"@\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/40px-At_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"145\" data-file-height=\"145\"></span></span>gmx.at</span>.",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/michael-gregoritsch.jpg"
+      }
+    },
+    {
+      "slug": "florian-wiegele",
+      "display_name": "Florian Wiegele",
+      "shirt_no": 12,
+      "position_code": "GK",
+      "dob": "2001-03-21",
+      "age": 25,
+      "caps": 1,
+      "goals": 0,
+      "club_from_squad_table": "Viktoria Plzeň",
+      "wikipedia_title": "Florian Wiegele",
+      "date_of_birth": "2001-03-21",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Viktoria Plzeň",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q123335801",
+      "qid": "Q123335801",
+      "name": "Florian Wiegele",
+      "description": "Austrian footballer (born 2001",
+      "place_of_birth_qid": "Q13298",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Florian_Wiegele",
+      "transfermarkt_id": "393999",
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Graz",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "patrick-pentz",
+      "display_name": "Patrick Pentz",
+      "shirt_no": 13,
+      "position_code": "GK",
+      "dob": "1997-01-02",
+      "age": 29,
+      "caps": 18,
+      "goals": 0,
+      "club_from_squad_table": "Brøndby",
+      "wikipedia_title": "Patrick Pentz",
+      "date_of_birth": "1997-01-02",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Brøndby",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q24068400",
+      "qid": "Q24068400",
+      "name": "Patrick Pentz",
+      "description": "Austrian association football player",
+      "place_of_birth_qid": "Q34713",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 1.86,
+      "weight_kg": 72.0,
+      "position_qids": [
+        "Q201330"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q131209",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q131209",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q4825450",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q302954",
+          "start": "2014-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q303033",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q131209",
+      "image_filename": "Pentz (2024).png",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Pentz",
+      "transfermarkt_id": "223972",
+      "positions": [
+        "goalkeeper"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Salzburg",
+      "wikidata_current_club": "FK Austria Wien",
+      "wikidata_current_club_qid": "Q131209",
+      "photo": {
+        "filename": "Pentz (2024).png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pentz_%282024%29.png",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pentz_%282024%29.png",
+        "width": 706,
+        "height": 622,
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "3point.dk",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/patrick-pentz.png"
+      }
+    },
+    {
+      "slug": "saša-kalajdžić",
+      "display_name": "Saša Kalajdžić",
+      "shirt_no": 14,
+      "position_code": "FW",
+      "dob": "1997-07-07",
+      "age": 28,
+      "caps": 21,
+      "goals": 4,
+      "club_from_squad_table": "LASK",
+      "wikipedia_title": "Saša Kalajdžić",
+      "date_of_birth": "1997-07-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "LASK",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q34058084",
+      "qid": "Q34058084",
+      "name": "Sasa Kalajdzic",
+      "description": "Austrian association football player",
+      "place_of_birth_qid": "Q659918",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 2.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q686826",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q303033",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q686826",
+      "image_filename": "Sasa kalajdzic.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sa%C5%A1a_Kalajd%C5%BEi%C4%87",
+      "transfermarkt_id": "369567",
+      "fifa_player_id": "201682608",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Horn",
+      "wikidata_current_club": "First Vienna FC",
+      "wikidata_current_club_qid": "Q686826",
+      "photo": {
+        "filename": "Sasa kalajdzic.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sasa_kalajdzic.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sasa_kalajdzic.jpg",
+        "width": 641,
+        "height": 800,
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jeollo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jeollo (page does not exist)\">Jeollo von VfB-exklusiv.de</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/saša-kalajdžić.jpg"
+      }
+    },
+    {
+      "slug": "philipp-lienhart",
+      "display_name": "Philipp Lienhart",
+      "shirt_no": 15,
+      "position_code": "DF",
+      "dob": "1996-07-11",
+      "age": 29,
+      "caps": 40,
+      "goals": 3,
+      "club_from_squad_table": "SC Freiburg",
+      "wikipedia_title": "Philipp Lienhart",
+      "date_of_birth": "1996-07-11",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "SC Freiburg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q20078774",
+      "qid": "Q20078774",
+      "name": "Philipp Lienhart",
+      "description": "Austrian association football player (born 1996)",
+      "place_of_birth_qid": "Q871536",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 189.0,
+      "weight_kg": 83.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q12217",
+          "start": "2015-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q8682",
+          "start": "2015-01-01",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q98228613",
+          "start": "2013-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q1246437",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q302954",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q302977",
+          "start": "2014-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2015-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q302967",
+          "start": "2015-01-01",
+          "end": "2015-00-00"
+        },
+        {
+          "team_qid": "Q106394",
+          "start": "2017-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q106394",
+          "start": "2018-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q163534",
+          "start": "2017-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q106394",
+      "image_filename": "Austria national under-21 football team - Teamcamp June 2017 (057).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Philipp_Lienhart",
+      "transfermarkt_id": "225657",
+      "fifa_player_id": "372243",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Lilienfeld",
+      "photo": {
+        "filename": "Austria national under-21 football team - Teamcamp June 2017 (057).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28057%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28057%29.jpg/960px-Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28057%29.jpg",
+        "width": 2000,
+        "height": 3000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 10:36, 30 June 2017 (UTC)",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/philipp-lienhart.jpg"
+      }
+    },
+    {
+      "slug": "phillipp-mwene",
+      "display_name": "Phillipp Mwene",
+      "shirt_no": 16,
+      "position_code": "DF",
+      "dob": "1994-01-29",
+      "age": 32,
+      "caps": 29,
+      "goals": 0,
+      "club_from_squad_table": "Mainz 05",
+      "wikipedia_title": "Phillipp Mwene",
+      "date_of_birth": "1994-01-29",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Mainz 05",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q11634138",
+      "qid": "Q11634138",
+      "name": "Philipp Mwene",
+      "description": "Austrian association football player",
+      "place_of_birth_qid": "Q1741",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 170.0,
+      "weight_kg": 66.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q131209",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q4512",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q107421",
+          "start": "2013-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q302977",
+          "start": "2013-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2015-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q8466",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q107421",
+      "image_filename": "Phillipp-mwene.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Phillipp_Mwene",
+      "transfermarkt_id": "127573",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Vienna",
+      "wikidata_current_club": "VfB Stuttgart II",
+      "wikidata_current_club_qid": "Q107421",
+      "photo": {
+        "filename": "Phillipp-mwene.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Phillipp-mwene.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Phillipp-mwene.jpg",
+        "width": 555,
+        "height": 833,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Thomas Hilmes / <a rel=\"nofollow\" class=\"external free\" href=\"https://www.der-betze-brennt.de\">https://www.der-betze-brennt.de</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/phillipp-mwene.jpg"
+      }
+    },
+    {
+      "slug": "carney-chukwuemeka",
+      "display_name": "Carney Chukwuemeka",
+      "shirt_no": 17,
+      "position_code": "MF",
+      "dob": "2003-10-20",
+      "age": 22,
+      "caps": 2,
+      "goals": 1,
+      "club_from_squad_table": "Borussia Dortmund",
+      "wikipedia_title": "Carney Chukwuemeka",
+      "date_of_birth": "2003-10-20",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Borussia Dortmund",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q106915801",
+      "qid": "Q106915801",
+      "name": "Carney Chukwuemeka",
+      "description": "Austrian association football player (born 2003)",
+      "place_of_birth_qid": "Q126321",
+      "citizenship_qids": [
+        "Q145",
+        "Q40"
+      ],
+      "height_cm": 187.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q18711",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q9616",
+          "start": "2022-00-00",
+          "end": "2025-00-00"
+        },
+        {
+          "team_qid": "Q41420",
+          "start": "2025-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q41420",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carney_Chukwuemeka",
+      "transfermarkt_id": "659459",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "United Kingdom",
+        "Austria"
+      ],
+      "place_of_birth": "Eisenstadt",
+      "photo": {
+        "source": "wikimedia-reviewed-none",
+        "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-25."
+      }
+    },
+    {
+      "slug": "romano-schmid",
+      "display_name": "Romano Schmid",
+      "shirt_no": 18,
+      "position_code": "MF",
+      "dob": "2000-01-27",
+      "age": 26,
+      "caps": 33,
+      "goals": 3,
+      "club_from_squad_table": "Werder Bremen",
+      "wikipedia_title": "Romano Schmid",
+      "date_of_birth": "2000-01-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Werder Bremen",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q30080273",
+      "qid": "Q30080273",
+      "name": "Romano Schmid",
+      "description": "Austrian association football player",
+      "place_of_birth_qid": "Q13298",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 1.68,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q994811",
+          "start": "2017-08-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q124007617",
+          "start": "2017-01-00",
+          "end": "2017-08-00"
+        },
+        {
+          "team_qid": "Q1387293",
+          "start": "2017-08-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q51976",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q694484",
+          "start": "2019-02-00",
+          "end": "2019-06-00"
+        },
+        {
+          "team_qid": "Q694484",
+          "start": "2019-07-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q302977",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q163534",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q51976",
+      "image_filename": "FC Liefering versus Blau Weiß Linz (22. September 2017) 41.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Romano_Schmid",
+      "transfermarkt_id": "346853",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Graz",
+      "wikidata_current_club": "SV Werder Bremen",
+      "wikidata_current_club_qid": "Q51976",
+      "photo": {
+        "filename": "FC Liefering versus Blau Weiß Linz (22. September 2017) 41.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/FC_Liefering_versus_Blau_Wei%C3%9F_Linz_%2822._September_2017%29_41.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FC_Liefering_versus_Blau_Wei%C3%9F_Linz_%2822._September_2017%29_41.jpg/960px-FC_Liefering_versus_Blau_Wei%C3%9F_Linz_%2822._September_2017%29_41.jpg",
+        "width": 1784,
+        "height": 2534,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/romano-schmid.jpg"
+      }
+    },
+    {
+      "slug": "christoph-baumgartner",
+      "display_name": "Christoph Baumgartner",
+      "shirt_no": 19,
+      "position_code": "MF",
+      "dob": "1999-08-01",
+      "age": 26,
+      "caps": 58,
+      "goals": 19,
+      "club_from_squad_table": "RB Leipzig",
+      "wikipedia_title": "Christoph Baumgartner",
+      "date_of_birth": "1999-08-01",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "RB Leipzig",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q55999670",
+      "qid": "Q55999670",
+      "name": "Christoph Baumgartner",
+      "description": "Austrian association football player (born 1999)",
+      "place_of_birth_qid": "Q659918",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 1.78,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q427491",
+          "start": null,
+          "end": null
+        },
+        {
+          "team_qid": "Q22707",
+          "start": "2019-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q16637410",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q163534",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q702455",
+      "image_filename": "Austria national under-21 football team - Teamcamp October 2019 (60).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Christoph_Baumgartner",
+      "transfermarkt_id": "324278",
+      "fifa_player_id": "400030143",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Horn",
+      "photo": {
+        "filename": "Austria national under-21 football team - Teamcamp October 2019 (60).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Austria_national_under-21_football_team_-_Teamcamp_October_2019_%2860%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Austria_national_under-21_football_team_-_Teamcamp_October_2019_%2860%29.jpg/960px-Austria_national_under-21_football_team_-_Teamcamp_October_2019_%2860%29.jpg",
+        "width": 3000,
+        "height": 4500,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "--<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 18:47, 13 October 2019 (UTC)",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/christoph-baumgartner.jpg"
+      }
+    },
+    {
+      "slug": "konrad-laimer",
+      "display_name": "Konrad Laimer",
+      "shirt_no": 20,
+      "position_code": "MF",
+      "dob": "1997-05-27",
+      "age": 29,
+      "caps": 56,
+      "goals": 7,
+      "club_from_squad_table": "Bayern Munich",
+      "wikipedia_title": "Konrad Laimer",
+      "date_of_birth": "1997-05-27",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Bayern Munich",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q18670270",
+      "qid": "Q18670270",
+      "name": "Konrad Laimer",
+      "description": "Austrian footballer (born 1997)",
+      "place_of_birth_qid": "Q34713",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 179.0,
+      "weight_kg": 68.0,
+      "position_qids": [
+        "Q193592",
+        "Q90173132"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q994811",
+          "start": "2014-01-01",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q1387293",
+          "start": "2014-01-01",
+          "end": "2016-00-00"
+        },
+        {
+          "team_qid": "Q302977",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q302967",
+          "start": "2015-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2016-00-00",
+          "end": "2018-00-00"
+        },
+        {
+          "team_qid": "Q702455",
+          "start": "2017-00-00",
+          "end": "2023-00-00"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2023-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q163534",
+          "start": "2019-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15789",
+      "image_filename": "2022-07-21 Fußball, Männer,Freundschaftsspiel, RB Leipzig - FC Liverpool 1DX 2137 by Stepro (cropped).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Konrad_Laimer",
+      "transfermarkt_id": "223967",
+      "positions": [
+        "midfielder",
+        "full-back"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Salzburg",
+      "wikidata_current_club": "FC Bayern Munich",
+      "wikidata_current_club_qid": "Q15789",
+      "photo": {
+        "filename": "2022-07-21 Fußball, Männer,Freundschaftsspiel, RB Leipzig - FC Liverpool 1DX 2137 by Stepro (cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2137_by_Stepro_%28cropped%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2137_by_Stepro_%28cropped%29.jpg/960px-2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2137_by_Stepro_%28cropped%29.jpg",
+        "width": 1980,
+        "height": 2581,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/konrad-laimer.jpg"
+      }
+    },
+    {
+      "slug": "patrick-wimmer",
+      "display_name": "Patrick Wimmer",
+      "shirt_no": 21,
+      "position_code": "MF",
+      "dob": "2001-05-30",
+      "age": 25,
+      "caps": 30,
+      "goals": 1,
+      "club_from_squad_table": "VfL Wolfsburg",
+      "wikipedia_title": "Patrick Wimmer",
+      "date_of_birth": "2001-05-30",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "VfL Wolfsburg",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q65948837",
+      "qid": "Q65948837",
+      "name": "Patrick Wimmer",
+      "description": "Austrian association football player",
+      "place_of_birth_qid": "Q489810",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 1.82,
+      "position_qids": [
+        "Q280658"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q131209",
+          "start": "2019-00-00",
+          "end": "2021-00-00"
+        },
+        {
+          "team_qid": "Q1330841",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q60967849",
+          "start": "2019-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q105844",
+          "start": "2021-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q101859",
+          "start": "2022-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q302977",
+          "start": "2019-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2020-00-00",
+          "end": "2022-00-00"
+        },
+        {
+          "team_qid": "Q163534",
+          "start": "2022-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q101859",
+      "image_filename": "UEFA Euro 2023 Qualifiers Austria vs. Finland (2022-06-03) 29.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Wimmer",
+      "transfermarkt_id": "533295",
+      "positions": [
+        "forward"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Tulln an der Donau",
+      "photo": {
+        "filename": "UEFA Euro 2023 Qualifiers Austria vs. Finland (2022-06-03) 29.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/UEFA_Euro_2023_Qualifiers_Austria_vs._Finland_%282022-06-03%29_29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/UEFA_Euro_2023_Qualifiers_Austria_vs._Finland_%282022-06-03%29_29.jpg/960px-UEFA_Euro_2023_Qualifiers_Austria_vs._Finland_%282022-06-03%29_29.jpg",
+        "width": 2199,
+        "height": 3282,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/patrick-wimmer.jpg"
+      }
+    },
+    {
+      "slug": "alexander-prass",
+      "display_name": "Alexander Prass",
+      "shirt_no": 22,
+      "position_code": "DF",
+      "dob": "2001-05-26",
+      "age": 25,
+      "caps": 18,
+      "goals": 0,
+      "club_from_squad_table": "TSG Hoffenheim",
+      "wikipedia_title": "Alexander Prass",
+      "date_of_birth": "2001-05-26",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "TSG Hoffenheim",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q62006510",
+      "qid": "Q62006510",
+      "name": "Alexander Prass",
+      "description": "Austrian association football player",
+      "place_of_birth_qid": "Q693541",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 1.8,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q1387293",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q1387293",
+      "image_filename": "FC Liefering gegen FC Juniors OÖ. (19. April 2019) 34.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Prass",
+      "transfermarkt_id": "434116",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Hellmonsödt",
+      "wikidata_current_club": "FC Liefering",
+      "wikidata_current_club_qid": "Q1387293",
+      "photo": {
+        "filename": "FC Liefering gegen FC Juniors OÖ. (19. April 2019) 34.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/FC_Liefering_gegen_FC_Juniors_O%C3%96._%2819._April_2019%29_34.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/FC_Liefering_gegen_FC_Juniors_O%C3%96._%2819._April_2019%29_34.jpg/960px-FC_Liefering_gegen_FC_Juniors_O%C3%96._%2819._April_2019%29_34.jpg",
+        "width": 1560,
+        "height": 1917,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alexander-prass.jpg"
+      }
+    },
+    {
+      "slug": "marco-friedl",
+      "display_name": "Marco Friedl",
+      "shirt_no": 23,
+      "position_code": "DF",
+      "dob": "1998-03-16",
+      "age": 28,
+      "caps": 10,
+      "goals": 0,
+      "club_from_squad_table": "Werder Bremen",
+      "wikipedia_title": "Marco Friedl",
+      "date_of_birth": "1998-03-16",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Werder Bremen",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q28692516",
+      "qid": "Q28692516",
+      "name": "Marco Friedl",
+      "description": "Austrian footballer",
+      "place_of_birth_qid": "Q263647",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 1.87,
+      "weight_kg": 71.0,
+      "position_qids": [
+        "Q268258"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15789",
+          "start": "2017-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2017-00-00",
+          "end": "2020-00-00"
+        },
+        {
+          "team_qid": "Q994701",
+          "start": "2015-00-00",
+          "end": "2017-00-00"
+        },
+        {
+          "team_qid": "Q51976",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q4107588",
+          "start": "2018-00-00",
+          "end": "2019-00-00"
+        },
+        {
+          "team_qid": "Q51976",
+          "start": "2019-00-00",
+          "end": null
+        },
+        {
+          "team_qid": "Q163534",
+          "start": "2020-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q51976",
+      "image_filename": "Austria national under-21 football team - Teamcamp June 2017 (053).jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marco_Friedl",
+      "transfermarkt_id": "156990",
+      "fifa_player_id": "201625217",
+      "positions": [
+        "centre-back"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Kirchbichl",
+      "wikidata_current_club": "SV Werder Bremen",
+      "wikidata_current_club_qid": "Q51976",
+      "photo": {
+        "filename": "Austria national under-21 football team - Teamcamp June 2017 (053).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28053%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28053%29.jpg/960px-Austria_national_under-21_football_team_-_Teamcamp_June_2017_%28053%29.jpg",
+        "width": 2000,
+        "height": 3000,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Steindy\" title=\"User:Steindy\">Steindy</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Steindy\" title=\"User talk:Steindy\"><span class=\"signature-talk\">talk</span></a>) 10:36, 30 June 2017 (UTC)",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/marco-friedl.jpg"
+      }
+    },
+    {
+      "slug": "paul-wanner",
+      "display_name": "Paul Wanner",
+      "shirt_no": 24,
+      "position_code": "MF",
+      "dob": "2005-12-23",
+      "age": 20,
+      "caps": 2,
+      "goals": 0,
+      "club_from_squad_table": "PSV Eindhoven",
+      "wikipedia_title": "Paul Wanner",
+      "date_of_birth": "2005-12-23",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "PSV Eindhoven",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q110463620",
+      "qid": "Q110463620",
+      "name": "Paul Wanner",
+      "description": "Austrian association football player (born 2005)",
+      "place_of_birth_qid": "Q171219",
+      "citizenship_qids": [
+        "Q40",
+        "Q183"
+      ],
+      "height_cm": 1.85,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q15789",
+          "start": "2018-00-00",
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q15789",
+      "image_filename": "Paul wanner-1772636856 (cropped).JPG",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Wanner",
+      "transfermarkt_id": "900909",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Austria",
+        "Germany"
+      ],
+      "place_of_birth": "Dornbirn",
+      "wikidata_current_club": "FC Bayern Munich",
+      "wikidata_current_club_qid": "Q15789",
+      "photo": {
+        "filename": "Paul wanner-1772636856 (cropped).JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Paul_wanner-1772636856_%28cropped%29.JPG",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Paul_wanner-1772636856_%28cropped%29.JPG/960px-Paul_wanner-1772636856_%28cropped%29.JPG",
+        "width": 3244,
+        "height": 4737,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Hans Reefman",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/paul-wanner.JPG"
+      }
+    },
+    {
+      "slug": "michael-svoboda",
+      "display_name": "Michael Svoboda",
+      "shirt_no": 25,
+      "position_code": "DF",
+      "dob": "1998-10-15",
+      "age": 27,
+      "caps": 4,
+      "goals": 0,
+      "club_from_squad_table": "Venezia",
+      "wikipedia_title": "Michael Svoboda",
+      "date_of_birth": "1998-10-15",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Venezia",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q55813157",
+      "qid": "Q55813157",
+      "name": "Michael Svoboda",
+      "description": "Austrian association football player (1998-)",
+      "place_of_birth_qid": "Q1741",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 195.0,
+      "position_qids": [
+        "Q336286"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q873577",
+          "start": null,
+          "end": null
+        }
+      ],
+      "current_club_qid": "Q873577",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Svoboda",
+      "transfermarkt_id": "438961",
+      "positions": [
+        "defender"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Vienna",
+      "wikidata_current_club": "SV Schwechat",
+      "wikidata_current_club_qid": "Q873577",
+      "image_filename": "FC_RB_Salzburg_gegen_WSG_Swarowski_Tirol_(7._Dezember_2019)_62_(Michael_Svoboda).jpg",
+      "photo": {
+        "filename": "FC_RB_Salzburg_gegen_WSG_Swarowski_Tirol_(7._Dezember_2019)_62_(Michael_Svoboda).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/FC_RB_Salzburg_gegen_WSG_Swarowski_Tirol_%287._Dezember_2019%29_62_%28Michael_Svoboda%29.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FC_RB_Salzburg_gegen_WSG_Swarowski_Tirol_%287._Dezember_2019%29_62_%28Michael_Svoboda%29.jpg/960px-FC_RB_Salzburg_gegen_WSG_Swarowski_Tirol_%287._Dezember_2019%29_62_%28Michael_Svoboda%29.jpg",
+        "width": 1063,
+        "height": 1061,
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Werner100359\" title=\"User:Werner100359\">Werner100359</a>",
+        "source": "wikipedia-pageimage",
+        "local_path": "data/photos/michael-svoboda.jpg"
+      }
+    },
+    {
+      "slug": "alessandro-schöpf",
+      "display_name": "Alessandro Schöpf",
+      "shirt_no": 26,
+      "position_code": "MF",
+      "dob": "1994-02-07",
+      "age": 32,
+      "caps": 35,
+      "goals": 6,
+      "club_from_squad_table": "Wolfsberger AC",
+      "wikipedia_title": "Alessandro Schöpf",
+      "date_of_birth": "1994-02-07",
+      "date_of_birth_source": "wikipedia-squad-table",
+      "current_club": "Wolfsberger AC",
+      "current_club_source": "wikipedia-squad-table",
+      "wikidata_qid": "Q16528455",
+      "qid": "Q16528455",
+      "name": "Alessandro Schöpf",
+      "description": "Austrian footballer (born 1994)",
+      "place_of_birth_qid": "Q681894",
+      "citizenship_qids": [
+        "Q40"
+      ],
+      "height_cm": 178.0,
+      "weight_kg": 75.0,
+      "position_qids": [
+        "Q193592"
+      ],
+      "teams": [
+        {
+          "team_qid": "Q32494",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q994701",
+          "start": "2012-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q15786",
+          "start": "2014-01-01",
+          "end": "2016-01-01"
+        },
+        {
+          "team_qid": "Q303033",
+          "start": "2013-01-01",
+          "end": "2015-01-01"
+        },
+        {
+          "team_qid": "Q163534",
+          "start": "2016-01-01",
+          "end": null
+        },
+        {
+          "team_qid": "Q302977",
+          "start": "2012-01-01",
+          "end": "2013-01-01"
+        },
+        {
+          "team_qid": "Q15789",
+          "start": "2014-01-01",
+          "end": "2014-01-01"
+        },
+        {
+          "team_qid": "Q302954",
+          "start": "2011-01-01",
+          "end": "2011-01-01"
+        }
+      ],
+      "current_club_qid": "Q32494",
+      "image_filename": "20140905 U21 AUT BIH AT08 1103.jpg",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alessandro_Sch%C3%B6pf",
+      "transfermarkt_id": "118397",
+      "fifa_player_id": "375600",
+      "positions": [
+        "midfielder"
+      ],
+      "citizenship": [
+        "Austria"
+      ],
+      "place_of_birth": "Umhausen",
+      "wikidata_current_club": "Schalke 04",
+      "wikidata_current_club_qid": "Q32494",
+      "photo": {
+        "filename": "20140905 U21 AUT BIH AT08 1103.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/20140905_U21_AUT_BIH_AT08_1103.jpg",
+        "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/20140905_U21_AUT_BIH_AT08_1103.jpg",
+        "width": 812,
+        "height": 1216,
+        "license": "CC BY-SA 3.0 at",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+        "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Ailura\" title=\"User:Ailura\">Ailura</a>",
+        "source": "wikidata-p18",
+        "local_path": "data/photos/alessandro-schöpf.jpg"
+      }
+    }
+  ]
+}

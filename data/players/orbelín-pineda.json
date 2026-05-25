@@ -1,0 +1,96 @@
+{
+  "slug": "orbelín-pineda",
+  "display_name": "Orbelín Pineda",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1996-03-24",
+  "age": 30,
+  "caps": 90,
+  "goals": 12,
+  "club_from_squad_table": "AEK Athens",
+  "wikipedia_title": "Orbelín Pineda",
+  "wikidata_qid": "Q18224489",
+  "qid": "Q18224489",
+  "name": "Orbelín Pineda",
+  "description": "Mexican association football player",
+  "date_of_birth": "1996-03-24",
+  "place_of_birth_qid": "Q2448109",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 168.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q503321",
+      "start": "2016-01-01",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q606210",
+      "start": "2014-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q164334",
+      "start": "2015-01-01",
+      "end": "2015-01-01"
+    },
+    {
+      "team_qid": "Q164089",
+      "start": "2016-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q845859",
+      "start": "2019-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q8749",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q201584",
+      "start": "2022-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q201584",
+      "start": "2023-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q201584",
+  "image_filename": "Orbelín Pineda.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Orbel%C3%ADn_Pineda",
+  "transfermarkt_id": "334042",
+  "current_club": "AEK Athens",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Coyuca de Catalán Municipality",
+  "wikidata_current_club": "AEK Athens F.C.",
+  "wikidata_current_club_qid": "Q201584",
+  "photo": {
+    "filename": "Orbelín Pineda.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Orbel%C3%ADn_Pineda.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Orbel%C3%ADn_Pineda.png",
+    "width": 503,
+    "height": 629,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/orbelín-pineda.png"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

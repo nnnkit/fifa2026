@@ -1,0 +1,54 @@
+{
+  "slug": "maghnes-akliouche",
+  "display_name": "Maghnes Akliouche",
+  "shirt_no": 25,
+  "position_code": "FW",
+  "dob": "2002-02-25",
+  "age": 24,
+  "caps": 7,
+  "goals": 1,
+  "club_from_squad_table": "Monaco",
+  "wikipedia_title": "Maghnes Akliouche",
+  "date_of_birth": "2002-02-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Monaco",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q108910786",
+  "qid": "Q108910786",
+  "name": "Maghnes Akliouche",
+  "description": "French footballer (born 2002)",
+  "place_of_birth_qid": "Q242497",
+  "citizenship_qids": [
+    "Q142",
+    "Q262"
+  ],
+  "height_cm": 1.83,
+  "position_qids": [
+    "Q193592"
+  ],
+  "image_filename": "Akliouche2 asse asm 2425.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Maghnes_Akliouche",
+  "transfermarkt_id": "745200",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "France",
+    "Algeria"
+  ],
+  "place_of_birth": "Tremblay-en-France",
+  "photo": {
+    "filename": "Akliouche2 asse asm 2425.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Akliouche2_asse_asm_2425.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Akliouche2_asse_asm_2425.png",
+    "width": 591,
+    "height": 888,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/maghnes-akliouche.png"
+  },
+  "team_slug": "france",
+  "team_country": "France"
+}

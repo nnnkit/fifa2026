@@ -1,0 +1,100 @@
+{
+  "slug": "arthur-theate",
+  "display_name": "Arthur Theate",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-05-25",
+  "age": 26,
+  "caps": 32,
+  "goals": 1,
+  "club_from_squad_table": "Eintracht Frankfurt",
+  "wikipedia_title": "Arthur Theate",
+  "date_of_birth": "2000-05-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Eintracht Frankfurt",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q97724521",
+  "qid": "Q97724521",
+  "name": "Arthur Theate",
+  "description": "Belgian footballer (born 2000)",
+  "place_of_birth_qid": "Q3992",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 1.86,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q370206",
+      "start": "2020-07-13",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q1893",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q19509",
+      "start": "2022-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q38245",
+      "start": "2024-00-00",
+      "end": "2025-00-00"
+    },
+    {
+      "team_qid": "Q38245",
+      "start": "2025-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q15224541",
+      "start": "2017-00-00",
+      "end": "2018-00-00"
+    },
+    {
+      "team_qid": "Q3589896",
+      "start": "2018-00-00",
+      "end": "2019-00-00"
+    },
+    {
+      "team_qid": "Q815515",
+      "start": "2021-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q166776",
+      "start": "2021-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q38245",
+  "image_filename": "Arthur Theate USMNT v Belgium Mar 28 2026-22 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Theate",
+  "transfermarkt_id": "368891",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Li\u00e8ge",
+  "photo": {
+    "filename": "Arthur Theate USMNT v Belgium Mar 28 2026-22 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Arthur_Theate_USMNT_v_Belgium_Mar_28_2026-22_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Arthur_Theate_USMNT_v_Belgium_Mar_28_2026-22_%28cropped%29.jpg/960px-Arthur_Theate_USMNT_v_Belgium_Mar_28_2026-22_%28cropped%29.jpg",
+    "width": 2773,
+    "height": 3695,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/arthur-theate.jpg"
+  },
+  "team_slug": "belgium",
+  "team_country": "Belgium"
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "amirhossein-hosseinzadeh",
+  "display_name": "Amirhossein Hosseinzadeh",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2000-10-30",
+  "age": 25,
+  "caps": 16,
+  "goals": 5,
+  "club_from_squad_table": "Tractor",
+  "wikipedia_title": "Amirhossein Hosseinzadeh",
+  "date_of_birth": "2000-10-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Tractor",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q66735853",
+  "qid": "Q66735853",
+  "name": "Amir Hossein Hosseinzadeh",
+  "description": "Iranian association football player",
+  "place_of_birth_qid": "Q3616",
+  "citizenship_qids": [
+    "Q31"
+  ],
+  "height_cm": 178.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q455971",
+      "start": "2021-00-00",
+      "end": "2022-00-00"
+    },
+    {
+      "team_qid": "Q782983",
+      "start": "2019-00-00",
+      "end": "2021-00-00"
+    },
+    {
+      "team_qid": "Q19585",
+      "start": "2022-00-00",
+      "end": "2023-07-24"
+    },
+    {
+      "team_qid": "Q184602",
+      "start": "2022-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q32358",
+      "start": "2023-07-25",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q32358",
+  "image_filename": "Esteghlal FC in training, 29 September 2021 - 09.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amirhossein_Hosseinzadeh",
+  "transfermarkt_id": "542380",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Belgium"
+  ],
+  "place_of_birth": "Tehran",
+  "wikidata_current_club": "Tractor F.C",
+  "wikidata_current_club_qid": "Q32358",
+  "photo": {
+    "filename": "Esteghlal FC in training, 29 September 2021 - 09.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Esteghlal_FC_in_training%2C_29_September_2021_-_09.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Esteghlal_FC_in_training%2C_29_September_2021_-_09.jpg",
+    "width": 666,
+    "height": 863,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "mojnews",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/amirhossein-hosseinzadeh.jpg"
+  },
+  "team_slug": "iran",
+  "team_country": "Iran"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "israel-reyes",
+  "display_name": "Israel Reyes",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "2000-05-23",
+  "age": 26,
+  "caps": 32,
+  "goals": 2,
+  "club_from_squad_table": "América",
+  "wikipedia_title": "Israel Reyes",
+  "wikidata_qid": "Q107739233",
+  "qid": "Q107739233",
+  "name": "Israel Reyes",
+  "description": "Mexican association football player",
+  "date_of_birth": "2000-05-23",
+  "place_of_birth_qid": "Q2589446",
+  "citizenship_qids": [
+    "Q96"
+  ],
+  "height_cm": 1.79,
+  "position_qids": [
+    "Q280658"
+  ],
+  "image_filename": "Israel Reyes 2.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Israel_Reyes",
+  "transfermarkt_id": "687558",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Mexico"
+  ],
+  "place_of_birth": "Autlán de Navarro Municipality",
+  "current_club": "América",
+  "current_club_source": "wikipedia-squad-table",
+  "photo": {
+    "filename": "Israel Reyes 2.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Israel_Reyes_2.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Israel_Reyes_2.png",
+    "width": 332,
+    "height": 415,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@miseleccionmx\">Selección Nacional de México</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/israel-reyes.png"
+  },
+  "team_slug": "mexico",
+  "team_country": "Mexico"
+}

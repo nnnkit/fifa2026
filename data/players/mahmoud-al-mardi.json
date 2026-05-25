@@ -1,0 +1,126 @@
+{
+  "slug": "mahmoud-al-mardi",
+  "display_name": "Mahmoud Al-Mardi",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "1993-10-06",
+  "age": 32,
+  "caps": 87,
+  "goals": 9,
+  "club_from_squad_table": "Al-Hussein",
+  "wikipedia_title": "Mahmoud Al-Mardi",
+  "date_of_birth": "1993-10-06",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Hussein",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q21621941",
+  "qid": "Q21621941",
+  "name": "Mahmoud Al-Mardi",
+  "description": "Jordanian footballer",
+  "place_of_birth_qid": "Q180522",
+  "citizenship_qids": [
+    "Q810"
+  ],
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q275940",
+      "start": "2015-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q11144859",
+      "start": "2014-01-01",
+      "end": "2016-00-00"
+    },
+    {
+      "team_qid": "Q16838837",
+      "start": "2013-07-00",
+      "end": "2015-01-00"
+    },
+    {
+      "team_qid": "Q16826762",
+      "start": "2014-01-00",
+      "end": "2014-05-00"
+    },
+    {
+      "team_qid": "Q2829200",
+      "start": "2015-01-00",
+      "end": "2017-09-00"
+    },
+    {
+      "team_qid": "Q425270",
+      "start": "2017-09-00",
+      "end": "2017-12-00"
+    },
+    {
+      "team_qid": "Q285702",
+      "start": "2017-12-00",
+      "end": "2018-07-00"
+    },
+    {
+      "team_qid": "Q4702627",
+      "start": "2018-08-00",
+      "end": "2021-01-00"
+    },
+    {
+      "team_qid": "Q1055896",
+      "start": "2021-01-00",
+      "end": "2021-04-00"
+    },
+    {
+      "team_qid": "Q56064018",
+      "start": "2021-04-00",
+      "end": "2021-08-00"
+    },
+    {
+      "team_qid": "Q152572",
+      "start": "2021-08-00",
+      "end": "2022-06-00"
+    },
+    {
+      "team_qid": "Q1730906",
+      "start": "2022-06-00",
+      "end": "2023-01-00"
+    },
+    {
+      "team_qid": "Q812732",
+      "start": "2023-02-00",
+      "end": "2023-05-00"
+    },
+    {
+      "team_qid": "Q2829355",
+      "start": "2023-05-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q2829355",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mahmoud_Al-Mardi",
+  "transfermarkt_id": "401086",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Jordan"
+  ],
+  "place_of_birth": "Aqaba",
+  "wikidata_current_club": "Al-Hussein SC",
+  "wikidata_current_club_qid": "Q2829355",
+  "image_filename": "Asian_Nations_Cup_-_Jordan_and_South_Korea_(67)_(cropped3).jpg",
+  "photo": {
+    "filename": "Asian_Nations_Cup_-_Jordan_and_South_Korea_(67)_(cropped3).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Asian_Nations_Cup_-_Jordan_and_South_Korea_%2867%29_%28cropped3%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Asian_Nations_Cup_-_Jordan_and_South_Korea_%2867%29_%28cropped3%29.jpg",
+    "width": 207,
+    "height": 453,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "M.Sadegh Nikgostar",
+    "source": "wikipedia-pageimage",
+    "local_path": "data/photos/mahmoud-al-mardi.jpg"
+  },
+  "team_slug": "jordan",
+  "team_country": "Jordan"
+}

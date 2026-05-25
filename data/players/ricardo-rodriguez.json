@@ -1,0 +1,119 @@
+{
+  "slug": "ricardo-rodriguez",
+  "display_name": "Ricardo Rodriguez",
+  "shirt_no": 13,
+  "position_code": "DF",
+  "dob": "1992-08-25",
+  "age": 33,
+  "caps": 136,
+  "goals": 9,
+  "club_from_squad_table": "Real Betis",
+  "wikipedia_title": "Ricardo Rodriguez (footballer)",
+  "date_of_birth": "1992-08-25",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Real Betis",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q666506",
+  "qid": "Q666506",
+  "name": "Ricardo Rodriguez",
+  "description": "Swiss association football player (born 1992)",
+  "place_of_birth_qid": "Q72",
+  "citizenship_qids": [
+    "Q39"
+  ],
+  "height_cm": 180.0,
+  "weight_kg": 78.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q206692",
+      "start": "2010-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q101859",
+      "start": "2012-01-01",
+      "end": "2017-06-07"
+    },
+    {
+      "team_qid": "Q650273",
+      "start": "2009-01-01",
+      "end": "2009-01-01"
+    },
+    {
+      "team_qid": "Q650273",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q769632",
+      "start": "2012-01-01",
+      "end": "2012-01-01"
+    },
+    {
+      "team_qid": "Q19019176",
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "team_qid": "Q4140019",
+      "start": "2010-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "team_qid": "Q1543",
+      "start": "2017-06-08",
+      "end": "2020-08-00"
+    },
+    {
+      "team_qid": "Q11938",
+      "start": "2020-01-00",
+      "end": "2020-06-00"
+    },
+    {
+      "team_qid": "Q2768",
+      "start": "2020-08-00",
+      "end": "2024-07-00"
+    },
+    {
+      "team_qid": "Q165141",
+      "start": "2011-01-01",
+      "end": null
+    },
+    {
+      "team_qid": "Q8723",
+      "start": "2024-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q8723",
+  "image_filename": "Ricardo Rodríguez 2018.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ricardo_Rodriguez_(footballer)",
+  "transfermarkt_id": "86784",
+  "fifa_player_id": "313559",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Switzerland"
+  ],
+  "place_of_birth": "Zurich",
+  "wikidata_current_club": "Real Betis Balompié",
+  "wikidata_current_club_qid": "Q8723",
+  "photo": {
+    "filename": "Ricardo Rodríguez 2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ricardo_Rodr%C3%ADguez_2018.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ricardo_Rodr%C3%ADguez_2018.jpg",
+    "width": 760,
+    "height": 1000,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Антон Зайцев",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/ricardo-rodriguez.jpg"
+  },
+  "team_slug": "switzerland",
+  "team_country": "Switzerland"
+}

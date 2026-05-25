@@ -1,0 +1,69 @@
+{
+  "slug": "noussair-mazraoui",
+  "display_name": "Noussair Mazraoui",
+  "shirt_no": 3,
+  "position_code": "DF",
+  "dob": "1997-11-14",
+  "age": 28,
+  "caps": 43,
+  "goals": 2,
+  "club_from_squad_table": "Manchester United",
+  "wikipedia_title": "Noussair Mazraoui",
+  "date_of_birth": "1997-11-14",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26266244",
+  "qid": "Q26266244",
+  "name": "Noussair Mazraoui",
+  "description": "Dutch-Moroccan associatiion footballer",
+  "place_of_birth_qid": "Q1000817",
+  "citizenship_qids": [
+    "Q29999",
+    "Q1028"
+  ],
+  "height_cm": 1.83,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q81888",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q207337",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q81888",
+  "image_filename": "Noussair Mazraoui.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Noussair_Mazraoui",
+  "transfermarkt_id": "340456",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Kingdom of the Netherlands",
+    "Morocco"
+  ],
+  "place_of_birth": "Leiderdorp",
+  "wikidata_current_club": "AFC Ajax",
+  "wikidata_current_club_qid": "Q81888",
+  "photo": {
+    "filename": "Noussair Mazraoui.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Noussair_Mazraoui.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Noussair_Mazraoui.jpg",
+    "width": 340,
+    "height": 527,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "\u041e\u041b\u0415\u0413 \u0411\u0410\u0422\u0420\u0410\u041a",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/noussair-mazraoui.jpg"
+  },
+  "team_slug": "morocco",
+  "team_country": "Morocco"
+}

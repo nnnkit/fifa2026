@@ -1,0 +1,53 @@
+{
+  "slug": "anthony-valencia",
+  "display_name": "Anthony Valencia",
+  "shirt_no": 8,
+  "position_code": "FW",
+  "dob": "2003-07-21",
+  "age": 22,
+  "caps": 1,
+  "goals": 0,
+  "club_from_squad_table": "Antwerp",
+  "wikipedia_title": "Anthony Valencia",
+  "date_of_birth": "2003-07-21",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Antwerp",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q101247266",
+  "qid": "Q101247266",
+  "name": "Anthony Valencia",
+  "description": "Ecuadorian association football player",
+  "place_of_birth_qid": "Q43509",
+  "citizenship_qids": [
+    "Q736"
+  ],
+  "height_cm": 174.0,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q732002",
+      "start": "2022-07-01",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q732002",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anthony_Valencia",
+  "transfermarkt_id": "974374",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Ecuador"
+  ],
+  "place_of_birth": "Guayaquil",
+  "wikidata_current_club": "Royal Antwerp F.C.",
+  "wikidata_current_club_qid": "Q732002",
+  "team_slug": "ecuador",
+  "team_country": "Ecuador",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  }
+}

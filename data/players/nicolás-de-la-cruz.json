@@ -1,0 +1,74 @@
+{
+  "slug": "nicol\u00e1s-de-la-cruz",
+  "display_name": "Nicol\u00e1s de la Cruz",
+  "shirt_no": 7,
+  "position_code": "MF",
+  "dob": "1997-06-01",
+  "age": 28,
+  "caps": 34,
+  "goals": 5,
+  "club_from_squad_table": "Flamengo",
+  "wikipedia_title": "Nicol\u00e1s de la Cruz",
+  "date_of_birth": "1997-06-01",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Flamengo",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q20994037",
+  "qid": "Q20994037",
+  "name": "Nicol\u00e1s De La Cruz",
+  "description": "Uruguayan association football player",
+  "place_of_birth_qid": "Q1335",
+  "citizenship_qids": [
+    "Q77"
+  ],
+  "height_cm": 167.0,
+  "weight_kg": 65.0,
+  "position_qids": [
+    "Q193592"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q15799",
+      "start": "2017-00-00",
+      "end": "2023-00-00"
+    },
+    {
+      "team_qid": "Q3589858",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q17479",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q17479",
+  "image_filename": "Nicol\u00e1s de la Cruz.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_de_la_Cruz",
+  "transfermarkt_id": "397458",
+  "fifa_player_id": "402898",
+  "positions": [
+    "midfielder"
+  ],
+  "citizenship": [
+    "Uruguay"
+  ],
+  "place_of_birth": "Montevideo",
+  "wikidata_current_club": "Clube de Regatas do Flamengo",
+  "wikidata_current_club_qid": "Q17479",
+  "photo": {
+    "filename": "Nicol\u00e1s de la Cruz.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Nicol%C3%A1s_de_la_Cruz.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Nicol%C3%A1s_de_la_Cruz.jpg",
+    "width": 798,
+    "height": 1866,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/agenciaandes_ec/\">Agencia de Noticias ANDES</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nicol\u00e1s-de-la-cruz.jpg"
+  },
+  "team_slug": "uruguay",
+  "team_country": "Uruguay"
+}

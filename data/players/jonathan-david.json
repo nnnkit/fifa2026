@@ -1,0 +1,79 @@
+{
+  "slug": "jonathan-david",
+  "display_name": "Jonathan David",
+  "shirt_no": 7,
+  "position_code": "FW",
+  "dob": "2000-01-14",
+  "age": 26,
+  "caps": 75,
+  "goals": 39,
+  "club_from_squad_table": "Juventus",
+  "wikipedia_title": "Jonathan David",
+  "wikidata_qid": "Q56085180",
+  "qid": "Q56085180",
+  "name": "Jonathan David",
+  "description": "Canadian soccer player",
+  "date_of_birth": "2000-01-14",
+  "place_of_birth_qid": "Q18419",
+  "citizenship_qids": [
+    "Q16",
+    "Q30"
+  ],
+  "height_cm": 1.75,
+  "position_qids": [
+    "Q280658"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q18232",
+      "start": "2018-07-01",
+      "end": "2020-08-10"
+    },
+    {
+      "team_qid": "Q208635",
+      "start": "2018-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q19516",
+      "start": "2020-08-11",
+      "end": "2025-06-30"
+    },
+    {
+      "team_qid": "Q1422",
+      "start": "2025-07-04",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q1422",
+  "image_filename": "Jonathan David asse losc 2425 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jonathan_David",
+  "transfermarkt_id": "533738",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Juventus",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "forward"
+  ],
+  "citizenship": [
+    "Canada",
+    "United States"
+  ],
+  "place_of_birth": "Brooklyn",
+  "wikidata_current_club": "Juventus FC",
+  "wikidata_current_club_qid": "Q1422",
+  "photo": {
+    "filename": "Jonathan David asse losc 2425 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Jonathan_David_asse_losc_2425_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Jonathan_David_asse_losc_2425_%28cropped%29.jpg",
+    "width": 781,
+    "height": 952,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Pat%C3%A9_kroute\" title=\"User:Pat\u00e9 kroute\">Pat\u00e9 kroute</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/jonathan-david.jpg"
+  },
+  "team_slug": "canada",
+  "team_country": "Canada"
+}

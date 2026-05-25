@@ -1,0 +1,60 @@
+{
+  "slug": "relebohile-mofokeng",
+  "display_name": "Relebohile Mofokeng",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2004-10-23",
+  "age": 21,
+  "caps": 12,
+  "goals": 0,
+  "club_from_squad_table": "Orlando Pirates",
+  "wikipedia_title": "Relebohile Mofokeng",
+  "wikidata_qid": "Q119413564",
+  "qid": "Q119413564",
+  "name": "Relebohile Mofokeng",
+  "description": "South African soccer player",
+  "date_of_birth": "2004-10-23",
+  "place_of_birth_qid": "Q1422014",
+  "citizenship_qids": [
+    "Q258"
+  ],
+  "height_cm": 1.61,
+  "position_qids": [
+    "Q193592",
+    "Q11681748"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q607939",
+      "start": "2023-00-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q170327",
+      "start": "2024-00-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q607939",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Relebohile_Mofokeng",
+  "transfermarkt_id": "1125037",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Orlando Pirates",
+  "current_club_source": "wikipedia-squad-table",
+  "positions": [
+    "midfielder",
+    "winger"
+  ],
+  "citizenship": [
+    "South Africa"
+  ],
+  "place_of_birth": "Sharpeville",
+  "wikidata_current_club": "Orlando Pirates F.C.",
+  "wikidata_current_club_qid": "Q607939",
+  "photo": {
+    "source": "wikimedia-reviewed-none",
+    "unavailable_reason": "No clean Wikimedia Commons photo, Wikidata P18 image, or Wikipedia pageimage found by verifier as of 2026-05-24."
+  },
+  "team_slug": "south-africa",
+  "team_country": "South Africa"
+}

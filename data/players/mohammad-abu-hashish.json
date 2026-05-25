@@ -1,0 +1,102 @@
+{
+  "slug": "mohammad-abu-hashish",
+  "display_name": "Mohammad Abu Hashish",
+  "shirt_no": null,
+  "position_code": "MF",
+  "dob": "1995-05-09",
+  "age": 31,
+  "caps": 54,
+  "goals": 1,
+  "club_from_squad_table": "Al-Karma",
+  "wikipedia_title": "Mohammad Abu Hashish",
+  "date_of_birth": "1995-05-09",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Al-Karma",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q124247293",
+  "qid": "Q124247293",
+  "name": "Mohammad Abu Hashish",
+  "description": "Jordanian professional footballer",
+  "place_of_birth_qid": "Q810",
+  "citizenship_qids": [
+    "Q810"
+  ],
+  "height_cm": 1.77,
+  "position_qids": [
+    "Q336286"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q275940",
+      "start": "2021-09-00",
+      "end": null
+    },
+    {
+      "team_qid": "Q287510",
+      "start": "2019-00-00",
+      "end": "2020-01-00"
+    },
+    {
+      "team_qid": "Q56064018",
+      "start": "2020-01-00",
+      "end": "2022-01-00"
+    },
+    {
+      "team_qid": "Q285649",
+      "start": "2022-01-00",
+      "end": "2023-01-00"
+    },
+    {
+      "team_qid": "Q284668",
+      "start": "2023-01-00",
+      "end": "2023-07-00"
+    },
+    {
+      "team_qid": "Q812779",
+      "start": "2023-07-00",
+      "end": "2024-02-00"
+    },
+    {
+      "team_qid": "Q16845459",
+      "start": "2024-02-00",
+      "end": "2024-07-00"
+    },
+    {
+      "team_qid": "Q382534",
+      "start": "2024-07-00",
+      "end": "2025-08-00"
+    },
+    {
+      "team_qid": "Q118900487",
+      "start": "2025-08-00",
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q118900487",
+  "image_filename": "Mohammad Abu Hashish.png",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammad_Abu_Hashish",
+  "transfermarkt_id": "895249",
+  "positions": [
+    "defender"
+  ],
+  "citizenship": [
+    "Jordan"
+  ],
+  "place_of_birth": "Jordan",
+  "wikidata_current_club": "Al-Karma SC",
+  "wikidata_current_club_qid": "Q118900487",
+  "photo": {
+    "filename": "Mohammad Abu Hashish.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Mohammad_Abu_Hashish.png",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Mohammad_Abu_Hashish.png",
+    "width": 720,
+    "height": 856,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "M.Sadegh Nikgostar",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/mohammad-abu-hashish.png"
+  },
+  "team_slug": "jordan",
+  "team_country": "Jordan"
+}

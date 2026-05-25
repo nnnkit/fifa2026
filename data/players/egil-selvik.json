@@ -1,0 +1,62 @@
+{
+  "slug": "egil-selvik",
+  "display_name": "Egil Selvik",
+  "shirt_no": 13,
+  "position_code": "GK",
+  "dob": "1997-07-30",
+  "age": 28,
+  "caps": 6,
+  "goals": 0,
+  "club_from_squad_table": "Watford",
+  "wikipedia_title": "Egil Selvik",
+  "date_of_birth": "1997-07-30",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Watford",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q62617279",
+  "qid": "Q62617279",
+  "name": "Egil Selvik",
+  "description": "Norwegian association football player",
+  "place_of_birth_qid": "Q27587",
+  "citizenship_qids": [
+    "Q20"
+  ],
+  "height_cm": 187.0,
+  "position_qids": [
+    "Q201330"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q215302",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q215302",
+  "image_filename": "Norway Italy - June 2025 A 07 (cropped).jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Egil_Selvik",
+  "transfermarkt_id": "380744",
+  "positions": [
+    "goalkeeper"
+  ],
+  "citizenship": [
+    "Norway"
+  ],
+  "place_of_birth": "Sandnes Municipality",
+  "wikidata_current_club": "Odds BK",
+  "wikidata_current_club_qid": "Q215302",
+  "photo": {
+    "filename": "Norway Italy - June 2025 A 07 (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Norway_Italy_-_June_2025_A_07_%28cropped%29.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Norway_Italy_-_June_2025_A_07_%28cropped%29.jpg/960px-Norway_Italy_-_June_2025_A_07_%28cropped%29.jpg",
+    "width": 1760,
+    "height": 2201,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MichaelEmilio&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MichaelEmilio (page does not exist)\">MichaelEmilio</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/egil-selvik.jpg"
+  },
+  "team_slug": "norway",
+  "team_country": "Norway"
+}

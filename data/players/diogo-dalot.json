@@ -1,0 +1,74 @@
+{
+  "slug": "diogo-dalot",
+  "display_name": "Diogo Dalot",
+  "shirt_no": null,
+  "position_code": "DF",
+  "dob": "1999-03-18",
+  "age": 27,
+  "caps": 33,
+  "goals": 3,
+  "club_from_squad_table": "Manchester United",
+  "wikipedia_title": "Diogo Dalot",
+  "date_of_birth": "1999-03-18",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Manchester United",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q26255506",
+  "qid": "Q26255506",
+  "name": "Diogo Dalot",
+  "description": "Portuguese footballer (born 1999)",
+  "place_of_birth_qid": "Q83247",
+  "citizenship_qids": [
+    "Q45"
+  ],
+  "height_cm": 185.0,
+  "weight_kg": 75.0,
+  "position_qids": [
+    "Q90173132"
+  ],
+  "teams": [
+    {
+      "team_qid": "Q128446",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q18656",
+      "start": null,
+      "end": null
+    },
+    {
+      "team_qid": "Q1543",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q128446",
+  "image_filename": "Diogo Dalot USMNT v Portugal Mar 31 2026-12.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Diogo_Dalot",
+  "transfermarkt_id": "357147",
+  "fifa_player_id": "403002",
+  "positions": [
+    "full-back"
+  ],
+  "citizenship": [
+    "Portugal"
+  ],
+  "place_of_birth": "Braga",
+  "wikidata_current_club": "FC Porto",
+  "wikidata_current_club_qid": "Q128446",
+  "photo": {
+    "filename": "Diogo Dalot USMNT v Portugal Mar 31 2026-12.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Diogo_Dalot_USMNT_v_Portugal_Mar_31_2026-12.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Diogo_Dalot_USMNT_v_Portugal_Mar_31_2026-12.jpg/960px-Diogo_Dalot_USMNT_v_Portugal_Mar_31_2026-12.jpg",
+    "width": 3333,
+    "height": 5000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "<a href=\"//commons.wikimedia.org/wiki/User:Berlination\" title=\"User:Berlination\">Bryan Berlin</a>",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/diogo-dalot.jpg"
+  },
+  "team_slug": "portugal",
+  "team_country": "Portugal"
+}

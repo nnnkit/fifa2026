@@ -1,0 +1,57 @@
+{
+  "slug": "nicolas-jackson",
+  "display_name": "Nicolas Jackson",
+  "shirt_no": null,
+  "position_code": "FW",
+  "dob": "2001-06-20",
+  "age": 24,
+  "caps": 31,
+  "goals": 8,
+  "club_from_squad_table": "Bayern Munich",
+  "wikipedia_title": "Nicolas Jackson",
+  "date_of_birth": "2001-06-20",
+  "date_of_birth_source": "wikipedia-squad-table",
+  "current_club": "Bayern Munich",
+  "current_club_source": "wikipedia-squad-table",
+  "wikidata_qid": "Q100144350",
+  "qid": "Q100144350",
+  "name": "Nicolas Jackson",
+  "description": "Senegalese association football player",
+  "place_of_birth_qid": "Q1041",
+  "citizenship_qids": [
+    "Q1041"
+  ],
+  "height_cm": 1.87,
+  "weight_kg": 78.0,
+  "teams": [
+    {
+      "team_qid": "Q9616",
+      "start": null,
+      "end": null
+    }
+  ],
+  "current_club_qid": "Q9616",
+  "image_filename": "Nicolas Jackson 2025 FIFA Club World Cup Final.jpg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas_Jackson",
+  "transfermarkt_id": "776890",
+  "citizenship": [
+    "Senegal"
+  ],
+  "place_of_birth": "Senegal",
+  "wikidata_current_club": "Chelsea F.C.",
+  "wikidata_current_club_qid": "Q9616",
+  "photo": {
+    "filename": "Nicolas Jackson 2025 FIFA Club World Cup Final.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nicolas_Jackson_2025_FIFA_Club_World_Cup_Final.jpg",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nicolas_Jackson_2025_FIFA_Club_World_Cup_Final.jpg",
+    "width": 330,
+    "height": 489,
+    "license": "Public domain",
+    "license_url": null,
+    "attribution": "The White House",
+    "source": "wikidata-p18",
+    "local_path": "data/photos/nicolas-jackson.jpg"
+  },
+  "team_slug": "senegal",
+  "team_country": "Senegal"
+}
