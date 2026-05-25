@@ -4,3 +4,9 @@ __pycache__/
 *.pyc
 data/_codex-logs/
 research/group-dumps/_logs/
+node_modules/
+.astro/
+dist/
+.DS_Store
+.env
+.env.local
